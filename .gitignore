@@ -1,0 +1,12 @@
+.venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.complexipy_cache/
+.import_linter_cache/
+dist/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+.idea/
