@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "kind": "snapshot",
+  "period": "weekly",
+  "language": "all",
+  "sourceUrl": "https://github.com/trending?since=weekly",
+  "observedAt": "2026-09-26T18:32:10Z",
+  "status": "complete",
+  "issues": [],
+  "items": [
+    {
+      "rank": 1,
+      "fullName": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": null,
+      "programmingLanguage": "Python",
+      "stars": 37671,
+      "forks": 5442,
+      "starsInPeriod": 2623
+    },
+    {
+      "rank": 2,
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "programmingLanguage": "JavaScript",
+      "stars": 21950,
+      "forks": 1268,
+      "starsInPeriod": 9547
+    },
+    {
+      "rank": 3,
+      "fullName": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "programmingLanguage": "TypeScript",
+      "stars": 148183,
+      "forks": 24700,
+      "starsInPeriod": 2102
+    },
+    {
+      "rank": 4,
+      "fullName": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "programmingLanguage": "TypeScript",
+      "stars": 86747,
+      "forks": 15380,
+      "starsInPeriod": 2616
+    },
+    {
+      "rank": 5,
+      "fullName": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "programmingLanguage": "Python",
+      "stars": 31503,
+      "forks": 3449,
+      "starsInPeriod": 4869
+    },
+    {
+      "rank": 6,
+      "fullName": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "programmingLanguage": "Go",
+      "stars": 30294,
+      "forks": 4064,
+      "starsInPeriod": 3189
+    },
+    {
+      "rank": 7,
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "programmingLanguage": "JavaScript",
+      "stars": 267846,
+      "forks": 40012,
+      "starsInPeriod": 6037
+    },
+    {
+      "rank": 8,
+      "fullName": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "programmingLanguage": "TypeScript",
+      "stars": 78808,
+      "forks": 5155,
+      "starsInPeriod": 6537
+    },
+    {
+      "rank": 9,
+      "fullName": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "programmingLanguage": "Python",
+      "stars": 31909,
+      "forks": 3628,
+      "starsInPeriod": 1041
+    },
+    {
+      "rank": 10,
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "programmingLanguage": "Go",
+      "stars": 41560,
+      "forks": 2984,
+      "starsInPeriod": 5030
+    },
+    {
+      "rank": 11,
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "programmingLanguage": "Python",
+      "stars": 25671,
+      "forks": 3034,
+      "starsInPeriod": 889
+    },
+    {
+      "rank": 12,
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "programmingLanguage": "JavaScript",
+      "stars": 99234,
+      "forks": 10420,
+      "starsInPeriod": 2911
+    },
+    {
+      "rank": 13,
+      "fullName": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "programmingLanguage": "Python",
+      "stars": 103363,
+      "forks": 30548,
+      "starsInPeriod": 255
+    },
+    {
+      "rank": 14,
+      "fullName": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "programmingLanguage": "Python",
+      "stars": 50611,
+      "forks": 4630,
+      "starsInPeriod": 972
+    },
+    {
+      "rank": 15,
+      "fullName": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "programmingLanguage": "Rust",
+      "stars": 12625,
+      "forks": 1149,
+      "starsInPeriod": 769
+    },
+    {
+      "rank": 16,
+      "fullName": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "programmingLanguage": "Python",
+      "stars": 5081,
+      "forks": 601,
+      "starsInPeriod": 1149
+    },
+    {
+      "rank": 17,
+      "fullName": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "programmingLanguage": "Python",
+      "stars": 3471,
+      "forks": 284,
+      "starsInPeriod": 1687
+    },
+    {
+      "rank": 18,
+      "fullName": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "programmingLanguage": "TypeScript",
+      "stars": 19102,
+      "forks": 1625,
+      "starsInPeriod": 3928
+    }
+  ]
+}

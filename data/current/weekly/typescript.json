@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "kind": "snapshot",
+  "period": "weekly",
+  "language": "typescript",
+  "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+  "observedAt": "2026-09-26T18:33:00Z",
+  "status": "complete",
+  "issues": [],
+  "items": [
+    {
+      "rank": 1,
+      "fullName": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "programmingLanguage": "TypeScript",
+      "stars": 148183,
+      "forks": 24700,
+      "starsInPeriod": 2102
+    },
+    {
+      "rank": 2,
+      "fullName": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "programmingLanguage": "TypeScript",
+      "stars": 86749,
+      "forks": 15380,
+      "starsInPeriod": 2616
+    },
+    {
+      "rank": 3,
+      "fullName": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "programmingLanguage": "TypeScript",
+      "stars": 78808,
+      "forks": 5155,
+      "starsInPeriod": 6537
+    },
+    {
+      "rank": 4,
+      "fullName": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "programmingLanguage": "TypeScript",
+      "stars": 19102,
+      "forks": 1625,
+      "starsInPeriod": 3928
+    },
+    {
+      "rank": 5,
+      "fullName": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "programmingLanguage": "TypeScript",
+      "stars": 19298,
+      "forks": 2360,
+      "starsInPeriod": 3794
+    },
+    {
+      "rank": 6,
+      "fullName": "krillinai/OpenCreator",
+      "url": "https://github.com/krillinai/OpenCreator",
+      "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.",
+      "programmingLanguage": "TypeScript",
+      "stars": 12405,
+      "forks": 1277,
+      "starsInPeriod": 961
+    },
+    {
+      "rank": 7,
+      "fullName": "bendlang/bend",
+      "url": "https://github.com/bendlang/bend",
+      "description": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh",
+      "programmingLanguage": "TypeScript",
+      "stars": 22929,
+      "forks": 696,
+      "starsInPeriod": 1530
+    },
+    {
+      "rank": 8,
+      "fullName": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "programmingLanguage": "TypeScript",
+      "stars": 38502,
+      "forks": 3829,
+      "starsInPeriod": 1316
+    },
+    {
+      "rank": 9,
+      "fullName": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "programmingLanguage": "TypeScript",
+      "stars": 7348,
+      "forks": 526,
+      "starsInPeriod": 2115
+    },
+    {
+      "rank": 10,
+      "fullName": "FxEmbed/FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "programmingLanguage": "TypeScript",
+      "stars": 5472,
+      "forks": 258,
+      "starsInPeriod": 417
+    },
+    {
+      "rank": 11,
+      "fullName": "ahmedkhaleel2004/gitdiagram",
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "description": "Free, simple, fast interactive diagrams and videos for any GitHub repository",
+      "programmingLanguage": "TypeScript",
+      "stars": 17173,
+      "forks": 1306,
+      "starsInPeriod": 754
+    },
+    {
+      "rank": 12,
+      "fullName": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "programmingLanguage": "TypeScript",
+      "stars": 26447,
+      "forks": 4309,
+      "starsInPeriod": 412
+    },
+    {
+      "rank": 13,
+      "fullName": "atomicstrata/llm-wiki-compiler",
+      "url": "https://github.com/atomicstrata/llm-wiki-compiler",
+      "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.",
+      "programmingLanguage": "TypeScript",
+      "stars": 2130,
+      "forks": 224,
+      "starsInPeriod": 95
+    },
+    {
+      "rank": 14,
+      "fullName": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "programmingLanguage": "TypeScript",
+      "stars": 69384,
+      "forks": 7527,
+      "starsInPeriod": 676
+    },
+    {
+      "rank": 15,
+      "fullName": "vercel-labs/json-render",
+      "url": "https://github.com/vercel-labs/json-render",
+      "description": "The Generative UI framework",
+      "programmingLanguage": "TypeScript",
+      "stars": 18308,
+      "forks": 967,
+      "starsInPeriod": 2103
+    },
+    {
+      "rank": 16,
+      "fullName": "upscayl/upscayl",
+      "url": "https://github.com/upscayl/upscayl",
+      "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "programmingLanguage": "TypeScript",
+      "stars": 49921,
+      "forks": 2530,
+      "starsInPeriod": 593
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "kind": "snapshot",
+  "period": "weekly",
+  "language": "rust",
+  "sourceUrl": "https://github.com/trending/rust?since=weekly",
+  "observedAt": "2026-09-26T18:32:30Z",
+  "status": "complete",
+  "issues": [],
+  "items": [
+    {
+      "rank": 1,
+      "fullName": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "programmingLanguage": "Rust",
+      "stars": 12625,
+      "forks": 1149,
+      "starsInPeriod": 769
+    },
+    {
+      "rank": 2,
+      "fullName": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "programmingLanguage": "Rust",
+      "stars": 3948,
+      "forks": 482,
+      "starsInPeriod": 655
+    },
+    {
+      "rank": 3,
+      "fullName": "hydra-db/hydradb",
+      "url": "https://github.com/hydra-db/hydradb",
+      "description": "HydraDB - fast graph database on object storage",
+      "programmingLanguage": "Rust",
+      "stars": 7701,
+      "forks": 2985,
+      "starsInPeriod": 3563
+    },
+    {
+      "rank": 4,
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "programmingLanguage": "Rust",
+      "stars": 8450,
+      "forks": 570,
+      "starsInPeriod": 1316
+    },
+    {
+      "rank": 5,
+      "fullName": "yyjeqhc/webcodex",
+      "url": "https://github.com/yyjeqhc/webcodex",
+      "description": "Give cloud AI agents a real development environment on your own machines.",
+      "programmingLanguage": "Rust",
+      "stars": 1909,
+      "forks": 239,
+      "starsInPeriod": 608
+    },
+    {
+      "rank": 6,
+      "fullName": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "programmingLanguage": "Rust",
+      "stars": 33936,
+      "forks": 1525,
+      "starsInPeriod": 878
+    },
+    {
+      "rank": 7,
+      "fullName": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "programmingLanguage": "Rust",
+      "stars": 119204,
+      "forks": 16830,
+      "starsInPeriod": 308
+    },
+    {
+      "rank": 8,
+      "fullName": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "programmingLanguage": "Rust",
+      "stars": 8419,
+      "forks": 299,
+      "starsInPeriod": 425
+    },
+    {
+      "rank": 9,
+      "fullName": "clash-verge-rev/clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "programmingLanguage": "Rust",
+      "stars": 147561,
+      "forks": 10600,
+      "starsInPeriod": 2117
+    },
+    {
+      "rank": 10,
+      "fullName": "lbjlaq/Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "programmingLanguage": "Rust",
+      "stars": 31762,
+      "forks": 3424,
+      "starsInPeriod": 324
+    },
+    {
+      "rank": 11,
+      "fullName": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "programmingLanguage": "Rust",
+      "stars": 5404,
+      "forks": 183,
+      "starsInPeriod": 519
+    },
+    {
+      "rank": 12,
+      "fullName": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "programmingLanguage": "Rust",
+      "stars": 14837,
+      "forks": 929,
+      "starsInPeriod": 288
+    },
+    {
+      "rank": 13,
+      "fullName": "pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm",
+      "description": "Fast, disk space efficient package manager",
+      "programmingLanguage": "Rust",
+      "stars": 36656,
+      "forks": 1880,
+      "starsInPeriod": 104
+    },
+    {
+      "rank": 14,
+      "fullName": "trailofbits/coop",
+      "url": "https://github.com/trailofbits/coop",
+      "description": "Isolated VM environment for running Claude Code and Codex",
+      "programmingLanguage": "Rust",
+      "stars": 671,
+      "forks": 30,
+      "starsInPeriod": 419
+    },
+    {
+      "rank": 15,
+      "fullName": "Nasiko-Labs/nasiko",
+      "url": "https://github.com/Nasiko-Labs/nasiko",
+      "description": "Developer Control Plane for your AI Agents",
+      "programmingLanguage": "Rust",
+      "stars": 8924,
+      "forks": 1940,
+      "starsInPeriod": 2316
+    },
+    {
+      "rank": 16,
+      "fullName": "zeronsh/zeron",
+      "url": "https://github.com/zeronsh/zeron",
+      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
+      "programmingLanguage": "Rust",
+      "stars": 2240,
+      "forks": 217,
+      "starsInPeriod": 596
+    },
+    {
+      "rank": 17,
+      "fullName": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "programmingLanguage": "Rust",
+      "stars": 15942,
+      "forks": 680,
+      "starsInPeriod": 360
+    },
+    {
+      "rank": 18,
+      "fullName": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "programmingLanguage": "Rust",
+      "stars": 31577,
+      "forks": 3275,
+      "starsInPeriod": 438
+    },
+    {
+      "rank": 19,
+      "fullName": "run-llama/liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "programmingLanguage": "Rust",
+      "stars": 12653,
+      "forks": 862,
+      "starsInPeriod": 327
+    },
+    {
+      "rank": 20,
+      "fullName": "a2x/cs2-dumper",
+      "url": "https://github.com/a2x/cs2-dumper",
+      "description": "Counter-Strike: 2 Offset Dumper",
+      "programmingLanguage": "Rust",
+      "stars": 2375,
+      "forks": 355,
+      "starsInPeriod": 34
+    },
+    {
+      "rank": 21,
+      "fullName": "huggingface/tokenizers",
+      "url": "https://github.com/huggingface/tokenizers",
+      "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+      "programmingLanguage": "Rust",
+      "stars": 11119,
+      "forks": 1209,
+      "starsInPeriod": 73
+    }
+  ]
+}

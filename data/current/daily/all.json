@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "kind": "snapshot",
+  "period": "daily",
+  "language": "all",
+  "sourceUrl": "https://github.com/trending",
+  "observedAt": "2026-09-26T18:32:06Z",
+  "status": "complete",
+  "issues": [],
+  "items": [
+    {
+      "rank": 1,
+      "fullName": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "programmingLanguage": "TypeScript",
+      "stars": 86747,
+      "forks": 15380,
+      "starsInPeriod": 2589
+    },
+    {
+      "rank": 2,
+      "fullName": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "programmingLanguage": "Python",
+      "stars": 31503,
+      "forks": 3449,
+      "starsInPeriod": 2152
+    },
+    {
+      "rank": 3,
+      "fullName": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "programmingLanguage": "Python",
+      "stars": 4679,
+      "forks": 663,
+      "starsInPeriod": 354
+    },
+    {
+      "rank": 4,
+      "fullName": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "programmingLanguage": "TypeScript",
+      "stars": 19102,
+      "forks": 1625,
+      "starsInPeriod": 845
+    },
+    {
+      "rank": 5,
+      "fullName": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "programmingLanguage": "C++",
+      "stars": 200397,
+      "forks": 77565,
+      "starsInPeriod": 31
+    },
+    {
+      "rank": 6,
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "programmingLanguage": "Python",
+      "stars": 58199,
+      "forks": 10106,
+      "starsInPeriod": 828
+    },
+    {
+      "rank": 7,
+      "fullName": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "programmingLanguage": "Go",
+      "stars": 7947,
+      "forks": 590,
+      "starsInPeriod": 360
+    },
+    {
+      "rank": 8,
+      "fullName": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "programmingLanguage": "Rust",
+      "stars": 34783,
+      "forks": 4592,
+      "starsInPeriod": 367
+    },
+    {
+      "rank": 9,
+      "fullName": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "programmingLanguage": "TypeScript",
+      "stars": 193031,
+      "forks": 43503,
+      "starsInPeriod": 78
+    },
+    {
+      "rank": 10,
+      "fullName": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "programmingLanguage": "PowerShell",
+      "stars": 37895,
+      "forks": 5265,
+      "starsInPeriod": 409
+    },
+    {
+      "rank": 11,
+      "fullName": "llvm/llvm-project",
+      "url": "https://github.com/llvm/llvm-project",
+      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "programmingLanguage": "LLVM",
+      "stars": 40721,
+      "forks": 18818,
+      "starsInPeriod": 29
+    },
+    {
+      "rank": 12,
+      "fullName": "anthropics/claude-code-action",
+      "url": "https://github.com/anthropics/claude-code-action",
+      "description": null,
+      "programmingLanguage": "TypeScript",
+      "stars": 9041,
+      "forks": 2161,
+      "starsInPeriod": 15
+    },
+    {
+      "rank": 13,
+      "fullName": "actions/runner-images",
+      "url": "https://github.com/actions/runner-images",
+      "description": "GitHub Actions runner images",
+      "programmingLanguage": "PowerShell",
+      "stars": 13256,
+      "forks": 3863,
+      "starsInPeriod": 13
+    },
+    {
+      "rank": 14,
+      "fullName": "mobile-next/mobile-mcp",
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+      "programmingLanguage": "TypeScript",
+      "stars": 7234,
+      "forks": 635,
+      "starsInPeriod": 143
+    },
+    {
+      "rank": 15,
+      "fullName": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "programmingLanguage": "JavaScript",
+      "stars": 142559,
+      "forks": 33104,
+      "starsInPeriod": 31
+    }
+  ]
+}
