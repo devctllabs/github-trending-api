@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-09-27T16:57:48Z",
+  "observedAt": "2026-09-27T21:20:34Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 30542,
-      "forks": 4089,
+      "stars": 30578,
+      "forks": 4094,
       "starsInPeriod": 3015
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 41843,
+      "stars": 41900,
       "forks": 3009,
       "starsInPeriod": 4310
     },
@@ -34,8 +34,8 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 3865,
-      "forks": 457,
+      "stars": 3872,
+      "forks": 459,
       "starsInPeriod": 1866
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 128045,
-      "forks": 45426,
+      "stars": 128053,
+      "forks": 45454,
       "starsInPeriod": 234
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "programmingLanguage": "Go",
-      "stars": 16722,
-      "forks": 1590,
+      "stars": 16723,
+      "forks": 1591,
       "starsInPeriod": 1246
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139054,
-      "forks": 20680,
+      "stars": 139057,
+      "forks": 20717,
       "starsInPeriod": 214
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "programmingLanguage": "Go",
-      "stars": 66269,
-      "forks": 10863,
+      "stars": 66272,
+      "forks": 10864,
       "starsInPeriod": 158
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 76119,
+      "stars": 76123,
       "forks": 5009,
       "starsInPeriod": 267
     },
@@ -94,7 +94,7 @@
       "url": "https://github.com/vshulcz/deja-vu",
       "description": "The most accurate, cheapest and fastest memory for coding agents: one index over the history Claude Code, Codex, Cursor and 32 more agents already wrote. No LLM, one Go binary.",
       "programmingLanguage": "Go",
-      "stars": 1065,
+      "stars": 1068,
       "forks": 104,
       "starsInPeriod": 185
     },
@@ -104,7 +104,7 @@
       "url": "https://github.com/guohuiyuan/go-music-dl",
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "programmingLanguage": "Go",
-      "stars": 4905,
+      "stars": 4908,
       "forks": 472,
       "starsInPeriod": 352
     },
@@ -114,7 +114,7 @@
       "url": "https://github.com/openai/tunnel-client",
       "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
       "programmingLanguage": "Go",
-      "stars": 504,
+      "stars": 505,
       "forks": 97,
       "starsInPeriod": 75
     },
@@ -124,7 +124,7 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 38256,
+      "stars": 38258,
       "forks": 5845,
       "starsInPeriod": 78
     },
@@ -135,7 +135,7 @@
       "description": "A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.",
       "programmingLanguage": "Go",
       "stars": 748,
-      "forks": 53,
+      "forks": 54,
       "starsInPeriod": 38
     },
     {
@@ -144,7 +144,7 @@
       "url": "https://github.com/maximhq/bifrost",
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "programmingLanguage": "Go",
-      "stars": 8393,
+      "stars": 8396,
       "forks": 1294,
       "starsInPeriod": 216
     },
@@ -154,8 +154,8 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai",
       "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "programmingLanguage": "Go",
-      "stars": 7336,
-      "forks": 803,
+      "stars": 7342,
+      "forks": 804,
       "starsInPeriod": 311
     },
     {
@@ -164,7 +164,7 @@
       "url": "https://github.com/navidrome/navidrome",
       "description": "🎧 Your Personal Streaming Service",
       "programmingLanguage": "Go",
-      "stars": 23843,
+      "stars": 23852,
       "forks": 1728,
       "starsInPeriod": 170
     },
@@ -174,7 +174,7 @@
       "url": "https://github.com/photoprism/photoprism",
       "description": "AI-Powered Photos App 🌈💎✨",
       "programmingLanguage": "Go",
-      "stars": 40238,
+      "stars": 40240,
       "forks": 2328,
       "starsInPeriod": 47
     },
@@ -195,7 +195,7 @@
       "description": "The open-source skills that turn your agent into a full PR team.",
       "programmingLanguage": "Go",
       "stars": 1443,
-      "forks": 137,
+      "forks": 139,
       "starsInPeriod": 322
     },
     {
@@ -204,7 +204,7 @@
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "programmingLanguage": "Go",
-      "stars": 8123,
+      "stars": 8131,
       "forks": 595,
       "starsInPeriod": 694
     }

@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-09-27T16:57:52Z",
+  "observedAt": "2026-09-27T21:20:37Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,7 +14,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 41843,
+      "stars": 41900,
       "forks": 3009,
       "starsInPeriod": 20421
     },
@@ -24,8 +24,8 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 30542,
-      "forks": 4089,
+      "stars": 30578,
+      "forks": 4094,
       "starsInPeriod": 9808
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "programmingLanguage": "Go",
-      "stars": 7759,
-      "forks": 329,
+      "stars": 7762,
+      "forks": 330,
       "starsInPeriod": 7882
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 3865,
-      "forks": 457,
+      "stars": 3872,
+      "forks": 459,
       "starsInPeriod": 2215
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://github.com/majd/ipatool",
       "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
       "programmingLanguage": "Go",
-      "stars": 11415,
+      "stars": 11420,
       "forks": 953,
       "starsInPeriod": 1529
     },
@@ -64,7 +64,7 @@
       "url": "https://github.com/vllm-project/semantic-router",
       "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "programmingLanguage": "Go",
-      "stars": 5923,
+      "stars": 5924,
       "forks": 979,
       "starsInPeriod": 620
     },
@@ -84,7 +84,7 @@
       "url": "https://github.com/asciimoo/hister",
       "description": "Your own search engine",
       "programmingLanguage": "Go",
-      "stars": 5755,
+      "stars": 5760,
       "forks": 250,
       "starsInPeriod": 2707
     },
@@ -94,7 +94,7 @@
       "url": "https://github.com/henrygd/beszel",
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "programmingLanguage": "Go",
-      "stars": 25790,
+      "stars": 25798,
       "forks": 1048,
       "starsInPeriod": 1098
     },
@@ -104,8 +104,8 @@
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "programmingLanguage": "Go",
-      "stars": 16722,
-      "forks": 1590,
+      "stars": 16723,
+      "forks": 1591,
       "starsInPeriod": 2619
     },
     {
@@ -114,8 +114,8 @@
       "url": "https://github.com/gtsteffaniak/filebrowser",
       "description": "📂 Web File Browser",
       "programmingLanguage": "Go",
-      "stars": 8451,
-      "forks": 445,
+      "stars": 8457,
+      "forks": 446,
       "starsInPeriod": 568
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://github.com/cloudflare/cloudflared",
       "description": "Cloudflare Tunnel client",
       "programmingLanguage": "Go",
-      "stars": 15935,
+      "stars": 15936,
       "forks": 1456,
       "starsInPeriod": 564
     },
@@ -134,7 +134,7 @@
       "url": "https://github.com/weave-os/router",
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "programmingLanguage": "Go",
-      "stars": 5324,
+      "stars": 5337,
       "forks": 143,
       "starsInPeriod": 4254
     },
@@ -144,7 +144,7 @@
       "url": "https://github.com/authelia/authelia",
       "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
       "programmingLanguage": "Go",
-      "stars": 29103,
+      "stars": 29107,
       "forks": 1493,
       "starsInPeriod": 432
     },
@@ -154,7 +154,7 @@
       "url": "https://github.com/projectdiscovery/katana",
       "description": "A next-generation crawling and spidering framework.",
       "programmingLanguage": "Go",
-      "stars": 17582,
+      "stars": 17583,
       "forks": 1188,
       "starsInPeriod": 260
     },
@@ -164,7 +164,7 @@
       "url": "https://github.com/semaphoreui/semaphore",
       "description": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
       "programmingLanguage": "Go",
-      "stars": 14197,
+      "stars": 14199,
       "forks": 1316,
       "starsInPeriod": 154
     },
@@ -174,8 +174,8 @@
       "url": "https://github.com/danielmiessler/Fabric",
       "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "programmingLanguage": "Go",
-      "stars": 44085,
-      "forks": 4283,
+      "stars": 44084,
+      "forks": 4284,
       "starsInPeriod": 634
     },
     {
@@ -184,8 +184,8 @@
       "url": "https://github.com/glanceapp/glance",
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "programmingLanguage": "Go",
-      "stars": 37233,
-      "forks": 1468,
+      "stars": 37236,
+      "forks": 1469,
       "starsInPeriod": 704
     },
     {
@@ -194,7 +194,7 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 25016,
+      "stars": 25018,
       "forks": 3217,
       "starsInPeriod": 3092
     },
@@ -204,7 +204,7 @@
       "url": "https://github.com/seaweedfs/seaweedfs",
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "programmingLanguage": "Go",
-      "stars": 35018,
+      "stars": 35021,
       "forks": 3011,
       "starsInPeriod": 783
     },
@@ -214,7 +214,7 @@
       "url": "https://github.com/kopia/kopia",
       "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
       "programmingLanguage": "Go",
-      "stars": 14204,
+      "stars": 14206,
       "forks": 738,
       "starsInPeriod": 266
     },
@@ -224,8 +224,8 @@
       "url": "https://github.com/SagerNet/sing-box",
       "description": "The universal proxy platform",
       "programmingLanguage": "Go",
-      "stars": 38354,
-      "forks": 4656,
+      "stars": 38358,
+      "forks": 4657,
       "starsInPeriod": 1176
     },
     {
@@ -234,7 +234,7 @@
       "url": "https://github.com/rorkai/App-Store-Connect-CLI",
       "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
       "programmingLanguage": "Go",
-      "stars": 7386,
+      "stars": 7389,
       "forks": 626,
       "starsInPeriod": 1149
     },
@@ -244,7 +244,7 @@
       "url": "https://github.com/navidrome/navidrome",
       "description": "🎧 Your Personal Streaming Service",
       "programmingLanguage": "Go",
-      "stars": 23843,
+      "stars": 23852,
       "forks": 1728,
       "starsInPeriod": 760
     }
