@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "updatedAt": "2026-09-27T12:01:06Z",
+  "updatedAt": "2026-09-27T16:57:26Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,42 +14,56 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 35093,
-      "forks": 4374,
+      "stars": 36244,
+      "forks": 4653,
       "starsInPeriod": 4463,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-09-27T05:17:23Z",
-      "lastSeenAt": "2026-09-27T12:01:06Z",
-      "appearances": 2
+      "lastSeenAt": "2026-09-27T16:57:26Z",
+      "appearances": 3
     },
     {
       "fullName": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "programmingLanguage": "Python",
-      "stars": 4891,
-      "forks": 679,
+      "stars": 4918,
+      "forks": 681,
       "starsInPeriod": 301,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 4,
       "firstSeenAt": "2026-09-27T05:17:23Z",
-      "lastSeenAt": "2026-09-27T12:01:06Z",
-      "appearances": 2
+      "lastSeenAt": "2026-09-27T16:57:26Z",
+      "appearances": 3
+    },
+    {
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "programmingLanguage": "Python",
+      "stars": 39260,
+      "forks": 4674,
+      "starsInPeriod": 3060,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-09-27T16:57:26Z",
+      "lastSeenAt": "2026-09-27T16:57:26Z",
+      "appearances": 1
     },
     {
       "fullName": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 58727,
-      "forks": 10170,
+      "stars": 58991,
+      "forks": 10206,
       "starsInPeriod": 848,
       "bestRank": 3,
       "latestRank": 3,
       "firstSeenAt": "2026-09-27T05:17:23Z",
-      "lastSeenAt": "2026-09-27T12:01:06Z",
-      "appearances": 2
+      "lastSeenAt": "2026-09-27T16:57:26Z",
+      "appearances": 3
     },
     {
       "fullName": "shy3130/tick-stock-panel",
@@ -80,6 +94,20 @@
       "appearances": 2
     },
     {
+      "fullName": "microsoft/data-formulator",
+      "url": "https://github.com/microsoft/data-formulator",
+      "description": "🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.",
+      "programmingLanguage": "Python",
+      "stars": 17413,
+      "forks": 1709,
+      "starsInPeriod": 111,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-09-27T16:57:26Z",
+      "lastSeenAt": "2026-09-27T16:57:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "wshobson/agents",
       "url": "https://github.com/wshobson/agents",
       "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
@@ -92,6 +120,34 @@
       "firstSeenAt": "2026-09-27T05:17:23Z",
       "lastSeenAt": "2026-09-27T12:01:06Z",
       "appearances": 2
+    },
+    {
+      "fullName": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": "📚 Freely available programming books",
+      "programmingLanguage": "Python",
+      "stars": 397953,
+      "forks": 66854,
+      "starsInPeriod": 169,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-09-27T16:57:26Z",
+      "lastSeenAt": "2026-09-27T16:57:26Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "derv82/wifit3",
+      "url": "https://github.com/derv82/wifit3",
+      "description": "Wifite but USB-only & cross-platform.",
+      "programmingLanguage": "Python",
+      "stars": 1378,
+      "forks": 108,
+      "starsInPeriod": 253,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-09-27T05:17:23Z",
+      "lastSeenAt": "2026-09-27T16:57:26Z",
+      "appearances": 3
     },
     {
       "fullName": "sherlock-project/sherlock",
@@ -122,6 +178,20 @@
       "appearances": 2
     },
     {
+      "fullName": "django/django",
+      "url": "https://github.com/django/django",
+      "description": "The Web framework for perfectionists with deadlines.",
+      "programmingLanguage": "Python",
+      "stars": 91210,
+      "forks": 35664,
+      "starsInPeriod": 27,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-09-27T16:57:26Z",
+      "lastSeenAt": "2026-09-27T16:57:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
@@ -134,6 +204,20 @@
       "firstSeenAt": "2026-09-27T05:17:23Z",
       "lastSeenAt": "2026-09-27T12:01:06Z",
       "appearances": 2
+    },
+    {
+      "fullName": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "programmingLanguage": "Python",
+      "stars": 103413,
+      "forks": 30698,
+      "starsInPeriod": 56,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-09-27T16:57:26Z",
+      "lastSeenAt": "2026-09-27T16:57:26Z",
+      "appearances": 1
     },
     {
       "fullName": "666ghj/MiroFish",
@@ -173,20 +257,6 @@
       "starsInPeriod": 43,
       "bestRank": 12,
       "latestRank": 12,
-      "firstSeenAt": "2026-09-27T05:17:23Z",
-      "lastSeenAt": "2026-09-27T12:01:06Z",
-      "appearances": 2
-    },
-    {
-      "fullName": "derv82/wifit3",
-      "url": "https://github.com/derv82/wifit3",
-      "description": "Wifite but USB-only & cross-platform.",
-      "programmingLanguage": "Python",
-      "stars": 1346,
-      "forks": 105,
-      "starsInPeriod": 357,
-      "bestRank": 13,
-      "latestRank": 13,
       "firstSeenAt": "2026-09-27T05:17:23Z",
       "lastSeenAt": "2026-09-27T12:01:06Z",
       "appearances": 2

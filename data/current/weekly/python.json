@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-09-27T12:01:10Z",
+  "observedAt": "2026-09-27T16:57:29Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 37766,
-      "forks": 5458,
+      "stars": 37811,
+      "forks": 5460,
       "starsInPeriod": 2633
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 35094,
-      "forks": 4374,
+      "stars": 36244,
+      "forks": 4654,
       "starsInPeriod": 7282
     },
     {
@@ -34,19 +34,19 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "programmingLanguage": "Python",
-      "stars": 31955,
-      "forks": 3638,
+      "stars": 31975,
+      "forks": 3641,
       "starsInPeriod": 1142
     },
     {
       "rank": 4,
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "fullName": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 25705,
-      "forks": 3039,
-      "starsInPeriod": 664
+      "stars": 50711,
+      "forks": 4637,
+      "starsInPeriod": 1055
     },
     {
       "rank": 5,
@@ -54,19 +54,19 @@
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "programmingLanguage": "Python",
-      "stars": 103398,
-      "forks": 30684,
+      "stars": 103413,
+      "forks": 30698,
       "starsInPeriod": 295
     },
     {
       "rank": 6,
-      "fullName": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 50680,
-      "forks": 4633,
-      "starsInPeriod": 1055
+      "stars": 58991,
+      "forks": 10206,
+      "starsInPeriod": 3207
     },
     {
       "rank": 7,
@@ -74,19 +74,19 @@
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 5192,
-      "forks": 625,
+      "stars": 5232,
+      "forks": 635,
       "starsInPeriod": 951
     },
     {
       "rank": 8,
-      "fullName": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 3545,
-      "forks": 290,
-      "starsInPeriod": 1773
+      "stars": 25728,
+      "forks": 3039,
+      "starsInPeriod": 664
     },
     {
       "rank": 9,
@@ -94,19 +94,19 @@
       "url": "https://github.com/mvt-project/mvt",
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "programmingLanguage": "Python",
-      "stars": 14890,
-      "forks": 1403,
+      "stars": 14907,
+      "forks": 1406,
       "starsInPeriod": 1769
     },
     {
       "rank": 10,
-      "fullName": "FareedKhan-dev/train-llm-from-scratch",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "fullName": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "programmingLanguage": "Python",
-      "stars": 11300,
-      "forks": 1570,
-      "starsInPeriod": 1356
+      "stars": 3570,
+      "forks": 290,
+      "starsInPeriod": 1773
     },
     {
       "rank": 11,
@@ -114,59 +114,29 @@
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
       "programmingLanguage": "Python",
-      "stars": 8979,
+      "stars": 8983,
       "forks": 1653,
       "starsInPeriod": 1541
     },
     {
       "rank": 12,
+      "fullName": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "programmingLanguage": "Python",
+      "stars": 11338,
+      "forks": 1577,
+      "starsInPeriod": 1356
+    },
+    {
+      "rank": 13,
       "fullName": "strands-agents/harness-sdk",
       "url": "https://github.com/strands-agents/harness-sdk",
       "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
       "programmingLanguage": "Python",
-      "stars": 8475,
-      "forks": 1266,
+      "stars": 8480,
+      "forks": 1267,
       "starsInPeriod": 1097
-    },
-    {
-      "rank": 13,
-      "fullName": "BerriAI/litellm",
-      "url": "https://github.com/BerriAI/litellm",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "programmingLanguage": "Python",
-      "stars": 59700,
-      "forks": 11814,
-      "starsInPeriod": 553
-    },
-    {
-      "rank": 14,
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "programmingLanguage": "Python",
-      "stars": 58727,
-      "forks": 10170,
-      "starsInPeriod": 3207
-    },
-    {
-      "rank": 15,
-      "fullName": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "programmingLanguage": "Python",
-      "stars": 51270,
-      "forks": 5761,
-      "starsInPeriod": 2556
-    },
-    {
-      "rank": 16,
-      "fullName": "NVIDIA/Model-Optimizer",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "programmingLanguage": "Python",
-      "stars": 4891,
-      "forks": 679,
-      "starsInPeriod": 844
     }
   ]
 }

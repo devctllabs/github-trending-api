@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "updatedAt": "2026-09-27T12:01:45Z",
+  "updatedAt": "2026-09-27T16:58:05Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,28 +14,42 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "programmingLanguage": "TypeScript",
-      "stars": 88429,
-      "forks": 15538,
+      "stars": 89067,
+      "forks": 15598,
       "starsInPeriod": 2527,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-09-27T05:18:02Z",
-      "lastSeenAt": "2026-09-27T12:01:45Z",
-      "appearances": 2
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 3
     },
     {
       "fullName": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "programmingLanguage": "TypeScript",
-      "stars": 19850,
-      "forks": 1691,
+      "stars": 20006,
+      "forks": 1698,
       "starsInPeriod": 920,
+      "bestRank": 2,
+      "latestRank": 4,
+      "firstSeenAt": "2026-09-27T05:18:02Z",
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 3
+    },
+    {
+      "fullName": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
+      "programmingLanguage": "TypeScript",
+      "stars": 5293,
+      "forks": 137,
+      "starsInPeriod": 76,
       "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-09-27T05:18:02Z",
-      "lastSeenAt": "2026-09-27T12:01:45Z",
-      "appearances": 2
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 3
     },
     {
       "fullName": "microsoft/vscode",
@@ -50,6 +64,20 @@
       "firstSeenAt": "2026-09-27T05:18:02Z",
       "lastSeenAt": "2026-09-27T12:01:45Z",
       "appearances": 2
+    },
+    {
+      "fullName": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "programmingLanguage": "TypeScript",
+      "stars": 765,
+      "forks": 87,
+      "starsInPeriod": 114,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-09-27T16:58:05Z",
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 1
     },
     {
       "fullName": "anthropics/claude-code-action",
@@ -70,14 +98,28 @@
       "url": "https://github.com/mobile-next/mobile-mcp",
       "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
       "programmingLanguage": "TypeScript",
-      "stars": 7634,
-      "forks": 655,
+      "stars": 7756,
+      "forks": 665,
       "starsInPeriod": 573,
       "bestRank": 5,
-      "latestRank": 5,
+      "latestRank": 9,
       "firstSeenAt": "2026-09-27T05:18:02Z",
-      "lastSeenAt": "2026-09-27T12:01:45Z",
-      "appearances": 2
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 3
+    },
+    {
+      "fullName": "expo/expo",
+      "url": "https://github.com/expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "programmingLanguage": "TypeScript",
+      "stars": 52461,
+      "forks": 14235,
+      "starsInPeriod": 15,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-09-27T16:58:05Z",
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 1
     },
     {
       "fullName": "FxEmbed/FxEmbed",
@@ -94,6 +136,20 @@
       "appearances": 2
     },
     {
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "programmingLanguage": "TypeScript",
+      "stars": 53556,
+      "forks": 4883,
+      "starsInPeriod": 306,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-09-27T16:58:05Z",
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 1
+    },
+    {
       "fullName": "withastro/astro",
       "url": "https://github.com/withastro/astro",
       "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
@@ -108,18 +164,32 @@
       "appearances": 2
     },
     {
-      "fullName": "vercel-labs/scriptc",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "description": "TypeScript-to-Native Compiler",
+      "fullName": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "programmingLanguage": "TypeScript",
-      "stars": 5204,
-      "forks": 134,
-      "starsInPeriod": 76,
+      "stars": 456334,
+      "forks": 47557,
+      "starsInPeriod": 100,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-09-27T16:58:05Z",
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "programmingLanguage": "TypeScript",
+      "stars": 4111,
+      "forks": 999,
+      "starsInPeriod": 130,
       "bestRank": 8,
       "latestRank": 8,
-      "firstSeenAt": "2026-09-27T05:18:02Z",
-      "lastSeenAt": "2026-09-27T12:01:45Z",
-      "appearances": 2
+      "firstSeenAt": "2026-09-27T16:58:05Z",
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 1
     },
     {
       "fullName": "lightningpixel/modly",
@@ -150,6 +220,20 @@
       "appearances": 2
     },
     {
+      "fullName": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "programmingLanguage": "Rust",
+      "stars": 7944,
+      "forks": 332,
+      "starsInPeriod": 490,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-09-27T16:58:05Z",
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 1
+    },
+    {
       "fullName": "vercel/ai",
       "url": "https://github.com/vercel/ai",
       "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
@@ -162,6 +246,20 @@
       "firstSeenAt": "2026-09-27T05:18:02Z",
       "lastSeenAt": "2026-09-27T12:01:45Z",
       "appearances": 2
+    },
+    {
+      "fullName": "SinaXhpm/Submarine",
+      "url": "https://github.com/SinaXhpm/Submarine",
+      "description": "Modern SSH & SFTP client — terminal, SFTP, port forwarding, folder mirror, encrypted sync. Windows · macOS · Linux · Android.",
+      "programmingLanguage": "TypeScript",
+      "stars": 360,
+      "forks": 27,
+      "starsInPeriod": 57,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-09-27T16:58:05Z",
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 1
     },
     {
       "fullName": "zenbu-labs/terminal-browser",
@@ -178,6 +276,20 @@
       "appearances": 2
     },
     {
+      "fullName": "calcom/cal.diy",
+      "url": "https://github.com/calcom/cal.diy",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "programmingLanguage": "TypeScript",
+      "stars": 48681,
+      "forks": 15223,
+      "starsInPeriod": 14,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-09-27T16:58:05Z",
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 1
+    },
+    {
       "fullName": "rohitg00/agentmemory",
       "url": "https://github.com/rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
@@ -190,6 +302,20 @@
       "firstSeenAt": "2026-09-27T05:18:02Z",
       "lastSeenAt": "2026-09-27T12:01:45Z",
       "appearances": 2
+    },
+    {
+      "fullName": "freemocap/freemocap",
+      "url": "https://github.com/freemocap/freemocap",
+      "description": "Free Motion Capture for Everyone 💀✨",
+      "programmingLanguage": "TypeScript",
+      "stars": 10322,
+      "forks": 969,
+      "starsInPeriod": 35,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-09-27T16:58:05Z",
+      "lastSeenAt": "2026-09-27T16:58:05Z",
+      "appearances": 1
     },
     {
       "fullName": "angular/angular",

@@ -4,229 +4,189 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-09-27T12:01:26Z",
+  "observedAt": "2026-09-27T16:57:45Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
+      "fullName": "git-bug/git-bug",
+      "url": "https://github.com/git-bug/git-bug",
+      "description": "Distributed, offline-first bug tracker integrated in git",
+      "programmingLanguage": "Go",
+      "stars": 10602,
+      "forks": 331,
+      "starsInPeriod": 59
+    },
+    {
+      "rank": 2,
+      "fullName": "daeuniverse/dae",
+      "url": "https://github.com/daeuniverse/dae",
+      "description": "eBPF-based Linux high-performance transparent proxy solution.",
+      "programmingLanguage": "Go",
+      "stars": 6243,
+      "forks": 409,
+      "starsInPeriod": 3
+    },
+    {
+      "rank": 3,
       "fullName": "openbao/openbao",
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "programmingLanguage": "Go",
-      "stars": 8110,
-      "forks": 594,
+      "stars": 8123,
+      "forks": 595,
       "starsInPeriod": 232
     },
     {
-      "rank": 2,
-      "fullName": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "programmingLanguage": "Go",
-      "stars": 139052,
-      "forks": 20669,
-      "starsInPeriod": 44
-    },
-    {
-      "rank": 3,
-      "fullName": "Gentleman-Programming/engram",
-      "url": "https://github.com/Gentleman-Programming/engram",
-      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
-      "programmingLanguage": "Go",
-      "stars": 6885,
-      "forks": 708,
-      "starsInPeriod": 36
-    },
-    {
       "rank": 4,
-      "fullName": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "programmingLanguage": "Go",
-      "stars": 66266,
-      "forks": 10863,
-      "starsInPeriod": 32
-    },
-    {
-      "rank": 5,
-      "fullName": "p1neappleXpress/OpenFlux",
-      "url": "https://github.com/p1neappleXpress/OpenFlux",
-      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
-      "programmingLanguage": "Go",
-      "stars": 1870,
-      "forks": 159,
-      "starsInPeriod": 25
-    },
-    {
-      "rank": 6,
-      "fullName": "docker/docker-agent",
-      "url": "https://github.com/docker/docker-agent",
-      "description": "AI Agent Builder and Runtime by Docker Engineering",
-      "programmingLanguage": "Go",
-      "stars": 3357,
-      "forks": 466,
-      "starsInPeriod": 3
-    },
-    {
-      "rank": 7,
-      "fullName": "seaweedfs/seaweedfs",
-      "url": "https://github.com/seaweedfs/seaweedfs",
-      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
-      "programmingLanguage": "Go",
-      "stars": 35010,
-      "forks": 3010,
-      "starsInPeriod": 16
-    },
-    {
-      "rank": 8,
-      "fullName": "kubernetes/kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
-      "programmingLanguage": "Go",
-      "stars": 128044,
-      "forks": 45414,
-      "starsInPeriod": 41
-    },
-    {
-      "rank": 9,
       "fullName": "putyy/res-downloader",
       "url": "https://github.com/putyy/res-downloader",
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "programmingLanguage": "Go",
-      "stars": 20248,
-      "forks": 2516,
-      "starsInPeriod": 142
+      "stars": 20259,
+      "forks": 2517,
+      "starsInPeriod": 76
+    },
+    {
+      "rank": 5,
+      "fullName": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "programmingLanguage": "Go",
+      "stars": 139054,
+      "forks": 20680,
+      "starsInPeriod": 29
+    },
+    {
+      "rank": 6,
+      "fullName": "cockroachdb/cockroach",
+      "url": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+      "programmingLanguage": "Go",
+      "stars": 32517,
+      "forks": 4118,
+      "starsInPeriod": 7
+    },
+    {
+      "rank": 7,
+      "fullName": "dagucloud/dagu",
+      "url": "https://github.com/dagucloud/dagu",
+      "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
+      "programmingLanguage": "Go",
+      "stars": 4162,
+      "forks": 351,
+      "starsInPeriod": 43
+    },
+    {
+      "rank": 8,
+      "fullName": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "programmingLanguage": "Go",
+      "stars": 28118,
+      "forks": 2601,
+      "starsInPeriod": 22
+    },
+    {
+      "rank": 9,
+      "fullName": "Billionmail/BillionMail",
+      "url": "https://github.com/Billionmail/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "programmingLanguage": "Go",
+      "stars": 15663,
+      "forks": 1719,
+      "starsInPeriod": 18
     },
     {
       "rank": 10,
-      "fullName": "navidrome/navidrome",
-      "url": "https://github.com/navidrome/navidrome",
-      "description": "🎧 Your Personal Streaming Service",
-      "programmingLanguage": "Go",
-      "stars": 23836,
-      "forks": 1728,
-      "starsInPeriod": 23
-    },
-    {
-      "rank": 11,
-      "fullName": "containerd/containerd",
-      "url": "https://github.com/containerd/containerd",
-      "description": "An open and reliable container runtime",
-      "programmingLanguage": "Go",
-      "stars": 21342,
-      "forks": 4130,
-      "starsInPeriod": 2
-    },
-    {
-      "rank": 12,
-      "fullName": "grafana/mcp-grafana",
-      "url": "https://github.com/grafana/mcp-grafana",
-      "description": "MCP server for Grafana",
-      "programmingLanguage": "Go",
-      "stars": 3503,
-      "forks": 457,
-      "starsInPeriod": 3
-    },
-    {
-      "rank": 13,
-      "fullName": "grafana/k6",
-      "url": "https://github.com/grafana/k6",
-      "description": "A modern load testing tool, using Go and JavaScript",
-      "programmingLanguage": "Go",
-      "stars": 31657,
-      "forks": 1645,
-      "starsInPeriod": 45
-    },
-    {
-      "rank": 14,
       "fullName": "microsoft/TypeScript",
       "url": "https://github.com/microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "programmingLanguage": "Go",
       "stars": 111230,
-      "forks": 15104,
-      "starsInPeriod": 26
+      "forks": 15112,
+      "starsInPeriod": 23
+    },
+    {
+      "rank": 11,
+      "fullName": "YoanWai/agent-manager",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "description": "The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.",
+      "programmingLanguage": "Go",
+      "stars": 520,
+      "forks": 55,
+      "starsInPeriod": 18
+    },
+    {
+      "rank": 12,
+      "fullName": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "programmingLanguage": "Go",
+      "stars": 128045,
+      "forks": 45426,
+      "starsInPeriod": 36
+    },
+    {
+      "rank": 13,
+      "fullName": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "programmingLanguage": "Go",
+      "stars": 83274,
+      "forks": 3869,
+      "starsInPeriod": 19
+    },
+    {
+      "rank": 14,
+      "fullName": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "programmingLanguage": "Go",
+      "stars": 49290,
+      "forks": 4473,
+      "starsInPeriod": 22
     },
     {
       "rank": 15,
-      "fullName": "DataDog/datadog-agent",
-      "url": "https://github.com/DataDog/datadog-agent",
-      "description": "Main repository for Datadog Agent",
+      "fullName": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
       "programmingLanguage": "Go",
-      "stars": 3753,
-      "forks": 1497,
-      "starsInPeriod": 3
+      "stars": 44665,
+      "forks": 4345,
+      "starsInPeriod": 10
     },
     {
       "rank": 16,
-      "fullName": "MHSanaei/3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "fullName": "obot-platform/obot",
+      "url": "https://github.com/obot-platform/obot",
+      "description": "Complete AI Governance Platform from Obot AI",
       "programmingLanguage": "Go",
-      "stars": 47034,
-      "forks": 11870,
-      "starsInPeriod": 37
+      "stars": 1071,
+      "forks": 224,
+      "starsInPeriod": 12
     },
     {
       "rank": 17,
-      "fullName": "vshulcz/deja-vu",
-      "url": "https://github.com/vshulcz/deja-vu",
-      "description": "One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 30 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.",
+      "fullName": "fyne-io/fyne",
+      "url": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI toolkit in Go inspired by Material Design",
       "programmingLanguage": "Go",
-      "stars": 1062,
-      "forks": 104,
-      "starsInPeriod": 32
+      "stars": 28720,
+      "forks": 1554,
+      "starsInPeriod": 8
     },
     {
       "rank": 18,
-      "fullName": "argoproj/argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
+      "fullName": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
       "programmingLanguage": "Go",
-      "stars": 24255,
-      "forks": 7887,
-      "starsInPeriod": 7
-    },
-    {
-      "rank": 19,
-      "fullName": "gastownhall/beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "programmingLanguage": "Go",
-      "stars": 27465,
-      "forks": 1858,
-      "starsInPeriod": 27
-    },
-    {
-      "rank": 20,
-      "fullName": "Gentleman-Programming/gentle-ai",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai",
-      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
-      "programmingLanguage": "Go",
-      "stars": 7330,
-      "forks": 803,
-      "starsInPeriod": 30
-    },
-    {
-      "rank": 21,
-      "fullName": "distribution/distribution",
-      "url": "https://github.com/distribution/distribution",
-      "description": "The toolkit to pack, ship, store, and deliver container content",
-      "programmingLanguage": "Go",
-      "stars": 10629,
-      "forks": 2792,
-      "starsInPeriod": null
-    },
-    {
-      "rank": 22,
-      "fullName": "getlago/lago",
-      "url": "https://github.com/getlago/lago",
-      "description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
-      "programmingLanguage": "Go",
-      "stars": 10624,
-      "forks": 758,
-      "starsInPeriod": 5
+      "stars": 46424,
+      "forks": 9090,
+      "starsInPeriod": 15
     }
   ]
 }

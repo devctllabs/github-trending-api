@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-09-27T12:01:26Z",
+  "updatedAt": "2026-09-27T16:57:45Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,28 +14,56 @@
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "programmingLanguage": "Go",
-      "stars": 8110,
-      "forks": 594,
+      "stars": 8123,
+      "forks": 595,
       "starsInPeriod": 232,
       "bestRank": 1,
-      "latestRank": 1,
+      "latestRank": 3,
       "firstSeenAt": "2026-09-27T05:17:42Z",
-      "lastSeenAt": "2026-09-27T12:01:26Z",
-      "appearances": 2
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 3
+    },
+    {
+      "fullName": "git-bug/git-bug",
+      "url": "https://github.com/git-bug/git-bug",
+      "description": "Distributed, offline-first bug tracker integrated in git",
+      "programmingLanguage": "Go",
+      "stars": 10602,
+      "forks": 331,
+      "starsInPeriod": 59,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
     },
     {
       "fullName": "golang/go",
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139052,
-      "forks": 20669,
-      "starsInPeriod": 44,
+      "stars": 139054,
+      "forks": 20680,
+      "starsInPeriod": 29,
+      "bestRank": 2,
+      "latestRank": 5,
+      "firstSeenAt": "2026-09-27T05:17:42Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 3
+    },
+    {
+      "fullName": "daeuniverse/dae",
+      "url": "https://github.com/daeuniverse/dae",
+      "description": "eBPF-based Linux high-performance transparent proxy solution.",
+      "programmingLanguage": "Go",
+      "stars": 6243,
+      "forks": 409,
+      "starsInPeriod": 3,
       "bestRank": 2,
       "latestRank": 2,
-      "firstSeenAt": "2026-09-27T05:17:42Z",
-      "lastSeenAt": "2026-09-27T12:01:26Z",
-      "appearances": 2
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
     },
     {
       "fullName": "Gentleman-Programming/engram",
@@ -66,6 +94,20 @@
       "appearances": 2
     },
     {
+      "fullName": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "programmingLanguage": "Go",
+      "stars": 20259,
+      "forks": 2517,
+      "starsInPeriod": 76,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-09-27T05:17:42Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 3
+    },
+    {
       "fullName": "p1neappleXpress/OpenFlux",
       "url": "https://github.com/p1neappleXpress/OpenFlux",
       "description": "Network stack research tool. TCP tunnel with pluggable transports.",
@@ -94,6 +136,20 @@
       "appearances": 2
     },
     {
+      "fullName": "cockroachdb/cockroach",
+      "url": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+      "programmingLanguage": "Go",
+      "stars": 32517,
+      "forks": 4118,
+      "starsInPeriod": 7,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
+    },
+    {
       "fullName": "seaweedfs/seaweedfs",
       "url": "https://github.com/seaweedfs/seaweedfs",
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
@@ -108,32 +164,74 @@
       "appearances": 2
     },
     {
+      "fullName": "dagucloud/dagu",
+      "url": "https://github.com/dagucloud/dagu",
+      "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
+      "programmingLanguage": "Go",
+      "stars": 4162,
+      "forks": 351,
+      "starsInPeriod": 43,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
+    },
+    {
       "fullName": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 128044,
-      "forks": 45414,
-      "starsInPeriod": 41,
+      "stars": 128045,
+      "forks": 45426,
+      "starsInPeriod": 36,
       "bestRank": 8,
-      "latestRank": 8,
+      "latestRank": 12,
       "firstSeenAt": "2026-09-27T05:17:42Z",
-      "lastSeenAt": "2026-09-27T12:01:26Z",
-      "appearances": 2
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 3
     },
     {
-      "fullName": "putyy/res-downloader",
-      "url": "https://github.com/putyy/res-downloader",
-      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "fullName": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 20248,
-      "forks": 2516,
-      "starsInPeriod": 142,
+      "stars": 28118,
+      "forks": 2601,
+      "starsInPeriod": 22,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "Billionmail/BillionMail",
+      "url": "https://github.com/Billionmail/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "programmingLanguage": "Go",
+      "stars": 15663,
+      "forks": 1719,
+      "starsInPeriod": 18,
       "bestRank": 9,
       "latestRank": 9,
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "programmingLanguage": "Go",
+      "stars": 111230,
+      "forks": 15112,
+      "starsInPeriod": 23,
+      "bestRank": 10,
+      "latestRank": 10,
       "firstSeenAt": "2026-09-27T05:17:42Z",
-      "lastSeenAt": "2026-09-27T12:01:26Z",
-      "appearances": 2
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 3
     },
     {
       "fullName": "navidrome/navidrome",
@@ -164,6 +262,20 @@
       "appearances": 2
     },
     {
+      "fullName": "YoanWai/agent-manager",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "description": "The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.",
+      "programmingLanguage": "Go",
+      "stars": 520,
+      "forks": 55,
+      "starsInPeriod": 18,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
+    },
+    {
       "fullName": "grafana/mcp-grafana",
       "url": "https://github.com/grafana/mcp-grafana",
       "description": "MCP server for Grafana",
@@ -192,18 +304,32 @@
       "appearances": 2
     },
     {
-      "fullName": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "fullName": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
       "programmingLanguage": "Go",
-      "stars": 111230,
-      "forks": 15104,
-      "starsInPeriod": 26,
+      "stars": 83274,
+      "forks": 3869,
+      "starsInPeriod": 19,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "programmingLanguage": "Go",
+      "stars": 49290,
+      "forks": 4473,
+      "starsInPeriod": 22,
       "bestRank": 14,
       "latestRank": 14,
-      "firstSeenAt": "2026-09-27T05:17:42Z",
-      "lastSeenAt": "2026-09-27T12:01:26Z",
-      "appearances": 2
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
     },
     {
       "fullName": "DataDog/datadog-agent",
@@ -220,6 +346,20 @@
       "appearances": 2
     },
     {
+      "fullName": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "programmingLanguage": "Go",
+      "stars": 44665,
+      "forks": 4345,
+      "starsInPeriod": 10,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
+    },
+    {
       "fullName": "MHSanaei/3x-ui",
       "url": "https://github.com/MHSanaei/3x-ui",
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
@@ -232,6 +372,20 @@
       "firstSeenAt": "2026-09-27T05:17:42Z",
       "lastSeenAt": "2026-09-27T12:01:26Z",
       "appearances": 2
+    },
+    {
+      "fullName": "obot-platform/obot",
+      "url": "https://github.com/obot-platform/obot",
+      "description": "Complete AI Governance Platform from Obot AI",
+      "programmingLanguage": "Go",
+      "stars": 1071,
+      "forks": 224,
+      "starsInPeriod": 12,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
     },
     {
       "fullName": "vshulcz/deja-vu",
@@ -248,6 +402,20 @@
       "appearances": 2
     },
     {
+      "fullName": "fyne-io/fyne",
+      "url": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI toolkit in Go inspired by Material Design",
+      "programmingLanguage": "Go",
+      "stars": 28720,
+      "forks": 1554,
+      "starsInPeriod": 8,
+      "bestRank": 17,
+      "latestRank": 17,
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
+    },
+    {
       "fullName": "argoproj/argo-cd",
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
@@ -260,6 +428,20 @@
       "firstSeenAt": "2026-09-27T05:17:42Z",
       "lastSeenAt": "2026-09-27T12:01:26Z",
       "appearances": 2
+    },
+    {
+      "fullName": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "programmingLanguage": "Go",
+      "stars": 46424,
+      "forks": 9090,
+      "starsInPeriod": 15,
+      "bestRank": 18,
+      "latestRank": 18,
+      "firstSeenAt": "2026-09-27T16:57:45Z",
+      "lastSeenAt": "2026-09-27T16:57:45Z",
+      "appearances": 1
     },
     {
       "fullName": "gastownhall/beads",

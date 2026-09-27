@@ -4,29 +4,29 @@
   "period": "monthly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=monthly",
-  "observedAt": "2026-09-27T12:01:42Z",
+  "observedAt": "2026-09-27T16:58:02Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "programmingLanguage": "JavaScript",
-      "stars": 43787,
-      "forks": 8907,
-      "starsInPeriod": 38582
-    },
-    {
-      "rank": 2,
       "fullName": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 22168,
-      "forks": 1284,
+      "stars": 22245,
+      "forks": 1291,
       "starsInPeriod": 19124
+    },
+    {
+      "rank": 2,
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "programmingLanguage": "JavaScript",
+      "stars": 43903,
+      "forks": 8930,
+      "starsInPeriod": 38582
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "programmingLanguage": "JavaScript",
-      "stars": 72500,
-      "forks": 4899,
+      "stars": 72641,
+      "forks": 4906,
       "starsInPeriod": 55722
     },
     {
@@ -44,29 +44,29 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 146729,
-      "forks": 7882,
+      "stars": 146819,
+      "forks": 7886,
       "starsInPeriod": 35097
     },
     {
       "rank": 5,
-      "fullName": "fleetbase/fleetbase",
-      "url": "https://github.com/fleetbase/fleetbase",
-      "description": "Modular logistics and supply chain operating system (LSOS)",
-      "programmingLanguage": "JavaScript",
-      "stars": 3924,
-      "forks": 1046,
-      "starsInPeriod": 1653
-    },
-    {
-      "rank": 6,
       "fullName": "jo-inc/camofox-browser",
       "url": "https://github.com/jo-inc/camofox-browser",
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "programmingLanguage": "JavaScript",
-      "stars": 11232,
+      "stars": 11240,
       "forks": 1114,
       "starsInPeriod": 2396
+    },
+    {
+      "rank": 6,
+      "fullName": "fleetbase/fleetbase",
+      "url": "https://github.com/fleetbase/fleetbase",
+      "description": "Modular logistics and supply chain operating system (LSOS)",
+      "programmingLanguage": "JavaScript",
+      "stars": 3933,
+      "forks": 1047,
+      "starsInPeriod": 1653
     },
     {
       "rank": 7,
@@ -74,7 +74,7 @@
       "url": "https://github.com/OpenWhispr/openwhispr",
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "programmingLanguage": "JavaScript",
-      "stars": 8666,
+      "stars": 8680,
       "forks": 1066,
       "starsInPeriod": 2901
     },
@@ -84,119 +84,109 @@
       "url": "https://github.com/WorldFlowAI/everything-claude-code",
       "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
       "programmingLanguage": "JavaScript",
-      "stars": 3640,
-      "forks": 571,
+      "stars": 3652,
+      "forks": 573,
       "starsInPeriod": 1883
     },
     {
       "rank": 9,
+      "fullName": "JoeanAmier/TikTokDownloader",
+      "url": "https://github.com/JoeanAmier/TikTokDownloader",
+      "description": "抖音 / TikTok 平台作品下载/数据采集工具",
+      "programmingLanguage": "JavaScript",
+      "stars": 16338,
+      "forks": 2778,
+      "starsInPeriod": 895
+    },
+    {
+      "rank": 10,
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "programmingLanguage": "JavaScript",
+      "stars": 268236,
+      "forks": 40077,
+      "starsInPeriod": 25983
+    },
+    {
+      "rank": 11,
       "fullName": "is-a-dev/register",
       "url": "https://github.com/is-a-dev/register",
       "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
       "programmingLanguage": "JavaScript",
-      "stars": 11398,
-      "forks": 30583,
+      "stars": 11397,
+      "forks": 30605,
       "starsInPeriod": 356
     },
     {
-      "rank": 10,
+      "rank": 12,
+      "fullName": "playcanvas/engine",
+      "url": "https://github.com/playcanvas/engine",
+      "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
+      "programmingLanguage": "JavaScript",
+      "stars": 16937,
+      "forks": 2008,
+      "starsInPeriod": 432
+    },
+    {
+      "rank": 13,
       "fullName": "Stremio/stremio-web",
       "url": "https://github.com/Stremio/stremio-web",
       "description": "Stremio - Freedom to Stream",
       "programmingLanguage": "JavaScript",
       "stars": 13971,
-      "forks": 1595,
+      "forks": 1596,
       "starsInPeriod": 1325
     },
     {
-      "rank": 11,
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "programmingLanguage": "JavaScript",
-      "stars": 268118,
-      "forks": 40054,
-      "starsInPeriod": 25983
-    },
-    {
-      "rank": 12,
+      "rank": 14,
       "fullName": "facebook/stylex",
       "url": "https://github.com/facebook/stylex",
       "description": "StyleX is the styling system for ambitious user interfaces.",
       "programmingLanguage": "JavaScript",
-      "stars": 10362,
+      "stars": 10363,
       "forks": 487,
       "starsInPeriod": 466
     },
     {
-      "rank": 13,
-      "fullName": "playcanvas/engine",
-      "url": "https://github.com/playcanvas/engine",
-      "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
-      "programmingLanguage": "JavaScript",
-      "stars": 16936,
-      "forks": 2008,
-      "starsInPeriod": 432
-    },
-    {
-      "rank": 14,
-      "fullName": "bigskysoftware/htmx",
-      "url": "https://github.com/bigskysoftware/htmx",
-      "description": "</> htmx - high power tools for HTML",
-      "programmingLanguage": "JavaScript",
-      "stars": 49521,
-      "forks": 1668,
-      "starsInPeriod": 587
-    },
-    {
       "rank": 15,
-      "fullName": "conorbronsdon/avoid-ai-writing",
-      "url": "https://github.com/conorbronsdon/avoid-ai-writing",
-      "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
+      "fullName": "mnfst/awesome-free-llm-apis",
+      "url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "description": "List of Permanent Free LLM API (API Keys)",
       "programmingLanguage": "JavaScript",
-      "stars": 4736,
-      "forks": 410,
-      "starsInPeriod": 1482
+      "stars": 8459,
+      "forks": 838,
+      "starsInPeriod": 1399
     },
     {
       "rank": 16,
-      "fullName": "Mathieu2301/TradingView-API",
-      "url": "https://github.com/Mathieu2301/TradingView-API",
-      "description": "📈 Get real-time stocks from TradingView",
-      "programmingLanguage": "JavaScript",
-      "stars": 5379,
-      "forks": 959,
-      "starsInPeriod": 1319
-    },
-    {
-      "rank": 17,
-      "fullName": "gchq/CyberChef",
-      "url": "https://github.com/gchq/CyberChef",
-      "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
-      "programmingLanguage": "JavaScript",
-      "stars": 35963,
-      "forks": 4161,
-      "starsInPeriod": 330
-    },
-    {
-      "rank": 18,
-      "fullName": "louislam/uptime-kuma",
-      "url": "https://github.com/louislam/uptime-kuma",
-      "description": "A fancy self-hosted monitoring tool",
-      "programmingLanguage": "JavaScript",
-      "stars": 91870,
-      "forks": 8469,
-      "starsInPeriod": 1379
-    },
-    {
-      "rank": 19,
       "fullName": "darkzOGx/youtube-automation-agent",
       "url": "https://github.com/darkzOGx/youtube-automation-agent",
       "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
       "programmingLanguage": "JavaScript",
-      "stars": 3860,
-      "forks": 1162,
+      "stars": 3870,
+      "forks": 1168,
       "starsInPeriod": 1424
+    },
+    {
+      "rank": 17,
+      "fullName": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "programmingLanguage": "JavaScript",
+      "stars": 91875,
+      "forks": 8471,
+      "starsInPeriod": 1379
+    },
+    {
+      "rank": 18,
+      "fullName": "gchq/CyberChef",
+      "url": "https://github.com/gchq/CyberChef",
+      "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+      "programmingLanguage": "JavaScript",
+      "stars": 35964,
+      "forks": 4161,
+      "starsInPeriod": 330
     }
   ]
 }
