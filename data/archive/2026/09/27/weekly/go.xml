@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ght="urn:github-trending:v1" version="2.0">
+  <channel>
+    <title>GitHub Trending — weekly — go</title>
+    <link>https://github.com/trending/go?since=weekly</link>
+    <description>GitHub Trending — weekly — go</description>
+    <lastBuildDate>Sun, 27 Sep 2026 05:17:46 GMT</lastBuildDate>
+    <ght:schemaVersion>1</ght:schemaVersion>
+    <ght:kind>daily-rollup</ght:kind>
+    <ght:date>2026-09-27</ght:date>
+    <ght:period>weekly</ght:period>
+    <ght:language>go</ght:language>
+    <ght:updatedAt>2026-09-27T05:17:46Z</ght:updatedAt>
+    <ght:latestStatus>complete</ght:latestStatus>
+    <ght:latestIssues />
+    <item>
+      <title>Tencent/WeKnora</title>
+      <link>https://github.com/Tencent/WeKnora</link>
+      <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+      <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>30382</ght:stars>
+      <ght:forks>4073</ght:forks>
+      <ght:starsInPeriod>3015</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <description>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>41662</ght:stars>
+      <ght:forks>2996</ght:forks>
+      <ght:starsInPeriod>4310</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>agent-substrate/substrate</title>
+      <link>https://github.com/agent-substrate/substrate</link>
+      <description>Agent Substrate: the core system</description>
+      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>3846</ght:stars>
+      <ght:forks>452</ght:forks>
+      <ght:starsInPeriod>1866</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>coder/coder</title>
+      <link>https://github.com/coder/coder</link>
+      <description>Secure environments for developers and their agents</description>
+      <guid isPermaLink="true">https://github.com/coder/coder</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>16715</ght:stars>
+      <ght:forks>1590</ght:forks>
+      <ght:starsInPeriod>1246</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>guohuiyuan/go-music-dl</title>
+      <link>https://github.com/guohuiyuan/go-music-dl</link>
+      <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
+      <guid isPermaLink="true">https://github.com/guohuiyuan/go-music-dl</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4863</ght:stars>
+      <ght:forks>466</ght:forks>
+      <ght:starsInPeriod>352</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>kubernetes/kubernetes</title>
+      <link>https://github.com/kubernetes/kubernetes</link>
+      <description>Production-Grade Container Scheduling and Management</description>
+      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>128037</ght:stars>
+      <ght:forks>45391</ght:forks>
+      <ght:starsInPeriod>234</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>caddyserver/caddy</title>
+      <link>https://github.com/caddyserver/caddy</link>
+      <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
+      <guid isPermaLink="true">https://github.com/caddyserver/caddy</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>76101</ght:stars>
+      <ght:forks>5005</ght:forks>
+      <ght:starsInPeriod>267</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>golang/go</title>
+      <link>https://github.com/golang/go</link>
+      <description>The Go programming language</description>
+      <guid isPermaLink="true">https://github.com/golang/go</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>139047</ght:stars>
+      <ght:forks>20633</ght:forks>
+      <ght:starsInPeriod>214</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>prometheus/prometheus</title>
+      <link>https://github.com/prometheus/prometheus</link>
+      <description>The Prometheus monitoring system and time series database.</description>
+      <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>66257</ght:stars>
+      <ght:forks>10865</ght:forks>
+      <ght:starsInPeriod>158</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>openai/tunnel-client</title>
+      <link>https://github.com/openai/tunnel-client</link>
+      <description>Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.</description>
+      <guid isPermaLink="true">https://github.com/openai/tunnel-client</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>500</ght:stars>
+      <ght:forks>97</ght:forks>
+      <ght:starsInPeriod>75</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Gentleman-Programming/gentle-ai</title>
+      <link>https://github.com/Gentleman-Programming/gentle-ai</link>
+      <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
+      <guid isPermaLink="true">https://github.com/Gentleman-Programming/gentle-ai</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7326</ght:stars>
+      <ght:forks>803</ght:forks>
+      <ght:starsInPeriod>311</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>docker/compose</title>
+      <link>https://github.com/docker/compose</link>
+      <description>Define and run multi-container applications with Docker</description>
+      <guid isPermaLink="true">https://github.com/docker/compose</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>38243</ght:stars>
+      <ght:forks>5845</ght:forks>
+      <ght:starsInPeriod>78</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>elvisun/newsjack</title>
+      <link>https://github.com/elvisun/newsjack</link>
+      <description>The open-source skills that turn your agent into a full PR team.</description>
+      <guid isPermaLink="true">https://github.com/elvisun/newsjack</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>1431</ght:stars>
+      <ght:forks>133</ght:forks>
+      <ght:starsInPeriod>322</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>v2rayA/v2rayA</title>
+      <link>https://github.com/v2rayA/v2rayA</link>
+      <description>A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS.</description>
+      <guid isPermaLink="true">https://github.com/v2rayA/v2rayA</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>15620</ght:stars>
+      <ght:forks>1609</ght:forks>
+      <ght:starsInPeriod>59</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Armur-Ai/Pentest-Swarm-AI</title>
+      <link>https://github.com/Armur-Ai/Pentest-Swarm-AI</link>
+      <description>Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.</description>
+      <guid isPermaLink="true">https://github.com/Armur-Ai/Pentest-Swarm-AI</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>2634</ght:stars>
+      <ght:forks>480</ght:forks>
+      <ght:starsInPeriod>113</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>maximhq/bifrost</title>
+      <link>https://github.com/maximhq/bifrost</link>
+      <description>Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support &amp; &lt;100 µs overhead at 5k RPS.</description>
+      <guid isPermaLink="true">https://github.com/maximhq/bifrost</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>8383</ght:stars>
+      <ght:forks>1293</ght:forks>
+      <ght:starsInPeriod>216</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>qax-os/excelize</title>
+      <link>https://github.com/qax-os/excelize</link>
+      <description>Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets</description>
+      <guid isPermaLink="true">https://github.com/qax-os/excelize</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>20941</ght:stars>
+      <ght:forks>1961</ght:forks>
+      <ght:starsInPeriod>28</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>distribution/distribution</title>
+      <link>https://github.com/distribution/distribution</link>
+      <description>The toolkit to pack, ship, store, and deliver container content</description>
+      <guid isPermaLink="true">https://github.com/distribution/distribution</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>10628</ght:stars>
+      <ght:forks>2792</ght:forks>
+      <ght:starsInPeriod>11</ght:starsInPeriod>
+      <ght:bestRank>18</ght:bestRank>
+      <ght:latestRank>18</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>aquasecurity/trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>38089</ght:stars>
+      <ght:forks>715</ght:forks>
+      <ght:starsInPeriod>116</ght:starsInPeriod>
+      <ght:bestRank>19</ght:bestRank>
+      <ght:latestRank>19</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>getarcaneapp/arcane</title>
+      <link>https://github.com/getarcaneapp/arcane</link>
+      <description>Modern Docker Management, Designed for Everyone</description>
+      <guid isPermaLink="true">https://github.com/getarcaneapp/arcane</guid>
+      <pubDate>Sun, 27 Sep 2026 05:17:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7620</ght:stars>
+      <ght:forks>320</ght:forks>
+      <ght:starsInPeriod>183</ght:starsInPeriod>
+      <ght:bestRank>20</ght:bestRank>
+      <ght:latestRank>20</ght:latestRank>
+      <ght:firstSeenAt>2026-09-27T05:17:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-27T05:17:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+  </channel>
+</rss>
