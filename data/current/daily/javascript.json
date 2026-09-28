@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-09-27T21:20:40Z",
+  "observedAt": "2026-09-28T05:22:56Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "programmingLanguage": "JavaScript",
-      "stars": 122140,
-      "forks": 38174,
-      "starsInPeriod": 28
+      "stars": 122143,
+      "forks": 38218,
+      "starsInPeriod": 32
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
       "programmingLanguage": "JavaScript",
-      "stars": 142791,
-      "forks": 33281,
-      "starsInPeriod": 317
+      "stars": 142812,
+      "forks": 33318,
+      "starsInPeriod": 276
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/androoAGI/starnet",
       "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
       "programmingLanguage": "JavaScript",
-      "stars": 672,
-      "forks": 112,
-      "starsInPeriod": 58
+      "stars": 683,
+      "forks": 113,
+      "starsInPeriod": 57
     },
     {
       "rank": 4,
@@ -44,8 +44,8 @@
       "url": "https://github.com/mlmvpn/mlmvpn_windows",
       "description": "MLMVPN - Ultimate Anti-Filter & IP Scanner",
       "programmingLanguage": "JavaScript",
-      "stars": 151,
-      "forks": 24,
+      "stars": 153,
+      "forks": 25,
       "starsInPeriod": 27
     },
     {
@@ -54,99 +54,109 @@
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
       "programmingLanguage": "JavaScript",
-      "stars": 115990,
-      "forks": 36578,
-      "starsInPeriod": 50
+      "stars": 116000,
+      "forks": 36579,
+      "starsInPeriod": 51
     },
     {
       "rank": 6,
+      "fullName": "huilang-me/CF-Server-Monitor",
+      "url": "https://github.com/huilang-me/CF-Server-Monitor",
+      "description": "一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。",
+      "programmingLanguage": "JavaScript",
+      "stars": 2287,
+      "forks": 2133,
+      "starsInPeriod": 30
+    },
+    {
+      "rank": 7,
       "fullName": "fishjar/kiss-translator",
       "url": "https://github.com/fishjar/kiss-translator",
       "description": "A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)",
       "programmingLanguage": "JavaScript",
-      "stars": 12657,
+      "stars": 12661,
       "forks": 617,
       "starsInPeriod": 21
     },
     {
-      "rank": 7,
+      "rank": 8,
       "fullName": "darkzOGx/youtube-automation-agent",
       "url": "https://github.com/darkzOGx/youtube-automation-agent",
       "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
       "programmingLanguage": "JavaScript",
-      "stars": 3874,
-      "forks": 1171,
-      "starsInPeriod": 45
+      "stars": 3882,
+      "forks": 1174,
+      "starsInPeriod": 52
     },
     {
-      "rank": 8,
+      "rank": 9,
       "fullName": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 146875,
-      "forks": 7891,
-      "starsInPeriod": 520
+      "stars": 147010,
+      "forks": 7898,
+      "starsInPeriod": 511
     },
     {
-      "rank": 9,
+      "rank": 10,
       "fullName": "preactjs/preact",
       "url": "https://github.com/preactjs/preact",
       "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.",
       "programmingLanguage": "JavaScript",
-      "stars": 38892,
-      "forks": 3153,
-      "starsInPeriod": 2
+      "stars": 38893,
+      "forks": 3186,
+      "starsInPeriod": 3
     },
     {
-      "rank": 10,
+      "rank": 11,
       "fullName": "qist/tvbox",
       "url": "https://github.com/qist/tvbox",
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "programmingLanguage": "JavaScript",
-      "stars": 11510,
-      "forks": 4114,
-      "starsInPeriod": 24
+      "stars": 11517,
+      "forks": 4117,
+      "starsInPeriod": 23
     },
     {
-      "rank": 11,
+      "rank": 12,
       "fullName": "hmjz100/LinkSwift",
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 20958,
-      "forks": 1270,
-      "starsInPeriod": 48
+      "stars": 20973,
+      "forks": 1272,
+      "starsInPeriod": 53
     },
     {
-      "rank": 12,
+      "rank": 13,
       "fullName": "expressjs/express",
       "url": "https://github.com/expressjs/express",
       "description": "Fast, unopinionated, minimalist web framework for node.",
       "programmingLanguage": "JavaScript",
-      "stars": 69494,
-      "forks": 25084,
-      "starsInPeriod": 7
+      "stars": 69495,
+      "forks": 25087,
+      "starsInPeriod": 9
     },
     {
-      "rank": 13,
+      "rank": 14,
       "fullName": "ulsklyc/yuvomi",
       "url": "https://github.com/ulsklyc/yuvomi",
       "description": "Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.",
       "programmingLanguage": "JavaScript",
-      "stars": 1592,
-      "forks": 152,
-      "starsInPeriod": 13
+      "stars": 1597,
+      "forks": 153,
+      "starsInPeriod": 10
     },
     {
-      "rank": 14,
+      "rank": 15,
       "fullName": "chuspeeism/dashi-ppt-skill",
       "url": "https://github.com/chuspeeism/dashi-ppt-skill",
       "description": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
       "programmingLanguage": "JavaScript",
-      "stars": 8880,
-      "forks": 799,
-      "starsInPeriod": 46
+      "stars": 8902,
+      "forks": 800,
+      "starsInPeriod": 50
     }
   ]
 }

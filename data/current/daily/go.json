@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-09-27T21:20:31Z",
+  "observedAt": "2026-09-28T05:22:46Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/git-bug/git-bug",
       "description": "Distributed, offline-first bug tracker integrated in git",
       "programmingLanguage": "Go",
-      "stars": 10610,
+      "stars": 10626,
       "forks": 332,
-      "starsInPeriod": 59
+      "starsInPeriod": 55
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/daeuniverse/dae",
       "description": "eBPF-based Linux high-performance transparent proxy solution.",
       "programmingLanguage": "Go",
-      "stars": 6243,
+      "stars": 6248,
       "forks": 409,
-      "starsInPeriod": 3
+      "starsInPeriod": 6
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "programmingLanguage": "Go",
-      "stars": 8131,
+      "stars": 8146,
       "forks": 595,
-      "starsInPeriod": 232
+      "starsInPeriod": 199
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/putyy/res-downloader",
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "programmingLanguage": "Go",
-      "stars": 20261,
-      "forks": 2517,
-      "starsInPeriod": 76
+      "stars": 20267,
+      "forks": 2520,
+      "starsInPeriod": 68
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139057,
-      "forks": 20717,
-      "starsInPeriod": 29
+      "stars": 139059,
+      "forks": 20751,
+      "starsInPeriod": 30
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/cockroachdb/cockroach",
       "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
       "programmingLanguage": "Go",
-      "stars": 32517,
-      "forks": 4118,
-      "starsInPeriod": 7
+      "stars": 32521,
+      "forks": 4120,
+      "starsInPeriod": 8
     },
     {
       "rank": 7,
@@ -74,7 +74,7 @@
       "url": "https://github.com/dagucloud/dagu",
       "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
       "programmingLanguage": "Go",
-      "stars": 4168,
+      "stars": 4177,
       "forks": 351,
       "starsInPeriod": 43
     },
@@ -84,9 +84,9 @@
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 28129,
+      "stars": 28147,
       "forks": 2601,
-      "starsInPeriod": 59
+      "starsInPeriod": 53
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/Billionmail/BillionMail",
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "programmingLanguage": "Go",
-      "stars": 15680,
-      "forks": 1719,
-      "starsInPeriod": 18
+      "stars": 15697,
+      "forks": 1720,
+      "starsInPeriod": 26
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "programmingLanguage": "Go",
-      "stars": 111238,
-      "forks": 15147,
-      "starsInPeriod": 23
+      "stars": 111248,
+      "forks": 15184,
+      "starsInPeriod": 19
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/YoanWai/agent-manager",
       "description": "The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.",
       "programmingLanguage": "Go",
-      "stars": 524,
+      "stars": 532,
       "forks": 55,
-      "starsInPeriod": 18
+      "starsInPeriod": 16
     },
     {
       "rank": 12,
@@ -124,8 +124,8 @@
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 128053,
-      "forks": 45454,
+      "stars": 128060,
+      "forks": 45499,
       "starsInPeriod": 36
     },
     {
@@ -134,9 +134,9 @@
       "url": "https://github.com/junegunn/fzf",
       "description": "🌸 A command-line fuzzy finder",
       "programmingLanguage": "Go",
-      "stars": 83278,
-      "forks": 3901,
-      "starsInPeriod": 22
+      "stars": 83280,
+      "forks": 3943,
+      "starsInPeriod": 21
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "programmingLanguage": "Go",
-      "stars": 49299,
-      "forks": 4473,
-      "starsInPeriod": 22
+      "stars": 49303,
+      "forks": 4474,
+      "starsInPeriod": 20
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/spf13/cobra",
       "description": "A Commander for modern Go CLI interactions",
       "programmingLanguage": "Go",
-      "stars": 44665,
-      "forks": 4381,
-      "starsInPeriod": 10
+      "stars": 44666,
+      "forks": 4420,
+      "starsInPeriod": 8
     },
     {
       "rank": 16,
@@ -166,7 +166,7 @@
       "programmingLanguage": "Go",
       "stars": 1071,
       "forks": 225,
-      "starsInPeriod": 12
+      "starsInPeriod": 7
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/fyne-io/fyne",
       "description": "Cross platform GUI toolkit in Go inspired by Material Design",
       "programmingLanguage": "Go",
-      "stars": 28722,
+      "stars": 28724,
       "forks": 1554,
-      "starsInPeriod": 8
+      "starsInPeriod": 5
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
       "programmingLanguage": "Go",
-      "stars": 46428,
-      "forks": 9092,
-      "starsInPeriod": 15
+      "stars": 46430,
+      "forks": 9093,
+      "starsInPeriod": 11
     }
   ]
 }
