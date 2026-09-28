@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Mon, 28 Sep 2026 05:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:52:55 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-09-28</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-09-28T05:22:46Z</ght:updatedAt>
+    <ght:updatedAt>2026-09-28T13:52:55Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -30,20 +30,68 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>guohuiyuan/go-music-dl</title>
+      <link>https://github.com/guohuiyuan/go-music-dl</link>
+      <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
+      <guid isPermaLink="true">https://github.com/guohuiyuan/go-music-dl</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:55 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4955</ght:stars>
+      <ght:forks>476</ght:forks>
+      <ght:starsInPeriod>61</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-09-28T13:52:55Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Billionmail/BillionMail</title>
+      <link>https://github.com/Billionmail/BillionMail</link>
+      <description>BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</description>
+      <guid isPermaLink="true">https://github.com/Billionmail/BillionMail</guid>
+      <pubDate>Mon, 28 Sep 2026 05:22:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>15714</ght:stars>
+      <ght:forks>1723</ght:forks>
+      <ght:starsInPeriod>26</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-09-28T05:22:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>daeuniverse/dae</title>
       <link>https://github.com/daeuniverse/dae</link>
       <description>eBPF-based Linux high-performance transparent proxy solution.</description>
       <guid isPermaLink="true">https://github.com/daeuniverse/dae</guid>
       <pubDate>Mon, 28 Sep 2026 05:22:46 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6248</ght:stars>
+      <ght:stars>6251</ght:stars>
       <ght:forks>409</ght:forks>
       <ght:starsInPeriod>6</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
-      <ght:latestRank>2</ght:latestRank>
+      <ght:latestRank>10</ght:latestRank>
       <ght:firstSeenAt>2026-09-28T05:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-28T05:22:46Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>dagucloud/dagu</title>
+      <link>https://github.com/dagucloud/dagu</link>
+      <description>Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.</description>
+      <guid isPermaLink="true">https://github.com/dagucloud/dagu</guid>
+      <pubDate>Mon, 28 Sep 2026 05:22:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4191</ght:stars>
+      <ght:forks>351</ght:forks>
+      <ght:starsInPeriod>43</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-09-28T05:22:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>openbao/openbao</title>
@@ -52,14 +100,14 @@
       <guid isPermaLink="true">https://github.com/openbao/openbao</guid>
       <pubDate>Mon, 28 Sep 2026 05:22:46 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>8146</ght:stars>
-      <ght:forks>595</ght:forks>
+      <ght:stars>8165</ght:stars>
+      <ght:forks>597</ght:forks>
       <ght:starsInPeriod>199</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
-      <ght:latestRank>3</ght:latestRank>
+      <ght:latestRank>4</ght:latestRank>
       <ght:firstSeenAt>2026-09-28T05:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-28T05:22:46Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>putyy/res-downloader</title>
@@ -84,13 +132,29 @@
       <guid isPermaLink="true">https://github.com/golang/go</guid>
       <pubDate>Mon, 28 Sep 2026 05:22:46 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>139059</ght:stars>
-      <ght:forks>20751</ght:forks>
+      <ght:stars>139062</ght:stars>
+      <ght:forks>20773</ght:forks>
       <ght:starsInPeriod>30</ght:starsInPeriod>
       <ght:bestRank>5</ght:bestRank>
-      <ght:latestRank>5</ght:latestRank>
+      <ght:latestRank>12</ght:latestRank>
       <ght:firstSeenAt>2026-09-28T05:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-28T05:22:46Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>londek/ipadecrypt</title>
+      <link>https://github.com/londek/ipadecrypt</link>
+      <description>🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks</description>
+      <guid isPermaLink="true">https://github.com/londek/ipadecrypt</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:55 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>601</ght:stars>
+      <ght:forks>71</ght:forks>
+      <ght:starsInPeriod>14</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-09-28T13:52:55Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -110,20 +174,36 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>dagucloud/dagu</title>
-      <link>https://github.com/dagucloud/dagu</link>
-      <description>Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.</description>
-      <guid isPermaLink="true">https://github.com/dagucloud/dagu</guid>
+      <title>ffuf/ffuf</title>
+      <link>https://github.com/ffuf/ffuf</link>
+      <description>Fast web fuzzer written in Go</description>
+      <guid isPermaLink="true">https://github.com/ffuf/ffuf</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:55 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>16755</ght:stars>
+      <ght:forks>1606</ght:forks>
+      <ght:starsInPeriod>27</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-09-28T13:52:55Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>junegunn/fzf</title>
+      <link>https://github.com/junegunn/fzf</link>
+      <description>🌸 A command-line fuzzy finder</description>
+      <guid isPermaLink="true">https://github.com/junegunn/fzf</guid>
       <pubDate>Mon, 28 Sep 2026 05:22:46 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>4177</ght:stars>
-      <ght:forks>351</ght:forks>
-      <ght:starsInPeriod>43</ght:starsInPeriod>
+      <ght:stars>83285</ght:stars>
+      <ght:forks>3955</ght:forks>
+      <ght:starsInPeriod>21</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
       <ght:firstSeenAt>2026-09-28T05:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-28T05:22:46Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>trufflesecurity/trufflehog</title>
@@ -142,19 +222,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>Billionmail/BillionMail</title>
-      <link>https://github.com/Billionmail/BillionMail</link>
-      <description>BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</description>
-      <guid isPermaLink="true">https://github.com/Billionmail/BillionMail</guid>
-      <pubDate>Mon, 28 Sep 2026 05:22:46 GMT</pubDate>
+      <title>NdoleStudio/httpsms</title>
+      <link>https://github.com/NdoleStudio/httpsms</link>
+      <description>Send and receive SMS messages using your Android phone programmatically via a simple HTTP API</description>
+      <guid isPermaLink="true">https://github.com/NdoleStudio/httpsms</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:55 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>15697</ght:stars>
-      <ght:forks>1720</ght:forks>
-      <ght:starsInPeriod>26</ght:starsInPeriod>
+      <ght:stars>5217</ght:stars>
+      <ght:forks>959</ght:forks>
+      <ght:starsInPeriod>10</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-09-28T13:52:55Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>rorkai/App-Store-Connect-CLI</title>
+      <link>https://github.com/rorkai/App-Store-Connect-CLI</link>
+      <description>Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more</description>
+      <guid isPermaLink="true">https://github.com/rorkai/App-Store-Connect-CLI</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:55 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7497</ght:stars>
+      <ght:forks>630</ght:forks>
+      <ght:starsInPeriod>102</ght:starsInPeriod>
       <ght:bestRank>9</ght:bestRank>
       <ght:latestRank>9</ght:latestRank>
-      <ght:firstSeenAt>2026-09-28T05:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-28T05:22:46Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-09-28T13:52:55Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -190,6 +286,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>nats-io/nats-server</title>
+      <link>https://github.com/nats-io/nats-server</link>
+      <description>High-Performance server for NATS.io, the cloud and edge native messaging system.</description>
+      <guid isPermaLink="true">https://github.com/nats-io/nats-server</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:55 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>20783</ght:stars>
+      <ght:forks>1976</ght:forks>
+      <ght:starsInPeriod>6</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-09-28T13:52:55Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>kubernetes/kubernetes</title>
       <link>https://github.com/kubernetes/kubernetes</link>
       <description>Production-Grade Container Scheduling and Management</description>
@@ -206,19 +318,19 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>junegunn/fzf</title>
-      <link>https://github.com/junegunn/fzf</link>
-      <description>🌸 A command-line fuzzy finder</description>
-      <guid isPermaLink="true">https://github.com/junegunn/fzf</guid>
-      <pubDate>Mon, 28 Sep 2026 05:22:46 GMT</pubDate>
+      <title>hashicorp/terraform</title>
+      <link>https://github.com/hashicorp/terraform</link>
+      <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
+      <guid isPermaLink="true">https://github.com/hashicorp/terraform</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:55 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>83280</ght:stars>
-      <ght:forks>3943</ght:forks>
-      <ght:starsInPeriod>21</ght:starsInPeriod>
+      <ght:stars>49781</ght:stars>
+      <ght:forks>10635</ght:forks>
+      <ght:starsInPeriod>11</ght:starsInPeriod>
       <ght:bestRank>13</ght:bestRank>
       <ght:latestRank>13</ght:latestRank>
-      <ght:firstSeenAt>2026-09-28T05:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-28T05:22:46Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-09-28T13:52:55Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -238,6 +350,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>AminMGMT/BackPack</title>
+      <link>https://github.com/AminMGMT/BackPack</link>
+      <description>High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups</description>
+      <guid isPermaLink="true">https://github.com/AminMGMT/BackPack</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:55 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>396</ght:stars>
+      <ght:forks>94</ght:forks>
+      <ght:starsInPeriod>11</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-09-28T13:52:55Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>spf13/cobra</title>
       <link>https://github.com/spf13/cobra</link>
       <description>A Commander for modern Go CLI interactions</description>
@@ -251,6 +379,22 @@
       <ght:latestRank>15</ght:latestRank>
       <ght:firstSeenAt>2026-09-28T05:22:46Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-09-28T05:22:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>grafana/k6</title>
+      <link>https://github.com/grafana/k6</link>
+      <description>A modern load testing tool, using Go and JavaScript</description>
+      <guid isPermaLink="true">https://github.com/grafana/k6</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:55 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>31685</ght:stars>
+      <ght:forks>1650</ght:forks>
+      <ght:starsInPeriod>26</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-09-28T13:52:55Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -270,6 +414,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>fish2018/pansou</title>
+      <link>https://github.com/fish2018/pansou</link>
+      <description>PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv</description>
+      <guid isPermaLink="true">https://github.com/fish2018/pansou</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:55 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>14730</ght:stars>
+      <ght:forks>3574</ght:forks>
+      <ght:starsInPeriod>16</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-09-28T13:52:55Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>fyne-io/fyne</title>
       <link>https://github.com/fyne-io/fyne</link>
       <description>Cross platform GUI toolkit in Go inspired by Material Design</description>
@@ -286,6 +446,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>gitleaks/gitleaks</title>
+      <link>https://github.com/gitleaks/gitleaks</link>
+      <description>Find secrets with Gitleaks 🔑</description>
+      <guid isPermaLink="true">https://github.com/gitleaks/gitleaks</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:55 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>29531</ght:stars>
+      <ght:forks>2255</ght:forks>
+      <ght:starsInPeriod>25</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-09-28T13:52:55Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>cli/cli</title>
       <link>https://github.com/cli/cli</link>
       <description>GitHub’s official command line tool</description>
@@ -299,6 +475,22 @@
       <ght:latestRank>18</ght:latestRank>
       <ght:firstSeenAt>2026-09-28T05:22:46Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-09-28T05:22:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>pingcap/tidb</title>
+      <link>https://github.com/pingcap/tidb</link>
+      <description>TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.</description>
+      <guid isPermaLink="true">https://github.com/pingcap/tidb</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:55 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>40598</ght:stars>
+      <ght:forks>6248</ght:forks>
+      <ght:starsInPeriod>2</ght:starsInPeriod>
+      <ght:bestRank>18</ght:bestRank>
+      <ght:latestRank>18</ght:latestRank>
+      <ght:firstSeenAt>2026-09-28T13:52:55Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-28T13:52:55Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>

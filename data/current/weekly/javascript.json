@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=weekly",
-  "observedAt": "2026-09-28T05:22:59Z",
+  "observedAt": "2026-09-28T13:53:08Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 22412,
-      "forks": 1303,
+      "stars": 22579,
+      "forks": 1311,
       "starsInPeriod": 4805
     },
     {
@@ -24,129 +24,119 @@
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
       "programmingLanguage": "JavaScript",
-      "stars": 142812,
-      "forks": 33318,
+      "stars": 142840,
+      "forks": 33346,
       "starsInPeriod": 496
     },
     {
       "rank": 3,
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "programmingLanguage": "JavaScript",
-      "stars": 268517,
-      "forks": 40116,
-      "starsInPeriod": 5175
-    },
-    {
-      "rank": 4,
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "programmingLanguage": "JavaScript",
-      "stars": 99539,
-      "forks": 10454,
-      "starsInPeriod": 2063
-    },
-    {
-      "rank": 5,
-      "fullName": "androoAGI/starnet",
-      "url": "https://github.com/androoAGI/starnet",
-      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-      "programmingLanguage": "JavaScript",
-      "stars": 683,
-      "forks": 113,
-      "starsInPeriod": 569
-    },
-    {
-      "rank": 6,
       "fullName": "mnfst/awesome-free-llm-apis",
       "url": "https://github.com/mnfst/awesome-free-llm-apis",
       "description": "List of Permanent Free LLM API (API Keys)",
       "programmingLanguage": "JavaScript",
-      "stars": 8501,
-      "forks": 842,
+      "stars": 8536,
+      "forks": 847,
       "starsInPeriod": 550
     },
     {
-      "rank": 7,
+      "rank": 4,
       "fullName": "laoma2053/awesome-zhuiju-free",
       "url": "https://github.com/laoma2053/awesome-zhuiju-free",
       "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
       "programmingLanguage": "JavaScript",
-      "stars": 10477,
-      "forks": 690,
+      "stars": 10506,
+      "forks": 692,
       "starsInPeriod": 1446
     },
     {
-      "rank": 8,
+      "rank": 5,
       "fullName": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "JavaScript",
-      "stars": 71864,
-      "forks": 4346,
+      "stars": 71979,
+      "forks": 4355,
       "starsInPeriod": 2482
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "programmingLanguage": "JavaScript",
+      "stars": 268706,
+      "forks": 40141,
+      "starsInPeriod": 5175
+    },
+    {
+      "rank": 7,
       "fullName": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "programmingLanguage": "JavaScript",
-      "stars": 1469,
-      "forks": 354,
+      "stars": 1479,
+      "forks": 358,
       "starsInPeriod": 422
     },
     {
-      "rank": 10,
-      "fullName": "rafaelbressan/masterzap",
-      "url": "https://github.com/rafaelbressan/masterzap",
-      "description": "Visualizador das conversas vazadas do WhatsApp do Daniel Vorcaro (Banco Master) com a Martha Graeff.",
-      "programmingLanguage": "JavaScript",
-      "stars": 106,
-      "forks": 56,
-      "starsInPeriod": 51
-    },
-    {
-      "rank": 11,
+      "rank": 8,
       "fullName": "pdone/lx-music-source",
       "url": "https://github.com/pdone/lx-music-source",
       "description": "洛雪音乐源",
       "programmingLanguage": "JavaScript",
-      "stars": 9287,
-      "forks": 785,
+      "stars": 9308,
+      "forks": 789,
       "starsInPeriod": 284
     },
     {
-      "rank": 12,
+      "rank": 9,
+      "fullName": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "programmingLanguage": "JavaScript",
+      "stars": 122151,
+      "forks": 38237,
+      "starsInPeriod": 207
+    },
+    {
+      "rank": 10,
+      "fullName": "androoAGI/starnet",
+      "url": "https://github.com/androoAGI/starnet",
+      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "programmingLanguage": "JavaScript",
+      "stars": 692,
+      "forks": 113,
+      "starsInPeriod": 569
+    },
+    {
+      "rank": 11,
       "fullName": "Mathieu2301/TradingView-API",
       "url": "https://github.com/Mathieu2301/TradingView-API",
       "description": "📈 Get real-time stocks from TradingView",
       "programmingLanguage": "JavaScript",
-      "stars": 5381,
-      "forks": 961,
+      "stars": 5382,
+      "forks": 963,
       "starsInPeriod": 302
     },
     {
-      "rank": 13,
-      "fullName": "calesthio/Crucix",
-      "url": "https://github.com/calesthio/Crucix",
-      "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+      "rank": 12,
+      "fullName": "qist/tvbox",
+      "url": "https://github.com/qist/tvbox",
+      "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "programmingLanguage": "JavaScript",
-      "stars": 12034,
-      "forks": 1860,
-      "starsInPeriod": 270
+      "stars": 11526,
+      "forks": 4124,
+      "starsInPeriod": 132
     },
     {
-      "rank": 14,
-      "fullName": "wwebjs/whatsapp-web.js",
-      "url": "https://github.com/wwebjs/whatsapp-web.js",
-      "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+      "rank": 13,
+      "fullName": "darkzOGx/youtube-automation-agent",
+      "url": "https://github.com/darkzOGx/youtube-automation-agent",
+      "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
       "programmingLanguage": "JavaScript",
-      "stars": 22651,
-      "forks": 5169,
-      "starsInPeriod": 61
+      "stars": 3893,
+      "forks": 1178,
+      "starsInPeriod": 292
     }
   ]
 }

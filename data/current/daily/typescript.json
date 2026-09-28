@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-09-28T05:23:06Z",
+  "observedAt": "2026-09-28T13:53:15Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,89 +14,89 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "programmingLanguage": "TypeScript",
-      "stars": 90539,
-      "forks": 15715,
-      "starsInPeriod": 2401
+      "stars": 91784,
+      "forks": 15816,
+      "starsInPeriod": 3185
     },
     {
       "rank": 2,
-      "fullName": "vercel-labs/scriptc",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "description": "TypeScript-to-Native Compiler",
-      "programmingLanguage": "TypeScript",
-      "stars": 5475,
-      "forks": 142,
-      "starsInPeriod": 102
-    },
-    {
-      "rank": 3,
       "fullName": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "programmingLanguage": "TypeScript",
-      "stars": 1134,
-      "forks": 110,
-      "starsInPeriod": 114
+      "stars": 1421,
+      "forks": 125,
+      "starsInPeriod": 781
     },
     {
-      "rank": 4,
+      "rank": 3,
       "fullName": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "programmingLanguage": "TypeScript",
-      "stars": 20735,
-      "forks": 1754,
-      "starsInPeriod": 895
+      "stars": 20982,
+      "forks": 1782,
+      "starsInPeriod": 1105
+    },
+    {
+      "rank": 4,
+      "fullName": "HelpCode-ai/anythingmcp",
+      "url": "https://github.com/HelpCode-ai/anythingmcp",
+      "description": "Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude & ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA & Business One, ERP, e-commerce.",
+      "programmingLanguage": "TypeScript",
+      "stars": 535,
+      "forks": 69,
+      "starsInPeriod": 84
     },
     {
       "rank": 5,
-      "fullName": "expo/expo",
-      "url": "https://github.com/expo/expo",
-      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "fullName": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "programmingLanguage": "TypeScript",
-      "stars": 52467,
-      "forks": 14237,
-      "starsInPeriod": 15
+      "stars": 49689,
+      "forks": 4946,
+      "starsInPeriod": 216
     },
     {
       "rank": 6,
-      "fullName": "Gimanh/taskview-community",
-      "url": "https://github.com/Gimanh/taskview-community",
-      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
+      "fullName": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
       "programmingLanguage": "TypeScript",
-      "stars": 1085,
-      "forks": 76,
-      "starsInPeriod": 116
+      "stars": 5579,
+      "forks": 143,
+      "starsInPeriod": 369
     },
     {
       "rank": 7,
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
+      "fullName": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "programmingLanguage": "TypeScript",
-      "stars": 53704,
-      "forks": 4894,
-      "starsInPeriod": 304
+      "stars": 2898,
+      "forks": 353,
+      "starsInPeriod": 13
     },
     {
       "rank": 8,
-      "fullName": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "fullName": "code-yeongyu/oh-my-openagent",
+      "url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
       "programmingLanguage": "TypeScript",
-      "stars": 456386,
-      "forks": 47644,
-      "starsInPeriod": 100
+      "stars": 69619,
+      "forks": 5731,
+      "starsInPeriod": 87
     },
     {
       "rank": 9,
-      "fullName": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "fullName": "satnaing/shadcn-admin",
+      "url": "https://github.com/satnaing/shadcn-admin",
+      "description": "Admin Dashboard UI built with Shadcn and Vite.",
       "programmingLanguage": "TypeScript",
-      "stars": 4158,
-      "forks": 1019,
-      "starsInPeriod": 133
+      "stars": 14972,
+      "forks": 2288,
+      "starsInPeriod": 379
     },
     {
       "rank": 10,
@@ -104,49 +104,9 @@
       "url": "https://github.com/mobile-next/mobile-mcp",
       "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
       "programmingLanguage": "TypeScript",
-      "stars": 7983,
-      "forks": 685,
+      "stars": 8138,
+      "forks": 701,
       "starsInPeriod": 577
-    },
-    {
-      "rank": 11,
-      "fullName": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "programmingLanguage": "Rust",
-      "stars": 8127,
-      "forks": 334,
-      "starsInPeriod": 588
-    },
-    {
-      "rank": 12,
-      "fullName": "SinaXhpm/Submarine",
-      "url": "https://github.com/SinaXhpm/Submarine",
-      "description": "Modern SSH & SFTP client — terminal, SFTP, port forwarding, folder mirror, encrypted sync. Windows · macOS · Linux · Android.",
-      "programmingLanguage": "TypeScript",
-      "stars": 374,
-      "forks": 28,
-      "starsInPeriod": 40
-    },
-    {
-      "rank": 13,
-      "fullName": "calcom/cal.diy",
-      "url": "https://github.com/calcom/cal.diy",
-      "description": "Scheduling infrastructure for absolutely everyone.",
-      "programmingLanguage": "TypeScript",
-      "stars": 48700,
-      "forks": 15226,
-      "starsInPeriod": 24
-    },
-    {
-      "rank": 14,
-      "fullName": "freemocap/freemocap",
-      "url": "https://github.com/freemocap/freemocap",
-      "description": "Free Motion Capture for Everyone 💀✨",
-      "programmingLanguage": "TypeScript",
-      "stars": 10339,
-      "forks": 970,
-      "starsInPeriod": 31
     }
   ]
 }

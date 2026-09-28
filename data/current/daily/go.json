@@ -4,189 +4,189 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-09-28T05:22:46Z",
+  "observedAt": "2026-09-28T13:52:55Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "git-bug/git-bug",
-      "url": "https://github.com/git-bug/git-bug",
-      "description": "Distributed, offline-first bug tracker integrated in git",
+      "fullName": "guohuiyuan/go-music-dl",
+      "url": "https://github.com/guohuiyuan/go-music-dl",
+      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "programmingLanguage": "Go",
-      "stars": 10626,
-      "forks": 332,
-      "starsInPeriod": 55
+      "stars": 4955,
+      "forks": 476,
+      "starsInPeriod": 61
     },
     {
       "rank": 2,
-      "fullName": "daeuniverse/dae",
-      "url": "https://github.com/daeuniverse/dae",
-      "description": "eBPF-based Linux high-performance transparent proxy solution.",
-      "programmingLanguage": "Go",
-      "stars": 6248,
-      "forks": 409,
-      "starsInPeriod": 6
-    },
-    {
-      "rank": 3,
-      "fullName": "openbao/openbao",
-      "url": "https://github.com/openbao/openbao",
-      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "programmingLanguage": "Go",
-      "stars": 8146,
-      "forks": 595,
-      "starsInPeriod": 199
-    },
-    {
-      "rank": 4,
-      "fullName": "putyy/res-downloader",
-      "url": "https://github.com/putyy/res-downloader",
-      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
-      "programmingLanguage": "Go",
-      "stars": 20267,
-      "forks": 2520,
-      "starsInPeriod": 68
-    },
-    {
-      "rank": 5,
-      "fullName": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "programmingLanguage": "Go",
-      "stars": 139059,
-      "forks": 20751,
-      "starsInPeriod": 30
-    },
-    {
-      "rank": 6,
-      "fullName": "cockroachdb/cockroach",
-      "url": "https://github.com/cockroachdb/cockroach",
-      "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
-      "programmingLanguage": "Go",
-      "stars": 32521,
-      "forks": 4120,
-      "starsInPeriod": 8
-    },
-    {
-      "rank": 7,
-      "fullName": "dagucloud/dagu",
-      "url": "https://github.com/dagucloud/dagu",
-      "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
-      "programmingLanguage": "Go",
-      "stars": 4177,
-      "forks": 351,
-      "starsInPeriod": 43
-    },
-    {
-      "rank": 8,
-      "fullName": "trufflesecurity/trufflehog",
-      "url": "https://github.com/trufflesecurity/trufflehog",
-      "description": "Find, verify, and analyze leaked credentials",
-      "programmingLanguage": "Go",
-      "stars": 28147,
-      "forks": 2601,
-      "starsInPeriod": 53
-    },
-    {
-      "rank": 9,
       "fullName": "Billionmail/BillionMail",
       "url": "https://github.com/Billionmail/BillionMail",
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "programmingLanguage": "Go",
-      "stars": 15697,
-      "forks": 1720,
+      "stars": 15714,
+      "forks": 1723,
       "starsInPeriod": 26
     },
     {
-      "rank": 10,
-      "fullName": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "rank": 3,
+      "fullName": "dagucloud/dagu",
+      "url": "https://github.com/dagucloud/dagu",
+      "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
       "programmingLanguage": "Go",
-      "stars": 111248,
-      "forks": 15184,
-      "starsInPeriod": 19
+      "stars": 4191,
+      "forks": 351,
+      "starsInPeriod": 43
     },
     {
-      "rank": 11,
-      "fullName": "YoanWai/agent-manager",
-      "url": "https://github.com/YoanWai/agent-manager",
-      "description": "The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.",
+      "rank": 4,
+      "fullName": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "programmingLanguage": "Go",
-      "stars": 532,
-      "forks": 55,
-      "starsInPeriod": 16
+      "stars": 8165,
+      "forks": 597,
+      "starsInPeriod": 199
     },
     {
-      "rank": 12,
-      "fullName": "kubernetes/kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
+      "rank": 5,
+      "fullName": "londek/ipadecrypt",
+      "url": "https://github.com/londek/ipadecrypt",
+      "description": "🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks",
       "programmingLanguage": "Go",
-      "stars": 128060,
-      "forks": 45499,
-      "starsInPeriod": 36
+      "stars": 601,
+      "forks": 71,
+      "starsInPeriod": 14
     },
     {
-      "rank": 13,
+      "rank": 6,
+      "fullName": "ffuf/ffuf",
+      "url": "https://github.com/ffuf/ffuf",
+      "description": "Fast web fuzzer written in Go",
+      "programmingLanguage": "Go",
+      "stars": 16755,
+      "forks": 1606,
+      "starsInPeriod": 27
+    },
+    {
+      "rank": 7,
       "fullName": "junegunn/fzf",
       "url": "https://github.com/junegunn/fzf",
       "description": "🌸 A command-line fuzzy finder",
       "programmingLanguage": "Go",
-      "stars": 83280,
-      "forks": 3943,
+      "stars": 83285,
+      "forks": 3955,
       "starsInPeriod": 21
     },
     {
-      "rank": 14,
-      "fullName": "mudler/LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "rank": 8,
+      "fullName": "NdoleStudio/httpsms",
+      "url": "https://github.com/NdoleStudio/httpsms",
+      "description": "Send and receive SMS messages using your Android phone programmatically via a simple HTTP API",
       "programmingLanguage": "Go",
-      "stars": 49303,
-      "forks": 4474,
-      "starsInPeriod": 20
+      "stars": 5217,
+      "forks": 959,
+      "starsInPeriod": 10
+    },
+    {
+      "rank": 9,
+      "fullName": "rorkai/App-Store-Connect-CLI",
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI",
+      "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
+      "programmingLanguage": "Go",
+      "stars": 7497,
+      "forks": 630,
+      "starsInPeriod": 102
+    },
+    {
+      "rank": 10,
+      "fullName": "daeuniverse/dae",
+      "url": "https://github.com/daeuniverse/dae",
+      "description": "eBPF-based Linux high-performance transparent proxy solution.",
+      "programmingLanguage": "Go",
+      "stars": 6251,
+      "forks": 409,
+      "starsInPeriod": 6
+    },
+    {
+      "rank": 11,
+      "fullName": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "programmingLanguage": "Go",
+      "stars": 20783,
+      "forks": 1976,
+      "starsInPeriod": 6
+    },
+    {
+      "rank": 12,
+      "fullName": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "programmingLanguage": "Go",
+      "stars": 139062,
+      "forks": 20773,
+      "starsInPeriod": 30
+    },
+    {
+      "rank": 13,
+      "fullName": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "programmingLanguage": "Go",
+      "stars": 49781,
+      "forks": 10635,
+      "starsInPeriod": 11
+    },
+    {
+      "rank": 14,
+      "fullName": "AminMGMT/BackPack",
+      "url": "https://github.com/AminMGMT/BackPack",
+      "description": "High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups",
+      "programmingLanguage": "Go",
+      "stars": 396,
+      "forks": 94,
+      "starsInPeriod": 11
     },
     {
       "rank": 15,
-      "fullName": "spf13/cobra",
-      "url": "https://github.com/spf13/cobra",
-      "description": "A Commander for modern Go CLI interactions",
+      "fullName": "grafana/k6",
+      "url": "https://github.com/grafana/k6",
+      "description": "A modern load testing tool, using Go and JavaScript",
       "programmingLanguage": "Go",
-      "stars": 44666,
-      "forks": 4420,
-      "starsInPeriod": 8
+      "stars": 31685,
+      "forks": 1650,
+      "starsInPeriod": 26
     },
     {
       "rank": 16,
-      "fullName": "obot-platform/obot",
-      "url": "https://github.com/obot-platform/obot",
-      "description": "Complete AI Governance Platform from Obot AI",
+      "fullName": "fish2018/pansou",
+      "url": "https://github.com/fish2018/pansou",
+      "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
       "programmingLanguage": "Go",
-      "stars": 1071,
-      "forks": 225,
-      "starsInPeriod": 7
+      "stars": 14730,
+      "forks": 3574,
+      "starsInPeriod": 16
     },
     {
       "rank": 17,
-      "fullName": "fyne-io/fyne",
-      "url": "https://github.com/fyne-io/fyne",
-      "description": "Cross platform GUI toolkit in Go inspired by Material Design",
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 28724,
-      "forks": 1554,
-      "starsInPeriod": 5
+      "stars": 29531,
+      "forks": 2255,
+      "starsInPeriod": 25
     },
     {
       "rank": 18,
-      "fullName": "cli/cli",
-      "url": "https://github.com/cli/cli",
-      "description": "GitHub’s official command line tool",
+      "fullName": "pingcap/tidb",
+      "url": "https://github.com/pingcap/tidb",
+      "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
       "programmingLanguage": "Go",
-      "stars": 46430,
-      "forks": 9093,
-      "starsInPeriod": 11
+      "stars": 40598,
+      "forks": 6248,
+      "starsInPeriod": 2
     }
   ]
 }

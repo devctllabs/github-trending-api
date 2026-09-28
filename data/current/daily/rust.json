@@ -4,119 +4,139 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-09-28T05:22:36Z",
+  "observedAt": "2026-09-28T13:52:45Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "programmingLanguage": "Rust",
-      "stars": 35119,
-      "forks": 4621,
-      "starsInPeriod": 233
-    },
-    {
-      "rank": 2,
       "fullName": "juspay/hyperswitch",
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "programmingLanguage": "Rust",
-      "stars": 44927,
-      "forks": 6161,
+      "stars": 45068,
+      "forks": 6270,
       "starsInPeriod": 623
     },
     {
-      "rank": 3,
+      "rank": 2,
       "fullName": "hydra-db/hydradb",
       "url": "https://github.com/hydra-db/hydradb",
       "description": "HydraDB - fast graph database on object storage",
       "programmingLanguage": "Rust",
-      "stars": 11032,
-      "forks": 4775,
+      "stars": 11752,
+      "forks": 5141,
       "starsInPeriod": 2809
     },
     {
-      "rank": 4,
-      "fullName": "feigeCode/navop",
-      "url": "https://github.com/feigeCode/navop",
-      "description": "A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.",
+      "rank": 3,
+      "fullName": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "programmingLanguage": "Rust",
-      "stars": 1713,
-      "forks": 168,
-      "starsInPeriod": 56
+      "stars": 8184,
+      "forks": 335,
+      "starsInPeriod": 588
     },
     {
-      "rank": 5,
+      "rank": 4,
       "fullName": "kitao/pyxel",
       "url": "https://github.com/kitao/pyxel",
       "description": "A retro game engine for Python",
       "programmingLanguage": "Rust",
-      "stars": 18193,
-      "forks": 948,
+      "stars": 18235,
+      "forks": 949,
       "starsInPeriod": 52
     },
     {
-      "rank": 6,
-      "fullName": "oven-sh/bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "rank": 5,
+      "fullName": "waditu/czsc",
+      "url": "https://github.com/waditu/czsc",
+      "description": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
       "programmingLanguage": "Rust",
-      "stars": 96069,
-      "forks": 5069,
-      "starsInPeriod": 18
+      "stars": 6327,
+      "forks": 1762,
+      "starsInPeriod": 39
+    },
+    {
+      "rank": 6,
+      "fullName": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "programmingLanguage": "Rust",
+      "stars": 4475,
+      "forks": 434,
+      "starsInPeriod": 16
     },
     {
       "rank": 7,
-      "fullName": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "programmingLanguage": "Rust",
-      "stars": 119252,
-      "forks": 17028,
-      "starsInPeriod": 49
-    },
-    {
-      "rank": 8,
-      "fullName": "denisidoro/navi",
-      "url": "https://github.com/denisidoro/navi",
-      "description": "An interactive cheatsheet tool for the command-line",
-      "programmingLanguage": "Rust",
-      "stars": 17671,
-      "forks": 571,
-      "starsInPeriod": 9
-    },
-    {
-      "rank": 9,
       "fullName": "bevyengine/bevy",
       "url": "https://github.com/bevyengine/bevy",
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 48433,
+      "stars": 48438,
       "forks": 4870,
       "starsInPeriod": 33
     },
     {
-      "rank": 10,
-      "fullName": "pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm",
-      "description": "Fast, disk space efficient package manager",
+      "rank": 8,
+      "fullName": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
       "programmingLanguage": "Rust",
-      "stars": 36685,
-      "forks": 1892,
-      "starsInPeriod": 20
+      "stars": 5633,
+      "forks": 186,
+      "starsInPeriod": 199
+    },
+    {
+      "rank": 9,
+      "fullName": "remorses/gpuix",
+      "url": "https://github.com/remorses/gpuix",
+      "description": "Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron",
+      "programmingLanguage": "Rust",
+      "stars": 2436,
+      "forks": 68,
+      "starsInPeriod": 84
+    },
+    {
+      "rank": 10,
+      "fullName": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "programmingLanguage": "Rust",
+      "stars": 21420,
+      "forks": 2052,
+      "starsInPeriod": 571
     },
     {
       "rank": 11,
-      "fullName": "tvollstaedt/exodium",
-      "url": "https://github.com/tvollstaedt/exodium",
-      "description": "Cross-platform retro game launcher based on eXoDOS",
+      "fullName": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
       "programmingLanguage": "Rust",
-      "stars": 287,
-      "forks": 9,
-      "starsInPeriod": 10
+      "stars": 35188,
+      "forks": 4630,
+      "starsInPeriod": 233
+    },
+    {
+      "rank": 12,
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "programmingLanguage": "Rust",
+      "stars": 95271,
+      "forks": 12590,
+      "starsInPeriod": 117
+    },
+    {
+      "rank": 13,
+      "fullName": "denisidoro/navi",
+      "url": "https://github.com/denisidoro/navi",
+      "description": "An interactive cheatsheet tool for the command-line",
+      "programmingLanguage": "Rust",
+      "stars": 17677,
+      "forks": 571,
+      "starsInPeriod": 9
     }
   ]
 }
