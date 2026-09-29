@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-09-28T23:16:27Z",
+  "observedAt": "2026-09-29T05:43:12Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/guohuiyuan/go-music-dl",
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "programmingLanguage": "Go",
-      "stars": 4962,
+      "stars": 4969,
       "forks": 476,
-      "starsInPeriod": 61
+      "starsInPeriod": 56
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/Billionmail/BillionMail",
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "programmingLanguage": "Go",
-      "stars": 15733,
-      "forks": 1725,
-      "starsInPeriod": 56
+      "stars": 15744,
+      "forks": 1727,
+      "starsInPeriod": 55
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/dagucloud/dagu",
       "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
       "programmingLanguage": "Go",
-      "stars": 4199,
+      "stars": 4204,
       "forks": 352,
-      "starsInPeriod": 32
+      "starsInPeriod": 34
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "programmingLanguage": "Go",
-      "stars": 8178,
-      "forks": 597,
-      "starsInPeriod": 47
+      "stars": 8188,
+      "forks": 598,
+      "starsInPeriod": 45
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/londek/ipadecrypt",
       "description": "🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks",
       "programmingLanguage": "Go",
-      "stars": 606,
-      "forks": 71,
-      "starsInPeriod": 14
+      "stars": 608,
+      "forks": 72,
+      "starsInPeriod": 10
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/ffuf/ffuf",
       "description": "Fast web fuzzer written in Go",
       "programmingLanguage": "Go",
-      "stars": 16765,
-      "forks": 1607,
-      "starsInPeriod": 27
+      "stars": 16769,
+      "forks": 1608,
+      "starsInPeriod": 22
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/junegunn/fzf",
       "description": "🌸 A command-line fuzzy finder",
       "programmingLanguage": "Go",
-      "stars": 83294,
-      "forks": 3984,
-      "starsInPeriod": 18
+      "stars": 83300,
+      "forks": 4039,
+      "starsInPeriod": 16
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/NdoleStudio/httpsms",
       "description": "Send and receive SMS messages using your Android phone programmatically via a simple HTTP API",
       "programmingLanguage": "Go",
-      "stars": 5230,
-      "forks": 959,
-      "starsInPeriod": 10
+      "stars": 5238,
+      "forks": 961,
+      "starsInPeriod": 14
     },
     {
       "rank": 9,
@@ -94,7 +94,7 @@
       "url": "https://github.com/daeuniverse/dae",
       "description": "eBPF-based Linux high-performance transparent proxy solution.",
       "programmingLanguage": "Go",
-      "stars": 6255,
+      "stars": 6257,
       "forks": 410,
       "starsInPeriod": 13
     },
@@ -104,9 +104,9 @@
       "url": "https://github.com/nats-io/nats-server",
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "programmingLanguage": "Go",
-      "stars": 20786,
-      "forks": 1977,
-      "starsInPeriod": 6
+      "stars": 20791,
+      "forks": 1978,
+      "starsInPeriod": 8
     },
     {
       "rank": 11,
@@ -114,8 +114,8 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139064,
-      "forks": 20802,
+      "stars": 139068,
+      "forks": 20849,
       "starsInPeriod": 21
     },
     {
@@ -124,9 +124,9 @@
       "url": "https://github.com/hashicorp/terraform",
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "programmingLanguage": "Go",
-      "stars": 49784,
+      "stars": 49786,
       "forks": 10636,
-      "starsInPeriod": 11
+      "starsInPeriod": 9
     },
     {
       "rank": 13,
@@ -136,7 +136,7 @@
       "programmingLanguage": "Go",
       "stars": 403,
       "forks": 95,
-      "starsInPeriod": 11
+      "starsInPeriod": 13
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/grafana/k6",
       "description": "A modern load testing tool, using Go and JavaScript",
       "programmingLanguage": "Go",
-      "stars": 31696,
+      "stars": 31698,
       "forks": 1651,
-      "starsInPeriod": 26
+      "starsInPeriod": 25
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/fish2018/pansou",
       "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
       "programmingLanguage": "Go",
-      "stars": 14731,
-      "forks": 3575,
-      "starsInPeriod": 16
+      "stars": 14735,
+      "forks": 3578,
+      "starsInPeriod": 15
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 29536,
+      "stars": 29542,
       "forks": 2254,
-      "starsInPeriod": 25
+      "starsInPeriod": 20
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/pingcap/tidb",
       "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
       "programmingLanguage": "Go",
-      "stars": 40601,
+      "stars": 40605,
       "forks": 6250,
-      "starsInPeriod": 2
+      "starsInPeriod": 8
     }
   ]
 }

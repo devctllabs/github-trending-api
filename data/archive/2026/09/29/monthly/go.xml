@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ght="urn:github-trending:v1" version="2.0">
+  <channel>
+    <title>GitHub Trending — monthly — go</title>
+    <link>https://github.com/trending/go?since=monthly</link>
+    <description>GitHub Trending — monthly — go</description>
+    <lastBuildDate>Tue, 29 Sep 2026 05:43:19 GMT</lastBuildDate>
+    <ght:schemaVersion>1</ght:schemaVersion>
+    <ght:kind>daily-rollup</ght:kind>
+    <ght:date>2026-09-29</ght:date>
+    <ght:period>monthly</ght:period>
+    <ght:language>go</ght:language>
+    <ght:updatedAt>2026-09-29T05:43:19Z</ght:updatedAt>
+    <ght:latestStatus>complete</ght:latestStatus>
+    <ght:latestIssues />
+    <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <description>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>42383</ght:stars>
+      <ght:forks>3038</ght:forks>
+      <ght:starsInPeriod>20955</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Tencent/WeKnora</title>
+      <link>https://github.com/Tencent/WeKnora</link>
+      <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+      <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>31046</ght:stars>
+      <ght:forks>4150</ght:forks>
+      <ght:starsInPeriod>10271</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>agent-substrate/substrate</title>
+      <link>https://github.com/agent-substrate/substrate</link>
+      <description>Agent Substrate: the core system</description>
+      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>3935</ght:stars>
+      <ght:forks>468</ght:forks>
+      <ght:starsInPeriod>2300</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>tailscale/tailcat</title>
+      <link>https://github.com/tailscale/tailcat</link>
+      <description>like netcat, but over Tailscale's data plane, without Tailscale's control plane</description>
+      <guid isPermaLink="true">https://github.com/tailscale/tailcat</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7793</ght:stars>
+      <ght:forks>334</ght:forks>
+      <ght:starsInPeriod>5437</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>vllm-project/semantic-router</title>
+      <link>https://github.com/vllm-project/semantic-router</link>
+      <description>A programmable Mixture-of-Models router for heterogeneous LLM inference</description>
+      <guid isPermaLink="true">https://github.com/vllm-project/semantic-router</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5973</ght:stars>
+      <ght:forks>988</ght:forks>
+      <ght:starsInPeriod>597</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>coder/coder</title>
+      <link>https://github.com/coder/coder</link>
+      <description>Secure environments for developers and their agents</description>
+      <guid isPermaLink="true">https://github.com/coder/coder</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>16746</ght:stars>
+      <ght:forks>1596</ght:forks>
+      <ght:starsInPeriod>2625</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>asciimoo/hister</title>
+      <link>https://github.com/asciimoo/hister</link>
+      <description>Your own search engine</description>
+      <guid isPermaLink="true">https://github.com/asciimoo/hister</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5788</ght:stars>
+      <ght:forks>253</ght:forks>
+      <ght:starsInPeriod>2629</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>majd/ipatool</title>
+      <link>https://github.com/majd/ipatool</link>
+      <description>Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.</description>
+      <guid isPermaLink="true">https://github.com/majd/ipatool</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>11435</ght:stars>
+      <ght:forks>955</ght:forks>
+      <ght:starsInPeriod>1540</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>gtsteffaniak/filebrowser</title>
+      <link>https://github.com/gtsteffaniak/filebrowser</link>
+      <description>📂 Web File Browser</description>
+      <guid isPermaLink="true">https://github.com/gtsteffaniak/filebrowser</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>8471</ght:stars>
+      <ght:forks>446</ght:forks>
+      <ght:starsInPeriod>579</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>cloudflare/cloudflared</title>
+      <link>https://github.com/cloudflare/cloudflared</link>
+      <description>Cloudflare Tunnel client</description>
+      <guid isPermaLink="true">https://github.com/cloudflare/cloudflared</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>15954</ght:stars>
+      <ght:forks>1461</ght:forks>
+      <ght:starsInPeriod>565</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>henrygd/beszel</title>
+      <link>https://github.com/henrygd/beszel</link>
+      <description>Lightweight server monitoring with historical data, docker stats, and alerts.</description>
+      <guid isPermaLink="true">https://github.com/henrygd/beszel</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>25832</ght:stars>
+      <ght:forks>1055</ght:forks>
+      <ght:starsInPeriod>1075</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>drakkan/sftpgo</title>
+      <link>https://github.com/drakkan/sftpgo</link>
+      <description>Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob</description>
+      <guid isPermaLink="true">https://github.com/drakkan/sftpgo</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>12595</ght:stars>
+      <ght:forks>970</ght:forks>
+      <ght:starsInPeriod>147</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>danielmiessler/Fabric</title>
+      <link>https://github.com/danielmiessler/Fabric</link>
+      <description>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</description>
+      <guid isPermaLink="true">https://github.com/danielmiessler/Fabric</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>44106</ght:stars>
+      <ght:forks>4286</ght:forks>
+      <ght:starsInPeriod>647</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>vxcontrol/pentagi</title>
+      <link>https://github.com/vxcontrol/pentagi</link>
+      <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
+      <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>25086</ght:stars>
+      <ght:forks>3225</ght:forks>
+      <ght:starsInPeriod>3088</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>navidrome/navidrome</title>
+      <link>https://github.com/navidrome/navidrome</link>
+      <description>🎧 Your Personal Streaming Service</description>
+      <guid isPermaLink="true">https://github.com/navidrome/navidrome</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>23880</ght:stars>
+      <ght:forks>1731</ght:forks>
+      <ght:starsInPeriod>760</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>seaweedfs/seaweedfs</title>
+      <link>https://github.com/seaweedfs/seaweedfs</link>
+      <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
+      <guid isPermaLink="true">https://github.com/seaweedfs/seaweedfs</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>35067</ght:stars>
+      <ght:forks>3013</ght:forks>
+      <ght:starsInPeriod>804</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>weave-os/router</title>
+      <link>https://github.com/weave-os/router</link>
+      <description>Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.</description>
+      <guid isPermaLink="true">https://github.com/weave-os/router</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5390</ght:stars>
+      <ght:forks>144</ght:forks>
+      <ght:starsInPeriod>3078</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>authelia/authelia</title>
+      <link>https://github.com/authelia/authelia</link>
+      <description>The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.</description>
+      <guid isPermaLink="true">https://github.com/authelia/authelia</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>29125</ght:stars>
+      <ght:forks>1495</ght:forks>
+      <ght:starsInPeriod>436</ght:starsInPeriod>
+      <ght:bestRank>18</ght:bestRank>
+      <ght:latestRank>18</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>glanceapp/glance</title>
+      <link>https://github.com/glanceapp/glance</link>
+      <description>A self-hosted dashboard that puts all your feeds in one place</description>
+      <guid isPermaLink="true">https://github.com/glanceapp/glance</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>37256</ght:stars>
+      <ght:forks>1470</ght:forks>
+      <ght:starsInPeriod>670</ght:starsInPeriod>
+      <ght:bestRank>19</ght:bestRank>
+      <ght:latestRank>19</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>projectdiscovery/katana</title>
+      <link>https://github.com/projectdiscovery/katana</link>
+      <description>A next-generation crawling and spidering framework.</description>
+      <guid isPermaLink="true">https://github.com/projectdiscovery/katana</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>17590</ght:stars>
+      <ght:forks>1190</ght:forks>
+      <ght:starsInPeriod>263</ght:starsInPeriod>
+      <ght:bestRank>20</ght:bestRank>
+      <ght:latestRank>20</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>e2b-dev/runtime</title>
+      <link>https://github.com/e2b-dev/runtime</link>
+      <description>The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.</description>
+      <guid isPermaLink="true">https://github.com/e2b-dev/runtime</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>1638</ght:stars>
+      <ght:forks>451</ght:forks>
+      <ght:starsInPeriod>416</ght:starsInPeriod>
+      <ght:bestRank>21</ght:bestRank>
+      <ght:latestRank>21</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>kubernetes/minikube</title>
+      <link>https://github.com/kubernetes/minikube</link>
+      <description>Run Kubernetes locally</description>
+      <guid isPermaLink="true">https://github.com/kubernetes/minikube</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>32164</ght:stars>
+      <ght:forks>5334</ght:forks>
+      <ght:starsInPeriod>110</ght:starsInPeriod>
+      <ght:bestRank>22</ght:bestRank>
+      <ght:latestRank>22</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T05:43:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+  </channel>
+</rss>

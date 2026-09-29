@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-09-28T23:16:34Z",
+  "observedAt": "2026-09-29T05:43:19Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 42278,
-      "forks": 3034,
-      "starsInPeriod": 20657
+      "stars": 42383,
+      "forks": 3038,
+      "starsInPeriod": 20955
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 30936,
-      "forks": 4133,
-      "starsInPeriod": 9985
+      "stars": 31046,
+      "forks": 4150,
+      "starsInPeriod": 10271
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 3929,
-      "forks": 466,
-      "starsInPeriod": 2249
+      "stars": 3935,
+      "forks": 468,
+      "starsInPeriod": 2300
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "programmingLanguage": "Go",
-      "stars": 7786,
+      "stars": 7793,
       "forks": 334,
-      "starsInPeriod": 6333
+      "starsInPeriod": 5437
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/vllm-project/semantic-router",
       "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "programmingLanguage": "Go",
-      "stars": 5967,
-      "forks": 986,
-      "starsInPeriod": 599
+      "stars": 5973,
+      "forks": 988,
+      "starsInPeriod": 597
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "programmingLanguage": "Go",
-      "stars": 16741,
-      "forks": 1595,
-      "starsInPeriod": 2620
+      "stars": 16746,
+      "forks": 1596,
+      "starsInPeriod": 2625
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/asciimoo/hister",
       "description": "Your own search engine",
       "programmingLanguage": "Go",
-      "stars": 5782,
+      "stars": 5788,
       "forks": 253,
-      "starsInPeriod": 2683
+      "starsInPeriod": 2629
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/majd/ipatool",
       "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
       "programmingLanguage": "Go",
-      "stars": 11431,
+      "stars": 11435,
       "forks": 955,
-      "starsInPeriod": 1529
+      "starsInPeriod": 1540
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/gtsteffaniak/filebrowser",
       "description": "📂 Web File Browser",
       "programmingLanguage": "Go",
-      "stars": 8469,
+      "stars": 8471,
       "forks": 446,
-      "starsInPeriod": 574
+      "starsInPeriod": 579
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/cloudflare/cloudflared",
       "description": "Cloudflare Tunnel client",
       "programmingLanguage": "Go",
-      "stars": 15951,
-      "forks": 1460,
-      "starsInPeriod": 564
+      "stars": 15954,
+      "forks": 1461,
+      "starsInPeriod": 565
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/henrygd/beszel",
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "programmingLanguage": "Go",
-      "stars": 25826,
-      "forks": 1054,
-      "starsInPeriod": 1095
+      "stars": 25832,
+      "forks": 1055,
+      "starsInPeriod": 1075
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/drakkan/sftpgo",
       "description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
       "programmingLanguage": "Go",
-      "stars": 12594,
+      "stars": 12595,
       "forks": 970,
-      "starsInPeriod": 143
+      "starsInPeriod": 147
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/danielmiessler/Fabric",
       "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "programmingLanguage": "Go",
-      "stars": 44102,
+      "stars": 44106,
       "forks": 4286,
-      "starsInPeriod": 636
+      "starsInPeriod": 647
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 25078,
-      "forks": 3223,
-      "starsInPeriod": 3096
+      "stars": 25086,
+      "forks": 3225,
+      "starsInPeriod": 3088
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/navidrome/navidrome",
       "description": "🎧 Your Personal Streaming Service",
       "programmingLanguage": "Go",
-      "stars": 23872,
-      "forks": 1730,
-      "starsInPeriod": 759
+      "stars": 23880,
+      "forks": 1731,
+      "starsInPeriod": 760
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/seaweedfs/seaweedfs",
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "programmingLanguage": "Go",
-      "stars": 35058,
+      "stars": 35067,
       "forks": 3013,
-      "starsInPeriod": 788
+      "starsInPeriod": 804
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/weave-os/router",
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "programmingLanguage": "Go",
-      "stars": 5377,
-      "forks": 143,
-      "starsInPeriod": 3755
+      "stars": 5390,
+      "forks": 144,
+      "starsInPeriod": 3078
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/authelia/authelia",
       "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
       "programmingLanguage": "Go",
-      "stars": 29122,
+      "stars": 29125,
       "forks": 1495,
-      "starsInPeriod": 432
+      "starsInPeriod": 436
     },
     {
       "rank": 19,
@@ -194,9 +194,9 @@
       "url": "https://github.com/glanceapp/glance",
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "programmingLanguage": "Go",
-      "stars": 37250,
+      "stars": 37256,
       "forks": 1470,
-      "starsInPeriod": 675
+      "starsInPeriod": 670
     },
     {
       "rank": 20,
@@ -204,8 +204,8 @@
       "url": "https://github.com/projectdiscovery/katana",
       "description": "A next-generation crawling and spidering framework.",
       "programmingLanguage": "Go",
-      "stars": 17589,
-      "forks": 1188,
+      "stars": 17590,
+      "forks": 1190,
       "starsInPeriod": 263
     },
     {
@@ -214,9 +214,9 @@
       "url": "https://github.com/e2b-dev/runtime",
       "description": "The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.",
       "programmingLanguage": "Go",
-      "stars": 1634,
+      "stars": 1638,
       "forks": 451,
-      "starsInPeriod": 412
+      "starsInPeriod": 416
     },
     {
       "rank": 22,
@@ -224,9 +224,9 @@
       "url": "https://github.com/kubernetes/minikube",
       "description": "Run Kubernetes locally",
       "programmingLanguage": "Go",
-      "stars": 32163,
+      "stars": 32164,
       "forks": 5334,
-      "starsInPeriod": 109
+      "starsInPeriod": 110
     }
   ]
 }

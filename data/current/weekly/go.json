@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-09-28T23:16:31Z",
+  "observedAt": "2026-09-29T05:43:16Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 30936,
-      "forks": 4133,
-      "starsInPeriod": 2705
+      "stars": 31046,
+      "forks": 4150,
+      "starsInPeriod": 2509
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
       "programmingLanguage": "Go",
-      "stars": 12424,
-      "forks": 602,
-      "starsInPeriod": 8030
+      "stars": 12460,
+      "forks": 604,
+      "starsInPeriod": 7371
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 3929,
-      "forks": 466,
-      "starsInPeriod": 1839
+      "stars": 3935,
+      "forks": 468,
+      "starsInPeriod": 1406
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 128082,
-      "forks": 45554,
-      "starsInPeriod": 243
+      "stars": 128088,
+      "forks": 45607,
+      "starsInPeriod": 246
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "programmingLanguage": "Go",
-      "stars": 66295,
-      "forks": 10868,
-      "starsInPeriod": 164
+      "stars": 66304,
+      "forks": 10867,
+      "starsInPeriod": 171
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139064,
-      "forks": 20802,
-      "starsInPeriod": 216
+      "stars": 139068,
+      "forks": 20849,
+      "starsInPeriod": 214
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/guohuiyuan/go-music-dl",
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "programmingLanguage": "Go",
-      "stars": 4962,
+      "stars": 4969,
       "forks": 476,
-      "starsInPeriod": 316
+      "starsInPeriod": 310
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 38264,
-      "forks": 5849,
-      "starsInPeriod": 91
+      "stars": 38265,
+      "forks": 5850,
+      "starsInPeriod": 88
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/Gentleman-Programming/engram",
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "programmingLanguage": "Go",
-      "stars": 6920,
-      "forks": 710,
-      "starsInPeriod": 175
+      "stars": 6924,
+      "forks": 709,
+      "starsInPeriod": 180
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/navidrome/navidrome",
       "description": "🎧 Your Personal Streaming Service",
       "programmingLanguage": "Go",
-      "stars": 23872,
-      "forks": 1730,
-      "starsInPeriod": 173
+      "stars": 23880,
+      "forks": 1731,
+      "starsInPeriod": 167
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "programmingLanguage": "Go",
-      "stars": 16741,
-      "forks": 1595,
-      "starsInPeriod": 892
+      "stars": 16746,
+      "forks": 1596,
+      "starsInPeriod": 444
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/photoprism/photoprism",
       "description": "AI-Powered Photos App 🌈💎✨",
       "programmingLanguage": "Go",
-      "stars": 40250,
+      "stars": 40253,
       "forks": 2329,
-      "starsInPeriod": 47
+      "starsInPeriod": 50
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 76143,
+      "stars": 76148,
       "forks": 5013,
-      "starsInPeriod": 260
+      "starsInPeriod": 252
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai",
       "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "programmingLanguage": "Go",
-      "stars": 7374,
-      "forks": 811,
-      "starsInPeriod": 296
+      "stars": 7379,
+      "forks": 813,
+      "starsInPeriod": 269
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "programmingLanguage": "Go",
-      "stars": 8178,
-      "forks": 597,
-      "starsInPeriod": 701
+      "stars": 8188,
+      "forks": 598,
+      "starsInPeriod": 732
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "programmingLanguage": "Go",
-      "stars": 2660,
+      "stars": 2663,
       "forks": 489,
-      "starsInPeriod": 115
+      "starsInPeriod": 114
     },
     {
       "rank": 17,
@@ -174,7 +174,7 @@
       "url": "https://github.com/hashicorp/terraform",
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "programmingLanguage": "Go",
-      "stars": 49784,
+      "stars": 49786,
       "forks": 10636,
       "starsInPeriod": 103
     },
@@ -184,9 +184,9 @@
       "url": "https://github.com/maximhq/bifrost",
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "programmingLanguage": "Go",
-      "stars": 8422,
-      "forks": 1305,
-      "starsInPeriod": 212
+      "stars": 8426,
+      "forks": 1306,
+      "starsInPeriod": 221
     },
     {
       "rank": 19,
@@ -194,7 +194,7 @@
       "url": "https://github.com/go-playground/validator",
       "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
       "programmingLanguage": "Go",
-      "stars": 20181,
+      "stars": 20183,
       "forks": 1471,
       "starsInPeriod": 11
     }
