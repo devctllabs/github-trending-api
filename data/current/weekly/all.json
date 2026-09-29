@@ -4,29 +4,29 @@
   "period": "weekly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=weekly",
-  "observedAt": "2026-09-29T05:42:46Z",
+  "observedAt": "2026-09-29T12:51:08Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": null,
-      "programmingLanguage": "Python",
-      "stars": 38118,
-      "forks": 5488,
-      "starsInPeriod": 2381
-    },
-    {
-      "rank": 2,
       "fullName": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "programmingLanguage": "TypeScript",
-      "stars": 93267,
-      "forks": 15930,
+      "stars": 93947,
+      "forks": 15986,
       "starsInPeriod": 10518
+    },
+    {
+      "rank": 2,
+      "fullName": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": null,
+      "programmingLanguage": "Python",
+      "stars": 38166,
+      "forks": 5498,
+      "starsInPeriod": 2381
     },
     {
       "rank": 3,
@@ -34,69 +34,69 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 41414,
-      "forks": 5575,
+      "stars": 42031,
+      "forks": 5638,
       "starsInPeriod": 15537
     },
     {
       "rank": 4,
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "programmingLanguage": "JavaScript",
-      "stars": 22844,
-      "forks": 1333,
-      "starsInPeriod": 3962
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "programmingLanguage": "Python",
+      "stars": 46467,
+      "forks": 5271,
+      "starsInPeriod": 7972
     },
     {
       "rank": 5,
-      "fullName": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 32102,
-      "forks": 3653,
-      "starsInPeriod": 1200
+      "stars": 60853,
+      "forks": 10477,
+      "starsInPeriod": 5004
     },
     {
       "rank": 6,
-      "fullName": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "programmingLanguage": "Go",
-      "stars": 31046,
-      "forks": 4150,
-      "starsInPeriod": 2509
-    },
-    {
-      "rank": 7,
       "fullName": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
       "programmingLanguage": "JavaScript",
-      "stars": 142874,
-      "forks": 33423,
+      "stars": 142882,
+      "forks": 33479,
       "starsInPeriod": 544
     },
     {
-      "rank": 8,
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "programmingLanguage": "TypeScript",
-      "stars": 80935,
-      "forks": 5268,
-      "starsInPeriod": 6151
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "fullName": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 50920,
-      "forks": 4647,
+      "stars": 50965,
+      "forks": 4652,
       "starsInPeriod": 1227
+    },
+    {
+      "rank": 8,
+      "fullName": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "programmingLanguage": "Python",
+      "stars": 32139,
+      "forks": 3655,
+      "starsInPeriod": 1200
+    },
+    {
+      "rank": 9,
+      "fullName": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "programmingLanguage": "TypeScript",
+      "stars": 81262,
+      "forks": 5287,
+      "starsInPeriod": 6151
     },
     {
       "rank": 10,
@@ -104,89 +104,89 @@
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "programmingLanguage": "Python",
-      "stars": 103483,
-      "forks": 30894,
+      "stars": 103516,
+      "forks": 30948,
       "starsInPeriod": 340
     },
     {
       "rank": 11,
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "programmingLanguage": "Python",
-      "stars": 44943,
-      "forks": 5154,
-      "starsInPeriod": 7972
+      "fullName": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "programmingLanguage": "Go",
+      "stars": 31169,
+      "forks": 4165,
+      "starsInPeriod": 2509
     },
     {
       "rank": 12,
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "programmingLanguage": "Python",
-      "stars": 60550,
-      "forks": 10428,
-      "starsInPeriod": 5004
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "programmingLanguage": "JavaScript",
+      "stars": 22994,
+      "forks": 1341,
+      "starsInPeriod": 3962
     },
     {
       "rank": 13,
-      "fullName": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "programmingLanguage": "HTML",
-      "stars": 26899,
-      "forks": 1874,
-      "starsInPeriod": 1293
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "programmingLanguage": "JavaScript",
+      "stars": 72361,
+      "forks": 4374,
+      "starsInPeriod": 2547
     },
     {
       "rank": 14,
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "programmingLanguage": "Rust",
-      "stars": 8593,
-      "forks": 582,
-      "starsInPeriod": 1110
-    },
-    {
-      "rank": 15,
-      "fullName": "FxEmbed/FxEmbed",
-      "url": "https://github.com/FxEmbed/FxEmbed",
-      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "programmingLanguage": "TypeScript",
-      "stars": 5560,
-      "forks": 264,
-      "starsInPeriod": 465
-    },
-    {
-      "rank": 16,
       "fullName": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 5593,
-      "forks": 690,
+      "stars": 5674,
+      "forks": 706,
       "starsInPeriod": 970
     },
     {
-      "rank": 17,
-      "fullName": "cloudflare/quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "programmingLanguage": "Rust",
-      "stars": 12707,
-      "forks": 1154,
-      "starsInPeriod": 522
+      "rank": 15,
+      "fullName": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "programmingLanguage": "HTML",
+      "stars": 27083,
+      "forks": 1886,
+      "starsInPeriod": 1293
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "fullName": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "programmingLanguage": "Shell",
+      "stars": 3198,
+      "forks": 347,
+      "starsInPeriod": 243
+    },
+    {
+      "rank": 17,
       "fullName": "elastic/elasticsearch",
       "url": "https://github.com/elastic/elasticsearch",
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "programmingLanguage": "Java",
-      "stars": 78076,
+      "stars": 78094,
       "forks": 26097,
       "starsInPeriod": 97
+    },
+    {
+      "rank": 18,
+      "fullName": "FxEmbed/FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "programmingLanguage": "TypeScript",
+      "stars": 5569,
+      "forks": 263,
+      "starsInPeriod": 465
     }
   ]
 }

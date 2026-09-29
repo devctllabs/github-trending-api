@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Tue, 29 Sep 2026 05:43:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:51:36 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-09-29</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-09-29T05:43:12Z</ght:updatedAt>
+    <ght:updatedAt>2026-09-29T12:51:36Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -30,19 +30,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>rakyll/hey</title>
+      <link>https://github.com/rakyll/hey</link>
+      <description>HTTP load generator, ApacheBench (ab) replacement</description>
+      <guid isPermaLink="true">https://github.com/rakyll/hey</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>20388</ght:stars>
+      <ght:forks>1310</ght:forks>
+      <ght:starsInPeriod>31</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>Billionmail/BillionMail</title>
       <link>https://github.com/Billionmail/BillionMail</link>
       <description>BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</description>
       <guid isPermaLink="true">https://github.com/Billionmail/BillionMail</guid>
       <pubDate>Tue, 29 Sep 2026 05:43:12 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>15744</ght:stars>
-      <ght:forks>1727</ght:forks>
+      <ght:stars>15752</ght:stars>
+      <ght:forks>1729</ght:forks>
       <ght:starsInPeriod>55</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
-      <ght:latestRank>2</ght:latestRank>
+      <ght:latestRank>10</ght:latestRank>
       <ght:firstSeenAt>2026-09-29T05:43:12Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-29T05:43:12Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>Gaurav-Gosain/tuios</title>
+      <link>https://github.com/Gaurav-Gosain/tuios</link>
+      <description>A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.</description>
+      <guid isPermaLink="true">https://github.com/Gaurav-Gosain/tuios</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4264</ght:stars>
+      <ght:forks>175</ght:forks>
+      <ght:starsInPeriod>215</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -62,6 +94,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>multica-ai/multica</title>
+      <link>https://github.com/multica-ai/multica</link>
+      <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
+      <guid isPermaLink="true">https://github.com/multica-ai/multica</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>51662</ght:stars>
+      <ght:forks>6706</ght:forks>
+      <ght:starsInPeriod>121</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>openbao/openbao</title>
       <link>https://github.com/openbao/openbao</link>
       <description>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</description>
@@ -76,6 +124,38 @@
       <ght:firstSeenAt>2026-09-29T05:43:12Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-09-29T05:43:12Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>vllm-project/semantic-router</title>
+      <link>https://github.com/vllm-project/semantic-router</link>
+      <description>A programmable Mixture-of-Models router for heterogeneous LLM inference</description>
+      <guid isPermaLink="true">https://github.com/vllm-project/semantic-router</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5978</ght:stars>
+      <ght:forks>990</ght:forks>
+      <ght:starsInPeriod>22</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>ffuf/ffuf</title>
+      <link>https://github.com/ffuf/ffuf</link>
+      <description>Fast web fuzzer written in Go</description>
+      <guid isPermaLink="true">https://github.com/ffuf/ffuf</guid>
+      <pubDate>Tue, 29 Sep 2026 05:43:12 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>16777</ght:stars>
+      <ght:forks>1610</ght:forks>
+      <ght:starsInPeriod>22</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T05:43:12Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>londek/ipadecrypt</title>
@@ -94,19 +174,19 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>ffuf/ffuf</title>
-      <link>https://github.com/ffuf/ffuf</link>
-      <description>Fast web fuzzer written in Go</description>
-      <guid isPermaLink="true">https://github.com/ffuf/ffuf</guid>
-      <pubDate>Tue, 29 Sep 2026 05:43:12 GMT</pubDate>
+      <title>infiniflow/ragflow</title>
+      <link>https://github.com/infiniflow/ragflow</link>
+      <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
+      <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>16769</ght:stars>
-      <ght:forks>1608</ght:forks>
-      <ght:starsInPeriod>22</ght:starsInPeriod>
+      <ght:stars>91486</ght:stars>
+      <ght:forks>10862</ght:forks>
+      <ght:starsInPeriod>59</ght:starsInPeriod>
       <ght:bestRank>6</ght:bestRank>
       <ght:latestRank>6</ght:latestRank>
-      <ght:firstSeenAt>2026-09-29T05:43:12Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-29T05:43:12Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -126,6 +206,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>temporalio/temporal</title>
+      <link>https://github.com/temporalio/temporal</link>
+      <description>Temporal service</description>
+      <guid isPermaLink="true">https://github.com/temporalio/temporal</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>23356</ght:stars>
+      <ght:forks>1943</ght:forks>
+      <ght:starsInPeriod>20</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>NdoleStudio/httpsms</title>
       <link>https://github.com/NdoleStudio/httpsms</link>
       <description>Send and receive SMS messages using your Android phone programmatically via a simple HTTP API</description>
@@ -139,6 +235,22 @@
       <ght:latestRank>8</ght:latestRank>
       <ght:firstSeenAt>2026-09-29T05:43:12Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-09-29T05:43:12Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>kserve/kserve</title>
+      <link>https://github.com/kserve/kserve</link>
+      <description>Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes</description>
+      <guid isPermaLink="true">https://github.com/kserve/kserve</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6046</ght:stars>
+      <ght:forks>1708</ght:forks>
+      <ght:starsInPeriod>15</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -158,20 +270,36 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>trufflesecurity/trufflehog</title>
+      <link>https://github.com/trufflesecurity/trufflehog</link>
+      <description>Find, verify, and analyze leaked credentials</description>
+      <guid isPermaLink="true">https://github.com/trufflesecurity/trufflehog</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>28177</ght:stars>
+      <ght:forks>2607</ght:forks>
+      <ght:starsInPeriod>43</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>nats-io/nats-server</title>
       <link>https://github.com/nats-io/nats-server</link>
       <description>High-Performance server for NATS.io, the cloud and edge native messaging system.</description>
       <guid isPermaLink="true">https://github.com/nats-io/nats-server</guid>
       <pubDate>Tue, 29 Sep 2026 05:43:12 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>20791</ght:stars>
+      <ght:stars>20799</ght:stars>
       <ght:forks>1978</ght:forks>
       <ght:starsInPeriod>8</ght:starsInPeriod>
       <ght:bestRank>10</ght:bestRank>
-      <ght:latestRank>10</ght:latestRank>
+      <ght:latestRank>11</ght:latestRank>
       <ght:firstSeenAt>2026-09-29T05:43:12Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-29T05:43:12Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>golang/go</title>
@@ -206,19 +334,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>evolution-foundation/evolution-go</title>
+      <link>https://github.com/evolution-foundation/evolution-go</link>
+      <description>Evolution API / Evolution Go is an open-source WhatsApp integration API</description>
+      <guid isPermaLink="true">https://github.com/evolution-foundation/evolution-go</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>905</ght:stars>
+      <ght:forks>480</ght:forks>
+      <ght:starsInPeriod>11</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>AminMGMT/BackPack</title>
       <link>https://github.com/AminMGMT/BackPack</link>
       <description>High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups</description>
       <guid isPermaLink="true">https://github.com/AminMGMT/BackPack</guid>
       <pubDate>Tue, 29 Sep 2026 05:43:12 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>403</ght:stars>
-      <ght:forks>95</ght:forks>
+      <ght:stars>406</ght:stars>
+      <ght:forks>96</ght:forks>
       <ght:starsInPeriod>13</ght:starsInPeriod>
       <ght:bestRank>13</ght:bestRank>
-      <ght:latestRank>13</ght:latestRank>
+      <ght:latestRank>18</ght:latestRank>
       <ght:firstSeenAt>2026-09-29T05:43:12Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-29T05:43:12Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>livekit/livekit</title>
+      <link>https://github.com/livekit/livekit</link>
+      <description>End-to-end realtime stack for connecting humans and AI</description>
+      <guid isPermaLink="true">https://github.com/livekit/livekit</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>21175</ght:stars>
+      <ght:forks>2401</ght:forks>
+      <ght:starsInPeriod>18</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -238,6 +398,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>keploy/keploy</title>
+      <link>https://github.com/keploy/keploy</link>
+      <description>Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.</description>
+      <guid isPermaLink="true">https://github.com/keploy/keploy</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>18500</ght:stars>
+      <ght:forks>2373</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>fish2018/pansou</title>
       <link>https://github.com/fish2018/pansou</link>
       <description>PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv</description>
@@ -251,6 +427,22 @@
       <ght:latestRank>15</ght:latestRank>
       <ght:firstSeenAt>2026-09-29T05:43:12Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-09-29T05:43:12Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>kubernetes-sigs/agent-sandbox</title>
+      <link>https://github.com/kubernetes-sigs/agent-sandbox</link>
+      <description>agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).</description>
+      <guid isPermaLink="true">https://github.com/kubernetes-sigs/agent-sandbox</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4082</ght:stars>
+      <ght:forks>536</ght:forks>
+      <ght:starsInPeriod>27</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -270,6 +462,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>seaweedfs/seaweedfs</title>
+      <link>https://github.com/seaweedfs/seaweedfs</link>
+      <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
+      <guid isPermaLink="true">https://github.com/seaweedfs/seaweedfs</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>35070</ght:stars>
+      <ght:forks>3015</ght:forks>
+      <ght:starsInPeriod>35</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>pingcap/tidb</title>
       <link>https://github.com/pingcap/tidb</link>
       <description>TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.</description>
@@ -283,6 +491,38 @@
       <ght:latestRank>17</ght:latestRank>
       <ght:firstSeenAt>2026-09-29T05:43:12Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-09-29T05:43:12Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>gastownhall/beads</title>
+      <link>https://github.com/gastownhall/beads</link>
+      <description>Beads - A memory upgrade for your coding agent</description>
+      <guid isPermaLink="true">https://github.com/gastownhall/beads</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>27504</ght:stars>
+      <ght:forks>1867</ght:forks>
+      <ght:starsInPeriod>22</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>felinics/Memoh</title>
+      <link>https://github.com/felinics/Memoh</link>
+      <description>✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on.</description>
+      <guid isPermaLink="true">https://github.com/felinics/Memoh</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:36 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>2583</ght:stars>
+      <ght:forks>250</ght:forks>
+      <ght:starsInPeriod>12</ght:starsInPeriod>
+      <ght:bestRank>19</ght:bestRank>
+      <ght:latestRank>19</ght:latestRank>
+      <ght:firstSeenAt>2026-09-29T12:51:36Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-29T12:51:36Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>
