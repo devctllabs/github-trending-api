@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-09-29T12:51:55Z",
+  "observedAt": "2026-09-29T22:14:49Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "programmingLanguage": "TypeScript",
-      "stars": 93948,
-      "forks": 15987,
+      "stars": 94371,
+      "forks": 16042,
       "starsInPeriod": 2412
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "programmingLanguage": "TypeScript",
-      "stars": 2096,
-      "forks": 158,
+      "stars": 2375,
+      "forks": 170,
       "starsInPeriod": 733
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/oblien/openship",
       "description": "Self-hosted deployment platform",
       "programmingLanguage": "TypeScript",
-      "stars": 13580,
-      "forks": 1211,
+      "stars": 13780,
+      "forks": 1233,
       "starsInPeriod": 436
     },
     {
@@ -44,97 +44,87 @@
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "programmingLanguage": "TypeScript",
-      "stars": 21623,
-      "forks": 1828,
+      "stars": 21811,
+      "forks": 1840,
       "starsInPeriod": 692
     },
     {
       "rank": 5,
-      "fullName": "chrisryugj/kordoc",
-      "url": "https://github.com/chrisryugj/kordoc",
-      "description": "모두 파싱해버리겠다 — HWP·HWPX·PDF·Office 문서를 Markdown으로. 양식 자동 채우기와 신구대조를 갖춘 CLI·MCP 서버 | Convert Korean documents (HWP, HWPX, PDF, Office) to Markdown — CLI and MCP server with form filling and diff",
-      "programmingLanguage": "TypeScript",
-      "stars": 2282,
-      "forks": 421,
-      "starsInPeriod": 36
-    },
-    {
-      "rank": 6,
       "fullName": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "programmingLanguage": "TypeScript",
-      "stars": 49792,
-      "forks": 4962,
-      "starsInPeriod": 274
+      "stars": 49828,
+      "forks": 4966,
+      "starsInPeriod": 109
     },
     {
-      "rank": 7,
+      "rank": 6,
       "fullName": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "programmingLanguage": "TypeScript",
-      "stars": 54086,
-      "forks": 4930,
+      "stars": 54228,
+      "forks": 4937,
       "starsInPeriod": 312
     },
     {
-      "rank": 8,
+      "rank": 7,
       "fullName": "vercel-labs/scriptc",
       "url": "https://github.com/vercel-labs/scriptc",
       "description": "TypeScript-to-Native Compiler",
       "programmingLanguage": "TypeScript",
-      "stars": 5665,
-      "forks": 150,
-      "starsInPeriod": 317
+      "stars": 5691,
+      "forks": 157,
+      "starsInPeriod": 88
     },
     {
-      "rank": 9,
+      "rank": 8,
       "fullName": "mobile-next/mobile-mcp",
       "url": "https://github.com/mobile-next/mobile-mcp",
       "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
       "programmingLanguage": "TypeScript",
-      "stars": 8367,
-      "forks": 725,
-      "starsInPeriod": 449
+      "stars": 8407,
+      "forks": 733,
+      "starsInPeriod": 204
     },
     {
-      "rank": 10,
+      "rank": 9,
       "fullName": "cloudflare/vinext",
       "url": "https://github.com/cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
       "programmingLanguage": "TypeScript",
-      "stars": 8958,
-      "forks": 419,
+      "stars": 8979,
+      "forks": 420,
       "starsInPeriod": 91
     },
     {
-      "rank": 11,
+      "rank": 10,
       "fullName": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "programmingLanguage": "TypeScript",
-      "stars": 51046,
-      "forks": 3651,
+      "stars": 51043,
+      "forks": 3646,
       "starsInPeriod": 19
     },
     {
-      "rank": 12,
+      "rank": 11,
       "fullName": "VoltAgent/voltagent",
       "url": "https://github.com/VoltAgent/voltagent",
       "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
       "programmingLanguage": "TypeScript",
-      "stars": 10699,
-      "forks": 1147,
+      "stars": 10704,
+      "forks": 1148,
       "starsInPeriod": 10
     },
     {
-      "rank": 13,
+      "rank": 12,
       "fullName": "OpenCTI-Platform/opencti",
       "url": "https://github.com/OpenCTI-Platform/opencti",
       "description": "Open Cyber Threat Intelligence Platform",
       "programmingLanguage": "TypeScript",
-      "stars": 10064,
+      "stars": 10067,
       "forks": 1463,
       "starsInPeriod": 6
     }
