@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-09-29T22:14:29Z",
+  "observedAt": "2026-09-30T05:31:33Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/rakyll/hey",
       "description": "HTTP load generator, ApacheBench (ab) replacement",
       "programmingLanguage": "Go",
-      "stars": 20455,
-      "forks": 1310,
-      "starsInPeriod": 31
+      "stars": 20534,
+      "forks": 1314,
+      "starsInPeriod": 34
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "programmingLanguage": "Go",
-      "stars": 4306,
-      "forks": 183,
-      "starsInPeriod": 215
+      "stars": 4343,
+      "forks": 186,
+      "starsInPeriod": 147
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 51685,
-      "forks": 6709,
-      "starsInPeriod": 121
+      "stars": 51709,
+      "forks": 6713,
+      "starsInPeriod": 112
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/vllm-project/semantic-router",
       "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "programmingLanguage": "Go",
-      "stars": 5980,
-      "forks": 989,
-      "starsInPeriod": 22
+      "stars": 5981,
+      "forks": 990,
+      "starsInPeriod": 18
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/ffuf/ffuf",
       "description": "Fast web fuzzer written in Go",
       "programmingLanguage": "Go",
-      "stars": 16778,
+      "stars": 16780,
       "forks": 1611,
-      "starsInPeriod": 19
+      "starsInPeriod": 20
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "programmingLanguage": "Go",
-      "stars": 91511,
-      "forks": 10862,
-      "starsInPeriod": 59
+      "stars": 91519,
+      "forks": 10864,
+      "starsInPeriod": 75
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/temporalio/temporal",
       "description": "Temporal service",
       "programmingLanguage": "Go",
-      "stars": 23368,
-      "forks": 1945,
-      "starsInPeriod": 20
+      "stars": 23377,
+      "forks": 1949,
+      "starsInPeriod": 24
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/kserve/kserve",
       "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 6046,
+      "stars": 6050,
       "forks": 1708,
-      "starsInPeriod": 15
+      "starsInPeriod": 9
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 28191,
-      "forks": 2608,
-      "starsInPeriod": 26
+      "stars": 28201,
+      "forks": 2611,
+      "starsInPeriod": 25
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/Billionmail/BillionMail",
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "programmingLanguage": "Go",
-      "stars": 15769,
-      "forks": 1731,
-      "starsInPeriod": 44
+      "stars": 15775,
+      "forks": 1732,
+      "starsInPeriod": 43
     },
     {
       "rank": 11,
@@ -114,7 +114,7 @@
       "url": "https://github.com/nats-io/nats-server",
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "programmingLanguage": "Go",
-      "stars": 20807,
+      "stars": 20811,
       "forks": 1979,
       "starsInPeriod": 19
     },
@@ -124,9 +124,9 @@
       "url": "https://github.com/evolution-foundation/evolution-go",
       "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API",
       "programmingLanguage": "Go",
-      "stars": 906,
-      "forks": 481,
-      "starsInPeriod": 11
+      "stars": 908,
+      "forks": 480,
+      "starsInPeriod": 7
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/livekit/livekit",
       "description": "End-to-end realtime stack for connecting humans and AI",
       "programmingLanguage": "Go",
-      "stars": 21185,
-      "forks": 2402,
-      "starsInPeriod": 18
+      "stars": 21194,
+      "forks": 2403,
+      "starsInPeriod": 23
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/keploy/keploy",
       "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
       "programmingLanguage": "Go",
-      "stars": 18508,
-      "forks": 2374,
-      "starsInPeriod": 24
+      "stars": 18509,
+      "forks": 2375,
+      "starsInPeriod": 18
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/kubernetes-sigs/agent-sandbox",
       "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
       "programmingLanguage": "Go",
-      "stars": 4086,
-      "forks": 537,
-      "starsInPeriod": 27
+      "stars": 4094,
+      "forks": 538,
+      "starsInPeriod": 26
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/seaweedfs/seaweedfs",
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "programmingLanguage": "Go",
-      "stars": 35093,
-      "forks": 3017,
-      "starsInPeriod": 35
+      "stars": 35104,
+      "forks": 3020,
+      "starsInPeriod": 38
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 27515,
-      "forks": 1868,
-      "starsInPeriod": 22
+      "stars": 27523,
+      "forks": 1869,
+      "starsInPeriod": 28
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/AminMGMT/BackPack",
       "description": "High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups",
       "programmingLanguage": "Go",
-      "stars": 408,
+      "stars": 412,
       "forks": 96,
-      "starsInPeriod": 10
+      "starsInPeriod": 9
     },
     {
       "rank": 19,
@@ -194,8 +194,8 @@
       "url": "https://github.com/felinics/Memoh",
       "description": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on.",
       "programmingLanguage": "Go",
-      "stars": 2592,
-      "forks": 251,
+      "stars": 2597,
+      "forks": 252,
       "starsInPeriod": 12
     }
   ]

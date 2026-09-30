@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-09-29T22:14:36Z",
+  "observedAt": "2026-09-30T05:31:40Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 42575,
-      "forks": 3060,
-      "starsInPeriod": 20955
+      "stars": 42667,
+      "forks": 3067,
+      "starsInPeriod": 21236
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 31229,
-      "forks": 4172,
-      "starsInPeriod": 10271
+      "stars": 31316,
+      "forks": 4184,
+      "starsInPeriod": 10525
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "programmingLanguage": "Go",
-      "stars": 16758,
+      "stars": 16763,
       "forks": 1598,
-      "starsInPeriod": 2625
+      "starsInPeriod": 2630
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 3965,
+      "stars": 3975,
       "forks": 474,
-      "starsInPeriod": 2300
+      "starsInPeriod": 2336
     },
     {
       "rank": 5,
@@ -55,8 +55,8 @@
       "description": "eBPF-based Networking, Security, and Observability",
       "programmingLanguage": "Go",
       "stars": 25576,
-      "forks": 4117,
-      "starsInPeriod": 691
+      "forks": 4115,
+      "starsInPeriod": 694
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai",
       "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "programmingLanguage": "Go",
-      "stars": 7398,
-      "forks": 815,
-      "starsInPeriod": 1414
+      "stars": 7405,
+      "forks": 814,
+      "starsInPeriod": 1416
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 181927,
-      "forks": 18044,
-      "starsInPeriod": 2846
+      "stars": 181938,
+      "forks": 18045,
+      "starsInPeriod": 2820
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 28191,
-      "forks": 2608,
-      "starsInPeriod": 601
+      "stars": 28201,
+      "forks": 2611,
+      "starsInPeriod": 618
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 25112,
-      "forks": 3233,
-      "starsInPeriod": 3088
+      "stars": 25127,
+      "forks": 3235,
+      "starsInPeriod": 3086
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/vllm-project/semantic-router",
       "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "programmingLanguage": "Go",
-      "stars": 5980,
-      "forks": 989,
-      "starsInPeriod": 597
+      "stars": 5981,
+      "forks": 990,
+      "starsInPeriod": 590
     },
     {
       "rank": 11,
@@ -116,7 +116,7 @@
       "programmingLanguage": "Go",
       "stars": 24271,
       "forks": 1828,
-      "starsInPeriod": 77
+      "starsInPeriod": 75
     },
     {
       "rank": 12,
@@ -124,7 +124,7 @@
       "url": "https://github.com/grpc/grpc-go",
       "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
       "programmingLanguage": "Go",
-      "stars": 23078,
+      "stars": 23080,
       "forks": 4776,
       "starsInPeriod": 138
     },
@@ -134,9 +134,9 @@
       "url": "https://github.com/livekit/livekit",
       "description": "End-to-end realtime stack for connecting humans and AI",
       "programmingLanguage": "Go",
-      "stars": 21185,
-      "forks": 2402,
-      "starsInPeriod": 629
+      "stars": 21194,
+      "forks": 2403,
+      "starsInPeriod": 631
     },
     {
       "rank": 14,
@@ -145,8 +145,8 @@
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "programmingLanguage": "Go",
       "stars": 20310,
-      "forks": 2522,
-      "starsInPeriod": 765
+      "forks": 2521,
+      "starsInPeriod": 766
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139086,
-      "forks": 20932,
-      "starsInPeriod": 2881
+      "stars": 139090,
+      "forks": 20951,
+      "starsInPeriod": 2635
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "programmingLanguage": "Go",
-      "stars": 8219,
+      "stars": 8226,
       "forks": 599,
-      "starsInPeriod": 1022
+      "starsInPeriod": 1041
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/guohuiyuan/go-music-dl",
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "programmingLanguage": "Go",
-      "stars": 4985,
+      "stars": 4991,
       "forks": 477,
-      "starsInPeriod": 927
+      "starsInPeriod": 928
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/cloudflare/cloudflared",
       "description": "Cloudflare Tunnel client",
       "programmingLanguage": "Go",
-      "stars": 15962,
-      "forks": 1463,
-      "starsInPeriod": 565
+      "stars": 15969,
+      "forks": 1465,
+      "starsInPeriod": 566
     },
     {
       "rank": 19,
@@ -195,8 +195,8 @@
       "description": "Your own search engine",
       "programmingLanguage": "Go",
       "stars": 5800,
-      "forks": 255,
-      "starsInPeriod": 2629
+      "forks": 256,
+      "starsInPeriod": 2563
     },
     {
       "rank": 20,
@@ -204,9 +204,9 @@
       "url": "https://github.com/majd/ipatool",
       "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
       "programmingLanguage": "Go",
-      "stars": 11444,
+      "stars": 11445,
       "forks": 957,
-      "starsInPeriod": 1540
+      "starsInPeriod": 1503
     },
     {
       "rank": 21,
@@ -214,9 +214,9 @@
       "url": "https://github.com/authelia/authelia",
       "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
       "programmingLanguage": "Go",
-      "stars": 29134,
+      "stars": 29137,
       "forks": 1499,
-      "starsInPeriod": 436
+      "starsInPeriod": 439
     },
     {
       "rank": 22,
@@ -234,9 +234,9 @@
       "url": "https://github.com/maximhq/bifrost",
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "programmingLanguage": "Go",
-      "stars": 8450,
-      "forks": 1308,
-      "starsInPeriod": 835
+      "stars": 8457,
+      "forks": 1312,
+      "starsInPeriod": 841
     }
   ]
 }
