@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — javascript</title>
     <link>https://github.com/trending/javascript</link>
     <description>GitHub Trending — daily — javascript</description>
-    <lastBuildDate>Wed, 30 Sep 2026 05:31:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:33:45 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-09-30</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>javascript</ght:language>
-    <ght:updatedAt>2026-09-30T05:31:43Z</ght:updatedAt>
+    <ght:updatedAt>2026-09-30T12:33:45Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,14 +20,30 @@
       <guid isPermaLink="true">https://github.com/byoungd/up</guid>
       <pubDate>Wed, 30 Sep 2026 05:31:43 GMT</pubDate>
       <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>65880</ght:stars>
-      <ght:forks>6600</ght:forks>
+      <ght:stars>66123</ght:stars>
+      <ght:forks>6619</ght:forks>
       <ght:starsInPeriod>1102</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T05:31:43Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>DietrichGebert/ponytail</title>
+      <link>https://github.com/DietrichGebert/ponytail</link>
+      <description>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
+      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
+      <pubDate>Wed, 30 Sep 2026 05:31:43 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>148623</ght:stars>
+      <ght:forks>7994</ght:forks>
+      <ght:starsInPeriod>675</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
       <ght:firstSeenAt>2026-09-30T05:31:43Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-30T05:31:43Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>citrolabs/ego-lite</title>
@@ -44,6 +60,22 @@
       <ght:firstSeenAt>2026-09-30T05:31:43Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-09-30T05:31:43Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>pbakaus/impeccable</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <description>The design language that makes your AI harness better at design.</description>
+      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
+      <pubDate>Wed, 30 Sep 2026 05:31:43 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>72805</ght:stars>
+      <ght:forks>4396</ght:forks>
+      <ght:starsInPeriod>403</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T05:31:43Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>tt-a1i/archify</title>
@@ -78,6 +110,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <description>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
+      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:45 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>269926</ght:stars>
+      <ght:forks>40341</ght:forks>
+      <ght:starsInPeriod>650</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>QwenAudio/qwen-audio-agent</title>
       <link>https://github.com/QwenAudio/qwen-audio-agent</link>
       <description>A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agents</description>
@@ -94,35 +142,67 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>open-gsd/gsd-core</title>
+      <link>https://github.com/open-gsd/gsd-core</link>
+      <description>Git. Ship. Done - Core</description>
+      <guid isPermaLink="true">https://github.com/open-gsd/gsd-core</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:45 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>10029</ght:stars>
+      <ght:forks>717</ght:forks>
+      <ght:starsInPeriod>56</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>vercel-labs/agent-skills</title>
       <link>https://github.com/vercel-labs/agent-skills</link>
       <description>Vercel's official collection of agent skills</description>
       <guid isPermaLink="true">https://github.com/vercel-labs/agent-skills</guid>
       <pubDate>Wed, 30 Sep 2026 05:31:43 GMT</pubDate>
       <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>31738</ght:stars>
+      <ght:stars>31753</ght:stars>
       <ght:forks>2777</ght:forks>
       <ght:starsInPeriod>48</ght:starsInPeriod>
       <ght:bestRank>6</ght:bestRank>
-      <ght:latestRank>6</ght:latestRank>
+      <ght:latestRank>9</ght:latestRank>
       <ght:firstSeenAt>2026-09-30T05:31:43Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-30T05:31:43Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>NomaDamas/k-skill</title>
+      <link>https://github.com/NomaDamas/k-skill</link>
+      <description>한국인을 위한 스킬 모음집 - 에이전트를 한국인으로</description>
+      <guid isPermaLink="true">https://github.com/NomaDamas/k-skill</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:45 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>7726</ght:stars>
+      <ght:forks>939</ght:forks>
+      <ght:starsInPeriod>8</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>DietrichGebert/ponytail</title>
-      <link>https://github.com/DietrichGebert/ponytail</link>
-      <description>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
-      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:43 GMT</pubDate>
+      <title>WesselKroos/youtube-ambilight</title>
+      <link>https://github.com/WesselKroos/youtube-ambilight</link>
+      <description>This browser extension adds ambient light to YouTube videos</description>
+      <guid isPermaLink="true">https://github.com/WesselKroos/youtube-ambilight</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:45 GMT</pubDate>
       <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>148367</ght:stars>
-      <ght:forks>7982</ght:forks>
-      <ght:starsInPeriod>675</ght:starsInPeriod>
+      <ght:stars>218</ght:stars>
+      <ght:forks>21</ght:forks>
+      <ght:starsInPeriod>39</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
-      <ght:firstSeenAt>2026-09-30T05:31:43Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-30T05:31:43Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-09-30T12:33:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -139,6 +219,22 @@
       <ght:latestRank>8</ght:latestRank>
       <ght:firstSeenAt>2026-09-30T05:31:43Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-09-30T05:31:43Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>xiufengsun/TokenTracker</title>
+      <link>https://github.com/xiufengsun/TokenTracker</link>
+      <description>Local-first AI token usage &amp; cost tracker for 31 coding tools incl. Claude Code, Codex, Cursor, Gemini &amp; DeepSeek Harness—with native apps. Never reads prompts.</description>
+      <guid isPermaLink="true">https://github.com/xiufengsun/TokenTracker</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:45 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>1908</ght:stars>
+      <ght:forks>193</ght:forks>
+      <ght:starsInPeriod>43</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -174,6 +270,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>advplyr/audiobookshelf</title>
+      <link>https://github.com/advplyr/audiobookshelf</link>
+      <description>Self-hosted audiobook and podcast server</description>
+      <guid isPermaLink="true">https://github.com/advplyr/audiobookshelf</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:45 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>14506</ght:stars>
+      <ght:forks>1188</ght:forks>
+      <ght:starsInPeriod>20</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>microsoft/power-platform-skills</title>
       <link>https://github.com/microsoft/power-platform-skills</link>
       <description>A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.</description>
@@ -190,19 +302,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>pbakaus/impeccable</title>
-      <link>https://github.com/pbakaus/impeccable</link>
-      <description>The design language that makes your AI harness better at design.</description>
-      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:43 GMT</pubDate>
+      <title>fleetbase/fleetbase</title>
+      <link>https://github.com/fleetbase/fleetbase</link>
+      <description>Modular logistics and supply chain operating system (LSOS)</description>
+      <guid isPermaLink="true">https://github.com/fleetbase/fleetbase</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:45 GMT</pubDate>
       <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>72663</ght:stars>
-      <ght:forks>4388</ght:forks>
-      <ght:starsInPeriod>403</ght:starsInPeriod>
+      <ght:stars>4039</ght:stars>
+      <ght:forks>1071</ght:forks>
+      <ght:starsInPeriod>81</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>decolua/9router</title>
+      <link>https://github.com/decolua/9router</link>
+      <description>Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.</description>
+      <guid isPermaLink="true">https://github.com/decolua/9router</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:45 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>30079</ght:stars>
+      <ght:forks>5693</ght:forks>
+      <ght:starsInPeriod>71</ght:starsInPeriod>
       <ght:bestRank>12</ght:bestRank>
       <ght:latestRank>12</ght:latestRank>
-      <ght:firstSeenAt>2026-09-30T05:31:43Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-30T05:31:43Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-09-30T12:33:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -219,6 +347,70 @@
       <ght:latestRank>13</ght:latestRank>
       <ght:firstSeenAt>2026-09-30T05:31:43Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-09-30T05:31:43Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Fei-Away/Codex-Dream-Skin</title>
+      <link>https://github.com/Fei-Away/Codex-Dream-Skin</link>
+      <description>Codex Dream Skin</description>
+      <guid isPermaLink="true">https://github.com/Fei-Away/Codex-Dream-Skin</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:45 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>14858</ght:stars>
+      <ght:forks>1371</ght:forks>
+      <ght:starsInPeriod>22</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Javis603/token-monitor</title>
+      <link>https://github.com/Javis603/token-monitor</link>
+      <description>Local-first desktop widget for tracking token usage, costs, and limits across 43+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.</description>
+      <guid isPermaLink="true">https://github.com/Javis603/token-monitor</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:45 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>2512</ght:stars>
+      <ght:forks>248</ght:forks>
+      <ght:starsInPeriod>37</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Leonxlnx/taste-skill</title>
+      <link>https://github.com/Leonxlnx/taste-skill</link>
+      <description>Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop</description>
+      <guid isPermaLink="true">https://github.com/Leonxlnx/taste-skill</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:45 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>91428</ght:stars>
+      <ght:forks>6215</ght:forks>
+      <ght:starsInPeriod>333</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>FB208/OpenBidKit_Yibiao</title>
+      <link>https://github.com/FB208/OpenBidKit_Yibiao</link>
+      <description>开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用</description>
+      <guid isPermaLink="true">https://github.com/FB208/OpenBidKit_Yibiao</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:45 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>3083</ght:stars>
+      <ght:forks>785</ght:forks>
+      <ght:starsInPeriod>8</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>

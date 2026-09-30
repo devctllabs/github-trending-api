@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Wed, 30 Sep 2026 05:31:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:33:35 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-09-30</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-09-30T05:31:33Z</ght:updatedAt>
+    <ght:updatedAt>2026-09-30T12:33:35Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -30,20 +30,52 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>aquasecurity/trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>38146</ght:stars>
+      <ght:forks>718</ght:forks>
+      <ght:starsInPeriod>28</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>Gaurav-Gosain/tuios</title>
       <link>https://github.com/Gaurav-Gosain/tuios</link>
       <description>A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.</description>
       <guid isPermaLink="true">https://github.com/Gaurav-Gosain/tuios</guid>
       <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>4343</ght:stars>
-      <ght:forks>186</ght:forks>
+      <ght:stars>4380</ght:stars>
+      <ght:forks>187</ght:forks>
       <ght:starsInPeriod>147</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T05:31:33Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>infiniflow/ragflow</title>
+      <link>https://github.com/infiniflow/ragflow</link>
+      <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
+      <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
+      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>91541</ght:stars>
+      <ght:forks>10868</ght:forks>
+      <ght:starsInPeriod>75</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
       <ght:latestRank>2</ght:latestRank>
       <ght:firstSeenAt>2026-09-30T05:31:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-30T05:31:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>multica-ai/multica</title>
@@ -59,6 +91,22 @@
       <ght:latestRank>3</ght:latestRank>
       <ght:firstSeenAt>2026-09-30T05:31:33Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-09-30T05:31:33Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>mikefarah/yq</title>
+      <link>https://github.com/mikefarah/yq</link>
+      <description>yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor</description>
+      <guid isPermaLink="true">https://github.com/mikefarah/yq</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>16033</ght:stars>
+      <ght:forks>2161</ght:forks>
+      <ght:starsInPeriod>5</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -94,20 +142,36 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>infiniflow/ragflow</title>
-      <link>https://github.com/infiniflow/ragflow</link>
-      <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
-      <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
+      <title>labstack/echo</title>
+      <link>https://github.com/labstack/echo</link>
+      <description>High performance, minimalist Go web framework</description>
+      <guid isPermaLink="true">https://github.com/labstack/echo</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>32744</ght:stars>
+      <ght:forks>3717</ght:forks>
+      <ght:starsInPeriod>2</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>seaweedfs/seaweedfs</title>
+      <link>https://github.com/seaweedfs/seaweedfs</link>
+      <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
+      <guid isPermaLink="true">https://github.com/seaweedfs/seaweedfs</guid>
       <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>91519</ght:stars>
-      <ght:forks>10864</ght:forks>
-      <ght:starsInPeriod>75</ght:starsInPeriod>
+      <ght:stars>35120</ght:stars>
+      <ght:forks>3022</ght:forks>
+      <ght:starsInPeriod>38</ght:starsInPeriod>
       <ght:bestRank>6</ght:bestRank>
       <ght:latestRank>6</ght:latestRank>
       <ght:firstSeenAt>2026-09-30T05:31:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-30T05:31:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>temporalio/temporal</title>
@@ -116,13 +180,29 @@
       <guid isPermaLink="true">https://github.com/temporalio/temporal</guid>
       <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>23377</ght:stars>
-      <ght:forks>1949</ght:forks>
+      <ght:stars>23381</ght:stars>
+      <ght:forks>1950</ght:forks>
       <ght:starsInPeriod>24</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
-      <ght:latestRank>7</ght:latestRank>
+      <ght:latestRank>12</ght:latestRank>
       <ght:firstSeenAt>2026-09-30T05:31:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-30T05:31:33Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>go-chi/chi</title>
+      <link>https://github.com/go-chi/chi</link>
+      <description>lightweight, idiomatic and composable router for building Go HTTP services</description>
+      <guid isPermaLink="true">https://github.com/go-chi/chi</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>22905</ght:stars>
+      <ght:forks>2429</ght:forks>
+      <ght:starsInPeriod>5</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -142,6 +222,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>charmbracelet/bubbletea</title>
+      <link>https://github.com/charmbracelet/bubbletea</link>
+      <description>A powerful little TUI framework 🏗</description>
+      <guid isPermaLink="true">https://github.com/charmbracelet/bubbletea</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>45198</ght:stars>
+      <ght:forks>2754</ght:forks>
+      <ght:starsInPeriod>27</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>trufflesecurity/trufflehog</title>
       <link>https://github.com/trufflesecurity/trufflehog</link>
       <description>Find, verify, and analyze leaked credentials</description>
@@ -158,20 +254,68 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>googleapis/mcp-toolbox</title>
+      <link>https://github.com/googleapis/mcp-toolbox</link>
+      <description>MCP Toolbox for Databases is an open source MCP server for databases.</description>
+      <guid isPermaLink="true">https://github.com/googleapis/mcp-toolbox</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>16540</ght:stars>
+      <ght:forks>1744</ght:forks>
+      <ght:starsInPeriod>31</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>Billionmail/BillionMail</title>
       <link>https://github.com/Billionmail/BillionMail</link>
       <description>BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</description>
       <guid isPermaLink="true">https://github.com/Billionmail/BillionMail</guid>
       <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>15775</ght:stars>
+      <ght:stars>15784</ght:stars>
       <ght:forks>1732</ght:forks>
       <ght:starsInPeriod>43</ght:starsInPeriod>
       <ght:bestRank>10</ght:bestRank>
-      <ght:latestRank>10</ght:latestRank>
+      <ght:latestRank>14</ght:latestRank>
       <ght:firstSeenAt>2026-09-30T05:31:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-30T05:31:33Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>QuantumNous/new-api</title>
+      <link>https://github.com/QuantumNous/new-api</link>
+      <description>A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.</description>
+      <guid isPermaLink="true">https://github.com/QuantumNous/new-api</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>49138</ght:stars>
+      <ght:forks>11806</ght:forks>
+      <ght:starsInPeriod>76</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>gastownhall/beads</title>
+      <link>https://github.com/gastownhall/beads</link>
+      <description>Beads - A memory upgrade for your coding agent</description>
+      <guid isPermaLink="true">https://github.com/gastownhall/beads</guid>
+      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>27535</ght:stars>
+      <ght:forks>1872</ght:forks>
+      <ght:starsInPeriod>28</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T05:31:33Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>nats-io/nats-server</title>
@@ -222,6 +366,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>open-telemetry/opentelemetry-collector-contrib</title>
+      <link>https://github.com/open-telemetry/opentelemetry-collector-contrib</link>
+      <description>Contrib repository for the OpenTelemetry Collector</description>
+      <guid isPermaLink="true">https://github.com/open-telemetry/opentelemetry-collector-contrib</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4961</ght:stars>
+      <ght:forks>3959</ght:forks>
+      <ght:starsInPeriod>0</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>keploy/keploy</title>
       <link>https://github.com/keploy/keploy</link>
       <description>Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.</description>
@@ -254,35 +414,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>seaweedfs/seaweedfs</title>
-      <link>https://github.com/seaweedfs/seaweedfs</link>
-      <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
-      <guid isPermaLink="true">https://github.com/seaweedfs/seaweedfs</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
+      <title>gitleaks/gitleaks</title>
+      <link>https://github.com/gitleaks/gitleaks</link>
+      <description>Find secrets with Gitleaks 🔑</description>
+      <guid isPermaLink="true">https://github.com/gitleaks/gitleaks</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>35104</ght:stars>
-      <ght:forks>3020</ght:forks>
-      <ght:starsInPeriod>38</ght:starsInPeriod>
-      <ght:bestRank>16</ght:bestRank>
-      <ght:latestRank>16</ght:latestRank>
-      <ght:firstSeenAt>2026-09-30T05:31:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-30T05:31:33Z</ght:lastSeenAt>
+      <ght:stars>29567</ght:stars>
+      <ght:forks>2258</ght:forks>
+      <ght:starsInPeriod>20</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>gastownhall/beads</title>
-      <link>https://github.com/gastownhall/beads</link>
-      <description>Beads - A memory upgrade for your coding agent</description>
-      <guid isPermaLink="true">https://github.com/gastownhall/beads</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
+      <title>charmbracelet/lipgloss</title>
+      <link>https://github.com/charmbracelet/lipgloss</link>
+      <description>Style definitions for nice terminal layouts 👄</description>
+      <guid isPermaLink="true">https://github.com/charmbracelet/lipgloss</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>27523</ght:stars>
-      <ght:forks>1869</ght:forks>
-      <ght:starsInPeriod>28</ght:starsInPeriod>
+      <ght:stars>11881</ght:stars>
+      <ght:forks>401</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>yorukot/superfile</title>
+      <link>https://github.com/yorukot/superfile</link>
+      <description>Pretty fancy and modern terminal file manager</description>
+      <guid isPermaLink="true">https://github.com/yorukot/superfile</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>23547</ght:stars>
+      <ght:forks>865</ght:forks>
+      <ght:starsInPeriod>120</ght:starsInPeriod>
       <ght:bestRank>17</ght:bestRank>
       <ght:latestRank>17</ght:latestRank>
-      <ght:firstSeenAt>2026-09-30T05:31:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-09-30T05:31:33Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -302,6 +478,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>containerd/containerd</title>
+      <link>https://github.com/containerd/containerd</link>
+      <description>An open and reliable container runtime</description>
+      <guid isPermaLink="true">https://github.com/containerd/containerd</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>21357</ght:stars>
+      <ght:forks>4138</ght:forks>
+      <ght:starsInPeriod>5</ght:starsInPeriod>
+      <ght:bestRank>18</ght:bestRank>
+      <ght:latestRank>18</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>felinics/Memoh</title>
       <link>https://github.com/felinics/Memoh</link>
       <description>✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on.</description>
@@ -315,6 +507,38 @@
       <ght:latestRank>19</ght:latestRank>
       <ght:firstSeenAt>2026-09-30T05:31:33Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-09-30T05:31:33Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>ikemen-engine/Ikemen-GO</title>
+      <link>https://github.com/ikemen-engine/Ikemen-GO</link>
+      <description>An open-source fighting game engine that supports MUGEN resources.</description>
+      <guid isPermaLink="true">https://github.com/ikemen-engine/Ikemen-GO</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>1576</ght:stars>
+      <ght:forks>261</ght:forks>
+      <ght:starsInPeriod>6</ght:starsInPeriod>
+      <ght:bestRank>19</ght:bestRank>
+      <ght:latestRank>19</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>MHSanaei/3x-ui</title>
+      <link>https://github.com/MHSanaei/3x-ui</link>
+      <description>Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)</description>
+      <guid isPermaLink="true">https://github.com/MHSanaei/3x-ui</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>47221</ght:stars>
+      <ght:forks>11944</ght:forks>
+      <ght:starsInPeriod>75</ght:starsInPeriod>
+      <ght:bestRank>20</ght:bestRank>
+      <ght:latestRank>20</ght:latestRank>
+      <ght:firstSeenAt>2026-09-30T12:33:35Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-09-30T12:33:35Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>

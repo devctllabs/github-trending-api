@@ -4,241 +4,253 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Wed, 30 Sep 2026 05:31:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:33:35 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-09-30T05:31:33Z</ght:observedAt>
+    <ght:observedAt>2026-09-30T12:33:35Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
-      <title>rakyll/hey</title>
-      <link>https://github.com/rakyll/hey</link>
-      <description>HTTP load generator, ApacheBench (ab) replacement</description>
-      <guid isPermaLink="true">https://github.com/rakyll/hey</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
+      <title>aquasecurity/trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>20534</ght:stars>
-      <ght:forks>1314</ght:forks>
-      <ght:starsInPeriod>34</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>Gaurav-Gosain/tuios</title>
-      <link>https://github.com/Gaurav-Gosain/tuios</link>
-      <description>A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.</description>
-      <guid isPermaLink="true">https://github.com/Gaurav-Gosain/tuios</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>4343</ght:stars>
-      <ght:forks>186</ght:forks>
-      <ght:starsInPeriod>147</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>multica-ai/multica</title>
-      <link>https://github.com/multica-ai/multica</link>
-      <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
-      <guid isPermaLink="true">https://github.com/multica-ai/multica</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>51709</ght:stars>
-      <ght:forks>6713</ght:forks>
-      <ght:starsInPeriod>112</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>vllm-project/semantic-router</title>
-      <link>https://github.com/vllm-project/semantic-router</link>
-      <description>A programmable Mixture-of-Models router for heterogeneous LLM inference</description>
-      <guid isPermaLink="true">https://github.com/vllm-project/semantic-router</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>5981</ght:stars>
-      <ght:forks>990</ght:forks>
-      <ght:starsInPeriod>18</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>ffuf/ffuf</title>
-      <link>https://github.com/ffuf/ffuf</link>
-      <description>Fast web fuzzer written in Go</description>
-      <guid isPermaLink="true">https://github.com/ffuf/ffuf</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>16780</ght:stars>
-      <ght:forks>1611</ght:forks>
-      <ght:starsInPeriod>20</ght:starsInPeriod>
+      <ght:stars>38146</ght:stars>
+      <ght:forks>718</ght:forks>
+      <ght:starsInPeriod>28</ght:starsInPeriod>
     </item>
     <item>
       <title>infiniflow/ragflow</title>
       <link>https://github.com/infiniflow/ragflow</link>
       <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
       <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>6</ght:rank>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>91519</ght:stars>
-      <ght:forks>10864</ght:forks>
+      <ght:stars>91541</ght:stars>
+      <ght:forks>10868</ght:forks>
       <ght:starsInPeriod>75</ght:starsInPeriod>
     </item>
     <item>
-      <title>temporalio/temporal</title>
-      <link>https://github.com/temporalio/temporal</link>
-      <description>Temporal service</description>
-      <guid isPermaLink="true">https://github.com/temporalio/temporal</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>7</ght:rank>
+      <title>mikefarah/yq</title>
+      <link>https://github.com/mikefarah/yq</link>
+      <description>yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor</description>
+      <guid isPermaLink="true">https://github.com/mikefarah/yq</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>23377</ght:stars>
-      <ght:forks>1949</ght:forks>
-      <ght:starsInPeriod>24</ght:starsInPeriod>
+      <ght:stars>16033</ght:stars>
+      <ght:forks>2161</ght:forks>
+      <ght:starsInPeriod>5</ght:starsInPeriod>
     </item>
     <item>
-      <title>kserve/kserve</title>
-      <link>https://github.com/kserve/kserve</link>
-      <description>Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes</description>
-      <guid isPermaLink="true">https://github.com/kserve/kserve</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>8</ght:rank>
+      <title>Gaurav-Gosain/tuios</title>
+      <link>https://github.com/Gaurav-Gosain/tuios</link>
+      <description>A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.</description>
+      <guid isPermaLink="true">https://github.com/Gaurav-Gosain/tuios</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6050</ght:stars>
-      <ght:forks>1708</ght:forks>
-      <ght:starsInPeriod>9</ght:starsInPeriod>
+      <ght:stars>4380</ght:stars>
+      <ght:forks>187</ght:forks>
+      <ght:starsInPeriod>147</ght:starsInPeriod>
     </item>
     <item>
-      <title>trufflesecurity/trufflehog</title>
-      <link>https://github.com/trufflesecurity/trufflehog</link>
-      <description>Find, verify, and analyze leaked credentials</description>
-      <guid isPermaLink="true">https://github.com/trufflesecurity/trufflehog</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>9</ght:rank>
+      <title>labstack/echo</title>
+      <link>https://github.com/labstack/echo</link>
+      <description>High performance, minimalist Go web framework</description>
+      <guid isPermaLink="true">https://github.com/labstack/echo</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>28201</ght:stars>
-      <ght:forks>2611</ght:forks>
-      <ght:starsInPeriod>25</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>Billionmail/BillionMail</title>
-      <link>https://github.com/Billionmail/BillionMail</link>
-      <description>BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</description>
-      <guid isPermaLink="true">https://github.com/Billionmail/BillionMail</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>10</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>15775</ght:stars>
-      <ght:forks>1732</ght:forks>
-      <ght:starsInPeriod>43</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>nats-io/nats-server</title>
-      <link>https://github.com/nats-io/nats-server</link>
-      <description>High-Performance server for NATS.io, the cloud and edge native messaging system.</description>
-      <guid isPermaLink="true">https://github.com/nats-io/nats-server</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>11</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>20811</ght:stars>
-      <ght:forks>1979</ght:forks>
-      <ght:starsInPeriod>19</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>evolution-foundation/evolution-go</title>
-      <link>https://github.com/evolution-foundation/evolution-go</link>
-      <description>Evolution API / Evolution Go is an open-source WhatsApp integration API</description>
-      <guid isPermaLink="true">https://github.com/evolution-foundation/evolution-go</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>12</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>908</ght:stars>
-      <ght:forks>480</ght:forks>
-      <ght:starsInPeriod>7</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>livekit/livekit</title>
-      <link>https://github.com/livekit/livekit</link>
-      <description>End-to-end realtime stack for connecting humans and AI</description>
-      <guid isPermaLink="true">https://github.com/livekit/livekit</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>13</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>21194</ght:stars>
-      <ght:forks>2403</ght:forks>
-      <ght:starsInPeriod>23</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>keploy/keploy</title>
-      <link>https://github.com/keploy/keploy</link>
-      <description>Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.</description>
-      <guid isPermaLink="true">https://github.com/keploy/keploy</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>14</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>18509</ght:stars>
-      <ght:forks>2375</ght:forks>
-      <ght:starsInPeriod>18</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>kubernetes-sigs/agent-sandbox</title>
-      <link>https://github.com/kubernetes-sigs/agent-sandbox</link>
-      <description>agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).</description>
-      <guid isPermaLink="true">https://github.com/kubernetes-sigs/agent-sandbox</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>15</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>4094</ght:stars>
-      <ght:forks>538</ght:forks>
-      <ght:starsInPeriod>26</ght:starsInPeriod>
+      <ght:stars>32744</ght:stars>
+      <ght:forks>3717</ght:forks>
+      <ght:starsInPeriod>2</ght:starsInPeriod>
     </item>
     <item>
       <title>seaweedfs/seaweedfs</title>
       <link>https://github.com/seaweedfs/seaweedfs</link>
       <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
       <guid isPermaLink="true">https://github.com/seaweedfs/seaweedfs</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>16</ght:rank>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>35104</ght:stars>
-      <ght:forks>3020</ght:forks>
+      <ght:stars>35120</ght:stars>
+      <ght:forks>3022</ght:forks>
       <ght:starsInPeriod>38</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>go-chi/chi</title>
+      <link>https://github.com/go-chi/chi</link>
+      <description>lightweight, idiomatic and composable router for building Go HTTP services</description>
+      <guid isPermaLink="true">https://github.com/go-chi/chi</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>7</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>22905</ght:stars>
+      <ght:forks>2429</ght:forks>
+      <ght:starsInPeriod>5</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>charmbracelet/bubbletea</title>
+      <link>https://github.com/charmbracelet/bubbletea</link>
+      <description>A powerful little TUI framework 🏗</description>
+      <guid isPermaLink="true">https://github.com/charmbracelet/bubbletea</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>45198</ght:stars>
+      <ght:forks>2754</ght:forks>
+      <ght:starsInPeriod>27</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>googleapis/mcp-toolbox</title>
+      <link>https://github.com/googleapis/mcp-toolbox</link>
+      <description>MCP Toolbox for Databases is an open source MCP server for databases.</description>
+      <guid isPermaLink="true">https://github.com/googleapis/mcp-toolbox</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>9</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>16540</ght:stars>
+      <ght:forks>1744</ght:forks>
+      <ght:starsInPeriod>31</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>QuantumNous/new-api</title>
+      <link>https://github.com/QuantumNous/new-api</link>
+      <description>A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.</description>
+      <guid isPermaLink="true">https://github.com/QuantumNous/new-api</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>10</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>49138</ght:stars>
+      <ght:forks>11806</ght:forks>
+      <ght:starsInPeriod>76</ght:starsInPeriod>
     </item>
     <item>
       <title>gastownhall/beads</title>
       <link>https://github.com/gastownhall/beads</link>
       <description>Beads - A memory upgrade for your coding agent</description>
       <guid isPermaLink="true">https://github.com/gastownhall/beads</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>17</ght:rank>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>27523</ght:stars>
-      <ght:forks>1869</ght:forks>
+      <ght:stars>27535</ght:stars>
+      <ght:forks>1872</ght:forks>
       <ght:starsInPeriod>28</ght:starsInPeriod>
     </item>
     <item>
-      <title>AminMGMT/BackPack</title>
-      <link>https://github.com/AminMGMT/BackPack</link>
-      <description>High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups</description>
-      <guid isPermaLink="true">https://github.com/AminMGMT/BackPack</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
-      <ght:rank>18</ght:rank>
+      <title>temporalio/temporal</title>
+      <link>https://github.com/temporalio/temporal</link>
+      <description>Temporal service</description>
+      <guid isPermaLink="true">https://github.com/temporalio/temporal</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>412</ght:stars>
-      <ght:forks>96</ght:forks>
-      <ght:starsInPeriod>9</ght:starsInPeriod>
+      <ght:stars>23381</ght:stars>
+      <ght:forks>1950</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
     </item>
     <item>
-      <title>felinics/Memoh</title>
-      <link>https://github.com/felinics/Memoh</link>
-      <description>✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on.</description>
-      <guid isPermaLink="true">https://github.com/felinics/Memoh</guid>
-      <pubDate>Wed, 30 Sep 2026 05:31:33 GMT</pubDate>
+      <title>open-telemetry/opentelemetry-collector-contrib</title>
+      <link>https://github.com/open-telemetry/opentelemetry-collector-contrib</link>
+      <description>Contrib repository for the OpenTelemetry Collector</description>
+      <guid isPermaLink="true">https://github.com/open-telemetry/opentelemetry-collector-contrib</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>13</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4961</ght:stars>
+      <ght:forks>3959</ght:forks>
+      <ght:starsInPeriod>0</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>Billionmail/BillionMail</title>
+      <link>https://github.com/Billionmail/BillionMail</link>
+      <description>BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</description>
+      <guid isPermaLink="true">https://github.com/Billionmail/BillionMail</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>14</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>15784</ght:stars>
+      <ght:forks>1732</ght:forks>
+      <ght:starsInPeriod>43</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>gitleaks/gitleaks</title>
+      <link>https://github.com/gitleaks/gitleaks</link>
+      <description>Find secrets with Gitleaks 🔑</description>
+      <guid isPermaLink="true">https://github.com/gitleaks/gitleaks</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>15</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>29567</ght:stars>
+      <ght:forks>2258</ght:forks>
+      <ght:starsInPeriod>20</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>charmbracelet/lipgloss</title>
+      <link>https://github.com/charmbracelet/lipgloss</link>
+      <description>Style definitions for nice terminal layouts 👄</description>
+      <guid isPermaLink="true">https://github.com/charmbracelet/lipgloss</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>11881</ght:stars>
+      <ght:forks>401</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>yorukot/superfile</title>
+      <link>https://github.com/yorukot/superfile</link>
+      <description>Pretty fancy and modern terminal file manager</description>
+      <guid isPermaLink="true">https://github.com/yorukot/superfile</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>17</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>23547</ght:stars>
+      <ght:forks>865</ght:forks>
+      <ght:starsInPeriod>120</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>containerd/containerd</title>
+      <link>https://github.com/containerd/containerd</link>
+      <description>An open and reliable container runtime</description>
+      <guid isPermaLink="true">https://github.com/containerd/containerd</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>18</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>21357</ght:stars>
+      <ght:forks>4138</ght:forks>
+      <ght:starsInPeriod>5</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>ikemen-engine/Ikemen-GO</title>
+      <link>https://github.com/ikemen-engine/Ikemen-GO</link>
+      <description>An open-source fighting game engine that supports MUGEN resources.</description>
+      <guid isPermaLink="true">https://github.com/ikemen-engine/Ikemen-GO</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
       <ght:rank>19</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>2597</ght:stars>
-      <ght:forks>252</ght:forks>
-      <ght:starsInPeriod>12</ght:starsInPeriod>
+      <ght:stars>1576</ght:stars>
+      <ght:forks>261</ght:forks>
+      <ght:starsInPeriod>6</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>MHSanaei/3x-ui</title>
+      <link>https://github.com/MHSanaei/3x-ui</link>
+      <description>Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)</description>
+      <guid isPermaLink="true">https://github.com/MHSanaei/3x-ui</guid>
+      <pubDate>Wed, 30 Sep 2026 12:33:35 GMT</pubDate>
+      <ght:rank>20</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>47221</ght:stars>
+      <ght:forks>11944</ght:forks>
+      <ght:starsInPeriod>75</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

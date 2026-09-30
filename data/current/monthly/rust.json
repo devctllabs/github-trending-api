@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=monthly",
-  "observedAt": "2026-09-30T05:31:30Z",
+  "observedAt": "2026-09-30T12:33:31Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 8513,
-      "forks": 303,
+      "stars": 8534,
+      "forks": 304,
       "starsInPeriod": 1843
     },
     {
@@ -24,49 +24,49 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 15137,
-      "forks": 945,
+      "stars": 15190,
+      "forks": 949,
       "starsInPeriod": 1454
     },
     {
       "rank": 3,
-      "fullName": "clash-verge-rev/clash-verge-rev",
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-      "programmingLanguage": "Rust",
-      "stars": 148373,
-      "forks": 10647,
-      "starsInPeriod": 7745
-    },
-    {
-      "rank": 4,
-      "fullName": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
-      "programmingLanguage": "Rust",
-      "stars": 5479,
-      "forks": 392,
-      "starsInPeriod": 3974
-    },
-    {
-      "rank": 5,
       "fullName": "rustdesk/rustdesk",
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 124817,
-      "forks": 19339,
+      "stars": 124838,
+      "forks": 19344,
       "starsInPeriod": 3143
     },
     {
-      "rank": 6,
-      "fullName": "pollen-robotics/microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
+      "rank": 4,
+      "fullName": "clash-verge-rev/clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "programmingLanguage": "Rust",
-      "stars": 8998,
-      "forks": 1146,
-      "starsInPeriod": 7355
+      "stars": 148457,
+      "forks": 10660,
+      "starsInPeriod": 7745
+    },
+    {
+      "rank": 5,
+      "fullName": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "programmingLanguage": "Rust",
+      "stars": 12718,
+      "forks": 1159,
+      "starsInPeriod": 956
+    },
+    {
+      "rank": 6,
+      "fullName": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+      "programmingLanguage": "Rust",
+      "stars": 5481,
+      "forks": 392,
+      "starsInPeriod": 3974
     },
     {
       "rank": 7,
@@ -74,159 +74,149 @@
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 2355,
-      "forks": 244,
+      "stars": 2360,
+      "forks": 245,
       "starsInPeriod": 1398
     },
     {
       "rank": 8,
-      "fullName": "pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm",
-      "description": "Fast, disk space efficient package manager",
-      "programmingLanguage": "Rust",
-      "stars": 36705,
-      "forks": 1898,
-      "starsInPeriod": 453
-    },
-    {
-      "rank": 9,
       "fullName": "ankitects/anki",
       "url": "https://github.com/ankitects/anki",
       "description": "Anki is a smart spaced repetition flashcard program",
       "programmingLanguage": "Rust",
-      "stars": 31664,
-      "forks": 3286,
+      "stars": 31666,
+      "forks": 3287,
       "starsInPeriod": 1804
     },
     {
-      "rank": 10,
-      "fullName": "juspay/hyperswitch",
-      "url": "https://github.com/juspay/hyperswitch",
-      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
-      "programmingLanguage": "Rust",
-      "stars": 45262,
-      "forks": 6425,
-      "starsInPeriod": 2006
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "fullName": "lbjlaq/Antigravity-Manager",
       "url": "https://github.com/lbjlaq/Antigravity-Manager",
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "programmingLanguage": "Rust",
-      "stars": 31823,
-      "forks": 3427,
+      "stars": 31828,
+      "forks": 3430,
       "starsInPeriod": 1261
     },
     {
-      "rank": 12,
-      "fullName": "rustfs/rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "programmingLanguage": "Rust",
-      "stars": 34158,
-      "forks": 1538,
-      "starsInPeriod": 2924
-    },
-    {
-      "rank": 13,
-      "fullName": "CapSoftware/Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
-      "programmingLanguage": "Rust",
-      "stars": 22960,
-      "forks": 1988,
-      "starsInPeriod": 1697
-    },
-    {
-      "rank": 14,
-      "fullName": "mesamirh/MovieBox-Tui",
-      "url": "https://github.com/mesamirh/MovieBox-Tui",
-      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
-      "programmingLanguage": "Rust",
-      "stars": 2350,
-      "forks": 269,
-      "starsInPeriod": 1036
-    },
-    {
-      "rank": 15,
+      "rank": 10,
       "fullName": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 8647,
-      "forks": 591,
+      "stars": 8656,
+      "forks": 593,
       "starsInPeriod": 3587
     },
     {
-      "rank": 16,
-      "fullName": "reacherhq/check-if-email-exists",
-      "url": "https://github.com/reacherhq/check-if-email-exists",
-      "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
+      "rank": 11,
+      "fullName": "mesamirh/MovieBox-Tui",
+      "url": "https://github.com/mesamirh/MovieBox-Tui",
+      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
       "programmingLanguage": "Rust",
-      "stars": 10057,
-      "forks": 728,
-      "starsInPeriod": 609
+      "stars": 2356,
+      "forks": 270,
+      "starsInPeriod": 1036
+    },
+    {
+      "rank": 12,
+      "fullName": "CapSoftware/Cap",
+      "url": "https://github.com/CapSoftware/Cap",
+      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "programmingLanguage": "Rust",
+      "stars": 22971,
+      "forks": 1988,
+      "starsInPeriod": 1697
+    },
+    {
+      "rank": 13,
+      "fullName": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "programmingLanguage": "Rust",
+      "stars": 34188,
+      "forks": 1539,
+      "starsInPeriod": 2924
+    },
+    {
+      "rank": 14,
+      "fullName": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "programmingLanguage": "Rust",
+      "stars": 9014,
+      "forks": 1147,
+      "starsInPeriod": 7355
+    },
+    {
+      "rank": 15,
+      "fullName": "pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm",
+      "description": "Fast, disk space efficient package manager",
+      "programmingLanguage": "Rust",
+      "stars": 36712,
+      "forks": 1899,
+      "starsInPeriod": 453
+    },
+    {
+      "rank": 16,
+      "fullName": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+      "programmingLanguage": "Rust",
+      "stars": 45260,
+      "forks": 6424,
+      "starsInPeriod": 2006
     },
     {
       "rank": 17,
-      "fullName": "remorses/gpuix",
-      "url": "https://github.com/remorses/gpuix",
-      "description": "Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron",
-      "programmingLanguage": "Rust",
-      "stars": 2475,
-      "forks": 69,
-      "starsInPeriod": 1163
-    },
-    {
-      "rank": 18,
       "fullName": "NVIDIA/cuda-rust",
       "url": "https://github.com/NVIDIA/cuda-rust",
       "description": "cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
       "programmingLanguage": "Rust",
-      "stars": 3629,
+      "stars": 3630,
       "forks": 285,
       "starsInPeriod": 532
     },
     {
+      "rank": 18,
+      "fullName": "router-for-me/EasyCLIProxyAPI",
+      "url": "https://github.com/router-for-me/EasyCLIProxyAPI",
+      "description": "A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 2586,
+      "forks": 206,
+      "starsInPeriod": 980
+    },
+    {
       "rank": 19,
-      "fullName": "apache/iggy",
-      "url": "https://github.com/apache/iggy",
-      "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
-      "programmingLanguage": "Rust",
-      "stars": 4971,
-      "forks": 455,
-      "starsInPeriod": 374
-    },
-    {
-      "rank": 20,
-      "fullName": "google/magika",
-      "url": "https://github.com/google/magika",
-      "description": "Fast and accurate AI powered file content types detection",
-      "programmingLanguage": "Rust",
-      "stars": 18686,
-      "forks": 1173,
-      "starsInPeriod": 739
-    },
-    {
-      "rank": 21,
-      "fullName": "eythaann/Seelen-UI",
-      "url": "https://github.com/eythaann/Seelen-UI",
-      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
-      "programmingLanguage": "Rust",
-      "stars": 17913,
-      "forks": 615,
-      "starsInPeriod": 333
-    },
-    {
-      "rank": 22,
       "fullName": "AlexsJones/llmfit",
       "url": "https://github.com/AlexsJones/llmfit",
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "programmingLanguage": "Rust",
-      "stars": 37362,
-      "forks": 2395,
+      "stars": 37375,
+      "forks": 2396,
       "starsInPeriod": 2990
+    },
+    {
+      "rank": 20,
+      "fullName": "remorses/gpuix",
+      "url": "https://github.com/remorses/gpuix",
+      "description": "Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron",
+      "programmingLanguage": "Rust",
+      "stars": 2479,
+      "forks": 69,
+      "starsInPeriod": 1163
+    },
+    {
+      "rank": 21,
+      "fullName": "zeronsh/zeron",
+      "url": "https://github.com/zeronsh/zeron",
+      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
+      "programmingLanguage": "Rust",
+      "stars": 2498,
+      "forks": 239,
+      "starsInPeriod": 1376
     }
   ]
 }

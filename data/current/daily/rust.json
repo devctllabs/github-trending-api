@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-09-30T05:31:23Z",
+  "observedAt": "2026-09-30T12:33:25Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 10844,
-      "forks": 1435,
-      "starsInPeriod": 990
+      "stars": 11284,
+      "forks": 1470,
+      "starsInPeriod": 1280
     },
     {
       "rank": 2,
@@ -24,29 +24,29 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 22364,
-      "forks": 2101,
-      "starsInPeriod": 232
+      "stars": 22796,
+      "forks": 2122,
+      "starsInPeriod": 1133
     },
     {
       "rank": 3,
-      "fullName": "juspay/hyperswitch",
-      "url": "https://github.com/juspay/hyperswitch",
-      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "programmingLanguage": "Rust",
-      "stars": 45262,
-      "forks": 6425,
-      "starsInPeriod": 154
+      "stars": 95669,
+      "forks": 12633,
+      "starsInPeriod": 272
     },
     {
       "rank": 4,
-      "fullName": "timhartmann7/omnyssh",
-      "url": "https://github.com/timhartmann7/omnyssh",
-      "description": "Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.",
+      "fullName": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "programmingLanguage": "Rust",
-      "stars": 1081,
-      "forks": 58,
-      "starsInPeriod": 102
+      "stars": 37375,
+      "forks": 2396,
+      "starsInPeriod": 63
     },
     {
       "rank": 5,
@@ -54,119 +54,119 @@
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers",
       "programmingLanguage": "Rust",
-      "stars": 11695,
-      "forks": 848,
+      "stars": 11721,
+      "forks": 849,
       "starsInPeriod": 221
     },
     {
       "rank": 6,
-      "fullName": "martin-olivier/airgorah",
-      "url": "https://github.com/martin-olivier/airgorah",
-      "description": "A WiFi security auditing software",
+      "fullName": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "programmingLanguage": "Rust",
-      "stars": 3665,
-      "forks": 619,
-      "starsInPeriod": 20
+      "stars": 8187,
+      "forks": 1643,
+      "starsInPeriod": 6
     },
     {
       "rank": 7,
-      "fullName": "hydra-db/hydradb",
-      "url": "https://github.com/hydra-db/hydradb",
-      "description": "HydraDB - fast graph database on object storage",
+      "fullName": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
       "programmingLanguage": "Rust",
-      "stars": 12882,
-      "forks": 5590,
-      "starsInPeriod": 771
+      "stars": 6202,
+      "forks": 396,
+      "starsInPeriod": 280
     },
     {
       "rank": 8,
-      "fullName": "tokio-rs/topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
+      "fullName": "pydantic/monty",
+      "url": "https://github.com/pydantic/monty",
+      "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "programmingLanguage": "Rust",
-      "stars": 5756,
-      "forks": 191,
-      "starsInPeriod": 85
+      "stars": 8492,
+      "forks": 436,
+      "starsInPeriod": 61
     },
     {
       "rank": 9,
-      "fullName": "tw93/Kaku",
-      "url": "https://github.com/tw93/Kaku",
-      "description": "🎃 A fast, out-of-the-box macOS terminal built for AI coding.",
+      "fullName": "JayWebtech/autoshorts",
+      "url": "https://github.com/JayWebtech/autoshorts",
+      "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
       "programmingLanguage": "Rust",
-      "stars": 6041,
-      "forks": 313,
-      "starsInPeriod": 12
+      "stars": 1005,
+      "forks": 192,
+      "starsInPeriod": 93
     },
     {
       "rank": 10,
-      "fullName": "jdx/mise",
-      "url": "https://github.com/jdx/mise",
-      "description": "dev tools, env vars, task runner",
+      "fullName": "zeronsh/zeron",
+      "url": "https://github.com/zeronsh/zeron",
+      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "programmingLanguage": "Rust",
-      "stars": 34450,
-      "forks": 1451,
-      "starsInPeriod": 55
+      "stars": 2498,
+      "forks": 239,
+      "starsInPeriod": 52
     },
     {
       "rank": 11,
-      "fullName": "kitao/pyxel",
-      "url": "https://github.com/kitao/pyxel",
-      "description": "A retro game engine for Python",
-      "programmingLanguage": "Rust",
-      "stars": 18298,
-      "forks": 960,
-      "starsInPeriod": 43
-    },
-    {
-      "rank": 12,
-      "fullName": "Zackriya-Solutions/meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
-      "programmingLanguage": "Rust",
-      "stars": 31257,
-      "forks": 3410,
-      "starsInPeriod": 40
-    },
-    {
-      "rank": 13,
-      "fullName": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
-      "programmingLanguage": "Rust",
-      "stars": 5479,
-      "forks": 392,
-      "starsInPeriod": 114
-    },
-    {
-      "rank": 14,
-      "fullName": "ccfddl/ccf-deadlines",
-      "url": "https://github.com/ccfddl/ccf-deadlines",
-      "description": "⏰ Agenticly track ccf-ranked & worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
-      "programmingLanguage": "Rust",
-      "stars": 9391,
-      "forks": 628,
-      "starsInPeriod": 10
-    },
-    {
-      "rank": 15,
-      "fullName": "warpdotdev/warp",
-      "url": "https://github.com/warpdotdev/warp",
-      "description": "Warp is an agentic development environment, born out of the terminal.",
-      "programmingLanguage": "Rust",
-      "stars": 65285,
-      "forks": 5596,
-      "starsInPeriod": 30
-    },
-    {
-      "rank": 16,
       "fullName": "longbridge/gpui-kit",
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 15137,
-      "forks": 945,
+      "stars": 15190,
+      "forks": 949,
       "starsInPeriod": 121
+    },
+    {
+      "rank": 12,
+      "fullName": "ajeetdsouza/zoxide",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "description": "A smarter cd command. Supports all major shells.",
+      "programmingLanguage": "Rust",
+      "stars": 39779,
+      "forks": 913,
+      "starsInPeriod": 34
+    },
+    {
+      "rank": 13,
+      "fullName": "rubys/roundhouse",
+      "url": "https://github.com/rubys/roundhouse",
+      "description": "Rails as a specification; the deployment target is a build flag",
+      "programmingLanguage": "Rust",
+      "stars": 297,
+      "forks": 15,
+      "starsInPeriod": 38
+    },
+    {
+      "rank": 14,
+      "fullName": "iced-rs/iced",
+      "url": "https://github.com/iced-rs/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "programmingLanguage": "Rust",
+      "stars": 31617,
+      "forks": 1690,
+      "starsInPeriod": 29
+    },
+    {
+      "rank": 15,
+      "fullName": "voidzero-dev/vite-plus",
+      "url": "https://github.com/voidzero-dev/vite-plus",
+      "description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
+      "programmingLanguage": "Rust",
+      "stars": 5919,
+      "forks": 269,
+      "starsInPeriod": 24
+    },
+    {
+      "rank": 16,
+      "fullName": "BurntSushi/ripgrep",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+      "programmingLanguage": "Rust",
+      "stars": 68731,
+      "forks": 4139,
+      "starsInPeriod": 33
     }
   ]
 }

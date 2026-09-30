@@ -4,29 +4,29 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-09-30T05:31:16Z",
+  "observedAt": "2026-09-30T12:33:18Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": null,
-      "programmingLanguage": "Python",
-      "stars": 38273,
-      "forks": 5510,
-      "starsInPeriod": 2114
-    },
-    {
-      "rank": 2,
       "fullName": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 43123,
-      "forks": 5806,
+      "stars": 43506,
+      "forks": 5817,
       "starsInPeriod": 17365
+    },
+    {
+      "rank": 2,
+      "fullName": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": null,
+      "programmingLanguage": "Python",
+      "stars": 38317,
+      "forks": 5516,
+      "starsInPeriod": 2114
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 48721,
-      "forks": 5456,
+      "stars": 49745,
+      "forks": 5534,
       "starsInPeriod": 12722
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 61652,
-      "forks": 10553,
+      "stars": 61987,
+      "forks": 10598,
       "starsInPeriod": 5830
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 51036,
-      "forks": 4657,
+      "stars": 51082,
+      "forks": 4661,
       "starsInPeriod": 1327
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "programmingLanguage": "Python",
-      "stars": 32188,
-      "forks": 3653,
+      "stars": 32215,
+      "forks": 3657,
       "starsInPeriod": 1218
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "programmingLanguage": "Python",
-      "stars": 103536,
-      "forks": 31014,
+      "stars": 103544,
+      "forks": 31022,
       "starsInPeriod": 399
     },
     {
@@ -84,59 +84,89 @@
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 5905,
-      "forks": 737,
+      "stars": 5989,
+      "forks": 752,
       "starsInPeriod": 1128
     },
     {
       "rank": 9,
+      "fullName": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "programmingLanguage": "Python",
+      "stars": 26975,
+      "forks": 3815,
+      "starsInPeriod": 707
+    },
+    {
+      "rank": 10,
+      "fullName": "derv82/wifit3",
+      "url": "https://github.com/derv82/wifit3",
+      "description": "Wifite but USB-only & cross-platform.",
+      "programmingLanguage": "Python",
+      "stars": 1575,
+      "forks": 131,
+      "starsInPeriod": 1316
+    },
+    {
+      "rank": 11,
+      "fullName": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "programmingLanguage": "Python",
+      "stars": 5088,
+      "forks": 706,
+      "starsInPeriod": 1253
+    },
+    {
+      "rank": 12,
+      "fullName": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "programmingLanguage": "Python",
+      "stars": 37815,
+      "forks": 3287,
+      "starsInPeriod": 2027
+    },
+    {
+      "rank": 13,
+      "fullName": "aayushch/laya",
+      "url": "https://github.com/aayushch/laya",
+      "description": "Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook, Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK.",
+      "programmingLanguage": "Python",
+      "stars": 437,
+      "forks": 72,
+      "starsInPeriod": 256
+    },
+    {
+      "rank": 14,
       "fullName": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "programmingLanguage": "Python",
-      "stars": 3863,
-      "forks": 320,
+      "stars": 3893,
+      "forks": 324,
       "starsInPeriod": 1753
     },
     {
-      "rank": 10,
-      "fullName": "mvt-project/mvt",
-      "url": "https://github.com/mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "programmingLanguage": "Python",
-      "stars": 15023,
-      "forks": 1415,
-      "starsInPeriod": 1159
-    },
-    {
-      "rank": 11,
+      "rank": 15,
       "fullName": "strands-agents/harness-sdk",
       "url": "https://github.com/strands-agents/harness-sdk",
       "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
       "programmingLanguage": "Python",
-      "stars": 8572,
-      "forks": 1289,
+      "stars": 8581,
+      "forks": 1292,
       "starsInPeriod": 1034
     },
     {
-      "rank": 12,
-      "fullName": "TNT-Likely/PanWatch",
-      "url": "https://github.com/TNT-Likely/PanWatch",
-      "description": "PanWatch — AI stock monitoring for A-shares, HK & US markets, powered by TradingAgents. Portfolio insights, real-time alerts & automated reports.｜盯盘侠：覆盖 A股/港股/美股的 AI 盯盘、持仓分析、实时提醒与自动报告。",
+      "rank": 16,
+      "fullName": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "programmingLanguage": "Python",
-      "stars": 1887,
-      "forks": 340,
-      "starsInPeriod": 592
-    },
-    {
-      "rank": 13,
-      "fullName": "FareedKhan-dev/train-llm-from-scratch",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "programmingLanguage": "Python",
-      "stars": 11813,
-      "forks": 1634,
-      "starsInPeriod": 955
+      "stars": 15031,
+      "forks": 1416,
+      "starsInPeriod": 1159
     }
   ]
 }

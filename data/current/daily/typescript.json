@@ -4,129 +4,159 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-09-30T05:31:52Z",
+  "observedAt": "2026-09-30T12:33:55Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "programmingLanguage": "TypeScript",
-      "stars": 94702,
-      "forks": 16076,
-      "starsInPeriod": 2458
-    },
-    {
-      "rank": 2,
       "fullName": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "programmingLanguage": "TypeScript",
-      "stars": 2554,
-      "forks": 181,
-      "starsInPeriod": 737
+      "stars": 2704,
+      "forks": 195,
+      "starsInPeriod": 622
+    },
+    {
+      "rank": 2,
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "programmingLanguage": "TypeScript",
+      "stars": 24300,
+      "forks": 1758,
+      "starsInPeriod": 88
     },
     {
       "rank": 3,
-      "fullName": "oblien/openship",
-      "url": "https://github.com/oblien/openship",
-      "description": "Self-hosted deployment platform",
+      "fullName": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
       "programmingLanguage": "TypeScript",
-      "stars": 13973,
-      "forks": 1250,
-      "starsInPeriod": 437
+      "stars": 390836,
+      "forks": 82207,
+      "starsInPeriod": 136
     },
     {
       "rank": 4,
-      "fullName": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "programmingLanguage": "TypeScript",
-      "stars": 21961,
-      "forks": 1857,
-      "starsInPeriod": 696
-    },
-    {
-      "rank": 5,
-      "fullName": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "programmingLanguage": "TypeScript",
-      "stars": 49842,
-      "forks": 4971,
-      "starsInPeriod": 124
-    },
-    {
-      "rank": 6,
       "fullName": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "programmingLanguage": "TypeScript",
-      "stars": 54312,
-      "forks": 4942,
+      "stars": 54420,
+      "forks": 4948,
       "starsInPeriod": 324
     },
     {
-      "rank": 7,
-      "fullName": "vercel-labs/scriptc",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "description": "TypeScript-to-Native Compiler",
+      "rank": 5,
+      "fullName": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
       "programmingLanguage": "TypeScript",
-      "stars": 5751,
-      "forks": 157,
-      "starsInPeriod": 93
+      "stars": 90709,
+      "forks": 11716,
+      "starsInPeriod": 48
+    },
+    {
+      "rank": 6,
+      "fullName": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "programmingLanguage": "TypeScript",
+      "stars": 14131,
+      "forks": 1263,
+      "starsInPeriod": 582
+    },
+    {
+      "rank": 7,
+      "fullName": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
+      "programmingLanguage": "TypeScript",
+      "stars": 186902,
+      "forks": 9991,
+      "starsInPeriod": 579
     },
     {
       "rank": 8,
-      "fullName": "mobile-next/mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
-      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+      "fullName": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
       "programmingLanguage": "TypeScript",
-      "stars": 8428,
-      "forks": 739,
-      "starsInPeriod": 241
+      "stars": 52787,
+      "forks": 5272,
+      "starsInPeriod": 66
     },
     {
       "rank": 9,
+      "fullName": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "programmingLanguage": "TypeScript",
+      "stars": 60153,
+      "forks": 5923,
+      "starsInPeriod": 102
+    },
+    {
+      "rank": 10,
+      "fullName": "homarr-labs/homarr",
+      "url": "https://github.com/homarr-labs/homarr",
+      "description": "A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.",
+      "programmingLanguage": "TypeScript",
+      "stars": 4910,
+      "forks": 321,
+      "starsInPeriod": 30
+    },
+    {
+      "rank": 11,
+      "fullName": "aipoch/open-science",
+      "url": "https://github.com/aipoch/open-science",
+      "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+      "programmingLanguage": "TypeScript",
+      "stars": 5308,
+      "forks": 487,
+      "starsInPeriod": 23
+    },
+    {
+      "rank": 12,
+      "fullName": "vercel/ai",
+      "url": "https://github.com/vercel/ai",
+      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "programmingLanguage": "TypeScript",
+      "stars": 27050,
+      "forks": 5227,
+      "starsInPeriod": 23
+    },
+    {
+      "rank": 13,
+      "fullName": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "programmingLanguage": "TypeScript",
+      "stars": 148652,
+      "forks": 25101,
+      "starsInPeriod": 123
+    },
+    {
+      "rank": 14,
       "fullName": "cloudflare/vinext",
       "url": "https://github.com/cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
       "programmingLanguage": "TypeScript",
-      "stars": 9002,
+      "stars": 9022,
       "forks": 422,
       "starsInPeriod": 100
     },
     {
-      "rank": 10,
-      "fullName": "cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "rank": 15,
+      "fullName": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
       "programmingLanguage": "TypeScript",
-      "stars": 51043,
-      "forks": 3646,
-      "starsInPeriod": 17
-    },
-    {
-      "rank": 11,
-      "fullName": "VoltAgent/voltagent",
-      "url": "https://github.com/VoltAgent/voltagent",
-      "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
-      "programmingLanguage": "TypeScript",
-      "stars": 10706,
-      "forks": 1148,
-      "starsInPeriod": 10
-    },
-    {
-      "rank": 12,
-      "fullName": "OpenCTI-Platform/opencti",
-      "url": "https://github.com/OpenCTI-Platform/opencti",
-      "description": "Open Cyber Threat Intelligence Platform",
-      "programmingLanguage": "TypeScript",
-      "stars": 10069,
-      "forks": 1463,
-      "starsInPeriod": 5
+      "stars": 89598,
+      "forks": 11827,
+      "starsInPeriod": 127
     }
   ]
 }

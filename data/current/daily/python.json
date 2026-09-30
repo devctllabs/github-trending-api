@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-09-30T05:31:13Z",
+  "observedAt": "2026-09-30T12:33:14Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,29 +14,29 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 48721,
-      "forks": 5456,
-      "starsInPeriod": 4758
+      "stars": 49745,
+      "forks": 5534,
+      "starsInPeriod": 3481
     },
     {
       "rank": 2,
-      "fullName": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
+      "fullName": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "programmingLanguage": "Python",
-      "stars": 43123,
-      "forks": 5806,
-      "starsInPeriod": 2575
+      "stars": 127261,
+      "forks": 19905,
+      "starsInPeriod": 338
     },
     {
       "rank": 3,
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "fullName": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "programmingLanguage": "Python",
-      "stars": 61651,
-      "forks": 10553,
-      "starsInPeriod": 786
+      "stars": 75958,
+      "forks": 8867,
+      "starsInPeriod": 118
     },
     {
       "rank": 4,
@@ -44,99 +44,159 @@
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "programmingLanguage": "Python",
-      "stars": 37574,
-      "forks": 3274,
-      "starsInPeriod": 835
+      "stars": 37815,
+      "forks": 3287,
+      "starsInPeriod": 1095
     },
     {
       "rank": 5,
-      "fullName": "harvard-edge/cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+      "fullName": "VectifyAI/OpenKB",
+      "url": "https://github.com/VectifyAI/OpenKB",
+      "description": "OpenKB: Open LLM Knowledge Base",
       "programmingLanguage": "Python",
-      "stars": 28725,
-      "forks": 3624,
-      "starsInPeriod": 45
+      "stars": 4668,
+      "forks": 490,
+      "starsInPeriod": 46
     },
     {
       "rank": 6,
-      "fullName": "SemiAnalysisAI/InferenceX",
-      "url": "https://github.com/SemiAnalysisAI/InferenceX",
-      "description": "Open Source Inference Research Platform Standard / 开源推理研究平台",
+      "fullName": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "programmingLanguage": "Python",
-      "stars": 1788,
-      "forks": 310,
-      "starsInPeriod": 11
+      "stars": 16748,
+      "forks": 1351,
+      "starsInPeriod": 250
     },
     {
       "rank": 7,
-      "fullName": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "programmingLanguage": "Python",
-      "stars": 44509,
-      "forks": 15338,
-      "starsInPeriod": 119
-    },
-    {
-      "rank": 8,
       "fullName": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 5905,
-      "forks": 737,
+      "stars": 5989,
+      "forks": 752,
       "starsInPeriod": 278
     },
     {
-      "rank": 9,
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "rank": 8,
+      "fullName": "LibreTranslate/LibreTranslate",
+      "url": "https://github.com/LibreTranslate/LibreTranslate",
+      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
       "programmingLanguage": "Python",
-      "stars": 127140,
-      "forks": 19876,
-      "starsInPeriod": 338
+      "stars": 16950,
+      "forks": 1753,
+      "starsInPeriod": 49
+    },
+    {
+      "rank": 9,
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "programmingLanguage": "Python",
+      "stars": 61987,
+      "forks": 10598,
+      "starsInPeriod": 1203
     },
     {
       "rank": 10,
-      "fullName": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "fullName": "Mafifrizi/ARES",
+      "url": "https://github.com/Mafifrizi/ARES",
+      "description": "ARES - authorized red-team engagement automation with dashboard, campaign scope, module orchestration, OPSEC controls, encrypted vault, and reporting.",
       "programmingLanguage": "Python",
-      "stars": 83249,
-      "forks": 11547,
-      "starsInPeriod": 71
+      "stars": 553,
+      "forks": 99,
+      "starsInPeriod": 23
     },
     {
       "rank": 11,
-      "fullName": "mem0ai/mem0",
-      "url": "https://github.com/mem0ai/mem0",
-      "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+      "fullName": "pydantic/pydantic-ai",
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
       "programmingLanguage": "Python",
-      "stars": 66336,
-      "forks": 7811,
-      "starsInPeriod": 101
+      "stars": 20282,
+      "forks": 2831,
+      "starsInPeriod": 24
     },
     {
       "rank": 12,
-      "fullName": "microsoft/SkillOpt",
-      "url": "https://github.com/microsoft/SkillOpt",
-      "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+      "fullName": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "programmingLanguage": "Python",
-      "stars": 17885,
-      "forks": 1680,
-      "starsInPeriod": 85
+      "stars": 2758,
+      "forks": 336,
+      "starsInPeriod": 10
     },
     {
       "rank": 13,
-      "fullName": "Q00/ouroboros",
-      "url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
+      "fullName": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "programmingLanguage": "Python",
-      "stars": 6147,
-      "forks": 619,
-      "starsInPeriod": 12
+      "stars": 139504,
+      "forks": 12506,
+      "starsInPeriod": 170
+    },
+    {
+      "rank": 14,
+      "fullName": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "programmingLanguage": "Python",
+      "stars": 26975,
+      "forks": 3815,
+      "starsInPeriod": 154
+    },
+    {
+      "rank": 15,
+      "fullName": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "programmingLanguage": "Python",
+      "stars": 15766,
+      "forks": 2166,
+      "starsInPeriod": 579
+    },
+    {
+      "rank": 16,
+      "fullName": "bmad-code-org/BMAD-METHOD",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "description": "Breakthrough Method for Agile Ai Driven Development",
+      "programmingLanguage": "Python",
+      "stars": 53660,
+      "forks": 6046,
+      "starsInPeriod": 45
+    },
+    {
+      "rank": 17,
+      "fullName": "qbittorrent/search-plugins",
+      "url": "https://github.com/qbittorrent/search-plugins",
+      "description": "Search plugins for qBittorrent search feature",
+      "programmingLanguage": "Python",
+      "stars": 7033,
+      "forks": 604,
+      "starsInPeriod": 174
+    },
+    {
+      "rank": 18,
+      "fullName": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "programmingLanguage": "Python",
+      "stars": 22686,
+      "forks": 3675,
+      "starsInPeriod": 33
+    },
+    {
+      "rank": 19,
+      "fullName": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions, including DataForSEO, Firecrawl, Ahrefs and Matomo.",
+      "programmingLanguage": "Python",
+      "stars": 18000,
+      "forks": 2647,
+      "starsInPeriod": 72
     }
   ]
 }
