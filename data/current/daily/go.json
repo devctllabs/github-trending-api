@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-09-30T12:33:35Z",
+  "observedAt": "2026-09-30T22:15:17Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38146,
-      "forks": 718,
-      "starsInPeriod": 28
+      "stars": 38156,
+      "forks": 720,
+      "starsInPeriod": 19
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "programmingLanguage": "Go",
-      "stars": 91541,
-      "forks": 10868,
-      "starsInPeriod": 75
+      "stars": 91558,
+      "forks": 10870,
+      "starsInPeriod": 52
     },
     {
       "rank": 3,
@@ -34,7 +34,7 @@
       "url": "https://github.com/mikefarah/yq",
       "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
       "programmingLanguage": "Go",
-      "stars": 16033,
+      "stars": 16036,
       "forks": 2161,
       "starsInPeriod": 5
     },
@@ -44,9 +44,9 @@
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "programmingLanguage": "Go",
-      "stars": 4380,
-      "forks": 187,
-      "starsInPeriod": 147
+      "stars": 4412,
+      "forks": 192,
+      "starsInPeriod": 113
     },
     {
       "rank": 5,
@@ -64,9 +64,9 @@
       "url": "https://github.com/seaweedfs/seaweedfs",
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "programmingLanguage": "Go",
-      "stars": 35120,
-      "forks": 3022,
-      "starsInPeriod": 38
+      "stars": 35144,
+      "forks": 3024,
+      "starsInPeriod": 55
     },
     {
       "rank": 7,
@@ -74,8 +74,8 @@
       "url": "https://github.com/go-chi/chi",
       "description": "lightweight, idiomatic and composable router for building Go HTTP services",
       "programmingLanguage": "Go",
-      "stars": 22905,
-      "forks": 2429,
+      "stars": 22906,
+      "forks": 2430,
       "starsInPeriod": 5
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://github.com/charmbracelet/bubbletea",
       "description": "A powerful little TUI framework 🏗",
       "programmingLanguage": "Go",
-      "stars": 45198,
-      "forks": 2754,
+      "stars": 45208,
+      "forks": 2755,
       "starsInPeriod": 27
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/googleapis/mcp-toolbox",
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "programmingLanguage": "Go",
-      "stars": 16540,
-      "forks": 1744,
+      "stars": 16541,
+      "forks": 1745,
       "starsInPeriod": 31
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://github.com/QuantumNous/new-api",
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "programmingLanguage": "Go",
-      "stars": 49138,
-      "forks": 11806,
+      "stars": 49149,
+      "forks": 11809,
       "starsInPeriod": 76
     },
     {
@@ -114,9 +114,9 @@
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 27535,
-      "forks": 1872,
-      "starsInPeriod": 28
+      "stars": 27550,
+      "forks": 1873,
+      "starsInPeriod": 38
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/temporalio/temporal",
       "description": "Temporal service",
       "programmingLanguage": "Go",
-      "stars": 23381,
-      "forks": 1950,
-      "starsInPeriod": 24
+      "stars": 23393,
+      "forks": 1952,
+      "starsInPeriod": 34
     },
     {
       "rank": 13,
@@ -134,8 +134,8 @@
       "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
       "description": "Contrib repository for the OpenTelemetry Collector",
       "programmingLanguage": "Go",
-      "stars": 4961,
-      "forks": 3959,
+      "stars": 4962,
+      "forks": 3962,
       "starsInPeriod": 0
     },
     {
@@ -144,9 +144,9 @@
       "url": "https://github.com/Billionmail/BillionMail",
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "programmingLanguage": "Go",
-      "stars": 15784,
-      "forks": 1732,
-      "starsInPeriod": 43
+      "stars": 15792,
+      "forks": 1733,
+      "starsInPeriod": 32
     },
     {
       "rank": 15,
@@ -154,8 +154,8 @@
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 29567,
-      "forks": 2258,
+      "stars": 29578,
+      "forks": 2260,
       "starsInPeriod": 20
     },
     {
@@ -164,7 +164,7 @@
       "url": "https://github.com/charmbracelet/lipgloss",
       "description": "Style definitions for nice terminal layouts 👄",
       "programmingLanguage": "Go",
-      "stars": 11881,
+      "stars": 11883,
       "forks": 401,
       "starsInPeriod": 7
     },
@@ -174,8 +174,8 @@
       "url": "https://github.com/yorukot/superfile",
       "description": "Pretty fancy and modern terminal file manager",
       "programmingLanguage": "Go",
-      "stars": 23547,
-      "forks": 865,
+      "stars": 23574,
+      "forks": 867,
       "starsInPeriod": 120
     },
     {
@@ -184,9 +184,9 @@
       "url": "https://github.com/containerd/containerd",
       "description": "An open and reliable container runtime",
       "programmingLanguage": "Go",
-      "stars": 21357,
-      "forks": 4138,
-      "starsInPeriod": 5
+      "stars": 21362,
+      "forks": 4139,
+      "starsInPeriod": 11
     },
     {
       "rank": 19,
@@ -194,8 +194,8 @@
       "url": "https://github.com/ikemen-engine/Ikemen-GO",
       "description": "An open-source fighting game engine that supports MUGEN resources.",
       "programmingLanguage": "Go",
-      "stars": 1576,
-      "forks": 261,
+      "stars": 1580,
+      "forks": 262,
       "starsInPeriod": 6
     },
     {
@@ -204,8 +204,8 @@
       "url": "https://github.com/MHSanaei/3x-ui",
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "programmingLanguage": "Go",
-      "stars": 47221,
-      "forks": 11944,
+      "stars": 47244,
+      "forks": 11953,
       "starsInPeriod": 75
     }
   ]
