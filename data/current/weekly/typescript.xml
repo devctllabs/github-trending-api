@@ -4,12 +4,12 @@
     <title>GitHub Trending — weekly — typescript</title>
     <link>https://github.com/trending/typescript?since=weekly</link>
     <description>GitHub Trending — weekly — typescript</description>
-    <lastBuildDate>Thu, 01 Oct 2026 05:51:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:12:52 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>weekly</ght:period>
     <ght:language>typescript</ght:language>
-    <ght:observedAt>2026-10-01T05:51:45Z</ght:observedAt>
+    <ght:observedAt>2026-10-01T13:12:52Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,180 +17,192 @@
       <link>https://github.com/paperclipai/paperclip</link>
       <description>The open-source app everyone uses to manage agents at work</description>
       <guid isPermaLink="true">https://github.com/paperclipai/paperclip</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>95423</ght:stars>
-      <ght:forks>16190</ght:forks>
+      <ght:stars>95584</ght:stars>
+      <ght:forks>16211</ght:forks>
       <ght:starsInPeriod>13855</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>stablyai/orca</title>
-      <link>https://github.com/stablyai/orca</link>
-      <description>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
-      <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>82532</ght:stars>
-      <ght:forks>5359</ght:forks>
-      <ght:starsInPeriod>5987</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>FxEmbed/FxEmbed</title>
-      <link>https://github.com/FxEmbed/FxEmbed</link>
-      <description>Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others</description>
-      <guid isPermaLink="true">https://github.com/FxEmbed/FxEmbed</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
-      <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>5616</ght:stars>
-      <ght:forks>267</ght:forks>
-      <ght:starsInPeriod>520</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>dream-num/univer</title>
-      <link>https://github.com/dream-num/univer</link>
-      <description>The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</description>
-      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>22193</ght:stars>
-      <ght:forks>1868</ght:forks>
-      <ght:starsInPeriod>6091</ght:starsInPeriod>
     </item>
     <item>
       <title>anthropics/claude-code-action</title>
       <link>https://github.com/anthropics/claude-code-action</link>
       <description />
       <guid isPermaLink="true">https://github.com/anthropics/claude-code-action</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
+      <ght:rank>2</ght:rank>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>9308</ght:stars>
+      <ght:forks>2182</ght:forks>
+      <ght:starsInPeriod>329</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>dream-num/univer</title>
+      <link>https://github.com/dream-num/univer</link>
+      <description>The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</description>
+      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
+      <ght:rank>3</ght:rank>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>22205</ght:stars>
+      <ght:forks>1868</ght:forks>
+      <ght:starsInPeriod>6091</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>FxEmbed/FxEmbed</title>
+      <link>https://github.com/FxEmbed/FxEmbed</link>
+      <description>Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others</description>
+      <guid isPermaLink="true">https://github.com/FxEmbed/FxEmbed</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
+      <ght:rank>4</ght:rank>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>5623</ght:stars>
+      <ght:forks>269</ght:forks>
+      <ght:starsInPeriod>520</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>pablostanley/yoinks</title>
+      <link>https://github.com/pablostanley/yoinks</link>
+      <description>yoink any video from your terminal. no shady ads.</description>
+      <guid isPermaLink="true">https://github.com/pablostanley/yoinks</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
       <ght:rank>5</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>9292</ght:stars>
-      <ght:forks>2180</ght:forks>
-      <ght:starsInPeriod>329</ght:starsInPeriod>
+      <ght:stars>2642</ght:stars>
+      <ght:forks>246</ght:forks>
+      <ght:starsInPeriod>793</ght:starsInPeriod>
     </item>
     <item>
       <title>mobile-next/mobile-mcp</title>
       <link>https://github.com/mobile-next/mobile-mcp</link>
       <description>Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)</description>
       <guid isPermaLink="true">https://github.com/mobile-next/mobile-mcp</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
       <ght:rank>6</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>8481</ght:stars>
-      <ght:forks>744</ght:forks>
+      <ght:stars>8498</ght:stars>
+      <ght:forks>746</ght:forks>
       <ght:starsInPeriod>1646</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>vercel-labs/scriptc</title>
-      <link>https://github.com/vercel-labs/scriptc</link>
-      <description>TypeScript-to-Native Compiler</description>
-      <guid isPermaLink="true">https://github.com/vercel-labs/scriptc</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>5868</ght:stars>
-      <ght:forks>159</ght:forks>
-      <ght:starsInPeriod>956</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>vega-org/vega-app</title>
-      <link>https://github.com/vega-org/vega-app</link>
-      <description>A media streaming app for android.</description>
-      <guid isPermaLink="true">https://github.com/vega-org/vega-app</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
-      <ght:rank>8</ght:rank>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>1470</ght:stars>
-      <ght:forks>204</ght:forks>
-      <ght:starsInPeriod>99</ght:starsInPeriod>
     </item>
     <item>
       <title>oblien/openship</title>
       <link>https://github.com/oblien/openship</link>
       <description>Self-hosted deployment platform</description>
       <guid isPermaLink="true">https://github.com/oblien/openship</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
+      <ght:rank>7</ght:rank>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>14265</ght:stars>
+      <ght:forks>1273</ght:forks>
+      <ght:starsInPeriod>1781</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>vercel-labs/scriptc</title>
+      <link>https://github.com/vercel-labs/scriptc</link>
+      <description>TypeScript-to-Native Compiler</description>
+      <guid isPermaLink="true">https://github.com/vercel-labs/scriptc</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>5879</ght:stars>
+      <ght:forks>160</ght:forks>
+      <ght:starsInPeriod>956</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>stablyai/orca</title>
+      <link>https://github.com/stablyai/orca</link>
+      <description>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
+      <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
       <ght:rank>9</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>14232</ght:stars>
-      <ght:forks>1271</ght:forks>
-      <ght:starsInPeriod>1781</ght:starsInPeriod>
+      <ght:stars>82817</ght:stars>
+      <ght:forks>5369</ght:forks>
+      <ght:starsInPeriod>5987</ght:starsInPeriod>
     </item>
     <item>
       <title>satnaing/shadcn-admin</title>
       <link>https://github.com/satnaing/shadcn-admin</link>
       <description>Admin Dashboard UI built with Shadcn and Vite.</description>
       <guid isPermaLink="true">https://github.com/satnaing/shadcn-admin</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
       <ght:rank>10</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>15467</ght:stars>
-      <ght:forks>2345</ght:forks>
+      <ght:stars>15507</ght:stars>
+      <ght:forks>2347</ght:forks>
       <ght:starsInPeriod>1154</ght:starsInPeriod>
     </item>
     <item>
-      <title>ahmedkhaleel2004/gitdiagram</title>
-      <link>https://github.com/ahmedkhaleel2004/gitdiagram</link>
-      <description>Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.</description>
-      <guid isPermaLink="true">https://github.com/ahmedkhaleel2004/gitdiagram</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
+      <title>vega-org/vega-app</title>
+      <link>https://github.com/vega-org/vega-app</link>
+      <description>A app to Play, Stream or Cast Media for andorid.</description>
+      <guid isPermaLink="true">https://github.com/vega-org/vega-app</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
       <ght:rank>11</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>17626</ght:stars>
-      <ght:forks>1348</ght:forks>
-      <ght:starsInPeriod>622</ght:starsInPeriod>
+      <ght:stars>1474</ght:stars>
+      <ght:forks>204</ght:forks>
+      <ght:starsInPeriod>99</ght:starsInPeriod>
     </item>
     <item>
       <title>moeru-ai/airi</title>
       <link>https://github.com/moeru-ai/airi</link>
       <description>💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.</description>
       <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
       <ght:rank>12</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>49899</ght:stars>
-      <ght:forks>4979</ght:forks>
+      <ght:stars>49913</ght:stars>
+      <ght:forks>4978</ght:forks>
       <ght:starsInPeriod>583</ght:starsInPeriod>
     </item>
     <item>
-      <title>Open-Dev-Society/OpenStock</title>
-      <link>https://github.com/Open-Dev-Society/OpenStock</link>
-      <description>OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.</description>
-      <guid isPermaLink="true">https://github.com/Open-Dev-Society/OpenStock</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
+      <title>openclaw/openclaw</title>
+      <link>https://github.com/openclaw/openclaw</link>
+      <description>The AI that really does things. Any OS. Any Platform. The lobster way. 🦞</description>
+      <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
       <ght:rank>13</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>19520</ght:stars>
-      <ght:forks>2390</ght:forks>
-      <ght:starsInPeriod>837</ght:starsInPeriod>
+      <ght:stars>391124</ght:stars>
+      <ght:forks>82239</ght:forks>
+      <ght:starsInPeriod>1181</ght:starsInPeriod>
     </item>
     <item>
-      <title>remotion-dev/remotion</title>
-      <link>https://github.com/remotion-dev/remotion</link>
-      <description>🎥 Make videos programmatically with React</description>
-      <guid isPermaLink="true">https://github.com/remotion-dev/remotion</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
+      <title>ahmedkhaleel2004/gitdiagram</title>
+      <link>https://github.com/ahmedkhaleel2004/gitdiagram</link>
+      <description>Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.</description>
+      <guid isPermaLink="true">https://github.com/ahmedkhaleel2004/gitdiagram</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
       <ght:rank>14</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>61320</ght:stars>
-      <ght:forks>4736</ght:forks>
-      <ght:starsInPeriod>1159</ght:starsInPeriod>
+      <ght:stars>17660</ght:stars>
+      <ght:forks>1353</ght:forks>
+      <ght:starsInPeriod>622</ght:starsInPeriod>
     </item>
     <item>
       <title>freeCodeCamp/freeCodeCamp</title>
       <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
       <description>freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.</description>
       <guid isPermaLink="true">https://github.com/freeCodeCamp/freeCodeCamp</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:45 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
       <ght:rank>15</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>456580</ght:stars>
-      <ght:forks>47857</ght:forks>
+      <ght:stars>456588</ght:stars>
+      <ght:forks>47860</ght:forks>
       <ght:starsInPeriod>675</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>synthetic-sciences/openscience</title>
+      <link>https://github.com/synthetic-sciences/openscience</link>
+      <description>The open-source AI workbench for scientific research</description>
+      <guid isPermaLink="true">https://github.com/synthetic-sciences/openscience</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>3881</ght:stars>
+      <ght:forks>516</ght:forks>
+      <ght:starsInPeriod>250</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

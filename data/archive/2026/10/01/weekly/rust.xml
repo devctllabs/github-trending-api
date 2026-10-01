@@ -4,13 +4,13 @@
     <title>GitHub Trending — weekly — rust</title>
     <link>https://github.com/trending/rust?since=weekly</link>
     <description>GitHub Trending — weekly — rust</description>
-    <lastBuildDate>Thu, 01 Oct 2026 05:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:12:21 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-10-01</ght:date>
     <ght:period>weekly</ght:period>
     <ght:language>rust</ght:language>
-    <ght:updatedAt>2026-10-01T05:51:14Z</ght:updatedAt>
+    <ght:updatedAt>2026-10-01T13:12:21Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,30 +20,14 @@
       <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
       <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>13081</ght:stars>
-      <ght:forks>1563</ght:forks>
+      <ght:stars>13700</ght:stars>
+      <ght:forks>1603</ght:forks>
       <ght:starsInPeriod>3162</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
-      <ght:latestRank>1</ght:latestRank>
+      <ght:latestRank>10</ght:latestRank>
       <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>hydra-db/hydradb</title>
-      <link>https://github.com/hydra-db/hydradb</link>
-      <description>HydraDB - fast graph database on object storage</description>
-      <guid isPermaLink="true">https://github.com/hydra-db/hydradb</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>13144</ght:stars>
-      <ght:forks>5596</ght:forks>
-      <ght:starsInPeriod>8069</ght:starsInPeriod>
-      <ght:bestRank>2</ght:bestRank>
-      <ght:latestRank>2</ght:latestRank>
-      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>timhartmann7/omnyssh</title>
@@ -52,14 +36,46 @@
       <guid isPermaLink="true">https://github.com/timhartmann7/omnyssh</guid>
       <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1093</ght:stars>
+      <ght:stars>1095</ght:stars>
       <ght:forks>62</ght:forks>
       <ght:starsInPeriod>350</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>hydra-db/hydradb</title>
+      <link>https://github.com/hydra-db/hydradb</link>
+      <description>HydraDB - fast graph database on object storage</description>
+      <guid isPermaLink="true">https://github.com/hydra-db/hydradb</guid>
+      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>13127</ght:stars>
+      <ght:forks>5588</ght:forks>
+      <ght:starsInPeriod>8069</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>t8y2/dbx</title>
+      <link>https://github.com/t8y2/dbx</link>
+      <description>25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。</description>
+      <guid isPermaLink="true">https://github.com/t8y2/dbx</guid>
+      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>23630</ght:stars>
+      <ght:forks>2172</ght:forks>
+      <ght:starsInPeriod>2467</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
       <ght:latestRank>3</ght:latestRank>
       <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>block/buzz</title>
@@ -68,14 +84,30 @@
       <guid isPermaLink="true">https://github.com/block/buzz</guid>
       <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>35359</ght:stars>
-      <ght:forks>4662</ght:forks>
+      <ght:stars>35373</ght:stars>
+      <ght:forks>4663</ght:forks>
       <ght:starsInPeriod>1309</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>tokio-rs/topcoat</title>
+      <link>https://github.com/tokio-rs/topcoat</link>
+      <description>A batteries-included framework for building web apps</description>
+      <guid isPermaLink="true">https://github.com/tokio-rs/topcoat</guid>
+      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>5816</ght:stars>
+      <ght:forks>196</ght:forks>
+      <ght:starsInPeriod>730</ght:starsInPeriod>
       <ght:bestRank>4</ght:bestRank>
       <ght:latestRank>4</ght:latestRank>
       <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>Nasiko-Labs/nasiko</title>
@@ -94,20 +126,68 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>Pumpkin-MC/Pumpkin</title>
+      <link>https://github.com/Pumpkin-MC/Pumpkin</link>
+      <description>Empowering everyone to host fast and efficient Minecraft servers</description>
+      <guid isPermaLink="true">https://github.com/Pumpkin-MC/Pumpkin</guid>
+      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>11809</ght:stars>
+      <ght:forks>853</ght:forks>
+      <ght:starsInPeriod>424</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>clash-verge-rev/clash-verge-rev</title>
       <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
       <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
       <guid isPermaLink="true">https://github.com/clash-verge-rev/clash-verge-rev</guid>
       <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>148568</ght:stars>
-      <ght:forks>10667</ght:forks>
+      <ght:stars>148656</ght:stars>
+      <ght:forks>10672</ght:forks>
       <ght:starsInPeriod>1820</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>longbridge/gpui-kit</title>
+      <link>https://github.com/longbridge/gpui-kit</link>
+      <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
+      <guid isPermaLink="true">https://github.com/longbridge/gpui-kit</guid>
+      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>15424</ght:stars>
+      <ght:forks>956</ght:forks>
+      <ght:starsInPeriod>587</ght:starsInPeriod>
       <ght:bestRank>6</ght:bestRank>
       <ght:latestRank>6</ght:latestRank>
       <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>juspay/hyperswitch</title>
+      <link>https://github.com/juspay/hyperswitch</link>
+      <description>Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation</description>
+      <guid isPermaLink="true">https://github.com/juspay/hyperswitch</guid>
+      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>45274</ght:stars>
+      <ght:forks>6428</ght:forks>
+      <ght:starsInPeriod>1522</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>zeronsh/zeron</title>
@@ -116,14 +196,14 @@
       <guid isPermaLink="true">https://github.com/zeronsh/zeron</guid>
       <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>2514</ght:stars>
-      <ght:forks>240</ght:forks>
+      <ght:stars>2520</ght:stars>
+      <ght:forks>241</ght:forks>
       <ght:starsInPeriod>395</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
-      <ght:latestRank>7</ght:latestRank>
+      <ght:latestRank>18</ght:latestRank>
       <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>rust-lang/rust</title>
@@ -142,68 +222,52 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>juspay/hyperswitch</title>
-      <link>https://github.com/juspay/hyperswitch</link>
-      <description>Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation</description>
-      <guid isPermaLink="true">https://github.com/juspay/hyperswitch</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>45271</ght:stars>
-      <ght:forks>6428</ght:forks>
-      <ght:starsInPeriod>1522</ght:starsInPeriod>
-      <ght:bestRank>9</ght:bestRank>
-      <ght:latestRank>9</ght:latestRank>
-      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>t8y2/dbx</title>
-      <link>https://github.com/t8y2/dbx</link>
-      <description>25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。</description>
-      <guid isPermaLink="true">https://github.com/t8y2/dbx</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>23380</ght:stars>
-      <ght:forks>2159</ght:forks>
-      <ght:starsInPeriod>2467</ght:starsInPeriod>
-      <ght:bestRank>10</ght:bestRank>
-      <ght:latestRank>10</ght:latestRank>
-      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>Pumpkin-MC/Pumpkin</title>
-      <link>https://github.com/Pumpkin-MC/Pumpkin</link>
-      <description>Empowering everyone to host fast and efficient Minecraft servers</description>
-      <guid isPermaLink="true">https://github.com/Pumpkin-MC/Pumpkin</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>11789</ght:stars>
-      <ght:forks>851</ght:forks>
-      <ght:starsInPeriod>424</ght:starsInPeriod>
-      <ght:bestRank>11</ght:bestRank>
-      <ght:latestRank>11</ght:latestRank>
-      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
       <title>pnpm/pnpm</title>
       <link>https://github.com/pnpm/pnpm</link>
       <description>Fast, disk space efficient package manager</description>
       <guid isPermaLink="true">https://github.com/pnpm/pnpm</guid>
       <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>36717</ght:stars>
-      <ght:forks>1899</ght:forks>
+      <ght:stars>36722</ght:stars>
+      <ght:forks>1900</ght:forks>
       <ght:starsInPeriod>112</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>trailofbits/coop</title>
+      <link>https://github.com/trailofbits/coop</link>
+      <description>Isolated VM environment for running Claude Code and Codex</description>
+      <guid isPermaLink="true">https://github.com/trailofbits/coop</guid>
+      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>736</ght:stars>
+      <ght:forks>38</ght:forks>
+      <ght:starsInPeriod>480</ght:starsInPeriod>
       <ght:bestRank>12</ght:bestRank>
       <ght:latestRank>12</ght:latestRank>
       <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>JayWebtech/autoshorts</title>
+      <link>https://github.com/JayWebtech/autoshorts</link>
+      <description>AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.</description>
+      <guid isPermaLink="true">https://github.com/JayWebtech/autoshorts</guid>
+      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>1043</ght:stars>
+      <ght:forks>199</ght:forks>
+      <ght:starsInPeriod>183</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>lahfir/agent-desktop</title>
@@ -222,35 +286,19 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>longbridge/gpui-kit</title>
-      <link>https://github.com/longbridge/gpui-kit</link>
-      <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
-      <guid isPermaLink="true">https://github.com/longbridge/gpui-kit</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
+      <title>pydantic/monty</title>
+      <link>https://github.com/pydantic/monty</link>
+      <description>A minimal, secure Python interpreter written in Rust for use by AI</description>
+      <guid isPermaLink="true">https://github.com/pydantic/monty</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:21 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>15369</ght:stars>
-      <ght:forks>952</ght:forks>
-      <ght:starsInPeriod>587</ght:starsInPeriod>
+      <ght:stars>8500</ght:stars>
+      <ght:forks>437</ght:forks>
+      <ght:starsInPeriod>239</ght:starsInPeriod>
       <ght:bestRank>14</ght:bestRank>
       <ght:latestRank>14</ght:latestRank>
-      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>trailofbits/coop</title>
-      <link>https://github.com/trailofbits/coop</link>
-      <description>Isolated VM environment for running Claude Code and Codex</description>
-      <guid isPermaLink="true">https://github.com/trailofbits/coop</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>731</ght:stars>
-      <ght:forks>38</ght:forks>
-      <ght:starsInPeriod>480</ght:starsInPeriod>
-      <ght:bestRank>15</ght:bestRank>
-      <ght:latestRank>15</ght:latestRank>
-      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-01T13:12:21Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -260,13 +308,29 @@
       <guid isPermaLink="true">https://github.com/pacifio/atlas</guid>
       <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>8566</ght:stars>
-      <ght:forks>342</ght:forks>
+      <ght:stars>8555</ght:stars>
+      <ght:forks>341</ght:forks>
       <ght:starsInPeriod>2590</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>zenbu-labs/terminal-browser</title>
+      <link>https://github.com/zenbu-labs/terminal-browser</link>
+      <description>A browser inside your terminal</description>
+      <guid isPermaLink="true">https://github.com/zenbu-labs/terminal-browser</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:21 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>3565</ght:stars>
+      <ght:forks>163</ght:forks>
+      <ght:starsInPeriod>347</ght:starsInPeriod>
       <ght:bestRank>16</ght:bestRank>
       <ght:latestRank>16</ght:latestRank>
-      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-01T13:12:21Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -286,6 +350,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>vectordotdev/vector</title>
+      <link>https://github.com/vectordotdev/vector</link>
+      <description>A high-performance observability data pipeline.</description>
+      <guid isPermaLink="true">https://github.com/vectordotdev/vector</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:21 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>22655</ght:stars>
+      <ght:forks>2303</ght:forks>
+      <ght:starsInPeriod>53</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-10-01T13:12:21Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>run-llama/liteparse</title>
       <link>https://github.com/run-llama/liteparse</link>
       <description>A fast, helpful, and open-source document parser</description>
@@ -302,35 +382,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>tokio-rs/topcoat</title>
-      <link>https://github.com/tokio-rs/topcoat</link>
-      <description>A batteries-included framework for building web apps</description>
-      <guid isPermaLink="true">https://github.com/tokio-rs/topcoat</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
+      <title>ccfddl/ccf-deadlines</title>
+      <link>https://github.com/ccfddl/ccf-deadlines</link>
+      <description>⏰ Agenticly track ccf-ranked &amp; worldwide conference deadlines (Website, Python Cli, Wechat Applet)</description>
+      <guid isPermaLink="true">https://github.com/ccfddl/ccf-deadlines</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:21 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>5806</ght:stars>
-      <ght:forks>194</ght:forks>
-      <ght:starsInPeriod>730</ght:starsInPeriod>
+      <ght:stars>9397</ght:stars>
+      <ght:forks>627</ght:forks>
+      <ght:starsInPeriod>38</ght:starsInPeriod>
       <ght:bestRank>19</ght:bestRank>
       <ght:latestRank>19</ght:latestRank>
-      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-01T13:12:21Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>JayWebtech/autoshorts</title>
-      <link>https://github.com/JayWebtech/autoshorts</link>
-      <description>AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.</description>
-      <guid isPermaLink="true">https://github.com/JayWebtech/autoshorts</guid>
-      <pubDate>Thu, 01 Oct 2026 05:51:14 GMT</pubDate>
+      <title>l0ng-ai/tty7</title>
+      <link>https://github.com/l0ng-ai/tty7</link>
+      <description>The terminal that outlives its window. Shells survive quitting the app, agents can drive other agents, and remote machines work the same way. Pure Rust, GPU-rendered.</description>
+      <guid isPermaLink="true">https://github.com/l0ng-ai/tty7</guid>
+      <pubDate>Thu, 01 Oct 2026 13:12:21 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1027</ght:stars>
-      <ght:forks>196</ght:forks>
-      <ght:starsInPeriod>183</ght:starsInPeriod>
+      <ght:stars>1186</ght:stars>
+      <ght:forks>95</ght:forks>
+      <ght:starsInPeriod>112</ght:starsInPeriod>
       <ght:bestRank>20</ght:bestRank>
       <ght:latestRank>20</ght:latestRank>
-      <ght:firstSeenAt>2026-10-01T05:51:14Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-01T05:51:14Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-01T13:12:21Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-01T13:12:21Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>

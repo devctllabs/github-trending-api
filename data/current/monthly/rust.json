@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=monthly",
-  "observedAt": "2026-10-01T05:51:17Z",
+  "observedAt": "2026-10-01T13:12:25Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 8568,
-      "forks": 305,
+      "stars": 8586,
+      "forks": 306,
       "starsInPeriod": 1884
     },
     {
@@ -24,19 +24,19 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 15369,
-      "forks": 952,
+      "stars": 15424,
+      "forks": 956,
       "starsInPeriod": 1600
     },
     {
       "rank": 3,
-      "fullName": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "fullName": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "programmingLanguage": "Rust",
-      "stars": 124901,
-      "forks": 19358,
-      "starsInPeriod": 3056
+      "stars": 34256,
+      "forks": 1542,
+      "starsInPeriod": 2949
     },
     {
       "rank": 4,
@@ -44,19 +44,19 @@
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "programmingLanguage": "Rust",
-      "stars": 148568,
-      "forks": 10667,
+      "stars": 148656,
+      "forks": 10672,
       "starsInPeriod": 7571
     },
     {
       "rank": 5,
-      "fullName": "cloudflare/quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "fullName": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 12723,
-      "forks": 1161,
-      "starsInPeriod": 957
+      "stars": 124930,
+      "forks": 19370,
+      "starsInPeriod": 3056
     },
     {
       "rank": 6,
@@ -64,8 +64,8 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
       "programmingLanguage": "Rust",
-      "stars": 5787,
-      "forks": 399,
+      "stars": 5950,
+      "forks": 401,
       "starsInPeriod": 3983
     },
     {
@@ -74,99 +74,99 @@
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 2373,
-      "forks": 246,
+      "stars": 2378,
+      "forks": 248,
       "starsInPeriod": 1396
     },
     {
       "rank": 8,
+      "fullName": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "programmingLanguage": "Rust",
+      "stars": 8555,
+      "forks": 341,
+      "starsInPeriod": 7121
+    },
+    {
+      "rank": 9,
       "fullName": "ankitects/anki",
       "url": "https://github.com/ankitects/anki",
       "description": "Anki is a smart spaced repetition flashcard program",
       "programmingLanguage": "Rust",
-      "stars": 31680,
-      "forks": 3287,
+      "stars": 31687,
+      "forks": 3290,
       "starsInPeriod": 1774
     },
     {
-      "rank": 9,
-      "fullName": "lbjlaq/Antigravity-Manager",
-      "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
-      "programmingLanguage": "Rust",
-      "stars": 31840,
-      "forks": 3433,
-      "starsInPeriod": 1237
-    },
-    {
       "rank": 10,
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "programmingLanguage": "Rust",
-      "stars": 8681,
-      "forks": 595,
-      "starsInPeriod": 3418
-    },
-    {
-      "rank": 11,
       "fullName": "mesamirh/MovieBox-Tui",
       "url": "https://github.com/mesamirh/MovieBox-Tui",
       "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
       "programmingLanguage": "Rust",
-      "stars": 2367,
-      "forks": 270,
+      "stars": 2375,
+      "forks": 271,
       "starsInPeriod": 1048
     },
     {
-      "rank": 12,
-      "fullName": "CapSoftware/Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "rank": 11,
+      "fullName": "lbjlaq/Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "programmingLanguage": "Rust",
-      "stars": 22988,
-      "forks": 1995,
-      "starsInPeriod": 1673
+      "stars": 31849,
+      "forks": 3435,
+      "starsInPeriod": 1237
+    },
+    {
+      "rank": 12,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 13700,
+      "forks": 1603,
+      "starsInPeriod": 5240
     },
     {
       "rank": 13,
-      "fullName": "rustfs/rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 34234,
-      "forks": 1542,
-      "starsInPeriod": 2949
+      "stars": 8687,
+      "forks": 597,
+      "starsInPeriod": 3418
     },
     {
       "rank": 14,
-      "fullName": "pollen-robotics/microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "programmingLanguage": "Rust",
-      "stars": 9036,
-      "forks": 1154,
-      "starsInPeriod": 4797
-    },
-    {
-      "rank": 15,
       "fullName": "pnpm/pnpm",
       "url": "https://github.com/pnpm/pnpm",
       "description": "Fast, disk space efficient package manager",
       "programmingLanguage": "Rust",
-      "stars": 36717,
-      "forks": 1899,
+      "stars": 36722,
+      "forks": 1900,
       "starsInPeriod": 439
     },
     {
-      "rank": 16,
+      "rank": 15,
       "fullName": "juspay/hyperswitch",
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "programmingLanguage": "Rust",
-      "stars": 45271,
+      "stars": 45274,
       "forks": 6428,
       "starsInPeriod": 2014
+    },
+    {
+      "rank": 16,
+      "fullName": "CapSoftware/Cap",
+      "url": "https://github.com/CapSoftware/Cap",
+      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "programmingLanguage": "Rust",
+      "stars": 22991,
+      "forks": 1996,
+      "starsInPeriod": 1673
     },
     {
       "rank": 17,
@@ -174,59 +174,59 @@
       "url": "https://github.com/harry0703/MangoDisk",
       "description": "Safety-first disk cleaner and space analyzer for macOS and Windows, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
       "programmingLanguage": "Rust",
-      "stars": 3518,
+      "stars": 3529,
       "forks": 260,
       "starsInPeriod": 1700
     },
     {
       "rank": 18,
-      "fullName": "NVIDIA/cuda-rust",
-      "url": "https://github.com/NVIDIA/cuda-rust",
-      "description": "cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
-      "programmingLanguage": "Rust",
-      "stars": 3636,
-      "forks": 286,
-      "starsInPeriod": 536
-    },
-    {
-      "rank": 19,
       "fullName": "router-for-me/EasyCLIProxyAPI",
       "url": "https://github.com/router-for-me/EasyCLIProxyAPI",
       "description": "A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 2593,
-      "forks": 210,
+      "stars": 2598,
+      "forks": 211,
       "starsInPeriod": 913
     },
     {
-      "rank": 20,
-      "fullName": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "rank": 19,
+      "fullName": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
       "programmingLanguage": "Rust",
-      "stars": 37404,
-      "forks": 2397,
-      "starsInPeriod": 2939
+      "stars": 9044,
+      "forks": 1153,
+      "starsInPeriod": 4797
     },
     {
-      "rank": 21,
+      "rank": 20,
       "fullName": "remorses/gpuix",
       "url": "https://github.com/remorses/gpuix",
       "description": "Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron",
       "programmingLanguage": "Rust",
-      "stars": 2495,
+      "stars": 2499,
       "forks": 69,
       "starsInPeriod": 1109
     },
     {
-      "rank": 22,
+      "rank": 21,
       "fullName": "zeronsh/zeron",
       "url": "https://github.com/zeronsh/zeron",
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "programmingLanguage": "Rust",
-      "stars": 2514,
-      "forks": 240,
+      "stars": 2520,
+      "forks": 241,
       "starsInPeriod": 1378
+    },
+    {
+      "rank": 22,
+      "fullName": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "programmingLanguage": "Rust",
+      "stars": 119386,
+      "forks": 17253,
+      "starsInPeriod": 3072
     }
   ]
 }

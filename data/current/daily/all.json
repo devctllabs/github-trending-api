@@ -4,179 +4,159 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-10-01T05:50:50Z",
+  "observedAt": "2026-10-01T13:11:56Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "programmingLanguage": "Rust",
-      "stars": 13081,
-      "forks": 1563,
-      "starsInPeriod": 1281
-    },
-    {
-      "rank": 2,
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "programmingLanguage": "Python",
-      "stars": 50701,
-      "forks": 5620,
-      "starsInPeriod": 3483
-    },
-    {
-      "rank": 3,
-      "fullName": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "programmingLanguage": "TypeScript",
-      "stars": 3158,
-      "forks": 219,
-      "starsInPeriod": 624
-    },
-    {
-      "rank": 4,
-      "fullName": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "programmingLanguage": "TypeScript",
-      "stars": 24551,
-      "forks": 1771,
-      "starsInPeriod": 90
-    },
-    {
-      "rank": 5,
       "fullName": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 149412,
-      "forks": 8030,
-      "starsInPeriod": 743
+      "stars": 149824,
+      "forks": 8048,
+      "starsInPeriod": 1179
     },
     {
-      "rank": 6,
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "programmingLanguage": "Python",
-      "stars": 127659,
-      "forks": 19971,
-      "starsInPeriod": 431
-    },
-    {
-      "rank": 7,
-      "fullName": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "programmingLanguage": "TypeScript",
-      "stars": 391040,
-      "forks": 82229,
-      "starsInPeriod": 136
-    },
-    {
-      "rank": 8,
-      "fullName": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "programmingLanguage": "Python",
-      "stars": 76203,
-      "forks": 8883,
-      "starsInPeriod": 123
-    },
-    {
-      "rank": 9,
+      "rank": 2,
       "fullName": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "programmingLanguage": "Shell",
-      "stars": 273164,
-      "forks": 22965,
-      "starsInPeriod": 876
+      "stars": 273458,
+      "forks": 22979,
+      "starsInPeriod": 888
     },
     {
-      "rank": 10,
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "programmingLanguage": "TypeScript",
-      "stars": 54854,
-      "forks": 4986,
-      "starsInPeriod": 349
+      "rank": 3,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 13700,
+      "forks": 1603,
+      "starsInPeriod": 2503
     },
     {
-      "rank": 11,
+      "rank": 4,
       "fullName": "firebase/firebase-ios-sdk",
       "url": "https://github.com/firebase/firebase-ios-sdk",
       "description": "Firebase SDK for Apple App Development",
       "programmingLanguage": "C++",
-      "stars": 6782,
-      "forks": 1800,
-      "starsInPeriod": 8
+      "stars": 6812,
+      "forks": 1801,
+      "starsInPeriod": 112
+    },
+    {
+      "rank": 5,
+      "fullName": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "programmingLanguage": "TypeScript",
+      "stars": 3366,
+      "forks": 228,
+      "starsInPeriod": 640
+    },
+    {
+      "rank": 6,
+      "fullName": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "programmingLanguage": "TypeScript",
+      "stars": 9242,
+      "forks": 872,
+      "starsInPeriod": 157
+    },
+    {
+      "rank": 7,
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "programmingLanguage": "Shell",
+      "stars": 293700,
+      "forks": 26272,
+      "starsInPeriod": 594
+    },
+    {
+      "rank": 8,
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "programmingLanguage": "TypeScript",
+      "stars": 24664,
+      "forks": 1777,
+      "starsInPeriod": 357
+    },
+    {
+      "rank": 9,
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "programmingLanguage": "TypeScript",
+      "stars": 55050,
+      "forks": 5000,
+      "starsInPeriod": 624
+    },
+    {
+      "rank": 10,
+      "fullName": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "programmingLanguage": "TypeScript",
+      "stars": 110941,
+      "forks": 14110,
+      "starsInPeriod": 294
+    },
+    {
+      "rank": 11,
+      "fullName": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "programmingLanguage": "Python",
+      "stars": 7984,
+      "forks": 805,
+      "starsInPeriod": 157
     },
     {
       "rank": 12,
-      "fullName": "modelcontextprotocol/servers",
-      "url": "https://github.com/modelcontextprotocol/servers",
-      "description": "Model Context Protocol Servers",
+      "fullName": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
       "programmingLanguage": "TypeScript",
-      "stars": 90856,
-      "forks": 11729,
-      "starsInPeriod": 50
+      "stars": 2641,
+      "forks": 246,
+      "starsInPeriod": 356
     },
     {
       "rank": 13,
-      "fullName": "byoungd/up",
-      "url": "https://github.com/byoungd/up",
-      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "programmingLanguage": "JavaScript",
-      "stars": 66490,
-      "forks": 6642,
-      "starsInPeriod": 743
+      "fullName": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "programmingLanguage": "Python",
+      "stars": 16161,
+      "forks": 2235,
+      "starsInPeriod": 635
     },
     {
       "rank": 14,
-      "fullName": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "programmingLanguage": "C",
-      "stars": 72657,
-      "forks": 4665,
-      "starsInPeriod": 118
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "programmingLanguage": "JavaScript",
+      "stars": 73317,
+      "forks": 4426,
+      "starsInPeriod": 463
     },
     {
       "rank": 15,
-      "fullName": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "programmingLanguage": "Rust",
-      "stars": 23380,
-      "forks": 2159,
-      "starsInPeriod": 1138
-    },
-    {
-      "rank": 16,
-      "fullName": "NawfalMotii79/PLFM_RADAR",
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "programmingLanguage": "PLSQL",
-      "stars": 26462,
-      "forks": 5978,
-      "starsInPeriod": 263
-    },
-    {
-      "rank": 17,
-      "fullName": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "fullName": "Friedrich-M/UniMate",
+      "url": "https://github.com/Friedrich-M/UniMate",
+      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
       "programmingLanguage": "Python",
-      "stars": 38224,
-      "forks": 3316,
-      "starsInPeriod": 1097
+      "stars": 946,
+      "forks": 92,
+      "starsInPeriod": 225
     }
   ]
 }

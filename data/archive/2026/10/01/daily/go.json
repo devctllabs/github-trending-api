@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-10-01T05:51:21Z",
+  "updatedAt": "2026-10-01T13:12:28Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,13 +14,27 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38162,
-      "forks": 720,
+      "stars": 38166,
+      "forks": 721,
       "starsInPeriod": 19,
       "bestRank": 1,
-      "latestRank": 1,
+      "latestRank": 15,
       "firstSeenAt": "2026-10-01T05:51:21Z",
-      "lastSeenAt": "2026-10-01T05:51:21Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 108668,
+      "forks": 6300,
+      "starsInPeriod": 194,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
       "appearances": 1
     },
     {
@@ -36,6 +50,34 @@
       "firstSeenAt": "2026-10-01T05:51:21Z",
       "lastSeenAt": "2026-10-01T05:51:21Z",
       "appearances": 1
+    },
+    {
+      "fullName": "rakyll/hey",
+      "url": "https://github.com/rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement",
+      "programmingLanguage": "Go",
+      "stars": 20609,
+      "forks": 1317,
+      "starsInPeriod": 22,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "programmingLanguage": "Go",
+      "stars": 27565,
+      "forks": 1874,
+      "starsInPeriod": 40,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-01T05:51:21Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
+      "appearances": 2
     },
     {
       "fullName": "mikefarah/yq",
@@ -56,13 +98,27 @@
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "programmingLanguage": "Go",
-      "stars": 4424,
+      "stars": 4437,
       "forks": 193,
       "starsInPeriod": 117,
       "bestRank": 4,
-      "latestRank": 4,
+      "latestRank": 6,
       "firstSeenAt": "2026-10-01T05:51:21Z",
-      "lastSeenAt": "2026-10-01T05:51:21Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "programmingLanguage": "Go",
+      "stars": 58251,
+      "forks": 7203,
+      "starsInPeriod": 19,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
       "appearances": 1
     },
     {
@@ -80,18 +136,32 @@
       "appearances": 1
     },
     {
+      "fullName": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "programmingLanguage": "Go",
+      "stars": 7626,
+      "forks": 2273,
+      "starsInPeriod": 16,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
+      "appearances": 1
+    },
+    {
       "fullName": "seaweedfs/seaweedfs",
       "url": "https://github.com/seaweedfs/seaweedfs",
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "programmingLanguage": "Go",
-      "stars": 35159,
-      "forks": 3025,
+      "stars": 35169,
+      "forks": 3026,
       "starsInPeriod": 52,
       "bestRank": 6,
-      "latestRank": 6,
+      "latestRank": 8,
       "firstSeenAt": "2026-10-01T05:51:21Z",
-      "lastSeenAt": "2026-10-01T05:51:21Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-01T13:12:28Z",
+      "appearances": 2
     },
     {
       "fullName": "go-chi/chi",
@@ -105,6 +175,20 @@
       "latestRank": 7,
       "firstSeenAt": "2026-10-01T05:51:21Z",
       "lastSeenAt": "2026-10-01T05:51:21Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "programmingLanguage": "Go",
+      "stars": 7656,
+      "forks": 646,
+      "starsInPeriod": 68,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
       "appearances": 1
     },
     {
@@ -136,6 +220,20 @@
       "appearances": 1
     },
     {
+      "fullName": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "programmingLanguage": "Go",
+      "stars": 46486,
+      "forks": 9106,
+      "starsInPeriod": 16,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
+      "appearances": 1
+    },
+    {
       "fullName": "QuantumNous/new-api",
       "url": "https://github.com/QuantumNous/new-api",
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
@@ -150,17 +248,17 @@
       "appearances": 1
     },
     {
-      "fullName": "gastownhall/beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
+      "fullName": "hashicorp/hcl",
+      "url": "https://github.com/hashicorp/hcl",
+      "description": "HCL is the HashiCorp configuration language.",
       "programmingLanguage": "Go",
-      "stars": 27554,
-      "forks": 1874,
-      "starsInPeriod": 40,
-      "bestRank": 11,
-      "latestRank": 11,
-      "firstSeenAt": "2026-10-01T05:51:21Z",
-      "lastSeenAt": "2026-10-01T05:51:21Z",
+      "stars": 5812,
+      "forks": 667,
+      "starsInPeriod": null,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
       "appearances": 1
     },
     {
@@ -168,13 +266,27 @@
       "url": "https://github.com/temporalio/temporal",
       "description": "Temporal service",
       "programmingLanguage": "Go",
-      "stars": 23397,
-      "forks": 1953,
+      "stars": 23399,
+      "forks": 1956,
       "starsInPeriod": 26,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-01T05:51:21Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "programmingLanguage": "Go",
+      "stars": 89071,
+      "forks": 5503,
+      "starsInPeriod": 36,
       "bestRank": 12,
       "latestRank": 12,
-      "firstSeenAt": "2026-10-01T05:51:21Z",
-      "lastSeenAt": "2026-10-01T05:51:21Z",
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
       "appearances": 1
     },
     {
@@ -192,6 +304,20 @@
       "appearances": 1
     },
     {
+      "fullName": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "programmingLanguage": "Go",
+      "stars": 23597,
+      "forks": 867,
+      "starsInPeriod": 131,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-10-01T05:51:21Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
+      "appearances": 2
+    },
+    {
       "fullName": "Billionmail/BillionMail",
       "url": "https://github.com/Billionmail/BillionMail",
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
@@ -203,6 +329,20 @@
       "latestRank": 14,
       "firstSeenAt": "2026-10-01T05:51:21Z",
       "lastSeenAt": "2026-10-01T05:51:21Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "k3s-io/k3s",
+      "url": "https://github.com/k3s-io/k3s",
+      "description": "Lightweight Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 34089,
+      "forks": 2745,
+      "starsInPeriod": 9,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
       "appearances": 1
     },
     {
@@ -234,17 +374,31 @@
       "appearances": 1
     },
     {
-      "fullName": "yorukot/superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
+      "fullName": "m1k1o/neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
       "programmingLanguage": "Go",
-      "stars": 23587,
-      "forks": 867,
-      "starsInPeriod": 131,
+      "stars": 22431,
+      "forks": 1633,
+      "starsInPeriod": 19,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "github/gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "programmingLanguage": "Go",
+      "stars": 5319,
+      "forks": 570,
+      "starsInPeriod": 53,
       "bestRank": 17,
       "latestRank": 17,
-      "firstSeenAt": "2026-10-01T05:51:21Z",
-      "lastSeenAt": "2026-10-01T05:51:21Z",
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
       "appearances": 1
     },
     {
@@ -252,13 +406,27 @@
       "url": "https://github.com/containerd/containerd",
       "description": "An open and reliable container runtime",
       "programmingLanguage": "Go",
-      "stars": 21364,
-      "forks": 4140,
+      "stars": 21366,
+      "forks": 4141,
       "starsInPeriod": 9,
       "bestRank": 18,
-      "latestRank": 18,
+      "latestRank": 20,
       "firstSeenAt": "2026-10-01T05:51:21Z",
-      "lastSeenAt": "2026-10-01T05:51:21Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "nicocha30/ligolo-ng",
+      "url": "https://github.com/nicocha30/ligolo-ng",
+      "description": "An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.",
+      "programmingLanguage": "Go",
+      "stars": 5035,
+      "forks": 483,
+      "starsInPeriod": 6,
+      "bestRank": 18,
+      "latestRank": 18,
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
       "appearances": 1
     },
     {
@@ -276,6 +444,20 @@
       "appearances": 1
     },
     {
+      "fullName": "charmbracelet/crush",
+      "url": "https://github.com/charmbracelet/crush",
+      "description": "Glamourous agentic coding for all 💘",
+      "programmingLanguage": "Go",
+      "stars": 28432,
+      "forks": 2310,
+      "starsInPeriod": 54,
+      "bestRank": 19,
+      "latestRank": 19,
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
+      "appearances": 1
+    },
+    {
       "fullName": "MHSanaei/3x-ui",
       "url": "https://github.com/MHSanaei/3x-ui",
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
@@ -287,6 +469,20 @@
       "latestRank": 20,
       "firstSeenAt": "2026-10-01T05:51:21Z",
       "lastSeenAt": "2026-10-01T05:51:21Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "authelia/authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
+      "programmingLanguage": "Go",
+      "stars": 29149,
+      "forks": 1500,
+      "starsInPeriod": 8,
+      "bestRank": 21,
+      "latestRank": 21,
+      "firstSeenAt": "2026-10-01T13:12:28Z",
+      "lastSeenAt": "2026-10-01T13:12:28Z",
       "appearances": 1
     }
   ]
