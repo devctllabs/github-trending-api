@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-09-30T22:15:24Z",
+  "observedAt": "2026-10-01T05:51:27Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 42906,
-      "forks": 3086,
-      "starsInPeriod": 21236
+      "stars": 42988,
+      "forks": 3093,
+      "starsInPeriod": 21460
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 31489,
-      "forks": 4205,
-      "starsInPeriod": 10525
+      "stars": 31545,
+      "forks": 4210,
+      "starsInPeriod": 10658
     },
     {
       "rank": 3,
@@ -35,8 +35,8 @@
       "description": "Secure environments for developers and their agents",
       "programmingLanguage": "Go",
       "stars": 16782,
-      "forks": 1600,
-      "starsInPeriod": 2630
+      "forks": 1602,
+      "starsInPeriod": 2639
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai",
       "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "programmingLanguage": "Go",
-      "stars": 7432,
-      "forks": 816,
-      "starsInPeriod": 1416
+      "stars": 7438,
+      "forks": 817,
+      "starsInPeriod": 1392
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/cilium/cilium",
       "description": "eBPF-based Networking, Security, and Observability",
       "programmingLanguage": "Go",
-      "stars": 25583,
+      "stars": 25585,
       "forks": 4120,
-      "starsInPeriod": 694
+      "starsInPeriod": 695
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 4020,
+      "stars": 4034,
       "forks": 484,
-      "starsInPeriod": 2336
+      "starsInPeriod": 2348
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 181973,
-      "forks": 18056,
-      "starsInPeriod": 2820
+      "stars": 181991,
+      "forks": 18062,
+      "starsInPeriod": 2743
     },
     {
       "rank": 8,
@@ -86,7 +86,7 @@
       "programmingLanguage": "Go",
       "stars": 1306,
       "forks": 200,
-      "starsInPeriod": 760
+      "starsInPeriod": 749
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 25150,
+      "stars": 25158,
       "forks": 3236,
-      "starsInPeriod": 3086
+      "starsInPeriod": 3081
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/asciimoo/hister",
       "description": "Your own search engine",
       "programmingLanguage": "Go",
-      "stars": 5810,
+      "stars": 5812,
       "forks": 256,
-      "starsInPeriod": 2563
+      "starsInPeriod": 2447
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/livekit/livekit",
       "description": "End-to-end realtime stack for connecting humans and AI",
       "programmingLanguage": "Go",
-      "stars": 21217,
+      "stars": 21220,
       "forks": 2402,
-      "starsInPeriod": 631
+      "starsInPeriod": 620
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/vllm-project/semantic-router",
       "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "programmingLanguage": "Go",
-      "stars": 5991,
+      "stars": 5992,
       "forks": 993,
-      "starsInPeriod": 590
+      "starsInPeriod": 552
     },
     {
       "rank": 13,
@@ -136,7 +136,7 @@
       "programmingLanguage": "Go",
       "stars": 23081,
       "forks": 4777,
-      "starsInPeriod": 138
+      "starsInPeriod": 139
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/maximhq/bifrost",
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "programmingLanguage": "Go",
-      "stars": 8478,
+      "stars": 8489,
       "forks": 1316,
-      "starsInPeriod": 841
+      "starsInPeriod": 812
     },
     {
       "rank": 15,
@@ -155,8 +155,8 @@
       "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
       "programmingLanguage": "Go",
       "stars": 24274,
-      "forks": 1829,
-      "starsInPeriod": 75
+      "forks": 1830,
+      "starsInPeriod": 70
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 28210,
+      "stars": 28213,
       "forks": 2611,
-      "starsInPeriod": 618
+      "starsInPeriod": 631
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/Gentleman-Programming/engram",
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "programmingLanguage": "Go",
-      "stars": 6964,
-      "forks": 717,
-      "starsInPeriod": 744
+      "stars": 6969,
+      "forks": 719,
+      "starsInPeriod": 734
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/putyy/res-downloader",
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "programmingLanguage": "Go",
-      "stars": 20323,
-      "forks": 2521,
-      "starsInPeriod": 766
+      "stars": 20322,
+      "forks": 2522,
+      "starsInPeriod": 749
     },
     {
       "rank": 19,
@@ -194,9 +194,9 @@
       "url": "https://github.com/authelia/authelia",
       "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
       "programmingLanguage": "Go",
-      "stars": 29145,
+      "stars": 29146,
       "forks": 1500,
-      "starsInPeriod": 439
+      "starsInPeriod": 433
     },
     {
       "rank": 20,
@@ -204,9 +204,9 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139099,
+      "stars": 139104,
       "forks": 20963,
-      "starsInPeriod": 2635
+      "starsInPeriod": 2596
     },
     {
       "rank": 21,
@@ -214,9 +214,9 @@
       "url": "https://github.com/cloudflare/cloudflared",
       "description": "Cloudflare Tunnel client",
       "programmingLanguage": "Go",
-      "stars": 15973,
-      "forks": 1464,
-      "starsInPeriod": 566
+      "stars": 15976,
+      "forks": 1465,
+      "starsInPeriod": 545
     },
     {
       "rank": 22,
@@ -224,9 +224,9 @@
       "url": "https://github.com/kubernetes-sigs/agent-sandbox",
       "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
       "programmingLanguage": "Go",
-      "stars": 4103,
+      "stars": 4107,
       "forks": 539,
-      "starsInPeriod": 513
+      "starsInPeriod": 502
     }
   ]
 }
