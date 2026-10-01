@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-01T13:12:28Z",
+  "observedAt": "2026-10-01T22:40:59Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 108668,
-      "forks": 6300,
+      "stars": 108732,
+      "forks": 6302,
       "starsInPeriod": 194
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://github.com/rakyll/hey",
       "description": "HTTP load generator, ApacheBench (ab) replacement",
       "programmingLanguage": "Go",
-      "stars": 20609,
+      "stars": 20615,
       "forks": 1317,
       "starsInPeriod": 22
     },
@@ -34,9 +34,9 @@
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 27565,
-      "forks": 1874,
-      "starsInPeriod": 40
+      "stars": 27573,
+      "forks": 1873,
+      "starsInPeriod": 33
     },
     {
       "rank": 4,
@@ -44,8 +44,8 @@
       "url": "https://github.com/go-gitea/gitea",
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 58251,
-      "forks": 7203,
+      "stars": 58258,
+      "forks": 7205,
       "starsInPeriod": 19
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/open-telemetry/opentelemetry-collector",
       "description": "OpenTelemetry Collector",
       "programmingLanguage": "Go",
-      "stars": 7626,
-      "forks": 2273,
+      "stars": 7631,
+      "forks": 2276,
       "starsInPeriod": 16
     },
     {
@@ -64,9 +64,9 @@
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "programmingLanguage": "Go",
-      "stars": 4437,
-      "forks": 193,
-      "starsInPeriod": 117
+      "stars": 4456,
+      "forks": 197,
+      "starsInPeriod": 54
     },
     {
       "rank": 7,
@@ -74,7 +74,7 @@
       "url": "https://github.com/superplanehq/superplane",
       "description": "Open source factory for one-shot engineering",
       "programmingLanguage": "Go",
-      "stars": 7656,
+      "stars": 7671,
       "forks": 646,
       "starsInPeriod": 68
     },
@@ -84,9 +84,9 @@
       "url": "https://github.com/seaweedfs/seaweedfs",
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "programmingLanguage": "Go",
-      "stars": 35169,
+      "stars": 35181,
       "forks": 3026,
-      "starsInPeriod": 52
+      "starsInPeriod": 47
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
       "programmingLanguage": "Go",
-      "stars": 46486,
-      "forks": 9106,
-      "starsInPeriod": 16
+      "stars": 46494,
+      "forks": 9109,
+      "starsInPeriod": 27
     },
     {
       "rank": 10,
@@ -104,7 +104,7 @@
       "url": "https://github.com/hashicorp/hcl",
       "description": "HCL is the HashiCorp configuration language.",
       "programmingLanguage": "Go",
-      "stars": 5812,
+      "stars": 5810,
       "forks": 667,
       "starsInPeriod": null
     },
@@ -114,9 +114,9 @@
       "url": "https://github.com/temporalio/temporal",
       "description": "Temporal service",
       "programmingLanguage": "Go",
-      "stars": 23399,
-      "forks": 1956,
-      "starsInPeriod": 26
+      "stars": 23410,
+      "forks": 1960,
+      "starsInPeriod": 19
     },
     {
       "rank": 12,
@@ -124,8 +124,8 @@
       "url": "https://github.com/syncthing/syncthing",
       "description": "Open Source Continuous File Synchronization",
       "programmingLanguage": "Go",
-      "stars": 89071,
-      "forks": 5503,
+      "stars": 89084,
+      "forks": 5504,
       "starsInPeriod": 36
     },
     {
@@ -134,9 +134,9 @@
       "url": "https://github.com/yorukot/superfile",
       "description": "Pretty fancy and modern terminal file manager",
       "programmingLanguage": "Go",
-      "stars": 23597,
-      "forks": 867,
-      "starsInPeriod": 131
+      "stars": 23607,
+      "forks": 868,
+      "starsInPeriod": 50
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/k3s-io/k3s",
       "description": "Lightweight Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 34089,
+      "stars": 34098,
       "forks": 2745,
-      "starsInPeriod": 9
+      "starsInPeriod": 17
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38166,
+      "stars": 38178,
       "forks": 721,
-      "starsInPeriod": 19
+      "starsInPeriod": 20
     },
     {
       "rank": 16,
@@ -164,8 +164,8 @@
       "url": "https://github.com/m1k1o/neko",
       "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
       "programmingLanguage": "Go",
-      "stars": 22431,
-      "forks": 1633,
+      "stars": 22434,
+      "forks": 1634,
       "starsInPeriod": 19
     },
     {
@@ -174,48 +174,58 @@
       "url": "https://github.com/github/gh-aw",
       "description": "GitHub Agentic Workflows",
       "programmingLanguage": "Go",
-      "stars": 5319,
-      "forks": 570,
+      "stars": 5321,
+      "forks": 571,
       "starsInPeriod": 53
     },
     {
       "rank": 18,
+      "fullName": "CarterPerez-dev/Cybersecurity-Projects",
+      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
+      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
+      "programmingLanguage": "Go",
+      "stars": 7612,
+      "forks": 1109,
+      "starsInPeriod": 109
+    },
+    {
+      "rank": 19,
       "fullName": "nicocha30/ligolo-ng",
       "url": "https://github.com/nicocha30/ligolo-ng",
       "description": "An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.",
       "programmingLanguage": "Go",
-      "stars": 5035,
+      "stars": 5038,
       "forks": 483,
       "starsInPeriod": 6
     },
     {
-      "rank": 19,
+      "rank": 20,
       "fullName": "charmbracelet/crush",
       "url": "https://github.com/charmbracelet/crush",
       "description": "Glamourous agentic coding for all 💘",
       "programmingLanguage": "Go",
-      "stars": 28432,
+      "stars": 28437,
       "forks": 2310,
       "starsInPeriod": 54
     },
     {
-      "rank": 20,
+      "rank": 21,
       "fullName": "containerd/containerd",
       "url": "https://github.com/containerd/containerd",
       "description": "An open and reliable container runtime",
       "programmingLanguage": "Go",
-      "stars": 21366,
+      "stars": 21372,
       "forks": 4141,
       "starsInPeriod": 9
     },
     {
-      "rank": 21,
+      "rank": 22,
       "fullName": "authelia/authelia",
       "url": "https://github.com/authelia/authelia",
       "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
       "programmingLanguage": "Go",
-      "stars": 29149,
-      "forks": 1500,
+      "stars": 29153,
+      "forks": 1499,
       "starsInPeriod": 8
     }
   ]
