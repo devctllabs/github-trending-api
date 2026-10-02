@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-02T12:33:54Z",
+  "observedAt": "2026-10-02T22:13:44Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 108856,
-      "forks": 6312,
-      "starsInPeriod": 193
+      "stars": 109055,
+      "forks": 6315,
+      "starsInPeriod": 271
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
       "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
       "programmingLanguage": "Go",
-      "stars": 7644,
-      "forks": 1117,
-      "starsInPeriod": 106
+      "stars": 7663,
+      "forks": 1115,
+      "starsInPeriod": 60
     },
     {
       "rank": 3,
@@ -34,7 +34,7 @@
       "url": "https://github.com/lharries/whatsapp-mcp",
       "description": "WhatsApp MCP server",
       "programmingLanguage": "Go",
-      "stars": 6371,
+      "stars": 6377,
       "forks": 1353,
       "starsInPeriod": 24
     },
@@ -44,8 +44,8 @@
       "url": "https://github.com/charmbracelet/bubbletea",
       "description": "A powerful little TUI framework 🏗",
       "programmingLanguage": "Go",
-      "stars": 45238,
-      "forks": 2773,
+      "stars": 45248,
+      "forks": 2845,
       "starsInPeriod": 15
     },
     {
@@ -54,9 +54,9 @@
       "url": "https://github.com/zitadel/zitadel",
       "description": "ZITADEL - Identity infrastructure, simplified for you.",
       "programmingLanguage": "Go",
-      "stars": 15154,
-      "forks": 1340,
-      "starsInPeriod": 13
+      "stars": 15159,
+      "forks": 1342,
+      "starsInPeriod": 10
     },
     {
       "rank": 6,
@@ -64,7 +64,7 @@
       "url": "https://github.com/fluxcd/flux2",
       "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
       "programmingLanguage": "Go",
-      "stars": 8435,
+      "stars": 8434,
       "forks": 792,
       "starsInPeriod": null
     },
@@ -74,7 +74,7 @@
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "programmingLanguage": "Go",
-      "stars": 7977,
+      "stars": 8007,
       "forks": 343,
       "starsInPeriod": 95
     },
@@ -84,9 +84,9 @@
       "url": "https://github.com/open-telemetry/opentelemetry-collector",
       "description": "OpenTelemetry Collector",
       "programmingLanguage": "Go",
-      "stars": 7633,
-      "forks": 2276,
-      "starsInPeriod": 18
+      "stars": 7634,
+      "forks": 2277,
+      "starsInPeriod": 6
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 76229,
+      "stars": 76236,
       "forks": 5023,
-      "starsInPeriod": 31
+      "starsInPeriod": 23
     },
     {
       "rank": 10,
@@ -104,7 +104,7 @@
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 24315,
+      "stars": 24317,
       "forks": 7902,
       "starsInPeriod": 16
     },
@@ -114,9 +114,9 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38186,
-      "forks": 721,
-      "starsInPeriod": 22
+      "stars": 38197,
+      "forks": 723,
+      "starsInPeriod": 24
     },
     {
       "rank": 12,
@@ -124,8 +124,8 @@
       "url": "https://github.com/pulumi/pulumi",
       "description": "Pulumi - Infrastructure as Code in any programming language 🚀",
       "programmingLanguage": "Go",
-      "stars": 25758,
-      "forks": 1442,
+      "stars": 25763,
+      "forks": 1441,
       "starsInPeriod": 10
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/sysadminsmedia/homebox",
       "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
       "programmingLanguage": "Go",
-      "stars": 7428,
-      "forks": 572,
+      "stars": 7432,
+      "forks": 573,
       "starsInPeriod": 13
     },
     {
@@ -144,7 +144,7 @@
       "url": "https://github.com/kubernetes-sigs/kueue",
       "description": "🚦 Kubernetes-native Job Queueing and Scheduling",
       "programmingLanguage": "Go",
-      "stars": 3027,
+      "stars": 3029,
       "forks": 823,
       "starsInPeriod": 3
     },
@@ -155,7 +155,7 @@
       "description": "A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.",
       "programmingLanguage": "Go",
       "stars": 758,
-      "forks": 55,
+      "forks": 56,
       "starsInPeriod": 3
     },
     {
@@ -174,9 +174,9 @@
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 29609,
-      "forks": 2262,
-      "starsInPeriod": 25
+      "stars": 29616,
+      "forks": 2263,
+      "starsInPeriod": 16
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
       "programmingLanguage": "Go",
-      "stars": 46507,
-      "forks": 9113,
-      "starsInPeriod": 22
+      "stars": 46513,
+      "forks": 9115,
+      "starsInPeriod": 25
     },
     {
       "rank": 19,
@@ -194,8 +194,8 @@
       "url": "https://github.com/danielmiessler/Fabric",
       "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "programmingLanguage": "Go",
-      "stars": 44142,
-      "forks": 4292,
+      "stars": 44149,
+      "forks": 4293,
       "starsInPeriod": 10
     },
     {
@@ -204,9 +204,9 @@
       "url": "https://github.com/traefik/traefik",
       "description": "The Cloud Native Application Proxy",
       "programmingLanguage": "Go",
-      "stars": 65044,
+      "stars": 65049,
       "forks": 6220,
-      "starsInPeriod": 17
+      "starsInPeriod": 12
     },
     {
       "rank": 21,
@@ -214,8 +214,8 @@
       "url": "https://github.com/MHSanaei/3x-ui",
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "programmingLanguage": "Go",
-      "stars": 47320,
-      "forks": 11997,
+      "stars": 47324,
+      "forks": 12003,
       "starsInPeriod": 60
     },
     {
@@ -224,9 +224,9 @@
       "url": "https://github.com/github/gh-aw",
       "description": "GitHub Agentic Workflows",
       "programmingLanguage": "Go",
-      "stars": 5324,
-      "forks": 571,
-      "starsInPeriod": 40
+      "stars": 5335,
+      "forks": 572,
+      "starsInPeriod": 12
     },
     {
       "rank": 23,
@@ -234,7 +234,7 @@
       "url": "https://github.com/tphakala/birdnet-go",
       "description": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
       "programmingLanguage": "Go",
-      "stars": 2229,
+      "stars": 2234,
       "forks": 186,
       "starsInPeriod": 10
     }

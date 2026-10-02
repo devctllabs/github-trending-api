@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-10-02T12:33:23Z",
+  "observedAt": "2026-10-02T22:13:30Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "programmingLanguage": "Python",
-      "stars": 52827,
-      "forks": 3043,
+      "stars": 52926,
+      "forks": 3046,
       "starsInPeriod": 26584
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 38510,
-      "forks": 5541,
+      "stars": 38535,
+      "forks": 5536,
       "starsInPeriod": 3930
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "programmingLanguage": "Python",
-      "stars": 4018,
-      "forks": 332,
+      "stars": 4038,
+      "forks": 336,
       "starsInPeriod": 3249
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 44518,
-      "forks": 5860,
+      "stars": 44668,
+      "forks": 5866,
       "starsInPeriod": 22416
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 6320,
-      "forks": 788,
+      "stars": 6382,
+      "forks": 789,
       "starsInPeriod": 4888
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 25965,
-      "forks": 3050,
+      "stars": 25982,
+      "forks": 3051,
       "starsInPeriod": 2254
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 19037,
-      "forks": 1657,
+      "stars": 19098,
+      "forks": 1663,
       "starsInPeriod": 3423
     },
     {
@@ -84,18 +84,18 @@
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "programmingLanguage": "Python",
-      "stars": 63084,
-      "forks": 8195,
+      "stars": 63090,
+      "forks": 8189,
       "starsInPeriod": 6436
     },
     {
       "rank": 9,
       "fullName": "ahujasid/mcp-for-blender",
       "url": "https://github.com/ahujasid/mcp-for-blender",
-      "description": "Community plugin to control Blender 3D with any LLM of your choice",
+      "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
       "programmingLanguage": "Python",
-      "stars": 29850,
-      "forks": 2715,
+      "stars": 29874,
+      "forks": 2711,
       "starsInPeriod": 3261
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "programmingLanguage": "Python",
-      "stars": 85127,
-      "forks": 8723,
+      "stars": 85228,
+      "forks": 8729,
       "starsInPeriod": 7510
     },
     {
@@ -114,8 +114,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 62573,
-      "forks": 10698,
+      "stars": 62680,
+      "forks": 10711,
       "starsInPeriod": 10879
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://github.com/petergyang/no-ai-slop",
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "programmingLanguage": "Python",
-      "stars": 11697,
-      "forks": 796,
+      "stars": 11738,
+      "forks": 801,
       "starsInPeriod": 5128
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "programmingLanguage": "Python",
-      "stars": 187971,
-      "forks": 13912,
+      "stars": 188015,
+      "forks": 13909,
       "starsInPeriod": 10815
     },
     {
@@ -144,8 +144,8 @@
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "programmingLanguage": "Python",
-      "stars": 5162,
-      "forks": 719,
+      "stars": 5167,
+      "forks": 720,
       "starsInPeriod": 1488
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/browser-use/browser-use",
       "description": "Agents that use the browser.",
       "programmingLanguage": "Python",
-      "stars": 116994,
-      "forks": 12912,
+      "stars": 117005,
+      "forks": 12909,
       "starsInPeriod": 5285
     },
     {
@@ -164,7 +164,7 @@
       "url": "https://github.com/docling-project/docling",
       "description": "Get your documents ready for gen AI",
       "programmingLanguage": "Python",
-      "stars": 68302,
+      "stars": 68312,
       "forks": 4984,
       "starsInPeriod": 2512
     },
@@ -174,8 +174,8 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 51657,
-      "forks": 5757,
+      "stars": 51839,
+      "forks": 5767,
       "starsInPeriod": 38088
     },
     {
@@ -184,8 +184,8 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "programmingLanguage": "Python",
-      "stars": 7184,
-      "forks": 944,
+      "stars": 7198,
+      "forks": 946,
       "starsInPeriod": 4301
     },
     {
@@ -194,8 +194,8 @@
       "url": "https://github.com/SWE-agent/mini-swe-agent",
       "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
       "programmingLanguage": "Python",
-      "stars": 8150,
-      "forks": 1121,
+      "stars": 8159,
+      "forks": 1120,
       "starsInPeriod": 1265
     },
     {
@@ -204,7 +204,7 @@
       "url": "https://github.com/experientiallabs/experiential",
       "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
       "programmingLanguage": "Python",
-      "stars": 7668,
+      "stars": 7716,
       "forks": 217,
       "starsInPeriod": 6895
     }
