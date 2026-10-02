@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-10-02T05:35:57Z",
+  "updatedAt": "2026-10-02T12:33:54Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,14 +14,28 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 108766,
-      "forks": 6303,
+      "stars": 108856,
+      "forks": 6312,
       "starsInPeriod": 193,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-02T05:35:57Z",
-      "lastSeenAt": "2026-10-02T05:35:57Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "CarterPerez-dev/Cybersecurity-Projects",
+      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
+      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
+      "programmingLanguage": "Go",
+      "stars": 7644,
+      "forks": 1117,
+      "starsInPeriod": 106,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-02T05:35:57Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 2
     },
     {
       "fullName": "rakyll/hey",
@@ -52,6 +66,20 @@
       "appearances": 1
     },
     {
+      "fullName": "lharries/whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "description": "WhatsApp MCP server",
+      "programmingLanguage": "Go",
+      "stars": 6371,
+      "forks": 1353,
+      "starsInPeriod": 24,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 1
+    },
+    {
       "fullName": "go-gitea/gitea",
       "url": "https://github.com/go-gitea/gitea",
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
@@ -66,17 +94,45 @@
       "appearances": 1
     },
     {
+      "fullName": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "programmingLanguage": "Go",
+      "stars": 45238,
+      "forks": 2773,
+      "starsInPeriod": 15,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 1
+    },
+    {
       "fullName": "open-telemetry/opentelemetry-collector",
       "url": "https://github.com/open-telemetry/opentelemetry-collector",
       "description": "OpenTelemetry Collector",
       "programmingLanguage": "Go",
-      "stars": 7632,
+      "stars": 7633,
       "forks": 2276,
       "starsInPeriod": 18,
       "bestRank": 5,
-      "latestRank": 5,
+      "latestRank": 8,
       "firstSeenAt": "2026-10-02T05:35:57Z",
-      "lastSeenAt": "2026-10-02T05:35:57Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "zitadel/zitadel",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "ZITADEL - Identity infrastructure, simplified for you.",
+      "programmingLanguage": "Go",
+      "stars": 15154,
+      "forks": 1340,
+      "starsInPeriod": 13,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
       "appearances": 1
     },
     {
@@ -94,6 +150,20 @@
       "appearances": 1
     },
     {
+      "fullName": "fluxcd/flux2",
+      "url": "https://github.com/fluxcd/flux2",
+      "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+      "programmingLanguage": "Go",
+      "stars": 8435,
+      "forks": 792,
+      "starsInPeriod": null,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 1
+    },
+    {
       "fullName": "superplanehq/superplane",
       "url": "https://github.com/superplanehq/superplane",
       "description": "Open source factory for one-shot engineering",
@@ -105,6 +175,20 @@
       "latestRank": 7,
       "firstSeenAt": "2026-10-02T05:35:57Z",
       "lastSeenAt": "2026-10-02T05:35:57Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "programmingLanguage": "Go",
+      "stars": 7977,
+      "forks": 343,
+      "starsInPeriod": 95,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
       "appearances": 1
     },
     {
@@ -126,13 +210,27 @@
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
       "programmingLanguage": "Go",
-      "stars": 46501,
-      "forks": 9112,
+      "stars": 46507,
+      "forks": 9113,
       "starsInPeriod": 22,
       "bestRank": 9,
-      "latestRank": 9,
+      "latestRank": 18,
       "firstSeenAt": "2026-10-02T05:35:57Z",
-      "lastSeenAt": "2026-10-02T05:35:57Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "programmingLanguage": "Go",
+      "stars": 76229,
+      "forks": 5023,
+      "starsInPeriod": 31,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
       "appearances": 1
     },
     {
@@ -148,6 +246,34 @@
       "firstSeenAt": "2026-10-02T05:35:57Z",
       "lastSeenAt": "2026-10-02T05:35:57Z",
       "appearances": 1
+    },
+    {
+      "fullName": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 24315,
+      "forks": 7902,
+      "starsInPeriod": 16,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 38186,
+      "forks": 721,
+      "starsInPeriod": 22,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-02T05:35:57Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 2
     },
     {
       "fullName": "temporalio/temporal",
@@ -178,6 +304,20 @@
       "appearances": 1
     },
     {
+      "fullName": "pulumi/pulumi",
+      "url": "https://github.com/pulumi/pulumi",
+      "description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+      "programmingLanguage": "Go",
+      "stars": 25758,
+      "forks": 1442,
+      "starsInPeriod": 10,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 1
+    },
+    {
       "fullName": "yorukot/superfile",
       "url": "https://github.com/yorukot/superfile",
       "description": "Pretty fancy and modern terminal file manager",
@@ -189,6 +329,20 @@
       "latestRank": 13,
       "firstSeenAt": "2026-10-02T05:35:57Z",
       "lastSeenAt": "2026-10-02T05:35:57Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "sysadminsmedia/homebox",
+      "url": "https://github.com/sysadminsmedia/homebox",
+      "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+      "programmingLanguage": "Go",
+      "stars": 7428,
+      "forks": 572,
+      "starsInPeriod": 13,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
       "appearances": 1
     },
     {
@@ -206,17 +360,31 @@
       "appearances": 1
     },
     {
-      "fullName": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "fullName": "kubernetes-sigs/kueue",
+      "url": "https://github.com/kubernetes-sigs/kueue",
+      "description": "🚦 Kubernetes-native Job Queueing and Scheduling",
       "programmingLanguage": "Go",
-      "stars": 38180,
-      "forks": 721,
-      "starsInPeriod": 22,
+      "stars": 3027,
+      "forks": 823,
+      "starsInPeriod": 3,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "grafana/gcx",
+      "url": "https://github.com/grafana/gcx",
+      "description": "A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.",
+      "programmingLanguage": "Go",
+      "stars": 758,
+      "forks": 55,
+      "starsInPeriod": 3,
       "bestRank": 15,
       "latestRank": 15,
-      "firstSeenAt": "2026-10-02T05:35:57Z",
-      "lastSeenAt": "2026-10-02T05:35:57Z",
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
       "appearances": 1
     },
     {
@@ -234,31 +402,45 @@
       "appearances": 1
     },
     {
+      "fullName": "hashicorp/terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "programmingLanguage": "Go",
+      "stars": 11106,
+      "forks": 10404,
+      "starsInPeriod": null,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 1
+    },
+    {
       "fullName": "github/gh-aw",
       "url": "https://github.com/github/gh-aw",
       "description": "GitHub Agentic Workflows",
       "programmingLanguage": "Go",
       "stars": 5324,
-      "forks": 572,
+      "forks": 571,
       "starsInPeriod": 40,
       "bestRank": 17,
-      "latestRank": 17,
+      "latestRank": 22,
       "firstSeenAt": "2026-10-02T05:35:57Z",
-      "lastSeenAt": "2026-10-02T05:35:57Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 2
     },
     {
-      "fullName": "CarterPerez-dev/Cybersecurity-Projects",
-      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
-      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 7633,
-      "forks": 1112,
-      "starsInPeriod": 106,
-      "bestRank": 18,
-      "latestRank": 18,
-      "firstSeenAt": "2026-10-02T05:35:57Z",
-      "lastSeenAt": "2026-10-02T05:35:57Z",
+      "stars": 29609,
+      "forks": 2262,
+      "starsInPeriod": 25,
+      "bestRank": 17,
+      "latestRank": 17,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
       "appearances": 1
     },
     {
@@ -276,6 +458,20 @@
       "appearances": 1
     },
     {
+      "fullName": "danielmiessler/Fabric",
+      "url": "https://github.com/danielmiessler/Fabric",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+      "programmingLanguage": "Go",
+      "stars": 44142,
+      "forks": 4292,
+      "starsInPeriod": 10,
+      "bestRank": 19,
+      "latestRank": 19,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 1
+    },
+    {
       "fullName": "charmbracelet/crush",
       "url": "https://github.com/charmbracelet/crush",
       "description": "Glamourous agentic coding for all 💘",
@@ -287,6 +483,20 @@
       "latestRank": 20,
       "firstSeenAt": "2026-10-02T05:35:57Z",
       "lastSeenAt": "2026-10-02T05:35:57Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "programmingLanguage": "Go",
+      "stars": 65044,
+      "forks": 6220,
+      "starsInPeriod": 17,
+      "bestRank": 20,
+      "latestRank": 20,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
       "appearances": 1
     },
     {
@@ -304,6 +514,20 @@
       "appearances": 1
     },
     {
+      "fullName": "MHSanaei/3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "programmingLanguage": "Go",
+      "stars": 47320,
+      "forks": 11997,
+      "starsInPeriod": 60,
+      "bestRank": 21,
+      "latestRank": 21,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
+      "appearances": 1
+    },
+    {
       "fullName": "authelia/authelia",
       "url": "https://github.com/authelia/authelia",
       "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
@@ -315,6 +539,20 @@
       "latestRank": 22,
       "firstSeenAt": "2026-10-02T05:35:57Z",
       "lastSeenAt": "2026-10-02T05:35:57Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "tphakala/birdnet-go",
+      "url": "https://github.com/tphakala/birdnet-go",
+      "description": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "programmingLanguage": "Go",
+      "stars": 2229,
+      "forks": 186,
+      "starsInPeriod": 10,
+      "bestRank": 23,
+      "latestRank": 23,
+      "firstSeenAt": "2026-10-02T12:33:54Z",
+      "lastSeenAt": "2026-10-02T12:33:54Z",
       "appearances": 1
     }
   ]

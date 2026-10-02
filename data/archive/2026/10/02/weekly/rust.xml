@@ -4,15 +4,31 @@
     <title>GitHub Trending — weekly — rust</title>
     <link>https://github.com/trending/rust?since=weekly</link>
     <description>GitHub Trending — weekly — rust</description>
-    <lastBuildDate>Fri, 02 Oct 2026 05:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:33:38 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-10-02</ght:date>
     <ght:period>weekly</ght:period>
     <ght:language>rust</ght:language>
-    <ght:updatedAt>2026-10-02T05:35:50Z</ght:updatedAt>
+    <ght:updatedAt>2026-10-02T12:33:38Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
+    <item>
+      <title>t8y2/dbx</title>
+      <link>https://github.com/t8y2/dbx</link>
+      <description>25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。</description>
+      <guid isPermaLink="true">https://github.com/t8y2/dbx</guid>
+      <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>23831</ght:stars>
+      <ght:forks>2186</ght:forks>
+      <ght:starsInPeriod>3067</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
     <item>
       <title>timhartmann7/omnyssh</title>
       <link>https://github.com/timhartmann7/omnyssh</link>
@@ -20,14 +36,14 @@
       <guid isPermaLink="true">https://github.com/timhartmann7/omnyssh</guid>
       <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1107</ght:stars>
+      <ght:stars>1112</ght:stars>
       <ght:forks>63</ght:forks>
       <ght:starsInPeriod>353</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
-      <ght:latestRank>1</ght:latestRank>
+      <ght:latestRank>2</ght:latestRank>
       <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>hydra-db/hydradb</title>
@@ -36,62 +52,14 @@
       <guid isPermaLink="true">https://github.com/hydra-db/hydradb</guid>
       <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>13108</ght:stars>
-      <ght:forks>5570</ght:forks>
+      <ght:stars>13094</ght:stars>
+      <ght:forks>5556</ght:forks>
       <ght:starsInPeriod>7506</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
-      <ght:latestRank>2</ght:latestRank>
-      <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>t8y2/dbx</title>
-      <link>https://github.com/t8y2/dbx</link>
-      <description>25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。</description>
-      <guid isPermaLink="true">https://github.com/t8y2/dbx</guid>
-      <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>23775</ght:stars>
-      <ght:forks>2180</ght:forks>
-      <ght:starsInPeriod>3067</ght:starsInPeriod>
-      <ght:bestRank>3</ght:bestRank>
-      <ght:latestRank>3</ght:latestRank>
-      <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>tokio-rs/topcoat</title>
-      <link>https://github.com/tokio-rs/topcoat</link>
-      <description>A batteries-included framework for building web apps</description>
-      <guid isPermaLink="true">https://github.com/tokio-rs/topcoat</guid>
-      <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>5844</ght:stars>
-      <ght:forks>197</ght:forks>
-      <ght:starsInPeriod>678</ght:starsInPeriod>
-      <ght:bestRank>4</ght:bestRank>
       <ght:latestRank>4</ght:latestRank>
       <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>Pumpkin-MC/Pumpkin</title>
-      <link>https://github.com/Pumpkin-MC/Pumpkin</link>
-      <description>Empowering everyone to host fast and efficient Minecraft servers</description>
-      <guid isPermaLink="true">https://github.com/Pumpkin-MC/Pumpkin</guid>
-      <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>11840</ght:stars>
-      <ght:forks>857</ght:forks>
-      <ght:starsInPeriod>487</ght:starsInPeriod>
-      <ght:bestRank>5</ght:bestRank>
-      <ght:latestRank>5</ght:latestRank>
-      <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>longbridge/gpui-kit</title>
@@ -100,14 +68,46 @@
       <guid isPermaLink="true">https://github.com/longbridge/gpui-kit</guid>
       <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>15557</ght:stars>
-      <ght:forks>960</ght:forks>
+      <ght:stars>15604</ght:stars>
+      <ght:forks>966</ght:forks>
       <ght:starsInPeriod>740</ght:starsInPeriod>
-      <ght:bestRank>6</ght:bestRank>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>tokio-rs/topcoat</title>
+      <link>https://github.com/tokio-rs/topcoat</link>
+      <description>A batteries-included framework for building web apps</description>
+      <guid isPermaLink="true">https://github.com/tokio-rs/topcoat</guid>
+      <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>5851</ght:stars>
+      <ght:forks>198</ght:forks>
+      <ght:starsInPeriod>678</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>Pumpkin-MC/Pumpkin</title>
+      <link>https://github.com/Pumpkin-MC/Pumpkin</link>
+      <description>Empowering everyone to host fast and efficient Minecraft servers</description>
+      <guid isPermaLink="true">https://github.com/Pumpkin-MC/Pumpkin</guid>
+      <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>11851</ght:stars>
+      <ght:forks>861</ght:forks>
+      <ght:starsInPeriod>487</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
       <ght:latestRank>6</ght:latestRank>
       <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>juspay/hyperswitch</title>
@@ -117,13 +117,13 @@
       <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>45273</ght:stars>
-      <ght:forks>6423</ght:forks>
+      <ght:forks>6422</ght:forks>
       <ght:starsInPeriod>1456</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
       <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>block/buzz</title>
@@ -132,14 +132,14 @@
       <guid isPermaLink="true">https://github.com/block/buzz</guid>
       <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>35406</ght:stars>
-      <ght:forks>4666</ght:forks>
+      <ght:stars>35413</ght:stars>
+      <ght:forks>4669</ght:forks>
       <ght:starsInPeriod>1198</ght:starsInPeriod>
       <ght:bestRank>8</ght:bestRank>
-      <ght:latestRank>8</ght:latestRank>
+      <ght:latestRank>11</ght:latestRank>
       <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>pnpm/pnpm</title>
@@ -148,13 +148,29 @@
       <guid isPermaLink="true">https://github.com/pnpm/pnpm</guid>
       <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>36726</ght:stars>
-      <ght:forks>1900</ght:forks>
+      <ght:stars>36728</ght:stars>
+      <ght:forks>1899</ght:forks>
       <ght:starsInPeriod>113</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>trycua/cua</title>
+      <link>https://github.com/trycua/cua</link>
+      <description>Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.</description>
+      <guid isPermaLink="true">https://github.com/trycua/cua</guid>
+      <pubDate>Fri, 02 Oct 2026 12:33:38 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>27748</ght:stars>
+      <ght:forks>1952</ght:forks>
+      <ght:starsInPeriod>1453</ght:starsInPeriod>
       <ght:bestRank>9</ght:bestRank>
       <ght:latestRank>9</ght:latestRank>
-      <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-02T12:33:38Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -164,14 +180,14 @@
       <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
       <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>14111</ght:stars>
-      <ght:forks>1634</ght:forks>
+      <ght:stars>14238</ght:stars>
+      <ght:forks>1644</ght:forks>
       <ght:starsInPeriod>5083</ght:starsInPeriod>
       <ght:bestRank>10</ght:bestRank>
       <ght:latestRank>10</ght:latestRank>
       <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>clash-verge-rev/clash-verge-rev</title>
@@ -180,30 +196,14 @@
       <guid isPermaLink="true">https://github.com/clash-verge-rev/clash-verge-rev</guid>
       <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>148742</ght:stars>
-      <ght:forks>10679</ght:forks>
+      <ght:stars>148797</ght:stars>
+      <ght:forks>10680</ght:forks>
       <ght:starsInPeriod>1725</ght:starsInPeriod>
       <ght:bestRank>11</ght:bestRank>
-      <ght:latestRank>11</ght:latestRank>
+      <ght:latestRank>17</ght:latestRank>
       <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>trailofbits/coop</title>
-      <link>https://github.com/trailofbits/coop</link>
-      <description>Isolated VM environment for running Claude Code and Codex</description>
-      <guid isPermaLink="true">https://github.com/trailofbits/coop</guid>
-      <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>741</ght:stars>
-      <ght:forks>38</ght:forks>
-      <ght:starsInPeriod>488</ght:starsInPeriod>
-      <ght:bestRank>12</ght:bestRank>
-      <ght:latestRank>12</ght:latestRank>
-      <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>JayWebtech/autoshorts</title>
@@ -212,14 +212,30 @@
       <guid isPermaLink="true">https://github.com/JayWebtech/autoshorts</guid>
       <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1088</ght:stars>
-      <ght:forks>211</ght:forks>
+      <ght:stars>1101</ght:stars>
+      <ght:forks>212</ght:forks>
       <ght:starsInPeriod>217</ght:starsInPeriod>
-      <ght:bestRank>13</ght:bestRank>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>trailofbits/coop</title>
+      <link>https://github.com/trailofbits/coop</link>
+      <description>Isolated VM environment for running Claude Code and Codex</description>
+      <guid isPermaLink="true">https://github.com/trailofbits/coop</guid>
+      <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>744</ght:stars>
+      <ght:forks>38</ght:forks>
+      <ght:starsInPeriod>488</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
       <ght:latestRank>13</ght:latestRank>
       <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>pydantic/monty</title>
@@ -228,14 +244,14 @@
       <guid isPermaLink="true">https://github.com/pydantic/monty</guid>
       <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>8513</ght:stars>
-      <ght:forks>440</ght:forks>
+      <ght:stars>8516</ght:stars>
+      <ght:forks>442</ght:forks>
       <ght:starsInPeriod>240</ght:starsInPeriod>
       <ght:bestRank>14</ght:bestRank>
       <ght:latestRank>14</ght:latestRank>
       <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>pacifio/atlas</title>
@@ -244,14 +260,30 @@
       <guid isPermaLink="true">https://github.com/pacifio/atlas</guid>
       <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>8656</ght:stars>
-      <ght:forks>341</ght:forks>
+      <ght:stars>8734</ght:stars>
+      <ght:forks>343</ght:forks>
       <ght:starsInPeriod>2526</ght:starsInPeriod>
       <ght:bestRank>15</ght:bestRank>
       <ght:latestRank>15</ght:latestRank>
       <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>vectordotdev/vector</title>
+      <link>https://github.com/vectordotdev/vector</link>
+      <description>A high-performance observability data pipeline.</description>
+      <guid isPermaLink="true">https://github.com/vectordotdev/vector</guid>
+      <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>22660</ght:stars>
+      <ght:forks>2305</ght:forks>
+      <ght:starsInPeriod>54</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>zenbu-labs/terminal-browser</title>
@@ -270,35 +302,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>vectordotdev/vector</title>
-      <link>https://github.com/vectordotdev/vector</link>
-      <description>A high-performance observability data pipeline.</description>
-      <guid isPermaLink="true">https://github.com/vectordotdev/vector</guid>
-      <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>22657</ght:stars>
-      <ght:forks>2304</ght:forks>
-      <ght:starsInPeriod>54</ght:starsInPeriod>
-      <ght:bestRank>17</ght:bestRank>
-      <ght:latestRank>17</ght:latestRank>
-      <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
       <title>zeronsh/zeron</title>
       <link>https://github.com/zeronsh/zeron</link>
       <description>A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.</description>
       <guid isPermaLink="true">https://github.com/zeronsh/zeron</guid>
       <pubDate>Fri, 02 Oct 2026 05:35:50 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>2700</ght:stars>
-      <ght:forks>251</ght:forks>
+      <ght:stars>2748</ght:stars>
+      <ght:forks>257</ght:forks>
       <ght:starsInPeriod>335</ght:starsInPeriod>
       <ght:bestRank>18</ght:bestRank>
-      <ght:latestRank>18</ght:latestRank>
+      <ght:latestRank>19</ght:latestRank>
       <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>magnitudedev/magnitude</title>
+      <link>https://github.com/magnitudedev/magnitude</link>
+      <description>Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.</description>
+      <guid isPermaLink="true">https://github.com/magnitudedev/magnitude</guid>
+      <pubDate>Fri, 02 Oct 2026 12:33:38 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>6237</ght:stars>
+      <ght:forks>421</ght:forks>
+      <ght:starsInPeriod>1182</ght:starsInPeriod>
+      <ght:bestRank>18</ght:bestRank>
+      <ght:latestRank>18</ght:latestRank>
+      <ght:firstSeenAt>2026-10-02T12:33:38Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -331,6 +363,54 @@
       <ght:latestRank>20</ght:latestRank>
       <ght:firstSeenAt>2026-10-02T05:35:50Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-02T05:35:50Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>rust-lang/rust</title>
+      <link>https://github.com/rust-lang/rust</link>
+      <description>Empowering everyone to build reliable and efficient software.</description>
+      <guid isPermaLink="true">https://github.com/rust-lang/rust</guid>
+      <pubDate>Fri, 02 Oct 2026 12:33:38 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>119398</ght:stars>
+      <ght:forks>17278</ght:forks>
+      <ght:starsInPeriod>342</ght:starsInPeriod>
+      <ght:bestRank>20</ght:bestRank>
+      <ght:latestRank>20</ght:latestRank>
+      <ght:firstSeenAt>2026-10-02T12:33:38Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>touchHLE/touchHLE</title>
+      <link>https://github.com/touchHLE/touchHLE</link>
+      <description>High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE</description>
+      <guid isPermaLink="true">https://github.com/touchHLE/touchHLE</guid>
+      <pubDate>Fri, 02 Oct 2026 12:33:38 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>3955</ght:stars>
+      <ght:forks>340</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
+      <ght:bestRank>21</ght:bestRank>
+      <ght:latestRank>21</ght:latestRank>
+      <ght:firstSeenAt>2026-10-02T12:33:38Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>oven-sh/bun</title>
+      <link>https://github.com/oven-sh/bun</link>
+      <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
+      <guid isPermaLink="true">https://github.com/oven-sh/bun</guid>
+      <pubDate>Fri, 02 Oct 2026 12:33:38 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>96100</ght:stars>
+      <ght:forks>5084</ght:forks>
+      <ght:starsInPeriod>119</ght:starsInPeriod>
+      <ght:bestRank>22</ght:bestRank>
+      <ght:latestRank>22</ght:latestRank>
+      <ght:firstSeenAt>2026-10-02T12:33:38Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-02T12:33:38Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>

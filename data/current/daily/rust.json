@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-02T05:35:47Z",
+  "observedAt": "2026-10-02T12:33:29Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,179 +14,159 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 14111,
-      "forks": 1634,
-      "starsInPeriod": 2456
+      "stars": 14240,
+      "forks": 1644,
+      "starsInPeriod": 584
     },
     {
       "rank": 2,
-      "fullName": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "programmingLanguage": "Rust",
-      "stars": 23775,
-      "forks": 2180,
-      "starsInPeriod": 739
-    },
-    {
-      "rank": 3,
-      "fullName": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "programmingLanguage": "Rust",
-      "stars": 127562,
-      "forks": 19957,
-      "starsInPeriod": 157
-    },
-    {
-      "rank": 4,
       "fullName": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
       "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
       "programmingLanguage": "Rust",
-      "stars": 6189,
-      "forks": 414,
+      "stars": 6237,
+      "forks": 421,
       "starsInPeriod": 538
     },
     {
-      "rank": 5,
-      "fullName": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers",
+      "rank": 3,
+      "fullName": "zerx-lab/FluxDown",
+      "url": "https://github.com/zerx-lab/FluxDown",
+      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
       "programmingLanguage": "Rust",
-      "stars": 11840,
-      "forks": 857,
-      "starsInPeriod": 75
+      "stars": 3351,
+      "forks": 177,
+      "starsInPeriod": 33
     },
     {
-      "rank": 6,
-      "fullName": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "programmingLanguage": "Rust",
-      "stars": 21466,
-      "forks": 2367,
-      "starsInPeriod": 51
-    },
-    {
-      "rank": 7,
-      "fullName": "dmtrKovalenko/fframes",
-      "url": "https://github.com/dmtrKovalenko/fframes",
-      "description": "programmatic video rendering framework that is actually fast",
-      "programmingLanguage": "Rust",
-      "stars": 1825,
-      "forks": 37,
-      "starsInPeriod": 357
-    },
-    {
-      "rank": 8,
-      "fullName": "helix-editor/helix",
-      "url": "https://github.com/helix-editor/helix",
-      "description": "A post-modern modal text editor.",
-      "programmingLanguage": "Rust",
-      "stars": 46427,
-      "forks": 3803,
-      "starsInPeriod": 21
-    },
-    {
-      "rank": 9,
-      "fullName": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
-      "programmingLanguage": "Rust",
-      "stars": 40434,
-      "forks": 3995,
-      "starsInPeriod": 219
-    },
-    {
-      "rank": 10,
-      "fullName": "ai-dynamo/dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "programmingLanguage": "Rust",
-      "stars": 8205,
-      "forks": 1649,
-      "starsInPeriod": 13
-    },
-    {
-      "rank": 11,
-      "fullName": "JayWebtech/autoshorts",
-      "url": "https://github.com/JayWebtech/autoshorts",
-      "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
-      "programmingLanguage": "Rust",
-      "stars": 1088,
-      "forks": 211,
-      "starsInPeriod": 34
-    },
-    {
-      "rank": 12,
-      "fullName": "longbridge/gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "programmingLanguage": "Rust",
-      "stars": 15557,
-      "forks": 960,
-      "starsInPeriod": 202
-    },
-    {
-      "rank": 13,
-      "fullName": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "programmingLanguage": "Rust",
-      "stars": 91181,
-      "forks": 10867,
-      "starsInPeriod": 61
-    },
-    {
-      "rank": 14,
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "programmingLanguage": "Rust",
-      "stars": 95901,
-      "forks": 12657,
-      "starsInPeriod": 156
-    },
-    {
-      "rank": 15,
-      "fullName": "firecracker-microvm/firecracker",
-      "url": "https://github.com/firecracker-microvm/firecracker",
-      "description": "Secure and fast microVMs for serverless computing.",
-      "programmingLanguage": "Rust",
-      "stars": 37106,
-      "forks": 2657,
-      "starsInPeriod": 28
-    },
-    {
-      "rank": 16,
-      "fullName": "EasyTier/EasyTier",
-      "url": "https://github.com/EasyTier/EasyTier",
-      "description": "A simple, decentralized mesh VPN with WireGuard support.",
-      "programmingLanguage": "Rust",
-      "stars": 13904,
-      "forks": 1416,
-      "starsInPeriod": 9
-    },
-    {
-      "rank": 17,
+      "rank": 4,
       "fullName": "rustdesk/rustdesk",
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 124974,
-      "forks": 19377,
+      "stars": 124992,
+      "forks": 19382,
       "starsInPeriod": 97
     },
     {
-      "rank": 18,
+      "rank": 5,
+      "fullName": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
+      "programmingLanguage": "Rust",
+      "stars": 40449,
+      "forks": 3996,
+      "starsInPeriod": 219
+    },
+    {
+      "rank": 6,
+      "fullName": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "programmingLanguage": "Rust",
+      "stars": 8206,
+      "forks": 1651,
+      "starsInPeriod": 13
+    },
+    {
+      "rank": 7,
       "fullName": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 8631,
+      "stars": 8645,
       "forks": 309,
       "starsInPeriod": 49
+    },
+    {
+      "rank": 8,
+      "fullName": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "programmingLanguage": "Rust",
+      "stars": 15604,
+      "forks": 966,
+      "starsInPeriod": 202
+    },
+    {
+      "rank": 9,
+      "fullName": "touchHLE/touchHLE",
+      "url": "https://github.com/touchHLE/touchHLE",
+      "description": "High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
+      "programmingLanguage": "Rust",
+      "stars": 3955,
+      "forks": 340,
+      "starsInPeriod": 8
+    },
+    {
+      "rank": 10,
+      "fullName": "JayWebtech/autoshorts",
+      "url": "https://github.com/JayWebtech/autoshorts",
+      "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
+      "programmingLanguage": "Rust",
+      "stars": 1101,
+      "forks": 212,
+      "starsInPeriod": 34
+    },
+    {
+      "rank": 11,
+      "fullName": "FalkorDB/FalkorDB",
+      "url": "https://github.com/FalkorDB/FalkorDB",
+      "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+      "programmingLanguage": "Rust",
+      "stars": 6570,
+      "forks": 484,
+      "starsInPeriod": 200
+    },
+    {
+      "rank": 12,
+      "fullName": "agentgateway/agentgateway",
+      "url": "https://github.com/agentgateway/agentgateway",
+      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+      "programmingLanguage": "Rust",
+      "stars": 5133,
+      "forks": 905,
+      "starsInPeriod": 17
+    },
+    {
+      "rank": 13,
+      "fullName": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "programmingLanguage": "Rust",
+      "stars": 21482,
+      "forks": 2371,
+      "starsInPeriod": 51
+    },
+    {
+      "rank": 14,
+      "fullName": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "programmingLanguage": "Rust",
+      "stars": 65345,
+      "forks": 5605,
+      "starsInPeriod": 34
+    },
+    {
+      "rank": 15,
+      "fullName": "dmtrKovalenko/fframes",
+      "url": "https://github.com/dmtrKovalenko/fframes",
+      "description": "programmatic video rendering framework that is actually fast",
+      "programmingLanguage": "Rust",
+      "stars": 1846,
+      "forks": 40,
+      "starsInPeriod": 357
+    },
+    {
+      "rank": 16,
+      "fullName": "HakanSeven12/OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "programmingLanguage": "Rust",
+      "stars": 2396,
+      "forks": 251,
+      "starsInPeriod": 19
     }
   ]
 }
