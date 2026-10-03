@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-02T22:13:34Z",
+  "observedAt": "2026-10-03T05:17:38Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 14401,
-      "forks": 1658,
-      "starsInPeriod": 584
+      "stars": 14491,
+      "forks": 1666,
+      "starsInPeriod": 594
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
       "programmingLanguage": "Rust",
-      "stars": 6274,
+      "stars": 6296,
       "forks": 425,
-      "starsInPeriod": 245
+      "starsInPeriod": 249
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/zerx-lab/FluxDown",
       "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
       "programmingLanguage": "Rust",
-      "stars": 3363,
-      "forks": 176,
-      "starsInPeriod": 33
+      "stars": 3384,
+      "forks": 177,
+      "starsInPeriod": 30
     },
     {
       "rank": 4,
@@ -44,7 +44,7 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 125019,
+      "stars": 125034,
       "forks": 19387,
       "starsInPeriod": 78
     },
@@ -54,9 +54,9 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
       "programmingLanguage": "Rust",
-      "stars": 40455,
-      "forks": 3995,
-      "starsInPeriod": 77
+      "stars": 40465,
+      "forks": 3996,
+      "starsInPeriod": 78
     },
     {
       "rank": 6,
@@ -64,8 +64,8 @@
       "url": "https://github.com/ai-dynamo/dynamo",
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "programmingLanguage": "Rust",
-      "stars": 8208,
-      "forks": 1653,
+      "stars": 8209,
+      "forks": 1656,
       "starsInPeriod": 7
     },
     {
@@ -74,9 +74,9 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 8671,
-      "forks": 309,
-      "starsInPeriod": 64
+      "stars": 8690,
+      "forks": 310,
+      "starsInPeriod": 63
     },
     {
       "rank": 8,
@@ -84,8 +84,8 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 15690,
-      "forks": 970,
+      "stars": 15731,
+      "forks": 971,
       "starsInPeriod": 198
     },
     {
@@ -94,9 +94,9 @@
       "url": "https://github.com/touchHLE/touchHLE",
       "description": "High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
       "programmingLanguage": "Rust",
-      "stars": 3959,
-      "forks": 340,
-      "starsInPeriod": 8
+      "stars": 3965,
+      "forks": 342,
+      "starsInPeriod": 7
     },
     {
       "rank": 10,
@@ -104,7 +104,7 @@
       "url": "https://github.com/JayWebtech/autoshorts",
       "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
       "programmingLanguage": "Rust",
-      "stars": 1121,
+      "stars": 1127,
       "forks": 213,
       "starsInPeriod": 64
     },
@@ -114,9 +114,9 @@
       "url": "https://github.com/FalkorDB/FalkorDB",
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "programmingLanguage": "Rust",
-      "stars": 6646,
-      "forks": 488,
-      "starsInPeriod": 200
+      "stars": 6662,
+      "forks": 489,
+      "starsInPeriod": 201
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/agentgateway/agentgateway",
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "programmingLanguage": "Rust",
-      "stars": 5144,
-      "forks": 907,
-      "starsInPeriod": 17
+      "stars": 5146,
+      "forks": 909,
+      "starsInPeriod": 16
     },
     {
       "rank": 13,
@@ -134,8 +134,8 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "programmingLanguage": "Rust",
-      "stars": 21490,
-      "forks": 2367,
+      "stars": 21494,
+      "forks": 2369,
       "starsInPeriod": 47
     },
     {
@@ -144,28 +144,18 @@
       "url": "https://github.com/warpdotdev/warp",
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "programmingLanguage": "Rust",
-      "stars": 65345,
-      "forks": 5605,
+      "stars": 65347,
+      "forks": 5608,
       "starsInPeriod": 34
     },
     {
       "rank": 15,
-      "fullName": "dmtrKovalenko/fframes",
-      "url": "https://github.com/dmtrKovalenko/fframes",
-      "description": "programmatic video rendering framework that is actually fast",
-      "programmingLanguage": "Rust",
-      "stars": 1868,
-      "forks": 40,
-      "starsInPeriod": 88
-    },
-    {
-      "rank": 16,
       "fullName": "HakanSeven12/OpenCADStudio",
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 2404,
-      "forks": 252,
+      "stars": 2406,
+      "forks": 253,
       "starsInPeriod": 19
     }
   ]

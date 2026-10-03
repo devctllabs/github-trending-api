@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-02T22:13:48Z",
+  "observedAt": "2026-10-03T05:17:52Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
       "programmingLanguage": "Go",
-      "stars": 12897,
-      "forks": 639,
-      "starsInPeriod": 2919
+      "stars": 12933,
+      "forks": 642,
+      "starsInPeriod": 1783
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "programmingLanguage": "Go",
-      "stars": 8285,
+      "stars": 8286,
       "forks": 607,
-      "starsInPeriod": 791
+      "starsInPeriod": 713
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/netdata/netdata",
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "programmingLanguage": "Go",
-      "stars": 80778,
+      "stars": 80782,
       "forks": 6645,
-      "starsInPeriod": 150
+      "starsInPeriod": 155
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/Gentleman-Programming/engram",
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "programmingLanguage": "Go",
-      "stars": 7001,
+      "stars": 7006,
       "forks": 722,
-      "starsInPeriod": 185
+      "starsInPeriod": 174
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/cockroachdb/cockroach",
       "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
       "programmingLanguage": "Go",
-      "stars": 32538,
+      "stars": 32539,
       "forks": 4123,
-      "starsInPeriod": 54
+      "starsInPeriod": 48
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "programmingLanguage": "Go",
-      "stars": 66342,
-      "forks": 10884,
-      "starsInPeriod": 160
+      "stars": 66344,
+      "forks": 10885,
+      "starsInPeriod": 154
     },
     {
       "rank": 7,
@@ -75,8 +75,8 @@
       "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
       "programmingLanguage": "Go",
       "stars": 24274,
-      "forks": 1832,
-      "starsInPeriod": 33
+      "forks": 1833,
+      "starsInPeriod": 32
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/daeuniverse/dae",
       "description": "eBPF-based Linux high-performance transparent proxy solution.",
       "programmingLanguage": "Go",
-      "stars": 6279,
+      "stars": 6281,
       "forks": 411,
-      "starsInPeriod": 49
+      "starsInPeriod": 50
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 128166,
-      "forks": 45805,
-      "starsInPeriod": 249
+      "stars": 128168,
+      "forks": 45854,
+      "starsInPeriod": 241
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/Billionmail/BillionMail",
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "programmingLanguage": "Go",
-      "stars": 15818,
+      "stars": 15820,
       "forks": 1735,
-      "starsInPeriod": 177
+      "starsInPeriod": 191
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
       "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
       "programmingLanguage": "Go",
-      "stars": 7663,
-      "forks": 1115,
-      "starsInPeriod": 279
+      "stars": 7680,
+      "forks": 1116,
+      "starsInPeriod": 280
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139125,
-      "forks": 21059,
-      "starsInPeriod": 211
+      "stars": 139133,
+      "forks": 21109,
+      "starsInPeriod": 201
     },
     {
       "rank": 13,
@@ -136,7 +136,7 @@
       "programmingLanguage": "Go",
       "stars": 40268,
       "forks": 2331,
-      "starsInPeriod": 49
+      "starsInPeriod": 47
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/TecharoHQ/anubis",
       "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
       "programmingLanguage": "Go",
-      "stars": 23000,
+      "stars": 23004,
       "forks": 744,
-      "starsInPeriod": 323
+      "starsInPeriod": 329
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/AminMGMT/BackPack",
       "description": "High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups",
       "programmingLanguage": "Go",
-      "stars": 427,
+      "stars": 429,
       "forks": 100,
-      "starsInPeriod": 60
+      "starsInPeriod": 58
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 28243,
+      "stars": 28248,
       "forks": 2619,
-      "starsInPeriod": 209
+      "starsInPeriod": 207
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 6250,
+      "stars": 6252,
       "forks": 985,
-      "starsInPeriod": 146
+      "starsInPeriod": 145
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/github/gh-aw",
       "description": "GitHub Agentic Workflows",
       "programmingLanguage": "Go",
-      "stars": 5335,
+      "stars": 5338,
       "forks": 572,
-      "starsInPeriod": 152
+      "starsInPeriod": 158
     },
     {
       "rank": 19,
@@ -194,9 +194,9 @@
       "url": "https://github.com/charmbracelet/crush",
       "description": "Glamourous agentic coding for all 💘",
       "programmingLanguage": "Go",
-      "stars": 28458,
-      "forks": 2312,
-      "starsInPeriod": 192
+      "stars": 28460,
+      "forks": 2313,
+      "starsInPeriod": 189
     },
     {
       "rank": 20,
@@ -204,9 +204,9 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai",
       "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "programmingLanguage": "Go",
-      "stars": 7498,
-      "forks": 823,
-      "starsInPeriod": 239
+      "stars": 7506,
+      "forks": 824,
+      "starsInPeriod": 218
     },
     {
       "rank": 21,
@@ -214,9 +214,9 @@
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 27595,
+      "stars": 27600,
       "forks": 1876,
-      "starsInPeriod": 194
+      "starsInPeriod": 190
     }
   ]
 }

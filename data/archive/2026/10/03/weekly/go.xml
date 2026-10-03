@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ght="urn:github-trending:v1" version="2.0">
+  <channel>
+    <title>GitHub Trending — weekly — go</title>
+    <link>https://github.com/trending/go?since=weekly</link>
+    <description>GitHub Trending — weekly — go</description>
+    <lastBuildDate>Sat, 03 Oct 2026 05:17:52 GMT</lastBuildDate>
+    <ght:schemaVersion>1</ght:schemaVersion>
+    <ght:kind>daily-rollup</ght:kind>
+    <ght:date>2026-10-03</ght:date>
+    <ght:period>weekly</ght:period>
+    <ght:language>go</ght:language>
+    <ght:updatedAt>2026-10-03T05:17:52Z</ght:updatedAt>
+    <ght:latestStatus>complete</ght:latestStatus>
+    <ght:latestIssues />
+    <item>
+      <title>google/ax</title>
+      <link>https://github.com/google/ax</link>
+      <description>Google's open agentic orchestration runtime</description>
+      <guid isPermaLink="true">https://github.com/google/ax</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>12933</ght:stars>
+      <ght:forks>642</ght:forks>
+      <ght:starsInPeriod>1783</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>openbao/openbao</title>
+      <link>https://github.com/openbao/openbao</link>
+      <description>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</description>
+      <guid isPermaLink="true">https://github.com/openbao/openbao</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>8286</ght:stars>
+      <ght:forks>607</ght:forks>
+      <ght:starsInPeriod>713</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>netdata/netdata</title>
+      <link>https://github.com/netdata/netdata</link>
+      <description>The fastest path to AI-powered full stack observability, even for lean teams.</description>
+      <guid isPermaLink="true">https://github.com/netdata/netdata</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>80782</ght:stars>
+      <ght:forks>6645</ght:forks>
+      <ght:starsInPeriod>155</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Gentleman-Programming/engram</title>
+      <link>https://github.com/Gentleman-Programming/engram</link>
+      <description>Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.</description>
+      <guid isPermaLink="true">https://github.com/Gentleman-Programming/engram</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7006</ght:stars>
+      <ght:forks>722</ght:forks>
+      <ght:starsInPeriod>174</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>cockroachdb/cockroach</title>
+      <link>https://github.com/cockroachdb/cockroach</link>
+      <description>CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.</description>
+      <guid isPermaLink="true">https://github.com/cockroachdb/cockroach</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>32539</ght:stars>
+      <ght:forks>4123</ght:forks>
+      <ght:starsInPeriod>48</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>prometheus/prometheus</title>
+      <link>https://github.com/prometheus/prometheus</link>
+      <description>The Prometheus monitoring system and time series database.</description>
+      <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>66344</ght:stars>
+      <ght:forks>10885</ght:forks>
+      <ght:starsInPeriod>154</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>urfave/cli</title>
+      <link>https://github.com/urfave/cli</link>
+      <description>A declarative, simple, fast, and fun package for building command line tools in Go</description>
+      <guid isPermaLink="true">https://github.com/urfave/cli</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>24274</ght:stars>
+      <ght:forks>1833</ght:forks>
+      <ght:starsInPeriod>32</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>daeuniverse/dae</title>
+      <link>https://github.com/daeuniverse/dae</link>
+      <description>eBPF-based Linux high-performance transparent proxy solution.</description>
+      <guid isPermaLink="true">https://github.com/daeuniverse/dae</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6281</ght:stars>
+      <ght:forks>411</ght:forks>
+      <ght:starsInPeriod>50</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>kubernetes/kubernetes</title>
+      <link>https://github.com/kubernetes/kubernetes</link>
+      <description>Production-Grade Container Scheduling and Management</description>
+      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>128168</ght:stars>
+      <ght:forks>45854</ght:forks>
+      <ght:starsInPeriod>241</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Billionmail/BillionMail</title>
+      <link>https://github.com/Billionmail/BillionMail</link>
+      <description>BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</description>
+      <guid isPermaLink="true">https://github.com/Billionmail/BillionMail</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>15820</ght:stars>
+      <ght:forks>1735</ght:forks>
+      <ght:starsInPeriod>191</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>CarterPerez-dev/Cybersecurity-Projects</title>
+      <link>https://github.com/CarterPerez-dev/Cybersecurity-Projects</link>
+      <description>Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇</description>
+      <guid isPermaLink="true">https://github.com/CarterPerez-dev/Cybersecurity-Projects</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7680</ght:stars>
+      <ght:forks>1116</ght:forks>
+      <ght:starsInPeriod>280</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>golang/go</title>
+      <link>https://github.com/golang/go</link>
+      <description>The Go programming language</description>
+      <guid isPermaLink="true">https://github.com/golang/go</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>139133</ght:stars>
+      <ght:forks>21109</ght:forks>
+      <ght:starsInPeriod>201</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>photoprism/photoprism</title>
+      <link>https://github.com/photoprism/photoprism</link>
+      <description>AI-Powered Photos App 🌈💎✨</description>
+      <guid isPermaLink="true">https://github.com/photoprism/photoprism</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>40268</ght:stars>
+      <ght:forks>2331</ght:forks>
+      <ght:starsInPeriod>47</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>TecharoHQ/anubis</title>
+      <link>https://github.com/TecharoHQ/anubis</link>
+      <description>Weighs the soul of incoming HTTP requests to stop AI crawlers</description>
+      <guid isPermaLink="true">https://github.com/TecharoHQ/anubis</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>23004</ght:stars>
+      <ght:forks>744</ght:forks>
+      <ght:starsInPeriod>329</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>AminMGMT/BackPack</title>
+      <link>https://github.com/AminMGMT/BackPack</link>
+      <description>High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups</description>
+      <guid isPermaLink="true">https://github.com/AminMGMT/BackPack</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>429</ght:stars>
+      <ght:forks>100</ght:forks>
+      <ght:starsInPeriod>58</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>trufflesecurity/trufflehog</title>
+      <link>https://github.com/trufflesecurity/trufflehog</link>
+      <description>Find, verify, and analyze leaked credentials</description>
+      <guid isPermaLink="true">https://github.com/trufflesecurity/trufflehog</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>28248</ght:stars>
+      <ght:forks>2619</ght:forks>
+      <ght:starsInPeriod>207</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>gosom/google-maps-scraper</title>
+      <link>https://github.com/gosom/google-maps-scraper</link>
+      <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
+      <guid isPermaLink="true">https://github.com/gosom/google-maps-scraper</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6252</ght:stars>
+      <ght:forks>985</ght:forks>
+      <ght:starsInPeriod>145</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>github/gh-aw</title>
+      <link>https://github.com/github/gh-aw</link>
+      <description>GitHub Agentic Workflows</description>
+      <guid isPermaLink="true">https://github.com/github/gh-aw</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5338</ght:stars>
+      <ght:forks>572</ght:forks>
+      <ght:starsInPeriod>158</ght:starsInPeriod>
+      <ght:bestRank>18</ght:bestRank>
+      <ght:latestRank>18</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>charmbracelet/crush</title>
+      <link>https://github.com/charmbracelet/crush</link>
+      <description>Glamourous agentic coding for all 💘</description>
+      <guid isPermaLink="true">https://github.com/charmbracelet/crush</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>28460</ght:stars>
+      <ght:forks>2313</ght:forks>
+      <ght:starsInPeriod>189</ght:starsInPeriod>
+      <ght:bestRank>19</ght:bestRank>
+      <ght:latestRank>19</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Gentleman-Programming/gentle-ai</title>
+      <link>https://github.com/Gentleman-Programming/gentle-ai</link>
+      <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
+      <guid isPermaLink="true">https://github.com/Gentleman-Programming/gentle-ai</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7506</ght:stars>
+      <ght:forks>824</ght:forks>
+      <ght:starsInPeriod>218</ght:starsInPeriod>
+      <ght:bestRank>20</ght:bestRank>
+      <ght:latestRank>20</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>gastownhall/beads</title>
+      <link>https://github.com/gastownhall/beads</link>
+      <description>Beads - A memory upgrade for your coding agent</description>
+      <guid isPermaLink="true">https://github.com/gastownhall/beads</guid>
+      <pubDate>Sat, 03 Oct 2026 05:17:52 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>27600</ght:stars>
+      <ght:forks>1876</ght:forks>
+      <ght:starsInPeriod>190</ght:starsInPeriod>
+      <ght:bestRank>21</ght:bestRank>
+      <ght:latestRank>21</ght:latestRank>
+      <ght:firstSeenAt>2026-10-03T05:17:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-03T05:17:52Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+  </channel>
+</rss>
