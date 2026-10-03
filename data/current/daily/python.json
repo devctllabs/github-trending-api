@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-10-03T05:17:29Z",
+  "observedAt": "2026-10-03T11:38:28Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,139 +14,169 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 88912,
-      "forks": 7828,
-      "starsInPeriod": 696
+      "stars": 89339,
+      "forks": 7863,
+      "starsInPeriod": 1683
     },
     {
       "rank": 2,
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "programmingLanguage": "Python",
-      "stars": 20804,
-      "forks": 1724,
-      "starsInPeriod": 39
-    },
-    {
-      "rank": 3,
       "fullName": "getsentry/sentry",
       "url": "https://github.com/getsentry/sentry",
       "description": "Developer-first error tracking and performance monitoring",
       "programmingLanguage": "Python",
-      "stars": 45062,
-      "forks": 4894,
-      "starsInPeriod": 16
+      "stars": 45112,
+      "forks": 4896,
+      "starsInPeriod": 211
+    },
+    {
+      "rank": 3,
+      "fullName": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": null,
+      "programmingLanguage": "Python",
+      "stars": 9271,
+      "forks": 2056,
+      "starsInPeriod": 192
     },
     {
       "rank": 4,
-      "fullName": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
+      "fullName": "meituan-longcat/LongCat-Video",
+      "url": "https://github.com/meituan-longcat/LongCat-Video",
+      "description": null,
       "programmingLanguage": "Python",
-      "stars": 16727,
-      "forks": 2286,
-      "starsInPeriod": 543
+      "stars": 8595,
+      "forks": 1517,
+      "starsInPeriod": 43
     },
     {
       "rank": 5,
-      "fullName": "tile-ai/tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "fullName": "datalab-to/chandra",
+      "url": "https://github.com/datalab-to/chandra",
+      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
       "programmingLanguage": "Python",
-      "stars": 8258,
-      "forks": 831,
-      "starsInPeriod": 244
+      "stars": 12390,
+      "forks": 1250,
+      "starsInPeriod": 20
     },
     {
       "rank": 6,
-      "fullName": "Friedrich-M/UniMate",
-      "url": "https://github.com/Friedrich-M/UniMate",
-      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "fullName": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "programmingLanguage": "Python",
-      "stars": 1216,
-      "forks": 107,
-      "starsInPeriod": 248
+      "stars": 10938,
+      "forks": 1158,
+      "starsInPeriod": 151
     },
     {
       "rank": 7,
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "fullName": "kaifcodec/user-scanner",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+ username) for security research, investigations, and digital footprinting.",
       "programmingLanguage": "Python",
-      "stars": 19143,
-      "forks": 1665,
-      "starsInPeriod": 168
+      "stars": 5185,
+      "forks": 525,
+      "starsInPeriod": 70
     },
     {
       "rank": 8,
+      "fullName": "agno-agi/agno",
+      "url": "https://github.com/agno-agi/agno",
+      "description": "Build, run, and manage agent platforms.",
+      "programmingLanguage": "Python",
+      "stars": 42525,
+      "forks": 6078,
+      "starsInPeriod": 41
+    },
+    {
+      "rank": 9,
       "fullName": "Tracer-Cloud/opensre",
       "url": "https://github.com/Tracer-Cloud/opensre",
       "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
       "programmingLanguage": "Python",
-      "stars": 11349,
-      "forks": 1661,
-      "starsInPeriod": 24
-    },
-    {
-      "rank": 9,
-      "fullName": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "programmingLanguage": "Python",
-      "stars": 52994,
-      "forks": 3051,
-      "starsInPeriod": 276
+      "stars": 11355,
+      "forks": 1662,
+      "starsInPeriod": 27
     },
     {
       "rank": 10,
-      "fullName": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "fullName": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "programmingLanguage": "Python",
-      "stars": 76379,
-      "forks": 8923,
-      "starsInPeriod": 81
+      "stars": 66265,
+      "forks": 7262,
+      "starsInPeriod": 238
     },
     {
       "rank": 11,
-      "fullName": "MakazhanAlpamys/Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "fullName": "modelcontextprotocol/python-sdk",
+      "url": "https://github.com/modelcontextprotocol/python-sdk",
+      "description": "The official Python SDK for Model Context Protocol servers and clients",
       "programmingLanguage": "Python",
-      "stars": 8037,
-      "forks": 1288,
-      "starsInPeriod": 90
+      "stars": 24468,
+      "forks": 4006,
+      "starsInPeriod": 20
     },
     {
       "rank": 12,
-      "fullName": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "fullName": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
       "programmingLanguage": "Python",
-      "stars": 40114,
-      "forks": 3467,
-      "starsInPeriod": 40
+      "stars": 20866,
+      "forks": 1726,
+      "starsInPeriod": 290
     },
     {
       "rank": 13,
-      "fullName": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
+      "fullName": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "programmingLanguage": "Python",
-      "stars": 54603,
-      "forks": 6141,
-      "starsInPeriod": 36
+      "stars": 62563,
+      "forks": 7986,
+      "starsInPeriod": 328
     },
     {
       "rank": 14,
-      "fullName": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "fullName": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
       "programmingLanguage": "Python",
-      "stars": 85298,
-      "forks": 8737,
-      "starsInPeriod": 241
+      "stars": 32978,
+      "forks": 3694,
+      "starsInPeriod": 233
+    },
+    {
+      "rank": 15,
+      "fullName": "sqlfluff/sqlfluff",
+      "url": "https://github.com/sqlfluff/sqlfluff",
+      "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
+      "programmingLanguage": "Python",
+      "stars": 9912,
+      "forks": 1184,
+      "starsInPeriod": 6
+    },
+    {
+      "rank": 16,
+      "fullName": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "programmingLanguage": "Python",
+      "stars": 18302,
+      "forks": 2174,
+      "starsInPeriod": 6
+    },
+    {
+      "rank": 17,
+      "fullName": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "programmingLanguage": "Python",
+      "stars": 15172,
+      "forks": 1433,
+      "starsInPeriod": 34
     }
   ]
 }

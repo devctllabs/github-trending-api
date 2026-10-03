@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-03T05:17:49Z",
+  "observedAt": "2026-10-03T11:38:47Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,229 +14,219 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 109180,
-      "forks": 6319,
-      "starsInPeriod": 209
+      "stars": 109298,
+      "forks": 6322,
+      "starsInPeriod": 505
     },
     {
       "rank": 2,
-      "fullName": "CarterPerez-dev/Cybersecurity-Projects",
-      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
-      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
+      "fullName": "golangci/golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
       "programmingLanguage": "Go",
-      "stars": 7680,
-      "forks": 1116,
-      "starsInPeriod": 77
+      "stars": 19408,
+      "forks": 1632,
+      "starsInPeriod": 3
     },
     {
       "rank": 3,
+      "fullName": "router-for-me/CLIProxyAPI",
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+      "programmingLanguage": "Go",
+      "stars": 53956,
+      "forks": 8169,
+      "starsInPeriod": 168
+    },
+    {
+      "rank": 4,
+      "fullName": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "programmingLanguage": "Go",
+      "stars": 49819,
+      "forks": 10639,
+      "starsInPeriod": 11
+    },
+    {
+      "rank": 5,
       "fullName": "lharries/whatsapp-mcp",
       "url": "https://github.com/lharries/whatsapp-mcp",
       "description": "WhatsApp MCP server",
       "programmingLanguage": "Go",
-      "stars": 6378,
-      "forks": 1354,
+      "stars": 6383,
+      "forks": 1355,
       "starsInPeriod": 23
     },
     {
-      "rank": 4,
-      "fullName": "charmbracelet/bubbletea",
-      "url": "https://github.com/charmbracelet/bubbletea",
-      "description": "A powerful little TUI framework 🏗",
-      "programmingLanguage": "Go",
-      "stars": 45253,
-      "forks": 2889,
-      "starsInPeriod": 14
-    },
-    {
-      "rank": 5,
-      "fullName": "zitadel/zitadel",
-      "url": "https://github.com/zitadel/zitadel",
-      "description": "ZITADEL - Identity infrastructure, simplified for you.",
-      "programmingLanguage": "Go",
-      "stars": 15164,
-      "forks": 1343,
-      "starsInPeriod": 11
-    },
-    {
       "rank": 6,
-      "fullName": "fluxcd/flux2",
-      "url": "https://github.com/fluxcd/flux2",
-      "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+      "fullName": "Autumn-27/ARTEX",
+      "url": "https://github.com/Autumn-27/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "programmingLanguage": "Go",
-      "stars": 8435,
-      "forks": 792,
-      "starsInPeriod": 0
+      "stars": 1436,
+      "forks": 258,
+      "starsInPeriod": 78
     },
     {
       "rank": 7,
-      "fullName": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "fullName": "CarterPerez-dev/Cybersecurity-Projects",
+      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
+      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
       "programmingLanguage": "Go",
-      "stars": 8032,
-      "forks": 345,
-      "starsInPeriod": 93
+      "stars": 7701,
+      "forks": 1120,
+      "starsInPeriod": 77
     },
     {
       "rank": 8,
-      "fullName": "open-telemetry/opentelemetry-collector",
-      "url": "https://github.com/open-telemetry/opentelemetry-collector",
-      "description": "OpenTelemetry Collector",
+      "fullName": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
       "programmingLanguage": "Go",
-      "stars": 7634,
-      "forks": 2277,
-      "starsInPeriod": 7
+      "stars": 186692,
+      "forks": 13597,
+      "starsInPeriod": 165
     },
     {
       "rank": 9,
-      "fullName": "caddyserver/caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "fullName": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
       "programmingLanguage": "Go",
-      "stars": 76244,
-      "forks": 5026,
-      "starsInPeriod": 25
+      "stars": 6570,
+      "forks": 1488,
+      "starsInPeriod": 0
     },
     {
       "rank": 10,
-      "fullName": "argoproj/argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
-      "programmingLanguage": "Go",
-      "stars": 24319,
-      "forks": 7904,
-      "starsInPeriod": 13
-    },
-    {
-      "rank": 11,
       "fullName": "aquasecurity/trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38203,
+      "stars": 38207,
       "forks": 723,
       "starsInPeriod": 22
     },
     {
-      "rank": 12,
-      "fullName": "pulumi/pulumi",
-      "url": "https://github.com/pulumi/pulumi",
-      "description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+      "rank": 11,
+      "fullName": "weave-os/router",
+      "url": "https://github.com/weave-os/router",
+      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "programmingLanguage": "Go",
-      "stars": 25763,
-      "forks": 1441,
-      "starsInPeriod": 10
+      "stars": 5553,
+      "forks": 149,
+      "starsInPeriod": 33
+    },
+    {
+      "rank": 12,
+      "fullName": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "programmingLanguage": "Go",
+      "stars": 111319,
+      "forks": 15537,
+      "starsInPeriod": 17
     },
     {
       "rank": 13,
-      "fullName": "sysadminsmedia/homebox",
-      "url": "https://github.com/sysadminsmedia/homebox",
-      "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+      "fullName": "Armur-Ai/Pentest-Swarm-AI",
+      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "programmingLanguage": "Go",
-      "stars": 7435,
-      "forks": 575,
-      "starsInPeriod": 12
+      "stars": 2709,
+      "forks": 495,
+      "starsInPeriod": 29
     },
     {
       "rank": 14,
-      "fullName": "kubernetes-sigs/kueue",
-      "url": "https://github.com/kubernetes-sigs/kueue",
-      "description": "🚦 Kubernetes-native Job Queueing and Scheduling",
+      "fullName": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 3030,
-      "forks": 823,
-      "starsInPeriod": 3
+      "stars": 4171,
+      "forks": 496,
+      "starsInPeriod": 26
     },
     {
       "rank": 15,
-      "fullName": "grafana/gcx",
-      "url": "https://github.com/grafana/gcx",
-      "description": "A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.",
+      "fullName": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
       "programmingLanguage": "Go",
-      "stars": 759,
-      "forks": 56,
-      "starsInPeriod": 2
+      "stars": 33334,
+      "forks": 5076,
+      "starsInPeriod": 19
     },
     {
       "rank": 16,
-      "fullName": "hashicorp/terraform-provider-aws",
-      "url": "https://github.com/hashicorp/terraform-provider-aws",
-      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "fullName": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "programmingLanguage": "Go",
-      "stars": 11106,
-      "forks": 10403,
-      "starsInPeriod": null
+      "stars": 8051,
+      "forks": 348,
+      "starsInPeriod": 93
     },
     {
       "rank": 17,
-      "fullName": "gitleaks/gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
       "programmingLanguage": "Go",
-      "stars": 29626,
-      "forks": 2263,
-      "starsInPeriod": 20
+      "stars": 7705,
+      "forks": 650,
+      "starsInPeriod": 16
     },
     {
       "rank": 18,
-      "fullName": "cli/cli",
-      "url": "https://github.com/cli/cli",
-      "description": "GitHub’s official command line tool",
+      "fullName": "distribution/distribution",
+      "url": "https://github.com/distribution/distribution",
+      "description": "The toolkit to pack, ship, store, and deliver container content",
       "programmingLanguage": "Go",
-      "stars": 46518,
-      "forks": 9115,
-      "starsInPeriod": 24
+      "stars": 10643,
+      "forks": 2797,
+      "starsInPeriod": 4
     },
     {
       "rank": 19,
-      "fullName": "danielmiessler/Fabric",
-      "url": "https://github.com/danielmiessler/Fabric",
-      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+      "fullName": "urfave/cli",
+      "url": "https://github.com/urfave/cli",
+      "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
       "programmingLanguage": "Go",
-      "stars": 44151,
-      "forks": 4293,
-      "starsInPeriod": 9
+      "stars": 24274,
+      "forks": 1833,
+      "starsInPeriod": 2
     },
     {
       "rank": 20,
-      "fullName": "traefik/traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
+      "fullName": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
       "programmingLanguage": "Go",
-      "stars": 65052,
-      "forks": 6221,
-      "starsInPeriod": 14
+      "stars": 3755,
+      "forks": 1500,
+      "starsInPeriod": 0
     },
     {
       "rank": 21,
-      "fullName": "MHSanaei/3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "fullName": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
       "programmingLanguage": "Go",
-      "stars": 47328,
-      "forks": 12006,
-      "starsInPeriod": 52
+      "stars": 4968,
+      "forks": 3971,
+      "starsInPeriod": 2
     },
     {
       "rank": 22,
-      "fullName": "github/gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 5338,
-      "forks": 572,
-      "starsInPeriod": 8
-    },
-    {
-      "rank": 23,
-      "fullName": "tphakala/birdnet-go",
-      "url": "https://github.com/tphakala/birdnet-go",
-      "description": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "programmingLanguage": "Go",
-      "stars": 2234,
-      "forks": 186,
-      "starsInPeriod": 8
+      "stars": 182083,
+      "forks": 18086,
+      "starsInPeriod": 60
     }
   ]
 }

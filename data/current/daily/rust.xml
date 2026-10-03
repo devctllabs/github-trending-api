@@ -4,193 +4,169 @@
     <title>GitHub Trending — daily — rust</title>
     <link>https://github.com/trending/rust</link>
     <description>GitHub Trending — daily — rust</description>
-    <lastBuildDate>Sat, 03 Oct 2026 05:17:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 11:38:37 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-10-03T05:17:38Z</ght:observedAt>
+    <ght:observedAt>2026-10-03T11:38:37Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
-      <title>NVIDIA/OpenShell</title>
-      <link>https://github.com/NVIDIA/OpenShell</link>
-      <description>OpenShell is the safe, private runtime for autonomous AI agents.</description>
-      <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
+      <title>PrimeIntellect-ai/prime-agent</title>
+      <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
+      <description>A self-improving RLM agent for coding workflows and long-running autonomous tasks.</description>
+      <guid isPermaLink="true">https://github.com/PrimeIntellect-ai/prime-agent</guid>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>14491</ght:stars>
-      <ght:forks>1666</ght:forks>
-      <ght:starsInPeriod>594</ght:starsInPeriod>
+      <ght:stars>21501</ght:stars>
+      <ght:forks>2369</ght:forks>
+      <ght:starsInPeriod>47</ght:starsInPeriod>
     </item>
     <item>
-      <title>magnitudedev/magnitude</title>
-      <link>https://github.com/magnitudedev/magnitude</link>
-      <description>Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.</description>
-      <guid isPermaLink="true">https://github.com/magnitudedev/magnitude</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
+      <title>cjpais/Handy</title>
+      <link>https://github.com/cjpais/Handy</link>
+      <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
+      <guid isPermaLink="true">https://github.com/cjpais/Handy</guid>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
       <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>6296</ght:stars>
-      <ght:forks>425</ght:forks>
-      <ght:starsInPeriod>249</ght:starsInPeriod>
+      <ght:stars>32716</ght:stars>
+      <ght:forks>3029</ght:forks>
+      <ght:starsInPeriod>108</ght:starsInPeriod>
     </item>
     <item>
-      <title>zerx-lab/FluxDown</title>
-      <link>https://github.com/zerx-lab/FluxDown</link>
-      <description>Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。</description>
-      <guid isPermaLink="true">https://github.com/zerx-lab/FluxDown</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
+      <title>rubys/roundhouse</title>
+      <link>https://github.com/rubys/roundhouse</link>
+      <description>Rails as a specification; the deployment target is a build flag</description>
+      <guid isPermaLink="true">https://github.com/rubys/roundhouse</guid>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
       <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>3384</ght:stars>
-      <ght:forks>177</ght:forks>
-      <ght:starsInPeriod>30</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>rustdesk/rustdesk</title>
-      <link>https://github.com/rustdesk/rustdesk</link>
-      <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
-      <guid isPermaLink="true">https://github.com/rustdesk/rustdesk</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>125034</ght:stars>
-      <ght:forks>19387</ght:forks>
-      <ght:starsInPeriod>78</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>tinyhumansai/openhuman</title>
-      <link>https://github.com/tinyhumansai/openhuman</link>
-      <description>OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust</description>
-      <guid isPermaLink="true">https://github.com/tinyhumansai/openhuman</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>40465</ght:stars>
-      <ght:forks>3996</ght:forks>
-      <ght:starsInPeriod>78</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>ai-dynamo/dynamo</title>
-      <link>https://github.com/ai-dynamo/dynamo</link>
-      <description>A Datacenter Scale Distributed Inference Serving Framework</description>
-      <guid isPermaLink="true">https://github.com/ai-dynamo/dynamo</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>8209</ght:stars>
-      <ght:forks>1656</ght:forks>
-      <ght:starsInPeriod>7</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>max-sixty/worktrunk</title>
-      <link>https://github.com/max-sixty/worktrunk</link>
-      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
-      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>8690</ght:stars>
-      <ght:forks>310</ght:forks>
-      <ght:starsInPeriod>63</ght:starsInPeriod>
+      <ght:stars>366</ght:stars>
+      <ght:forks>22</ght:forks>
+      <ght:starsInPeriod>23</ght:starsInPeriod>
     </item>
     <item>
       <title>longbridge/gpui-kit</title>
       <link>https://github.com/longbridge/gpui-kit</link>
       <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
       <guid isPermaLink="true">https://github.com/longbridge/gpui-kit</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
-      <ght:rank>8</ght:rank>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
+      <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>15731</ght:stars>
-      <ght:forks>971</ght:forks>
+      <ght:stars>15762</ght:stars>
+      <ght:forks>974</ght:forks>
       <ght:starsInPeriod>198</ght:starsInPeriod>
     </item>
     <item>
-      <title>touchHLE/touchHLE</title>
-      <link>https://github.com/touchHLE/touchHLE</link>
-      <description>High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE</description>
-      <guid isPermaLink="true">https://github.com/touchHLE/touchHLE</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
-      <ght:rank>9</ght:rank>
+      <title>max-sixty/worktrunk</title>
+      <link>https://github.com/max-sixty/worktrunk</link>
+      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
+      <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>3965</ght:stars>
-      <ght:forks>342</ght:forks>
-      <ght:starsInPeriod>7</ght:starsInPeriod>
+      <ght:stars>8706</ght:stars>
+      <ght:forks>312</ght:forks>
+      <ght:starsInPeriod>63</ght:starsInPeriod>
     </item>
     <item>
-      <title>JayWebtech/autoshorts</title>
-      <link>https://github.com/JayWebtech/autoshorts</link>
-      <description>AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.</description>
-      <guid isPermaLink="true">https://github.com/JayWebtech/autoshorts</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
-      <ght:rank>10</ght:rank>
+      <title>a2x/cs2-dumper</title>
+      <link>https://github.com/a2x/cs2-dumper</link>
+      <description>Counter-Strike: 2 Offset Dumper</description>
+      <guid isPermaLink="true">https://github.com/a2x/cs2-dumper</guid>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
+      <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1127</ght:stars>
-      <ght:forks>213</ght:forks>
-      <ght:starsInPeriod>64</ght:starsInPeriod>
+      <ght:stars>2391</ght:stars>
+      <ght:forks>364</ght:forks>
+      <ght:starsInPeriod>6</ght:starsInPeriod>
     </item>
     <item>
-      <title>FalkorDB/FalkorDB</title>
-      <link>https://github.com/FalkorDB/FalkorDB</link>
-      <description>A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).</description>
-      <guid isPermaLink="true">https://github.com/FalkorDB/FalkorDB</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
-      <ght:rank>11</ght:rank>
+      <title>samwhosung/benilla</title>
+      <link>https://github.com/samwhosung/benilla</link>
+      <description>A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy</description>
+      <guid isPermaLink="true">https://github.com/samwhosung/benilla</guid>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
+      <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>6662</ght:stars>
-      <ght:forks>489</ght:forks>
-      <ght:starsInPeriod>201</ght:starsInPeriod>
+      <ght:stars>509</ght:stars>
+      <ght:forks>103</ght:forks>
+      <ght:starsInPeriod>95</ght:starsInPeriod>
     </item>
     <item>
       <title>agentgateway/agentgateway</title>
       <link>https://github.com/agentgateway/agentgateway</link>
       <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
       <guid isPermaLink="true">https://github.com/agentgateway/agentgateway</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
-      <ght:rank>12</ght:rank>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
+      <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>5146</ght:stars>
+      <ght:stars>5149</ght:stars>
       <ght:forks>909</ght:forks>
       <ght:starsInPeriod>16</ght:starsInPeriod>
     </item>
     <item>
-      <title>PrimeIntellect-ai/prime-agent</title>
-      <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
-      <description>A self-improving RLM agent for coding workflows and long-running autonomous tasks.</description>
-      <guid isPermaLink="true">https://github.com/PrimeIntellect-ai/prime-agent</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
+      <title>zeronsh/zeron</title>
+      <link>https://github.com/zeronsh/zeron</link>
+      <description>A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.</description>
+      <guid isPermaLink="true">https://github.com/zeronsh/zeron</guid>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
+      <ght:rank>9</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>2890</ght:stars>
+      <ght:forks>274</ght:forks>
+      <ght:starsInPeriod>155</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>FalkorDB/FalkorDB</title>
+      <link>https://github.com/FalkorDB/FalkorDB</link>
+      <description>A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).</description>
+      <guid isPermaLink="true">https://github.com/FalkorDB/FalkorDB</guid>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
+      <ght:rank>10</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>6711</ght:stars>
+      <ght:forks>489</ght:forks>
+      <ght:starsInPeriod>201</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>ai-dynamo/dynamo</title>
+      <link>https://github.com/ai-dynamo/dynamo</link>
+      <description>A Datacenter Scale Distributed Inference Serving Framework</description>
+      <guid isPermaLink="true">https://github.com/ai-dynamo/dynamo</guid>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
+      <ght:rank>11</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>8209</ght:stars>
+      <ght:forks>1656</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>rtk-ai/rtk</title>
+      <link>https://github.com/rtk-ai/rtk</link>
+      <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
+      <guid isPermaLink="true">https://github.com/rtk-ai/rtk</guid>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
+      <ght:rank>12</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>82280</ght:stars>
+      <ght:forks>5225</ght:forks>
+      <ght:starsInPeriod>93</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>tursodatabase/turso</title>
+      <link>https://github.com/tursodatabase/turso</link>
+      <description>A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.</description>
+      <guid isPermaLink="true">https://github.com/tursodatabase/turso</guid>
+      <pubDate>Sat, 03 Oct 2026 11:38:37 GMT</pubDate>
       <ght:rank>13</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>21494</ght:stars>
-      <ght:forks>2369</ght:forks>
-      <ght:starsInPeriod>47</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>warpdotdev/warp</title>
-      <link>https://github.com/warpdotdev/warp</link>
-      <description>Warp is an agentic development environment, born out of the terminal.</description>
-      <guid isPermaLink="true">https://github.com/warpdotdev/warp</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
-      <ght:rank>14</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>65347</ght:stars>
-      <ght:forks>5608</ght:forks>
-      <ght:starsInPeriod>34</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>HakanSeven12/OpenCADStudio</title>
-      <link>https://github.com/HakanSeven12/OpenCADStudio</link>
-      <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
-      <guid isPermaLink="true">https://github.com/HakanSeven12/OpenCADStudio</guid>
-      <pubDate>Sat, 03 Oct 2026 05:17:38 GMT</pubDate>
-      <ght:rank>15</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>2406</ght:stars>
-      <ght:forks>253</ght:forks>
-      <ght:starsInPeriod>19</ght:starsInPeriod>
+      <ght:stars>24523</ght:stars>
+      <ght:forks>1391</ght:forks>
+      <ght:starsInPeriod>44</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

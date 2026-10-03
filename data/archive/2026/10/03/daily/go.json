@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-10-03T05:17:49Z",
+  "updatedAt": "2026-10-03T11:38:47Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,27 +14,41 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 109180,
-      "forks": 6319,
-      "starsInPeriod": 209,
+      "stars": 109298,
+      "forks": 6322,
+      "starsInPeriod": 505,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-03T05:17:49Z",
-      "lastSeenAt": "2026-10-03T05:17:49Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-03T11:38:47Z",
+      "appearances": 2
     },
     {
       "fullName": "CarterPerez-dev/Cybersecurity-Projects",
       "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
       "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
       "programmingLanguage": "Go",
-      "stars": 7680,
-      "forks": 1116,
+      "stars": 7701,
+      "forks": 1120,
       "starsInPeriod": 77,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 7,
       "firstSeenAt": "2026-10-03T05:17:49Z",
-      "lastSeenAt": "2026-10-03T05:17:49Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "golangci/golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
+      "programmingLanguage": "Go",
+      "stars": 19408,
+      "forks": 1632,
+      "starsInPeriod": 3,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
       "appearances": 1
     },
     {
@@ -42,13 +56,27 @@
       "url": "https://github.com/lharries/whatsapp-mcp",
       "description": "WhatsApp MCP server",
       "programmingLanguage": "Go",
-      "stars": 6378,
-      "forks": 1354,
+      "stars": 6383,
+      "forks": 1355,
       "starsInPeriod": 23,
       "bestRank": 3,
-      "latestRank": 3,
+      "latestRank": 5,
       "firstSeenAt": "2026-10-03T05:17:49Z",
-      "lastSeenAt": "2026-10-03T05:17:49Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "router-for-me/CLIProxyAPI",
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+      "programmingLanguage": "Go",
+      "stars": 53956,
+      "forks": 8169,
+      "starsInPeriod": 168,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
       "appearances": 1
     },
     {
@@ -63,6 +91,20 @@
       "latestRank": 4,
       "firstSeenAt": "2026-10-03T05:17:49Z",
       "lastSeenAt": "2026-10-03T05:17:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "programmingLanguage": "Go",
+      "stars": 49819,
+      "forks": 10639,
+      "starsInPeriod": 11,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
       "appearances": 1
     },
     {
@@ -94,18 +136,32 @@
       "appearances": 1
     },
     {
+      "fullName": "Autumn-27/ARTEX",
+      "url": "https://github.com/Autumn-27/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "programmingLanguage": "Go",
+      "stars": 1436,
+      "forks": 258,
+      "starsInPeriod": 78,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
+      "appearances": 1
+    },
+    {
       "fullName": "tailscale/tailcat",
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "programmingLanguage": "Go",
-      "stars": 8032,
-      "forks": 345,
+      "stars": 8051,
+      "forks": 348,
       "starsInPeriod": 93,
       "bestRank": 7,
-      "latestRank": 7,
+      "latestRank": 16,
       "firstSeenAt": "2026-10-03T05:17:49Z",
-      "lastSeenAt": "2026-10-03T05:17:49Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-03T11:38:47Z",
+      "appearances": 2
     },
     {
       "fullName": "open-telemetry/opentelemetry-collector",
@@ -119,6 +175,20 @@
       "latestRank": 8,
       "firstSeenAt": "2026-10-03T05:17:49Z",
       "lastSeenAt": "2026-10-03T05:17:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "programmingLanguage": "Go",
+      "stars": 186692,
+      "forks": 13597,
+      "starsInPeriod": 165,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
       "appearances": 1
     },
     {
@@ -136,6 +206,34 @@
       "appearances": 1
     },
     {
+      "fullName": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "programmingLanguage": "Go",
+      "stars": 6570,
+      "forks": 1488,
+      "starsInPeriod": 0,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 38207,
+      "forks": 723,
+      "starsInPeriod": 22,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-03T05:17:49Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
+      "appearances": 2
+    },
+    {
       "fullName": "argoproj/argo-cd",
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
@@ -150,17 +248,17 @@
       "appearances": 1
     },
     {
-      "fullName": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "fullName": "weave-os/router",
+      "url": "https://github.com/weave-os/router",
+      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "programmingLanguage": "Go",
-      "stars": 38203,
-      "forks": 723,
-      "starsInPeriod": 22,
+      "stars": 5553,
+      "forks": 149,
+      "starsInPeriod": 33,
       "bestRank": 11,
       "latestRank": 11,
-      "firstSeenAt": "2026-10-03T05:17:49Z",
-      "lastSeenAt": "2026-10-03T05:17:49Z",
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
       "appearances": 1
     },
     {
@@ -178,6 +276,20 @@
       "appearances": 1
     },
     {
+      "fullName": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "programmingLanguage": "Go",
+      "stars": 111319,
+      "forks": 15537,
+      "starsInPeriod": 17,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
+      "appearances": 1
+    },
+    {
       "fullName": "sysadminsmedia/homebox",
       "url": "https://github.com/sysadminsmedia/homebox",
       "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
@@ -189,6 +301,20 @@
       "latestRank": 13,
       "firstSeenAt": "2026-10-03T05:17:49Z",
       "lastSeenAt": "2026-10-03T05:17:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "Armur-Ai/Pentest-Swarm-AI",
+      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
+      "programmingLanguage": "Go",
+      "stars": 2709,
+      "forks": 495,
+      "starsInPeriod": 29,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
       "appearances": 1
     },
     {
@@ -206,6 +332,20 @@
       "appearances": 1
     },
     {
+      "fullName": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "programmingLanguage": "Go",
+      "stars": 4171,
+      "forks": 496,
+      "starsInPeriod": 26,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
+      "appearances": 1
+    },
+    {
       "fullName": "grafana/gcx",
       "url": "https://github.com/grafana/gcx",
       "description": "A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.",
@@ -217,6 +357,20 @@
       "latestRank": 15,
       "firstSeenAt": "2026-10-03T05:17:49Z",
       "lastSeenAt": "2026-10-03T05:17:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "programmingLanguage": "Go",
+      "stars": 33334,
+      "forks": 5076,
+      "starsInPeriod": 19,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
       "appearances": 1
     },
     {
@@ -248,6 +402,20 @@
       "appearances": 1
     },
     {
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "programmingLanguage": "Go",
+      "stars": 7705,
+      "forks": 650,
+      "starsInPeriod": 16,
+      "bestRank": 17,
+      "latestRank": 17,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
+      "appearances": 1
+    },
+    {
       "fullName": "cli/cli",
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
@@ -259,6 +427,20 @@
       "latestRank": 18,
       "firstSeenAt": "2026-10-03T05:17:49Z",
       "lastSeenAt": "2026-10-03T05:17:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "distribution/distribution",
+      "url": "https://github.com/distribution/distribution",
+      "description": "The toolkit to pack, ship, store, and deliver container content",
+      "programmingLanguage": "Go",
+      "stars": 10643,
+      "forks": 2797,
+      "starsInPeriod": 4,
+      "bestRank": 18,
+      "latestRank": 18,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
       "appearances": 1
     },
     {
@@ -276,6 +458,20 @@
       "appearances": 1
     },
     {
+      "fullName": "urfave/cli",
+      "url": "https://github.com/urfave/cli",
+      "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
+      "programmingLanguage": "Go",
+      "stars": 24274,
+      "forks": 1833,
+      "starsInPeriod": 2,
+      "bestRank": 19,
+      "latestRank": 19,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
+      "appearances": 1
+    },
+    {
       "fullName": "traefik/traefik",
       "url": "https://github.com/traefik/traefik",
       "description": "The Cloud Native Application Proxy",
@@ -287,6 +483,20 @@
       "latestRank": 20,
       "firstSeenAt": "2026-10-03T05:17:49Z",
       "lastSeenAt": "2026-10-03T05:17:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "programmingLanguage": "Go",
+      "stars": 3755,
+      "forks": 1500,
+      "starsInPeriod": 0,
+      "bestRank": 20,
+      "latestRank": 20,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
       "appearances": 1
     },
     {
@@ -304,6 +514,20 @@
       "appearances": 1
     },
     {
+      "fullName": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "programmingLanguage": "Go",
+      "stars": 4968,
+      "forks": 3971,
+      "starsInPeriod": 2,
+      "bestRank": 21,
+      "latestRank": 21,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
+      "appearances": 1
+    },
+    {
       "fullName": "github/gh-aw",
       "url": "https://github.com/github/gh-aw",
       "description": "GitHub Agentic Workflows",
@@ -315,6 +539,20 @@
       "latestRank": 22,
       "firstSeenAt": "2026-10-03T05:17:49Z",
       "lastSeenAt": "2026-10-03T05:17:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "programmingLanguage": "Go",
+      "stars": 182083,
+      "forks": 18086,
+      "starsInPeriod": 60,
+      "bestRank": 22,
+      "latestRank": 22,
+      "firstSeenAt": "2026-10-03T11:38:47Z",
+      "lastSeenAt": "2026-10-03T11:38:47Z",
       "appearances": 1
     },
     {
