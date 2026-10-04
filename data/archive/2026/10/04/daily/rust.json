@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-10-04T12:20:28Z",
+  "updatedAt": "2026-10-04T21:23:50Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -28,42 +28,42 @@
       "url": "https://github.com/zerx-lab/FluxDown",
       "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
       "programmingLanguage": "Rust",
-      "stars": 3733,
-      "forks": 221,
+      "stars": 3804,
+      "forks": 225,
       "starsInPeriod": 334,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-04T12:20:28Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 2
     },
     {
       "fullName": "cjpais/Handy",
       "url": "https://github.com/cjpais/Handy",
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "programmingLanguage": "Rust",
-      "stars": 32800,
-      "forks": 3036,
-      "starsInPeriod": 101,
+      "stars": 32839,
+      "forks": 3040,
+      "starsInPeriod": 84,
       "bestRank": 2,
       "latestRank": 11,
       "firstSeenAt": "2026-10-04T05:51:02Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 3
     },
     {
       "fullName": "touchHLE/touchHLE",
       "url": "https://github.com/touchHLE/touchHLE",
       "description": "High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
       "programmingLanguage": "Rust",
-      "stars": 3969,
+      "stars": 3972,
       "forks": 344,
       "starsInPeriod": 4,
       "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-10-04T12:20:28Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 2
     },
     {
       "fullName": "rubys/roundhouse",
@@ -84,14 +84,14 @@
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "programmingLanguage": "Rust",
-      "stars": 119522,
-      "forks": 17563,
+      "stars": 119552,
+      "forks": 17587,
       "starsInPeriod": 106,
       "bestRank": 3,
       "latestRank": 3,
       "firstSeenAt": "2026-10-04T12:20:28Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 2
     },
     {
       "fullName": "longbridge/gpui-kit",
@@ -112,14 +112,14 @@
       "url": "https://github.com/AlexsJones/llmfit",
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "programmingLanguage": "Rust",
-      "stars": 37578,
-      "forks": 2407,
+      "stars": 37597,
+      "forks": 2411,
       "starsInPeriod": 99,
       "bestRank": 4,
       "latestRank": 4,
       "firstSeenAt": "2026-10-04T12:20:28Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 2
     },
     {
       "fullName": "max-sixty/worktrunk",
@@ -140,14 +140,14 @@
       "url": "https://github.com/Nasiko-Labs/nasiko",
       "description": "The Open Runtime for AI Agents",
       "programmingLanguage": "Rust",
-      "stars": 9405,
-      "forks": 2078,
+      "stars": 9407,
+      "forks": 2076,
       "starsInPeriod": 24,
       "bestRank": 5,
       "latestRank": 5,
       "firstSeenAt": "2026-10-04T12:20:28Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 2
     },
     {
       "fullName": "a2x/cs2-dumper",
@@ -168,42 +168,42 @@
       "url": "https://github.com/zeronsh/zeron",
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "programmingLanguage": "Rust",
-      "stars": 2977,
-      "forks": 282,
-      "starsInPeriod": 153,
+      "stars": 3010,
+      "forks": 284,
+      "starsInPeriod": 86,
       "bestRank": 6,
       "latestRank": 6,
       "firstSeenAt": "2026-10-04T05:51:02Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 3
     },
     {
       "fullName": "FalkorDB/FalkorDB",
       "url": "https://github.com/FalkorDB/FalkorDB",
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "programmingLanguage": "Rust",
-      "stars": 6869,
-      "forks": 502,
-      "starsInPeriod": 133,
+      "stars": 6971,
+      "forks": 506,
+      "starsInPeriod": 159,
       "bestRank": 7,
       "latestRank": 7,
       "firstSeenAt": "2026-10-04T05:51:02Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 3
     },
     {
       "fullName": "samwhosung/benilla",
       "url": "https://github.com/samwhosung/benilla",
       "description": "A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy",
       "programmingLanguage": "Rust",
-      "stars": 564,
-      "forks": 111,
-      "starsInPeriod": 77,
+      "stars": 583,
+      "forks": 113,
+      "starsInPeriod": 50,
       "bestRank": 7,
       "latestRank": 9,
       "firstSeenAt": "2026-10-04T05:51:02Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 3
     },
     {
       "fullName": "agentgateway/agentgateway",
@@ -224,28 +224,28 @@
       "url": "https://github.com/nkaz001/hftbacktest",
       "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit",
       "programmingLanguage": "Rust",
-      "stars": 4844,
+      "stars": 4848,
       "forks": 922,
       "starsInPeriod": 20,
       "bestRank": 8,
       "latestRank": 8,
       "firstSeenAt": "2026-10-04T12:20:28Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 2
     },
     {
       "fullName": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
       "programmingLanguage": "Rust",
-      "stars": 40585,
-      "forks": 4022,
+      "stars": 40624,
+      "forks": 4027,
       "starsInPeriod": 102,
       "bestRank": 10,
       "latestRank": 10,
       "firstSeenAt": "2026-10-04T12:20:28Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 2
     },
     {
       "fullName": "ai-dynamo/dynamo",
@@ -280,28 +280,28 @@
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "programmingLanguage": "Rust",
-      "stars": 149152,
-      "forks": 10704,
+      "stars": 149218,
+      "forks": 10708,
       "starsInPeriod": 201,
       "bestRank": 12,
       "latestRank": 12,
       "firstSeenAt": "2026-10-04T12:20:28Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 2
     },
     {
       "fullName": "tursodatabase/turso",
       "url": "https://github.com/tursodatabase/turso",
       "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
       "programmingLanguage": "Rust",
-      "stars": 24570,
-      "forks": 1396,
-      "starsInPeriod": 55,
+      "stars": 24595,
+      "forks": 1402,
+      "starsInPeriod": 51,
       "bestRank": 13,
       "latestRank": 13,
       "firstSeenAt": "2026-10-04T05:51:02Z",
-      "lastSeenAt": "2026-10-04T12:20:28Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-04T21:23:50Z",
+      "appearances": 3
     }
   ]
 }
