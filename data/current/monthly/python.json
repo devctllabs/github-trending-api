@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-10-04T05:50:59Z",
+  "observedAt": "2026-10-04T12:20:24Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "programmingLanguage": "Python",
-      "stars": 53220,
-      "forks": 3066,
+      "stars": 53349,
+      "forks": 3068,
       "starsInPeriod": 26497
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 38663,
-      "forks": 5550,
+      "stars": 38681,
+      "forks": 5547,
       "starsInPeriod": 4082
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 45187,
-      "forks": 5899,
+      "stars": 45288,
+      "forks": 5902,
       "starsInPeriod": 23065
     },
     {
@@ -44,59 +44,59 @@
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 6618,
-      "forks": 816,
+      "stars": 6665,
+      "forks": 821,
       "starsInPeriod": 5183
     },
     {
       "rank": 5,
+      "fullName": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "programmingLanguage": "Python",
+      "stars": 4106,
+      "forks": 342,
+      "starsInPeriod": 2960
+    },
+    {
+      "rank": 6,
       "fullName": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 26047,
-      "forks": 3054,
+      "stars": 26061,
+      "forks": 3052,
       "starsInPeriod": 2272
     },
     {
-      "rank": 6,
+      "rank": 7,
       "fullName": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 19305,
-      "forks": 1687,
+      "stars": 19338,
+      "forks": 1692,
       "starsInPeriod": 3460
     },
     {
-      "rank": 7,
-      "fullName": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "programmingLanguage": "Python",
-      "stars": 63145,
-      "forks": 8193,
-      "starsInPeriod": 5156
-    },
-    {
       "rank": 8,
-      "fullName": "ahujasid/mcp-for-blender",
-      "url": "https://github.com/ahujasid/mcp-for-blender",
-      "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
-      "programmingLanguage": "Python",
-      "stars": 29932,
-      "forks": 2718,
-      "starsInPeriod": 3271
-    },
-    {
-      "rank": 9,
       "fullName": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "programmingLanguage": "Python",
-      "stars": 85517,
-      "forks": 8761,
+      "stars": 85577,
+      "forks": 8765,
       "starsInPeriod": 7477
+    },
+    {
+      "rank": 9,
+      "fullName": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "programmingLanguage": "Python",
+      "stars": 63161,
+      "forks": 8193,
+      "starsInPeriod": 5156
     },
     {
       "rank": 10,
@@ -104,8 +104,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 63286,
-      "forks": 10820,
+      "stars": 63501,
+      "forks": 10866,
       "starsInPeriod": 11040
     },
     {
@@ -114,99 +114,99 @@
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "programmingLanguage": "Python",
-      "stars": 38590,
+      "stars": 38607,
       "forks": 3344,
       "starsInPeriod": 3177
     },
     {
       "rank": 12,
+      "fullName": "ahujasid/mcp-for-blender",
+      "url": "https://github.com/ahujasid/mcp-for-blender",
+      "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
+      "programmingLanguage": "Python",
+      "stars": 29953,
+      "forks": 2719,
+      "starsInPeriod": 3271
+    },
+    {
+      "rank": 13,
       "fullName": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "programmingLanguage": "Python",
-      "stars": 103708,
-      "forks": 31294,
+      "stars": 103735,
+      "forks": 31345,
       "starsInPeriod": 1105
     },
     {
-      "rank": 13,
+      "rank": 14,
       "fullName": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "programmingLanguage": "Python",
-      "stars": 5197,
+      "stars": 5200,
       "forks": 726,
       "starsInPeriod": 1489
     },
     {
-      "rank": 14,
+      "rank": 15,
       "fullName": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "programmingLanguage": "Python",
-      "stars": 188230,
-      "forks": 13935,
+      "stars": 188299,
+      "forks": 13937,
       "starsInPeriod": 10741
     },
     {
-      "rank": 15,
+      "rank": 16,
       "fullName": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
       "description": "Agents that use the browser.",
       "programmingLanguage": "Python",
-      "stars": 117088,
-      "forks": 12923,
+      "stars": 117107,
+      "forks": 12925,
       "starsInPeriod": 5231
     },
     {
-      "rank": 16,
-      "fullName": "petergyang/no-ai-slop",
-      "url": "https://github.com/petergyang/no-ai-slop",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "rank": 17,
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 11818,
-      "forks": 808,
-      "starsInPeriod": 4930
+      "stars": 90324,
+      "forks": 7942,
+      "starsInPeriod": 12920
     },
     {
-      "rank": 17,
+      "rank": 18,
+      "fullName": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "programmingLanguage": "Python",
+      "stars": 68359,
+      "forks": 4993,
+      "starsInPeriod": 2491
+    },
+    {
+      "rank": 19,
       "fullName": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 52725,
-      "forks": 5875,
+      "stars": 52879,
+      "forks": 5889,
       "starsInPeriod": 36930
     },
     {
-      "rank": 18,
-      "fullName": "SWE-agent/mini-swe-agent",
-      "url": "https://github.com/SWE-agent/mini-swe-agent",
-      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
-      "programmingLanguage": "Python",
-      "stars": 8189,
-      "forks": 1123,
-      "starsInPeriod": 1266
-    },
-    {
-      "rank": 19,
-      "fullName": "experientiallabs/experiential",
-      "url": "https://github.com/experientiallabs/experiential",
-      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
-      "programmingLanguage": "Python",
-      "stars": 8671,
-      "forks": 227,
-      "starsInPeriod": 7541
-    },
-    {
       "rank": 20,
-      "fullName": "tile-ai/tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "fullName": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "programmingLanguage": "Python",
-      "stars": 8300,
-      "forks": 837,
-      "starsInPeriod": 951
+      "stars": 7240,
+      "forks": 949,
+      "starsInPeriod": 4362
     }
   ]
 }

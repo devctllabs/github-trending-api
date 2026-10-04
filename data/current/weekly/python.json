@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-10-04T05:50:56Z",
+  "observedAt": "2026-10-04T12:20:21Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 45187,
-      "forks": 5899,
+      "stars": 45288,
+      "forks": 5902,
       "starsInPeriod": 14507
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 52725,
-      "forks": 5875,
+      "stars": 52879,
+      "forks": 5889,
       "starsInPeriod": 16775
     },
     {
@@ -34,29 +34,29 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 63285,
-      "forks": 10820,
+      "stars": 63501,
+      "forks": 10866,
       "starsInPeriod": 5059
     },
     {
       "rank": 4,
-      "fullName": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "programmingLanguage": "Python",
-      "stars": 27513,
-      "forks": 3876,
-      "starsInPeriod": 948
-    },
-    {
-      "rank": 5,
       "fullName": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 90012,
-      "forks": 7916,
+      "stars": 90324,
+      "forks": 7942,
       "starsInPeriod": 3952
+    },
+    {
+      "rank": 5,
+      "fullName": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "programmingLanguage": "Python",
+      "stars": 27550,
+      "forks": 3881,
+      "starsInPeriod": 948
     },
     {
       "rank": 6,
@@ -64,8 +64,8 @@
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 6618,
-      "forks": 816,
+      "stars": 6665,
+      "forks": 821,
       "starsInPeriod": 1476
     },
     {
@@ -74,49 +74,79 @@
       "url": "https://github.com/tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "programmingLanguage": "Python",
-      "stars": 8300,
+      "stars": 8311,
       "forks": 837,
       "starsInPeriod": 800
     },
     {
       "rank": 8,
-      "fullName": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "programmingLanguage": "Python",
-      "stars": 103708,
-      "forks": 31294,
-      "starsInPeriod": 346
-    },
-    {
-      "rank": 9,
       "fullName": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "programmingLanguage": "Python",
-      "stars": 128297,
+      "stars": 128346,
       "forks": 20078,
       "starsInPeriod": 2324
     },
     {
-      "rank": 10,
+      "rank": 9,
       "fullName": "HunxByts/GhostTrack",
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "programmingLanguage": "Python",
-      "stars": 16870,
-      "forks": 2302,
+      "stars": 16902,
+      "forks": 2304,
       "starsInPeriod": 1638
     },
     {
-      "rank": 11,
+      "rank": 10,
       "fullName": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "programmingLanguage": "Python",
-      "stars": 38590,
+      "stars": 38607,
       "forks": 3344,
       "starsInPeriod": 2760
+    },
+    {
+      "rank": 11,
+      "fullName": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "programmingLanguage": "Python",
+      "stars": 20085,
+      "forks": 1387,
+      "starsInPeriod": 4728
+    },
+    {
+      "rank": 12,
+      "fullName": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": null,
+      "programmingLanguage": "Python",
+      "stars": 9505,
+      "forks": 2076,
+      "starsInPeriod": 567
+    },
+    {
+      "rank": 13,
+      "fullName": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+      "programmingLanguage": "Python",
+      "stars": 31345,
+      "forks": 3170,
+      "starsInPeriod": 374
+    },
+    {
+      "rank": 14,
+      "fullName": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "programmingLanguage": "Python",
+      "stars": 80088,
+      "forks": 9088,
+      "starsInPeriod": 361
     }
   ]
 }
