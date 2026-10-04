@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-03T21:13:36Z",
+  "observedAt": "2026-10-04T05:51:02Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "programmingLanguage": "Rust",
-      "stars": 21514,
-      "forks": 2373,
-      "starsInPeriod": 38
+      "stars": 21519,
+      "forks": 2376,
+      "starsInPeriod": 32
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/cjpais/Handy",
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "programmingLanguage": "Rust",
-      "stars": 32751,
+      "stars": 32777,
       "forks": 3033,
-      "starsInPeriod": 108
+      "starsInPeriod": 101
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/rubys/roundhouse",
       "description": "Rails as a specification; the deployment target is a build flag",
       "programmingLanguage": "Rust",
-      "stars": 373,
+      "stars": 379,
       "forks": 24,
-      "starsInPeriod": 23
+      "starsInPeriod": 25
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 15830,
-      "forks": 974,
-      "starsInPeriod": 163
+      "stars": 15916,
+      "forks": 981,
+      "starsInPeriod": 168
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 8727,
+      "stars": 8756,
       "forks": 315,
-      "starsInPeriod": 67
+      "starsInPeriod": 64
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/a2x/cs2-dumper",
       "description": "Counter-Strike: 2 Offset Dumper",
       "programmingLanguage": "Rust",
-      "stars": 2392,
+      "stars": 2394,
       "forks": 365,
-      "starsInPeriod": 6
+      "starsInPeriod": 4
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/samwhosung/benilla",
       "description": "A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy",
       "programmingLanguage": "Rust",
-      "stars": 539,
-      "forks": 108,
-      "starsInPeriod": 95
+      "stars": 554,
+      "forks": 109,
+      "starsInPeriod": 77
     },
     {
       "rank": 8,
@@ -84,8 +84,8 @@
       "url": "https://github.com/agentgateway/agentgateway",
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "programmingLanguage": "Rust",
-      "stars": 5156,
-      "forks": 911,
+      "stars": 5164,
+      "forks": 912,
       "starsInPeriod": 16
     },
     {
@@ -94,9 +94,9 @@
       "url": "https://github.com/zeronsh/zeron",
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "programmingLanguage": "Rust",
-      "stars": 2931,
-      "forks": 275,
-      "starsInPeriod": 155
+      "stars": 2958,
+      "forks": 277,
+      "starsInPeriod": 153
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/FalkorDB/FalkorDB",
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "programmingLanguage": "Rust",
-      "stars": 6766,
-      "forks": 493,
-      "starsInPeriod": 121
+      "stars": 6789,
+      "forks": 498,
+      "starsInPeriod": 133
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/ai-dynamo/dynamo",
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "programmingLanguage": "Rust",
-      "stars": 8213,
+      "stars": 8214,
       "forks": 1657,
-      "starsInPeriod": 5
+      "starsInPeriod": 4
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "programmingLanguage": "Rust",
-      "stars": 82307,
-      "forks": 5231,
-      "starsInPeriod": 93
+      "stars": 82323,
+      "forks": 5236,
+      "starsInPeriod": 89
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/tursodatabase/turso",
       "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
       "programmingLanguage": "Rust",
-      "stars": 24546,
-      "forks": 1392,
-      "starsInPeriod": 44
+      "stars": 24559,
+      "forks": 1395,
+      "starsInPeriod": 55
     }
   ]
 }
