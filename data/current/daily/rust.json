@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-04T21:23:50Z",
+  "observedAt": "2026-10-05T05:38:09Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/zerx-lab/FluxDown",
       "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
       "programmingLanguage": "Rust",
-      "stars": 3804,
-      "forks": 225,
-      "starsInPeriod": 334
+      "stars": 3858,
+      "forks": 232,
+      "starsInPeriod": 299
     },
     {
       "rank": 2,
@@ -24,7 +24,7 @@
       "url": "https://github.com/touchHLE/touchHLE",
       "description": "High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
       "programmingLanguage": "Rust",
-      "stars": 3972,
+      "stars": 3975,
       "forks": 344,
       "starsInPeriod": 4
     },
@@ -34,9 +34,9 @@
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "programmingLanguage": "Rust",
-      "stars": 119552,
-      "forks": 17587,
-      "starsInPeriod": 106
+      "stars": 119558,
+      "forks": 17601,
+      "starsInPeriod": 112
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/AlexsJones/llmfit",
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "programmingLanguage": "Rust",
-      "stars": 37597,
+      "stars": 37606,
       "forks": 2411,
-      "starsInPeriod": 99
+      "starsInPeriod": 64
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/Nasiko-Labs/nasiko",
       "description": "The Open Runtime for AI Agents",
       "programmingLanguage": "Rust",
-      "stars": 9407,
+      "stars": 9408,
       "forks": 2076,
-      "starsInPeriod": 24
+      "starsInPeriod": 5
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/zeronsh/zeron",
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "programmingLanguage": "Rust",
-      "stars": 3010,
-      "forks": 284,
-      "starsInPeriod": 86
+      "stars": 3019,
+      "forks": 285,
+      "starsInPeriod": 81
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/FalkorDB/FalkorDB",
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "programmingLanguage": "Rust",
-      "stars": 6971,
-      "forks": 506,
-      "starsInPeriod": 159
+      "stars": 7012,
+      "forks": 508,
+      "starsInPeriod": 164
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/nkaz001/hftbacktest",
       "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit",
       "programmingLanguage": "Rust",
-      "stars": 4848,
+      "stars": 4852,
       "forks": 922,
-      "starsInPeriod": 20
+      "starsInPeriod": 12
     },
     {
       "rank": 9,
@@ -94,7 +94,7 @@
       "url": "https://github.com/samwhosung/benilla",
       "description": "A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy",
       "programmingLanguage": "Rust",
-      "stars": 583,
+      "stars": 591,
       "forks": 113,
       "starsInPeriod": 50
     },
@@ -104,9 +104,9 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
       "programmingLanguage": "Rust",
-      "stars": 40624,
-      "forks": 4027,
-      "starsInPeriod": 102
+      "stars": 40645,
+      "forks": 4028,
+      "starsInPeriod": 98
     },
     {
       "rank": 11,
@@ -114,8 +114,8 @@
       "url": "https://github.com/cjpais/Handy",
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "programmingLanguage": "Rust",
-      "stars": 32839,
-      "forks": 3040,
+      "stars": 32863,
+      "forks": 3045,
       "starsInPeriod": 84
     },
     {
@@ -124,9 +124,9 @@
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "programmingLanguage": "Rust",
-      "stars": 149218,
-      "forks": 10708,
-      "starsInPeriod": 201
+      "stars": 149264,
+      "forks": 10711,
+      "starsInPeriod": 191
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/tursodatabase/turso",
       "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
       "programmingLanguage": "Rust",
-      "stars": 24595,
-      "forks": 1402,
-      "starsInPeriod": 51
+      "stars": 24608,
+      "forks": 1404,
+      "starsInPeriod": 46
     }
   ]
 }

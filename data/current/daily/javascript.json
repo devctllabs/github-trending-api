@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-10-04T21:24:10Z",
+  "observedAt": "2026-10-05T05:38:29Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "JavaScript",
-      "stars": 76205,
-      "forks": 4544,
-      "starsInPeriod": 1170
+      "stars": 76466,
+      "forks": 4563,
+      "starsInPeriod": 1171
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 53005,
-      "forks": 7915,
-      "starsInPeriod": 270
+      "stars": 53180,
+      "forks": 7923,
+      "starsInPeriod": 197
     },
     {
       "rank": 3,
@@ -34,138 +34,148 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 154742,
-      "forks": 8318,
+      "stars": 155112,
+      "forks": 8338,
       "starsInPeriod": 1894
     },
     {
       "rank": 4,
+      "fullName": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "programmingLanguage": "JavaScript",
+      "stars": 1201,
+      "forks": 136,
+      "starsInPeriod": 232
+    },
+    {
+      "rank": 5,
       "fullName": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 101179,
-      "forks": 10615,
+      "stars": 101277,
+      "forks": 10623,
       "starsInPeriod": 336
     },
     {
-      "rank": 5,
+      "rank": 6,
       "fullName": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 272878,
-      "forks": 40735,
-      "starsInPeriod": 889
+      "stars": 273084,
+      "forks": 40759,
+      "starsInPeriod": 891
     },
     {
-      "rank": 6,
+      "rank": 7,
       "fullName": "WorldFlowAI/everything-claude-code",
       "url": "https://github.com/WorldFlowAI/everything-claude-code",
       "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
       "programmingLanguage": "JavaScript",
-      "stars": 4021,
-      "forks": 623,
-      "starsInPeriod": 64
+      "stars": 4040,
+      "forks": 625,
+      "starsInPeriod": 63
     },
     {
-      "rank": 7,
+      "rank": 8,
       "fullName": "jo-inc/camofox-browser",
       "url": "https://github.com/jo-inc/camofox-browser",
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "programmingLanguage": "JavaScript",
-      "stars": 11420,
-      "forks": 1140,
-      "starsInPeriod": 22
+      "stars": 11428,
+      "forks": 1145,
+      "starsInPeriod": 20
     },
     {
-      "rank": 8,
+      "rank": 9,
       "fullName": "kanoqwq/UFI-TOOLS",
       "url": "https://github.com/kanoqwq/UFI-TOOLS",
       "description": "A functional tools for z*e devices (F50 | U30 Air)",
       "programmingLanguage": "JavaScript",
-      "stars": 2186,
-      "forks": 218,
-      "starsInPeriod": 151
+      "stars": 2213,
+      "forks": 221,
+      "starsInPeriod": 126
     },
     {
-      "rank": 9,
+      "rank": 10,
       "fullName": "laoma2053/awesome-zhuiju-free",
       "url": "https://github.com/laoma2053/awesome-zhuiju-free",
       "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
       "programmingLanguage": "JavaScript",
-      "stars": 11213,
-      "forks": 762,
-      "starsInPeriod": 253
+      "stars": 11246,
+      "forks": 763,
+      "starsInPeriod": 245
     },
     {
-      "rank": 10,
+      "rank": 11,
       "fullName": "mnfst/awesome-free-llm-apis",
       "url": "https://github.com/mnfst/awesome-free-llm-apis",
       "description": "List of Permanent Free LLM API (API Keys)",
       "programmingLanguage": "JavaScript",
-      "stars": 9175,
-      "forks": 956,
-      "starsInPeriod": 79
+      "stars": 9193,
+      "forks": 962,
+      "starsInPeriod": 71
     },
     {
-      "rank": 11,
+      "rank": 12,
       "fullName": "spicetify/cli",
       "url": "https://github.com/spicetify/cli",
       "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
       "programmingLanguage": "JavaScript",
-      "stars": 24792,
-      "forks": 954,
-      "starsInPeriod": 21
+      "stars": 24800,
+      "forks": 955,
+      "starsInPeriod": 20
     },
     {
-      "rank": 12,
+      "rank": 13,
       "fullName": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "programmingLanguage": "JavaScript",
-      "stars": 92577,
-      "forks": 6278,
-      "starsInPeriod": 282
+      "stars": 92645,
+      "forks": 6284,
+      "starsInPeriod": 265
     },
     {
-      "rank": 13,
+      "rank": 14,
       "fullName": "webbrain-one/webbrain",
       "url": "https://github.com/webbrain-one/webbrain",
       "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠",
       "programmingLanguage": "JavaScript",
-      "stars": 1221,
+      "stars": 1222,
       "forks": 139,
       "starsInPeriod": 19
     },
     {
-      "rank": 14,
+      "rank": 15,
       "fullName": "nodejs/node",
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "programmingLanguage": "JavaScript",
-      "stars": 122328,
-      "forks": 38780,
-      "starsInPeriod": 49
+      "stars": 122338,
+      "forks": 38798,
+      "starsInPeriod": 82
     },
     {
-      "rank": 15,
+      "rank": 16,
       "fullName": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "programmingLanguage": "JavaScript",
-      "stars": 2831,
-      "forks": 519,
-      "starsInPeriod": 378
+      "stars": 3194,
+      "forks": 566,
+      "starsInPeriod": 570
     },
     {
-      "rank": 16,
+      "rank": 17,
       "fullName": "ai/nanoid",
       "url": "https://github.com/ai/nanoid",
       "description": "A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
       "programmingLanguage": "JavaScript",
-      "stars": 27049,
-      "forks": 885,
+      "stars": 27060,
+      "forks": 887,
       "starsInPeriod": 34
     }
   ]

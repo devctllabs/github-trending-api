@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=monthly",
-  "observedAt": "2026-10-04T21:24:17Z",
+  "observedAt": "2026-10-05T05:38:35Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "programmingLanguage": "JavaScript",
-      "stars": 47474,
-      "forks": 9678,
-      "starsInPeriod": 30444
+      "stars": 47609,
+      "forks": 9706,
+      "starsInPeriod": 30324
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 272878,
-      "forks": 40735,
-      "starsInPeriod": 26724
+      "stars": 273084,
+      "forks": 40759,
+      "starsInPeriod": 26306
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
       "programmingLanguage": "JavaScript",
-      "stars": 77362,
-      "forks": 5210,
-      "starsInPeriod": 31939
+      "stars": 77608,
+      "forks": 5218,
+      "starsInPeriod": 30184
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 154742,
-      "forks": 8318,
-      "starsInPeriod": 30546
+      "stars": 155113,
+      "forks": 8338,
+      "starsInPeriod": 30466
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "programmingLanguage": "JavaScript",
-      "stars": 7299,
-      "forks": 947,
-      "starsInPeriod": 1961
+      "stars": 7303,
+      "forks": 948,
+      "starsInPeriod": 1955
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 101179,
-      "forks": 10615,
-      "starsInPeriod": 9504
+      "stars": 101277,
+      "forks": 10623,
+      "starsInPeriod": 9536
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 24205,
-      "forks": 1428,
-      "starsInPeriod": 21044
+      "stars": 24411,
+      "forks": 1444,
+      "starsInPeriod": 21191
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/OpenWhispr/openwhispr",
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "programmingLanguage": "JavaScript",
-      "stars": 9029,
+      "stars": 9040,
       "forks": 1117,
-      "starsInPeriod": 2638
+      "starsInPeriod": 2434
     },
     {
       "rank": 9,
@@ -94,82 +94,92 @@
       "url": "https://github.com/fleetbase/fleetbase",
       "description": "Modular logistics and supply chain operating system (LSOS)",
       "programmingLanguage": "JavaScript",
-      "stars": 4152,
-      "forks": 1096,
-      "starsInPeriod": 1869
+      "stars": 4153,
+      "forks": 1097,
+      "starsInPeriod": 1877
     },
     {
       "rank": 10,
+      "fullName": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "programmingLanguage": "JavaScript",
+      "stars": 1201,
+      "forks": 136,
+      "starsInPeriod": 930
+    },
+    {
+      "rank": 11,
       "fullName": "mnfst/awesome-free-llm-apis",
       "url": "https://github.com/mnfst/awesome-free-llm-apis",
       "description": "List of Permanent Free LLM API (API Keys)",
       "programmingLanguage": "JavaScript",
-      "stars": 9175,
-      "forks": 956,
-      "starsInPeriod": 1822
+      "stars": 9193,
+      "forks": 962,
+      "starsInPeriod": 1868
     },
     {
-      "rank": 11,
+      "rank": 12,
       "fullName": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "programmingLanguage": "Python",
-      "stars": 68904,
-      "forks": 11190,
-      "starsInPeriod": 5090
+      "stars": 68920,
+      "forks": 11192,
+      "starsInPeriod": 5106
     },
     {
-      "rank": 12,
+      "rank": 13,
       "fullName": "WorldFlowAI/everything-claude-code",
       "url": "https://github.com/WorldFlowAI/everything-claude-code",
       "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
       "programmingLanguage": "JavaScript",
-      "stars": 4021,
-      "forks": 623,
-      "starsInPeriod": 1963
+      "stars": 4040,
+      "forks": 625,
+      "starsInPeriod": 1940
     },
     {
-      "rank": 13,
+      "rank": 14,
       "fullName": "louislam/uptime-kuma",
       "url": "https://github.com/louislam/uptime-kuma",
       "description": "A fancy self-hosted monitoring tool",
       "programmingLanguage": "JavaScript",
-      "stars": 92114,
-      "forks": 8515,
-      "starsInPeriod": 1324
+      "stars": 92118,
+      "forks": 8520,
+      "starsInPeriod": 1318
     },
     {
-      "rank": 14,
+      "rank": 15,
       "fullName": "jo-inc/camofox-browser",
       "url": "https://github.com/jo-inc/camofox-browser",
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "programmingLanguage": "JavaScript",
-      "stars": 11420,
-      "forks": 1140,
-      "starsInPeriod": 2395
+      "stars": 11428,
+      "forks": 1145,
+      "starsInPeriod": 2394
     },
     {
-      "rank": 15,
+      "rank": 16,
       "fullName": "byoungd/up",
       "url": "https://github.com/byoungd/up",
       "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
       "programmingLanguage": "JavaScript",
-      "stars": 67143,
-      "forks": 6669,
-      "starsInPeriod": 5002
+      "stars": 67204,
+      "forks": 6675,
+      "starsInPeriod": 5128
     },
     {
-      "rank": 16,
+      "rank": 17,
       "fullName": "JoeanAmier/TikTokDownloader",
       "url": "https://github.com/JoeanAmier/TikTokDownloader",
       "description": "抖音 / TikTok 平台作品下载/数据采集工具",
       "programmingLanguage": "JavaScript",
-      "stars": 16497,
+      "stars": 16504,
       "forks": 2791,
-      "starsInPeriod": 908
+      "starsInPeriod": 917
     },
     {
-      "rank": 17,
+      "rank": 18,
       "fullName": "techjarves/ClaudeCode-Portable",
       "url": "https://github.com/techjarves/ClaudeCode-Portable",
       "description": "Run Claude Code from a USB drive on any PC — no installation required.",
@@ -179,24 +189,24 @@
       "starsInPeriod": 384
     },
     {
-      "rank": 18,
+      "rank": 19,
       "fullName": "spicetify/cli",
       "url": "https://github.com/spicetify/cli",
       "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
       "programmingLanguage": "JavaScript",
-      "stars": 24792,
-      "forks": 954,
-      "starsInPeriod": 516
+      "stars": 24800,
+      "forks": 955,
+      "starsInPeriod": 515
     },
     {
-      "rank": 19,
+      "rank": 20,
       "fullName": "is-a-dev/register",
       "url": "https://github.com/is-a-dev/register",
       "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
       "programmingLanguage": "JavaScript",
-      "stars": 11474,
-      "forks": 31268,
-      "starsInPeriod": 363
+      "stars": 11477,
+      "forks": 31291,
+      "starsInPeriod": 361
     }
   ]
 }
