@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-10-05T05:38:09Z",
+  "updatedAt": "2026-10-05T14:35:35Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,14 +14,42 @@
       "url": "https://github.com/zerx-lab/FluxDown",
       "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
       "programmingLanguage": "Rust",
-      "stars": 3858,
+      "stars": 3910,
       "forks": 232,
-      "starsInPeriod": 299,
+      "starsInPeriod": 152,
+      "bestRank": 1,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-05T05:38:09Z",
+      "lastSeenAt": "2026-10-05T14:35:35Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "programmingLanguage": "Rust",
+      "stars": 96483,
+      "forks": 12702,
+      "starsInPeriod": 250,
       "bestRank": 1,
       "latestRank": 1,
-      "firstSeenAt": "2026-10-05T05:38:09Z",
-      "lastSeenAt": "2026-10-05T05:38:09Z",
+      "firstSeenAt": "2026-10-05T14:35:35Z",
+      "lastSeenAt": "2026-10-05T14:35:35Z",
       "appearances": 1
+    },
+    {
+      "fullName": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "programmingLanguage": "Rust",
+      "stars": 119578,
+      "forks": 17683,
+      "starsInPeriod": 56,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-05T05:38:09Z",
+      "lastSeenAt": "2026-10-05T14:35:35Z",
+      "appearances": 2
     },
     {
       "fullName": "touchHLE/touchHLE",
@@ -38,17 +66,17 @@
       "appearances": 1
     },
     {
-      "fullName": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
+      "fullName": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "programmingLanguage": "Rust",
-      "stars": 119558,
-      "forks": 17601,
-      "starsInPeriod": 112,
+      "stars": 8222,
+      "forks": 1666,
+      "starsInPeriod": 5,
       "bestRank": 3,
       "latestRank": 3,
-      "firstSeenAt": "2026-10-05T05:38:09Z",
-      "lastSeenAt": "2026-10-05T05:38:09Z",
+      "firstSeenAt": "2026-10-05T14:35:35Z",
+      "lastSeenAt": "2026-10-05T14:35:35Z",
       "appearances": 1
     },
     {
@@ -66,6 +94,20 @@
       "appearances": 1
     },
     {
+      "fullName": "alvr-org/ALVR",
+      "url": "https://github.com/alvr-org/ALVR",
+      "description": "Stream VR games from your PC to your headset via Wi-Fi",
+      "programmingLanguage": "Rust",
+      "stars": 7973,
+      "forks": 730,
+      "starsInPeriod": 6,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-05T14:35:35Z",
+      "lastSeenAt": "2026-10-05T14:35:35Z",
+      "appearances": 1
+    },
+    {
       "fullName": "Nasiko-Labs/nasiko",
       "url": "https://github.com/Nasiko-Labs/nasiko",
       "description": "The Open Runtime for AI Agents",
@@ -78,6 +120,20 @@
       "firstSeenAt": "2026-10-05T05:38:09Z",
       "lastSeenAt": "2026-10-05T05:38:09Z",
       "appearances": 1
+    },
+    {
+      "fullName": "FalkorDB/FalkorDB",
+      "url": "https://github.com/FalkorDB/FalkorDB",
+      "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+      "programmingLanguage": "Rust",
+      "stars": 7286,
+      "forks": 515,
+      "starsInPeriod": 387,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-05T05:38:09Z",
+      "lastSeenAt": "2026-10-05T14:35:35Z",
+      "appearances": 2
     },
     {
       "fullName": "zeronsh/zeron",
@@ -94,17 +150,17 @@
       "appearances": 1
     },
     {
-      "fullName": "FalkorDB/FalkorDB",
-      "url": "https://github.com/FalkorDB/FalkorDB",
-      "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+      "fullName": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 7012,
-      "forks": 508,
-      "starsInPeriod": 164,
+      "stars": 16195,
+      "forks": 996,
+      "starsInPeriod": 185,
       "bestRank": 7,
       "latestRank": 7,
-      "firstSeenAt": "2026-10-05T05:38:09Z",
-      "lastSeenAt": "2026-10-05T05:38:09Z",
+      "firstSeenAt": "2026-10-05T14:35:35Z",
+      "lastSeenAt": "2026-10-05T14:35:35Z",
       "appearances": 1
     },
     {
@@ -122,6 +178,20 @@
       "appearances": 1
     },
     {
+      "fullName": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "programmingLanguage": "Rust",
+      "stars": 2405,
+      "forks": 232,
+      "starsInPeriod": 177,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-05T14:35:35Z",
+      "lastSeenAt": "2026-10-05T14:35:35Z",
+      "appearances": 1
+    },
+    {
       "fullName": "samwhosung/benilla",
       "url": "https://github.com/samwhosung/benilla",
       "description": "A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy",
@@ -133,6 +203,20 @@
       "latestRank": 9,
       "firstSeenAt": "2026-10-05T05:38:09Z",
       "lastSeenAt": "2026-10-05T05:38:09Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "CluvexStudio/Aether",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "description": "A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.",
+      "programmingLanguage": "Rust",
+      "stars": 2081,
+      "forks": 164,
+      "starsInPeriod": 24,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-05T14:35:35Z",
+      "lastSeenAt": "2026-10-05T14:35:35Z",
       "appearances": 1
     },
     {
@@ -148,6 +232,20 @@
       "firstSeenAt": "2026-10-05T05:38:09Z",
       "lastSeenAt": "2026-10-05T05:38:09Z",
       "appearances": 1
+    },
+    {
+      "fullName": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
+      "programmingLanguage": "Rust",
+      "stars": 24614,
+      "forks": 1407,
+      "starsInPeriod": 38,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-05T05:38:09Z",
+      "lastSeenAt": "2026-10-05T14:35:35Z",
+      "appearances": 2
     },
     {
       "fullName": "cjpais/Handy",
@@ -173,20 +271,6 @@
       "starsInPeriod": 191,
       "bestRank": 12,
       "latestRank": 12,
-      "firstSeenAt": "2026-10-05T05:38:09Z",
-      "lastSeenAt": "2026-10-05T05:38:09Z",
-      "appearances": 1
-    },
-    {
-      "fullName": "tursodatabase/turso",
-      "url": "https://github.com/tursodatabase/turso",
-      "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
-      "programmingLanguage": "Rust",
-      "stars": 24608,
-      "forks": 1404,
-      "starsInPeriod": 46,
-      "bestRank": 13,
-      "latestRank": 13,
       "firstSeenAt": "2026-10-05T05:38:09Z",
       "lastSeenAt": "2026-10-05T05:38:09Z",
       "appearances": 1

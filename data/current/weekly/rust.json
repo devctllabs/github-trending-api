@@ -4,39 +4,39 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-10-05T05:38:12Z",
+  "observedAt": "2026-10-05T14:35:38Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "programmingLanguage": "Rust",
-      "stars": 14897,
-      "forks": 1699,
-      "starsInPeriod": 5996
-    },
-    {
-      "rank": 2,
       "fullName": "t8y2/dbx",
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 24614,
-      "forks": 2243,
+      "stars": 24718,
+      "forks": 2246,
       "starsInPeriod": 3600
     },
     {
-      "rank": 3,
-      "fullName": "hydra-db/hydradb",
-      "url": "https://github.com/hydra-db/hydradb",
-      "description": "HydraDB - fast graph database on object storage",
+      "rank": 2,
+      "fullName": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers",
       "programmingLanguage": "Rust",
-      "stars": 13049,
-      "forks": 5511,
-      "starsInPeriod": 2791
+      "stars": 11966,
+      "forks": 872,
+      "starsInPeriod": 568
+    },
+    {
+      "rank": 3,
+      "fullName": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "programmingLanguage": "Rust",
+      "stars": 16195,
+      "forks": 996,
+      "starsInPeriod": 1190
     },
     {
       "rank": 4,
@@ -44,89 +44,89 @@
       "url": "https://github.com/timhartmann7/omnyssh",
       "description": "Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 1142,
+      "stars": 1144,
       "forks": 63,
       "starsInPeriod": 331
     },
     {
       "rank": 5,
-      "fullName": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers",
-      "programmingLanguage": "Rust",
-      "stars": 11941,
-      "forks": 867,
-      "starsInPeriod": 568
-    },
-    {
-      "rank": 6,
-      "fullName": "longbridge/gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "programmingLanguage": "Rust",
-      "stars": 16156,
-      "forks": 993,
-      "starsInPeriod": 1190
-    },
-    {
-      "rank": 7,
       "fullName": "zerx-lab/FluxDown",
       "url": "https://github.com/zerx-lab/FluxDown",
       "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
       "programmingLanguage": "Rust",
-      "stars": 3858,
+      "stars": 3910,
       "forks": 232,
       "starsInPeriod": 584
     },
     {
-      "rank": 8,
-      "fullName": "touchHLE/touchHLE",
-      "url": "https://github.com/touchHLE/touchHLE",
-      "description": "High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
-      "programmingLanguage": "Rust",
-      "stars": 3975,
-      "forks": 344,
-      "starsInPeriod": 39
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "fullName": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "programmingLanguage": "Rust",
-      "stars": 96438,
-      "forks": 12699,
+      "stars": 96483,
+      "forks": 12702,
       "starsInPeriod": 1254
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "fullName": "touchHLE/touchHLE",
+      "url": "https://github.com/touchHLE/touchHLE",
+      "description": "High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
+      "programmingLanguage": "Rust",
+      "stars": 3972,
+      "forks": 346,
+      "starsInPeriod": 39
+    },
+    {
+      "rank": 8,
+      "fullName": "hydra-db/hydradb",
+      "url": "https://github.com/hydra-db/hydradb",
+      "description": "HydraDB - fast graph database on object storage",
+      "programmingLanguage": "Rust",
+      "stars": 13046,
+      "forks": 5504,
+      "starsInPeriod": 2791
+    },
+    {
+      "rank": 9,
       "fullName": "helix-editor/helix",
       "url": "https://github.com/helix-editor/helix",
       "description": "A post-modern modal text editor.",
       "programmingLanguage": "Rust",
-      "stars": 46465,
+      "stars": 46471,
       "forks": 3812,
       "starsInPeriod": 120
     },
     {
-      "rank": 11,
-      "fullName": "JayWebtech/autoshorts",
-      "url": "https://github.com/JayWebtech/autoshorts",
-      "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
-      "programmingLanguage": "Rust",
-      "stars": 1171,
-      "forks": 221,
-      "starsInPeriod": 283
-    },
-    {
-      "rank": 12,
+      "rank": 10,
       "fullName": "xingkongliang/skills-manager",
       "url": "https://github.com/xingkongliang/skills-manager",
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "programmingLanguage": "Rust",
-      "stars": 5478,
-      "forks": 472,
+      "stars": 5499,
+      "forks": 473,
       "starsInPeriod": 465
+    },
+    {
+      "rank": 11,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 14951,
+      "forks": 1703,
+      "starsInPeriod": 5996
+    },
+    {
+      "rank": 12,
+      "fullName": "JayWebtech/autoshorts",
+      "url": "https://github.com/JayWebtech/autoshorts",
+      "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
+      "programmingLanguage": "Rust",
+      "stars": 1174,
+      "forks": 221,
+      "starsInPeriod": 283
     },
     {
       "rank": 13,
@@ -134,7 +134,7 @@
       "url": "https://github.com/zeronsh/zeron",
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "programmingLanguage": "Rust",
-      "stars": 3019,
+      "stars": 3032,
       "forks": 285,
       "starsInPeriod": 781
     },
@@ -144,39 +144,39 @@
       "url": "https://github.com/pydantic/monty",
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "programmingLanguage": "Rust",
-      "stars": 8552,
+      "stars": 8561,
       "forks": 445,
       "starsInPeriod": 192
     },
     {
       "rank": 15,
-      "fullName": "tokio-rs/topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
+      "fullName": "kitao/pyxel",
+      "url": "https://github.com/kitao/pyxel",
+      "description": "A retro game engine for Python",
       "programmingLanguage": "Rust",
-      "stars": 5937,
-      "forks": 202,
-      "starsInPeriod": 472
+      "stars": 18394,
+      "forks": 963,
+      "starsInPeriod": 258
     },
     {
       "rank": 16,
-      "fullName": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
+      "fullName": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "programmingLanguage": "Rust",
-      "stars": 6375,
-      "forks": 432,
-      "starsInPeriod": 1144
+      "stars": 32900,
+      "forks": 3050,
+      "starsInPeriod": 571
     },
     {
       "rank": 17,
-      "fullName": "juspay/hyperswitch",
-      "url": "https://github.com/juspay/hyperswitch",
-      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+      "fullName": "a2x/cs2-dumper",
+      "url": "https://github.com/a2x/cs2-dumper",
+      "description": "Counter-Strike: 2 Offset Dumper",
       "programmingLanguage": "Rust",
-      "stars": 45286,
-      "forks": 6423,
-      "starsInPeriod": 539
+      "stars": 2397,
+      "forks": 365,
+      "starsInPeriod": 30
     }
   ]
 }

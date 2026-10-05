@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Mon, 05 Oct 2026 05:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:35:45 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-10-05</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-10-05T05:38:19Z</ght:updatedAt>
+    <ght:updatedAt>2026-10-05T14:35:45Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,14 +20,30 @@
       <guid isPermaLink="true">https://github.com/caddyserver/caddy</guid>
       <pubDate>Mon, 05 Oct 2026 05:38:19 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>76649</ght:stars>
-      <ght:forks>5049</ght:forks>
-      <ght:starsInPeriod>24</ght:starsInPeriod>
+      <ght:stars>76878</ght:stars>
+      <ght:forks>5064</ght:forks>
+      <ght:starsInPeriod>526</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
       <ght:firstSeenAt>2026-10-05T05:38:19Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-05T05:38:19Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>golang/go</title>
+      <link>https://github.com/golang/go</link>
+      <description>The Go programming language</description>
+      <guid isPermaLink="true">https://github.com/golang/go</guid>
+      <pubDate>Mon, 05 Oct 2026 05:38:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>139265</ght:stars>
+      <ght:forks>21366</ght:forks>
+      <ght:starsInPeriod>65</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-10-05T05:38:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>JuliusBrussee/caveman</title>
@@ -36,14 +52,14 @@
       <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
       <pubDate>Mon, 05 Oct 2026 05:38:19 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>109853</ght:stars>
-      <ght:forks>6356</ght:forks>
-      <ght:starsInPeriod>433</ght:starsInPeriod>
+      <ght:stars>109937</ght:stars>
+      <ght:forks>6361</ght:forks>
+      <ght:starsInPeriod>231</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
-      <ght:latestRank>2</ght:latestRank>
+      <ght:latestRank>11</ght:latestRank>
       <ght:firstSeenAt>2026-10-05T05:38:19Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-05T05:38:19Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>Autumn-27/ARTEX</title>
@@ -52,13 +68,29 @@
       <guid isPermaLink="true">https://github.com/Autumn-27/ARTEX</guid>
       <pubDate>Mon, 05 Oct 2026 05:38:19 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1536</ght:stars>
-      <ght:forks>313</ght:forks>
-      <ght:starsInPeriod>45</ght:starsInPeriod>
+      <ght:stars>1562</ght:stars>
+      <ght:forks>332</ght:forks>
+      <ght:starsInPeriod>62</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-10-05T05:38:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>henrygd/beszel</title>
+      <link>https://github.com/henrygd/beszel</link>
+      <description>Lightweight server monitoring with historical data, docker stats, and alerts.</description>
+      <guid isPermaLink="true">https://github.com/henrygd/beszel</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:45 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>25973</ght:stars>
+      <ght:forks>1066</ght:forks>
+      <ght:starsInPeriod>30</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
       <ght:latestRank>3</ght:latestRank>
-      <ght:firstSeenAt>2026-10-05T05:38:19Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-05T05:38:19Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-05T14:35:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -78,6 +110,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>slavakurilyak/awesome-ai-agents</title>
+      <link>https://github.com/slavakurilyak/awesome-ai-agents</link>
+      <description>Awesome list of 300+ agentic AI resources</description>
+      <guid isPermaLink="true">https://github.com/slavakurilyak/awesome-ai-agents</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:45 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>2341</ght:stars>
+      <ght:forks>593</ght:forks>
+      <ght:starsInPeriod>32</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-05T14:35:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>MHSanaei/3x-ui</title>
       <link>https://github.com/MHSanaei/3x-ui</link>
       <description>Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)</description>
@@ -94,20 +142,36 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>bettercap/bettercap</title>
+      <link>https://github.com/bettercap/bettercap</link>
+      <description>The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.</description>
+      <guid isPermaLink="true">https://github.com/bettercap/bettercap</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:45 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>20097</ght:stars>
+      <ght:forks>1730</ght:forks>
+      <ght:starsInPeriod>16</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-10-05T14:35:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>CarterPerez-dev/Cybersecurity-Projects</title>
       <link>https://github.com/CarterPerez-dev/Cybersecurity-Projects</link>
       <description>Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇</description>
       <guid isPermaLink="true">https://github.com/CarterPerez-dev/Cybersecurity-Projects</guid>
       <pubDate>Mon, 05 Oct 2026 05:38:19 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>7839</ght:stars>
-      <ght:forks>1143</ght:forks>
-      <ght:starsInPeriod>75</ght:starsInPeriod>
+      <ght:stars>7866</ght:stars>
+      <ght:forks>1147</ght:forks>
+      <ght:starsInPeriod>80</ght:starsInPeriod>
       <ght:bestRank>6</ght:bestRank>
-      <ght:latestRank>6</ght:latestRank>
+      <ght:latestRank>7</ght:latestRank>
       <ght:firstSeenAt>2026-10-05T05:38:19Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-05T05:38:19Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>tailscale/tailcat</title>
@@ -148,13 +212,29 @@
       <guid isPermaLink="true">https://github.com/google/gvisor</guid>
       <pubDate>Mon, 05 Oct 2026 05:38:19 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>19536</ght:stars>
-      <ght:forks>2021</ght:forks>
-      <ght:starsInPeriod>19</ght:starsInPeriod>
+      <ght:stars>19542</ght:stars>
+      <ght:forks>2022</ght:forks>
+      <ght:starsInPeriod>41</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-05T05:38:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>p1neappleXpress/OpenFlux</title>
+      <link>https://github.com/p1neappleXpress/OpenFlux</link>
+      <description>Network stack research tool. TCP tunnel with pluggable transports.</description>
+      <guid isPermaLink="true">https://github.com/p1neappleXpress/OpenFlux</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:45 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>1992</ght:stars>
+      <ght:forks>176</ght:forks>
+      <ght:starsInPeriod>42</ght:starsInPeriod>
       <ght:bestRank>9</ght:bestRank>
       <ght:latestRank>9</ght:latestRank>
-      <ght:firstSeenAt>2026-10-05T05:38:19Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-05T05:38:19Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-05T14:35:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -171,6 +251,22 @@
       <ght:latestRank>10</ght:latestRank>
       <ght:firstSeenAt>2026-10-05T05:38:19Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-05T05:38:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>ollama/ollama</title>
+      <link>https://github.com/ollama/ollama</link>
+      <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
+      <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:45 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>182227</ght:stars>
+      <ght:forks>18105</ght:forks>
+      <ght:starsInPeriod>82</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-10-05T14:35:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -206,6 +302,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>grpc/grpc-go</title>
+      <link>https://github.com/grpc/grpc-go</link>
+      <description>The Go language implementation of gRPC. HTTP/2 based RPC</description>
+      <guid isPermaLink="true">https://github.com/grpc/grpc-go</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:45 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>23090</ght:stars>
+      <ght:forks>4783</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-10-05T14:35:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>mostlygeek/llama-swap</title>
       <link>https://github.com/mostlygeek/llama-swap</link>
       <description>Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc</description>
@@ -219,6 +331,22 @@
       <ght:latestRank>13</ght:latestRank>
       <ght:firstSeenAt>2026-10-05T05:38:19Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-05T05:38:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>ltaoo/wx_channels_download</title>
+      <link>https://github.com/ltaoo/wx_channels_download</link>
+      <description>微信视频号下载器</description>
+      <guid isPermaLink="true">https://github.com/ltaoo/wx_channels_download</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:45 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>9625</ght:stars>
+      <ght:forks>1594</ght:forks>
+      <ght:starsInPeriod>36</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-10-05T14:35:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -238,6 +366,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>stripe/stripe-cli</title>
+      <link>https://github.com/stripe/stripe-cli</link>
+      <description>A command-line tool for Stripe</description>
+      <guid isPermaLink="true">https://github.com/stripe/stripe-cli</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:45 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>2198</ght:stars>
+      <ght:forks>532</ght:forks>
+      <ght:starsInPeriod>3</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-10-05T14:35:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>ys-ll/uniterm</title>
       <link>https://github.com/ys-ll/uniterm</link>
       <description>A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.</description>
@@ -251,6 +395,22 @@
       <ght:latestRank>15</ght:latestRank>
       <ght:firstSeenAt>2026-10-05T05:38:19Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-05T05:38:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>skyhook-io/radar</title>
+      <link>https://github.com/skyhook-io/radar</link>
+      <description>The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.</description>
+      <guid isPermaLink="true">https://github.com/skyhook-io/radar</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:45 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>3635</ght:stars>
+      <ght:forks>237</ght:forks>
+      <ght:starsInPeriod>34</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-10-05T14:35:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -270,6 +430,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>vavallee/bindery</title>
+      <link>https://github.com/vavallee/bindery</link>
+      <description>Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr.</description>
+      <guid isPermaLink="true">https://github.com/vavallee/bindery</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:45 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>488</ght:stars>
+      <ght:forks>73</ght:forks>
+      <ght:starsInPeriod>2</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-10-05T14:35:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>github/github-mcp-server</title>
       <link>https://github.com/github/github-mcp-server</link>
       <description>GitHub's official MCP Server</description>
@@ -286,19 +462,19 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>golang/go</title>
-      <link>https://github.com/golang/go</link>
-      <description>The Go programming language</description>
-      <guid isPermaLink="true">https://github.com/golang/go</guid>
-      <pubDate>Mon, 05 Oct 2026 05:38:19 GMT</pubDate>
+      <title>gtsteffaniak/filebrowser</title>
+      <link>https://github.com/gtsteffaniak/filebrowser</link>
+      <description>📂 Web File Browser</description>
+      <guid isPermaLink="true">https://github.com/gtsteffaniak/filebrowser</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:45 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>139253</ght:stars>
-      <ght:forks>21306</ght:forks>
-      <ght:starsInPeriod>77</ght:starsInPeriod>
-      <ght:bestRank>18</ght:bestRank>
-      <ght:latestRank>18</ght:latestRank>
-      <ght:firstSeenAt>2026-10-05T05:38:19Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-05T05:38:19Z</ght:lastSeenAt>
+      <ght:stars>8534</ght:stars>
+      <ght:forks>454</ght:forks>
+      <ght:starsInPeriod>9</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-10-05T14:35:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-05T14:35:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>

@@ -4,139 +4,109 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-05T05:38:09Z",
+  "observedAt": "2026-10-05T14:35:35Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "zerx-lab/FluxDown",
-      "url": "https://github.com/zerx-lab/FluxDown",
-      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "programmingLanguage": "Rust",
-      "stars": 3858,
-      "forks": 232,
-      "starsInPeriod": 299
+      "stars": 96483,
+      "forks": 12702,
+      "starsInPeriod": 250
     },
     {
       "rank": 2,
-      "fullName": "touchHLE/touchHLE",
-      "url": "https://github.com/touchHLE/touchHLE",
-      "description": "High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
-      "programmingLanguage": "Rust",
-      "stars": 3975,
-      "forks": 344,
-      "starsInPeriod": 4
-    },
-    {
-      "rank": 3,
       "fullName": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "programmingLanguage": "Rust",
-      "stars": 119558,
-      "forks": 17601,
-      "starsInPeriod": 112
+      "stars": 119578,
+      "forks": 17683,
+      "starsInPeriod": 56
     },
     {
-      "rank": 4,
-      "fullName": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "rank": 3,
+      "fullName": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "programmingLanguage": "Rust",
-      "stars": 37606,
-      "forks": 2411,
-      "starsInPeriod": 64
-    },
-    {
-      "rank": 5,
-      "fullName": "Nasiko-Labs/nasiko",
-      "url": "https://github.com/Nasiko-Labs/nasiko",
-      "description": "The Open Runtime for AI Agents",
-      "programmingLanguage": "Rust",
-      "stars": 9408,
-      "forks": 2076,
+      "stars": 8222,
+      "forks": 1666,
       "starsInPeriod": 5
     },
     {
-      "rank": 6,
-      "fullName": "zeronsh/zeron",
-      "url": "https://github.com/zeronsh/zeron",
-      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
+      "rank": 4,
+      "fullName": "alvr-org/ALVR",
+      "url": "https://github.com/alvr-org/ALVR",
+      "description": "Stream VR games from your PC to your headset via Wi-Fi",
       "programmingLanguage": "Rust",
-      "stars": 3019,
-      "forks": 285,
-      "starsInPeriod": 81
+      "stars": 7973,
+      "forks": 730,
+      "starsInPeriod": 6
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "fullName": "zerx-lab/FluxDown",
+      "url": "https://github.com/zerx-lab/FluxDown",
+      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+      "programmingLanguage": "Rust",
+      "stars": 3910,
+      "forks": 232,
+      "starsInPeriod": 152
+    },
+    {
+      "rank": 6,
       "fullName": "FalkorDB/FalkorDB",
       "url": "https://github.com/FalkorDB/FalkorDB",
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "programmingLanguage": "Rust",
-      "stars": 7012,
-      "forks": 508,
-      "starsInPeriod": 164
+      "stars": 7286,
+      "forks": 515,
+      "starsInPeriod": 387
+    },
+    {
+      "rank": 7,
+      "fullName": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "programmingLanguage": "Rust",
+      "stars": 16195,
+      "forks": 996,
+      "starsInPeriod": 185
     },
     {
       "rank": 8,
-      "fullName": "nkaz001/hftbacktest",
-      "url": "https://github.com/nkaz001/hftbacktest",
-      "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit",
+      "fullName": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 4852,
-      "forks": 922,
-      "starsInPeriod": 12
+      "stars": 2405,
+      "forks": 232,
+      "starsInPeriod": 177
     },
     {
       "rank": 9,
-      "fullName": "samwhosung/benilla",
-      "url": "https://github.com/samwhosung/benilla",
-      "description": "A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy",
+      "fullName": "CluvexStudio/Aether",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "description": "A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.",
       "programmingLanguage": "Rust",
-      "stars": 591,
-      "forks": 113,
-      "starsInPeriod": 50
+      "stars": 2081,
+      "forks": 164,
+      "starsInPeriod": 24
     },
     {
       "rank": 10,
-      "fullName": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
-      "programmingLanguage": "Rust",
-      "stars": 40645,
-      "forks": 4028,
-      "starsInPeriod": 98
-    },
-    {
-      "rank": 11,
-      "fullName": "cjpais/Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "programmingLanguage": "Rust",
-      "stars": 32863,
-      "forks": 3045,
-      "starsInPeriod": 84
-    },
-    {
-      "rank": 12,
-      "fullName": "clash-verge-rev/clash-verge-rev",
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-      "programmingLanguage": "Rust",
-      "stars": 149264,
-      "forks": 10711,
-      "starsInPeriod": 191
-    },
-    {
-      "rank": 13,
       "fullName": "tursodatabase/turso",
       "url": "https://github.com/tursodatabase/turso",
       "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
       "programmingLanguage": "Rust",
-      "stars": 24608,
-      "forks": 1404,
-      "starsInPeriod": 46
+      "stars": 24614,
+      "forks": 1407,
+      "starsInPeriod": 38
     }
   ]
 }

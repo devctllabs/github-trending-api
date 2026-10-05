@@ -4,132 +4,32 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-05T05:38:22Z",
+  "observedAt": "2026-10-05T14:35:48Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "CarterPerez-dev/Cybersecurity-Projects",
-      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
-      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
+      "fullName": "Gaurav-Gosain/tuios",
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "programmingLanguage": "Go",
-      "stars": 7839,
-      "forks": 1143,
-      "starsInPeriod": 395
+      "stars": 4760,
+      "forks": 209,
+      "starsInPeriod": 708
     },
     {
       "rank": 2,
-      "fullName": "Gentleman-Programming/engram",
-      "url": "https://github.com/Gentleman-Programming/engram",
-      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
-      "programmingLanguage": "Go",
-      "stars": 7037,
-      "forks": 727,
-      "starsInPeriod": 153
-    },
-    {
-      "rank": 3,
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "programmingLanguage": "Go",
-      "stars": 109853,
-      "forks": 6356,
-      "starsInPeriod": 1926
-    },
-    {
-      "rank": 4,
       "fullName": "caddyserver/caddy",
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 76649,
-      "forks": 5049,
+      "stars": 76878,
+      "forks": 5064,
       "starsInPeriod": 358
     },
     {
-      "rank": 5,
-      "fullName": "Billionmail/BillionMail",
-      "url": "https://github.com/Billionmail/BillionMail",
-      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
-      "programmingLanguage": "Go",
-      "stars": 15839,
-      "forks": 1741,
-      "starsInPeriod": 176
-    },
-    {
-      "rank": 6,
-      "fullName": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "programmingLanguage": "Go",
-      "stars": 66366,
-      "forks": 10890,
-      "starsInPeriod": 124
-    },
-    {
-      "rank": 7,
-      "fullName": "netdata/netdata",
-      "url": "https://github.com/netdata/netdata",
-      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
-      "programmingLanguage": "Go",
-      "stars": 80794,
-      "forks": 6652,
-      "starsInPeriod": 145
-    },
-    {
-      "rank": 8,
-      "fullName": "rakyll/hey",
-      "url": "https://github.com/rakyll/hey",
-      "description": "HTTP load generator, ApacheBench (ab) replacement",
-      "programmingLanguage": "Go",
-      "stars": 20634,
-      "forks": 1318,
-      "starsInPeriod": 356
-    },
-    {
-      "rank": 9,
-      "fullName": "Autumn-27/ARTEX",
-      "url": "https://github.com/Autumn-27/ARTEX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "programmingLanguage": "Go",
-      "stars": 1536,
-      "forks": 313,
-      "starsInPeriod": 274
-    },
-    {
-      "rank": 10,
-      "fullName": "nats-io/nats-server",
-      "url": "https://github.com/nats-io/nats-server",
-      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
-      "programmingLanguage": "Go",
-      "stars": 20837,
-      "forks": 1989,
-      "starsInPeriod": 68
-    },
-    {
-      "rank": 11,
-      "fullName": "gitleaks/gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
-      "programmingLanguage": "Go",
-      "stars": 29669,
-      "forks": 2268,
-      "starsInPeriod": 154
-    },
-    {
-      "rank": 12,
-      "fullName": "zitadel/zitadel",
-      "url": "https://github.com/zitadel/zitadel",
-      "description": "ZITADEL - Identity infrastructure, simplified for you.",
-      "programmingLanguage": "Go",
-      "stars": 15196,
-      "forks": 1348,
-      "starsInPeriod": 89
-    },
-    {
-      "rank": 13,
+      "rank": 3,
       "fullName": "urfave/cli",
       "url": "https://github.com/urfave/cli",
       "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
@@ -139,74 +39,154 @@
       "starsInPeriod": 32
     },
     {
+      "rank": 4,
+      "fullName": "CarterPerez-dev/Cybersecurity-Projects",
+      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
+      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
+      "programmingLanguage": "Go",
+      "stars": 7866,
+      "forks": 1147,
+      "starsInPeriod": 395
+    },
+    {
+      "rank": 5,
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 109937,
+      "forks": 6361,
+      "starsInPeriod": 1926
+    },
+    {
+      "rank": 6,
+      "fullName": "lharries/whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "description": "WhatsApp MCP server",
+      "programmingLanguage": "Go",
+      "stars": 6401,
+      "forks": 1364,
+      "starsInPeriod": 81
+    },
+    {
+      "rank": 7,
+      "fullName": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "programmingLanguage": "Go",
+      "stars": 23667,
+      "forks": 880,
+      "starsInPeriod": 278
+    },
+    {
+      "rank": 8,
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 38238,
+      "forks": 729,
+      "starsInPeriod": 149
+    },
+    {
+      "rank": 9,
+      "fullName": "Billionmail/BillionMail",
+      "url": "https://github.com/Billionmail/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "programmingLanguage": "Go",
+      "stars": 15846,
+      "forks": 1743,
+      "starsInPeriod": 176
+    },
+    {
+      "rank": 10,
+      "fullName": "rakyll/hey",
+      "url": "https://github.com/rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement",
+      "programmingLanguage": "Go",
+      "stars": 20638,
+      "forks": 1319,
+      "starsInPeriod": 356
+    },
+    {
+      "rank": 11,
+      "fullName": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "programmingLanguage": "Go",
+      "stars": 66371,
+      "forks": 10894,
+      "starsInPeriod": 124
+    },
+    {
+      "rank": 12,
+      "fullName": "Autumn-27/ARTEX",
+      "url": "https://github.com/Autumn-27/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "programmingLanguage": "Go",
+      "stars": 1562,
+      "forks": 332,
+      "starsInPeriod": 274
+    },
+    {
+      "rank": 13,
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "programmingLanguage": "Go",
+      "stars": 29677,
+      "forks": 2269,
+      "starsInPeriod": 154
+    },
+    {
       "rank": 14,
-      "fullName": "TecharoHQ/anubis",
-      "url": "https://github.com/TecharoHQ/anubis",
-      "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
-      "programmingLanguage": "Go",
-      "stars": 23076,
-      "forks": 747,
-      "starsInPeriod": 362
-    },
-    {
-      "rank": 15,
-      "fullName": "daeuniverse/dae",
-      "url": "https://github.com/daeuniverse/dae",
-      "description": "eBPF-based Linux high-performance transparent proxy solution.",
-      "programmingLanguage": "Go",
-      "stars": 6290,
-      "forks": 413,
-      "starsInPeriod": 50
-    },
-    {
-      "rank": 16,
-      "fullName": "ffuf/ffuf",
-      "url": "https://github.com/ffuf/ffuf",
-      "description": "Fast web fuzzer written in Go",
-      "programmingLanguage": "Go",
-      "stars": 16817,
-      "forks": 1618,
-      "starsInPeriod": 79
-    },
-    {
-      "rank": 17,
-      "fullName": "openbao/openbao",
-      "url": "https://github.com/openbao/openbao",
-      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "programmingLanguage": "Go",
-      "stars": 8305,
-      "forks": 610,
-      "starsInPeriod": 178
-    },
-    {
-      "rank": 18,
-      "fullName": "github/gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
-      "programmingLanguage": "Go",
-      "stars": 5341,
-      "forks": 572,
-      "starsInPeriod": 158
-    },
-    {
-      "rank": 19,
       "fullName": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 128290,
-      "forks": 46043,
+      "stars": 128306,
+      "forks": 46113,
       "starsInPeriod": 279
     },
     {
-      "rank": 20,
-      "fullName": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
+      "rank": 15,
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 139253,
-      "forks": 21306,
-      "starsInPeriod": 262
+      "stars": 58303,
+      "forks": 7219,
+      "starsInPeriod": 127
+    },
+    {
+      "rank": 16,
+      "fullName": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "programmingLanguage": "Go",
+      "stars": 41945,
+      "forks": 5949,
+      "starsInPeriod": 144
+    },
+    {
+      "rank": 17,
+      "fullName": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "programmingLanguage": "Go",
+      "stars": 45281,
+      "forks": 3138,
+      "starsInPeriod": 141
+    },
+    {
+      "rank": 18,
+      "fullName": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "programmingLanguage": "Go",
+      "stars": 20839,
+      "forks": 1991,
+      "starsInPeriod": 68
     }
   ]
 }
