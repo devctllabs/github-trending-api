@@ -4,59 +4,59 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-06T06:19:17Z",
+  "observedAt": "2026-10-06T18:21:22Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "fullName": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "programmingLanguage": "Rust",
-      "stars": 96613,
-      "forks": 12712,
-      "starsInPeriod": 225
+      "stars": 82538,
+      "forks": 5250,
+      "starsInPeriod": 102
     },
     {
       "rank": 2,
-      "fullName": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
+      "fullName": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 119599,
-      "forks": 17719,
-      "starsInPeriod": 55
+      "stars": 2834,
+      "forks": 265,
+      "starsInPeriod": 300
     },
     {
       "rank": 3,
-      "fullName": "ai-dynamo/dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "fullName": "rui314/mold",
+      "url": "https://github.com/rui314/mold",
+      "description": "mold 🦠: A Modern Linker in Rust 🦀",
       "programmingLanguage": "Rust",
-      "stars": 8228,
-      "forks": 1666,
-      "starsInPeriod": 5
+      "stars": 17495,
+      "forks": 572,
+      "starsInPeriod": 121
     },
     {
       "rank": 4,
-      "fullName": "alvr-org/ALVR",
-      "url": "https://github.com/alvr-org/ALVR",
-      "description": "Stream VR games from your PC to your headset via Wi-Fi",
+      "fullName": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "programmingLanguage": "Rust",
-      "stars": 7976,
-      "forks": 731,
-      "starsInPeriod": 7
+      "stars": 33029,
+      "forks": 3070,
+      "starsInPeriod": 103
     },
     {
       "rank": 5,
-      "fullName": "zerx-lab/FluxDown",
-      "url": "https://github.com/zerx-lab/FluxDown",
-      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+      "fullName": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 3958,
-      "forks": 235,
-      "starsInPeriod": 152
+      "stars": 125263,
+      "forks": 19478,
+      "starsInPeriod": 89
     },
     {
       "rank": 6,
@@ -64,49 +64,49 @@
       "url": "https://github.com/FalkorDB/FalkorDB",
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "programmingLanguage": "Rust",
-      "stars": 7524,
-      "forks": 517,
-      "starsInPeriod": 391
+      "stars": 7681,
+      "forks": 516,
+      "starsInPeriod": 348
     },
     {
       "rank": 7,
-      "fullName": "longbridge/gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "fullName": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "programmingLanguage": "Rust",
-      "stars": 16237,
-      "forks": 1000,
-      "starsInPeriod": 141
+      "stars": 22972,
+      "forks": 765,
+      "starsInPeriod": 152
     },
     {
       "rank": 8,
-      "fullName": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "fullName": "SimoHypers/limusic",
+      "url": "https://github.com/SimoHypers/limusic",
+      "description": "Feature rich, native desktop, YouTube Music client. Tauri + Rust + SvelteKit, ad-free playback through libmpv, Last.fm scrobbling and Discord Rich Presence, no Electron.",
       "programmingLanguage": "Rust",
-      "stars": 2597,
-      "forks": 249,
-      "starsInPeriod": 222
+      "stars": 848,
+      "forks": 58,
+      "starsInPeriod": 33
     },
     {
       "rank": 9,
-      "fullName": "CluvexStudio/Aether",
-      "url": "https://github.com/CluvexStudio/Aether",
-      "description": "A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.",
+      "fullName": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
       "programmingLanguage": "Rust",
-      "stars": 2094,
-      "forks": 164,
-      "starsInPeriod": 22
+      "stars": 35619,
+      "forks": 4709,
+      "starsInPeriod": 55
     },
     {
       "rank": 10,
-      "fullName": "tursodatabase/turso",
-      "url": "https://github.com/tursodatabase/turso",
-      "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
+      "fullName": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "programmingLanguage": "Rust",
-      "stars": 24644,
-      "forks": 1411,
-      "starsInPeriod": 37
+      "stars": 17334,
+      "forks": 1483,
+      "starsInPeriod": 29
     }
   ]
 }

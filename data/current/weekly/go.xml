@@ -4,144 +4,108 @@
     <title>GitHub Trending — weekly — go</title>
     <link>https://github.com/trending/go?since=weekly</link>
     <description>GitHub Trending — weekly — go</description>
-    <lastBuildDate>Tue, 06 Oct 2026 06:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:21:36 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>weekly</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-10-06T06:19:30Z</ght:observedAt>
+    <ght:observedAt>2026-10-06T18:21:36Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
-    <item>
-      <title>Gaurav-Gosain/tuios</title>
-      <link>https://github.com/Gaurav-Gosain/tuios</link>
-      <description>A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.</description>
-      <guid isPermaLink="true">https://github.com/Gaurav-Gosain/tuios</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>1</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>4884</ght:stars>
-      <ght:forks>217</ght:forks>
-      <ght:starsInPeriod>703</ght:starsInPeriod>
-    </item>
     <item>
       <title>caddyserver/caddy</title>
       <link>https://github.com/caddyserver/caddy</link>
       <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
       <guid isPermaLink="true">https://github.com/caddyserver/caddy</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>2</ght:rank>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>77246</ght:stars>
-      <ght:forks>5079</ght:forks>
+      <ght:stars>77394</ght:stars>
+      <ght:forks>5091</ght:forks>
       <ght:starsInPeriod>683</ght:starsInPeriod>
     </item>
     <item>
-      <title>urfave/cli</title>
-      <link>https://github.com/urfave/cli</link>
-      <description>A declarative, simple, fast, and fun package for building command line tools in Go</description>
-      <guid isPermaLink="true">https://github.com/urfave/cli</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>3</ght:rank>
+      <title>Gaurav-Gosain/tuios</title>
+      <link>https://github.com/Gaurav-Gosain/tuios</link>
+      <description>A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.</description>
+      <guid isPermaLink="true">https://github.com/Gaurav-Gosain/tuios</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>24285</ght:stars>
-      <ght:forks>1837</ght:forks>
-      <ght:starsInPeriod>25</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>JuliusBrussee/caveman</title>
-      <link>https://github.com/JuliusBrussee/caveman</link>
-      <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
-      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>110046</ght:stars>
-      <ght:forks>6369</ght:forks>
-      <ght:starsInPeriod>2003</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>lharries/whatsapp-mcp</title>
-      <link>https://github.com/lharries/whatsapp-mcp</link>
-      <description>WhatsApp MCP server</description>
-      <guid isPermaLink="true">https://github.com/lharries/whatsapp-mcp</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6405</ght:stars>
-      <ght:forks>1365</ght:forks>
-      <ght:starsInPeriod>80</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>yorukot/superfile</title>
-      <link>https://github.com/yorukot/superfile</link>
-      <description>Pretty fancy and modern terminal file manager</description>
-      <guid isPermaLink="true">https://github.com/yorukot/superfile</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>23678</ght:stars>
-      <ght:forks>873</ght:forks>
-      <ght:starsInPeriod>278</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>aquasecurity/trivy</title>
-      <link>https://github.com/aquasecurity/trivy</link>
-      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
-      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>38250</ght:stars>
-      <ght:forks>732</ght:forks>
-      <ght:starsInPeriod>153</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>Billionmail/BillionMail</title>
-      <link>https://github.com/Billionmail/BillionMail</link>
-      <description>BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</description>
-      <guid isPermaLink="true">https://github.com/Billionmail/BillionMail</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>8</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>15855</ght:stars>
-      <ght:forks>1745</ght:forks>
-      <ght:starsInPeriod>146</ght:starsInPeriod>
+      <ght:stars>4925</ght:stars>
+      <ght:forks>220</ght:forks>
+      <ght:starsInPeriod>703</ght:starsInPeriod>
     </item>
     <item>
       <title>rakyll/hey</title>
       <link>https://github.com/rakyll/hey</link>
       <description>HTTP load generator, ApacheBench (ab) replacement</description>
       <guid isPermaLink="true">https://github.com/rakyll/hey</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>9</ght:rank>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>20642</ght:stars>
+      <ght:stars>20644</ght:stars>
       <ght:forks>1319</ght:forks>
       <ght:starsInPeriod>308</ght:starsInPeriod>
     </item>
     <item>
-      <title>prometheus/prometheus</title>
-      <link>https://github.com/prometheus/prometheus</link>
-      <description>The Prometheus monitoring system and time series database.</description>
-      <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>10</ght:rank>
+      <title>netdata/netdata</title>
+      <link>https://github.com/netdata/netdata</link>
+      <description>The fastest path to AI-powered full stack observability, even for lean teams.</description>
+      <guid isPermaLink="true">https://github.com/netdata/netdata</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>66381</ght:stars>
-      <ght:forks>10897</ght:forks>
-      <ght:starsInPeriod>119</ght:starsInPeriod>
+      <ght:stars>80810</ght:stars>
+      <ght:forks>6654</ght:forks>
+      <ght:starsInPeriod>120</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>MHSanaei/3x-ui</title>
+      <link>https://github.com/MHSanaei/3x-ui</link>
+      <description>Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)</description>
+      <guid isPermaLink="true">https://github.com/MHSanaei/3x-ui</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>5</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>47509</ght:stars>
+      <ght:forks>12116</ght:forks>
+      <ght:starsInPeriod>396</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>TecharoHQ/anubis</title>
+      <link>https://github.com/TecharoHQ/anubis</link>
+      <description>Weighs the soul of incoming HTTP requests to stop AI crawlers</description>
+      <guid isPermaLink="true">https://github.com/TecharoHQ/anubis</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>6</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>23125</ght:stars>
+      <ght:forks>751</ght:forks>
+      <ght:starsInPeriod>377</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>google/gvisor</title>
+      <link>https://github.com/google/gvisor</link>
+      <description>Application Kernel for Containers</description>
+      <guid isPermaLink="true">https://github.com/google/gvisor</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>7</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>19565</ght:stars>
+      <ght:forks>2023</ght:forks>
+      <ght:starsInPeriod>125</ght:starsInPeriod>
     </item>
     <item>
       <title>Autumn-27/ARTEX</title>
       <link>https://github.com/Autumn-27/ARTEX</link>
       <description>AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目</description>
       <guid isPermaLink="true">https://github.com/Autumn-27/ARTEX</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>11</ght:rank>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1622</ght:stars>
-      <ght:forks>358</ght:forks>
+      <ght:stars>1685</ght:stars>
+      <ght:forks>385</ght:forks>
       <ght:starsInPeriod>302</ght:starsInPeriod>
     </item>
     <item>
@@ -149,84 +113,96 @@
       <link>https://github.com/Agent-Field/CodeAF</link>
       <description>Open-Source Software factory for Open Models</description>
       <guid isPermaLink="true">https://github.com/Agent-Field/CodeAF</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>12</ght:rank>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>282</ght:stars>
-      <ght:forks>39</ght:forks>
+      <ght:stars>292</ght:stars>
+      <ght:forks>40</ght:forks>
       <ght:starsInPeriod>148</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>gitleaks/gitleaks</title>
-      <link>https://github.com/gitleaks/gitleaks</link>
-      <description>Find secrets with Gitleaks 🔑</description>
-      <guid isPermaLink="true">https://github.com/gitleaks/gitleaks</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>13</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>29715</ght:stars>
-      <ght:forks>2268</ght:forks>
-      <ght:starsInPeriod>162</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>kubernetes/kubernetes</title>
-      <link>https://github.com/kubernetes/kubernetes</link>
-      <description>Production-Grade Container Scheduling and Management</description>
-      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>14</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>128327</ght:stars>
-      <ght:forks>46129</ght:forks>
-      <ght:starsInPeriod>286</ght:starsInPeriod>
     </item>
     <item>
       <title>go-gitea/gitea</title>
       <link>https://github.com/go-gitea/gitea</link>
       <description>Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</description>
       <guid isPermaLink="true">https://github.com/go-gitea/gitea</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>15</ght:rank>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>58319</ght:stars>
-      <ght:forks>7225</ght:forks>
+      <ght:stars>58334</ght:stars>
+      <ght:forks>7227</ght:forks>
       <ght:starsInPeriod>125</ght:starsInPeriod>
     </item>
     <item>
-      <title>XTLS/Xray-core</title>
-      <link>https://github.com/XTLS/Xray-core</link>
-      <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
-      <guid isPermaLink="true">https://github.com/XTLS/Xray-core</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>16</ght:rank>
+      <title>Billionmail/BillionMail</title>
+      <link>https://github.com/Billionmail/BillionMail</link>
+      <description>BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</description>
+      <guid isPermaLink="true">https://github.com/Billionmail/BillionMail</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>41943</ght:stars>
-      <ght:forks>5947</ght:forks>
-      <ght:starsInPeriod>143</ght:starsInPeriod>
+      <ght:stars>15858</ght:stars>
+      <ght:forks>1744</ght:forks>
+      <ght:starsInPeriod>146</ght:starsInPeriod>
     </item>
     <item>
-      <title>charmbracelet/bubbletea</title>
-      <link>https://github.com/charmbracelet/bubbletea</link>
-      <description>A powerful little TUI framework 🏗</description>
-      <guid isPermaLink="true">https://github.com/charmbracelet/bubbletea</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>17</ght:rank>
+      <title>JuliusBrussee/caveman</title>
+      <link>https://github.com/JuliusBrussee/caveman</link>
+      <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
+      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>45291</ght:stars>
-      <ght:forks>3162</ght:forks>
-      <ght:starsInPeriod>141</ght:starsInPeriod>
+      <ght:stars>110176</ght:stars>
+      <ght:forks>6380</ght:forks>
+      <ght:starsInPeriod>2003</ght:starsInPeriod>
     </item>
     <item>
       <title>nats-io/nats-server</title>
       <link>https://github.com/nats-io/nats-server</link>
       <description>High-Performance server for NATS.io, the cloud and edge native messaging system.</description>
       <guid isPermaLink="true">https://github.com/nats-io/nats-server</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:30 GMT</pubDate>
-      <ght:rank>18</ght:rank>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>13</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>20843</ght:stars>
+      <ght:stars>20845</ght:stars>
       <ght:forks>1990</ght:forks>
       <ght:starsInPeriod>67</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>charmbracelet/bubbletea</title>
+      <link>https://github.com/charmbracelet/bubbletea</link>
+      <description>A powerful little TUI framework 🏗</description>
+      <guid isPermaLink="true">https://github.com/charmbracelet/bubbletea</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>14</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>45303</ght:stars>
+      <ght:forks>3201</ght:forks>
+      <ght:starsInPeriod>141</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>github/gh-aw</title>
+      <link>https://github.com/github/gh-aw</link>
+      <description>GitHub Agentic Workflows</description>
+      <guid isPermaLink="true">https://github.com/github/gh-aw</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>15</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5350</ght:stars>
+      <ght:forks>575</ght:forks>
+      <ght:starsInPeriod>153</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>lharries/whatsapp-mcp</title>
+      <link>https://github.com/lharries/whatsapp-mcp</link>
+      <description>WhatsApp MCP server</description>
+      <guid isPermaLink="true">https://github.com/lharries/whatsapp-mcp</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:36 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6411</ght:stars>
+      <ght:forks>1366</ght:forks>
+      <ght:starsInPeriod>80</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-10-06T06:19:17Z",
+  "updatedAt": "2026-10-06T18:21:22Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -24,6 +24,20 @@
       "appearances": 2
     },
     {
+      "fullName": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "programmingLanguage": "Rust",
+      "stars": 82538,
+      "forks": 5250,
+      "starsInPeriod": 102,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-06T18:21:22Z",
+      "lastSeenAt": "2026-10-06T18:21:22Z",
+      "appearances": 1
+    },
+    {
       "fullName": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
@@ -36,6 +50,20 @@
       "firstSeenAt": "2026-10-06T00:03:02Z",
       "lastSeenAt": "2026-10-06T06:19:17Z",
       "appearances": 2
+    },
+    {
+      "fullName": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "programmingLanguage": "Rust",
+      "stars": 2834,
+      "forks": 265,
+      "starsInPeriod": 300,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-06T00:03:02Z",
+      "lastSeenAt": "2026-10-06T18:21:22Z",
+      "appearances": 3
     },
     {
       "fullName": "ai-dynamo/dynamo",
@@ -52,6 +80,20 @@
       "appearances": 2
     },
     {
+      "fullName": "rui314/mold",
+      "url": "https://github.com/rui314/mold",
+      "description": "mold 🦠: A Modern Linker in Rust 🦀",
+      "programmingLanguage": "Rust",
+      "stars": 17495,
+      "forks": 572,
+      "starsInPeriod": 121,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-06T18:21:22Z",
+      "lastSeenAt": "2026-10-06T18:21:22Z",
+      "appearances": 1
+    },
+    {
       "fullName": "alvr-org/ALVR",
       "url": "https://github.com/alvr-org/ALVR",
       "description": "Stream VR games from your PC to your headset via Wi-Fi",
@@ -64,6 +106,20 @@
       "firstSeenAt": "2026-10-06T00:03:02Z",
       "lastSeenAt": "2026-10-06T06:19:17Z",
       "appearances": 2
+    },
+    {
+      "fullName": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "programmingLanguage": "Rust",
+      "stars": 33029,
+      "forks": 3070,
+      "starsInPeriod": 103,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-06T18:21:22Z",
+      "lastSeenAt": "2026-10-06T18:21:22Z",
+      "appearances": 1
     },
     {
       "fullName": "zerx-lab/FluxDown",
@@ -80,18 +136,32 @@
       "appearances": 2
     },
     {
+      "fullName": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "programmingLanguage": "Rust",
+      "stars": 125263,
+      "forks": 19478,
+      "starsInPeriod": 89,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-06T18:21:22Z",
+      "lastSeenAt": "2026-10-06T18:21:22Z",
+      "appearances": 1
+    },
+    {
       "fullName": "FalkorDB/FalkorDB",
       "url": "https://github.com/FalkorDB/FalkorDB",
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "programmingLanguage": "Rust",
-      "stars": 7524,
-      "forks": 517,
-      "starsInPeriod": 391,
+      "stars": 7681,
+      "forks": 516,
+      "starsInPeriod": 348,
       "bestRank": 6,
       "latestRank": 6,
       "firstSeenAt": "2026-10-06T00:03:02Z",
-      "lastSeenAt": "2026-10-06T06:19:17Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-06T18:21:22Z",
+      "appearances": 3
     },
     {
       "fullName": "longbridge/gpui-kit",
@@ -108,18 +178,32 @@
       "appearances": 2
     },
     {
-      "fullName": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "fullName": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "programmingLanguage": "Rust",
-      "stars": 2597,
-      "forks": 249,
-      "starsInPeriod": 222,
+      "stars": 22972,
+      "forks": 765,
+      "starsInPeriod": 152,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-06T18:21:22Z",
+      "lastSeenAt": "2026-10-06T18:21:22Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "SimoHypers/limusic",
+      "url": "https://github.com/SimoHypers/limusic",
+      "description": "Feature rich, native desktop, YouTube Music client. Tauri + Rust + SvelteKit, ad-free playback through libmpv, Last.fm scrobbling and Discord Rich Presence, no Electron.",
+      "programmingLanguage": "Rust",
+      "stars": 848,
+      "forks": 58,
+      "starsInPeriod": 33,
       "bestRank": 8,
       "latestRank": 8,
-      "firstSeenAt": "2026-10-06T00:03:02Z",
-      "lastSeenAt": "2026-10-06T06:19:17Z",
-      "appearances": 2
+      "firstSeenAt": "2026-10-06T18:21:22Z",
+      "lastSeenAt": "2026-10-06T18:21:22Z",
+      "appearances": 1
     },
     {
       "fullName": "CluvexStudio/Aether",
@@ -136,6 +220,20 @@
       "appearances": 2
     },
     {
+      "fullName": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "programmingLanguage": "Rust",
+      "stars": 35619,
+      "forks": 4709,
+      "starsInPeriod": 55,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-06T18:21:22Z",
+      "lastSeenAt": "2026-10-06T18:21:22Z",
+      "appearances": 1
+    },
+    {
       "fullName": "tursodatabase/turso",
       "url": "https://github.com/tursodatabase/turso",
       "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
@@ -148,6 +246,20 @@
       "firstSeenAt": "2026-10-06T00:03:02Z",
       "lastSeenAt": "2026-10-06T06:19:17Z",
       "appearances": 2
+    },
+    {
+      "fullName": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "programmingLanguage": "Rust",
+      "stars": 17334,
+      "forks": 1483,
+      "starsInPeriod": 29,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-06T18:21:22Z",
+      "lastSeenAt": "2026-10-06T18:21:22Z",
+      "appearances": 1
     }
   ]
 }

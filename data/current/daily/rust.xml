@@ -4,133 +4,133 @@
     <title>GitHub Trending — daily — rust</title>
     <link>https://github.com/trending/rust</link>
     <description>GitHub Trending — daily — rust</description>
-    <lastBuildDate>Tue, 06 Oct 2026 06:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:21:22 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-10-06T06:19:17Z</ght:observedAt>
+    <ght:observedAt>2026-10-06T18:21:22Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
-      <title>ruvnet/RuView</title>
-      <link>https://github.com/ruvnet/RuView</link>
-      <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
-      <guid isPermaLink="true">https://github.com/ruvnet/RuView</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:17 GMT</pubDate>
+      <title>rtk-ai/rtk</title>
+      <link>https://github.com/rtk-ai/rtk</link>
+      <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
+      <guid isPermaLink="true">https://github.com/rtk-ai/rtk</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:22 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>96613</ght:stars>
-      <ght:forks>12712</ght:forks>
-      <ght:starsInPeriod>225</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>rust-lang/rust</title>
-      <link>https://github.com/rust-lang/rust</link>
-      <description>Empowering everyone to build reliable and efficient software.</description>
-      <guid isPermaLink="true">https://github.com/rust-lang/rust</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:17 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>119599</ght:stars>
-      <ght:forks>17719</ght:forks>
-      <ght:starsInPeriod>55</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>ai-dynamo/dynamo</title>
-      <link>https://github.com/ai-dynamo/dynamo</link>
-      <description>A Datacenter Scale Distributed Inference Serving Framework</description>
-      <guid isPermaLink="true">https://github.com/ai-dynamo/dynamo</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:17 GMT</pubDate>
-      <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>8228</ght:stars>
-      <ght:forks>1666</ght:forks>
-      <ght:starsInPeriod>5</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>alvr-org/ALVR</title>
-      <link>https://github.com/alvr-org/ALVR</link>
-      <description>Stream VR games from your PC to your headset via Wi-Fi</description>
-      <guid isPermaLink="true">https://github.com/alvr-org/ALVR</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:17 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>7976</ght:stars>
-      <ght:forks>731</ght:forks>
-      <ght:starsInPeriod>7</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>zerx-lab/FluxDown</title>
-      <link>https://github.com/zerx-lab/FluxDown</link>
-      <description>Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。</description>
-      <guid isPermaLink="true">https://github.com/zerx-lab/FluxDown</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:17 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>3958</ght:stars>
-      <ght:forks>235</ght:forks>
-      <ght:starsInPeriod>152</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>FalkorDB/FalkorDB</title>
-      <link>https://github.com/FalkorDB/FalkorDB</link>
-      <description>A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).</description>
-      <guid isPermaLink="true">https://github.com/FalkorDB/FalkorDB</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:17 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>7524</ght:stars>
-      <ght:forks>517</ght:forks>
-      <ght:starsInPeriod>391</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>longbridge/gpui-kit</title>
-      <link>https://github.com/longbridge/gpui-kit</link>
-      <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
-      <guid isPermaLink="true">https://github.com/longbridge/gpui-kit</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:17 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>16237</ght:stars>
-      <ght:forks>1000</ght:forks>
-      <ght:starsInPeriod>141</ght:starsInPeriod>
+      <ght:stars>82538</ght:stars>
+      <ght:forks>5250</ght:forks>
+      <ght:starsInPeriod>102</ght:starsInPeriod>
     </item>
     <item>
       <title>storytold/artcraft</title>
       <link>https://github.com/storytold/artcraft</link>
       <description>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</description>
       <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:17 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 18:21:22 GMT</pubDate>
+      <ght:rank>2</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>2834</ght:stars>
+      <ght:forks>265</ght:forks>
+      <ght:starsInPeriod>300</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>rui314/mold</title>
+      <link>https://github.com/rui314/mold</link>
+      <description>mold 🦠: A Modern Linker in Rust 🦀</description>
+      <guid isPermaLink="true">https://github.com/rui314/mold</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:22 GMT</pubDate>
+      <ght:rank>3</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>17495</ght:stars>
+      <ght:forks>572</ght:forks>
+      <ght:starsInPeriod>121</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>cjpais/Handy</title>
+      <link>https://github.com/cjpais/Handy</link>
+      <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
+      <guid isPermaLink="true">https://github.com/cjpais/Handy</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:22 GMT</pubDate>
+      <ght:rank>4</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>33029</ght:stars>
+      <ght:forks>3070</ght:forks>
+      <ght:starsInPeriod>103</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>rustdesk/rustdesk</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+      <guid isPermaLink="true">https://github.com/rustdesk/rustdesk</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:22 GMT</pubDate>
+      <ght:rank>5</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>125263</ght:stars>
+      <ght:forks>19478</ght:forks>
+      <ght:starsInPeriod>89</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>FalkorDB/FalkorDB</title>
+      <link>https://github.com/FalkorDB/FalkorDB</link>
+      <description>A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).</description>
+      <guid isPermaLink="true">https://github.com/FalkorDB/FalkorDB</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:22 GMT</pubDate>
+      <ght:rank>6</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>7681</ght:stars>
+      <ght:forks>516</ght:forks>
+      <ght:starsInPeriod>348</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>AprilNEA/OpenLogi</title>
+      <link>https://github.com/AprilNEA/OpenLogi</link>
+      <description>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.</description>
+      <guid isPermaLink="true">https://github.com/AprilNEA/OpenLogi</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:22 GMT</pubDate>
+      <ght:rank>7</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>22972</ght:stars>
+      <ght:forks>765</ght:forks>
+      <ght:starsInPeriod>152</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>SimoHypers/limusic</title>
+      <link>https://github.com/SimoHypers/limusic</link>
+      <description>Feature rich, native desktop, YouTube Music client. Tauri + Rust + SvelteKit, ad-free playback through libmpv, Last.fm scrobbling and Discord Rich Presence, no Electron.</description>
+      <guid isPermaLink="true">https://github.com/SimoHypers/limusic</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:22 GMT</pubDate>
       <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>2597</ght:stars>
-      <ght:forks>249</ght:forks>
-      <ght:starsInPeriod>222</ght:starsInPeriod>
+      <ght:stars>848</ght:stars>
+      <ght:forks>58</ght:forks>
+      <ght:starsInPeriod>33</ght:starsInPeriod>
     </item>
     <item>
-      <title>CluvexStudio/Aether</title>
-      <link>https://github.com/CluvexStudio/Aether</link>
-      <description>A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.</description>
-      <guid isPermaLink="true">https://github.com/CluvexStudio/Aether</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:17 GMT</pubDate>
+      <title>block/buzz</title>
+      <link>https://github.com/block/buzz</link>
+      <description>A hive mind communication platform</description>
+      <guid isPermaLink="true">https://github.com/block/buzz</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:22 GMT</pubDate>
       <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>2094</ght:stars>
-      <ght:forks>164</ght:forks>
-      <ght:starsInPeriod>22</ght:starsInPeriod>
+      <ght:stars>35619</ght:stars>
+      <ght:forks>4709</ght:forks>
+      <ght:starsInPeriod>55</ght:starsInPeriod>
     </item>
     <item>
-      <title>tursodatabase/turso</title>
-      <link>https://github.com/tursodatabase/turso</link>
-      <description>A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.</description>
-      <guid isPermaLink="true">https://github.com/tursodatabase/turso</guid>
-      <pubDate>Tue, 06 Oct 2026 06:19:17 GMT</pubDate>
+      <title>RyanCodrai/turbovec</title>
+      <link>https://github.com/RyanCodrai/turbovec</link>
+      <description>A vector index built on TurboQuant, written in Rust with Python bindings</description>
+      <guid isPermaLink="true">https://github.com/RyanCodrai/turbovec</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:22 GMT</pubDate>
       <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>24644</ght:stars>
-      <ght:forks>1411</ght:forks>
-      <ght:starsInPeriod>37</ght:starsInPeriod>
+      <ght:stars>17334</ght:stars>
+      <ght:forks>1483</ght:forks>
+      <ght:starsInPeriod>29</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

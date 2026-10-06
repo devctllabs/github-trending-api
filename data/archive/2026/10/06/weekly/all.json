@@ -5,10 +5,24 @@
   "period": "weekly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=weekly",
-  "updatedAt": "2026-10-06T06:19:00Z",
+  "updatedAt": "2026-10-06T18:21:05Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
+    {
+      "fullName": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "programmingLanguage": "TypeScript",
+      "stars": 5450,
+      "forks": 398,
+      "starsInPeriod": 3776,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-06T00:02:45Z",
+      "lastSeenAt": "2026-10-06T18:21:05Z",
+      "appearances": 3
+    },
     {
       "fullName": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
@@ -22,6 +36,20 @@
       "firstSeenAt": "2026-10-06T00:02:45Z",
       "lastSeenAt": "2026-10-06T06:19:00Z",
       "appearances": 2
+    },
+    {
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "programmingLanguage": "TypeScript",
+      "stars": 57789,
+      "forks": 5157,
+      "starsInPeriod": 3342,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-06T00:02:45Z",
+      "lastSeenAt": "2026-10-06T18:21:05Z",
+      "appearances": 3
     },
     {
       "fullName": "paperclipai/paperclip",
@@ -38,6 +66,20 @@
       "appearances": 2
     },
     {
+      "fullName": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "programmingLanguage": "TypeScript",
+      "stars": 10074,
+      "forks": 955,
+      "starsInPeriod": 1042,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-06T00:02:45Z",
+      "lastSeenAt": "2026-10-06T18:21:05Z",
+      "appearances": 3
+    },
+    {
       "fullName": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
@@ -52,18 +94,18 @@
       "appearances": 2
     },
     {
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "programmingLanguage": "TypeScript",
-      "stars": 57431,
-      "forks": 5138,
-      "starsInPeriod": 3342,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 15097,
+      "forks": 1715,
+      "starsInPeriod": 5915,
       "bestRank": 4,
       "latestRank": 4,
-      "firstSeenAt": "2026-10-06T00:02:45Z",
-      "lastSeenAt": "2026-10-06T06:19:00Z",
-      "appearances": 2
+      "firstSeenAt": "2026-10-06T18:21:05Z",
+      "lastSeenAt": "2026-10-06T18:21:05Z",
+      "appearances": 1
     },
     {
       "fullName": "debpalash/VoiceStudio",
@@ -80,18 +122,46 @@
       "appearances": 2
     },
     {
+      "fullName": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "programmingLanguage": "Python",
+      "stars": 38758,
+      "forks": 3357,
+      "starsInPeriod": 2860,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-06T18:21:05Z",
+      "lastSeenAt": "2026-10-06T18:21:05Z",
+      "appearances": 1
+    },
+    {
       "fullName": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 92106,
-      "forks": 8082,
+      "stars": 92518,
+      "forks": 8114,
       "starsInPeriod": 5703,
       "bestRank": 6,
-      "latestRank": 6,
+      "latestRank": 11,
       "firstSeenAt": "2026-10-06T00:02:45Z",
-      "lastSeenAt": "2026-10-06T06:19:00Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-06T18:21:05Z",
+      "appearances": 3
+    },
+    {
+      "fullName": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "programmingLanguage": "TypeScript",
+      "stars": 97025,
+      "forks": 8554,
+      "starsInPeriod": 1759,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-06T18:21:05Z",
+      "lastSeenAt": "2026-10-06T18:21:05Z",
+      "appearances": 1
     },
     {
       "fullName": "Effect-TS/effect",
@@ -106,6 +176,20 @@
       "firstSeenAt": "2026-10-06T00:02:45Z",
       "lastSeenAt": "2026-10-06T06:19:00Z",
       "appearances": 2
+    },
+    {
+      "fullName": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "programmingLanguage": "TypeScript",
+      "stars": 4808,
+      "forks": 419,
+      "starsInPeriod": 2741,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-06T00:02:45Z",
+      "lastSeenAt": "2026-10-06T18:21:05Z",
+      "appearances": 3
     },
     {
       "fullName": "Gaurav-Gosain/tuios",
@@ -136,6 +220,20 @@
       "appearances": 1
     },
     {
+      "fullName": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "programmingLanguage": "Python",
+      "stars": 17187,
+      "forks": 2341,
+      "starsInPeriod": 1985,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-06T18:21:05Z",
+      "lastSeenAt": "2026-10-06T18:21:05Z",
+      "appearances": 1
+    },
+    {
       "fullName": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": null,
@@ -150,6 +248,20 @@
       "appearances": 2
     },
     {
+      "fullName": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "programmingLanguage": "JavaScript",
+      "stars": 5379,
+      "forks": 751,
+      "starsInPeriod": 2702,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-06T18:21:05Z",
+      "lastSeenAt": "2026-10-06T18:21:05Z",
+      "appearances": 1
+    },
+    {
       "fullName": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
@@ -162,6 +274,20 @@
       "firstSeenAt": "2026-10-06T00:02:45Z",
       "lastSeenAt": "2026-10-06T06:19:00Z",
       "appearances": 2
+    },
+    {
+      "fullName": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "programmingLanguage": "C++",
+      "stars": 5965,
+      "forks": 444,
+      "starsInPeriod": 2657,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-06T18:21:05Z",
+      "lastSeenAt": "2026-10-06T18:21:05Z",
+      "appearances": 1
     },
     {
       "fullName": "alirezarezvani/claude-skills",
@@ -192,6 +318,20 @@
       "appearances": 2
     },
     {
+      "fullName": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
+      "programmingLanguage": "JavaScript",
+      "stars": 67493,
+      "forks": 6695,
+      "starsInPeriod": 2827,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-10-06T18:21:05Z",
+      "lastSeenAt": "2026-10-06T18:21:05Z",
+      "appearances": 1
+    },
+    {
       "fullName": "tile-ai/tilelang",
       "url": "https://github.com/tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
@@ -201,20 +341,6 @@
       "starsInPeriod": 922,
       "bestRank": 13,
       "latestRank": 14,
-      "firstSeenAt": "2026-10-06T00:02:45Z",
-      "lastSeenAt": "2026-10-06T06:19:00Z",
-      "appearances": 2
-    },
-    {
-      "fullName": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "programmingLanguage": "TypeScript",
-      "stars": 9991,
-      "forks": 945,
-      "starsInPeriod": 1042,
-      "bestRank": 14,
-      "latestRank": 15,
       "firstSeenAt": "2026-10-06T00:02:45Z",
       "lastSeenAt": "2026-10-06T06:19:00Z",
       "appearances": 2
@@ -271,34 +397,6 @@
       "starsInPeriod": 2116,
       "bestRank": 18,
       "latestRank": 19,
-      "firstSeenAt": "2026-10-06T00:02:45Z",
-      "lastSeenAt": "2026-10-06T06:19:00Z",
-      "appearances": 2
-    },
-    {
-      "fullName": "pablostanley/yoinks",
-      "url": "https://github.com/pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "programmingLanguage": "TypeScript",
-      "stars": 4680,
-      "forks": 415,
-      "starsInPeriod": 2741,
-      "bestRank": 19,
-      "latestRank": 20,
-      "firstSeenAt": "2026-10-06T00:02:45Z",
-      "lastSeenAt": "2026-10-06T06:19:00Z",
-      "appearances": 2
-    },
-    {
-      "fullName": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "programmingLanguage": "TypeScript",
-      "stars": 5300,
-      "forks": 390,
-      "starsInPeriod": 3776,
-      "bestRank": 20,
-      "latestRank": 21,
       "firstSeenAt": "2026-10-06T00:02:45Z",
       "lastSeenAt": "2026-10-06T06:19:00Z",
       "appearances": 2

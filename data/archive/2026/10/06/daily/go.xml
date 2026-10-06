@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Tue, 06 Oct 2026 06:19:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:21:32 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-10-06</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-10-06T06:19:26Z</ght:updatedAt>
+    <ght:updatedAt>2026-10-06T18:21:32Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,14 +20,14 @@
       <guid isPermaLink="true">https://github.com/caddyserver/caddy</guid>
       <pubDate>Tue, 06 Oct 2026 00:03:12 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>77246</ght:stars>
-      <ght:forks>5079</ght:forks>
-      <ght:starsInPeriod>515</ght:starsInPeriod>
+      <ght:stars>77394</ght:stars>
+      <ght:forks>5091</ght:forks>
+      <ght:starsInPeriod>609</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
       <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-06T06:19:26Z</ght:lastSeenAt>
-      <ght:appearances>2</ght:appearances>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>3</ght:appearances>
     </item>
     <item>
       <title>golang/go</title>
@@ -36,14 +36,30 @@
       <guid isPermaLink="true">https://github.com/golang/go</guid>
       <pubDate>Tue, 06 Oct 2026 00:03:12 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>139276</ght:stars>
-      <ght:forks>21385</ght:forks>
-      <ght:starsInPeriod>47</ght:starsInPeriod>
+      <ght:stars>139324</ght:stars>
+      <ght:forks>21419</ght:forks>
+      <ght:starsInPeriod>78</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>3</ght:appearances>
+    </item>
+    <item>
+      <title>google/gvisor</title>
+      <link>https://github.com/google/gvisor</link>
+      <description>Application Kernel for Containers</description>
+      <guid isPermaLink="true">https://github.com/google/gvisor</guid>
+      <pubDate>Tue, 06 Oct 2026 00:03:12 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>19565</ght:stars>
+      <ght:forks>2023</ght:forks>
+      <ght:starsInPeriod>20</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
       <ght:latestRank>2</ght:latestRank>
       <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-06T06:19:26Z</ght:lastSeenAt>
-      <ght:appearances>2</ght:appearances>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>3</ght:appearances>
     </item>
     <item>
       <title>henrygd/beszel</title>
@@ -62,20 +78,52 @@
       <ght:appearances>2</ght:appearances>
     </item>
     <item>
+      <title>gitleaks/gitleaks</title>
+      <link>https://github.com/gitleaks/gitleaks</link>
+      <description>Find secrets with Gitleaks 🔑</description>
+      <guid isPermaLink="true">https://github.com/gitleaks/gitleaks</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>29741</ght:stars>
+      <ght:forks>2266</ght:forks>
+      <ght:starsInPeriod>46</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>slavakurilyak/awesome-ai-agents</title>
       <link>https://github.com/slavakurilyak/awesome-ai-agents</link>
       <description>Awesome list of 300+ agentic AI resources</description>
       <guid isPermaLink="true">https://github.com/slavakurilyak/awesome-ai-agents</guid>
       <pubDate>Tue, 06 Oct 2026 00:03:12 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>2349</ght:stars>
-      <ght:forks>602</ght:forks>
-      <ght:starsInPeriod>24</ght:starsInPeriod>
+      <ght:stars>2359</ght:stars>
+      <ght:forks>604</ght:forks>
+      <ght:starsInPeriod>14</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>3</ght:appearances>
+    </item>
+    <item>
+      <title>aquasecurity/trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>38268</ght:stars>
+      <ght:forks>735</ght:forks>
+      <ght:starsInPeriod>26</ght:starsInPeriod>
       <ght:bestRank>4</ght:bestRank>
       <ght:latestRank>4</ght:latestRank>
-      <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-06T06:19:26Z</ght:lastSeenAt>
-      <ght:appearances>2</ght:appearances>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>bettercap/bettercap</title>
@@ -94,20 +142,36 @@
       <ght:appearances>2</ght:appearances>
     </item>
     <item>
+      <title>ys-ll/uniterm</title>
+      <link>https://github.com/ys-ll/uniterm</link>
+      <description>A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.</description>
+      <guid isPermaLink="true">https://github.com/ys-ll/uniterm</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>743</ght:stars>
+      <ght:forks>114</ght:forks>
+      <ght:starsInPeriod>30</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>Autumn-27/ARTEX</title>
       <link>https://github.com/Autumn-27/ARTEX</link>
       <description>AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目</description>
       <guid isPermaLink="true">https://github.com/Autumn-27/ARTEX</guid>
       <pubDate>Tue, 06 Oct 2026 00:03:12 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1622</ght:stars>
-      <ght:forks>358</ght:forks>
-      <ght:starsInPeriod>61</ght:starsInPeriod>
+      <ght:stars>1685</ght:stars>
+      <ght:forks>385</ght:forks>
+      <ght:starsInPeriod>111</ght:starsInPeriod>
       <ght:bestRank>6</ght:bestRank>
       <ght:latestRank>6</ght:latestRank>
       <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-06T06:19:26Z</ght:lastSeenAt>
-      <ght:appearances>2</ght:appearances>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>3</ght:appearances>
     </item>
     <item>
       <title>CarterPerez-dev/Cybersecurity-Projects</title>
@@ -126,22 +190,6 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>google/gvisor</title>
-      <link>https://github.com/google/gvisor</link>
-      <description>Application Kernel for Containers</description>
-      <guid isPermaLink="true">https://github.com/google/gvisor</guid>
-      <pubDate>Tue, 06 Oct 2026 00:03:12 GMT</pubDate>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>19559</ght:stars>
-      <ght:forks>2020</ght:forks>
-      <ght:starsInPeriod>39</ght:starsInPeriod>
-      <ght:bestRank>7</ght:bestRank>
-      <ght:latestRank>7</ght:latestRank>
-      <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-06T06:19:26Z</ght:lastSeenAt>
-      <ght:appearances>2</ght:appearances>
-    </item>
-    <item>
       <title>p1neappleXpress/OpenFlux</title>
       <link>https://github.com/p1neappleXpress/OpenFlux</link>
       <description>Network stack research tool. TCP tunnel with pluggable transports.</description>
@@ -158,20 +206,52 @@
       <ght:appearances>2</ght:appearances>
     </item>
     <item>
+      <title>llm-d/llm-d-router</title>
+      <link>https://github.com/llm-d/llm-d-router</link>
+      <description>llm-d Router: The intelligent entry point for inference requests</description>
+      <guid isPermaLink="true">https://github.com/llm-d/llm-d-router</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>374</ght:stars>
+      <ght:forks>418</ght:forks>
+      <ght:starsInPeriod>0</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>ollama/ollama</title>
       <link>https://github.com/ollama/ollama</link>
       <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
       <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
       <pubDate>Tue, 06 Oct 2026 00:03:12 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>182292</ght:stars>
-      <ght:forks>18113</ght:forks>
-      <ght:starsInPeriod>73</ght:starsInPeriod>
+      <ght:stars>182368</ght:stars>
+      <ght:forks>18116</ght:forks>
+      <ght:starsInPeriod>137</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>18</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>3</ght:appearances>
+    </item>
+    <item>
+      <title>derailed/k9s</title>
+      <link>https://github.com/derailed/k9s</link>
+      <description>🐶 Kubernetes CLI To Manage Your Clusters In Style!</description>
+      <guid isPermaLink="true">https://github.com/derailed/k9s</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>34749</ght:stars>
+      <ght:forks>2307</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
       <ght:bestRank>9</ght:bestRank>
       <ght:latestRank>9</ght:latestRank>
-      <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-06T06:19:26Z</ght:lastSeenAt>
-      <ght:appearances>2</ght:appearances>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>JuliusBrussee/caveman</title>
@@ -180,14 +260,30 @@
       <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
       <pubDate>Tue, 06 Oct 2026 00:03:12 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>110046</ght:stars>
-      <ght:forks>6369</ght:forks>
-      <ght:starsInPeriod>235</ght:starsInPeriod>
+      <ght:stars>110176</ght:stars>
+      <ght:forks>6380</ght:forks>
+      <ght:starsInPeriod>211</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>19</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>3</ght:appearances>
+    </item>
+    <item>
+      <title>owasp-amass/amass</title>
+      <link>https://github.com/owasp-amass/amass</link>
+      <description>In-depth attack surface mapping and asset discovery</description>
+      <guid isPermaLink="true">https://github.com/owasp-amass/amass</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>15300</ght:stars>
+      <ght:forks>2194</ght:forks>
+      <ght:starsInPeriod>17</ght:starsInPeriod>
       <ght:bestRank>10</ght:bestRank>
       <ght:latestRank>10</ght:latestRank>
-      <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-06T06:19:26Z</ght:lastSeenAt>
-      <ght:appearances>2</ght:appearances>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>grpc/grpc-go</title>
@@ -204,6 +300,22 @@
       <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-06T06:19:26Z</ght:lastSeenAt>
       <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>go-gitea/gitea</title>
+      <link>https://github.com/go-gitea/gitea</link>
+      <description>Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</description>
+      <guid isPermaLink="true">https://github.com/go-gitea/gitea</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>58334</ght:stars>
+      <ght:forks>7227</ght:forks>
+      <ght:starsInPeriod>25</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>ltaoo/wx_channels_download</title>
@@ -238,6 +350,22 @@
       <ght:appearances>2</ght:appearances>
     </item>
     <item>
+      <title>kubescape/kubescape</title>
+      <link>https://github.com/kubescape/kubescape</link>
+      <description>Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.</description>
+      <guid isPermaLink="true">https://github.com/kubescape/kubescape</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>11775</ght:stars>
+      <ght:forks>1049</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>skyhook-io/radar</title>
       <link>https://github.com/skyhook-io/radar</link>
       <description>The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.</description>
@@ -252,6 +380,22 @@
       <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-06T06:19:26Z</ght:lastSeenAt>
       <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>dundee/gdu</title>
+      <link>https://github.com/dundee/gdu</link>
+      <description>Fast disk usage analyzer with console interface written in Go</description>
+      <guid isPermaLink="true">https://github.com/dundee/gdu</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6074</ght:stars>
+      <ght:forks>237</ght:forks>
+      <ght:starsInPeriod>9</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>vavallee/bindery</title>
@@ -270,6 +414,22 @@
       <ght:appearances>2</ght:appearances>
     </item>
     <item>
+      <title>prometheus/client_golang</title>
+      <link>https://github.com/prometheus/client_golang</link>
+      <description>Prometheus instrumentation library for Go applications</description>
+      <guid isPermaLink="true">https://github.com/prometheus/client_golang</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6037</ght:stars>
+      <ght:forks>1326</ght:forks>
+      <ght:starsInPeriod />
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>gtsteffaniak/filebrowser</title>
       <link>https://github.com/gtsteffaniak/filebrowser</link>
       <description>📂 Web File Browser</description>
@@ -284,6 +444,70 @@
       <ght:firstSeenAt>2026-10-06T00:03:12Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-06T06:19:26Z</ght:lastSeenAt>
       <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>guohuiyuan/go-music-dl</title>
+      <link>https://github.com/guohuiyuan/go-music-dl</link>
+      <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
+      <guid isPermaLink="true">https://github.com/guohuiyuan/go-music-dl</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5148</ght:stars>
+      <ght:forks>492</ght:forks>
+      <ght:starsInPeriod>28</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>podman-container-tools/podman</title>
+      <link>https://github.com/podman-container-tools/podman</link>
+      <description>Podman: A tool for managing OCI containers and pods.</description>
+      <guid isPermaLink="true">https://github.com/podman-container-tools/podman</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>33003</ght:stars>
+      <ght:forks>3401</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>livekit/livekit</title>
+      <link>https://github.com/livekit/livekit</link>
+      <description>End-to-end realtime stack for connecting humans and AI</description>
+      <guid isPermaLink="true">https://github.com/livekit/livekit</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>21304</ght:stars>
+      <ght:forks>2419</ght:forks>
+      <ght:starsInPeriod>16</ght:starsInPeriod>
+      <ght:bestRank>20</ght:bestRank>
+      <ght:latestRank>20</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>helm/helm</title>
+      <link>https://github.com/helm/helm</link>
+      <description>The Kubernetes Package Manager</description>
+      <guid isPermaLink="true">https://github.com/helm/helm</guid>
+      <pubDate>Tue, 06 Oct 2026 18:21:32 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>30311</ght:stars>
+      <ght:forks>7827</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
+      <ght:bestRank>21</ght:bestRank>
+      <ght:latestRank>21</ght:latestRank>
+      <ght:firstSeenAt>2026-10-06T18:21:32Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-06T18:21:32Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
   </channel>
 </rss>

@@ -4,219 +4,129 @@
   "period": "weekly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=weekly",
-  "observedAt": "2026-10-06T06:19:00Z",
+  "observedAt": "2026-10-06T18:21:05Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "programmingLanguage": "JavaScript",
-      "stars": 77181,
-      "forks": 4597,
-      "starsInPeriod": 4936
-    },
-    {
-      "rank": 2,
-      "fullName": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "programmingLanguage": "TypeScript",
-      "stars": 97772,
-      "forks": 16520,
-      "starsInPeriod": 6030
-    },
-    {
-      "rank": 3,
-      "fullName": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "programmingLanguage": "Python",
-      "stars": 46048,
-      "forks": 5937,
-      "starsInPeriod": 6565
-    },
-    {
-      "rank": 4,
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "programmingLanguage": "TypeScript",
-      "stars": 57431,
-      "forks": 5138,
-      "starsInPeriod": 3342
-    },
-    {
-      "rank": 5,
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "programmingLanguage": "Python",
-      "stars": 53900,
-      "forks": 6027,
-      "starsInPeriod": 12036
-    },
-    {
-      "rank": 6,
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "programmingLanguage": "Python",
-      "stars": 92106,
-      "forks": 8082,
-      "starsInPeriod": 5703
-    },
-    {
-      "rank": 7,
-      "fullName": "Effect-TS/effect",
-      "url": "https://github.com/Effect-TS/effect",
-      "description": "Build production-ready applications in TypeScript",
-      "programmingLanguage": "TypeScript",
-      "stars": 17061,
-      "forks": 830,
-      "starsInPeriod": 791
-    },
-    {
-      "rank": 8,
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "programmingLanguage": "JavaScript",
-      "stars": 156163,
-      "forks": 8393,
-      "starsInPeriod": 8596
-    },
-    {
-      "rank": 9,
-      "fullName": "Gaurav-Gosain/tuios",
-      "url": "https://github.com/Gaurav-Gosain/tuios",
-      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
-      "programmingLanguage": "Go",
-      "stars": 4884,
-      "forks": 217,
-      "starsInPeriod": 703
-    },
-    {
-      "rank": 10,
-      "fullName": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": null,
-      "programmingLanguage": "TypeScript",
-      "stars": 25699,
-      "forks": 6616,
-      "starsInPeriod": 1674
-    },
-    {
-      "rank": 11,
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "programmingLanguage": "Python",
-      "stars": 64891,
-      "forks": 11169,
-      "starsInPeriod": 4375
-    },
-    {
-      "rank": 12,
-      "fullName": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "programmingLanguage": "Python",
-      "stars": 27745,
-      "forks": 3897,
-      "starsInPeriod": 984
-    },
-    {
-      "rank": 13,
-      "fullName": "cloudflare/cloudflare-os",
-      "url": "https://github.com/cloudflare/cloudflare-os",
-      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "programmingLanguage": "TypeScript",
-      "stars": 11098,
-      "forks": 1315,
-      "starsInPeriod": 663
-    },
-    {
-      "rank": 14,
-      "fullName": "tile-ai/tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "programmingLanguage": "Python",
-      "stars": 8434,
-      "forks": 853,
-      "starsInPeriod": 922
-    },
-    {
-      "rank": 15,
-      "fullName": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "programmingLanguage": "TypeScript",
-      "stars": 9991,
-      "forks": 945,
-      "starsInPeriod": 1042
-    },
-    {
-      "rank": 16,
-      "fullName": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "programmingLanguage": "Python",
-      "stars": 7058,
-      "forks": 872,
-      "starsInPeriod": 1416
-    },
-    {
-      "rank": 17,
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "programmingLanguage": "Python",
-      "stars": 128694,
-      "forks": 20123,
-      "starsInPeriod": 2189
-    },
-    {
-      "rank": 18,
-      "fullName": "caddyserver/caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-      "programmingLanguage": "Go",
-      "stars": 77246,
-      "forks": 5079,
-      "starsInPeriod": 683
-    },
-    {
-      "rank": 19,
-      "fullName": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "programmingLanguage": "Shell",
-      "stars": 157402,
-      "forks": 25384,
-      "starsInPeriod": 2116
-    },
-    {
-      "rank": 20,
-      "fullName": "pablostanley/yoinks",
-      "url": "https://github.com/pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "programmingLanguage": "TypeScript",
-      "stars": 4680,
-      "forks": 415,
-      "starsInPeriod": 2741
-    },
-    {
-      "rank": 21,
       "fullName": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "programmingLanguage": "TypeScript",
-      "stars": 5300,
-      "forks": 390,
+      "stars": 5450,
+      "forks": 398,
       "starsInPeriod": 3776
+    },
+    {
+      "rank": 2,
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "programmingLanguage": "TypeScript",
+      "stars": 57789,
+      "forks": 5157,
+      "starsInPeriod": 3342
+    },
+    {
+      "rank": 3,
+      "fullName": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "programmingLanguage": "TypeScript",
+      "stars": 10074,
+      "forks": 955,
+      "starsInPeriod": 1042
+    },
+    {
+      "rank": 4,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 15097,
+      "forks": 1715,
+      "starsInPeriod": 5915
+    },
+    {
+      "rank": 5,
+      "fullName": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "programmingLanguage": "Python",
+      "stars": 38758,
+      "forks": 3357,
+      "starsInPeriod": 2860
+    },
+    {
+      "rank": 6,
+      "fullName": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "programmingLanguage": "TypeScript",
+      "stars": 97025,
+      "forks": 8554,
+      "starsInPeriod": 1759
+    },
+    {
+      "rank": 7,
+      "fullName": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "programmingLanguage": "TypeScript",
+      "stars": 4808,
+      "forks": 419,
+      "starsInPeriod": 2741
+    },
+    {
+      "rank": 8,
+      "fullName": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "programmingLanguage": "Python",
+      "stars": 17187,
+      "forks": 2341,
+      "starsInPeriod": 1985
+    },
+    {
+      "rank": 9,
+      "fullName": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "programmingLanguage": "JavaScript",
+      "stars": 5379,
+      "forks": 751,
+      "starsInPeriod": 2702
+    },
+    {
+      "rank": 10,
+      "fullName": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "programmingLanguage": "C++",
+      "stars": 5965,
+      "forks": 444,
+      "starsInPeriod": 2657
+    },
+    {
+      "rank": 11,
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "programmingLanguage": "Python",
+      "stars": 92518,
+      "forks": 8114,
+      "starsInPeriod": 5703
+    },
+    {
+      "rank": 12,
+      "fullName": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
+      "programmingLanguage": "JavaScript",
+      "stars": 67493,
+      "forks": 6695,
+      "starsInPeriod": 2827
     }
   ]
 }
