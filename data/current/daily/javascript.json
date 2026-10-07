@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-10-06T18:21:42Z",
+  "observedAt": "2026-10-07T05:58:19Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "JavaScript",
-      "stars": 77542,
-      "forks": 4619,
-      "starsInPeriod": 609
+      "stars": 77848,
+      "forks": 4633,
+      "starsInPeriod": 616
     },
     {
       "rank": 2,
@@ -24,8 +24,8 @@
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "programmingLanguage": "JavaScript",
-      "stars": 5380,
-      "forks": 751,
+      "stars": 5975,
+      "forks": 811,
       "starsInPeriod": 1419
     },
     {
@@ -34,9 +34,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 101921,
-      "forks": 10678,
-      "starsInPeriod": 422
+      "stars": 102182,
+      "forks": 10706,
+      "starsInPeriod": 453
     },
     {
       "rank": 4,
@@ -44,99 +44,109 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 25222,
-      "forks": 1509,
-      "starsInPeriod": 455
+      "stars": 25450,
+      "forks": 1529,
+      "starsInPeriod": 538
     },
     {
       "rank": 5,
+      "fullName": "eolix/photosuite",
+      "url": "https://github.com/eolix/photosuite",
+      "description": "A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility",
+      "programmingLanguage": "Rust",
+      "stars": 833,
+      "forks": 38,
+      "starsInPeriod": 118
+    },
+    {
+      "rank": 6,
       "fullName": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 156653,
-      "forks": 8412,
-      "starsInPeriod": 868
+      "stars": 156987,
+      "forks": 8432,
+      "starsInPeriod": 860
     },
     {
-      "rank": 6,
+      "rank": 7,
       "fullName": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 274144,
-      "forks": 40903,
-      "starsInPeriod": 731
+      "stars": 274415,
+      "forks": 40945,
+      "starsInPeriod": 727
     },
     {
-      "rank": 7,
+      "rank": 8,
       "fullName": "Stremio/stremio-web",
       "url": "https://github.com/Stremio/stremio-web",
       "description": "Stremio - Freedom to Stream",
       "programmingLanguage": "JavaScript",
-      "stars": 14405,
-      "forks": 1637,
-      "starsInPeriod": 283
+      "stars": 14415,
+      "forks": 1642,
+      "starsInPeriod": 211
     },
     {
-      "rank": 8,
+      "rank": 9,
       "fullName": "Joooook/12306-mcp",
       "url": "https://github.com/Joooook/12306-mcp",
       "description": "This is a 12306 ticket search server based on the Model Context Protocol (MCP).",
       "programmingLanguage": "JavaScript",
-      "stars": 2210,
-      "forks": 322,
-      "starsInPeriod": 310
+      "stars": 2265,
+      "forks": 327,
+      "starsInPeriod": 320
     },
     {
-      "rank": 9,
+      "rank": 10,
       "fullName": "anthropics/claude-plugins-community",
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "programmingLanguage": "JavaScript",
-      "stars": 4513,
+      "stars": 4530,
       "forks": 324,
-      "starsInPeriod": 25
+      "starsInPeriod": 40
     },
     {
-      "rank": 10,
+      "rank": 11,
       "fullName": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 53463,
+      "stars": 53503,
       "forks": 7953,
       "starsInPeriod": 135
     },
     {
-      "rank": 11,
+      "rank": 12,
       "fullName": "kanoqwq/UFI-TOOLS",
       "url": "https://github.com/kanoqwq/UFI-TOOLS",
       "description": "A functional tools for z*e devices (F50 | U30 Air)",
       "programmingLanguage": "JavaScript",
-      "stars": 2495,
-      "forks": 259,
-      "starsInPeriod": 262
+      "stars": 2544,
+      "forks": 260,
+      "starsInPeriod": 260
     },
     {
-      "rank": 12,
+      "rank": 13,
       "fullName": "sveltejs/svelte",
       "url": "https://github.com/sveltejs/svelte",
       "description": "web development for the rest of us",
       "programmingLanguage": "JavaScript",
-      "stars": 88351,
-      "forks": 7298,
-      "starsInPeriod": 32
+      "stars": 88346,
+      "forks": 7379,
+      "starsInPeriod": 54
     },
     {
-      "rank": 13,
+      "rank": 14,
       "fullName": "nodejs/node",
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "programmingLanguage": "JavaScript",
-      "stars": 122404,
-      "forks": 38942,
-      "starsInPeriod": 43
+      "stars": 122410,
+      "forks": 39024,
+      "starsInPeriod": 70
     }
   ]
 }

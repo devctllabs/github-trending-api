@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-06T18:21:32Z",
+  "observedAt": "2026-10-07T05:58:08Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 77394,
-      "forks": 5091,
-      "starsInPeriod": 609
+      "stars": 77434,
+      "forks": 5093,
+      "starsInPeriod": 566
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/google/gvisor",
       "description": "Application Kernel for Containers",
       "programmingLanguage": "Go",
-      "stars": 19565,
-      "forks": 2023,
-      "starsInPeriod": 20
+      "stars": 19570,
+      "forks": 2024,
+      "starsInPeriod": 19
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 29741,
-      "forks": 2266,
-      "starsInPeriod": 46
+      "stars": 29758,
+      "forks": 2267,
+      "starsInPeriod": 48
     },
     {
       "rank": 4,
@@ -44,19 +44,19 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38268,
-      "forks": 735,
-      "starsInPeriod": 26
+      "stars": 38276,
+      "forks": 738,
+      "starsInPeriod": 20
     },
     {
       "rank": 5,
       "fullName": "ys-ll/uniterm",
       "url": "https://github.com/ys-ll/uniterm",
-      "description": "A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
+      "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
       "programmingLanguage": "Go",
-      "stars": 743,
-      "forks": 114,
-      "starsInPeriod": 30
+      "stars": 751,
+      "forks": 116,
+      "starsInPeriod": 32
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/Autumn-27/ARTEX",
       "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "programmingLanguage": "Go",
-      "stars": 1685,
-      "forks": 385,
-      "starsInPeriod": 111
+      "stars": 1767,
+      "forks": 413,
+      "starsInPeriod": 113
     },
     {
       "rank": 7,
@@ -74,8 +74,8 @@
       "url": "https://github.com/slavakurilyak/awesome-ai-agents",
       "description": "Awesome list of 300+ agentic AI resources",
       "programmingLanguage": "Go",
-      "stars": 2359,
-      "forks": 604,
+      "stars": 2367,
+      "forks": 611,
       "starsInPeriod": 14
     },
     {
@@ -84,9 +84,9 @@
       "url": "https://github.com/llm-d/llm-d-router",
       "description": "llm-d Router: The intelligent entry point for inference requests",
       "programmingLanguage": "Go",
-      "stars": 374,
-      "forks": 418,
-      "starsInPeriod": 0
+      "stars": 376,
+      "forks": 419,
+      "starsInPeriod": null
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/derailed/k9s",
       "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
       "programmingLanguage": "Go",
-      "stars": 34749,
-      "forks": 2307,
-      "starsInPeriod": 7
+      "stars": 34753,
+      "forks": 2308,
+      "starsInPeriod": 6
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/owasp-amass/amass",
       "description": "In-depth attack surface mapping and asset discovery",
       "programmingLanguage": "Go",
-      "stars": 15300,
-      "forks": 2194,
-      "starsInPeriod": 17
+      "stars": 15314,
+      "forks": 2195,
+      "starsInPeriod": 14
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/go-gitea/gitea",
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 58334,
+      "stars": 58342,
       "forks": 7227,
-      "starsInPeriod": 25
+      "starsInPeriod": 30
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139324,
-      "forks": 21419,
-      "starsInPeriod": 78
+      "stars": 139308,
+      "forks": 21503,
+      "starsInPeriod": 79
     },
     {
       "rank": 13,
@@ -134,8 +134,8 @@
       "url": "https://github.com/kubescape/kubescape",
       "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
       "programmingLanguage": "Go",
-      "stars": 11775,
-      "forks": 1049,
+      "stars": 11781,
+      "forks": 1050,
       "starsInPeriod": 4
     },
     {
@@ -144,9 +144,9 @@
       "url": "https://github.com/dundee/gdu",
       "description": "Fast disk usage analyzer with console interface written in Go",
       "programmingLanguage": "Go",
-      "stars": 6074,
+      "stars": 6085,
       "forks": 237,
-      "starsInPeriod": 9
+      "starsInPeriod": 10
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/prometheus/client_golang",
       "description": "Prometheus instrumentation library for Go applications",
       "programmingLanguage": "Go",
-      "stars": 6037,
+      "stars": 6038,
       "forks": 1326,
-      "starsInPeriod": null
+      "starsInPeriod": 2
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/guohuiyuan/go-music-dl",
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "programmingLanguage": "Go",
-      "stars": 5148,
-      "forks": 492,
-      "starsInPeriod": 28
+      "stars": 5159,
+      "forks": 495,
+      "starsInPeriod": 27
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/podman-container-tools/podman",
       "description": "Podman: A tool for managing OCI containers and pods.",
       "programmingLanguage": "Go",
-      "stars": 33003,
+      "stars": 33006,
       "forks": 3401,
-      "starsInPeriod": 7
+      "starsInPeriod": 8
     },
     {
       "rank": 18,
@@ -184,8 +184,8 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 182368,
-      "forks": 18116,
+      "stars": 182421,
+      "forks": 18124,
       "starsInPeriod": 137
     },
     {
@@ -194,9 +194,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 110176,
-      "forks": 6380,
-      "starsInPeriod": 211
+      "stars": 110256,
+      "forks": 6383,
+      "starsInPeriod": 212
     },
     {
       "rank": 20,
@@ -204,9 +204,9 @@
       "url": "https://github.com/livekit/livekit",
       "description": "End-to-end realtime stack for connecting humans and AI",
       "programmingLanguage": "Go",
-      "stars": 21304,
-      "forks": 2419,
-      "starsInPeriod": 16
+      "stars": 21310,
+      "forks": 2422,
+      "starsInPeriod": 18
     },
     {
       "rank": 21,
@@ -214,9 +214,9 @@
       "url": "https://github.com/helm/helm",
       "description": "The Kubernetes Package Manager",
       "programmingLanguage": "Go",
-      "stars": 30311,
-      "forks": 7827,
-      "starsInPeriod": 4
+      "stars": 30310,
+      "forks": 7826,
+      "starsInPeriod": 5
     }
   ]
 }
