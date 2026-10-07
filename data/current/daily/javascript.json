@@ -4,79 +4,79 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-10-07T05:58:19Z",
+  "observedAt": "2026-10-07T13:21:53Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "programmingLanguage": "JavaScript",
-      "stars": 77848,
-      "forks": 4633,
-      "starsInPeriod": 616
-    },
-    {
-      "rank": 2,
-      "fullName": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "programmingLanguage": "JavaScript",
-      "stars": 5975,
-      "forks": 811,
-      "starsInPeriod": 1419
-    },
-    {
-      "rank": 3,
       "fullName": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 102182,
-      "forks": 10706,
+      "stars": 102412,
+      "forks": 10731,
       "starsInPeriod": 453
     },
     {
-      "rank": 4,
+      "rank": 2,
       "fullName": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 25450,
-      "forks": 1529,
+      "stars": 25666,
+      "forks": 1545,
       "starsInPeriod": 538
     },
     {
+      "rank": 3,
+      "fullName": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "programmingLanguage": "JavaScript",
+      "stars": 6429,
+      "forks": 860,
+      "starsInPeriod": 1494
+    },
+    {
+      "rank": 4,
+      "fullName": "liyupi/ai-guide",
+      "url": "https://github.com/liyupi/ai-guide",
+      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站",
+      "programmingLanguage": "JavaScript",
+      "stars": 20776,
+      "forks": 2294,
+      "starsInPeriod": 46
+    },
+    {
       "rank": 5,
-      "fullName": "eolix/photosuite",
-      "url": "https://github.com/eolix/photosuite",
-      "description": "A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility",
-      "programmingLanguage": "Rust",
-      "stars": 833,
-      "forks": 38,
-      "starsInPeriod": 118
+      "fullName": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "programmingLanguage": "JavaScript",
+      "stars": 4542,
+      "forks": 324,
+      "starsInPeriod": 40
     },
     {
       "rank": 6,
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "fullName": "kanoqwq/UFI-TOOLS",
+      "url": "https://github.com/kanoqwq/UFI-TOOLS",
+      "description": "A functional tools for z*e devices (F50 | U30 Air)",
       "programmingLanguage": "JavaScript",
-      "stars": 156987,
-      "forks": 8432,
-      "starsInPeriod": 860
+      "stars": 2563,
+      "forks": 262,
+      "starsInPeriod": 260
     },
     {
       "rank": 7,
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "fullName": "Joooook/12306-mcp",
+      "url": "https://github.com/Joooook/12306-mcp",
+      "description": "This is a 12306 ticket search server based on the Model Context Protocol (MCP).",
       "programmingLanguage": "JavaScript",
-      "stars": 274415,
-      "forks": 40945,
-      "starsInPeriod": 727
+      "stars": 2286,
+      "forks": 330,
+      "starsInPeriod": 320
     },
     {
       "rank": 8,
@@ -84,69 +84,129 @@
       "url": "https://github.com/Stremio/stremio-web",
       "description": "Stremio - Freedom to Stream",
       "programmingLanguage": "JavaScript",
-      "stars": 14415,
-      "forks": 1642,
+      "stars": 14421,
+      "forks": 1641,
       "starsInPeriod": 211
     },
     {
       "rank": 9,
-      "fullName": "Joooook/12306-mcp",
-      "url": "https://github.com/Joooook/12306-mcp",
-      "description": "This is a 12306 ticket search server based on the Model Context Protocol (MCP).",
-      "programmingLanguage": "JavaScript",
-      "stars": 2265,
-      "forks": 327,
-      "starsInPeriod": 320
-    },
-    {
-      "rank": 10,
-      "fullName": "anthropics/claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "programmingLanguage": "JavaScript",
-      "stars": 4530,
-      "forks": 324,
-      "starsInPeriod": 40
-    },
-    {
-      "rank": 11,
-      "fullName": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "programmingLanguage": "JavaScript",
-      "stars": 53503,
-      "forks": 7953,
-      "starsInPeriod": 135
-    },
-    {
-      "rank": 12,
-      "fullName": "kanoqwq/UFI-TOOLS",
-      "url": "https://github.com/kanoqwq/UFI-TOOLS",
-      "description": "A functional tools for z*e devices (F50 | U30 Air)",
-      "programmingLanguage": "JavaScript",
-      "stars": 2544,
-      "forks": 260,
-      "starsInPeriod": 260
-    },
-    {
-      "rank": 13,
       "fullName": "sveltejs/svelte",
       "url": "https://github.com/sveltejs/svelte",
       "description": "web development for the rest of us",
       "programmingLanguage": "JavaScript",
-      "stars": 88346,
-      "forks": 7379,
-      "starsInPeriod": 54
+      "stars": 88344,
+      "forks": 7389,
+      "starsInPeriod": 37
     },
     {
-      "rank": 14,
+      "rank": 10,
+      "fullName": "microsoft/power-platform-skills",
+      "url": "https://github.com/microsoft/power-platform-skills",
+      "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
+      "programmingLanguage": "JavaScript",
+      "stars": 969,
+      "forks": 196,
+      "starsInPeriod": 6
+    },
+    {
+      "rank": 11,
       "fullName": "nodejs/node",
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "programmingLanguage": "JavaScript",
       "stars": 122410,
-      "forks": 39024,
+      "forks": 39034,
       "starsInPeriod": 70
+    },
+    {
+      "rank": 12,
+      "fullName": "MiaAI-Lab/sparkDash",
+      "url": "https://github.com/MiaAI-Lab/sparkDash",
+      "description": "sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard",
+      "programmingLanguage": "JavaScript",
+      "stars": 548,
+      "forks": 114,
+      "starsInPeriod": 22
+    },
+    {
+      "rank": 13,
+      "fullName": "TechyCSR/OpenCluely",
+      "url": "https://github.com/TechyCSR/OpenCluely",
+      "description": "OpenCluely is a free, open source Cluely (alternative), built for technical interviews like DSA, OAs, and CP. It offers an invisible overlay, real-time AI help, Smart Image Processing for question capture, and multi-language support : 100% customizable and private.",
+      "programmingLanguage": "JavaScript",
+      "stars": 1064,
+      "forks": 245,
+      "starsInPeriod": 8
+    },
+    {
+      "rank": 14,
+      "fullName": "expressjs/express",
+      "url": "https://github.com/expressjs/express",
+      "description": "Fast, unopinionated, minimalist web framework for node.",
+      "programmingLanguage": "JavaScript",
+      "stars": 69587,
+      "forks": 25169,
+      "starsInPeriod": 60
+    },
+    {
+      "rank": 15,
+      "fullName": "calesthio/Crucix",
+      "url": "https://github.com/calesthio/Crucix",
+      "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+      "programmingLanguage": "JavaScript",
+      "stars": 12070,
+      "forks": 1862,
+      "starsInPeriod": 11
+    },
+    {
+      "rank": 16,
+      "fullName": "aunetx/blur-my-shell",
+      "url": "https://github.com/aunetx/blur-my-shell",
+      "description": "Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview",
+      "programmingLanguage": "JavaScript",
+      "stars": 2252,
+      "forks": 170,
+      "starsInPeriod": 9
+    },
+    {
+      "rank": 17,
+      "fullName": "lodash/lodash",
+      "url": "https://github.com/lodash/lodash",
+      "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+      "programmingLanguage": "JavaScript",
+      "stars": 61342,
+      "forks": 7193,
+      "starsInPeriod": 34
+    },
+    {
+      "rank": 18,
+      "fullName": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "programmingLanguage": "JavaScript",
+      "stars": 143230,
+      "forks": 34144,
+      "starsInPeriod": 38
+    },
+    {
+      "rank": 19,
+      "fullName": "eslint/eslint",
+      "url": "https://github.com/eslint/eslint",
+      "description": "Find and fix problems in your JavaScript code.",
+      "programmingLanguage": "JavaScript",
+      "stars": 27618,
+      "forks": 5205,
+      "starsInPeriod": 44
+    },
+    {
+      "rank": 20,
+      "fullName": "MobSF/Mobile-Security-Framework-MobSF",
+      "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+      "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+      "programmingLanguage": "JavaScript",
+      "stars": 21896,
+      "forks": 3785,
+      "starsInPeriod": 6
     }
   ]
 }

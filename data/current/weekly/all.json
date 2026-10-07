@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=weekly",
-  "observedAt": "2026-10-07T05:57:42Z",
+  "observedAt": "2026-10-07T13:21:15Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,79 +14,79 @@
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "programmingLanguage": "TypeScript",
-      "stars": 5560,
-      "forks": 404,
+      "stars": 5638,
+      "forks": 413,
       "starsInPeriod": 3327
     },
     {
       "rank": 2,
+      "fullName": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "programmingLanguage": "C++",
+      "stars": 8543,
+      "forks": 632,
+      "starsInPeriod": 3073
+    },
+    {
+      "rank": 3,
       "fullName": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "programmingLanguage": "TypeScript",
-      "stars": 58072,
-      "forks": 5171,
+      "stars": 58269,
+      "forks": 5191,
       "starsInPeriod": 3614
     },
     {
-      "rank": 3,
+      "rank": 4,
       "fullName": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "programmingLanguage": "TypeScript",
-      "stars": 10145,
-      "forks": 962,
+      "stars": 10190,
+      "forks": 968,
       "starsInPeriod": 1106
     },
     {
-      "rank": 4,
+      "rank": 5,
       "fullName": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 15175,
-      "forks": 1718,
+      "stars": 15216,
+      "forks": 1719,
       "starsInPeriod": 5228
     },
     {
-      "rank": 5,
-      "fullName": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "rank": 6,
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 38822,
-      "forks": 3362,
-      "starsInPeriod": 2079
+      "stars": 92975,
+      "forks": 8145,
+      "starsInPeriod": 6454
     },
     {
-      "rank": 6,
+      "rank": 7,
       "fullName": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "programmingLanguage": "TypeScript",
-      "stars": 97285,
-      "forks": 8571,
+      "stars": 97449,
+      "forks": 8584,
       "starsInPeriod": 2104
     },
     {
-      "rank": 7,
+      "rank": 8,
       "fullName": "pablostanley/yoinks",
       "url": "https://github.com/pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "programmingLanguage": "TypeScript",
-      "stars": 4926,
-      "forks": 427,
+      "stars": 4998,
+      "forks": 434,
       "starsInPeriod": 2947
-    },
-    {
-      "rank": 8,
-      "fullName": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
-      "programmingLanguage": "Python",
-      "stars": 17268,
-      "forks": 2349,
-      "starsInPeriod": 2017
     },
     {
       "rank": 9,
@@ -94,39 +94,29 @@
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "programmingLanguage": "JavaScript",
-      "stars": 5974,
-      "forks": 810,
+      "stars": 6429,
+      "forks": 860,
       "starsInPeriod": 3318
     },
     {
       "rank": 10,
-      "fullName": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "programmingLanguage": "C++",
-      "stars": 6970,
-      "forks": 520,
-      "starsInPeriod": 3073
+      "fullName": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "programmingLanguage": "Python",
+      "stars": 8463,
+      "forks": 856,
+      "starsInPeriod": 675
     },
     {
       "rank": 11,
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "fullName": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
       "programmingLanguage": "Python",
-      "stars": 92757,
-      "forks": 8134,
-      "starsInPeriod": 6454
-    },
-    {
-      "rank": 12,
-      "fullName": "byoungd/up",
-      "url": "https://github.com/byoungd/up",
-      "description": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
-      "programmingLanguage": "JavaScript",
-      "stars": 67567,
-      "forks": 6707,
-      "starsInPeriod": 2154
+      "stars": 17311,
+      "forks": 2353,
+      "starsInPeriod": 2017
     }
   ]
 }

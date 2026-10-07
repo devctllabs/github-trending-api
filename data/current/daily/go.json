@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-07T05:58:08Z",
+  "observedAt": "2026-10-07T13:21:43Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,39 +14,39 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 77434,
-      "forks": 5093,
-      "starsInPeriod": 566
+      "stars": 77458,
+      "forks": 5095,
+      "starsInPeriod": 90
     },
     {
       "rank": 2,
-      "fullName": "google/gvisor",
-      "url": "https://github.com/google/gvisor",
-      "description": "Application Kernel for Containers",
+      "fullName": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 19570,
-      "forks": 2024,
-      "starsInPeriod": 19
+      "stars": 139309,
+      "forks": 21511,
+      "starsInPeriod": 79
     },
     {
       "rank": 3,
-      "fullName": "gitleaks/gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
+      "fullName": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "programmingLanguage": "Go",
-      "stars": 29758,
-      "forks": 2267,
-      "starsInPeriod": 48
+      "stars": 89293,
+      "forks": 8733,
+      "starsInPeriod": 12
     },
     {
       "rank": 4,
-      "fullName": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "fullName": "Autumn-27/ARTEX",
+      "url": "https://github.com/Autumn-27/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "programmingLanguage": "Go",
-      "stars": 38276,
-      "forks": 738,
-      "starsInPeriod": 20
+      "stars": 1879,
+      "forks": 457,
+      "starsInPeriod": 113
     },
     {
       "rank": 5,
@@ -54,169 +54,159 @@
       "url": "https://github.com/ys-ll/uniterm",
       "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
       "programmingLanguage": "Go",
-      "stars": 751,
+      "stars": 757,
       "forks": 116,
       "starsInPeriod": 32
     },
     {
       "rank": 6,
-      "fullName": "Autumn-27/ARTEX",
-      "url": "https://github.com/Autumn-27/ARTEX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 1767,
-      "forks": 413,
-      "starsInPeriod": 113
+      "stars": 29766,
+      "forks": 2268,
+      "starsInPeriod": 43
     },
     {
       "rank": 7,
-      "fullName": "slavakurilyak/awesome-ai-agents",
-      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
-      "description": "Awesome list of 300+ agentic AI resources",
+      "fullName": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
       "programmingLanguage": "Go",
-      "stars": 2367,
-      "forks": 611,
-      "starsInPeriod": 14
+      "stars": 4978,
+      "forks": 3980,
+      "starsInPeriod": 5
     },
     {
       "rank": 8,
-      "fullName": "llm-d/llm-d-router",
-      "url": "https://github.com/llm-d/llm-d-router",
-      "description": "llm-d Router: The intelligent entry point for inference requests",
-      "programmingLanguage": "Go",
-      "stars": 376,
-      "forks": 419,
-      "starsInPeriod": null
-    },
-    {
-      "rank": 9,
-      "fullName": "derailed/k9s",
-      "url": "https://github.com/derailed/k9s",
-      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
-      "programmingLanguage": "Go",
-      "stars": 34753,
-      "forks": 2308,
-      "starsInPeriod": 6
-    },
-    {
-      "rank": 10,
-      "fullName": "owasp-amass/amass",
-      "url": "https://github.com/owasp-amass/amass",
-      "description": "In-depth attack surface mapping and asset discovery",
-      "programmingLanguage": "Go",
-      "stars": 15314,
-      "forks": 2195,
-      "starsInPeriod": 14
-    },
-    {
-      "rank": 11,
-      "fullName": "go-gitea/gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "programmingLanguage": "Go",
-      "stars": 58342,
-      "forks": 7227,
-      "starsInPeriod": 30
-    },
-    {
-      "rank": 12,
-      "fullName": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "programmingLanguage": "Go",
-      "stars": 139308,
-      "forks": 21503,
-      "starsInPeriod": 79
-    },
-    {
-      "rank": 13,
-      "fullName": "kubescape/kubescape",
-      "url": "https://github.com/kubescape/kubescape",
-      "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
-      "programmingLanguage": "Go",
-      "stars": 11781,
-      "forks": 1050,
-      "starsInPeriod": 4
-    },
-    {
-      "rank": 14,
-      "fullName": "dundee/gdu",
-      "url": "https://github.com/dundee/gdu",
-      "description": "Fast disk usage analyzer with console interface written in Go",
-      "programmingLanguage": "Go",
-      "stars": 6085,
-      "forks": 237,
-      "starsInPeriod": 10
-    },
-    {
-      "rank": 15,
-      "fullName": "prometheus/client_golang",
-      "url": "https://github.com/prometheus/client_golang",
-      "description": "Prometheus instrumentation library for Go applications",
-      "programmingLanguage": "Go",
-      "stars": 6038,
-      "forks": 1326,
-      "starsInPeriod": 2
-    },
-    {
-      "rank": 16,
-      "fullName": "guohuiyuan/go-music-dl",
-      "url": "https://github.com/guohuiyuan/go-music-dl",
-      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
-      "programmingLanguage": "Go",
-      "stars": 5159,
-      "forks": 495,
-      "starsInPeriod": 27
-    },
-    {
-      "rank": 17,
-      "fullName": "podman-container-tools/podman",
-      "url": "https://github.com/podman-container-tools/podman",
-      "description": "Podman: A tool for managing OCI containers and pods.",
-      "programmingLanguage": "Go",
-      "stars": 33006,
-      "forks": 3401,
-      "starsInPeriod": 8
-    },
-    {
-      "rank": 18,
       "fullName": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 182421,
-      "forks": 18124,
+      "stars": 182455,
+      "forks": 18129,
       "starsInPeriod": 137
     },
     {
-      "rank": 19,
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "rank": 9,
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 110256,
-      "forks": 6383,
-      "starsInPeriod": 212
+      "stars": 38280,
+      "forks": 740,
+      "starsInPeriod": 28
+    },
+    {
+      "rank": 10,
+      "fullName": "drakkan/sftpgo",
+      "url": "https://github.com/drakkan/sftpgo",
+      "description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
+      "programmingLanguage": "Go",
+      "stars": 12626,
+      "forks": 975,
+      "starsInPeriod": 2
+    },
+    {
+      "rank": 11,
+      "fullName": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "programmingLanguage": "Go",
+      "stars": 44689,
+      "forks": 5148,
+      "starsInPeriod": 8
+    },
+    {
+      "rank": 12,
+      "fullName": "getprobo/probo",
+      "url": "https://github.com/getprobo/probo",
+      "description": "Open source solutions for SOC2, GDPR, and ISO27001",
+      "programmingLanguage": "Go",
+      "stars": 1433,
+      "forks": 227,
+      "starsInPeriod": 3
+    },
+    {
+      "rank": 13,
+      "fullName": "maximhq/bifrost",
+      "url": "https://github.com/maximhq/bifrost",
+      "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+      "programmingLanguage": "Go",
+      "stars": 8602,
+      "forks": 1355,
+      "starsInPeriod": 24
+    },
+    {
+      "rank": 14,
+      "fullName": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "programmingLanguage": "Go",
+      "stars": 83422,
+      "forks": 4648,
+      "starsInPeriod": 16
+    },
+    {
+      "rank": 15,
+      "fullName": "grafana/gcx",
+      "url": "https://github.com/grafana/gcx",
+      "description": "A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.",
+      "programmingLanguage": "Go",
+      "stars": 771,
+      "forks": 57,
+      "starsInPeriod": null
+    },
+    {
+      "rank": 16,
+      "fullName": "icereed/paperless-gpt",
+      "url": "https://github.com/icereed/paperless-gpt",
+      "description": "Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI",
+      "programmingLanguage": "Go",
+      "stars": 2739,
+      "forks": 215,
+      "starsInPeriod": 9
+    },
+    {
+      "rank": 17,
+      "fullName": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "programmingLanguage": "Go",
+      "stars": 65098,
+      "forks": 6227,
+      "starsInPeriod": 17
+    },
+    {
+      "rank": 18,
+      "fullName": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "programmingLanguage": "Go",
+      "stars": 111377,
+      "forks": 15948,
+      "starsInPeriod": 17
+    },
+    {
+      "rank": 19,
+      "fullName": "kubernetes-sigs/agent-sandbox",
+      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
+      "programmingLanguage": "Go",
+      "stars": 4174,
+      "forks": 549,
+      "starsInPeriod": 19
     },
     {
       "rank": 20,
-      "fullName": "livekit/livekit",
-      "url": "https://github.com/livekit/livekit",
-      "description": "End-to-end realtime stack for connecting humans and AI",
+      "fullName": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
       "programmingLanguage": "Go",
-      "stars": 21310,
-      "forks": 2422,
-      "starsInPeriod": 18
-    },
-    {
-      "rank": 21,
-      "fullName": "helm/helm",
-      "url": "https://github.com/helm/helm",
-      "description": "The Kubernetes Package Manager",
-      "programmingLanguage": "Go",
-      "stars": 30310,
-      "forks": 7826,
-      "starsInPeriod": 5
+      "stars": 25612,
+      "forks": 4132,
+      "starsInPeriod": 6
     }
   ]
 }

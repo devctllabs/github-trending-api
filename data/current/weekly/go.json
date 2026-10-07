@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-07T05:58:12Z",
+  "observedAt": "2026-10-07T13:21:46Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 77434,
-      "forks": 5093,
+      "stars": 77458,
+      "forks": 5095,
       "starsInPeriod": 1264
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "programmingLanguage": "Go",
-      "stars": 4950,
-      "forks": 222,
+      "stars": 4982,
+      "forks": 223,
       "starsInPeriod": 660
     },
     {
@@ -34,139 +34,139 @@
       "url": "https://github.com/rakyll/hey",
       "description": "HTTP load generator, ApacheBench (ab) replacement",
       "programmingLanguage": "Go",
-      "stars": 20645,
-      "forks": 1320,
+      "stars": 20646,
+      "forks": 1321,
       "starsInPeriod": 246
     },
     {
       "rank": 4,
-      "fullName": "netdata/netdata",
-      "url": "https://github.com/netdata/netdata",
-      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
-      "programmingLanguage": "Go",
-      "stars": 80817,
-      "forks": 6653,
-      "starsInPeriod": 115
-    },
-    {
-      "rank": 5,
-      "fullName": "MHSanaei/3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
-      "programmingLanguage": "Go",
-      "stars": 47528,
-      "forks": 12122,
-      "starsInPeriod": 387
-    },
-    {
-      "rank": 6,
-      "fullName": "TecharoHQ/anubis",
-      "url": "https://github.com/TecharoHQ/anubis",
-      "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
-      "programmingLanguage": "Go",
-      "stars": 23135,
-      "forks": 753,
-      "starsInPeriod": 374
-    },
-    {
-      "rank": 7,
-      "fullName": "google/gvisor",
-      "url": "https://github.com/google/gvisor",
-      "description": "Application Kernel for Containers",
-      "programmingLanguage": "Go",
-      "stars": 19570,
-      "forks": 2024,
-      "starsInPeriod": 122
-    },
-    {
-      "rank": 8,
-      "fullName": "Autumn-27/ARTEX",
-      "url": "https://github.com/Autumn-27/ARTEX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "programmingLanguage": "Go",
-      "stars": 1767,
-      "forks": 413,
-      "starsInPeriod": 376
-    },
-    {
-      "rank": 9,
-      "fullName": "Agent-Field/CodeAF",
-      "url": "https://github.com/Agent-Field/CodeAF",
-      "description": "Open-Source Software factory for Open Models",
-      "programmingLanguage": "Go",
-      "stars": 296,
-      "forks": 40,
-      "starsInPeriod": 145
-    },
-    {
-      "rank": 10,
-      "fullName": "go-gitea/gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "programmingLanguage": "Go",
-      "stars": 58342,
-      "forks": 7227,
-      "starsInPeriod": 130
-    },
-    {
-      "rank": 11,
-      "fullName": "Billionmail/BillionMail",
-      "url": "https://github.com/Billionmail/BillionMail",
-      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
-      "programmingLanguage": "Go",
-      "stars": 15861,
-      "forks": 1744,
-      "starsInPeriod": 115
-    },
-    {
-      "rank": 12,
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "programmingLanguage": "Go",
-      "stars": 110256,
-      "forks": 6383,
-      "starsInPeriod": 2004
-    },
-    {
-      "rank": 13,
-      "fullName": "nats-io/nats-server",
-      "url": "https://github.com/nats-io/nats-server",
-      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
-      "programmingLanguage": "Go",
-      "stars": 20846,
-      "forks": 1990,
-      "starsInPeriod": 53
-    },
-    {
-      "rank": 14,
-      "fullName": "charmbracelet/bubbletea",
-      "url": "https://github.com/charmbracelet/bubbletea",
-      "description": "A powerful little TUI framework 🏗",
-      "programmingLanguage": "Go",
-      "stars": 45310,
-      "forks": 3287,
-      "starsInPeriod": 142
-    },
-    {
-      "rank": 15,
-      "fullName": "github/gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
-      "programmingLanguage": "Go",
-      "stars": 5351,
-      "forks": 576,
-      "starsInPeriod": 154
-    },
-    {
-      "rank": 16,
       "fullName": "lharries/whatsapp-mcp",
       "url": "https://github.com/lharries/whatsapp-mcp",
       "description": "WhatsApp MCP server",
       "programmingLanguage": "Go",
-      "stars": 6414,
-      "forks": 1369,
+      "stars": 6415,
+      "forks": 1370,
       "starsInPeriod": 85
+    },
+    {
+      "rank": 5,
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "programmingLanguage": "Go",
+      "stars": 58349,
+      "forks": 7229,
+      "starsInPeriod": 130
+    },
+    {
+      "rank": 6,
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 38280,
+      "forks": 740,
+      "starsInPeriod": 153
+    },
+    {
+      "rank": 7,
+      "fullName": "MHSanaei/3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "programmingLanguage": "Go",
+      "stars": 47552,
+      "forks": 12130,
+      "starsInPeriod": 387
+    },
+    {
+      "rank": 8,
+      "fullName": "google/gvisor",
+      "url": "https://github.com/google/gvisor",
+      "description": "Application Kernel for Containers",
+      "programmingLanguage": "Go",
+      "stars": 19577,
+      "forks": 2024,
+      "starsInPeriod": 122
+    },
+    {
+      "rank": 9,
+      "fullName": "Autumn-27/ARTEX",
+      "url": "https://github.com/Autumn-27/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "programmingLanguage": "Go",
+      "stars": 1879,
+      "forks": 457,
+      "starsInPeriod": 376
+    },
+    {
+      "rank": 10,
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 110342,
+      "forks": 6386,
+      "starsInPeriod": 2004
+    },
+    {
+      "rank": 11,
+      "fullName": "Agent-Field/CodeAF",
+      "url": "https://github.com/Agent-Field/CodeAF",
+      "description": "Open-Source Software factory for Open Models",
+      "programmingLanguage": "Go",
+      "stars": 304,
+      "forks": 41,
+      "starsInPeriod": 145
+    },
+    {
+      "rank": 12,
+      "fullName": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "programmingLanguage": "Go",
+      "stars": 80826,
+      "forks": 6652,
+      "starsInPeriod": 115
+    },
+    {
+      "rank": 13,
+      "fullName": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "programmingLanguage": "Go",
+      "stars": 23718,
+      "forks": 874,
+      "starsInPeriod": 205
+    },
+    {
+      "rank": 14,
+      "fullName": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "programmingLanguage": "Go",
+      "stars": 66409,
+      "forks": 10903,
+      "starsInPeriod": 137
+    },
+    {
+      "rank": 15,
+      "fullName": "k3s-io/k3s",
+      "url": "https://github.com/k3s-io/k3s",
+      "description": "Lightweight Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 34149,
+      "forks": 2752,
+      "starsInPeriod": 87
+    },
+    {
+      "rank": 16,
+      "fullName": "oauth2-proxy/oauth2-proxy",
+      "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+      "programmingLanguage": "Go",
+      "stars": 15054,
+      "forks": 2210,
+      "starsInPeriod": 28
     }
   ]
 }
