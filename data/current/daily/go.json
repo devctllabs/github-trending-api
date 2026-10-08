@@ -4,209 +4,169 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-08T06:02:39Z",
+  "observedAt": "2026-10-08T13:27:58Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "caddyserver/caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "fullName": "docker/docker-agent",
+      "url": "https://github.com/docker/docker-agent",
+      "description": "AI Agent Builder and Runtime by Docker Engineering",
       "programmingLanguage": "Go",
-      "stars": 77498,
-      "forks": 5099,
-      "starsInPeriod": 93
+      "stars": 4081,
+      "forks": 491,
+      "starsInPeriod": 628
     },
     {
       "rank": 2,
-      "fullName": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
+      "fullName": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "programmingLanguage": "Go",
-      "stars": 139320,
-      "forks": 21512,
-      "starsInPeriod": 35
+      "stars": 36357,
+      "forks": 4782,
+      "starsInPeriod": 7
     },
     {
       "rank": 3,
-      "fullName": "gin-gonic/gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-      "programmingLanguage": "Go",
-      "stars": 89295,
-      "forks": 8734,
-      "starsInPeriod": 9
-    },
-    {
-      "rank": 4,
-      "fullName": "Autumn-27/ARTEX",
-      "url": "https://github.com/Autumn-27/ARTEX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "programmingLanguage": "Go",
-      "stars": 2065,
-      "forks": 535,
-      "starsInPeriod": 236
-    },
-    {
-      "rank": 5,
-      "fullName": "ys-ll/uniterm",
-      "url": "https://github.com/ys-ll/uniterm",
-      "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
-      "programmingLanguage": "Go",
-      "stars": 771,
-      "forks": 119,
-      "starsInPeriod": 20
-    },
-    {
-      "rank": 6,
-      "fullName": "gitleaks/gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
-      "programmingLanguage": "Go",
-      "stars": 29789,
-      "forks": 2270,
-      "starsInPeriod": 44
-    },
-    {
-      "rank": 7,
-      "fullName": "open-telemetry/opentelemetry-collector-contrib",
-      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
-      "description": "Contrib repository for the OpenTelemetry Collector",
-      "programmingLanguage": "Go",
-      "stars": 4980,
-      "forks": 3985,
-      "starsInPeriod": 5
-    },
-    {
-      "rank": 8,
       "fullName": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 182525,
-      "forks": 18146,
+      "stars": 182567,
+      "forks": 18153,
       "starsInPeriod": 130
     },
     {
+      "rank": 4,
+      "fullName": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 24349,
+      "forks": 7927,
+      "starsInPeriod": 5
+    },
+    {
+      "rank": 5,
+      "fullName": "go-acme/lego",
+      "url": "https://github.com/go-acme/lego",
+      "description": "Let's Encrypt/ACME client and library written in Go",
+      "programmingLanguage": "Go",
+      "stars": 9911,
+      "forks": 1175,
+      "starsInPeriod": 4
+    },
+    {
+      "rank": 6,
+      "fullName": "llm-d/llm-d-router",
+      "url": "https://github.com/llm-d/llm-d-router",
+      "description": "llm-d Router: The intelligent entry point for inference requests",
+      "programmingLanguage": "Go",
+      "stars": 379,
+      "forks": 423,
+      "starsInPeriod": 4
+    },
+    {
+      "rank": 7,
+      "fullName": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "programmingLanguage": "Go",
+      "stars": 6896,
+      "forks": 1453,
+      "starsInPeriod": 2
+    },
+    {
+      "rank": 8,
+      "fullName": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "programmingLanguage": "Go",
+      "stars": 4981,
+      "forks": 3986,
+      "starsInPeriod": 5
+    },
+    {
       "rank": 9,
-      "fullName": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "fullName": "kai-scheduler/KAI-Scheduler",
+      "url": "https://github.com/kai-scheduler/KAI-Scheduler",
+      "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
       "programmingLanguage": "Go",
-      "stars": 38290,
-      "forks": 743,
-      "starsInPeriod": 31
-    },
-    {
-      "rank": 10,
-      "fullName": "drakkan/sftpgo",
-      "url": "https://github.com/drakkan/sftpgo",
-      "description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
-      "programmingLanguage": "Go",
-      "stars": 12633,
-      "forks": 975,
-      "starsInPeriod": 4
-    },
-    {
-      "rank": 11,
-      "fullName": "spf13/cobra",
-      "url": "https://github.com/spf13/cobra",
-      "description": "A Commander for modern Go CLI interactions",
-      "programmingLanguage": "Go",
-      "stars": 44697,
-      "forks": 5149,
-      "starsInPeriod": 7
-    },
-    {
-      "rank": 12,
-      "fullName": "getprobo/probo",
-      "url": "https://github.com/getprobo/probo",
-      "description": "Open source solutions for SOC2, GDPR, and ISO27001",
-      "programmingLanguage": "Go",
-      "stars": 1438,
-      "forks": 229,
-      "starsInPeriod": 4
-    },
-    {
-      "rank": 13,
-      "fullName": "maximhq/bifrost",
-      "url": "https://github.com/maximhq/bifrost",
-      "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
-      "programmingLanguage": "Go",
-      "stars": 8621,
-      "forks": 1354,
-      "starsInPeriod": 22
-    },
-    {
-      "rank": 14,
-      "fullName": "junegunn/fzf",
-      "url": "https://github.com/junegunn/fzf",
-      "description": "🌸 A command-line fuzzy finder",
-      "programmingLanguage": "Go",
-      "stars": 83439,
-      "forks": 4649,
-      "starsInPeriod": 27
-    },
-    {
-      "rank": 15,
-      "fullName": "grafana/gcx",
-      "url": "https://github.com/grafana/gcx",
-      "description": "A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.",
-      "programmingLanguage": "Go",
-      "stars": 771,
-      "forks": 57,
+      "stars": 1558,
+      "forks": 295,
       "starsInPeriod": 3
     },
     {
+      "rank": 10,
+      "fullName": "ltaoo/wx_channels_download",
+      "url": "https://github.com/ltaoo/wx_channels_download",
+      "description": "微信视频号下载器",
+      "programmingLanguage": "Go",
+      "stars": 9694,
+      "forks": 1604,
+      "starsInPeriod": 17
+    },
+    {
+      "rank": 11,
+      "fullName": "kyverno/kyverno",
+      "url": "https://github.com/kyverno/kyverno",
+      "description": "Unified Policy as Code",
+      "programmingLanguage": "Go",
+      "stars": 8228,
+      "forks": 1639,
+      "starsInPeriod": 6
+    },
+    {
+      "rank": 12,
+      "fullName": "stacklok/toolhive",
+      "url": "https://github.com/stacklok/toolhive",
+      "description": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
+      "programmingLanguage": "Go",
+      "stars": 2249,
+      "forks": 314,
+      "starsInPeriod": 9
+    },
+    {
+      "rank": 13,
+      "fullName": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "programmingLanguage": "Go",
+      "stars": 82997,
+      "forks": 3068,
+      "starsInPeriod": 49
+    },
+    {
+      "rank": 14,
+      "fullName": "navidrome/navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧 Your Personal Streaming Service",
+      "programmingLanguage": "Go",
+      "stars": 24036,
+      "forks": 1746,
+      "starsInPeriod": 25
+    },
+    {
+      "rank": 15,
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "programmingLanguage": "Go",
+      "stars": 29792,
+      "forks": 2270,
+      "starsInPeriod": 31
+    },
+    {
       "rank": 16,
-      "fullName": "icereed/paperless-gpt",
-      "url": "https://github.com/icereed/paperless-gpt",
-      "description": "Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI",
+      "fullName": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "programmingLanguage": "Go",
-      "stars": 2743,
-      "forks": 216,
-      "starsInPeriod": 8
-    },
-    {
-      "rank": 17,
-      "fullName": "traefik/traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
-      "programmingLanguage": "Go",
-      "stars": 65105,
-      "forks": 6228,
-      "starsInPeriod": 23
-    },
-    {
-      "rank": 18,
-      "fullName": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "programmingLanguage": "Go",
-      "stars": 111393,
-      "forks": 15957,
-      "starsInPeriod": 19
-    },
-    {
-      "rank": 19,
-      "fullName": "kubernetes-sigs/agent-sandbox",
-      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
-      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
-      "programmingLanguage": "Go",
-      "stars": 4183,
-      "forks": 549,
-      "starsInPeriod": 12
-    },
-    {
-      "rank": 20,
-      "fullName": "cilium/cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
-      "programmingLanguage": "Go",
-      "stars": 25615,
-      "forks": 4135,
-      "starsInPeriod": 4
+      "stars": 37272,
+      "forks": 3298,
+      "starsInPeriod": 49
     }
   ]
 }

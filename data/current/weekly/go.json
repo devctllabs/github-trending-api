@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-08T06:02:43Z",
+  "observedAt": "2026-10-08T13:28:02Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 77498,
-      "forks": 5099,
+      "stars": 77531,
+      "forks": 5100,
       "starsInPeriod": 1320
     },
     {
@@ -24,79 +24,79 @@
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "programmingLanguage": "Go",
-      "stars": 5017,
-      "forks": 223,
+      "stars": 5029,
+      "forks": 225,
       "starsInPeriod": 616
     },
     {
       "rank": 3,
-      "fullName": "rakyll/hey",
-      "url": "https://github.com/rakyll/hey",
-      "description": "HTTP load generator, ApacheBench (ab) replacement",
-      "programmingLanguage": "Go",
-      "stars": 20651,
-      "forks": 1321,
-      "starsInPeriod": 58
-    },
-    {
-      "rank": 4,
       "fullName": "lharries/whatsapp-mcp",
       "url": "https://github.com/lharries/whatsapp-mcp",
       "description": "WhatsApp MCP server",
       "programmingLanguage": "Go",
-      "stars": 6420,
+      "stars": 6422,
       "forks": 1369,
       "starsInPeriod": 88
     },
     {
-      "rank": 5,
-      "fullName": "go-gitea/gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "programmingLanguage": "Go",
-      "stars": 58354,
-      "forks": 7229,
-      "starsInPeriod": 128
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "fullName": "aquasecurity/trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38290,
-      "forks": 743,
+      "stars": 38293,
+      "forks": 746,
       "starsInPeriod": 156
     },
     {
-      "rank": 7,
-      "fullName": "MHSanaei/3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
-      "programmingLanguage": "Go",
-      "stars": 47587,
-      "forks": 12145,
-      "starsInPeriod": 389
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "fullName": "google/gvisor",
       "url": "https://github.com/google/gvisor",
       "description": "Application Kernel for Containers",
       "programmingLanguage": "Go",
-      "stars": 19593,
-      "forks": 2027,
+      "stars": 19600,
+      "forks": 2030,
       "starsInPeriod": 127
     },
     {
-      "rank": 9,
-      "fullName": "Autumn-27/ARTEX",
-      "url": "https://github.com/Autumn-27/ARTEX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "rank": 6,
+      "fullName": "MHSanaei/3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "programmingLanguage": "Go",
-      "stars": 2065,
-      "forks": 535,
-      "starsInPeriod": 613
+      "stars": 47621,
+      "forks": 12166,
+      "starsInPeriod": 389
+    },
+    {
+      "rank": 7,
+      "fullName": "Agent-Field/CodeAF",
+      "url": "https://github.com/Agent-Field/CodeAF",
+      "description": "Open-Source Software factory for Open Models",
+      "programmingLanguage": "Go",
+      "stars": 322,
+      "forks": 42,
+      "starsInPeriod": 136
+    },
+    {
+      "rank": 8,
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "programmingLanguage": "Go",
+      "stars": 58364,
+      "forks": 7230,
+      "starsInPeriod": 128
+    },
+    {
+      "rank": 9,
+      "fullName": "ys-ll/uniterm",
+      "url": "https://github.com/ys-ll/uniterm",
+      "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
+      "programmingLanguage": "Go",
+      "stars": 782,
+      "forks": 119,
+      "starsInPeriod": 177
     },
     {
       "rank": 10,
@@ -104,67 +104,47 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 110454,
-      "forks": 6393,
+      "stars": 110511,
+      "forks": 6397,
       "starsInPeriod": 2026
     },
     {
       "rank": 11,
-      "fullName": "Agent-Field/CodeAF",
-      "url": "https://github.com/Agent-Field/CodeAF",
-      "description": "Open-Source Software factory for Open Models",
+      "fullName": "pocket-id/pocket-id",
+      "url": "https://github.com/pocket-id/pocket-id",
+      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
       "programmingLanguage": "Go",
-      "stars": 309,
-      "forks": 42,
-      "starsInPeriod": 136
+      "stars": 9461,
+      "forks": 319,
+      "starsInPeriod": 132
     },
     {
       "rank": 12,
-      "fullName": "netdata/netdata",
-      "url": "https://github.com/netdata/netdata",
-      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "fullName": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "programmingLanguage": "Go",
-      "stars": 80839,
-      "forks": 6657,
-      "starsInPeriod": 98
+      "stars": 111400,
+      "forks": 15960,
+      "starsInPeriod": 138
     },
     {
       "rank": 13,
-      "fullName": "yorukot/superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 23734,
-      "forks": 874,
-      "starsInPeriod": 190
+      "stars": 182567,
+      "forks": 18153,
+      "starsInPeriod": 676
     },
     {
       "rank": 14,
-      "fullName": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "programmingLanguage": "Go",
-      "stars": 66419,
-      "forks": 10904,
-      "starsInPeriod": 134
-    },
-    {
-      "rank": 15,
-      "fullName": "k3s-io/k3s",
-      "url": "https://github.com/k3s-io/k3s",
-      "description": "Lightweight Kubernetes",
-      "programmingLanguage": "Go",
-      "stars": 34150,
-      "forks": 2753,
-      "starsInPeriod": 85
-    },
-    {
-      "rank": 16,
       "fullName": "oauth2-proxy/oauth2-proxy",
       "url": "https://github.com/oauth2-proxy/oauth2-proxy",
       "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
       "programmingLanguage": "Go",
-      "stars": 15058,
+      "stars": 15060,
       "forks": 2211,
       "starsInPeriod": 28
     }

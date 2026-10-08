@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "updatedAt": "2026-10-08T06:02:49Z",
+  "updatedAt": "2026-10-08T13:28:09Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,42 +14,56 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 102977,
-      "forks": 10782,
-      "starsInPeriod": 677,
+      "stars": 103214,
+      "forks": 10803,
+      "starsInPeriod": 873,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-08T06:02:49Z",
-      "lastSeenAt": "2026-10-08T06:02:49Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T13:28:09Z",
+      "appearances": 2
     },
     {
       "fullName": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 26213,
-      "forks": 1575,
-      "starsInPeriod": 576,
+      "stars": 26441,
+      "forks": 1584,
+      "starsInPeriod": 836,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 4,
       "firstSeenAt": "2026-10-08T06:02:49Z",
-      "lastSeenAt": "2026-10-08T06:02:49Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T13:28:09Z",
+      "appearances": 2
     },
     {
       "fullName": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "programmingLanguage": "JavaScript",
-      "stars": 7290,
-      "forks": 949,
-      "starsInPeriod": 1493,
+      "stars": 7679,
+      "forks": 982,
+      "starsInPeriod": 1339,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-08T06:02:49Z",
+      "lastSeenAt": "2026-10-08T13:28:09Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "programmingLanguage": "JavaScript",
+      "stars": 4576,
+      "forks": 325,
+      "starsInPeriod": 37,
       "bestRank": 3,
       "latestRank": 3,
       "firstSeenAt": "2026-10-08T06:02:49Z",
-      "lastSeenAt": "2026-10-08T06:02:49Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T13:28:09Z",
+      "appearances": 2
     },
     {
       "fullName": "liyupi/ai-guide",
@@ -66,18 +80,18 @@
       "appearances": 1
     },
     {
-      "fullName": "anthropics/claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "fullName": "aunetx/blur-my-shell",
+      "url": "https://github.com/aunetx/blur-my-shell",
+      "description": "Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview",
       "programmingLanguage": "JavaScript",
-      "stars": 4566,
-      "forks": 325,
-      "starsInPeriod": 37,
+      "stars": 2274,
+      "forks": 176,
+      "starsInPeriod": 14,
       "bestRank": 5,
       "latestRank": 5,
       "firstSeenAt": "2026-10-08T06:02:49Z",
-      "lastSeenAt": "2026-10-08T06:02:49Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T13:28:09Z",
+      "appearances": 2
     },
     {
       "fullName": "kanoqwq/UFI-TOOLS",
@@ -91,6 +105,20 @@
       "latestRank": 6,
       "firstSeenAt": "2026-10-08T06:02:49Z",
       "lastSeenAt": "2026-10-08T06:02:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "tabler/tabler-icons",
+      "url": "https://github.com/tabler/tabler-icons",
+      "description": "A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+      "programmingLanguage": "JavaScript",
+      "stars": 22075,
+      "forks": 1225,
+      "starsInPeriod": 84,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-08T13:28:09Z",
+      "lastSeenAt": "2026-10-08T13:28:09Z",
       "appearances": 1
     },
     {
@@ -108,6 +136,20 @@
       "appearances": 1
     },
     {
+      "fullName": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "programmingLanguage": "JavaScript",
+      "stars": 93704,
+      "forks": 6361,
+      "starsInPeriod": 346,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-08T13:28:09Z",
+      "lastSeenAt": "2026-10-08T13:28:09Z",
+      "appearances": 1
+    },
+    {
       "fullName": "Stremio/stremio-web",
       "url": "https://github.com/Stremio/stremio-web",
       "description": "Stremio - Freedom to Stream",
@@ -119,6 +161,20 @@
       "latestRank": 8,
       "firstSeenAt": "2026-10-08T06:02:49Z",
       "lastSeenAt": "2026-10-08T06:02:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "CodeWithHarry/Sigma-Web-Dev-Course",
+      "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
+      "description": "Source Code for Sigma Web Development Course",
+      "programmingLanguage": "JavaScript",
+      "stars": 11959,
+      "forks": 3105,
+      "starsInPeriod": 4,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-08T13:28:09Z",
+      "lastSeenAt": "2026-10-08T13:28:09Z",
       "appearances": 1
     },
     {
@@ -136,17 +192,45 @@
       "appearances": 1
     },
     {
+      "fullName": "atlassian/atlassian-mcp-server",
+      "url": "https://github.com/atlassian/atlassian-mcp-server",
+      "description": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.",
+      "programmingLanguage": "JavaScript",
+      "stars": 1086,
+      "forks": 139,
+      "starsInPeriod": null,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-08T13:28:09Z",
+      "lastSeenAt": "2026-10-08T13:28:09Z",
+      "appearances": 1
+    },
+    {
       "fullName": "microsoft/power-platform-skills",
       "url": "https://github.com/microsoft/power-platform-skills",
       "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
       "programmingLanguage": "JavaScript",
-      "stars": 972,
-      "forks": 196,
+      "stars": 976,
+      "forks": 197,
       "starsInPeriod": 5,
       "bestRank": 10,
-      "latestRank": 10,
+      "latestRank": 12,
       "firstSeenAt": "2026-10-08T06:02:49Z",
-      "lastSeenAt": "2026-10-08T06:02:49Z",
+      "lastSeenAt": "2026-10-08T13:28:09Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "mailcow/mailcow-dockerized",
+      "url": "https://github.com/mailcow/mailcow-dockerized",
+      "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
+      "programmingLanguage": "JavaScript",
+      "stars": 13573,
+      "forks": 1826,
+      "starsInPeriod": 9,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-08T13:28:09Z",
+      "lastSeenAt": "2026-10-08T13:28:09Z",
       "appearances": 1
     },
     {
@@ -161,6 +245,20 @@
       "latestRank": 11,
       "firstSeenAt": "2026-10-08T06:02:49Z",
       "lastSeenAt": "2026-10-08T06:02:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "programmingLanguage": "JavaScript",
+      "stars": 39807,
+      "forks": 5078,
+      "starsInPeriod": 46,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-08T13:28:09Z",
+      "lastSeenAt": "2026-10-08T13:28:09Z",
       "appearances": 1
     },
     {
@@ -215,20 +313,6 @@
       "starsInPeriod": 13,
       "bestRank": 15,
       "latestRank": 15,
-      "firstSeenAt": "2026-10-08T06:02:49Z",
-      "lastSeenAt": "2026-10-08T06:02:49Z",
-      "appearances": 1
-    },
-    {
-      "fullName": "aunetx/blur-my-shell",
-      "url": "https://github.com/aunetx/blur-my-shell",
-      "description": "Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview",
-      "programmingLanguage": "JavaScript",
-      "stars": 2265,
-      "forks": 174,
-      "starsInPeriod": 14,
-      "bestRank": 16,
-      "latestRank": 16,
       "firstSeenAt": "2026-10-08T06:02:49Z",
       "lastSeenAt": "2026-10-08T06:02:49Z",
       "appearances": 1

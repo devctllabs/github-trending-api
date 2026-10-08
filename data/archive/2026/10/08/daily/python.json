@@ -5,37 +5,51 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "updatedAt": "2026-10-08T06:02:19Z",
+  "updatedAt": "2026-10-08T13:27:33Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
+    {
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "programmingLanguage": "Python",
+      "stars": 27289,
+      "forks": 3183,
+      "starsInPeriod": 766,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-08T06:02:19Z",
+      "lastSeenAt": "2026-10-08T13:27:33Z",
+      "appearances": 2
+    },
     {
       "fullName": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "programmingLanguage": "Python",
-      "stars": 55341,
-      "forks": 3166,
-      "starsInPeriod": 619,
+      "stars": 55633,
+      "forks": 3173,
+      "starsInPeriod": 915,
       "bestRank": 1,
-      "latestRank": 1,
+      "latestRank": 3,
       "firstSeenAt": "2026-10-08T06:02:19Z",
-      "lastSeenAt": "2026-10-08T06:02:19Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T13:27:33Z",
+      "appearances": 2
     },
     {
       "fullName": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "programmingLanguage": "Python",
-      "stars": 18319,
-      "forks": 1822,
+      "stars": 18375,
+      "forks": 1825,
       "starsInPeriod": 447,
       "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-10-08T06:02:19Z",
-      "lastSeenAt": "2026-10-08T06:02:19Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T13:27:33Z",
+      "appearances": 2
     },
     {
       "fullName": "allenai/olmocr",
@@ -66,6 +80,20 @@
       "appearances": 1
     },
     {
+      "fullName": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+      "programmingLanguage": "Python",
+      "stars": 11630,
+      "forks": 1704,
+      "starsInPeriod": 107,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-08T13:27:33Z",
+      "lastSeenAt": "2026-10-08T13:27:33Z",
+      "appearances": 1
+    },
+    {
       "fullName": "MDX-Tom/gpt-instruct",
       "url": "https://github.com/MDX-Tom/gpt-instruct",
       "description": "A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。",
@@ -80,17 +108,17 @@
       "appearances": 1
     },
     {
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "fullName": "abrignoni/ALEAPP",
+      "url": "https://github.com/abrignoni/ALEAPP",
+      "description": "Android Logs Events And Protobuf Parser",
       "programmingLanguage": "Python",
-      "stars": 27199,
-      "forks": 3178,
-      "starsInPeriod": 766,
-      "bestRank": 6,
-      "latestRank": 6,
-      "firstSeenAt": "2026-10-08T06:02:19Z",
-      "lastSeenAt": "2026-10-08T06:02:19Z",
+      "stars": 973,
+      "forks": 255,
+      "starsInPeriod": 18,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-08T13:27:33Z",
+      "lastSeenAt": "2026-10-08T13:27:33Z",
       "appearances": 1
     },
     {
@@ -98,13 +126,27 @@
       "url": "https://github.com/smicallef/spiderfoot",
       "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
       "programmingLanguage": "Python",
-      "stars": 23138,
+      "stars": 23154,
       "forks": 3712,
       "starsInPeriod": 193,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-08T06:02:19Z",
+      "lastSeenAt": "2026-10-08T13:27:33Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "bmad-code-org/BMAD-METHOD",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "description": "Breakthrough Method for Agile Ai Driven Development",
+      "programmingLanguage": "Python",
+      "stars": 53932,
+      "forks": 6072,
+      "starsInPeriod": 50,
       "bestRank": 7,
       "latestRank": 7,
-      "firstSeenAt": "2026-10-08T06:02:19Z",
-      "lastSeenAt": "2026-10-08T06:02:19Z",
+      "firstSeenAt": "2026-10-08T13:27:33Z",
+      "lastSeenAt": "2026-10-08T13:27:33Z",
       "appearances": 1
     },
     {
@@ -112,13 +154,27 @@
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "programmingLanguage": "Python",
-      "stars": 4768,
-      "forks": 389,
+      "stars": 4799,
+      "forks": 390,
       "starsInPeriod": 416,
       "bestRank": 8,
-      "latestRank": 8,
+      "latestRank": 11,
       "firstSeenAt": "2026-10-08T06:02:19Z",
-      "lastSeenAt": "2026-10-08T06:02:19Z",
+      "lastSeenAt": "2026-10-08T13:27:33Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "psf/black",
+      "url": "https://github.com/psf/black",
+      "description": "The uncompromising Python code formatter",
+      "programmingLanguage": "Python",
+      "stars": 41877,
+      "forks": 2910,
+      "starsInPeriod": 7,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-08T13:27:33Z",
+      "lastSeenAt": "2026-10-08T13:27:33Z",
       "appearances": 1
     },
     {
@@ -136,6 +192,20 @@
       "appearances": 1
     },
     {
+      "fullName": "microsoft/agent-framework",
+      "url": "https://github.com/microsoft/agent-framework",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "programmingLanguage": "Python",
+      "stars": 14008,
+      "forks": 2446,
+      "starsInPeriod": 24,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-08T13:27:33Z",
+      "lastSeenAt": "2026-10-08T13:27:33Z",
+      "appearances": 1
+    },
+    {
       "fullName": "Z4nzu/hackingtool",
       "url": "https://github.com/Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
@@ -147,6 +217,20 @@
       "latestRank": 10,
       "firstSeenAt": "2026-10-08T06:02:19Z",
       "lastSeenAt": "2026-10-08T06:02:19Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "IAmTomShaw/f1-race-replay",
+      "url": "https://github.com/IAmTomShaw/f1-race-replay",
+      "description": "An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️",
+      "programmingLanguage": "Python",
+      "stars": 6657,
+      "forks": 875,
+      "starsInPeriod": 216,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-08T13:27:33Z",
+      "lastSeenAt": "2026-10-08T13:27:33Z",
       "appearances": 1
     },
     {
@@ -175,6 +259,20 @@
       "latestRank": 12,
       "firstSeenAt": "2026-10-08T06:02:19Z",
       "lastSeenAt": "2026-10-08T06:02:19Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "CursorTouch/Windows-MCP",
+      "url": "https://github.com/CursorTouch/Windows-MCP",
+      "description": "MCP Server for Computer Use in Windows",
+      "programmingLanguage": "Python",
+      "stars": 8263,
+      "forks": 918,
+      "starsInPeriod": 411,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-10-08T13:27:33Z",
+      "lastSeenAt": "2026-10-08T13:27:33Z",
       "appearances": 1
     }
   ]
