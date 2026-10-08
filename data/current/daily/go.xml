@@ -4,12 +4,12 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Thu, 08 Oct 2026 13:27:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:20:43 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-10-08T13:27:58Z</ght:observedAt>
+    <ght:observedAt>2026-10-08T23:20:43Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,11 +17,11 @@
       <link>https://github.com/docker/docker-agent</link>
       <description>AI Agent Builder and Runtime by Docker Engineering</description>
       <guid isPermaLink="true">https://github.com/docker/docker-agent</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>4081</ght:stars>
-      <ght:forks>491</ght:forks>
+      <ght:stars>4229</ght:stars>
+      <ght:forks>494</ght:forks>
       <ght:starsInPeriod>628</ght:starsInPeriod>
     </item>
     <item>
@@ -29,11 +29,11 @@
       <link>https://github.com/hashicorp/vault</link>
       <description>A tool for secrets management, encryption as a service, and privileged access management</description>
       <guid isPermaLink="true">https://github.com/hashicorp/vault</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>36357</ght:stars>
-      <ght:forks>4782</ght:forks>
+      <ght:stars>36359</ght:stars>
+      <ght:forks>4781</ght:forks>
       <ght:starsInPeriod>7</ght:starsInPeriod>
     </item>
     <item>
@@ -41,23 +41,23 @@
       <link>https://github.com/ollama/ollama</link>
       <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
       <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>182567</ght:stars>
-      <ght:forks>18153</ght:forks>
-      <ght:starsInPeriod>130</ght:starsInPeriod>
+      <ght:stars>182406</ght:stars>
+      <ght:forks>18165</ght:forks>
+      <ght:starsInPeriod>127</ght:starsInPeriod>
     </item>
     <item>
       <title>argoproj/argo-cd</title>
       <link>https://github.com/argoproj/argo-cd</link>
       <description>Declarative Continuous Deployment for Kubernetes</description>
       <guid isPermaLink="true">https://github.com/argoproj/argo-cd</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
       <ght:stars>24349</ght:stars>
-      <ght:forks>7927</ght:forks>
+      <ght:forks>7929</ght:forks>
       <ght:starsInPeriod>5</ght:starsInPeriod>
     </item>
     <item>
@@ -65,10 +65,10 @@
       <link>https://github.com/go-acme/lego</link>
       <description>Let's Encrypt/ACME client and library written in Go</description>
       <guid isPermaLink="true">https://github.com/go-acme/lego</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>9911</ght:stars>
+      <ght:stars>9915</ght:stars>
       <ght:forks>1175</ght:forks>
       <ght:starsInPeriod>4</ght:starsInPeriod>
     </item>
@@ -77,11 +77,11 @@
       <link>https://github.com/llm-d/llm-d-router</link>
       <description>llm-d Router: The intelligent entry point for inference requests</description>
       <guid isPermaLink="true">https://github.com/llm-d/llm-d-router</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>379</ght:stars>
-      <ght:forks>423</ght:forks>
+      <ght:stars>382</ght:stars>
+      <ght:forks>424</ght:forks>
       <ght:starsInPeriod>4</ght:starsInPeriod>
     </item>
     <item>
@@ -89,11 +89,11 @@
       <link>https://github.com/external-secrets/external-secrets</link>
       <description>External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.</description>
       <guid isPermaLink="true">https://github.com/external-secrets/external-secrets</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6896</ght:stars>
-      <ght:forks>1453</ght:forks>
+      <ght:stars>6898</ght:stars>
+      <ght:forks>1452</ght:forks>
       <ght:starsInPeriod>2</ght:starsInPeriod>
     </item>
     <item>
@@ -101,22 +101,22 @@
       <link>https://github.com/open-telemetry/opentelemetry-collector-contrib</link>
       <description>Contrib repository for the OpenTelemetry Collector</description>
       <guid isPermaLink="true">https://github.com/open-telemetry/opentelemetry-collector-contrib</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>4981</ght:stars>
-      <ght:forks>3986</ght:forks>
-      <ght:starsInPeriod>5</ght:starsInPeriod>
+      <ght:stars>4983</ght:stars>
+      <ght:forks>3993</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
     </item>
     <item>
       <title>kai-scheduler/KAI-Scheduler</title>
       <link>https://github.com/kai-scheduler/KAI-Scheduler</link>
       <description>KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale</description>
       <guid isPermaLink="true">https://github.com/kai-scheduler/KAI-Scheduler</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1558</ght:stars>
+      <ght:stars>1559</ght:stars>
       <ght:forks>295</ght:forks>
       <ght:starsInPeriod>3</ght:starsInPeriod>
     </item>
@@ -125,11 +125,11 @@
       <link>https://github.com/ltaoo/wx_channels_download</link>
       <description>微信视频号下载器</description>
       <guid isPermaLink="true">https://github.com/ltaoo/wx_channels_download</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
       <ght:stars>9694</ght:stars>
-      <ght:forks>1604</ght:forks>
+      <ght:forks>1606</ght:forks>
       <ght:starsInPeriod>17</ght:starsInPeriod>
     </item>
     <item>
@@ -137,11 +137,11 @@
       <link>https://github.com/kyverno/kyverno</link>
       <description>Unified Policy as Code</description>
       <guid isPermaLink="true">https://github.com/kyverno/kyverno</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>8228</ght:stars>
-      <ght:forks>1639</ght:forks>
+      <ght:stars>8230</ght:stars>
+      <ght:forks>1642</ght:forks>
       <ght:starsInPeriod>6</ght:starsInPeriod>
     </item>
     <item>
@@ -149,11 +149,11 @@
       <link>https://github.com/stacklok/toolhive</link>
       <description>ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.</description>
       <guid isPermaLink="true">https://github.com/stacklok/toolhive</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>2249</ght:stars>
-      <ght:forks>314</ght:forks>
+      <ght:stars>2252</ght:stars>
+      <ght:forks>315</ght:forks>
       <ght:starsInPeriod>9</ght:starsInPeriod>
     </item>
     <item>
@@ -161,11 +161,11 @@
       <link>https://github.com/jesseduffield/lazygit</link>
       <description>simple terminal UI for git commands</description>
       <guid isPermaLink="true">https://github.com/jesseduffield/lazygit</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>13</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>82997</ght:stars>
-      <ght:forks>3068</ght:forks>
+      <ght:stars>83017</ght:stars>
+      <ght:forks>3069</ght:forks>
       <ght:starsInPeriod>49</ght:starsInPeriod>
     </item>
     <item>
@@ -173,11 +173,11 @@
       <link>https://github.com/navidrome/navidrome</link>
       <description>🎧 Your Personal Streaming Service</description>
       <guid isPermaLink="true">https://github.com/navidrome/navidrome</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>14</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>24036</ght:stars>
-      <ght:forks>1746</ght:forks>
+      <ght:stars>24045</ght:stars>
+      <ght:forks>1748</ght:forks>
       <ght:starsInPeriod>25</ght:starsInPeriod>
     </item>
     <item>
@@ -185,10 +185,10 @@
       <link>https://github.com/gitleaks/gitleaks</link>
       <description>Find secrets with Gitleaks 🔑</description>
       <guid isPermaLink="true">https://github.com/gitleaks/gitleaks</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>15</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>29792</ght:stars>
+      <ght:stars>29795</ght:stars>
       <ght:forks>2270</ght:forks>
       <ght:starsInPeriod>31</ght:starsInPeriod>
     </item>
@@ -197,11 +197,11 @@
       <link>https://github.com/tailscale/tailscale</link>
       <description>The easiest, most secure way to use WireGuard and 2FA.</description>
       <guid isPermaLink="true">https://github.com/tailscale/tailscale</guid>
-      <pubDate>Thu, 08 Oct 2026 13:27:58 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 23:20:43 GMT</pubDate>
       <ght:rank>16</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>37272</ght:stars>
-      <ght:forks>3298</ght:forks>
+      <ght:stars>37277</ght:stars>
+      <ght:forks>3299</ght:forks>
       <ght:starsInPeriod>49</ght:starsInPeriod>
     </item>
   </channel>

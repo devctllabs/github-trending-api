@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-10-08T13:27:58Z",
+  "updatedAt": "2026-10-08T23:20:43Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -28,14 +28,14 @@
       "url": "https://github.com/docker/docker-agent",
       "description": "AI Agent Builder and Runtime by Docker Engineering",
       "programmingLanguage": "Go",
-      "stars": 4081,
-      "forks": 491,
+      "stars": 4229,
+      "forks": 494,
       "starsInPeriod": 628,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "golang/go",
@@ -56,14 +56,14 @@
       "url": "https://github.com/hashicorp/vault",
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "programmingLanguage": "Go",
-      "stars": 36357,
-      "forks": 4782,
+      "stars": 36359,
+      "forks": 4781,
       "starsInPeriod": 7,
       "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "gin-gonic/gin",
@@ -84,14 +84,14 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 182567,
-      "forks": 18153,
-      "starsInPeriod": 130,
+      "stars": 182406,
+      "forks": 18165,
+      "starsInPeriod": 127,
       "bestRank": 3,
       "latestRank": 3,
       "firstSeenAt": "2026-10-08T06:02:39Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 3
     },
     {
       "fullName": "Autumn-27/ARTEX",
@@ -113,13 +113,13 @@
       "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
       "stars": 24349,
-      "forks": 7927,
+      "forks": 7929,
       "starsInPeriod": 5,
       "bestRank": 4,
       "latestRank": 4,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "ys-ll/uniterm",
@@ -140,70 +140,70 @@
       "url": "https://github.com/go-acme/lego",
       "description": "Let's Encrypt/ACME client and library written in Go",
       "programmingLanguage": "Go",
-      "stars": 9911,
+      "stars": 9915,
       "forks": 1175,
       "starsInPeriod": 4,
       "bestRank": 5,
       "latestRank": 5,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "gitleaks/gitleaks",
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 29792,
+      "stars": 29795,
       "forks": 2270,
       "starsInPeriod": 31,
       "bestRank": 6,
       "latestRank": 15,
       "firstSeenAt": "2026-10-08T06:02:39Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 3
     },
     {
       "fullName": "llm-d/llm-d-router",
       "url": "https://github.com/llm-d/llm-d-router",
       "description": "llm-d Router: The intelligent entry point for inference requests",
       "programmingLanguage": "Go",
-      "stars": 379,
-      "forks": 423,
+      "stars": 382,
+      "forks": 424,
       "starsInPeriod": 4,
       "bestRank": 6,
       "latestRank": 6,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "open-telemetry/opentelemetry-collector-contrib",
       "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
       "description": "Contrib repository for the OpenTelemetry Collector",
       "programmingLanguage": "Go",
-      "stars": 4981,
-      "forks": 3986,
-      "starsInPeriod": 5,
+      "stars": 4983,
+      "forks": 3993,
+      "starsInPeriod": 4,
       "bestRank": 7,
       "latestRank": 8,
       "firstSeenAt": "2026-10-08T06:02:39Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 3
     },
     {
       "fullName": "external-secrets/external-secrets",
       "url": "https://github.com/external-secrets/external-secrets",
       "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
       "programmingLanguage": "Go",
-      "stars": 6896,
-      "forks": 1453,
+      "stars": 6898,
+      "forks": 1452,
       "starsInPeriod": 2,
       "bestRank": 7,
       "latestRank": 7,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "aquasecurity/trivy",
@@ -224,14 +224,14 @@
       "url": "https://github.com/kai-scheduler/KAI-Scheduler",
       "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
       "programmingLanguage": "Go",
-      "stars": 1558,
+      "stars": 1559,
       "forks": 295,
       "starsInPeriod": 3,
       "bestRank": 9,
       "latestRank": 9,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "drakkan/sftpgo",
@@ -253,13 +253,13 @@
       "description": "微信视频号下载器",
       "programmingLanguage": "Go",
       "stars": 9694,
-      "forks": 1604,
+      "forks": 1606,
       "starsInPeriod": 17,
       "bestRank": 10,
       "latestRank": 10,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "spf13/cobra",
@@ -280,14 +280,14 @@
       "url": "https://github.com/kyverno/kyverno",
       "description": "Unified Policy as Code",
       "programmingLanguage": "Go",
-      "stars": 8228,
-      "forks": 1639,
+      "stars": 8230,
+      "forks": 1642,
       "starsInPeriod": 6,
       "bestRank": 11,
       "latestRank": 11,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "getprobo/probo",
@@ -308,14 +308,14 @@
       "url": "https://github.com/stacklok/toolhive",
       "description": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
       "programmingLanguage": "Go",
-      "stars": 2249,
-      "forks": 314,
+      "stars": 2252,
+      "forks": 315,
       "starsInPeriod": 9,
       "bestRank": 12,
       "latestRank": 12,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "maximhq/bifrost",
@@ -336,14 +336,14 @@
       "url": "https://github.com/jesseduffield/lazygit",
       "description": "simple terminal UI for git commands",
       "programmingLanguage": "Go",
-      "stars": 82997,
-      "forks": 3068,
+      "stars": 83017,
+      "forks": 3069,
       "starsInPeriod": 49,
       "bestRank": 13,
       "latestRank": 13,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "junegunn/fzf",
@@ -364,14 +364,14 @@
       "url": "https://github.com/navidrome/navidrome",
       "description": "🎧 Your Personal Streaming Service",
       "programmingLanguage": "Go",
-      "stars": 24036,
-      "forks": 1746,
+      "stars": 24045,
+      "forks": 1748,
       "starsInPeriod": 25,
       "bestRank": 14,
       "latestRank": 14,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "grafana/gcx",
@@ -406,14 +406,14 @@
       "url": "https://github.com/tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "programmingLanguage": "Go",
-      "stars": 37272,
-      "forks": 3298,
+      "stars": 37277,
+      "forks": 3299,
       "starsInPeriod": 49,
       "bestRank": 16,
       "latestRank": 16,
       "firstSeenAt": "2026-10-08T13:27:58Z",
-      "lastSeenAt": "2026-10-08T13:27:58Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-08T23:20:43Z",
+      "appearances": 2
     },
     {
       "fullName": "traefik/traefik",

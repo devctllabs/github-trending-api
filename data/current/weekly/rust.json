@@ -4,8 +4,129 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-10-08T13:27:51Z",
+  "observedAt": "2026-10-08T23:20:36Z",
   "status": "complete",
   "issues": [],
-  "items": []
+  "items": [
+    {
+      "rank": 1,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 15476,
+      "forks": 1742,
+      "starsInPeriod": 3690
+    },
+    {
+      "rank": 2,
+      "fullName": "zerx-lab/FluxDown",
+      "url": "https://github.com/zerx-lab/FluxDown",
+      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+      "programmingLanguage": "Rust",
+      "stars": 4055,
+      "forks": 239,
+      "starsInPeriod": 753
+    },
+    {
+      "rank": 3,
+      "fullName": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
+      "programmingLanguage": "Rust",
+      "stars": 41689,
+      "forks": 4101,
+      "starsInPeriod": 1439
+    },
+    {
+      "rank": 4,
+      "fullName": "zeronsh/zeron",
+      "url": "https://github.com/zeronsh/zeron",
+      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
+      "programmingLanguage": "Rust",
+      "stars": 3130,
+      "forks": 299,
+      "starsInPeriod": 606
+    },
+    {
+      "rank": 5,
+      "fullName": "touchHLE/touchHLE",
+      "url": "https://github.com/touchHLE/touchHLE",
+      "description": "High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
+      "programmingLanguage": "Rust",
+      "stars": 3981,
+      "forks": 354,
+      "starsInPeriod": 46
+    },
+    {
+      "rank": 6,
+      "fullName": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers",
+      "programmingLanguage": "Rust",
+      "stars": 12174,
+      "forks": 894,
+      "starsInPeriod": 361
+    },
+    {
+      "rank": 7,
+      "fullName": "JayWebtech/autoshorts",
+      "url": "https://github.com/JayWebtech/autoshorts",
+      "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
+      "programmingLanguage": "Rust",
+      "stars": 1207,
+      "forks": 228,
+      "starsInPeriod": 191
+    },
+    {
+      "rank": 8,
+      "fullName": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "programmingLanguage": "Rust",
+      "stars": 16575,
+      "forks": 1019,
+      "starsInPeriod": 1258
+    },
+    {
+      "rank": 9,
+      "fullName": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "programmingLanguage": "Rust",
+      "stars": 25217,
+      "forks": 2283,
+      "starsInPeriod": 2135
+    },
+    {
+      "rank": 10,
+      "fullName": "eolix/photosuite",
+      "url": "https://github.com/eolix/photosuite",
+      "description": "A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility",
+      "programmingLanguage": "Rust",
+      "stars": 952,
+      "forks": 42,
+      "starsInPeriod": 606
+    },
+    {
+      "rank": 11,
+      "fullName": "FalkorDB/FalkorDB",
+      "url": "https://github.com/FalkorDB/FalkorDB",
+      "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+      "programmingLanguage": "Rust",
+      "stars": 8148,
+      "forks": 529,
+      "starsInPeriod": 1565
+    },
+    {
+      "rank": 12,
+      "fullName": "xingkongliang/skills-manager",
+      "url": "https://github.com/xingkongliang/skills-manager",
+      "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "programmingLanguage": "Rust",
+      "stars": 5780,
+      "forks": 482,
+      "starsInPeriod": 396
+    }
+  ]
 }
