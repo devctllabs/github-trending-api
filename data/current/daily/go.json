@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-07T23:04:59Z",
+  "observedAt": "2026-10-08T06:02:39Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 77482,
-      "forks": 5097,
-      "starsInPeriod": 90
+      "stars": 77498,
+      "forks": 5099,
+      "starsInPeriod": 93
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139319,
-      "forks": 21510,
-      "starsInPeriod": 33
+      "stars": 139320,
+      "forks": 21512,
+      "starsInPeriod": 35
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/gin-gonic/gin",
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "programmingLanguage": "Go",
-      "stars": 89294,
-      "forks": 8733,
-      "starsInPeriod": 12
+      "stars": 89295,
+      "forks": 8734,
+      "starsInPeriod": 9
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/Autumn-27/ARTEX",
       "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "programmingLanguage": "Go",
-      "stars": 1946,
-      "forks": 496,
-      "starsInPeriod": 244
+      "stars": 2065,
+      "forks": 535,
+      "starsInPeriod": 236
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/ys-ll/uniterm",
       "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
       "programmingLanguage": "Go",
-      "stars": 763,
-      "forks": 117,
-      "starsInPeriod": 18
+      "stars": 771,
+      "forks": 119,
+      "starsInPeriod": 20
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 29782,
+      "stars": 29789,
       "forks": 2270,
-      "starsInPeriod": 43
+      "starsInPeriod": 44
     },
     {
       "rank": 7,
@@ -75,7 +75,7 @@
       "description": "Contrib repository for the OpenTelemetry Collector",
       "programmingLanguage": "Go",
       "stars": 4980,
-      "forks": 3983,
+      "forks": 3985,
       "starsInPeriod": 5
     },
     {
@@ -84,9 +84,9 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 182494,
-      "forks": 18139,
-      "starsInPeriod": 131
+      "stars": 182525,
+      "forks": 18146,
+      "starsInPeriod": 130
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38287,
+      "stars": 38290,
       "forks": 743,
-      "starsInPeriod": 28
+      "starsInPeriod": 31
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/drakkan/sftpgo",
       "description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
       "programmingLanguage": "Go",
-      "stars": 12627,
+      "stars": 12633,
       "forks": 975,
-      "starsInPeriod": 2
+      "starsInPeriod": 4
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/spf13/cobra",
       "description": "A Commander for modern Go CLI interactions",
       "programmingLanguage": "Go",
-      "stars": 44693,
+      "stars": 44697,
       "forks": 5149,
-      "starsInPeriod": 8
+      "starsInPeriod": 7
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/getprobo/probo",
       "description": "Open source solutions for SOC2, GDPR, and ISO27001",
       "programmingLanguage": "Go",
-      "stars": 1437,
-      "forks": 228,
-      "starsInPeriod": 3
+      "stars": 1438,
+      "forks": 229,
+      "starsInPeriod": 4
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/maximhq/bifrost",
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "programmingLanguage": "Go",
-      "stars": 8613,
+      "stars": 8621,
       "forks": 1354,
-      "starsInPeriod": 24
+      "starsInPeriod": 22
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/junegunn/fzf",
       "description": "🌸 A command-line fuzzy finder",
       "programmingLanguage": "Go",
-      "stars": 83433,
-      "forks": 4648,
-      "starsInPeriod": 26
+      "stars": 83439,
+      "forks": 4649,
+      "starsInPeriod": 27
     },
     {
       "rank": 15,
@@ -156,7 +156,7 @@
       "programmingLanguage": "Go",
       "stars": 771,
       "forks": 57,
-      "starsInPeriod": null
+      "starsInPeriod": 3
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/icereed/paperless-gpt",
       "description": "Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI",
       "programmingLanguage": "Go",
-      "stars": 2742,
+      "stars": 2743,
       "forks": 216,
-      "starsInPeriod": 9
+      "starsInPeriod": 8
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/traefik/traefik",
       "description": "The Cloud Native Application Proxy",
       "programmingLanguage": "Go",
-      "stars": 65103,
+      "stars": 65105,
       "forks": 6228,
-      "starsInPeriod": 21
+      "starsInPeriod": 23
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "programmingLanguage": "Go",
-      "stars": 111386,
-      "forks": 15953,
-      "starsInPeriod": 17
+      "stars": 111393,
+      "forks": 15957,
+      "starsInPeriod": 19
     },
     {
       "rank": 19,
@@ -194,9 +194,9 @@
       "url": "https://github.com/kubernetes-sigs/agent-sandbox",
       "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
       "programmingLanguage": "Go",
-      "stars": 4180,
+      "stars": 4183,
       "forks": 549,
-      "starsInPeriod": 19
+      "starsInPeriod": 12
     },
     {
       "rank": 20,
@@ -206,7 +206,7 @@
       "programmingLanguage": "Go",
       "stars": 25615,
       "forks": 4135,
-      "starsInPeriod": 6
+      "starsInPeriod": 4
     }
   ]
 }
