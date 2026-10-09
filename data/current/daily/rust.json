@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-08T23:20:33Z",
+  "observedAt": "2026-10-09T13:15:30Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,139 +14,59 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 7777,
-      "forks": 1068,
-      "starsInPeriod": 2510
+      "stars": 9924,
+      "forks": 1480,
+      "starsInPeriod": 3723
     },
     {
       "rank": 2,
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "programmingLanguage": "Rust",
-      "stars": 9053,
-      "forks": 628,
-      "starsInPeriod": 120
-    },
-    {
-      "rank": 3,
-      "fullName": "martin-olivier/airgorah",
-      "url": "https://github.com/martin-olivier/airgorah",
-      "description": "A WiFi security auditing software",
-      "programmingLanguage": "Rust",
-      "stars": 3961,
-      "forks": 684,
-      "starsInPeriod": 93
-    },
-    {
-      "rank": 4,
       "fullName": "microsoft/mxc",
       "url": "https://github.com/microsoft/mxc",
       "description": "Policy-driven, layered isolation and containment",
       "programmingLanguage": "Rust",
-      "stars": 1770,
-      "forks": 104,
-      "starsInPeriod": 106
+      "stars": 2097,
+      "forks": 113,
+      "starsInPeriod": 135
     },
     {
-      "rank": 5,
-      "fullName": "fabio-rovai/open-ontologies",
-      "url": "https://github.com/fabio-rovai/open-ontologies",
-      "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
-      "programmingLanguage": "Rust",
-      "stars": 960,
-      "forks": 128,
-      "starsInPeriod": 58
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "fullName": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 43681,
-      "forks": 2960,
+      "stars": 43722,
+      "forks": 2961,
       "starsInPeriod": 69
     },
     {
-      "rank": 7,
-      "fullName": "HakanSeven12/OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "rank": 4,
+      "fullName": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
       "programmingLanguage": "Rust",
-      "stars": 2547,
-      "forks": 273,
-      "starsInPeriod": 35
+      "stars": 141821,
+      "forks": 9475,
+      "starsInPeriod": 640
     },
     {
-      "rank": 8,
-      "fullName": "emilk/egui",
-      "url": "https://github.com/emilk/egui",
-      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "rank": 5,
+      "fullName": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
       "programmingLanguage": "Rust",
-      "stars": 31041,
-      "forks": 2172,
-      "starsInPeriod": 68
+      "stars": 34823,
+      "forks": 1468,
+      "starsInPeriod": 47
     },
     {
-      "rank": 9,
-      "fullName": "tracel-ai/burn",
-      "url": "https://github.com/tracel-ai/burn",
-      "description": "Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "rank": 6,
+      "fullName": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
       "programmingLanguage": "Rust",
-      "stars": 16060,
-      "forks": 1080,
-      "starsInPeriod": 17
-    },
-    {
-      "rank": 10,
-      "fullName": "edwardkim/rhwp",
-      "url": "https://github.com/edwardkim/rhwp",
-      "description": "아래한글 hwp viewer and editor by rust and wasm",
-      "programmingLanguage": "Rust",
-      "stars": 3905,
-      "forks": 753,
-      "starsInPeriod": 11
-    },
-    {
-      "rank": 11,
-      "fullName": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "programmingLanguage": "Rust",
-      "stars": 23166,
-      "forks": 774,
-      "starsInPeriod": 99
-    },
-    {
-      "rank": 12,
-      "fullName": "ajeetdsouza/zoxide",
-      "url": "https://github.com/ajeetdsouza/zoxide",
-      "description": "A smarter cd command. Supports all major shells.",
-      "programmingLanguage": "Rust",
-      "stars": 39980,
-      "forks": 919,
-      "starsInPeriod": 32
-    },
-    {
-      "rank": 13,
-      "fullName": "yuxino/Mimi",
-      "url": "https://github.com/yuxino/Mimi",
-      "description": "把电脑或麦克风声音转成实时翻译字幕。Live translated subtitles from computer or microphone audio.",
-      "programmingLanguage": "Rust",
-      "stars": 628,
-      "forks": 32,
-      "starsInPeriod": 23
-    },
-    {
-      "rank": 14,
-      "fullName": "rubys/roundhouse",
-      "url": "https://github.com/rubys/roundhouse",
-      "description": "Rails as a specification; the deployment target is a build flag",
-      "programmingLanguage": "Rust",
-      "stars": 421,
-      "forks": 34,
-      "starsInPeriod": 15
+      "stars": 128363,
+      "forks": 20132,
+      "starsInPeriod": 214
     }
   ]
 }

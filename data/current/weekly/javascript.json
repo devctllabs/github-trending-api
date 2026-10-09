@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=weekly",
-  "observedAt": "2026-10-08T23:20:56Z",
+  "observedAt": "2026-10-09T13:15:54Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "programmingLanguage": "JavaScript",
-      "stars": 7976,
-      "forks": 1020,
-      "starsInPeriod": 4906
+      "stars": 8369,
+      "forks": 1052,
+      "starsInPeriod": 6086
     },
     {
       "rank": 2,
@@ -24,29 +24,29 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "JavaScript",
-      "stars": 78641,
-      "forks": 4672,
-      "starsInPeriod": 5435
+      "stars": 78863,
+      "forks": 4688,
+      "starsInPeriod": 5260
     },
     {
       "rank": 3,
-      "fullName": "androoAGI/starnet",
-      "url": "https://github.com/androoAGI/starnet",
-      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-      "programmingLanguage": "JavaScript",
-      "stars": 1248,
-      "forks": 235,
-      "starsInPeriod": 414
-    },
-    {
-      "rank": 4,
       "fullName": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 158485,
-      "forks": 8526,
-      "starsInPeriod": 8873
+      "stars": 159194,
+      "forks": 8557,
+      "starsInPeriod": 8511
+    },
+    {
+      "rank": 4,
+      "fullName": "androoAGI/starnet",
+      "url": "https://github.com/androoAGI/starnet",
+      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "programmingLanguage": "JavaScript",
+      "stars": 1271,
+      "forks": 239,
+      "starsInPeriod": 409
     },
     {
       "rank": 5,
@@ -54,119 +54,109 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 103380,
-      "forks": 10819,
-      "starsInPeriod": 2560
+      "stars": 103660,
+      "forks": 10843,
+      "starsInPeriod": 3103
     },
     {
       "rank": 6,
-      "fullName": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "programmingLanguage": "JavaScript",
-      "stars": 53758,
-      "forks": 7998,
-      "starsInPeriod": 1631
-    },
-    {
-      "rank": 7,
       "fullName": "mnfst/awesome-free-llm-apis",
       "url": "https://github.com/mnfst/awesome-free-llm-apis",
       "description": "List of Permanent Free LLM API (API Keys)",
       "programmingLanguage": "JavaScript",
-      "stars": 9496,
-      "forks": 1016,
-      "starsInPeriod": 682
+      "stars": 9585,
+      "forks": 1024,
+      "starsInPeriod": 648
     },
     {
-      "rank": 8,
-      "fullName": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "programmingLanguage": "JavaScript",
-      "stars": 93811,
-      "forks": 6369,
-      "starsInPeriod": 2080
-    },
-    {
-      "rank": 9,
-      "fullName": "tabler/tabler-icons",
-      "url": "https://github.com/tabler/tabler-icons",
-      "description": "A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
-      "programmingLanguage": "JavaScript",
-      "stars": 22100,
-      "forks": 1225,
-      "starsInPeriod": 183
-    },
-    {
-      "rank": 10,
-      "fullName": "spicetify/cli",
-      "url": "https://github.com/spicetify/cli",
-      "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
-      "programmingLanguage": "JavaScript",
-      "stars": 24865,
-      "forks": 959,
-      "starsInPeriod": 164
-    },
-    {
-      "rank": 11,
-      "fullName": "hughhowey/neo",
-      "url": "https://github.com/hughhowey/neo",
-      "description": "A novel-writing tool created by a novelist.",
-      "programmingLanguage": "JavaScript",
-      "stars": 1352,
-      "forks": 167,
-      "starsInPeriod": 222
-    },
-    {
-      "rank": 12,
-      "fullName": "byoungd/up",
-      "url": "https://github.com/byoungd/up",
-      "description": "人生进阶指南 韩先凯的人生进阶指南 终身学习指南：学习、AI 协作、创业与成长。",
-      "programmingLanguage": "JavaScript",
-      "stars": 67832,
-      "forks": 6734,
-      "starsInPeriod": 1543
-    },
-    {
-      "rank": 13,
-      "fullName": "Neet-Nestor/Telegram-Media-Downloader",
-      "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader",
-      "description": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
-      "programmingLanguage": "JavaScript",
-      "stars": 6009,
-      "forks": 592,
-      "starsInPeriod": 263
-    },
-    {
-      "rank": 14,
+      "rank": 7,
       "fullName": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
       "programmingLanguage": "JavaScript",
-      "stars": 143029,
-      "forks": 34175,
-      "starsInPeriod": 423
+      "stars": 143041,
+      "forks": 34291,
+      "starsInPeriod": 415
     },
     {
-      "rank": 15,
+      "rank": 8,
+      "fullName": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "programmingLanguage": "JavaScript",
+      "stars": 53882,
+      "forks": 8013,
+      "starsInPeriod": 1643
+    },
+    {
+      "rank": 9,
+      "fullName": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "人生进阶指南 韩先凯的人生进阶指南 英语学习指南 离谱的人生 AI时代终身学习：AI、学习、创业与成长。",
+      "programmingLanguage": "JavaScript",
+      "stars": 67994,
+      "forks": 6752,
+      "starsInPeriod": 1323
+    },
+    {
+      "rank": 10,
+      "fullName": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "programmingLanguage": "JavaScript",
+      "stars": 94012,
+      "forks": 6388,
+      "starsInPeriod": 2134
+    },
+    {
+      "rank": 11,
+      "fullName": "akiralereal/iptv",
+      "url": "https://github.com/akiralereal/iptv",
+      "description": "开箱即有 800+ 可稳定流畅播放频道的自托管 IPTV 直播源管理与分发系统，聚合了央视频、咪咕、央视、卫视、凤凰卫视、亚太、国际、地方台、体育赛事、抖音直播、B 站直播、斗鱼直播、虎牙直播等，以及自定义抓取源和订阅，并提供 EPG 节目单与聚合功能；另外还自带 GUI 可视化管理后台，支持 Docker Compose 或 Node.js 运行，适合 NAS 与家庭服务器。",
+      "programmingLanguage": "JavaScript",
+      "stars": 1170,
+      "forks": 362,
+      "starsInPeriod": 154
+    },
+    {
+      "rank": 12,
       "fullName": "withmarbleapp/os-taxonomy",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "description": null,
       "programmingLanguage": "JavaScript",
-      "stars": 4750,
-      "forks": 829,
-      "starsInPeriod": 169
+      "stars": 4765,
+      "forks": 828,
+      "starsInPeriod": 178
     },
     {
-      "rank": 16,
+      "rank": 13,
+      "fullName": "IRNova/Nova-Proxy",
+      "url": "https://github.com/IRNova/Nova-Proxy",
+      "description": "یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده از هسته‌های Amnezia، Wireguard، Sing-box، Clash/Mihomo و Xray.",
+      "programmingLanguage": "JavaScript",
+      "stars": 3343,
+      "forks": 780,
+      "starsInPeriod": 45
+    },
+    {
+      "rank": 14,
       "fullName": "kanoqwq/UFI-TOOLS",
       "url": "https://github.com/kanoqwq/UFI-TOOLS",
       "description": "A functional tools for z*e devices (F50 | U30 Air)",
       "programmingLanguage": "JavaScript",
-      "stars": 2602,
+      "stars": 2615,
       "forks": 267,
-      "starsInPeriod": 621
+      "starsInPeriod": 623
+    },
+    {
+      "rank": 15,
+      "fullName": "tabler/tabler-icons",
+      "url": "https://github.com/tabler/tabler-icons",
+      "description": "A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+      "programmingLanguage": "JavaScript",
+      "stars": 22128,
+      "forks": 1229,
+      "starsInPeriod": 252
     }
   ]
 }

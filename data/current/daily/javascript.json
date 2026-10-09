@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-10-08T23:20:53Z",
+  "observedAt": "2026-10-09T13:15:51Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 103380,
-      "forks": 10819,
-      "starsInPeriod": 873
+      "stars": 103660,
+      "forks": 10843,
+      "starsInPeriod": 751
     },
     {
       "rank": 2,
@@ -24,29 +24,29 @@
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "programmingLanguage": "JavaScript",
-      "stars": 7976,
-      "forks": 1020,
-      "starsInPeriod": 1339
+      "stars": 8369,
+      "forks": 1052,
+      "starsInPeriod": 1214
     },
     {
       "rank": 3,
-      "fullName": "anthropics/claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "fullName": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "programmingLanguage": "JavaScript",
-      "stars": 4583,
-      "forks": 325,
-      "starsInPeriod": 30
+      "stars": 29926,
+      "forks": 5499,
+      "starsInPeriod": 75
     },
     {
       "rank": 4,
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "fullName": "liyupi/ai-guide",
+      "url": "https://github.com/liyupi/ai-guide",
+      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站",
       "programmingLanguage": "JavaScript",
-      "stars": 26584,
-      "forks": 1592,
-      "starsInPeriod": 836
+      "stars": 20904,
+      "forks": 2302,
+      "starsInPeriod": 61
     },
     {
       "rank": 5,
@@ -54,89 +54,79 @@
       "url": "https://github.com/aunetx/blur-my-shell",
       "description": "Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview",
       "programmingLanguage": "JavaScript",
-      "stars": 2284,
-      "forks": 178,
+      "stars": 2288,
+      "forks": 179,
       "starsInPeriod": 22
     },
     {
       "rank": 6,
-      "fullName": "tabler/tabler-icons",
-      "url": "https://github.com/tabler/tabler-icons",
-      "description": "A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+      "fullName": "chuspeeism/dashi-taskboard",
+      "url": "https://github.com/chuspeeism/dashi-taskboard",
+      "description": "现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness",
       "programmingLanguage": "JavaScript",
-      "stars": 22100,
-      "forks": 1225,
-      "starsInPeriod": 84
+      "stars": 3312,
+      "forks": 480,
+      "starsInPeriod": 7
     },
     {
       "rank": 7,
-      "fullName": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 93811,
-      "forks": 6369,
-      "starsInPeriod": 346
+      "stars": 26796,
+      "forks": 1605,
+      "starsInPeriod": 708
     },
     {
       "rank": 8,
-      "fullName": "CodeWithHarry/Sigma-Web-Dev-Course",
-      "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
-      "description": "Source Code for Sigma Web Development Course",
-      "programmingLanguage": "JavaScript",
-      "stars": 11962,
-      "forks": 3105,
-      "starsInPeriod": 4
-    },
-    {
-      "rank": 9,
-      "fullName": "XCQ0607/lxserver",
-      "url": "https://github.com/XCQ0607/lxserver",
-      "description": "LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。",
-      "programmingLanguage": "JavaScript",
-      "stars": 929,
-      "forks": 241,
-      "starsInPeriod": 11
-    },
-    {
-      "rank": 10,
-      "fullName": "atlassian/atlassian-mcp-server",
-      "url": "https://github.com/atlassian/atlassian-mcp-server",
-      "description": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.",
-      "programmingLanguage": "JavaScript",
-      "stars": 1087,
-      "forks": 139,
-      "starsInPeriod": null
-    },
-    {
-      "rank": 11,
-      "fullName": "mailcow/mailcow-dockerized",
-      "url": "https://github.com/mailcow/mailcow-dockerized",
-      "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
-      "programmingLanguage": "JavaScript",
-      "stars": 13576,
-      "forks": 1825,
-      "starsInPeriod": 9
-    },
-    {
-      "rank": 12,
-      "fullName": "github/awesome-copilot",
-      "url": "https://github.com/github/awesome-copilot",
-      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-      "programmingLanguage": "JavaScript",
-      "stars": 39818,
-      "forks": 5083,
-      "starsInPeriod": 46
-    },
-    {
-      "rank": 13,
       "fullName": "microsoft/power-platform-skills",
       "url": "https://github.com/microsoft/power-platform-skills",
       "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
       "programmingLanguage": "JavaScript",
-      "stars": 978,
-      "forks": 198,
+      "stars": 979,
+      "forks": 200,
       "starsInPeriod": 7
+    },
+    {
+      "rank": 9,
+      "fullName": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "programmingLanguage": "JavaScript",
+      "stars": 80893,
+      "forks": 5452,
+      "starsInPeriod": 1220
+    },
+    {
+      "rank": 10,
+      "fullName": "chaolucky18/xuexitongScript",
+      "url": "https://github.com/chaolucky18/xuexitongScript",
+      "description": "学习通自动刷课脚本",
+      "programmingLanguage": "JavaScript",
+      "stars": 2750,
+      "forks": 359,
+      "starsInPeriod": 22
+    },
+    {
+      "rank": 11,
+      "fullName": "songquanpeng/one-api",
+      "url": "https://github.com/songquanpeng/one-api",
+      "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
+      "programmingLanguage": "JavaScript",
+      "stars": 37106,
+      "forks": 6874,
+      "starsInPeriod": 14
+    },
+    {
+      "rank": 12,
+      "fullName": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "programmingLanguage": "JavaScript",
+      "stars": 158903,
+      "forks": 46131,
+      "starsInPeriod": 33
     }
   ]
 }

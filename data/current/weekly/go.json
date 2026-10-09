@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-08T23:20:46Z",
+  "observedAt": "2026-10-09T13:15:44Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 77546,
-      "forks": 5102,
-      "starsInPeriod": 1320
+      "stars": 77588,
+      "forks": 5105,
+      "starsInPeriod": 1375
     },
     {
       "rank": 2,
@@ -24,19 +24,19 @@
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "programmingLanguage": "Go",
-      "stars": 5050,
-      "forks": 228,
-      "starsInPeriod": 616
+      "stars": 5066,
+      "forks": 230,
+      "starsInPeriod": 609
     },
     {
       "rank": 3,
-      "fullName": "lharries/whatsapp-mcp",
-      "url": "https://github.com/lharries/whatsapp-mcp",
-      "description": "WhatsApp MCP server",
+      "fullName": "ys-ll/uniterm",
+      "url": "https://github.com/ys-ll/uniterm",
+      "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
       "programmingLanguage": "Go",
-      "stars": 6426,
-      "forks": 1371,
-      "starsInPeriod": 88
+      "stars": 801,
+      "forks": 121,
+      "starsInPeriod": 177
     },
     {
       "rank": 4,
@@ -44,109 +44,129 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38297,
-      "forks": 746,
-      "starsInPeriod": 156
+      "stars": 38311,
+      "forks": 749,
+      "starsInPeriod": 151
     },
     {
       "rank": 5,
-      "fullName": "google/gvisor",
-      "url": "https://github.com/google/gvisor",
-      "description": "Application Kernel for Containers",
-      "programmingLanguage": "Go",
-      "stars": 19603,
-      "forks": 2032,
-      "starsInPeriod": 127
-    },
-    {
-      "rank": 6,
       "fullName": "MHSanaei/3x-ui",
       "url": "https://github.com/MHSanaei/3x-ui",
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "programmingLanguage": "Go",
-      "stars": 47660,
-      "forks": 12186,
-      "starsInPeriod": 389
+      "stars": 47694,
+      "forks": 12199,
+      "starsInPeriod": 415
     },
     {
-      "rank": 7,
-      "fullName": "Agent-Field/CodeAF",
-      "url": "https://github.com/Agent-Field/CodeAF",
-      "description": "Open-Source Software factory for Open Models",
-      "programmingLanguage": "Go",
-      "stars": 354,
-      "forks": 46,
-      "starsInPeriod": 136
-    },
-    {
-      "rank": 8,
-      "fullName": "go-gitea/gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "programmingLanguage": "Go",
-      "stars": 58371,
-      "forks": 7234,
-      "starsInPeriod": 128
-    },
-    {
-      "rank": 9,
-      "fullName": "ys-ll/uniterm",
-      "url": "https://github.com/ys-ll/uniterm",
-      "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
-      "programmingLanguage": "Go",
-      "stars": 788,
-      "forks": 120,
-      "starsInPeriod": 177
-    },
-    {
-      "rank": 10,
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "programmingLanguage": "Go",
-      "stars": 110584,
-      "forks": 6404,
-      "starsInPeriod": 2026
-    },
-    {
-      "rank": 11,
-      "fullName": "pocket-id/pocket-id",
-      "url": "https://github.com/pocket-id/pocket-id",
-      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
-      "programmingLanguage": "Go",
-      "stars": 9466,
-      "forks": 319,
-      "starsInPeriod": 132
-    },
-    {
-      "rank": 12,
-      "fullName": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "programmingLanguage": "Go",
-      "stars": 111366,
-      "forks": 15988,
-      "starsInPeriod": 138
-    },
-    {
-      "rank": 13,
+      "rank": 6,
       "fullName": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 182406,
-      "forks": 18165,
-      "starsInPeriod": 676
+      "stars": 182485,
+      "forks": 18175,
+      "starsInPeriod": 692
     },
     {
-      "rank": 14,
+      "rank": 7,
       "fullName": "oauth2-proxy/oauth2-proxy",
       "url": "https://github.com/oauth2-proxy/oauth2-proxy",
       "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
       "programmingLanguage": "Go",
-      "stars": 15065,
-      "forks": 2212,
-      "starsInPeriod": 28
+      "stars": 15092,
+      "forks": 2216,
+      "starsInPeriod": 32
+    },
+    {
+      "rank": 8,
+      "fullName": "Agent-Field/CodeAF",
+      "url": "https://github.com/Agent-Field/CodeAF",
+      "description": "Open-Source Software factory for Open Models",
+      "programmingLanguage": "Go",
+      "stars": 363,
+      "forks": 47,
+      "starsInPeriod": 131
+    },
+    {
+      "rank": 9,
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "programmingLanguage": "Go",
+      "stars": 58383,
+      "forks": 7240,
+      "starsInPeriod": 137
+    },
+    {
+      "rank": 10,
+      "fullName": "docker/docker-agent",
+      "url": "https://github.com/docker/docker-agent",
+      "description": "AI Agent Builder and Runtime by Docker Engineering",
+      "programmingLanguage": "Go",
+      "stars": 4287,
+      "forks": 499,
+      "starsInPeriod": 908
+    },
+    {
+      "rank": 11,
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 110689,
+      "forks": 6409,
+      "starsInPeriod": 2034
+    },
+    {
+      "rank": 12,
+      "fullName": "google/gvisor",
+      "url": "https://github.com/google/gvisor",
+      "description": "Application Kernel for Containers",
+      "programmingLanguage": "Go",
+      "stars": 19613,
+      "forks": 2036,
+      "starsInPeriod": 142
+    },
+    {
+      "rank": 13,
+      "fullName": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "programmingLanguage": "Go",
+      "stars": 111374,
+      "forks": 16131,
+      "starsInPeriod": 140
+    },
+    {
+      "rank": 14,
+      "fullName": "slavakurilyak/awesome-ai-agents",
+      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+      "description": "Awesome list of 300+ agentic AI resources",
+      "programmingLanguage": "Go",
+      "stars": 2412,
+      "forks": 624,
+      "starsInPeriod": 124
+    },
+    {
+      "rank": 15,
+      "fullName": "pocket-id/pocket-id",
+      "url": "https://github.com/pocket-id/pocket-id",
+      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
+      "programmingLanguage": "Go",
+      "stars": 9475,
+      "forks": 320,
+      "starsInPeriod": 132
+    },
+    {
+      "rank": 16,
+      "fullName": "lharries/whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "description": "WhatsApp MCP server",
+      "programmingLanguage": "Go",
+      "stars": 6429,
+      "forks": 1370,
+      "starsInPeriod": 73
     }
   ]
 }
