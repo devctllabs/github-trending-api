@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-09T13:15:40Z",
+  "observedAt": "2026-10-09T22:37:44Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 44855,
-      "forks": 3247,
+      "stars": 45145,
+      "forks": 3262,
       "starsInPeriod": 323
     },
     {
@@ -24,9 +24,9 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 182485,
-      "forks": 18175,
-      "starsInPeriod": 128
+      "stars": 182535,
+      "forks": 18174,
+      "starsInPeriod": 149
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/Wei-Shaw/sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "programmingLanguage": "Go",
-      "stars": 43563,
-      "forks": 9341,
+      "stars": 43573,
+      "forks": 9342,
       "starsInPeriod": 90
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "programmingLanguage": "Go",
-      "stars": 91908,
-      "forks": 10929,
+      "stars": 91917,
+      "forks": 10934,
       "starsInPeriod": 81
     },
     {
@@ -54,9 +54,9 @@
       "url": "https://github.com/hashicorp/vault",
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "programmingLanguage": "Go",
-      "stars": 36362,
+      "stars": 36368,
       "forks": 4782,
-      "starsInPeriod": 7
+      "starsInPeriod": 8
     },
     {
       "rank": 6,
@@ -64,8 +64,8 @@
       "url": "https://github.com/QuantumNous/new-api",
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "programmingLanguage": "Go",
-      "stars": 49509,
-      "forks": 11907,
+      "stars": 49531,
+      "forks": 11908,
       "starsInPeriod": 93
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 52282,
-      "forks": 6809,
+      "stars": 52307,
+      "forks": 6811,
       "starsInPeriod": 118
     },
     {
@@ -84,9 +84,9 @@
       "url": "https://github.com/docker/docker-agent",
       "description": "AI Agent Builder and Runtime by Docker Engineering",
       "programmingLanguage": "Go",
-      "stars": 4287,
+      "stars": 4312,
       "forks": 499,
-      "starsInPeriod": 766
+      "starsInPeriod": 158
     },
     {
       "rank": 9,
@@ -94,7 +94,7 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "programmingLanguage": "Go",
-      "stars": 12849,
+      "stars": 12851,
       "forks": 1180,
       "starsInPeriod": 10
     },
@@ -104,7 +104,7 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 32789,
+      "stars": 32826,
       "forks": 4363,
       "starsInPeriod": 220
     },
@@ -114,7 +114,7 @@
       "url": "https://github.com/fish2018/pansou",
       "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
       "programmingLanguage": "Go",
-      "stars": 14841,
+      "stars": 14844,
       "forks": 3602,
       "starsInPeriod": 19
     },
@@ -124,7 +124,7 @@
       "url": "https://github.com/XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "programmingLanguage": "Go",
-      "stars": 42016,
+      "stars": 42020,
       "forks": 5964,
       "starsInPeriod": 24
     },
@@ -134,8 +134,8 @@
       "url": "https://github.com/grafana/mcp-grafana",
       "description": "MCP server for Grafana",
       "programmingLanguage": "Go",
-      "stars": 3538,
-      "forks": 460,
+      "stars": 3540,
+      "forks": 461,
       "starsInPeriod": 6
     },
     {
@@ -144,8 +144,8 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 25386,
-      "forks": 3263,
+      "stars": 25399,
+      "forks": 3267,
       "starsInPeriod": 56
     },
     {
@@ -154,7 +154,7 @@
       "url": "https://github.com/Agent-Field/CodeAF",
       "description": "Open-Source Software factory for Open Models",
       "programmingLanguage": "Go",
-      "stars": 363,
+      "stars": 371,
       "forks": 47,
       "starsInPeriod": 51
     },
@@ -164,8 +164,8 @@
       "url": "https://github.com/MHSanaei/3x-ui",
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "programmingLanguage": "Go",
-      "stars": 47694,
-      "forks": 12199,
+      "stars": 47715,
+      "forks": 12217,
       "starsInPeriod": 81
     },
     {
@@ -174,8 +174,8 @@
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 28387,
-      "forks": 2624,
+      "stars": 28398,
+      "forks": 2625,
       "starsInPeriod": 40
     }
   ]
