@@ -1,142 +1,195 @@
 {
   "schemaVersion": 1,
-  "kind": "snapshot",
+  "kind": "daily-rollup",
+  "date": "2026-10-09",
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-10-09T06:07:52Z",
-  "status": "complete",
-  "issues": [],
+  "updatedAt": "2026-10-09T06:07:52Z",
+  "latestStatus": "complete",
+  "latestIssues": [],
   "items": [
     {
-      "rank": 1,
       "fullName": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
       "stars": 94329,
       "forks": 8246,
-      "starsInPeriod": 6987
+      "starsInPeriod": 6987,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     },
     {
-      "rank": 2,
       "fullName": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "programmingLanguage": "Python",
       "stars": 18540,
       "forks": 1840,
-      "starsInPeriod": 1898
+      "starsInPeriod": 1898,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     },
     {
-      "rank": 3,
       "fullName": "HunxByts/GhostTrack",
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "programmingLanguage": "Python",
       "stars": 17598,
       "forks": 2385,
-      "starsInPeriod": 1292
+      "starsInPeriod": 1292,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     },
     {
-      "rank": 4,
       "fullName": "jamwithai/production-agentic-rag-course",
       "url": "https://github.com/jamwithai/production-agentic-rag-course",
       "description": null,
       "programmingLanguage": "Python",
       "stars": 9683,
       "forks": 2103,
-      "starsInPeriod": 630
+      "starsInPeriod": 630,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     },
     {
-      "rank": 5,
       "fullName": "ifixai-ai/iFixAi",
       "url": "https://github.com/ifixai-ai/iFixAi",
       "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "programmingLanguage": "Python",
       "stars": 22764,
       "forks": 1427,
-      "starsInPeriod": 4795
+      "starsInPeriod": 4795,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     },
     {
-      "rank": 6,
       "fullName": "Tracer-Cloud/opensre",
       "url": "https://github.com/Tracer-Cloud/opensre",
       "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
       "programmingLanguage": "Python",
       "stars": 11666,
       "forks": 1707,
-      "starsInPeriod": 346
+      "starsInPeriod": 346,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     },
     {
-      "rank": 7,
       "fullName": "Anil-matcha/open-dots",
       "url": "https://github.com/Anil-matcha/open-dots",
       "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.",
       "programmingLanguage": "Python",
       "stars": 5570,
       "forks": 665,
-      "starsInPeriod": 464
+      "starsInPeriod": 464,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     },
     {
-      "rank": 8,
       "fullName": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "description": "Fully automatic censorship removal for language models",
       "programmingLanguage": "Python",
       "stars": 34136,
       "forks": 3809,
-      "starsInPeriod": 1434
+      "starsInPeriod": 1434,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     },
     {
-      "rank": 9,
       "fullName": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "programmingLanguage": "Python",
       "stars": 65590,
       "forks": 8324,
-      "starsInPeriod": 3407
+      "starsInPeriod": 3407,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     },
     {
-      "rank": 10,
       "fullName": "tile-ai/tilelang",
       "url": "https://github.com/tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "programmingLanguage": "Python",
       "stars": 8524,
       "forks": 865,
-      "starsInPeriod": 495
+      "starsInPeriod": 495,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     },
     {
-      "rank": 11,
       "fullName": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
       "stars": 65964,
       "forks": 11441,
-      "starsInPeriod": 3582
+      "starsInPeriod": 3582,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     },
     {
-      "rank": 12,
       "fullName": "dortania/OpenCore-Legacy-Patcher",
       "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
       "description": "Experience macOS just like before",
       "programmingLanguage": "Python",
       "stars": 18521,
       "forks": 2027,
-      "starsInPeriod": 156
+      "starsInPeriod": 156,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     },
     {
-      "rank": 13,
       "fullName": "sambanks/octabam",
       "url": "https://github.com/sambanks/octabam",
       "description": "A remixer for the Elektron Octatrack's OS: modules (custom DSP56300 effects, ColdFire mods, ports of community mods) composed into one firmware image built from your own 1.40C. No firmware distributed.",
       "programmingLanguage": "Python",
       "stars": 240,
       "forks": 36,
-      "starsInPeriod": 49
+      "starsInPeriod": 49,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-10-09T06:07:52Z",
+      "lastSeenAt": "2026-10-09T06:07:52Z",
+      "appearances": 1
     }
   ]
 }

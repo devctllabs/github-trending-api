@@ -6,23 +6,28 @@
     <description>GitHub Trending — monthly — rust</description>
     <lastBuildDate>Fri, 09 Oct 2026 06:08:53 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
-    <ght:kind>snapshot</ght:kind>
+    <ght:kind>daily-rollup</ght:kind>
+    <ght:date>2026-10-09</ght:date>
     <ght:period>monthly</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-10-09T06:08:53Z</ght:observedAt>
-    <ght:status>complete</ght:status>
-    <ght:issues />
+    <ght:updatedAt>2026-10-09T06:08:53Z</ght:updatedAt>
+    <ght:latestStatus>complete</ght:latestStatus>
+    <ght:latestIssues />
     <item>
       <title>NVIDIA/OpenShell</title>
       <link>https://github.com/NVIDIA/OpenShell</link>
       <description>OpenShell is the safe, private runtime for autonomous AI agents.</description>
       <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>15513</ght:stars>
       <ght:forks>1745</ght:forks>
       <ght:starsInPeriod>6997</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>trycua/cua</title>
@@ -30,11 +35,15 @@
       <description>Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.</description>
       <guid isPermaLink="true">https://github.com/trycua/cua</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>29087</ght:stars>
       <ght:forks>2055</ght:forks>
       <ght:starsInPeriod>6777</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>max-sixty/worktrunk</title>
@@ -42,11 +51,15 @@
       <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
       <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>9058</ght:stars>
       <ght:forks>327</ght:forks>
       <ght:starsInPeriod>2240</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>longbridge/gpui-kit</title>
@@ -54,11 +67,15 @@
       <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
       <guid isPermaLink="true">https://github.com/longbridge/gpui-kit</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>16619</ght:stars>
       <ght:forks>1022</ght:forks>
       <ght:starsInPeriod>2465</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>rustfs/rustfs</title>
@@ -66,11 +83,15 @@
       <description>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
       <guid isPermaLink="true">https://github.com/rustfs/rustfs</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>34601</ght:stars>
       <ght:forks>1563</ght:forks>
       <ght:starsInPeriod>3041</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>cloudflare/quiche</title>
@@ -78,11 +99,15 @@
       <description>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
       <guid isPermaLink="true">https://github.com/cloudflare/quiche</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>12757</ght:stars>
       <ght:forks>1170</ght:forks>
       <ght:starsInPeriod>975</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>akitaonrails/ai-memory</title>
@@ -90,11 +115,15 @@
       <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
       <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>9065</ght:stars>
       <ght:forks>629</ght:forks>
       <ght:starsInPeriod>3009</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>rustdesk/rustdesk</title>
@@ -102,11 +131,15 @@
       <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
       <guid isPermaLink="true">https://github.com/rustdesk/rustdesk</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>125257</ght:stars>
       <ght:forks>19542</ght:forks>
       <ght:starsInPeriod>2995</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>t8y2/dbx</title>
@@ -114,11 +147,15 @@
       <description>25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。</description>
       <guid isPermaLink="true">https://github.com/t8y2/dbx</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>25285</ght:stars>
       <ght:forks>2289</ght:forks>
       <ght:starsInPeriod>6998</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>clash-verge-rev/clash-verge-rev</title>
@@ -126,11 +163,15 @@
       <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
       <guid isPermaLink="true">https://github.com/clash-verge-rev/clash-verge-rev</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>149878</ght:stars>
       <ght:forks>10767</ght:forks>
       <ght:starsInPeriod>7342</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>rust-lang/rust</title>
@@ -138,11 +179,15 @@
       <description>Empowering everyone to build reliable and efficient software.</description>
       <guid isPermaLink="true">https://github.com/rust-lang/rust</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>119517</ght:stars>
       <ght:forks>17936</ght:forks>
       <ght:starsInPeriod>2384</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>hydra-db/hydradb</title>
@@ -150,11 +195,15 @@
       <description>HydraDB - fast graph database on object storage</description>
       <guid isPermaLink="true">https://github.com/hydra-db/hydradb</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>13026</ght:stars>
       <ght:forks>5465</ght:forks>
       <ght:starsInPeriod>10119</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>HakanSeven12/OpenCADStudio</title>
@@ -162,11 +211,15 @@
       <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
       <guid isPermaLink="true">https://github.com/HakanSeven12/OpenCADStudio</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>13</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>2562</ght:stars>
       <ght:forks>274</ght:forks>
       <ght:starsInPeriod>1374</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>ankitects/anki</title>
@@ -174,11 +227,15 @@
       <description>Anki is a smart spaced repetition flashcard program</description>
       <guid isPermaLink="true">https://github.com/ankitects/anki</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>14</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>31859</ght:stars>
       <ght:forks>3314</ght:forks>
       <ght:starsInPeriod>1680</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>deeplethe/utopia</title>
@@ -186,11 +243,15 @@
       <description>World's first open-source enterprise world model.</description>
       <guid isPermaLink="true">https://github.com/deeplethe/utopia</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>15</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>8181</ght:stars>
       <ght:forks>1136</ght:forks>
       <ght:starsInPeriod>7158</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>pacifio/atlas</title>
@@ -198,11 +259,15 @@
       <description>Source control for agents. Use multiple coding agents, track their changes and query them in one place</description>
       <guid isPermaLink="true">https://github.com/pacifio/atlas</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>16</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>9510</ght:stars>
       <ght:forks>368</ght:forks>
       <ght:starsInPeriod>6436</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>lbjlaq/Antigravity-Manager</title>
@@ -210,11 +275,15 @@
       <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
       <guid isPermaLink="true">https://github.com/lbjlaq/Antigravity-Manager</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>17</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>32017</ght:stars>
       <ght:forks>3455</ght:forks>
       <ght:starsInPeriod>1126</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>bevyengine/bevy</title>
@@ -222,11 +291,15 @@
       <description>A refreshingly simple data-driven game engine built in Rust</description>
       <guid isPermaLink="true">https://github.com/bevyengine/bevy</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>18</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>48741</ght:stars>
       <ght:forks>4897</ght:forks>
       <ght:starsInPeriod>750</ght:starsInPeriod>
+      <ght:bestRank>18</ght:bestRank>
+      <ght:latestRank>18</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>tauri-apps/tauri</title>
@@ -234,11 +307,15 @@
       <description>Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</description>
       <guid isPermaLink="true">https://github.com/tauri-apps/tauri</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>19</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>111675</ght:stars>
       <ght:forks>4047</ght:forks>
       <ght:starsInPeriod>983</ght:starsInPeriod>
+      <ght:bestRank>19</ght:bestRank>
+      <ght:latestRank>19</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
     <item>
       <title>microsoft/mxc</title>
@@ -246,11 +323,15 @@
       <description>Policy-driven, layered isolation and containment</description>
       <guid isPermaLink="true">https://github.com/microsoft/mxc</guid>
       <pubDate>Fri, 09 Oct 2026 06:08:53 GMT</pubDate>
-      <ght:rank>20</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
       <ght:stars>1860</ght:stars>
       <ght:forks>109</ght:forks>
       <ght:starsInPeriod>237</ght:starsInPeriod>
+      <ght:bestRank>20</ght:bestRank>
+      <ght:latestRank>20</ght:latestRank>
+      <ght:firstSeenAt>2026-10-09T06:08:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-09T06:08:53Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
     </item>
   </channel>
 </rss>
