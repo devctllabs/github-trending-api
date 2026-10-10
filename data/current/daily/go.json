@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-10T05:51:19Z",
+  "observedAt": "2026-10-10T12:30:29Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,169 +14,179 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 45452,
-      "forks": 3281,
-      "starsInPeriod": 326
+      "stars": 45739,
+      "forks": 3301,
+      "starsInPeriod": 970
     },
     {
       "rank": 2,
-      "fullName": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "fullName": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 182568,
-      "forks": 18179,
-      "starsInPeriod": 151
+      "stars": 128242,
+      "forks": 46535,
+      "starsInPeriod": 45
     },
     {
       "rank": 3,
-      "fullName": "Wei-Shaw/sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "programmingLanguage": "Go",
-      "stars": 43597,
-      "forks": 9350,
-      "starsInPeriod": 89
-    },
-    {
-      "rank": 4,
-      "fullName": "infiniflow/ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "programmingLanguage": "Go",
-      "stars": 91938,
-      "forks": 10939,
-      "starsInPeriod": 81
-    },
-    {
-      "rank": 5,
-      "fullName": "hashicorp/vault",
-      "url": "https://github.com/hashicorp/vault",
-      "description": "A tool for secrets management, encryption as a service, and privileged access management",
-      "programmingLanguage": "Go",
-      "stars": 36373,
-      "forks": 4782,
-      "starsInPeriod": 8
-    },
-    {
-      "rank": 6,
       "fullName": "QuantumNous/new-api",
       "url": "https://github.com/QuantumNous/new-api",
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "programmingLanguage": "Go",
-      "stars": 49574,
-      "forks": 11915,
+      "stars": 49623,
+      "forks": 11924,
       "starsInPeriod": 102
     },
     {
+      "rank": 4,
+      "fullName": "Autumn-27/ScopeSentry",
+      "url": "https://github.com/Autumn-27/ScopeSentry",
+      "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
+      "programmingLanguage": "Go",
+      "stars": 1753,
+      "forks": 328,
+      "starsInPeriod": 28
+    },
+    {
+      "rank": 5,
+      "fullName": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "programmingLanguage": "Go",
+      "stars": 38344,
+      "forks": 5868,
+      "starsInPeriod": 14
+    },
+    {
+      "rank": 6,
+      "fullName": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "programmingLanguage": "Go",
+      "stars": 45412,
+      "forks": 3579,
+      "starsInPeriod": 61
+    },
+    {
       "rank": 7,
-      "fullName": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-      "programmingLanguage": "Go",
-      "stars": 52345,
-      "forks": 6815,
-      "starsInPeriod": 100
-    },
-    {
-      "rank": 8,
-      "fullName": "docker/docker-agent",
-      "url": "https://github.com/docker/docker-agent",
-      "description": "AI Agent Builder and Runtime by Docker Engineering",
-      "programmingLanguage": "Go",
-      "stars": 4327,
-      "forks": 503,
-      "starsInPeriod": 144
-    },
-    {
-      "rank": 9,
-      "fullName": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "programmingLanguage": "Go",
-      "stars": 12859,
-      "forks": 1182,
-      "starsInPeriod": 13
-    },
-    {
-      "rank": 10,
-      "fullName": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "programmingLanguage": "Go",
-      "stars": 32901,
-      "forks": 4373,
-      "starsInPeriod": 217
-    },
-    {
-      "rank": 11,
-      "fullName": "fish2018/pansou",
-      "url": "https://github.com/fish2018/pansou",
-      "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
-      "programmingLanguage": "Go",
-      "stars": 14855,
-      "forks": 3605,
-      "starsInPeriod": 17
-    },
-    {
-      "rank": 12,
-      "fullName": "XTLS/Xray-core",
-      "url": "https://github.com/XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-      "programmingLanguage": "Go",
-      "stars": 42026,
-      "forks": 5962,
-      "starsInPeriod": 24
-    },
-    {
-      "rank": 13,
-      "fullName": "grafana/mcp-grafana",
-      "url": "https://github.com/grafana/mcp-grafana",
-      "description": "MCP server for Grafana",
-      "programmingLanguage": "Go",
-      "stars": 3545,
-      "forks": 461,
-      "starsInPeriod": 6
-    },
-    {
-      "rank": 14,
       "fullName": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 25417,
-      "forks": 3272,
+      "stars": 25429,
+      "forks": 3276,
       "starsInPeriod": 55
     },
     {
-      "rank": 15,
-      "fullName": "Agent-Field/CodeAF",
-      "url": "https://github.com/Agent-Field/CodeAF",
-      "description": "Open-Source Software factory for Open Models",
+      "rank": 8,
+      "fullName": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "programmingLanguage": "Go",
-      "stars": 376,
-      "forks": 48,
-      "starsInPeriod": 29
+      "stars": 91949,
+      "forks": 10945,
+      "starsInPeriod": 81
+    },
+    {
+      "rank": 9,
+      "fullName": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "programmingLanguage": "Go",
+      "stars": 89307,
+      "forks": 8736,
+      "starsInPeriod": 24
+    },
+    {
+      "rank": 10,
+      "fullName": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "programmingLanguage": "Go",
+      "stars": 83519,
+      "forks": 4933,
+      "starsInPeriod": 27
+    },
+    {
+      "rank": 11,
+      "fullName": "larksuite/cli",
+      "url": "https://github.com/larksuite/cli",
+      "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
+      "programmingLanguage": "Go",
+      "stars": 17607,
+      "forks": 1390,
+      "starsInPeriod": 28
+    },
+    {
+      "rank": 12,
+      "fullName": "higress-group/higress",
+      "url": "https://github.com/higress-group/higress",
+      "description": "🤖 AI Gateway | AI Native API Gateway",
+      "programmingLanguage": "Go",
+      "stars": 9522,
+      "forks": 1337,
+      "starsInPeriod": 11
+    },
+    {
+      "rank": 13,
+      "fullName": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "programmingLanguage": "Go",
+      "stars": 32989,
+      "forks": 4388,
+      "starsInPeriod": 217
+    },
+    {
+      "rank": 14,
+      "fullName": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "programmingLanguage": "Go",
+      "stars": 43633,
+      "forks": 9366,
+      "starsInPeriod": 89
+    },
+    {
+      "rank": 15,
+      "fullName": "casdoor/casdoor",
+      "url": "https://github.com/casdoor/casdoor",
+      "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+      "programmingLanguage": "Go",
+      "stars": 14541,
+      "forks": 1839,
+      "starsInPeriod": 10
     },
     {
       "rank": 16,
-      "fullName": "MHSanaei/3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "fullName": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 47724,
-      "forks": 12226,
-      "starsInPeriod": 73
+      "stars": 139171,
+      "forks": 21809,
+      "starsInPeriod": 30
     },
     {
       "rank": 17,
-      "fullName": "trufflesecurity/trufflehog",
-      "url": "https://github.com/trufflesecurity/trufflehog",
-      "description": "Find, verify, and analyze leaked credentials",
+      "fullName": "llm-d/llm-d-router",
+      "url": "https://github.com/llm-d/llm-d-router",
+      "description": "llm-d Router: The intelligent entry point for inference requests",
       "programmingLanguage": "Go",
-      "stars": 28406,
-      "forks": 2625,
-      "starsInPeriod": 41
+      "stars": 388,
+      "forks": 434,
+      "starsInPeriod": 2
+    },
+    {
+      "rank": 18,
+      "fullName": "dexidp/dex",
+      "url": "https://github.com/dexidp/dex",
+      "description": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+      "programmingLanguage": "Go",
+      "stars": 11179,
+      "forks": 1997,
+      "starsInPeriod": 5
     }
   ]
 }

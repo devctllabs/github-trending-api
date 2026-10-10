@@ -4,129 +4,119 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-10-10T05:51:29Z",
+  "observedAt": "2026-10-10T12:30:39Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
+      "fullName": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "programmingLanguage": "JavaScript",
+      "stars": 81509,
+      "forks": 5504,
+      "starsInPeriod": 1358
+    },
+    {
+      "rank": 2,
+      "fullName": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "programmingLanguage": "JavaScript",
+      "stars": 143099,
+      "forks": 34440,
+      "starsInPeriod": 79
+    },
+    {
+      "rank": 3,
       "fullName": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 104148,
-      "forks": 10872,
-      "starsInPeriod": 436
-    },
-    {
-      "rank": 2,
-      "fullName": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "programmingLanguage": "JavaScript",
-      "stars": 8788,
-      "forks": 1091,
-      "starsInPeriod": 677
-    },
-    {
-      "rank": 3,
-      "fullName": "Anil-matcha/Open-Generative-AI",
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "programmingLanguage": "JavaScript",
-      "stars": 29966,
-      "forks": 5506,
-      "starsInPeriod": 59
+      "stars": 104320,
+      "forks": 10889,
+      "starsInPeriod": 750
     },
     {
       "rank": 4,
-      "fullName": "liyupi/ai-guide",
-      "url": "https://github.com/liyupi/ai-guide",
-      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站",
+      "fullName": "greensock/GSAP",
+      "url": "https://github.com/greensock/GSAP",
+      "description": "GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web",
       "programmingLanguage": "JavaScript",
-      "stars": 20923,
-      "forks": 2304,
-      "starsInPeriod": 48
+      "stars": 29001,
+      "forks": 2241,
+      "starsInPeriod": 57
     },
     {
       "rank": 5,
-      "fullName": "aunetx/blur-my-shell",
-      "url": "https://github.com/aunetx/blur-my-shell",
-      "description": "Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview",
-      "programmingLanguage": "JavaScript",
-      "stars": 2294,
-      "forks": 177,
-      "starsInPeriod": 12
-    },
-    {
-      "rank": 6,
-      "fullName": "chuspeeism/dashi-taskboard",
-      "url": "https://github.com/chuspeeism/dashi-taskboard",
-      "description": "现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness",
-      "programmingLanguage": "JavaScript",
-      "stars": 3318,
-      "forks": 479,
-      "starsInPeriod": 8
-    },
-    {
-      "rank": 7,
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "programmingLanguage": "JavaScript",
-      "stars": 27033,
-      "forks": 1620,
-      "starsInPeriod": 371
-    },
-    {
-      "rank": 8,
       "fullName": "microsoft/power-platform-skills",
       "url": "https://github.com/microsoft/power-platform-skills",
       "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
       "programmingLanguage": "JavaScript",
       "stars": 984,
-      "forks": 203,
+      "forks": 204,
       "starsInPeriod": 4
     },
     {
-      "rank": 9,
-      "fullName": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "rank": 6,
+      "fullName": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "programmingLanguage": "JavaScript",
-      "stars": 81333,
-      "forks": 5489,
-      "starsInPeriod": 1358
+      "stars": 34250,
+      "forks": 3264,
+      "starsInPeriod": 87
+    },
+    {
+      "rank": 7,
+      "fullName": "poteto/hiring-without-whiteboards",
+      "url": "https://github.com/poteto/hiring-without-whiteboards",
+      "description": "⭐️ Companies that don't have a broken hiring process",
+      "programmingLanguage": "JavaScript",
+      "stars": 52543,
+      "forks": 3958,
+      "starsInPeriod": 42
+    },
+    {
+      "rank": 8,
+      "fullName": "chinese-poetry/chinese-poetry",
+      "url": "https://github.com/chinese-poetry/chinese-poetry",
+      "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+      "programmingLanguage": "JavaScript",
+      "stars": 53637,
+      "forks": 10782,
+      "starsInPeriod": 29
+    },
+    {
+      "rank": 9,
+      "fullName": "mui/material-ui",
+      "url": "https://github.com/mui/material-ui",
+      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+      "programmingLanguage": "JavaScript",
+      "stars": 99157,
+      "forks": 32506,
+      "starsInPeriod": 19
     },
     {
       "rank": 10,
+      "fullName": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "programmingLanguage": "JavaScript",
+      "stars": 94281,
+      "forks": 6416,
+      "starsInPeriod": 320
+    },
+    {
+      "rank": 11,
       "fullName": "chaolucky18/xuexitongScript",
       "url": "https://github.com/chaolucky18/xuexitongScript",
       "description": "学习通自动刷课脚本",
       "programmingLanguage": "JavaScript",
-      "stars": 2766,
-      "forks": 360,
+      "stars": 2775,
+      "forks": 361,
       "starsInPeriod": 21
-    },
-    {
-      "rank": 11,
-      "fullName": "songquanpeng/one-api",
-      "url": "https://github.com/songquanpeng/one-api",
-      "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
-      "programmingLanguage": "JavaScript",
-      "stars": 37108,
-      "forks": 6874,
-      "starsInPeriod": 16
-    },
-    {
-      "rank": 12,
-      "fullName": "Snailclimb/JavaGuide",
-      "url": "https://github.com/Snailclimb/JavaGuide",
-      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "programmingLanguage": "JavaScript",
-      "stars": 158915,
-      "forks": 46128,
-      "starsInPeriod": 33
     }
   ]
 }

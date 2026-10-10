@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "updatedAt": "2026-10-10T05:51:38Z",
+  "updatedAt": "2026-10-10T12:30:50Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,27 +14,41 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 52641,
-      "forks": 9759,
-      "starsInPeriod": 14927,
+      "stars": 61089,
+      "forks": 12229,
+      "starsInPeriod": 25784,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-10T05:51:38Z",
-      "lastSeenAt": "2026-10-10T05:51:38Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-10T12:30:50Z",
+      "appearances": 2
     },
     {
       "fullName": "Vincentwei1021/video-shotcraft",
       "url": "https://github.com/Vincentwei1021/video-shotcraft",
       "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
       "programmingLanguage": "TypeScript",
-      "stars": 11070,
-      "forks": 989,
+      "stars": 11116,
+      "forks": 994,
       "starsInPeriod": 161,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 7,
       "firstSeenAt": "2026-10-10T05:51:38Z",
-      "lastSeenAt": "2026-10-10T05:51:38Z",
+      "lastSeenAt": "2026-10-10T12:30:50Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "programmingLanguage": "TypeScript",
+      "stars": 26057,
+      "forks": 1879,
+      "starsInPeriod": 178,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-10T12:30:50Z",
+      "lastSeenAt": "2026-10-10T12:30:50Z",
       "appearances": 1
     },
     {
@@ -52,6 +66,20 @@
       "appearances": 1
     },
     {
+      "fullName": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "programmingLanguage": "TypeScript",
+      "stars": 101024,
+      "forks": 29891,
+      "starsInPeriod": 9,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-10T12:30:50Z",
+      "lastSeenAt": "2026-10-10T12:30:50Z",
+      "appearances": 1
+    },
+    {
       "fullName": "PurpleDoubleD/locally-uncensored",
       "url": "https://github.com/PurpleDoubleD/locally-uncensored",
       "description": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.",
@@ -63,6 +91,20 @@
       "latestRank": 4,
       "firstSeenAt": "2026-10-10T05:51:38Z",
       "lastSeenAt": "2026-10-10T05:51:38Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "remotion-dev/remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "programmingLanguage": "TypeScript",
+      "stars": 62969,
+      "forks": 4936,
+      "starsInPeriod": 288,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-10T12:30:50Z",
+      "lastSeenAt": "2026-10-10T12:30:50Z",
       "appearances": 1
     },
     {
@@ -80,6 +122,20 @@
       "appearances": 1
     },
     {
+      "fullName": "zenbu-labs/terminal-browser",
+      "url": "https://github.com/zenbu-labs/terminal-browser",
+      "description": "A browser inside your terminal",
+      "programmingLanguage": "TypeScript",
+      "stars": 3766,
+      "forks": 179,
+      "starsInPeriod": 26,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-10T12:30:50Z",
+      "lastSeenAt": "2026-10-10T12:30:50Z",
+      "appearances": 1
+    },
+    {
       "fullName": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
@@ -91,6 +147,20 @@
       "latestRank": 6,
       "firstSeenAt": "2026-10-10T05:51:38Z",
       "lastSeenAt": "2026-10-10T05:51:38Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "programmingLanguage": "TypeScript",
+      "stars": 193515,
+      "forks": 44935,
+      "starsInPeriod": 43,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-10T12:30:50Z",
+      "lastSeenAt": "2026-10-10T12:30:50Z",
       "appearances": 1
     },
     {
@@ -122,6 +192,20 @@
       "appearances": 1
     },
     {
+      "fullName": "appwrite/appwrite",
+      "url": "https://github.com/appwrite/appwrite",
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "programmingLanguage": "TypeScript",
+      "stars": 57621,
+      "forks": 5776,
+      "starsInPeriod": 11,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-10T12:30:50Z",
+      "lastSeenAt": "2026-10-10T12:30:50Z",
+      "appearances": 1
+    },
+    {
       "fullName": "cartesiancs/map3d",
       "url": "https://github.com/cartesiancs/map3d",
       "description": "🗺️ Generate City 3D map with R3F. Include building and road information.",
@@ -133,6 +217,20 @@
       "latestRank": 9,
       "firstSeenAt": "2026-10-10T05:51:38Z",
       "lastSeenAt": "2026-10-10T05:51:38Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "programmingLanguage": "TypeScript",
+      "stars": 149982,
+      "forks": 26036,
+      "starsInPeriod": 195,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-10T12:30:50Z",
+      "lastSeenAt": "2026-10-10T12:30:50Z",
       "appearances": 1
     },
     {
@@ -150,6 +248,20 @@
       "appearances": 1
     },
     {
+      "fullName": "Yeachan-Heo/oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "programmingLanguage": "TypeScript",
+      "stars": 39757,
+      "forks": 3560,
+      "starsInPeriod": 44,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-10T12:30:50Z",
+      "lastSeenAt": "2026-10-10T12:30:50Z",
+      "appearances": 1
+    },
+    {
       "fullName": "alsk1992/CloddsBot",
       "url": "https://github.com/alsk1992/CloddsBot",
       "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
@@ -161,6 +273,20 @@
       "latestRank": 11,
       "firstSeenAt": "2026-10-10T05:51:38Z",
       "lastSeenAt": "2026-10-10T05:51:38Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "programmingLanguage": "TypeScript",
+      "stars": 115915,
+      "forks": 7169,
+      "starsInPeriod": 94,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-10T12:30:50Z",
+      "lastSeenAt": "2026-10-10T12:30:50Z",
       "appearances": 1
     }
   ]

@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "updatedAt": "2026-10-10T05:51:01Z",
+  "updatedAt": "2026-10-10T12:30:08Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,14 +14,28 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 28393,
-      "forks": 3255,
-      "starsInPeriod": 709,
+      "stars": 28584,
+      "forks": 3267,
+      "starsInPeriod": 626,
+      "bestRank": 1,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-10T05:51:01Z",
+      "lastSeenAt": "2026-10-10T12:30:08Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "programmingLanguage": "Python",
+      "stars": 59002,
+      "forks": 4659,
+      "starsInPeriod": 372,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-10T05:51:01Z",
-      "lastSeenAt": "2026-10-10T05:51:01Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-10T12:30:08Z",
+      "appearances": 2
     },
     {
       "fullName": "BerriAI/litellm",
@@ -38,17 +52,45 @@
       "appearances": 1
     },
     {
+      "fullName": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "programmingLanguage": "Python",
+      "stars": 104034,
+      "forks": 31892,
+      "starsInPeriod": 81,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-10T12:30:08Z",
+      "lastSeenAt": "2026-10-10T12:30:08Z",
+      "appearances": 1
+    },
+    {
       "fullName": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
       "programmingLanguage": "Python",
-      "stars": 17797,
-      "forks": 1957,
-      "starsInPeriod": 110,
+      "stars": 17901,
+      "forks": 1965,
+      "starsInPeriod": 392,
+      "bestRank": 3,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-10T05:51:01Z",
+      "lastSeenAt": "2026-10-10T12:30:08Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "programmingLanguage": "Python",
+      "stars": 167003,
+      "forks": 34784,
+      "starsInPeriod": 94,
       "bestRank": 3,
       "latestRank": 3,
-      "firstSeenAt": "2026-10-10T05:51:01Z",
-      "lastSeenAt": "2026-10-10T05:51:01Z",
+      "firstSeenAt": "2026-10-10T12:30:08Z",
+      "lastSeenAt": "2026-10-10T12:30:08Z",
       "appearances": 1
     },
     {
@@ -80,6 +122,20 @@
       "appearances": 1
     },
     {
+      "fullName": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "programmingLanguage": "Python",
+      "stars": 102963,
+      "forks": 10017,
+      "starsInPeriod": 56,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-10T12:30:08Z",
+      "lastSeenAt": "2026-10-10T12:30:08Z",
+      "appearances": 1
+    },
+    {
       "fullName": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
@@ -91,6 +147,20 @@
       "latestRank": 6,
       "firstSeenAt": "2026-10-10T05:51:01Z",
       "lastSeenAt": "2026-10-10T05:51:01Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "programmingLanguage": "Python",
+      "stars": 91350,
+      "forks": 38854,
+      "starsInPeriod": 18,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-10T12:30:08Z",
+      "lastSeenAt": "2026-10-10T12:30:08Z",
       "appearances": 1
     },
     {
@@ -108,17 +178,31 @@
       "appearances": 1
     },
     {
-      "fullName": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 58835,
-      "forks": 4643,
-      "starsInPeriod": 372,
+      "stars": 56826,
+      "forks": 6376,
+      "starsInPeriod": 1066,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-10T12:30:08Z",
+      "lastSeenAt": "2026-10-10T12:30:08Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "derv82/wifit3",
+      "url": "https://github.com/derv82/wifit3",
+      "description": "Wifite but USB-only & cross-platform.",
+      "programmingLanguage": "Python",
+      "stars": 2153,
+      "forks": 199,
+      "starsInPeriod": 73,
       "bestRank": 8,
       "latestRank": 8,
-      "firstSeenAt": "2026-10-10T05:51:01Z",
-      "lastSeenAt": "2026-10-10T05:51:01Z",
+      "firstSeenAt": "2026-10-10T12:30:08Z",
+      "lastSeenAt": "2026-10-10T12:30:08Z",
       "appearances": 1
     },
     {
@@ -126,14 +210,14 @@
       "url": "https://github.com/datawhalechina/hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "programmingLanguage": "Python",
-      "stars": 82300,
-      "forks": 10211,
+      "stars": 82404,
+      "forks": 10224,
       "starsInPeriod": 205,
       "bestRank": 9,
-      "latestRank": 9,
+      "latestRank": 10,
       "firstSeenAt": "2026-10-10T05:51:01Z",
-      "lastSeenAt": "2026-10-10T05:51:01Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-10T12:30:08Z",
+      "appearances": 2
     },
     {
       "fullName": "tirth8205/code-review-graph",
@@ -164,6 +248,20 @@
       "appearances": 1
     },
     {
+      "fullName": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "programmingLanguage": "Python",
+      "stars": 36959,
+      "forks": 9431,
+      "starsInPeriod": 47,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-10T12:30:08Z",
+      "lastSeenAt": "2026-10-10T12:30:08Z",
+      "appearances": 1
+    },
+    {
       "fullName": "bojieli/ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
@@ -178,6 +276,20 @@
       "appearances": 1
     },
     {
+      "fullName": "microsoft/TRELLIS.2",
+      "url": "https://github.com/microsoft/TRELLIS.2",
+      "description": "Native and Compact Structured Latents for 3D Generation",
+      "programmingLanguage": "Python",
+      "stars": 11728,
+      "forks": 1422,
+      "starsInPeriod": 207,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-10-10T12:30:08Z",
+      "lastSeenAt": "2026-10-10T12:30:08Z",
+      "appearances": 1
+    },
+    {
       "fullName": "hiroi-sora/Umi-OCR",
       "url": "https://github.com/hiroi-sora/Umi-OCR",
       "description": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
@@ -189,6 +301,20 @@
       "latestRank": 13,
       "firstSeenAt": "2026-10-10T05:51:01Z",
       "lastSeenAt": "2026-10-10T05:51:01Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "BitterSecurity/Decepticon",
+      "url": "https://github.com/BitterSecurity/Decepticon",
+      "description": "Autonomous Hacking Agent for Red Team",
+      "programmingLanguage": "Python",
+      "stars": 5788,
+      "forks": 1095,
+      "starsInPeriod": 80,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-10-10T12:30:08Z",
+      "lastSeenAt": "2026-10-10T12:30:08Z",
       "appearances": 1
     }
   ]
