@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=monthly",
-  "observedAt": "2026-10-10T12:30:25Z",
+  "observedAt": "2026-10-10T21:43:28Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 15669,
-      "forks": 1753,
+      "stars": 15717,
+      "forks": 1755,
       "starsInPeriod": 7118
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "programmingLanguage": "Rust",
-      "stars": 29246,
-      "forks": 2066,
+      "stars": 29291,
+      "forks": 2073,
       "starsInPeriod": 6877
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 16725,
-      "forks": 1029,
+      "stars": 16795,
+      "forks": 1033,
       "starsInPeriod": 2526
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/rustfs/rustfs",
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "programmingLanguage": "Rust",
-      "stars": 34665,
-      "forks": 1569,
+      "stars": 34690,
+      "forks": 1573,
       "starsInPeriod": 3057
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 9168,
+      "stars": 9173,
       "forks": 328,
       "starsInPeriod": 2301
     },
@@ -64,8 +64,8 @@
       "url": "https://github.com/cloudflare/quiche",
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "programmingLanguage": "Rust",
-      "stars": 12761,
-      "forks": 1171,
+      "stars": 12762,
+      "forks": 1172,
       "starsInPeriod": 975
     },
     {
@@ -74,39 +74,39 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 125378,
-      "forks": 19572,
+      "stars": 125422,
+      "forks": 19590,
       "starsInPeriod": 3022
     },
     {
       "rank": 8,
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "programmingLanguage": "Rust",
-      "stars": 9100,
-      "forks": 634,
-      "starsInPeriod": 2958
-    },
-    {
-      "rank": 9,
       "fullName": "clash-verge-rev/clash-verge-rev",
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "programmingLanguage": "Rust",
-      "stars": 150303,
-      "forks": 10802,
+      "stars": 150396,
+      "forks": 10801,
       "starsInPeriod": 7407
     },
     {
-      "rank": 10,
+      "rank": 9,
       "fullName": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "description": "Turn your coding agents into research agents",
       "programmingLanguage": "Rust",
-      "stars": 6831,
+      "stars": 6848,
       "forks": 442,
       "starsInPeriod": 6349
+    },
+    {
+      "rank": 10,
+      "fullName": "lexmount/moli",
+      "url": "https://github.com/lexmount/moli",
+      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+      "programmingLanguage": "Rust",
+      "stars": 15585,
+      "forks": 377,
+      "starsInPeriod": 13735
     },
     {
       "rank": 11,
@@ -114,8 +114,8 @@
       "url": "https://github.com/bevyengine/bevy",
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 48824,
-      "forks": 4904,
+      "stars": 48848,
+      "forks": 4908,
       "starsInPeriod": 792
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://github.com/hydra-db/hydradb",
       "description": "HydraDB - fast graph database on object storage",
       "programmingLanguage": "Rust",
-      "stars": 13020,
-      "forks": 5452,
+      "stars": 13015,
+      "forks": 5449,
       "starsInPeriod": 10063
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/microsoft/mxc",
       "description": "Policy-driven, layered isolation and containment",
       "programmingLanguage": "Rust",
-      "stars": 2513,
-      "forks": 126,
+      "stars": 2565,
+      "forks": 129,
       "starsInPeriod": 894
     },
     {
@@ -144,7 +144,7 @@
       "url": "https://github.com/yyjeqhc/webcodex",
       "description": "Give cloud AI agents a real development environment on your own machines.",
       "programmingLanguage": "Rust",
-      "stars": 2228,
+      "stars": 2232,
       "forks": 294,
       "starsInPeriod": 1649
     },
@@ -154,7 +154,7 @@
       "url": "https://github.com/ankitects/anki",
       "description": "Anki is a smart spaced repetition flashcard program",
       "programmingLanguage": "Rust",
-      "stars": 31890,
+      "stars": 31900,
       "forks": 3316,
       "starsInPeriod": 1684
     },
@@ -164,7 +164,7 @@
       "url": "https://github.com/pacifio/atlas",
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "programmingLanguage": "Rust",
-      "stars": 9585,
+      "stars": 9584,
       "forks": 370,
       "starsInPeriod": 6560
     },
@@ -174,8 +174,8 @@
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 2679,
-      "forks": 291,
+      "stars": 2712,
+      "forks": 298,
       "starsInPeriod": 1343
     },
     {
@@ -184,8 +184,8 @@
       "url": "https://github.com/zeronsh/zeron",
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "programmingLanguage": "Rust",
-      "stars": 3145,
-      "forks": 307,
+      "stars": 3149,
+      "forks": 308,
       "starsInPeriod": 2003
     },
     {
@@ -194,8 +194,8 @@
       "url": "https://github.com/lbjlaq/Antigravity-Manager",
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "programmingLanguage": "Rust",
-      "stars": 32050,
-      "forks": 3462,
+      "stars": 32057,
+      "forks": 3463,
       "starsInPeriod": 1114
     },
     {
@@ -204,8 +204,8 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 25543,
-      "forks": 2315,
+      "stars": 25627,
+      "forks": 2323,
       "starsInPeriod": 6879
     },
     {
@@ -214,8 +214,8 @@
       "url": "https://github.com/deeplethe/utopia",
       "description": "World's first open-source enterprise world model.",
       "programmingLanguage": "Rust",
-      "stars": 8222,
-      "forks": 1144,
+      "stars": 8231,
+      "forks": 1146,
       "starsInPeriod": 6572
     }
   ]

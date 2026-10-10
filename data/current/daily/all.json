@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-10-10T12:29:57Z",
+  "observedAt": "2026-10-10T21:42:56Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 61073,
-      "forks": 12226,
+      "stars": 70007,
+      "forks": 14705,
       "starsInPeriod": 25784
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "programmingLanguage": "C++",
-      "stars": 24571,
-      "forks": 2027,
+      "stars": 26403,
+      "forks": 2210,
       "starsInPeriod": 5831
     },
     {
@@ -34,18 +34,18 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 12963,
-      "forks": 1994,
+      "stars": 14164,
+      "forks": 2223,
       "starsInPeriod": 3217
     },
     {
       "rank": 4,
       "fullName": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "programmingLanguage": "HTML",
-      "stars": 48477,
-      "forks": 3062,
+      "stars": 48826,
+      "forks": 3087,
       "starsInPeriod": 1189
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "programmingLanguage": "TypeScript",
-      "stars": 26057,
-      "forks": 1879,
+      "stars": 26265,
+      "forks": 1890,
       "starsInPeriod": 178
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "programmingLanguage": "Shell",
-      "stars": 283647,
-      "forks": 23760,
+      "stars": 284320,
+      "forks": 23800,
       "starsInPeriod": 1737
     },
     {
@@ -74,9 +74,9 @@
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "programmingLanguage": "Dart",
-      "stars": 179289,
-      "forks": 33534,
-      "starsInPeriod": 39
+      "stars": 179465,
+      "forks": 33581,
+      "starsInPeriod": 164
     },
     {
       "rank": 8,
@@ -84,8 +84,8 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "programmingLanguage": "C++",
-      "stars": 200598,
-      "forks": 78884,
+      "stars": 200702,
+      "forks": 78951,
       "starsInPeriod": 24
     },
     {
@@ -94,9 +94,9 @@
       "url": "https://github.com/hugohe3/ppt-master",
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "programmingLanguage": "Python",
-      "stars": 59002,
-      "forks": 4659,
-      "starsInPeriod": 372
+      "stars": 59350,
+      "forks": 4675,
+      "starsInPeriod": 515
     },
     {
       "rank": 10,
@@ -104,8 +104,8 @@
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "programmingLanguage": "Python",
-      "stars": 104034,
-      "forks": 31892,
+      "stars": 104120,
+      "forks": 31943,
       "starsInPeriod": 81
     },
     {
@@ -114,8 +114,8 @@
       "url": "https://github.com/huggingface/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "programmingLanguage": "Python",
-      "stars": 167003,
-      "forks": 34784,
+      "stars": 167202,
+      "forks": 34797,
       "starsInPeriod": 94
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 28584,
-      "forks": 3267,
+      "stars": 28757,
+      "forks": 3273,
       "starsInPeriod": 626
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "programmingLanguage": null,
-      "stars": 217873,
-      "forks": 21963,
+      "stars": 218185,
+      "forks": 21978,
       "starsInPeriod": 279
     }
   ]
