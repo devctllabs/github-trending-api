@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ght="urn:github-trending:v1" version="2.0">
+  <channel>
+    <title>GitHub Trending — daily — go</title>
+    <link>https://github.com/trending/go</link>
+    <description>GitHub Trending — daily — go</description>
+    <lastBuildDate>Sat, 10 Oct 2026 05:51:19 GMT</lastBuildDate>
+    <ght:schemaVersion>1</ght:schemaVersion>
+    <ght:kind>daily-rollup</ght:kind>
+    <ght:date>2026-10-10</ght:date>
+    <ght:period>daily</ght:period>
+    <ght:language>go</ght:language>
+    <ght:updatedAt>2026-10-10T05:51:19Z</ght:updatedAt>
+    <ght:latestStatus>complete</ght:latestStatus>
+    <ght:latestIssues />
+    <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <description>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>45452</ght:stars>
+      <ght:forks>3281</ght:forks>
+      <ght:starsInPeriod>326</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>ollama/ollama</title>
+      <link>https://github.com/ollama/ollama</link>
+      <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
+      <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>182568</ght:stars>
+      <ght:forks>18179</ght:forks>
+      <ght:starsInPeriod>151</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Wei-Shaw/sub2api</title>
+      <link>https://github.com/Wei-Shaw/sub2api</link>
+      <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
+      <guid isPermaLink="true">https://github.com/Wei-Shaw/sub2api</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>43597</ght:stars>
+      <ght:forks>9350</ght:forks>
+      <ght:starsInPeriod>89</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>infiniflow/ragflow</title>
+      <link>https://github.com/infiniflow/ragflow</link>
+      <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
+      <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>91938</ght:stars>
+      <ght:forks>10939</ght:forks>
+      <ght:starsInPeriod>81</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>hashicorp/vault</title>
+      <link>https://github.com/hashicorp/vault</link>
+      <description>A tool for secrets management, encryption as a service, and privileged access management</description>
+      <guid isPermaLink="true">https://github.com/hashicorp/vault</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>36373</ght:stars>
+      <ght:forks>4782</ght:forks>
+      <ght:starsInPeriod>8</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>QuantumNous/new-api</title>
+      <link>https://github.com/QuantumNous/new-api</link>
+      <description>A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.</description>
+      <guid isPermaLink="true">https://github.com/QuantumNous/new-api</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>49574</ght:stars>
+      <ght:forks>11915</ght:forks>
+      <ght:starsInPeriod>102</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>multica-ai/multica</title>
+      <link>https://github.com/multica-ai/multica</link>
+      <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
+      <guid isPermaLink="true">https://github.com/multica-ai/multica</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>52345</ght:stars>
+      <ght:forks>6815</ght:forks>
+      <ght:starsInPeriod>100</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>docker/docker-agent</title>
+      <link>https://github.com/docker/docker-agent</link>
+      <description>AI Agent Builder and Runtime by Docker Engineering</description>
+      <guid isPermaLink="true">https://github.com/docker/docker-agent</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4327</ght:stars>
+      <ght:forks>503</ght:forks>
+      <ght:starsInPeriod>144</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>TencentCloud/CubeSandbox</title>
+      <link>https://github.com/TencentCloud/CubeSandbox</link>
+      <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
+      <guid isPermaLink="true">https://github.com/TencentCloud/CubeSandbox</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>12859</ght:stars>
+      <ght:forks>1182</ght:forks>
+      <ght:starsInPeriod>13</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Tencent/WeKnora</title>
+      <link>https://github.com/Tencent/WeKnora</link>
+      <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+      <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>32901</ght:stars>
+      <ght:forks>4373</ght:forks>
+      <ght:starsInPeriod>217</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>fish2018/pansou</title>
+      <link>https://github.com/fish2018/pansou</link>
+      <description>PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv</description>
+      <guid isPermaLink="true">https://github.com/fish2018/pansou</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>14855</ght:stars>
+      <ght:forks>3605</ght:forks>
+      <ght:starsInPeriod>17</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>XTLS/Xray-core</title>
+      <link>https://github.com/XTLS/Xray-core</link>
+      <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
+      <guid isPermaLink="true">https://github.com/XTLS/Xray-core</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>42026</ght:stars>
+      <ght:forks>5962</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>grafana/mcp-grafana</title>
+      <link>https://github.com/grafana/mcp-grafana</link>
+      <description>MCP server for Grafana</description>
+      <guid isPermaLink="true">https://github.com/grafana/mcp-grafana</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>3545</ght:stars>
+      <ght:forks>461</ght:forks>
+      <ght:starsInPeriod>6</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>vxcontrol/pentagi</title>
+      <link>https://github.com/vxcontrol/pentagi</link>
+      <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
+      <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>25417</ght:stars>
+      <ght:forks>3272</ght:forks>
+      <ght:starsInPeriod>55</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Agent-Field/CodeAF</title>
+      <link>https://github.com/Agent-Field/CodeAF</link>
+      <description>Open-Source Software factory for Open Models</description>
+      <guid isPermaLink="true">https://github.com/Agent-Field/CodeAF</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>376</ght:stars>
+      <ght:forks>48</ght:forks>
+      <ght:starsInPeriod>29</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>MHSanaei/3x-ui</title>
+      <link>https://github.com/MHSanaei/3x-ui</link>
+      <description>Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)</description>
+      <guid isPermaLink="true">https://github.com/MHSanaei/3x-ui</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>47724</ght:stars>
+      <ght:forks>12226</ght:forks>
+      <ght:starsInPeriod>73</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>trufflesecurity/trufflehog</title>
+      <link>https://github.com/trufflesecurity/trufflehog</link>
+      <description>Find, verify, and analyze leaked credentials</description>
+      <guid isPermaLink="true">https://github.com/trufflesecurity/trufflehog</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:19 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>28406</ght:stars>
+      <ght:forks>2625</ght:forks>
+      <ght:starsInPeriod>41</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-10-10T05:51:19Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-10T05:51:19Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+  </channel>
+</rss>

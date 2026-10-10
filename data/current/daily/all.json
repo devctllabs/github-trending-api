@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-10-09T22:37:16Z",
+  "observedAt": "2026-10-10T05:50:51Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 44134,
-      "forks": 6922,
-      "starsInPeriod": 15335
+      "stars": 52619,
+      "forks": 9754,
+      "starsInPeriod": 14927
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "programmingLanguage": "C++",
-      "stars": 21944,
-      "forks": 1790,
-      "starsInPeriod": 5925
+      "stars": 23161,
+      "forks": 1909,
+      "starsInPeriod": 5868
     },
     {
       "rank": 3,
@@ -34,19 +34,19 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "programmingLanguage": "Shell",
-      "stars": 282567,
-      "forks": 23674,
-      "starsInPeriod": 1696
+      "stars": 283090,
+      "forks": 23716,
+      "starsInPeriod": 1687
     },
     {
       "rank": 4,
       "fullName": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "programmingLanguage": "HTML",
-      "stars": 47799,
-      "forks": 3032,
-      "starsInPeriod": 1744
+      "stars": 48147,
+      "forks": 3047,
+      "starsInPeriod": 1739
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 45145,
-      "forks": 3262,
-      "starsInPeriod": 323
+      "stars": 45452,
+      "forks": 3281,
+      "starsInPeriod": 326
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 28206,
-      "forks": 3244,
-      "starsInPeriod": 714
+      "stars": 28393,
+      "forks": 3255,
+      "starsInPeriod": 709
     },
     {
       "rank": 7,
@@ -74,8 +74,8 @@
       "url": "https://github.com/BerriAI/litellm",
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
       "programmingLanguage": "Python",
-      "stars": 60626,
-      "forks": 12186,
+      "stars": 60771,
+      "forks": 12198,
       "starsInPeriod": 95
     },
     {
@@ -84,9 +84,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 103939,
-      "forks": 10868,
-      "starsInPeriod": 523
+      "stars": 104147,
+      "forks": 10872,
+      "starsInPeriod": 436
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 11271,
-      "forks": 1695,
-      "starsInPeriod": 3723
+      "stars": 12086,
+      "forks": 1842,
+      "starsInPeriod": 3752
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
       "programmingLanguage": "Python",
-      "stars": 17669,
-      "forks": 1949,
-      "starsInPeriod": 109
+      "stars": 17797,
+      "forks": 1957,
+      "starsInPeriod": 110
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
       "programmingLanguage": null,
-      "stars": 5389,
-      "forks": 195,
-      "starsInPeriod": 88
+      "stars": 5558,
+      "forks": 197,
+      "starsInPeriod": 65
     }
   ]
 }
