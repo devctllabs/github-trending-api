@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-11T12:48:17Z",
+  "observedAt": "2026-10-11T21:57:38Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 46020,
-      "forks": 3343,
-      "starsInPeriod": 876
+      "stars": 46153,
+      "forks": 3348,
+      "starsInPeriod": 297
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/QuantumNous/new-api",
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "programmingLanguage": "Go",
-      "stars": 49695,
-      "forks": 11946,
-      "starsInPeriod": 135
+      "stars": 49719,
+      "forks": 11953,
+      "starsInPeriod": 72
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/Autumn-27/ScopeSentry",
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "programmingLanguage": "Go",
-      "stars": 1786,
-      "forks": 341,
-      "starsInPeriod": 35
+      "stars": 1792,
+      "forks": 342,
+      "starsInPeriod": 27
     },
     {
       "rank": 4,
@@ -44,8 +44,8 @@
       "url": "https://github.com/BishopFox/sliver",
       "description": "Adversary Emulation Framework",
       "programmingLanguage": "Go",
-      "stars": 12073,
-      "forks": 1619,
+      "stars": 12087,
+      "forks": 1621,
       "starsInPeriod": 60
     },
     {
@@ -54,9 +54,9 @@
       "url": "https://github.com/majd/ipatool",
       "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
       "programmingLanguage": "Go",
-      "stars": 11599,
-      "forks": 973,
-      "starsInPeriod": 48
+      "stars": 11621,
+      "forks": 974,
+      "starsInPeriod": 42
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 33105,
-      "forks": 4410,
-      "starsInPeriod": 216
+      "stars": 33197,
+      "forks": 4418,
+      "starsInPeriod": 128
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/larksuite/cli",
       "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
       "programmingLanguage": "Go",
-      "stars": 17618,
+      "stars": 17624,
       "forks": 1390,
-      "starsInPeriod": 23
+      "starsInPeriod": 15
     },
     {
       "rank": 8,
@@ -84,8 +84,8 @@
       "url": "https://github.com/Project-HAMi/HAMi",
       "description": "Heterogeneous GPU Sharing on Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 4679,
-      "forks": 853,
+      "stars": 4691,
+      "forks": 854,
       "starsInPeriod": 35
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 52459,
-      "forks": 6832,
+      "stars": 52478,
+      "forks": 6837,
       "starsInPeriod": 81
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://github.com/gtsteffaniak/filebrowser",
       "description": "📂 Web File Browser",
       "programmingLanguage": "Go",
-      "stars": 8604,
-      "forks": 464,
+      "stars": 8636,
+      "forks": 467,
       "starsInPeriod": 11
     },
     {
@@ -114,8 +114,8 @@
       "url": "https://github.com/0xJacky/nginx-ui",
       "description": "Yet another WebUI for Nginx",
       "programmingLanguage": "Go",
-      "stars": 11597,
-      "forks": 895,
+      "stars": 11601,
+      "forks": 897,
       "starsInPeriod": 11
     },
     {
@@ -124,9 +124,9 @@
       "url": "https://github.com/Wei-Shaw/sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "programmingLanguage": "Go",
-      "stars": 43704,
-      "forks": 9377,
-      "starsInPeriod": 88
+      "stars": 43723,
+      "forks": 9383,
+      "starsInPeriod": 75
     },
     {
       "rank": 13,
@@ -134,8 +134,8 @@
       "url": "https://github.com/lharries/whatsapp-mcp",
       "description": "WhatsApp MCP server",
       "programmingLanguage": "Go",
-      "stars": 6529,
-      "forks": 1383,
+      "stars": 6537,
+      "forks": 1384,
       "starsInPeriod": 63
     },
     {
@@ -144,8 +144,8 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "programmingLanguage": "Go",
-      "stars": 12871,
-      "forks": 1185,
+      "stars": 12879,
+      "forks": 1186,
       "starsInPeriod": 7
     },
     {
@@ -154,7 +154,7 @@
       "url": "https://github.com/fish2018/pansou",
       "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
       "programmingLanguage": "Go",
-      "stars": 14873,
+      "stars": 14874,
       "forks": 3611,
       "starsInPeriod": 10
     }
