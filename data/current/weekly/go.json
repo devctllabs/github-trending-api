@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-11T05:45:21Z",
+  "observedAt": "2026-10-11T12:48:20Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,19 +14,19 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 77710,
-      "forks": 5113,
+      "stars": 77732,
+      "forks": 5114,
       "starsInPeriod": 1485
     },
     {
       "rank": 2,
-      "fullName": "NdoleStudio/httpsms",
-      "url": "https://github.com/NdoleStudio/httpsms",
-      "description": "Send and receive SMS messages using your Android phone programmatically via a simple HTTP API",
+      "fullName": "Gaurav-Gosain/tuios",
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "programmingLanguage": "Go",
-      "stars": 5969,
-      "forks": 1079,
-      "starsInPeriod": 669
+      "stars": 5158,
+      "forks": 235,
+      "starsInPeriod": 510
     },
     {
       "rank": 3,
@@ -34,59 +34,59 @@
       "url": "https://github.com/ys-ll/uniterm",
       "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
       "programmingLanguage": "Go",
-      "stars": 814,
+      "stars": 818,
       "forks": 121,
       "starsInPeriod": 158
     },
     {
       "rank": 4,
-      "fullName": "Gaurav-Gosain/tuios",
-      "url": "https://github.com/Gaurav-Gosain/tuios",
-      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
-      "programmingLanguage": "Go",
-      "stars": 5130,
-      "forks": 234,
-      "starsInPeriod": 510
-    },
-    {
-      "rank": 5,
-      "fullName": "MHSanaei/3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
-      "programmingLanguage": "Go",
-      "stars": 47790,
-      "forks": 12258,
-      "starsInPeriod": 441
-    },
-    {
-      "rank": 6,
-      "fullName": "eugenioenko/ttt",
-      "url": "https://github.com/eugenioenko/ttt",
-      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
-      "programmingLanguage": "Go",
-      "stars": 514,
-      "forks": 38,
-      "starsInPeriod": 128
-    },
-    {
-      "rank": 7,
       "fullName": "aquasecurity/trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38338,
+      "stars": 38343,
       "forks": 753,
       "starsInPeriod": 141
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "fullName": "Bennettxai/FounderOS",
+      "url": "https://github.com/Bennettxai/FounderOS",
+      "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
+      "programmingLanguage": "Go",
+      "stars": 1048,
+      "forks": 296,
+      "starsInPeriod": 77
+    },
+    {
+      "rank": 6,
       "fullName": "docker/docker-agent",
       "url": "https://github.com/docker/docker-agent",
       "description": "AI Agent Builder and Runtime by Docker Engineering",
       "programmingLanguage": "Go",
-      "stars": 4397,
-      "forks": 505,
+      "stars": 4415,
+      "forks": 508,
       "starsInPeriod": 1003
+    },
+    {
+      "rank": 7,
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "programmingLanguage": "Go",
+      "stars": 182730,
+      "forks": 18200,
+      "starsInPeriod": 848
+    },
+    {
+      "rank": 8,
+      "fullName": "llm-d/llm-d-router",
+      "url": "https://github.com/llm-d/llm-d-router",
+      "description": "llm-d Router: The intelligent entry point for inference requests",
+      "programmingLanguage": "Go",
+      "stars": 394,
+      "forks": 434,
+      "starsInPeriod": 20
     },
     {
       "rank": 9,
@@ -94,99 +94,69 @@
       "url": "https://github.com/charmbracelet/bubbletea",
       "description": "A powerful little TUI framework 🏗",
       "programmingLanguage": "Go",
-      "stars": 45429,
-      "forks": 3665,
+      "stars": 45434,
+      "forks": 3730,
       "starsInPeriod": 183
     },
     {
       "rank": 10,
+      "fullName": "pocket-id/pocket-id",
+      "url": "https://github.com/pocket-id/pocket-id",
+      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
+      "programmingLanguage": "Go",
+      "stars": 9535,
+      "forks": 326,
+      "starsInPeriod": 162
+    },
+    {
+      "rank": 11,
       "fullName": "google/gvisor",
       "url": "https://github.com/google/gvisor",
       "description": "Application Kernel for Containers",
       "programmingLanguage": "Go",
-      "stars": 19631,
-      "forks": 2042,
+      "stars": 19635,
+      "forks": 2043,
       "starsInPeriod": 145
     },
     {
-      "rank": 11,
-      "fullName": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "programmingLanguage": "Go",
-      "stars": 182681,
-      "forks": 18197,
-      "starsInPeriod": 848
-    },
-    {
       "rank": 12,
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "programmingLanguage": "Go",
-      "stars": 110950,
-      "forks": 6427,
-      "starsInPeriod": 1642
-    },
-    {
-      "rank": 13,
       "fullName": "oauth2-proxy/oauth2-proxy",
       "url": "https://github.com/oauth2-proxy/oauth2-proxy",
       "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
       "programmingLanguage": "Go",
-      "stars": 15136,
-      "forks": 2219,
+      "stars": 15145,
+      "forks": 2220,
       "starsInPeriod": 97
     },
     {
-      "rank": 14,
-      "fullName": "Agent-Field/CodeAF",
-      "url": "https://github.com/Agent-Field/CodeAF",
-      "description": "Open-Source Software factory for Open Models",
-      "programmingLanguage": "Go",
-      "stars": 387,
-      "forks": 48,
-      "starsInPeriod": 120
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "fullName": "traefik/traefik",
       "url": "https://github.com/traefik/traefik",
       "description": "The Cloud Native Application Proxy",
       "programmingLanguage": "Go",
-      "stars": 65150,
-      "forks": 6233,
+      "stars": 65155,
+      "forks": 6235,
       "starsInPeriod": 131
     },
     {
-      "rank": 16,
+      "rank": 14,
       "fullName": "go-gitea/gitea",
       "url": "https://github.com/go-gitea/gitea",
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 58425,
-      "forks": 7250,
+      "stars": 58430,
+      "forks": 7249,
       "starsInPeriod": 154
     },
     {
-      "rank": 17,
-      "fullName": "llm-d/llm-d-router",
-      "url": "https://github.com/llm-d/llm-d-router",
-      "description": "llm-d Router: The intelligent entry point for inference requests",
+      "rank": 15,
+      "fullName": "MHSanaei/3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "programmingLanguage": "Go",
-      "stars": 394,
-      "forks": 435,
-      "starsInPeriod": 20
-    },
-    {
-      "rank": 18,
-      "fullName": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "programmingLanguage": "Go",
-      "stars": 111383,
-      "forks": 16359,
-      "starsInPeriod": 132
+      "stars": 47806,
+      "forks": 12261,
+      "starsInPeriod": 441
     }
   ]
 }

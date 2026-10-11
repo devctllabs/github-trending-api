@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-10-11T05:45:05Z",
+  "observedAt": "2026-10-11T12:48:04Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 57575,
-      "forks": 6454,
+      "stars": 58009,
+      "forks": 6514,
       "starsInPeriod": 35194
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 39312,
-      "forks": 5577,
+      "stars": 39338,
+      "forks": 5581,
       "starsInPeriod": 4607
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 48146,
-      "forks": 5992,
+      "stars": 48265,
+      "forks": 5993,
       "starsInPeriod": 24928
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 28903,
-      "forks": 3284,
+      "stars": 29014,
+      "forks": 3291,
       "starsInPeriod": 4750
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 8553,
-      "forks": 1042,
+      "stars": 8607,
+      "forks": 1054,
       "starsInPeriod": 7002
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 95557,
-      "forks": 8366,
+      "stars": 95684,
+      "forks": 8382,
       "starsInPeriod": 16725
     },
     {
@@ -74,159 +74,159 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 66890,
-      "forks": 11717,
+      "stars": 67115,
+      "forks": 11749,
       "starsInPeriod": 12671
     },
     {
       "rank": 8,
-      "fullName": "coji/natural-japanese",
-      "url": "https://github.com/coji/natural-japanese",
-      "description": "仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。",
-      "programmingLanguage": "Python",
-      "stars": 1904,
-      "forks": 53,
-      "starsInPeriod": 888
-    },
-    {
-      "rank": 9,
-      "fullName": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "programmingLanguage": "Python",
-      "stars": 86726,
-      "forks": 8883,
-      "starsInPeriod": 7041
-    },
-    {
-      "rank": 10,
-      "fullName": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "programmingLanguage": "Python",
-      "stars": 39048,
-      "forks": 3385,
-      "starsInPeriod": 3567
-    },
-    {
-      "rank": 11,
       "fullName": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "programmingLanguage": "Python",
-      "stars": 32551,
-      "forks": 3745,
+      "stars": 32555,
+      "forks": 3748,
       "starsInPeriod": 2082
     },
     {
-      "rank": 12,
+      "rank": 9,
+      "fullName": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "programmingLanguage": "Python",
+      "stars": 39050,
+      "forks": 3387,
+      "starsInPeriod": 3567
+    },
+    {
+      "rank": 10,
+      "fullName": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "programmingLanguage": "Python",
+      "stars": 86782,
+      "forks": 8889,
+      "starsInPeriod": 7041
+    },
+    {
+      "rank": 11,
       "fullName": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 19893,
-      "forks": 1742,
+      "stars": 19909,
+      "forks": 1744,
       "starsInPeriod": 3070
     },
     {
-      "rank": 13,
+      "rank": 12,
       "fullName": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "programmingLanguage": "Python",
-      "stars": 4972,
+      "stars": 4976,
       "forks": 403,
       "starsInPeriod": 3665
     },
     {
-      "rank": 14,
-      "fullName": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "programmingLanguage": "Python",
-      "stars": 69362,
-      "forks": 11280,
-      "starsInPeriod": 5091
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "fullName": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "programmingLanguage": "Python",
-      "stars": 104190,
-      "forks": 31966,
+      "stars": 104280,
+      "forks": 32031,
       "starsInPeriod": 1336
     },
     {
-      "rank": 16,
-      "fullName": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "programmingLanguage": "Python",
-      "stars": 91368,
-      "forks": 38867,
-      "starsInPeriod": 1150
-    },
-    {
-      "rank": 17,
-      "fullName": "danyuchn/asd-ste100-skill",
-      "url": "https://github.com/danyuchn/asd-ste100-skill",
-      "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
-      "programmingLanguage": "Python",
-      "stars": 4331,
-      "forks": 249,
-      "starsInPeriod": 2370
-    },
-    {
-      "rank": 18,
-      "fullName": "NVIDIA/Model-Optimizer",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "programmingLanguage": "Python",
-      "stars": 5264,
-      "forks": 738,
-      "starsInPeriod": 1501
-    },
-    {
-      "rank": 19,
-      "fullName": "docling-project/docling",
-      "url": "https://github.com/docling-project/docling",
-      "description": "Get your documents ready for gen AI",
-      "programmingLanguage": "Python",
-      "stars": 68658,
-      "forks": 5038,
-      "starsInPeriod": 2529
-    },
-    {
-      "rank": 20,
+      "rank": 14,
       "fullName": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
       "programmingLanguage": "Python",
-      "stars": 60940,
+      "stars": 60950,
       "forks": 12219,
       "starsInPeriod": 2613
     },
     {
-      "rank": 21,
+      "rank": 15,
+      "fullName": "danyuchn/asd-ste100-skill",
+      "url": "https://github.com/danyuchn/asd-ste100-skill",
+      "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
+      "programmingLanguage": "Python",
+      "stars": 4369,
+      "forks": 253,
+      "starsInPeriod": 2370
+    },
+    {
+      "rank": 16,
+      "fullName": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "programmingLanguage": "Python",
+      "stars": 68669,
+      "forks": 5042,
+      "starsInPeriod": 2529
+    },
+    {
+      "rank": 17,
+      "fullName": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "programmingLanguage": "Python",
+      "stars": 5267,
+      "forks": 738,
+      "starsInPeriod": 1501
+    },
+    {
+      "rank": 18,
+      "fullName": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "programmingLanguage": "Python",
+      "stars": 91369,
+      "forks": 38872,
+      "starsInPeriod": 1150
+    },
+    {
+      "rank": 19,
       "fullName": "tile-ai/tilelang",
       "url": "https://github.com/tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "programmingLanguage": "Python",
-      "stars": 8563,
-      "forks": 876,
+      "stars": 8568,
+      "forks": 875,
       "starsInPeriod": 1190
     },
     {
-      "rank": 22,
+      "rank": 20,
       "fullName": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "programmingLanguage": "Python",
-      "stars": 11253,
-      "forks": 1278,
+      "stars": 11465,
+      "forks": 1294,
       "starsInPeriod": 4740
+    },
+    {
+      "rank": 21,
+      "fullName": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "programmingLanguage": "Python",
+      "stars": 7409,
+      "forks": 966,
+      "starsInPeriod": 4345
+    },
+    {
+      "rank": 22,
+      "fullName": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "programmingLanguage": "Python",
+      "stars": 18161,
+      "forks": 2483,
+      "starsInPeriod": 3198
     }
   ]
 }

@@ -4,118 +4,68 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-10-11T05:45:28Z",
+  "observedAt": "2026-10-11T12:48:26Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "programmingLanguage": "JavaScript",
-      "stars": 81749,
-      "forks": 5522,
-      "starsInPeriod": 533
+      "stars": 50803,
+      "forks": 10252,
+      "starsInPeriod": 872
     },
     {
       "rank": 2,
-      "fullName": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
+      "fullName": "MiaAI-Lab/sparkDash",
+      "url": "https://github.com/MiaAI-Lab/sparkDash",
+      "description": "sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard",
       "programmingLanguage": "JavaScript",
-      "stars": 143111,
-      "forks": 34506,
-      "starsInPeriod": 69
+      "stars": 652,
+      "forks": 129,
+      "starsInPeriod": 22
     },
     {
       "rank": 3,
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "fullName": "liyupi/ai-guide",
+      "url": "https://github.com/liyupi/ai-guide",
+      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站",
       "programmingLanguage": "JavaScript",
-      "stars": 104584,
-      "forks": 10914,
-      "starsInPeriod": 639
+      "stars": 20990,
+      "forks": 2308,
+      "starsInPeriod": 44
     },
     {
       "rank": 4,
+      "fullName": "MagicMirrorOrg/MagicMirror",
+      "url": "https://github.com/MagicMirrorOrg/MagicMirror",
+      "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+      "programmingLanguage": "JavaScript",
+      "stars": 24024,
+      "forks": 4576,
+      "starsInPeriod": 56
+    },
+    {
+      "rank": 5,
       "fullName": "greensock/GSAP",
       "url": "https://github.com/greensock/GSAP",
       "description": "GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web",
       "programmingLanguage": "JavaScript",
-      "stars": 29032,
-      "forks": 2246,
+      "stars": 29048,
+      "forks": 2247,
       "starsInPeriod": 54
     },
     {
-      "rank": 5,
-      "fullName": "microsoft/power-platform-skills",
-      "url": "https://github.com/microsoft/power-platform-skills",
-      "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
-      "programmingLanguage": "JavaScript",
-      "stars": 989,
-      "forks": 204,
-      "starsInPeriod": 8
-    },
-    {
       "rank": 6,
-      "fullName": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-      "programmingLanguage": "JavaScript",
-      "stars": 34271,
-      "forks": 3266,
-      "starsInPeriod": 73
-    },
-    {
-      "rank": 7,
-      "fullName": "poteto/hiring-without-whiteboards",
-      "url": "https://github.com/poteto/hiring-without-whiteboards",
-      "description": "⭐️ Companies that don't have a broken hiring process",
-      "programmingLanguage": "JavaScript",
-      "stars": 52566,
-      "forks": 3959,
-      "starsInPeriod": 75
-    },
-    {
-      "rank": 8,
-      "fullName": "chinese-poetry/chinese-poetry",
-      "url": "https://github.com/chinese-poetry/chinese-poetry",
-      "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
-      "programmingLanguage": "JavaScript",
-      "stars": 53644,
-      "forks": 10784,
-      "starsInPeriod": 25
-    },
-    {
-      "rank": 9,
-      "fullName": "mui/material-ui",
-      "url": "https://github.com/mui/material-ui",
-      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
-      "programmingLanguage": "JavaScript",
-      "stars": 99165,
-      "forks": 32506,
-      "starsInPeriod": 17
-    },
-    {
-      "rank": 10,
-      "fullName": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "programmingLanguage": "JavaScript",
-      "stars": 94481,
-      "forks": 6426,
-      "starsInPeriod": 340
-    },
-    {
-      "rank": 11,
       "fullName": "chaolucky18/xuexitongScript",
       "url": "https://github.com/chaolucky18/xuexitongScript",
       "description": "学习通自动刷课脚本",
       "programmingLanguage": "JavaScript",
-      "stars": 2788,
-      "forks": 363,
+      "stars": 2800,
+      "forks": 365,
       "starsInPeriod": 26
     }
   ]

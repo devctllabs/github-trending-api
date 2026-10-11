@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-10-11T05:45:38Z",
+  "observedAt": "2026-10-11T12:48:39Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 78065,
-      "forks": 16758,
-      "starsInPeriod": 25793
+      "stars": 87408,
+      "forks": 19053,
+      "starsInPeriod": 25585
     },
     {
       "rank": 2,
@@ -24,99 +24,69 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "programmingLanguage": "TypeScript",
-      "stars": 26420,
-      "forks": 1903,
-      "starsInPeriod": 178
+      "stars": 26564,
+      "forks": 1909,
+      "starsInPeriod": 526
     },
     {
       "rank": 3,
-      "fullName": "angular/angular",
-      "url": "https://github.com/angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
+      "fullName": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "programmingLanguage": "TypeScript",
-      "stars": 101027,
-      "forks": 29952,
-      "starsInPeriod": 8
+      "stars": 158135,
+      "forks": 24975,
+      "starsInPeriod": 71
     },
     {
       "rank": 4,
-      "fullName": "remotion-dev/remotion",
-      "url": "https://github.com/remotion-dev/remotion",
-      "description": "🎥 Make videos programmatically with React",
+      "fullName": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
       "programmingLanguage": "TypeScript",
-      "stars": 63117,
-      "forks": 4958,
-      "starsInPeriod": 283
+      "stars": 391667,
+      "forks": 82338,
+      "starsInPeriod": 150
     },
     {
       "rank": 5,
-      "fullName": "zenbu-labs/terminal-browser",
-      "url": "https://github.com/zenbu-labs/terminal-browser",
-      "description": "A browser inside your terminal",
+      "fullName": "CopilotKit/OpenIntelligentUI",
+      "url": "https://github.com/CopilotKit/OpenIntelligentUI",
+      "description": "Open-Source Generative UI Framework",
       "programmingLanguage": "TypeScript",
-      "stars": 3796,
-      "forks": 179,
-      "starsInPeriod": 29
+      "stars": 2546,
+      "forks": 289,
+      "starsInPeriod": 309
     },
     {
       "rank": 6,
-      "fullName": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
+      "fullName": "chthollyphile/folia-major",
+      "url": "https://github.com/chthollyphile/folia-major",
+      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
       "programmingLanguage": "TypeScript",
-      "stars": 193536,
-      "forks": 45015,
-      "starsInPeriod": 40
+      "stars": 4781,
+      "forks": 384,
+      "starsInPeriod": 500
     },
     {
       "rank": 7,
-      "fullName": "Vincentwei1021/video-shotcraft",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+      "fullName": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
       "programmingLanguage": "TypeScript",
-      "stars": 11206,
-      "forks": 998,
-      "starsInPeriod": 142
+      "stars": 56447,
+      "forks": 5059,
+      "starsInPeriod": 176
     },
     {
       "rank": 8,
-      "fullName": "appwrite/appwrite",
-      "url": "https://github.com/appwrite/appwrite",
-      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "fullName": "getnao/nao",
+      "url": "https://github.com/getnao/nao",
+      "description": "👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone",
       "programmingLanguage": "TypeScript",
-      "stars": 57630,
-      "forks": 5778,
-      "starsInPeriod": 11
-    },
-    {
-      "rank": 9,
-      "fullName": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "programmingLanguage": "TypeScript",
-      "stars": 150096,
-      "forks": 26109,
-      "starsInPeriod": 190
-    },
-    {
-      "rank": 10,
-      "fullName": "Yeachan-Heo/oh-my-claudecode",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "programmingLanguage": "TypeScript",
-      "stars": 39778,
-      "forks": 3563,
-      "starsInPeriod": 43
-    },
-    {
-      "rank": 11,
-      "fullName": "immich-app/immich",
-      "url": "https://github.com/immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "programmingLanguage": "TypeScript",
-      "stars": 115985,
-      "forks": 7176,
-      "starsInPeriod": 95
+      "stars": 1893,
+      "forks": 281,
+      "starsInPeriod": 27
     }
   ]
 }
