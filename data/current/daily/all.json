@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-10-12T05:55:19Z",
+  "observedAt": "2026-10-12T15:21:48Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,59 +14,59 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 116586,
-      "forks": 26186,
-      "starsInPeriod": 25599
+      "stars": 139743,
+      "forks": 31831,
+      "starsInPeriod": 45495
     },
     {
       "rank": 2,
-      "fullName": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "programmingLanguage": "C++",
-      "stars": 30773,
-      "forks": 2650,
-      "starsInPeriod": 3952
-    },
-    {
-      "rank": 3,
-      "fullName": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "programmingLanguage": "Rust",
-      "stars": 18789,
-      "forks": 3079,
-      "starsInPeriod": 2957
-    },
-    {
-      "rank": 4,
-      "fullName": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "programmingLanguage": "HTML",
-      "stars": 50860,
-      "forks": 3224,
-      "starsInPeriod": 1083
-    },
-    {
-      "rank": 5,
       "fullName": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "programmingLanguage": "JavaScript",
-      "stars": 52103,
-      "forks": 10429,
-      "starsInPeriod": 886
+      "stars": 52961,
+      "forks": 10522,
+      "starsInPeriod": 1903
+    },
+    {
+      "rank": 3,
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "programmingLanguage": "TypeScript",
+      "stars": 26955,
+      "forks": 1930,
+      "starsInPeriod": 485
+    },
+    {
+      "rank": 4,
+      "fullName": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "programmingLanguage": "Rust",
+      "stars": 20492,
+      "forks": 3314,
+      "starsInPeriod": 4106
+    },
+    {
+      "rank": 5,
+      "fullName": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "programmingLanguage": "Python",
+      "stars": 154593,
+      "forks": 22620,
+      "starsInPeriod": 142
     },
     {
       "rank": 6,
-      "fullName": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "programmingLanguage": "Python",
-      "stars": 104615,
-      "forks": 32174,
-      "starsInPeriod": 315
+      "fullName": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "programmingLanguage": "HTML",
+      "stars": 52000,
+      "forks": 3277,
+      "starsInPeriod": 2100
     },
     {
       "rank": 7,
@@ -74,19 +74,29 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "programmingLanguage": "Jupyter Notebook",
-      "stars": 36704,
-      "forks": 3826,
-      "starsInPeriod": 548
+      "stars": 37167,
+      "forks": 3853,
+      "starsInPeriod": 886
     },
     {
       "rank": 8,
-      "fullName": "chrislgarry/Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "programmingLanguage": "Assembly",
-      "stars": 74388,
-      "forks": 8114,
-      "starsInPeriod": 466
+      "fullName": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "programmingLanguage": "C++",
+      "stars": 40783,
+      "forks": 3799,
+      "starsInPeriod": 195
+    },
+    {
+      "rank": 9,
+      "fullName": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "programmingLanguage": "Python",
+      "stars": 58522,
+      "forks": 9268,
+      "starsInPeriod": 705
     }
   ]
 }

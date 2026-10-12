@@ -4,159 +4,129 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-12T05:55:50Z",
+  "observedAt": "2026-10-12T15:22:18Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "fullName": "Armur-Ai/Pentest-Swarm-AI",
+      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "programmingLanguage": "Go",
-      "stars": 46285,
-      "forks": 3359,
-      "starsInPeriod": 294
+      "stars": 2849,
+      "forks": 526,
+      "starsInPeriod": 49
     },
     {
       "rank": 2,
-      "fullName": "QuantumNous/new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
-      "programmingLanguage": "Go",
-      "stars": 49736,
-      "forks": 11961,
-      "starsInPeriod": 71
-    },
-    {
-      "rank": 3,
-      "fullName": "Autumn-27/ScopeSentry",
-      "url": "https://github.com/Autumn-27/ScopeSentry",
-      "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
-      "programmingLanguage": "Go",
-      "stars": 1802,
-      "forks": 348,
-      "starsInPeriod": 28
-    },
-    {
-      "rank": 4,
-      "fullName": "BishopFox/sliver",
-      "url": "https://github.com/BishopFox/sliver",
-      "description": "Adversary Emulation Framework",
-      "programmingLanguage": "Go",
-      "stars": 12092,
-      "forks": 1620,
-      "starsInPeriod": 47
-    },
-    {
-      "rank": 5,
-      "fullName": "majd/ipatool",
-      "url": "https://github.com/majd/ipatool",
-      "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
-      "programmingLanguage": "Go",
-      "stars": 11632,
-      "forks": 974,
-      "starsInPeriod": 33
-    },
-    {
-      "rank": 6,
-      "fullName": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "programmingLanguage": "Go",
-      "stars": 33312,
-      "forks": 4442,
-      "starsInPeriod": 129
-    },
-    {
-      "rank": 7,
-      "fullName": "larksuite/cli",
-      "url": "https://github.com/larksuite/cli",
-      "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-      "programmingLanguage": "Go",
-      "stars": 17631,
-      "forks": 1391,
-      "starsInPeriod": 16
-    },
-    {
-      "rank": 8,
-      "fullName": "Project-HAMi/HAMi",
-      "url": "https://github.com/Project-HAMi/HAMi",
-      "description": "Heterogeneous GPU Sharing on Kubernetes",
-      "programmingLanguage": "Go",
-      "stars": 4702,
-      "forks": 855,
-      "starsInPeriod": 36
-    },
-    {
-      "rank": 9,
-      "fullName": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-      "programmingLanguage": "Go",
-      "stars": 52526,
-      "forks": 6843,
-      "starsInPeriod": 70
-    },
-    {
-      "rank": 10,
-      "fullName": "gtsteffaniak/filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "programmingLanguage": "Go",
-      "stars": 8659,
-      "forks": 470,
-      "starsInPeriod": 15
-    },
-    {
-      "rank": 11,
-      "fullName": "0xJacky/nginx-ui",
-      "url": "https://github.com/0xJacky/nginx-ui",
-      "description": "Yet another WebUI for Nginx",
-      "programmingLanguage": "Go",
-      "stars": 11602,
-      "forks": 897,
-      "starsInPeriod": 6
-    },
-    {
-      "rank": 12,
-      "fullName": "Wei-Shaw/sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "programmingLanguage": "Go",
-      "stars": 43754,
-      "forks": 9385,
-      "starsInPeriod": 75
-    },
-    {
-      "rank": 13,
       "fullName": "lharries/whatsapp-mcp",
       "url": "https://github.com/lharries/whatsapp-mcp",
       "description": "WhatsApp MCP server",
       "programmingLanguage": "Go",
-      "stars": 6543,
-      "forks": 1385,
+      "stars": 6551,
+      "forks": 1388,
       "starsInPeriod": 59
     },
     {
-      "rank": 14,
-      "fullName": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "rank": 3,
+      "fullName": "BishopFox/sliver",
+      "url": "https://github.com/BishopFox/sliver",
+      "description": "Adversary Emulation Framework",
       "programmingLanguage": "Go",
-      "stars": 12884,
-      "forks": 1189,
+      "stars": 12098,
+      "forks": 1621,
+      "starsInPeriod": 47
+    },
+    {
+      "rank": 4,
+      "fullName": "gtsteffaniak/filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "programmingLanguage": "Go",
+      "stars": 8671,
+      "forks": 471,
+      "starsInPeriod": 15
+    },
+    {
+      "rank": 5,
+      "fullName": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "programmingLanguage": "Go",
+      "stars": 7353,
+      "forks": 1551,
+      "starsInPeriod": 8
+    },
+    {
+      "rank": 6,
+      "fullName": "jaegertracing/jaeger",
+      "url": "https://github.com/jaegertracing/jaeger",
+      "description": "CNCF Jaeger, a Distributed Tracing Platform",
+      "programmingLanguage": "Go",
+      "stars": 23283,
+      "forks": 3158,
       "starsInPeriod": 9
     },
     {
-      "rank": 15,
-      "fullName": "fish2018/pansou",
-      "url": "https://github.com/fish2018/pansou",
-      "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
+      "rank": 7,
+      "fullName": "p1neappleXpress/OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
       "programmingLanguage": "Go",
-      "stars": 14877,
-      "forks": 3612,
-      "starsInPeriod": 11
+      "stars": 2087,
+      "forks": 179,
+      "starsInPeriod": 24
+    },
+    {
+      "rank": 8,
+      "fullName": "YouROK/TorrServer",
+      "url": "https://github.com/YouROK/TorrServer",
+      "description": "Torrent stream server",
+      "programmingLanguage": "Go",
+      "stars": 3121,
+      "forks": 369,
+      "starsInPeriod": 6
+    },
+    {
+      "rank": 9,
+      "fullName": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "programmingLanguage": "Go",
+      "stars": 11600,
+      "forks": 897,
+      "starsInPeriod": 6
+    },
+    {
+      "rank": 10,
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "programmingLanguage": "Go",
+      "stars": 182856,
+      "forks": 18232,
+      "starsInPeriod": 138
+    },
+    {
+      "rank": 11,
+      "fullName": "Bennettxai/FounderOS",
+      "url": "https://github.com/Bennettxai/FounderOS",
+      "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
+      "programmingLanguage": "Go",
+      "stars": 1074,
+      "forks": 304,
+      "starsInPeriod": 22
+    },
+    {
+      "rank": 12,
+      "fullName": "HEXUXIU/M365-Copilot2API",
+      "url": "https://github.com/HEXUXIU/M365-Copilot2API",
+      "description": "Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。",
+      "programmingLanguage": "Go",
+      "stars": 553,
+      "forks": 189,
+      "starsInPeriod": 14
     }
   ]
 }

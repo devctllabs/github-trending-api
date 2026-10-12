@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-10-12T05:56:10Z",
+  "observedAt": "2026-10-12T15:22:37Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 116627,
-      "forks": 26195,
-      "starsInPeriod": 25599
+      "stars": 139773,
+      "forks": 31839,
+      "starsInPeriod": 45495
     },
     {
       "rank": 2,
@@ -24,69 +24,109 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "programmingLanguage": "TypeScript",
-      "stars": 26727,
-      "forks": 1918,
+      "stars": 26957,
+      "forks": 1930,
       "starsInPeriod": 485
     },
     {
       "rank": 3,
-      "fullName": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "programmingLanguage": "TypeScript",
-      "stars": 158190,
-      "forks": 25007,
-      "starsInPeriod": 79
-    },
-    {
-      "rank": 4,
       "fullName": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
       "programmingLanguage": "TypeScript",
-      "stars": 391719,
-      "forks": 82365,
+      "stars": 391766,
+      "forks": 82374,
       "starsInPeriod": 164
     },
     {
+      "rank": 4,
+      "fullName": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "programmingLanguage": "TypeScript",
+      "stars": 39635,
+      "forks": 3972,
+      "starsInPeriod": 168
+    },
+    {
       "rank": 5,
+      "fullName": "breferrari/obsidian-mind",
+      "url": "https://github.com/breferrari/obsidian-mind",
+      "description": "A self-organizing Obsidian vault that gives AI coding agents persistent memory.",
+      "programmingLanguage": "TypeScript",
+      "stars": 5239,
+      "forks": 592,
+      "starsInPeriod": 82
+    },
+    {
+      "rank": 6,
+      "fullName": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "programmingLanguage": "TypeScript",
+      "stars": 100760,
+      "forks": 16952,
+      "starsInPeriod": 652
+    },
+    {
+      "rank": 7,
       "fullName": "CopilotKit/OpenIntelligentUI",
       "url": "https://github.com/CopilotKit/OpenIntelligentUI",
       "description": "Open-Source Generative UI Framework",
       "programmingLanguage": "TypeScript",
-      "stars": 2733,
-      "forks": 308,
+      "stars": 2826,
+      "forks": 324,
       "starsInPeriod": 278
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "fullName": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+      "programmingLanguage": "TypeScript",
+      "stars": 1070,
+      "forks": 90,
+      "starsInPeriod": 219
+    },
+    {
+      "rank": 9,
+      "fullName": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "programmingLanguage": "TypeScript",
+      "stars": 33710,
+      "forks": 4642,
+      "starsInPeriod": 473
+    },
+    {
+      "rank": 10,
       "fullName": "chthollyphile/folia-major",
       "url": "https://github.com/chthollyphile/folia-major",
       "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
       "programmingLanguage": "TypeScript",
-      "stars": 5135,
-      "forks": 446,
+      "stars": 5421,
+      "forks": 476,
       "starsInPeriod": 555
     },
     {
-      "rank": 7,
+      "rank": 11,
+      "fullName": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "programmingLanguage": "TypeScript",
+      "stars": 15357,
+      "forks": 3593,
+      "starsInPeriod": 141
+    },
+    {
+      "rank": 12,
       "fullName": "agalwood/Motrix",
       "url": "https://github.com/agalwood/Motrix",
       "description": "A full-featured download manager.",
       "programmingLanguage": "TypeScript",
-      "stars": 56513,
-      "forks": 5065,
+      "stars": 56576,
+      "forks": 5068,
       "starsInPeriod": 158
-    },
-    {
-      "rank": 8,
-      "fullName": "getnao/nao",
-      "url": "https://github.com/getnao/nao",
-      "description": "👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone",
-      "programmingLanguage": "TypeScript",
-      "stars": 1909,
-      "forks": 283,
-      "starsInPeriod": 20
     }
   ]
 }

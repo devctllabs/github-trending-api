@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=monthly",
-  "observedAt": "2026-10-12T05:55:27Z",
+  "observedAt": "2026-10-12T15:21:55Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 46284,
-      "forks": 3359,
+      "stars": 46437,
+      "forks": 3380,
       "starsInPeriod": 24146
     },
     {
@@ -24,29 +24,29 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 59114,
-      "forks": 6626,
+      "stars": 59861,
+      "forks": 6715,
       "starsInPeriod": 36012
     },
     {
       "rank": 3,
-      "fullName": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": null,
-      "programmingLanguage": "Python",
-      "stars": 39427,
-      "forks": 5585,
-      "starsInPeriod": 4698
-    },
-    {
-      "rank": 4,
       "fullName": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "programmingLanguage": "TypeScript",
-      "stars": 100490,
-      "forks": 16919,
+      "stars": 100760,
+      "forks": 16952,
       "starsInPeriod": 19987
+    },
+    {
+      "rank": 4,
+      "fullName": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": null,
+      "programmingLanguage": "Python",
+      "stars": 39496,
+      "forks": 5589,
+      "starsInPeriod": 4698
     },
     {
       "rank": 5,
@@ -54,8 +54,8 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 48525,
-      "forks": 6006,
+      "stars": 48721,
+      "forks": 6012,
       "starsInPeriod": 25187
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 277361,
-      "forks": 41370,
+      "stars": 277655,
+      "forks": 41403,
       "starsInPeriod": 22438
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 29159,
-      "forks": 3311,
+      "stars": 29244,
+      "forks": 3317,
       "starsInPeriod": 5173
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "programmingLanguage": "TypeScript",
-      "stars": 150269,
-      "forks": 26287,
+      "stars": 150360,
+      "forks": 26305,
       "starsInPeriod": 6290
     },
     {
@@ -94,29 +94,29 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 33312,
-      "forks": 4442,
+      "stars": 33474,
+      "forks": 4458,
       "starsInPeriod": 11116
     },
     {
       "rank": 10,
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "programmingLanguage": "TypeScript",
-      "stars": 61153,
-      "forks": 5467,
-      "starsInPeriod": 11993
-    },
-    {
-      "rank": 11,
       "fullName": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 8739,
-      "forks": 1070,
+      "stars": 8854,
+      "forks": 1091,
       "starsInPeriod": 7118
+    },
+    {
+      "rank": 11,
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "programmingLanguage": "TypeScript",
+      "stars": 61524,
+      "forks": 5507,
+      "starsInPeriod": 11993
     },
     {
       "rank": 12,
@@ -124,8 +124,8 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 4886,
-      "forks": 550,
+      "stars": 4924,
+      "forks": 553,
       "starsInPeriod": 3014
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 15878,
-      "forks": 1766,
+      "stars": 15933,
+      "forks": 1768,
       "starsInPeriod": 7318
     },
     {
@@ -144,19 +144,19 @@
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "programmingLanguage": "C",
-      "stars": 41313,
-      "forks": 4553,
+      "stars": 41427,
+      "forks": 4576,
       "starsInPeriod": 13726
     },
     {
       "rank": 15,
-      "fullName": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "programmingLanguage": "Rust",
-      "stars": 29416,
-      "forks": 2092,
-      "starsInPeriod": 6994
+      "fullName": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "programmingLanguage": "TypeScript",
+      "stars": 33710,
+      "forks": 4642,
+      "starsInPeriod": 7925
     },
     {
       "rank": 16,
@@ -164,19 +164,19 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 105159,
-      "forks": 10982,
+      "stars": 105404,
+      "forks": 10999,
       "starsInPeriod": 11891
     },
     {
       "rank": 17,
-      "fullName": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "programmingLanguage": "TypeScript",
-      "stars": 33433,
-      "forks": 4612,
-      "starsInPeriod": 7925
+      "fullName": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "programmingLanguage": "Rust",
+      "stars": 29473,
+      "forks": 2098,
+      "starsInPeriod": 6994
     },
     {
       "rank": 18,
@@ -184,8 +184,8 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "programmingLanguage": "TypeScript",
-      "stars": 26727,
-      "forks": 1918,
+      "stars": 26955,
+      "forks": 1930,
       "starsInPeriod": 4584
     },
     {
@@ -194,39 +194,39 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "programmingLanguage": "TypeScript",
-      "stars": 10943,
-      "forks": 1054,
+      "stars": 11009,
+      "forks": 1064,
       "starsInPeriod": 3610
     },
     {
       "rank": 20,
-      "fullName": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "programmingLanguage": "JavaScript",
-      "stars": 52103,
-      "forks": 10429,
-      "starsInPeriod": 25143
-    },
-    {
-      "rank": 21,
       "fullName": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "programmingLanguage": "Java",
-      "stars": 83774,
-      "forks": 9320,
+      "stars": 84574,
+      "forks": 9387,
       "starsInPeriod": 8451
     },
     {
+      "rank": 21,
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "programmingLanguage": "JavaScript",
+      "stars": 52961,
+      "forks": 10522,
+      "starsInPeriod": 25143
+    },
+    {
       "rank": 22,
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 96174,
-      "forks": 8421,
-      "starsInPeriod": 16862
+      "stars": 67901,
+      "forks": 11898,
+      "starsInPeriod": 13378
     }
   ]
 }
