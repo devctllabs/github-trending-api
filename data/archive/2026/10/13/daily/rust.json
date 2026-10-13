@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily-rollup",
+  "date": "2026-10-13",
+  "period": "daily",
+  "language": "rust",
+  "sourceUrl": "https://github.com/trending/rust",
+  "updatedAt": "2026-10-13T00:38:44Z",
+  "latestStatus": "complete",
+  "latestIssues": [],
+  "items": [
+    {
+      "fullName": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "programmingLanguage": "Rust",
+      "stars": 22009,
+      "forks": 3555,
+      "starsInPeriod": 4095,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-13T00:38:44Z",
+      "lastSeenAt": "2026-10-13T00:38:44Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "High performance coding agent harness written in rust",
+      "programmingLanguage": "Rust",
+      "stars": 20609,
+      "forks": 2399,
+      "starsInPeriod": 161,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-13T00:38:44Z",
+      "lastSeenAt": "2026-10-13T00:38:44Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "microsoft/litebox",
+      "url": "https://github.com/microsoft/litebox",
+      "description": "A security-focused library OS supporting kernel- and user-mode execution",
+      "programmingLanguage": "Rust",
+      "stars": 3124,
+      "forks": 165,
+      "starsInPeriod": 44,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-13T00:38:44Z",
+      "lastSeenAt": "2026-10-13T00:38:44Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "programmingLanguage": "Rust",
+      "stars": 29895,
+      "forks": 3991,
+      "starsInPeriod": 36,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-13T00:38:44Z",
+      "lastSeenAt": "2026-10-13T00:38:44Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "HakanSeven12/OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "programmingLanguage": "Rust",
+      "stars": 2899,
+      "forks": 318,
+      "starsInPeriod": 96,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-13T00:38:44Z",
+      "lastSeenAt": "2026-10-13T00:38:44Z",
+      "appearances": 1
+    }
+  ]
+}

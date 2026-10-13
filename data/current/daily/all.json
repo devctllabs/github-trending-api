@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-10-12T15:21:48Z",
+  "observedAt": "2026-10-13T00:38:24Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 139743,
-      "forks": 31831,
-      "starsInPeriod": 45495
+      "stars": 156769,
+      "forks": 36180,
+      "starsInPeriod": 45327
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "programmingLanguage": "JavaScript",
-      "stars": 52961,
-      "forks": 10522,
-      "starsInPeriod": 1903
+      "stars": 53659,
+      "forks": 10607,
+      "starsInPeriod": 1895
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "programmingLanguage": "TypeScript",
-      "stars": 26955,
-      "forks": 1930,
-      "starsInPeriod": 485
+      "stars": 27284,
+      "forks": 1944,
+      "starsInPeriod": 246
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 20492,
-      "forks": 3314,
-      "starsInPeriod": 4106
+      "stars": 22006,
+      "forks": 3555,
+      "starsInPeriod": 4095
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/open-webui/open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "programmingLanguage": "Python",
-      "stars": 154593,
-      "forks": 22620,
-      "starsInPeriod": 142
+      "stars": 154991,
+      "forks": 22639,
+      "starsInPeriod": 157
     },
     {
       "rank": 6,
@@ -64,19 +64,19 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "programmingLanguage": "HTML",
-      "stars": 52000,
-      "forks": 3277,
-      "starsInPeriod": 2100
+      "stars": 52597,
+      "forks": 3328,
+      "starsInPeriod": 2081
     },
     {
       "rank": 7,
       "fullName": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "programmingLanguage": "Jupyter Notebook",
-      "stars": 37167,
-      "forks": 3853,
-      "starsInPeriod": 886
+      "stars": 37525,
+      "forks": 3870,
+      "starsInPeriod": 879
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/microsoft/BitNet",
       "description": "Official inference framework for 1-bit LLMs",
       "programmingLanguage": "C++",
-      "stars": 40783,
-      "forks": 3799,
-      "starsInPeriod": 195
+      "stars": 40906,
+      "forks": 3807,
+      "starsInPeriod": 97
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "programmingLanguage": "Python",
-      "stars": 58522,
-      "forks": 9268,
-      "starsInPeriod": 705
+      "stars": 59106,
+      "forks": 9312,
+      "starsInPeriod": 626
     }
   ]
 }
