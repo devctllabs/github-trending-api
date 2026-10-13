@@ -4,12 +4,12 @@
     <title>GitHub Trending — weekly — all</title>
     <link>https://github.com/trending?since=weekly</link>
     <description>GitHub Trending — weekly — all</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:38:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:10:06 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>weekly</ght:period>
     <ght:language>all</ght:language>
-    <ght:observedAt>2026-10-13T00:38:27Z</ght:observedAt>
+    <ght:observedAt>2026-10-13T14:10:06Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,47 +17,59 @@
       <link>https://github.com/boykopovar/AnyPS5</link>
       <description>Tool for automatic PS5 executables porting to Linux and Windows</description>
       <guid isPermaLink="true">https://github.com/boykopovar/AnyPS5</guid>
-      <pubDate>Tue, 13 Oct 2026 00:38:27 GMT</pubDate>
+      <pubDate>Tue, 13 Oct 2026 14:10:06 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>C++</ght:programmingLanguage>
-      <ght:stars>32876</ght:stars>
-      <ght:forks>2853</ght:forks>
+      <ght:stars>34227</ght:stars>
+      <ght:forks>2961</ght:forks>
       <ght:starsInPeriod>27263</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>tester-army/e2e</title>
-      <link>https://github.com/tester-army/e2e</link>
-      <description>Next generation e2e testing framework for web and mobile apps.</description>
-      <guid isPermaLink="true">https://github.com/tester-army/e2e</guid>
-      <pubDate>Tue, 13 Oct 2026 00:38:27 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>9553</ght:stars>
-      <ght:forks>456</ght:forks>
-      <ght:starsInPeriod>5582</ght:starsInPeriod>
     </item>
     <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
       <description>Skills for Real Engineers. Straight from my .agents directory.</description>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Tue, 13 Oct 2026 00:38:27 GMT</pubDate>
-      <ght:rank>3</ght:rank>
+      <pubDate>Tue, 13 Oct 2026 14:10:06 GMT</pubDate>
+      <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Shell</ght:programmingLanguage>
-      <ght:stars>287958</ght:stars>
-      <ght:forks>24171</ght:forks>
+      <ght:stars>289006</ght:stars>
+      <ght:forks>24257</ght:forks>
       <ght:starsInPeriod>11139</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>tester-army/e2e</title>
+      <link>https://github.com/tester-army/e2e</link>
+      <description>Next generation e2e testing framework for web and mobile apps.</description>
+      <guid isPermaLink="true">https://github.com/tester-army/e2e</guid>
+      <pubDate>Tue, 13 Oct 2026 14:10:06 GMT</pubDate>
+      <ght:rank>3</ght:rank>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>9928</ght:stars>
+      <ght:forks>481</ght:forks>
+      <ght:starsInPeriod>5582</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>EpicGames/raddebugger</title>
+      <link>https://github.com/EpicGames/raddebugger</link>
+      <description>A native, user-mode, multi-process, graphical debugger.</description>
+      <guid isPermaLink="true">https://github.com/EpicGames/raddebugger</guid>
+      <pubDate>Tue, 13 Oct 2026 14:10:06 GMT</pubDate>
+      <ght:rank>4</ght:rank>
+      <ght:programmingLanguage>C</ght:programmingLanguage>
+      <ght:stars>8460</ght:stars>
+      <ght:forks>410</ght:forks>
+      <ght:starsInPeriod>845</ght:starsInPeriod>
     </item>
     <item>
       <title>heygen-com/hyperframes</title>
       <link>https://github.com/heygen-com/hyperframes</link>
       <description>Write HTML. Render video. Built for agents.</description>
       <guid isPermaLink="true">https://github.com/heygen-com/hyperframes</guid>
-      <pubDate>Tue, 13 Oct 2026 00:38:27 GMT</pubDate>
-      <ght:rank>4</ght:rank>
+      <pubDate>Tue, 13 Oct 2026 14:10:06 GMT</pubDate>
+      <ght:rank>5</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>61818</ght:stars>
-      <ght:forks>5534</ght:forks>
+      <ght:stars>62279</ght:stars>
+      <ght:forks>5583</ght:forks>
       <ght:starsInPeriod>4482</ght:starsInPeriod>
     </item>
     <item>
@@ -65,35 +77,23 @@
       <link>https://github.com/thedotmack/claude-mem</link>
       <description>Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More</description>
       <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
-      <pubDate>Tue, 13 Oct 2026 00:38:27 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>100090</ght:stars>
-      <ght:forks>8781</ght:forks>
-      <ght:starsInPeriod>3762</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>flutter/flutter</title>
-      <link>https://github.com/flutter/flutter</link>
-      <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
-      <guid isPermaLink="true">https://github.com/flutter/flutter</guid>
-      <pubDate>Tue, 13 Oct 2026 00:38:27 GMT</pubDate>
+      <pubDate>Tue, 13 Oct 2026 14:10:06 GMT</pubDate>
       <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Dart</ght:programmingLanguage>
-      <ght:stars>179961</ght:stars>
-      <ght:forks>33842</ght:forks>
-      <ght:starsInPeriod>806</ght:starsInPeriod>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>100296</ght:stars>
+      <ght:forks>8788</ght:forks>
+      <ght:starsInPeriod>3762</ght:starsInPeriod>
     </item>
     <item>
       <title>cursor/plugins</title>
       <link>https://github.com/cursor/plugins</link>
       <description>Cursor plugin specification and official plugins</description>
       <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
-      <pubDate>Tue, 13 Oct 2026 00:38:27 GMT</pubDate>
+      <pubDate>Tue, 13 Oct 2026 14:10:06 GMT</pubDate>
       <ght:rank>7</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>11076</ght:stars>
-      <ght:forks>1077</ght:forks>
+      <ght:stars>11162</ght:stars>
+      <ght:forks>1083</ght:forks>
       <ght:starsInPeriod>1144</ght:starsInPeriod>
     </item>
     <item>
@@ -101,48 +101,36 @@
       <link>https://github.com/earthtojake/text-to-cad</link>
       <description>Give your agent CAD superpowers.</description>
       <guid isPermaLink="true">https://github.com/earthtojake/text-to-cad</guid>
-      <pubDate>Tue, 13 Oct 2026 00:38:27 GMT</pubDate>
+      <pubDate>Tue, 13 Oct 2026 14:10:06 GMT</pubDate>
       <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>19639</ght:stars>
-      <ght:forks>1932</ght:forks>
+      <ght:stars>19851</ght:stars>
+      <ght:forks>1947</ght:forks>
       <ght:starsInPeriod>2441</ght:starsInPeriod>
     </item>
     <item>
-      <title>mvschwarz/openrig</title>
-      <link>https://github.com/mvschwarz/openrig</link>
-      <description>Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.</description>
-      <guid isPermaLink="true">https://github.com/mvschwarz/openrig</guid>
-      <pubDate>Tue, 13 Oct 2026 00:38:27 GMT</pubDate>
+      <title>flutter/flutter</title>
+      <link>https://github.com/flutter/flutter</link>
+      <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
+      <guid isPermaLink="true">https://github.com/flutter/flutter</guid>
+      <pubDate>Tue, 13 Oct 2026 14:10:06 GMT</pubDate>
       <ght:rank>9</ght:rank>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>7247</ght:stars>
-      <ght:forks>550</ght:forks>
-      <ght:starsInPeriod>2056</ght:starsInPeriod>
+      <ght:programmingLanguage>Dart</ght:programmingLanguage>
+      <ght:stars>180045</ght:stars>
+      <ght:forks>33907</ght:forks>
+      <ght:starsInPeriod>806</ght:starsInPeriod>
     </item>
     <item>
-      <title>morluto/rea</title>
-      <link>https://github.com/morluto/rea</link>
-      <description>Reverse engineer anything with agents, from app behavior down to native binaries.</description>
-      <guid isPermaLink="true">https://github.com/morluto/rea</guid>
-      <pubDate>Tue, 13 Oct 2026 00:38:27 GMT</pubDate>
+      <title>cathrynlavery/diagram-design</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <description>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
+      <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
+      <pubDate>Tue, 13 Oct 2026 14:10:06 GMT</pubDate>
       <ght:rank>10</ght:rank>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>156770</ght:stars>
-      <ght:forks>36180</ght:forks>
-      <ght:starsInPeriod>130471</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>DuarteSantos8/openGym</title>
-      <link>https://github.com/DuarteSantos8/openGym</link>
-      <description>Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.</description>
-      <guid isPermaLink="true">https://github.com/DuarteSantos8/openGym</guid>
-      <pubDate>Tue, 13 Oct 2026 00:38:27 GMT</pubDate>
-      <ght:rank>11</ght:rank>
-      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>10501</ght:stars>
-      <ght:forks>1281</ght:forks>
-      <ght:starsInPeriod>6621</ght:starsInPeriod>
+      <ght:programmingLanguage>HTML</ght:programmingLanguage>
+      <ght:stars>53562</ght:stars>
+      <ght:forks>3392</ght:forks>
+      <ght:starsInPeriod>9237</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

@@ -4,129 +4,189 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-13T00:38:53Z",
+  "observedAt": "2026-10-13T14:10:59Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "Armur-Ai/Pentest-Swarm-AI",
-      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
-      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
-      "programmingLanguage": "Go",
-      "stars": 2861,
-      "forks": 528,
-      "starsInPeriod": 50
-    },
-    {
-      "rank": 2,
-      "fullName": "lharries/whatsapp-mcp",
-      "url": "https://github.com/lharries/whatsapp-mcp",
-      "description": "WhatsApp MCP server",
-      "programmingLanguage": "Go",
-      "stars": 6560,
-      "forks": 1393,
-      "starsInPeriod": 24
-    },
-    {
-      "rank": 3,
-      "fullName": "BishopFox/sliver",
-      "url": "https://github.com/BishopFox/sliver",
-      "description": "Adversary Emulation Framework",
-      "programmingLanguage": "Go",
-      "stars": 12099,
-      "forks": 1621,
-      "starsInPeriod": 28
-    },
-    {
-      "rank": 4,
-      "fullName": "gtsteffaniak/filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "programmingLanguage": "Go",
-      "stars": 8682,
-      "forks": 473,
-      "starsInPeriod": 64
-    },
-    {
-      "rank": 5,
-      "fullName": "evcc-io/evcc",
-      "url": "https://github.com/evcc-io/evcc",
-      "description": "solar charging ☀️🚘",
-      "programmingLanguage": "Go",
-      "stars": 7356,
-      "forks": 1551,
-      "starsInPeriod": 7
-    },
-    {
-      "rank": 6,
-      "fullName": "jaegertracing/jaeger",
-      "url": "https://github.com/jaegertracing/jaeger",
-      "description": "CNCF Jaeger, a Distributed Tracing Platform",
-      "programmingLanguage": "Go",
-      "stars": 23285,
-      "forks": 3159,
-      "starsInPeriod": 10
-    },
-    {
-      "rank": 7,
-      "fullName": "p1neappleXpress/OpenFlux",
-      "url": "https://github.com/p1neappleXpress/OpenFlux",
-      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
-      "programmingLanguage": "Go",
-      "stars": 2090,
-      "forks": 182,
-      "starsInPeriod": 21
-    },
-    {
-      "rank": 8,
-      "fullName": "YouROK/TorrServer",
-      "url": "https://github.com/YouROK/TorrServer",
-      "description": "Torrent stream server",
-      "programmingLanguage": "Go",
-      "stars": 3122,
-      "forks": 370,
-      "starsInPeriod": 8
-    },
-    {
-      "rank": 9,
-      "fullName": "0xJacky/nginx-ui",
-      "url": "https://github.com/0xJacky/nginx-ui",
-      "description": "Yet another WebUI for Nginx",
-      "programmingLanguage": "Go",
-      "stars": 11601,
-      "forks": 897,
-      "starsInPeriod": 7
-    },
-    {
-      "rank": 10,
-      "fullName": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "programmingLanguage": "Go",
-      "stars": 182906,
-      "forks": 18244,
-      "starsInPeriod": 133
-    },
-    {
-      "rank": 11,
       "fullName": "Bennettxai/FounderOS",
       "url": "https://github.com/Bennettxai/FounderOS",
       "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
       "programmingLanguage": "Go",
-      "stars": 1092,
-      "forks": 308,
-      "starsInPeriod": 22
+      "stars": 1106,
+      "forks": 312,
+      "starsInPeriod": 35
+    },
+    {
+      "rank": 2,
+      "fullName": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "programmingLanguage": "Go",
+      "stars": 27819,
+      "forks": 4107,
+      "starsInPeriod": 2044
+    },
+    {
+      "rank": 3,
+      "fullName": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "programmingLanguage": "Go",
+      "stars": 33707,
+      "forks": 4485,
+      "starsInPeriod": 261
+    },
+    {
+      "rank": 4,
+      "fullName": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "programmingLanguage": "Go",
+      "stars": 52682,
+      "forks": 6866,
+      "starsInPeriod": 107
+    },
+    {
+      "rank": 5,
+      "fullName": "Armur-Ai/Pentest-Swarm-AI",
+      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
+      "programmingLanguage": "Go",
+      "stars": 2922,
+      "forks": 532,
+      "starsInPeriod": 74
+    },
+    {
+      "rank": 6,
+      "fullName": "vllm-project/semantic-router",
+      "url": "https://github.com/vllm-project/semantic-router",
+      "description": "An open, programmable decision layer for models and compute.",
+      "programmingLanguage": "Go",
+      "stars": 6139,
+      "forks": 1038,
+      "starsInPeriod": 32
+    },
+    {
+      "rank": 7,
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "programmingLanguage": "Go",
+      "stars": 46792,
+      "forks": 3399,
+      "starsInPeriod": 364
+    },
+    {
+      "rank": 8,
+      "fullName": "gtsteffaniak/filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "programmingLanguage": "Go",
+      "stars": 8692,
+      "forks": 474,
+      "starsInPeriod": 31
+    },
+    {
+      "rank": 9,
+      "fullName": "Project-HAMi/HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "description": "Heterogeneous GPU Sharing on Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 4738,
+      "forks": 863,
+      "starsInPeriod": 37
+    },
+    {
+      "rank": 10,
+      "fullName": "kedacore/keda",
+      "url": "https://github.com/kedacore/keda",
+      "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 10607,
+      "forks": 1545,
+      "starsInPeriod": 17
+    },
+    {
+      "rank": 11,
+      "fullName": "rasonyang/ai-native-callcenter",
+      "url": "https://github.com/rasonyang/ai-native-callcenter",
+      "description": "Self-hosted, API-first AI call center. Realtime voice bots answer every call, human agents take over without a drop. Full REST + SSE API with OpenAPI spec to embed in your product. FreeSWITCH + OpenAI Realtime / Qwen, one Go binary.",
+      "programmingLanguage": "Go",
+      "stars": 240,
+      "forks": 49,
+      "starsInPeriod": 7
     },
     {
       "rank": 12,
-      "fullName": "HEXUXIU/M365-Copilot2API",
-      "url": "https://github.com/HEXUXIU/M365-Copilot2API",
-      "description": "Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。",
+      "fullName": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "programmingLanguage": "Go",
-      "stars": 557,
-      "forks": 190,
-      "starsInPeriod": 15
+      "stars": 49895,
+      "forks": 10642,
+      "starsInPeriod": 19
+    },
+    {
+      "rank": 13,
+      "fullName": "maximhq/bifrost",
+      "url": "https://github.com/maximhq/bifrost",
+      "description": "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.",
+      "programmingLanguage": "Go",
+      "stars": 8751,
+      "forks": 1385,
+      "starsInPeriod": 25
+    },
+    {
+      "rank": 14,
+      "fullName": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "programmingLanguage": "Go",
+      "stars": 21409,
+      "forks": 2442,
+      "starsInPeriod": 20
+    },
+    {
+      "rank": 15,
+      "fullName": "larksuite/cli",
+      "url": "https://github.com/larksuite/cli",
+      "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
+      "programmingLanguage": "Go",
+      "stars": 17658,
+      "forks": 1391,
+      "starsInPeriod": 20
+    },
+    {
+      "rank": 16,
+      "fullName": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "programmingLanguage": "Go",
+      "stars": 22257,
+      "forks": 2607,
+      "starsInPeriod": 3
+    },
+    {
+      "rank": 17,
+      "fullName": "QuantumNous/new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
+      "programmingLanguage": "Go",
+      "stars": 49859,
+      "forks": 11992,
+      "starsInPeriod": 80
+    },
+    {
+      "rank": 18,
+      "fullName": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "programmingLanguage": "Go",
+      "stars": 12914,
+      "forks": 1191,
+      "starsInPeriod": 25
     }
   ]
 }

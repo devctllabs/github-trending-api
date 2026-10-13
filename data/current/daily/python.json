@@ -4,19 +4,19 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-10-13T00:38:34Z",
+  "observedAt": "2026-10-13T14:10:24Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 154991,
-      "forks": 22639,
-      "starsInPeriod": 157
+      "stars": 61798,
+      "forks": 6915,
+      "starsInPeriod": 1691
     },
     {
       "rank": 2,
@@ -24,19 +24,19 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "programmingLanguage": "Python",
-      "stars": 59106,
-      "forks": 9312,
-      "starsInPeriod": 626
+      "stars": 59924,
+      "forks": 9400,
+      "starsInPeriod": 1591
     },
     {
       "rank": 3,
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "fullName": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "programmingLanguage": "Python",
-      "stars": 60419,
-      "forks": 6776,
-      "starsInPeriod": 1691
+      "stars": 130461,
+      "forks": 20460,
+      "starsInPeriod": 404
     },
     {
       "rank": 4,
@@ -44,99 +44,129 @@
       "url": "https://github.com/hugohe3/ppt-master",
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "programmingLanguage": "Python",
-      "stars": 61096,
-      "forks": 4832,
+      "stars": 61547,
+      "forks": 4874,
       "starsInPeriod": 786
     },
     {
       "rank": 5,
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
+      "fullName": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "programmingLanguage": "Python",
-      "stars": 21218,
-      "forks": 1772,
-      "starsInPeriod": 43
+      "stars": 155532,
+      "forks": 22671,
+      "starsInPeriod": 1138
     },
     {
       "rank": 6,
-      "fullName": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
+      "fullName": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "programmingLanguage": "Python",
-      "stars": 488005,
-      "forks": 54099,
-      "starsInPeriod": 432
+      "stars": 27246,
+      "forks": 2861,
+      "starsInPeriod": 210
     },
     {
       "rank": 7,
+      "fullName": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "programmingLanguage": "Python",
+      "stars": 28841,
+      "forks": 3407,
+      "starsInPeriod": 122
+    },
+    {
+      "rank": 8,
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "programmingLanguage": "Python",
+      "stars": 64135,
+      "forks": 5596,
+      "starsInPeriod": 103
+    },
+    {
+      "rank": 9,
+      "fullName": "XiaoYouChR/Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "programmingLanguage": "Python",
+      "stars": 9833,
+      "forks": 655,
+      "starsInPeriod": 75
+    },
+    {
+      "rank": 10,
+      "fullName": "sgl-project/sglang-omni",
+      "url": "https://github.com/sgl-project/sglang-omni",
+      "description": "SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models.",
+      "programmingLanguage": "Python",
+      "stars": 1431,
+      "forks": 587,
+      "starsInPeriod": 42
+    },
+    {
+      "rank": 11,
+      "fullName": "NVIDIA/personaplex",
+      "url": "https://github.com/NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "programmingLanguage": "Python",
+      "stars": 11094,
+      "forks": 1519,
+      "starsInPeriod": 123
+    },
+    {
+      "rank": 12,
+      "fullName": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "programmingLanguage": "Python",
+      "stars": 37084,
+      "forks": 9521,
+      "starsInPeriod": 45
+    },
+    {
+      "rank": 13,
+      "fullName": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted ROM manager and player.",
+      "programmingLanguage": "Python",
+      "stars": 13596,
+      "forks": 770,
+      "starsInPeriod": 158
+    },
+    {
+      "rank": 14,
       "fullName": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "programmingLanguage": "Python",
-      "stars": 46374,
-      "forks": 16035,
+      "stars": 46489,
+      "forks": 16079,
       "starsInPeriod": 304
     },
     {
-      "rank": 8,
-      "fullName": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "rank": 15,
+      "fullName": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "programmingLanguage": "Python",
-      "stars": 11797,
-      "forks": 1338,
-      "starsInPeriod": 216
+      "stars": 76999,
+      "forks": 9074,
+      "starsInPeriod": 78
     },
     {
-      "rank": 9,
-      "fullName": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "rank": 16,
+      "fullName": "1Panel-dev/MaxKB",
+      "url": "https://github.com/1Panel-dev/MaxKB",
+      "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. 强大易用的开源企业级智能体平台。",
       "programmingLanguage": "Python",
-      "stars": 67555,
-      "forks": 8619,
-      "starsInPeriod": 635
-    },
-    {
-      "rank": 10,
-      "fullName": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "programmingLanguage": "Python",
-      "stars": 104740,
-      "forks": 32191,
-      "starsInPeriod": 529
-    },
-    {
-      "rank": 11,
-      "fullName": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "programmingLanguage": "Python",
-      "stars": 167603,
-      "forks": 34849,
-      "starsInPeriod": 95
-    },
-    {
-      "rank": 12,
-      "fullName": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "programmingLanguage": "Python",
-      "stars": 91417,
-      "forks": 38892,
-      "starsInPeriod": 39
-    },
-    {
-      "rank": 13,
-      "fullName": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "programmingLanguage": "Python",
-      "stars": 39180,
-      "forks": 4438,
-      "starsInPeriod": 290
+      "stars": 22965,
+      "forks": 3186,
+      "starsInPeriod": 12
     }
   ]
 }
