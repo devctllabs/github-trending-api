@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-13T22:44:14Z",
+  "observedAt": "2026-10-14T04:52:17Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/Bennettxai/FounderOS",
       "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
       "programmingLanguage": "Go",
-      "stars": 1121,
-      "forks": 314,
+      "stars": 1127,
+      "forks": 317,
       "starsInPeriod": 35
     },
     {
@@ -24,9 +24,9 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 28180,
-      "forks": 4184,
-      "starsInPeriod": 2044
+      "stars": 28374,
+      "forks": 4240,
+      "starsInPeriod": 1819
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 33757,
-      "forks": 4490,
-      "starsInPeriod": 261
+      "stars": 33832,
+      "forks": 4497,
+      "starsInPeriod": 251
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 52697,
-      "forks": 6873,
-      "starsInPeriod": 107
+      "stars": 52719,
+      "forks": 6874,
+      "starsInPeriod": 110
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "programmingLanguage": "Go",
-      "stars": 2941,
+      "stars": 2945,
       "forks": 540,
-      "starsInPeriod": 74
+      "starsInPeriod": 83
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/vllm-project/semantic-router",
       "description": "An open, programmable decision layer for models and compute.",
       "programmingLanguage": "Go",
-      "stars": 6140,
-      "forks": 1041,
-      "starsInPeriod": 32
+      "stars": 6147,
+      "forks": 1042,
+      "starsInPeriod": 30
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 46890,
-      "forks": 3403,
-      "starsInPeriod": 364
+      "stars": 46969,
+      "forks": 3411,
+      "starsInPeriod": 381
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/gtsteffaniak/filebrowser",
       "description": "📂 Web File Browser",
       "programmingLanguage": "Go",
-      "stars": 8697,
-      "forks": 476,
-      "starsInPeriod": 31
+      "stars": 8700,
+      "forks": 477,
+      "starsInPeriod": 30
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/Project-HAMi/HAMi",
       "description": "Heterogeneous GPU Sharing on Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 4743,
+      "stars": 4751,
       "forks": 863,
-      "starsInPeriod": 37
+      "starsInPeriod": 24
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/kedacore/keda",
       "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 10617,
-      "forks": 1546,
-      "starsInPeriod": 17
+      "stars": 10618,
+      "forks": 1547,
+      "starsInPeriod": 18
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/rasonyang/ai-native-callcenter",
       "description": "Self-hosted, API-first AI call center. Realtime voice bots answer every call, human agents take over without a drop. Full REST + SSE API with OpenAPI spec to embed in your product. FreeSWITCH + OpenAI Realtime / Qwen, one Go binary.",
       "programmingLanguage": "Go",
-      "stars": 243,
-      "forks": 51,
-      "starsInPeriod": 7
+      "stars": 252,
+      "forks": 52,
+      "starsInPeriod": 8
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/hashicorp/terraform",
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "programmingLanguage": "Go",
-      "stars": 49906,
+      "stars": 49909,
       "forks": 10644,
-      "starsInPeriod": 19
+      "starsInPeriod": 17
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/maximhq/bifrost",
       "description": "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.",
       "programmingLanguage": "Go",
-      "stars": 8761,
-      "forks": 1385,
-      "starsInPeriod": 25
+      "stars": 8764,
+      "forks": 1386,
+      "starsInPeriod": 31
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/livekit/livekit",
       "description": "End-to-end realtime stack for connecting humans and AI",
       "programmingLanguage": "Go",
-      "stars": 21420,
-      "forks": 2442,
-      "starsInPeriod": 20
+      "stars": 21428,
+      "forks": 2443,
+      "starsInPeriod": 22
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/larksuite/cli",
       "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
       "programmingLanguage": "Go",
-      "stars": 17659,
-      "forks": 1391,
-      "starsInPeriod": 20
+      "stars": 17661,
+      "forks": 1390,
+      "starsInPeriod": 19
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/redis/go-redis",
       "description": "Redis Go client",
       "programmingLanguage": "Go",
-      "stars": 22259,
+      "stars": 22261,
       "forks": 2608,
-      "starsInPeriod": 3
+      "starsInPeriod": 4
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/QuantumNous/new-api",
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "programmingLanguage": "Go",
-      "stars": 49874,
-      "forks": 11995,
-      "starsInPeriod": 80
+      "stars": 49902,
+      "forks": 12005,
+      "starsInPeriod": 81
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "programmingLanguage": "Go",
-      "stars": 12917,
-      "forks": 1191,
-      "starsInPeriod": 25
+      "stars": 12920,
+      "forks": 1192,
+      "starsInPeriod": 23
     }
   ]
 }
