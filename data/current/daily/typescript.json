@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-10-14T04:52:37Z",
+  "observedAt": "2026-10-14T11:50:58Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 214963,
-      "forks": 52971,
-      "starsInPeriod": 54679
+      "stars": 226203,
+      "forks": 56135,
+      "starsInPeriod": 41187
     },
     {
       "rank": 2,
@@ -24,49 +24,49 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "programmingLanguage": "TypeScript",
-      "stars": 28406,
-      "forks": 2000,
-      "starsInPeriod": 969
+      "stars": 28693,
+      "forks": 2017,
+      "starsInPeriod": 946
     },
     {
       "rank": 3,
+      "fullName": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "programmingLanguage": "TypeScript",
+      "stars": 74622,
+      "forks": 8874,
+      "starsInPeriod": 139
+    },
+    {
+      "rank": 4,
+      "fullName": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "programmingLanguage": "TypeScript",
+      "stars": 53515,
+      "forks": 6572,
+      "starsInPeriod": 83
+    },
+    {
+      "rank": 5,
       "fullName": "vercel-labs/skills",
       "url": "https://github.com/vercel-labs/skills",
       "description": "The open agent skills tool - npx skills",
       "programmingLanguage": "TypeScript",
-      "stars": 34664,
-      "forks": 2956,
-      "starsInPeriod": 190
-    },
-    {
-      "rank": 4,
-      "fullName": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "programmingLanguage": "TypeScript",
-      "stars": 23506,
-      "forks": 3109,
-      "starsInPeriod": 170
-    },
-    {
-      "rank": 5,
-      "fullName": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-      "programmingLanguage": "TypeScript",
-      "stars": 39977,
-      "forks": 4027,
-      "starsInPeriod": 179
+      "stars": 34833,
+      "forks": 2968,
+      "starsInPeriod": 732
     },
     {
       "rank": 6,
-      "fullName": "krillinai/OpenCreator",
-      "url": "https://github.com/krillinai/OpenCreator",
-      "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
+      "fullName": "vuejs/core",
+      "url": "https://github.com/vuejs/core",
+      "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
       "programmingLanguage": "TypeScript",
-      "stars": 12921,
-      "forks": 1377,
-      "starsInPeriod": 119
+      "stars": 54701,
+      "forks": 9254,
+      "starsInPeriod": 76
     },
     {
       "rank": 7,
@@ -74,109 +74,99 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "programmingLanguage": "TypeScript",
-      "stars": 62972,
-      "forks": 5649,
+      "stars": 63247,
+      "forks": 5673,
       "starsInPeriod": 873
     },
     {
       "rank": 8,
-      "fullName": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "fullName": "krillinai/OpenCreator",
+      "url": "https://github.com/krillinai/OpenCreator",
+      "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
       "programmingLanguage": "TypeScript",
-      "stars": 34808,
-      "forks": 4737,
-      "starsInPeriod": 780
+      "stars": 12953,
+      "forks": 1382,
+      "starsInPeriod": 119
     },
     {
       "rank": 9,
-      "fullName": "nab138/iloader",
-      "url": "https://github.com/nab138/iloader",
-      "description": "User friendly sideloader",
+      "fullName": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
       "programmingLanguage": "TypeScript",
-      "stars": 3926,
-      "forks": 283,
-      "starsInPeriod": 43
+      "stars": 94245,
+      "forks": 9266,
+      "starsInPeriod": 296
     },
     {
       "rank": 10,
+      "fullName": "nestjs/nest",
+      "url": "https://github.com/nestjs/nest",
+      "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+      "programmingLanguage": "TypeScript",
+      "stars": 76844,
+      "forks": 8585,
+      "starsInPeriod": 15
+    },
+    {
+      "rank": 11,
+      "fullName": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "programmingLanguage": "TypeScript",
+      "stars": 111519,
+      "forks": 16797,
+      "starsInPeriod": 98
+    },
+    {
+      "rank": 12,
+      "fullName": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "programmingLanguage": "TypeScript",
+      "stars": 92063,
+      "forks": 5883,
+      "starsInPeriod": 962
+    },
+    {
+      "rank": 13,
+      "fullName": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "programmingLanguage": "TypeScript",
+      "stars": 40031,
+      "forks": 4031,
+      "starsInPeriod": 179
+    },
+    {
+      "rank": 14,
+      "fullName": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "programmingLanguage": "TypeScript",
+      "stars": 193785,
+      "forks": 45467,
+      "starsInPeriod": 158
+    },
+    {
+      "rank": 15,
       "fullName": "apify/apify-mcp-server",
       "url": "https://github.com/apify/apify-mcp-server",
       "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
       "programmingLanguage": "TypeScript",
-      "stars": 11077,
-      "forks": 331,
+      "stars": 11145,
+      "forks": 337,
       "starsInPeriod": 200
     },
     {
-      "rank": 11,
-      "fullName": "ranxianglei/billion-context",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
-      "programmingLanguage": "TypeScript",
-      "stars": 1185,
-      "forks": 100,
-      "starsInPeriod": 82
-    },
-    {
-      "rank": 12,
-      "fullName": "Tencent/teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "description": "Make Every Team AI Native",
-      "programmingLanguage": "TypeScript",
-      "stars": 5434,
-      "forks": 426,
-      "starsInPeriod": 37
-    },
-    {
-      "rank": 13,
-      "fullName": "rmyndharis/OpenWA",
-      "url": "https://github.com/rmyndharis/OpenWA",
-      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-      "programmingLanguage": "TypeScript",
-      "stars": 15446,
-      "forks": 3616,
-      "starsInPeriod": 70
-    },
-    {
-      "rank": 14,
-      "fullName": "supabase/agent-skills",
-      "url": "https://github.com/supabase/agent-skills",
-      "description": "Agent Skills to help developers using AI agents with Supabase",
-      "programmingLanguage": "TypeScript",
-      "stars": 2818,
-      "forks": 237,
-      "starsInPeriod": 27
-    },
-    {
-      "rank": 15,
-      "fullName": "CopilotKit/OpenIntelligentUI",
-      "url": "https://github.com/CopilotKit/OpenIntelligentUI",
-      "description": "Open-Source Generative UI Framework",
-      "programmingLanguage": "TypeScript",
-      "stars": 3078,
-      "forks": 347,
-      "starsInPeriod": 174
-    },
-    {
       "rank": 16,
-      "fullName": "Twigpine/openclaude",
-      "url": "https://github.com/Twigpine/openclaude",
-      "description": "runs anywhere. uses anything",
+      "fullName": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
       "programmingLanguage": "TypeScript",
-      "stars": 33836,
-      "forks": 9117,
-      "starsInPeriod": 59
-    },
-    {
-      "rank": 17,
-      "fullName": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "programmingLanguage": "TypeScript",
-      "stars": 29401,
-      "forks": 2590,
-      "starsInPeriod": 45
+      "stars": 213396,
+      "forks": 28623,
+      "starsInPeriod": 341
     }
   ]
 }

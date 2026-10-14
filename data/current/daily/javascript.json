@@ -4,69 +4,89 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-10-14T04:52:27Z",
+  "observedAt": "2026-10-14T11:50:47Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
+      "fullName": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "programmingLanguage": "JavaScript",
+      "stars": 251163,
+      "forks": 51503,
+      "starsInPeriod": 210
+    },
+    {
+      "rank": 2,
+      "fullName": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "programmingLanguage": "JavaScript",
+      "stars": 22143,
+      "forks": 1322,
+      "starsInPeriod": 532
+    },
+    {
+      "rank": 3,
       "fullName": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "programmingLanguage": "JavaScript",
-      "stars": 55698,
-      "forks": 10871,
-      "starsInPeriod": 1961
-    },
-    {
-      "rank": 2,
-      "fullName": "Javis603/token-monitor",
-      "url": "https://github.com/Javis603/token-monitor",
-      "description": "Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.",
-      "programmingLanguage": "JavaScript",
-      "stars": 3049,
-      "forks": 286,
-      "starsInPeriod": 77
-    },
-    {
-      "rank": 3,
-      "fullName": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "programmingLanguage": "JavaScript",
-      "stars": 17337,
-      "forks": 934,
-      "starsInPeriod": 101
+      "stars": 56142,
+      "forks": 10923,
+      "starsInPeriod": 1667
     },
     {
       "rank": 4,
-      "fullName": "poloclub/transformer-explainer",
-      "url": "https://github.com/poloclub/transformer-explainer",
-      "description": "Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization",
+      "fullName": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 8960,
-      "forks": 1024,
-      "starsInPeriod": 32
+      "stars": 54658,
+      "forks": 8105,
+      "starsInPeriod": 191
     },
     {
       "rank": 5,
-      "fullName": "truelockmc/streambert",
-      "url": "https://github.com/truelockmc/streambert",
-      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+      "fullName": "plugin87/ux-ui-agent-skills",
+      "url": "https://github.com/plugin87/ux-ui-agent-skills",
+      "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
       "programmingLanguage": "JavaScript",
-      "stars": 6265,
-      "forks": 593,
-      "starsInPeriod": 28
+      "stars": 1714,
+      "forks": 179,
+      "starsInPeriod": 83
     },
     {
       "rank": 6,
-      "fullName": "chaolucky18/xuexitongScript",
-      "url": "https://github.com/chaolucky18/xuexitongScript",
-      "description": "学习通自动刷课脚本",
+      "fullName": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
       "programmingLanguage": "JavaScript",
-      "stars": 2890,
-      "forks": 375,
-      "starsInPeriod": 45
+      "stars": 40000,
+      "forks": 5116,
+      "starsInPeriod": 37
+    },
+    {
+      "rank": 7,
+      "fullName": "sandeco/reversa",
+      "url": "https://github.com/sandeco/reversa",
+      "description": "Transform legacy systems into executable specifications for AI coding agents",
+      "programmingLanguage": "JavaScript",
+      "stars": 1738,
+      "forks": 438,
+      "starsInPeriod": 15
+    },
+    {
+      "rank": 8,
+      "fullName": "jquery/jquery",
+      "url": "https://github.com/jquery/jquery",
+      "description": "jQuery JavaScript Library",
+      "programmingLanguage": "JavaScript",
+      "stars": 59917,
+      "forks": 20515,
+      "starsInPeriod": 36
     }
   ]
 }
