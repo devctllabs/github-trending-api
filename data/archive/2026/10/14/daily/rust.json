@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-10-14T17:09:12Z",
+  "updatedAt": "2026-10-14T21:40:28Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,56 +14,56 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 27486,
-      "forks": 4317,
+      "stars": 27775,
+      "forks": 4356,
       "starsInPeriod": 3172,
       "bestRank": 1,
       "latestRank": 5,
       "firstSeenAt": "2026-10-14T04:52:07Z",
-      "lastSeenAt": "2026-10-14T17:09:12Z",
-      "appearances": 3
+      "lastSeenAt": "2026-10-14T21:40:28Z",
+      "appearances": 4
     },
     {
       "fullName": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "programmingLanguage": "Rust",
-      "stars": 119864,
-      "forks": 18687,
+      "stars": 119966,
+      "forks": 18700,
       "starsInPeriod": 205,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-14T11:50:27Z",
-      "lastSeenAt": "2026-10-14T17:09:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-14T21:40:28Z",
+      "appearances": 3
     },
     {
       "fullName": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "programmingLanguage": "Rust",
-      "stars": 97937,
-      "forks": 12839,
+      "stars": 97978,
+      "forks": 12843,
       "starsInPeriod": 192,
       "bestRank": 2,
       "latestRank": 4,
       "firstSeenAt": "2026-10-14T04:52:07Z",
-      "lastSeenAt": "2026-10-14T17:09:12Z",
-      "appearances": 3
+      "lastSeenAt": "2026-10-14T21:40:28Z",
+      "appearances": 4
     },
     {
       "fullName": "astral-sh/ruff",
       "url": "https://github.com/astral-sh/ruff",
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 50073,
-      "forks": 2512,
+      "stars": 50085,
+      "forks": 2516,
       "starsInPeriod": 54,
       "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-10-14T11:50:27Z",
-      "lastSeenAt": "2026-10-14T17:09:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-14T21:40:28Z",
+      "appearances": 3
     },
     {
       "fullName": "rtk-ai/rtk",
@@ -84,14 +84,14 @@
       "url": "https://github.com/vosen/ZLUDA",
       "description": "CUDA on non-NVIDIA GPUs",
       "programmingLanguage": "Rust",
-      "stars": 15051,
+      "stars": 15052,
       "forks": 955,
       "starsInPeriod": 72,
       "bestRank": 3,
       "latestRank": 3,
       "firstSeenAt": "2026-10-14T11:50:27Z",
-      "lastSeenAt": "2026-10-14T17:09:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-14T21:40:28Z",
+      "appearances": 3
     },
     {
       "fullName": "1jehuang/jcode",
@@ -140,14 +140,14 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 26661,
-      "forks": 2408,
+      "stars": 26670,
+      "forks": 2410,
       "starsInPeriod": 348,
       "bestRank": 6,
       "latestRank": 6,
       "firstSeenAt": "2026-10-14T11:50:27Z",
-      "lastSeenAt": "2026-10-14T17:09:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-14T21:40:28Z",
+      "appearances": 3
     },
     {
       "fullName": "HakanSeven12/OpenCADStudio",
@@ -168,70 +168,70 @@
       "url": "https://github.com/tauri-apps/tauri",
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "programmingLanguage": "Rust",
-      "stars": 111892,
-      "forks": 4080,
+      "stars": 111902,
+      "forks": 4083,
       "starsInPeriod": 64,
       "bestRank": 7,
       "latestRank": 7,
       "firstSeenAt": "2026-10-14T11:50:27Z",
-      "lastSeenAt": "2026-10-14T17:09:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-14T21:40:28Z",
+      "appearances": 3
     },
     {
       "fullName": "tokio-rs/tokio",
       "url": "https://github.com/tokio-rs/tokio",
       "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
       "programmingLanguage": "Rust",
-      "stars": 33411,
-      "forks": 5943,
+      "stars": 33413,
+      "forks": 5957,
       "starsInPeriod": 15,
       "bestRank": 8,
       "latestRank": 8,
       "firstSeenAt": "2026-10-14T11:50:27Z",
-      "lastSeenAt": "2026-10-14T17:09:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-14T21:40:28Z",
+      "appearances": 3
     },
     {
       "fullName": "astral-sh/uv",
       "url": "https://github.com/astral-sh/uv",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 90764,
-      "forks": 3658,
+      "stars": 90775,
+      "forks": 3662,
       "starsInPeriod": 88,
       "bestRank": 9,
       "latestRank": 9,
       "firstSeenAt": "2026-10-14T11:50:27Z",
-      "lastSeenAt": "2026-10-14T17:09:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-14T21:40:28Z",
+      "appearances": 3
     },
     {
       "fullName": "openai/codex",
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "programmingLanguage": "Rust",
-      "stars": 129211,
-      "forks": 20306,
+      "stars": 129228,
+      "forks": 20315,
       "starsInPeriod": 204,
       "bestRank": 10,
       "latestRank": 10,
       "firstSeenAt": "2026-10-14T11:50:27Z",
-      "lastSeenAt": "2026-10-14T17:09:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-14T21:40:28Z",
+      "appearances": 3
     },
     {
       "fullName": "lbjlaq/Antigravity-Manager",
       "url": "https://github.com/lbjlaq/Antigravity-Manager",
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "programmingLanguage": "Rust",
-      "stars": 32215,
+      "stars": 32223,
       "forks": 3481,
       "starsInPeriod": 59,
       "bestRank": 11,
       "latestRank": 11,
       "firstSeenAt": "2026-10-14T11:50:27Z",
-      "lastSeenAt": "2026-10-14T17:09:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-14T21:40:28Z",
+      "appearances": 3
     }
   ]
 }
