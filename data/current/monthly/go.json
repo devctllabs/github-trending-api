@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-10-15T11:27:34Z",
+  "observedAt": "2026-10-15T17:00:29Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 5201,
-      "forks": 571,
+      "stars": 5212,
+      "forks": 573,
       "starsInPeriod": 3286
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 47292,
-      "forks": 3444,
+      "stars": 47332,
+      "forks": 3445,
       "starsInPeriod": 23047
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 34131,
-      "forks": 4546,
+      "stars": 34177,
+      "forks": 4554,
       "starsInPeriod": 11112
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 78005,
+      "stars": 78022,
       "forks": 5142,
       "starsInPeriod": 2460
     },
@@ -54,8 +54,8 @@
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "programmingLanguage": "Go",
-      "stars": 17021,
-      "forks": 1627,
+      "stars": 17028,
+      "forks": 1628,
       "starsInPeriod": 2733
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/Gentleman-Programming/engram",
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "programmingLanguage": "Go",
-      "stars": 7210,
-      "forks": 740,
+      "stars": 7223,
+      "forks": 742,
       "starsInPeriod": 640
     },
     {
@@ -75,7 +75,7 @@
       "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
       "programmingLanguage": "Go",
       "stars": 24291,
-      "forks": 1850,
+      "forks": 1851,
       "starsInPeriod": 82
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 30230,
-      "forks": 4516,
+      "stars": 30366,
+      "forks": 4541,
       "starsInPeriod": 4847
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/docker/docker-agent",
       "description": "AI Agent Builder and Runtime by Docker Engineering",
       "programmingLanguage": "Go",
-      "stars": 4505,
-      "forks": 522,
+      "stars": 4512,
+      "forks": 521,
       "starsInPeriod": 1180
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://github.com/guohuiyuan/go-music-dl",
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "programmingLanguage": "Go",
-      "stars": 5353,
+      "stars": 5365,
       "forks": 514,
       "starsInPeriod": 1101
     },
@@ -114,8 +114,8 @@
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "programmingLanguage": "Go",
-      "stars": 5383,
-      "forks": 253,
+      "stars": 5391,
+      "forks": 255,
       "starsInPeriod": 1670
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://github.com/asciimoo/hister",
       "description": "Your own search engine",
       "programmingLanguage": "Go",
-      "stars": 6043,
+      "stars": 6056,
       "forks": 271,
       "starsInPeriod": 2325
     },
@@ -134,7 +134,7 @@
       "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "programmingLanguage": "Go",
-      "stars": 2973,
+      "stars": 2977,
       "forks": 546,
       "starsInPeriod": 484
     },
@@ -144,7 +144,7 @@
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 28522,
+      "stars": 28526,
       "forks": 2644,
       "starsInPeriod": 703
     },
@@ -155,7 +155,7 @@
       "description": "GitHub Agentic Workflows",
       "programmingLanguage": "Go",
       "stars": 5399,
-      "forks": 585,
+      "forks": 584,
       "starsInPeriod": 291
     },
     {
@@ -164,8 +164,8 @@
       "url": "https://github.com/usememos/memos",
       "description": "A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.",
       "programmingLanguage": "Go",
-      "stars": 63803,
-      "forks": 4862,
+      "stars": 63811,
+      "forks": 4863,
       "starsInPeriod": 907
     },
     {
@@ -174,8 +174,8 @@
       "url": "https://github.com/oauth2-proxy/oauth2-proxy",
       "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
       "programmingLanguage": "Go",
-      "stars": 15190,
-      "forks": 2233,
+      "stars": 15194,
+      "forks": 2234,
       "starsInPeriod": 251
     },
     {
@@ -184,8 +184,8 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139188,
-      "forks": 22367,
+      "stars": 139193,
+      "forks": 22378,
       "starsInPeriod": 1299
     },
     {
@@ -194,7 +194,7 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38433,
+      "stars": 38440,
       "forks": 764,
       "starsInPeriod": 573
     },
@@ -204,8 +204,8 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 183227,
-      "forks": 18291,
+      "stars": 183266,
+      "forks": 18301,
       "starsInPeriod": 3055
     },
     {
@@ -214,8 +214,8 @@
       "url": "https://github.com/zitadel/zitadel",
       "description": "ZITADEL - Identity infrastructure, simplified for you.",
       "programmingLanguage": "Go",
-      "stars": 15317,
-      "forks": 1372,
+      "stars": 15318,
+      "forks": 1373,
       "starsInPeriod": 328
     },
     {
@@ -224,7 +224,7 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 38360,
+      "stars": 38361,
       "forks": 5873,
       "starsInPeriod": 376
     },
@@ -234,7 +234,7 @@
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "programmingLanguage": "Go",
-      "stars": 8456,
+      "stars": 8458,
       "forks": 631,
       "starsInPeriod": 1119
     }
