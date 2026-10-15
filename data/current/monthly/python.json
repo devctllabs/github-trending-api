@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-10-15T04:36:53Z",
+  "observedAt": "2026-10-15T11:27:14Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 39883,
-      "forks": 5611,
+      "stars": 39930,
+      "forks": 5617,
       "starsInPeriod": 5122
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 49753,
-      "forks": 6068,
+      "stars": 49892,
+      "forks": 6075,
       "starsInPeriod": 26274
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 66900,
-      "forks": 7363,
+      "stars": 67787,
+      "forks": 7430,
       "starsInPeriod": 37181
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 29705,
-      "forks": 3363,
+      "stars": 29737,
+      "forks": 3368,
       "starsInPeriod": 5727
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 9360,
-      "forks": 1162,
+      "stars": 9465,
+      "forks": 1176,
       "starsInPeriod": 7717
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 69222,
-      "forks": 12125,
+      "stars": 69437,
+      "forks": 12178,
       "starsInPeriod": 14754
     },
     {
@@ -74,79 +74,79 @@
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "programmingLanguage": "Python",
-      "stars": 39129,
+      "stars": 39132,
       "forks": 3399,
       "starsInPeriod": 3618
     },
     {
       "rank": 8,
-      "fullName": "google/artemis",
-      "url": "https://github.com/google/artemis",
-      "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.",
-      "programmingLanguage": "Python",
-      "stars": 11718,
-      "forks": 1212,
-      "starsInPeriod": 6529
-    },
-    {
-      "rank": 9,
       "fullName": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 97443,
-      "forks": 8535,
+      "stars": 97557,
+      "forks": 8544,
       "starsInPeriod": 16930
     },
     {
-      "rank": 10,
+      "rank": 9,
       "fullName": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "programmingLanguage": "Python",
-      "stars": 32654,
+      "stars": 32662,
       "forks": 3763,
       "starsInPeriod": 2055
     },
     {
-      "rank": 11,
+      "rank": 10,
       "fullName": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 20223,
+      "stars": 20244,
       "forks": 1776,
       "starsInPeriod": 3089
     },
     {
+      "rank": 11,
+      "fullName": "google/artemis",
+      "url": "https://github.com/google/artemis",
+      "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.",
+      "programmingLanguage": "Python",
+      "stars": 11739,
+      "forks": 1216,
+      "starsInPeriod": 6529
+    },
+    {
       "rank": 12,
+      "fullName": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "programmingLanguage": "Python",
+      "stars": 52908,
+      "forks": 4795,
+      "starsInPeriod": 3089
+    },
+    {
+      "rank": 13,
       "fullName": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "programmingLanguage": "Python",
-      "stars": 87664,
-      "forks": 9008,
+      "stars": 87770,
+      "forks": 9017,
       "starsInPeriod": 6913
     },
     {
-      "rank": 13,
-      "fullName": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "programmingLanguage": "Python",
-      "stars": 5301,
-      "forks": 426,
-      "starsInPeriod": 3915
-    },
-    {
       "rank": 14,
-      "fullName": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "fullName": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
       "programmingLanguage": "Python",
-      "stars": 91507,
-      "forks": 38930,
-      "starsInPeriod": 1334
+      "stars": 20554,
+      "forks": 2030,
+      "starsInPeriod": 4831
     },
     {
       "rank": 15,
@@ -154,69 +154,59 @@
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "programmingLanguage": "Python",
-      "stars": 104687,
-      "forks": 32495,
+      "stars": 104692,
+      "forks": 32500,
       "starsInPeriod": 2288
     },
     {
       "rank": 16,
-      "fullName": "BerriAI/litellm",
-      "url": "https://github.com/BerriAI/litellm",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "fullName": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "programmingLanguage": "Python",
-      "stars": 61276,
-      "forks": 12351,
-      "starsInPeriod": 2719
+      "stars": 5311,
+      "forks": 429,
+      "starsInPeriod": 3915
     },
     {
       "rank": 17,
-      "fullName": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "programmingLanguage": "Python",
-      "stars": 52651,
-      "forks": 4780,
-      "starsInPeriod": 3089
-    },
-    {
-      "rank": 18,
-      "fullName": "docling-project/docling",
-      "url": "https://github.com/docling-project/docling",
-      "description": "Get your documents ready for gen AI",
-      "programmingLanguage": "Python",
-      "stars": 68898,
-      "forks": 5082,
-      "starsInPeriod": 2628
-    },
-    {
-      "rank": 19,
       "fullName": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "programmingLanguage": "Python",
-      "stars": 5315,
-      "forks": 745,
+      "stars": 5321,
+      "forks": 746,
       "starsInPeriod": 1531
     },
     {
-      "rank": 20,
-      "fullName": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+      "rank": 18,
+      "fullName": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "programmingLanguage": "Python",
-      "stars": 32313,
-      "forks": 3366,
-      "starsInPeriod": 1747
+      "stars": 40827,
+      "forks": 4335,
+      "starsInPeriod": 1277
     },
     {
-      "rank": 21,
-      "fullName": "tile-ai/tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "rank": 19,
+      "fullName": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
       "programmingLanguage": "Python",
-      "stars": 8611,
-      "forks": 882,
-      "starsInPeriod": 1226
+      "stars": 61303,
+      "forks": 12368,
+      "starsInPeriod": 2719
+    },
+    {
+      "rank": 20,
+      "fullName": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "programmingLanguage": "Python",
+      "stars": 68914,
+      "forks": 5085,
+      "starsInPeriod": 2628
     }
   ]
 }

@@ -4,12 +4,12 @@
     <title>GitHub Trending — weekly — go</title>
     <link>https://github.com/trending/go?since=weekly</link>
     <description>GitHub Trending — weekly — go</description>
-    <lastBuildDate>Thu, 15 Oct 2026 04:37:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:27:30 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>weekly</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-10-15T04:37:09Z</ght:observedAt>
+    <ght:observedAt>2026-10-15T11:27:30Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,23 +17,35 @@
       <link>https://github.com/vxcontrol/pentagi</link>
       <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
       <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>29750</ght:stars>
-      <ght:forks>4465</ght:forks>
+      <ght:stars>30230</ght:stars>
+      <ght:forks>4516</ght:forks>
       <ght:starsInPeriod>3781</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>gtsteffaniak/filebrowser</title>
+      <link>https://github.com/gtsteffaniak/filebrowser</link>
+      <description>📂 Web File Browser</description>
+      <guid isPermaLink="true">https://github.com/gtsteffaniak/filebrowser</guid>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
+      <ght:rank>2</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>8761</ght:stars>
+      <ght:forks>485</ght:forks>
+      <ght:starsInPeriod>202</ght:starsInPeriod>
     </item>
     <item>
       <title>Bennettxai/FounderOS</title>
       <link>https://github.com/Bennettxai/FounderOS</link>
       <description>An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.</description>
       <guid isPermaLink="true">https://github.com/Bennettxai/FounderOS</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
-      <ght:rank>2</ght:rank>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
+      <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1146</ght:stars>
-      <ght:forks>323</ght:forks>
+      <ght:stars>1149</ght:stars>
+      <ght:forks>324</ght:forks>
       <ght:starsInPeriod>149</ght:starsInPeriod>
     </item>
     <item>
@@ -41,59 +53,47 @@
       <link>https://github.com/Armur-Ai/Pentest-Swarm-AI</link>
       <description>Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.</description>
       <guid isPermaLink="true">https://github.com/Armur-Ai/Pentest-Swarm-AI</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
-      <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>2969</ght:stars>
-      <ght:forks>545</ght:forks>
-      <ght:starsInPeriod>211</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>gtsteffaniak/filebrowser</title>
-      <link>https://github.com/gtsteffaniak/filebrowser</link>
-      <description>📂 Web File Browser</description>
-      <guid isPermaLink="true">https://github.com/gtsteffaniak/filebrowser</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
       <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>8755</ght:stars>
-      <ght:forks>484</ght:forks>
-      <ght:starsInPeriod>202</ght:starsInPeriod>
+      <ght:stars>2973</ght:stars>
+      <ght:forks>546</ght:forks>
+      <ght:starsInPeriod>211</ght:starsInPeriod>
     </item>
     <item>
       <title>docker/docker-agent</title>
       <link>https://github.com/docker/docker-agent</link>
       <description>AI Agent Builder and Runtime by Docker Engineering</description>
       <guid isPermaLink="true">https://github.com/docker/docker-agent</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
       <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>4498</ght:stars>
+      <ght:stars>4505</ght:stars>
       <ght:forks>522</ght:forks>
       <ght:starsInPeriod>1116</ght:starsInPeriod>
     </item>
     <item>
-      <title>eugenioenko/ttt</title>
-      <link>https://github.com/eugenioenko/ttt</link>
-      <description>TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.</description>
-      <guid isPermaLink="true">https://github.com/eugenioenko/ttt</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
+      <title>0xJacky/nginx-ui</title>
+      <link>https://github.com/0xJacky/nginx-ui</link>
+      <description>Yet another WebUI for Nginx</description>
+      <guid isPermaLink="true">https://github.com/0xJacky/nginx-ui</guid>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
       <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>577</ght:stars>
-      <ght:forks>60</ght:forks>
-      <ght:starsInPeriod>180</ght:starsInPeriod>
+      <ght:stars>11625</ght:stars>
+      <ght:forks>902</ght:forks>
+      <ght:starsInPeriod>53</ght:starsInPeriod>
     </item>
     <item>
       <title>palemoky/chinese-poetry-api</title>
       <link>https://github.com/palemoky/chinese-poetry-api</link>
       <description>📜 诗泉：高性能中国古诗词 API 服务</description>
       <guid isPermaLink="true">https://github.com/palemoky/chinese-poetry-api</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
       <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>3384</ght:stars>
-      <ght:forks>446</ght:forks>
+      <ght:stars>3389</ght:stars>
+      <ght:forks>448</ght:forks>
       <ght:starsInPeriod>463</ght:starsInPeriod>
     </item>
     <item>
@@ -101,70 +101,46 @@
       <link>https://github.com/ollama/ollama</link>
       <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
       <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
       <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>183194</ght:stars>
-      <ght:forks>18281</ght:forks>
+      <ght:stars>183227</ght:stars>
+      <ght:forks>18291</ght:forks>
       <ght:starsInPeriod>1019</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>llm-d/llm-d-router</title>
-      <link>https://github.com/llm-d/llm-d-router</link>
-      <description>llm-d Router: The intelligent entry point for inference requests</description>
-      <guid isPermaLink="true">https://github.com/llm-d/llm-d-router</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
-      <ght:rank>9</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>404</ght:stars>
-      <ght:forks>447</ght:forks>
-      <ght:starsInPeriod>26</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>0xJacky/nginx-ui</title>
-      <link>https://github.com/0xJacky/nginx-ui</link>
-      <description>Yet another WebUI for Nginx</description>
-      <guid isPermaLink="true">https://github.com/0xJacky/nginx-ui</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
-      <ght:rank>10</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>11619</ght:stars>
-      <ght:forks>901</ght:forks>
-      <ght:starsInPeriod>53</ght:starsInPeriod>
     </item>
     <item>
       <title>oauth2-proxy/oauth2-proxy</title>
       <link>https://github.com/oauth2-proxy/oauth2-proxy</link>
       <description>A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</description>
       <guid isPermaLink="true">https://github.com/oauth2-proxy/oauth2-proxy</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
-      <ght:rank>11</ght:rank>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
+      <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>15188</ght:stars>
-      <ght:forks>2231</ght:forks>
+      <ght:stars>15190</ght:stars>
+      <ght:forks>2233</ght:forks>
       <ght:starsInPeriod>137</ght:starsInPeriod>
     </item>
     <item>
-      <title>docker/compose</title>
-      <link>https://github.com/docker/compose</link>
-      <description>Define and run multi-container applications with Docker</description>
-      <guid isPermaLink="true">https://github.com/docker/compose</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
-      <ght:rank>12</ght:rank>
+      <title>llm-d/llm-d-router</title>
+      <link>https://github.com/llm-d/llm-d-router</link>
+      <description>llm-d Router: The intelligent entry point for inference requests</description>
+      <guid isPermaLink="true">https://github.com/llm-d/llm-d-router</guid>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
+      <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>38359</ght:stars>
-      <ght:forks>5872</ght:forks>
-      <ght:starsInPeriod>153</ght:starsInPeriod>
+      <ght:stars>405</ght:stars>
+      <ght:forks>449</ght:forks>
+      <ght:starsInPeriod>26</ght:starsInPeriod>
     </item>
     <item>
       <title>BishopFox/sliver</title>
       <link>https://github.com/BishopFox/sliver</link>
       <description>Adversary Emulation Framework</description>
       <guid isPermaLink="true">https://github.com/BishopFox/sliver</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
-      <ght:rank>13</ght:rank>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
+      <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>12123</ght:stars>
+      <ght:stars>12125</ght:stars>
       <ght:forks>1626</ght:forks>
       <ght:starsInPeriod>138</ght:starsInPeriod>
     </item>
@@ -173,24 +149,48 @@
       <link>https://github.com/lharries/whatsapp-mcp</link>
       <description>WhatsApp MCP server</description>
       <guid isPermaLink="true">https://github.com/lharries/whatsapp-mcp</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
-      <ght:rank>14</ght:rank>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
+      <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6613</ght:stars>
-      <ght:forks>1408</ght:forks>
+      <ght:stars>6617</ght:stars>
+      <ght:forks>1409</ght:forks>
       <ght:starsInPeriod>204</ght:starsInPeriod>
     </item>
     <item>
-      <title>jaegertracing/jaeger</title>
-      <link>https://github.com/jaegertracing/jaeger</link>
-      <description>CNCF Jaeger, a Distributed Tracing Platform</description>
-      <guid isPermaLink="true">https://github.com/jaegertracing/jaeger</guid>
-      <pubDate>Thu, 15 Oct 2026 04:37:09 GMT</pubDate>
+      <title>docker/compose</title>
+      <link>https://github.com/docker/compose</link>
+      <description>Define and run multi-container applications with Docker</description>
+      <guid isPermaLink="true">https://github.com/docker/compose</guid>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
+      <ght:rank>13</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>38360</ght:stars>
+      <ght:forks>5873</ght:forks>
+      <ght:starsInPeriod>153</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>QuantumNous/new-api</title>
+      <link>https://github.com/QuantumNous/new-api</link>
+      <description>A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.</description>
+      <guid isPermaLink="true">https://github.com/QuantumNous/new-api</guid>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
+      <ght:rank>14</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>50010</ght:stars>
+      <ght:forks>12031</ght:forks>
+      <ght:starsInPeriod>656</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>google/agentmesh</title>
+      <link>https://github.com/google/agentmesh</link>
+      <description>Agent Mesh</description>
+      <guid isPermaLink="true">https://github.com/google/agentmesh</guid>
+      <pubDate>Thu, 15 Oct 2026 11:27:30 GMT</pubDate>
       <ght:rank>15</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>23297</ght:stars>
-      <ght:forks>3165</ght:forks>
-      <ght:starsInPeriod>38</ght:starsInPeriod>
+      <ght:stars>1069</ght:stars>
+      <ght:forks>175</ght:forks>
+      <ght:starsInPeriod>113</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

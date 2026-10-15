@@ -4,119 +4,119 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-15T04:36:56Z",
+  "observedAt": "2026-10-15T11:27:17Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
+      "fullName": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
       "programmingLanguage": "Rust",
-      "stars": 120120,
-      "forks": 18705,
-      "starsInPeriod": 207
+      "stars": 4750,
+      "forks": 295,
+      "starsInPeriod": 725
     },
     {
       "rank": 2,
-      "fullName": "astral-sh/ruff",
-      "url": "https://github.com/astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "fullName": "koharu-rs/koharu",
+      "url": "https://github.com/koharu-rs/koharu",
+      "description": "ML-powered manga translator, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 50093,
-      "forks": 2516,
-      "starsInPeriod": 57
+      "stars": 6297,
+      "forks": 447,
+      "starsInPeriod": 100
     },
     {
       "rank": 3,
-      "fullName": "vosen/ZLUDA",
-      "url": "https://github.com/vosen/ZLUDA",
-      "description": "CUDA on non-NVIDIA GPUs",
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "High performance coding agent harness written in rust",
       "programmingLanguage": "Rust",
-      "stars": 15057,
-      "forks": 955,
-      "starsInPeriod": 51
+      "stars": 20833,
+      "forks": 2418,
+      "starsInPeriod": 131
     },
     {
       "rank": 4,
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "fullName": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 98017,
-      "forks": 12846,
-      "starsInPeriod": 197
+      "stars": 17518,
+      "forks": 1074,
+      "starsInPeriod": 195
     },
     {
       "rank": 5,
-      "fullName": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "fullName": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
       "programmingLanguage": "Rust",
-      "stars": 28154,
-      "forks": 4437,
-      "starsInPeriod": 2909
+      "stars": 7242,
+      "forks": 480,
+      "starsInPeriod": 114
     },
     {
       "rank": 6,
-      "fullName": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "fullName": "LargeModGames/spotatui",
+      "url": "https://github.com/LargeModGames/spotatui",
+      "description": "A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources",
       "programmingLanguage": "Rust",
-      "stars": 26725,
-      "forks": 2418,
-      "starsInPeriod": 295
+      "stars": 1614,
+      "forks": 256,
+      "starsInPeriod": 43
     },
     {
       "rank": 7,
-      "fullName": "tauri-apps/tauri",
-      "url": "https://github.com/tauri-apps/tauri",
-      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "fullName": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "programmingLanguage": "Rust",
-      "stars": 111905,
-      "forks": 4083,
-      "starsInPeriod": 62
+      "stars": 83434,
+      "forks": 5302,
+      "starsInPeriod": 172
     },
     {
       "rank": 8,
-      "fullName": "tokio-rs/tokio",
-      "url": "https://github.com/tokio-rs/tokio",
-      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "fullName": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
       "programmingLanguage": "Rust",
-      "stars": 33415,
-      "forks": 5955,
-      "starsInPeriod": 15
+      "stars": 33156,
+      "forks": 1380,
+      "starsInPeriod": 22
     },
     {
       "rank": 9,
-      "fullName": "astral-sh/uv",
-      "url": "https://github.com/astral-sh/uv",
-      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "fullName": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "programmingLanguage": "Rust",
-      "stars": 90780,
-      "forks": 3663,
-      "starsInPeriod": 88
+      "stars": 16431,
+      "forks": 729,
+      "starsInPeriod": 37
     },
     {
       "rank": 10,
-      "fullName": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 129270,
-      "forks": 20320,
-      "starsInPeriod": 209
+      "stars": 44007,
+      "forks": 2987,
+      "starsInPeriod": 68
     },
     {
       "rank": 11,
-      "fullName": "lbjlaq/Antigravity-Manager",
-      "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "fullName": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "programmingLanguage": "Rust",
-      "stars": 32227,
-      "forks": 3480,
-      "starsInPeriod": 64
+      "stars": 8299,
+      "forks": 1704,
+      "starsInPeriod": 13
     }
   ]
 }
