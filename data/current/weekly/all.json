@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=weekly",
-  "observedAt": "2026-10-16T04:30:33Z",
+  "observedAt": "2026-10-16T11:21:57Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,109 +14,109 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 275005,
-      "forks": 69275,
+      "stars": 282217,
+      "forks": 71108,
       "starsInPeriod": 239477
     },
     {
       "rank": 2,
+      "fullName": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "programmingLanguage": "Rust",
+      "stars": 29873,
+      "forks": 4740,
+      "starsInPeriod": 22319
+    },
+    {
+      "rank": 3,
       "fullName": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "programmingLanguage": "C++",
-      "stars": 38881,
-      "forks": 3471,
+      "stars": 39263,
+      "forks": 3508,
       "starsInPeriod": 25174
     },
     {
-      "rank": 3,
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "programmingLanguage": "Shell",
-      "stars": 293080,
-      "forks": 24573,
-      "starsInPeriod": 12147
-    },
-    {
       "rank": 4,
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "programmingLanguage": "TypeScript",
-      "stars": 64698,
-      "forks": 5823,
-      "starsInPeriod": 5318
-    },
-    {
-      "rank": 5,
       "fullName": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "programmingLanguage": "HTML",
-      "stars": 56024,
-      "forks": 3543,
+      "stars": 56181,
+      "forks": 3559,
       "starsInPeriod": 10237
     },
     {
+      "rank": 5,
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "programmingLanguage": "TypeScript",
+      "stars": 64941,
+      "forks": 5846,
+      "starsInPeriod": 5318
+    },
+    {
       "rank": 6,
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "programmingLanguage": "Shell",
+      "stars": 293479,
+      "forks": 24607,
+      "starsInPeriod": 12147
+    },
+    {
+      "rank": 7,
       "fullName": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "programmingLanguage": "Java",
-      "stars": 88951,
-      "forks": 9933,
+      "stars": 89257,
+      "forks": 9969,
       "starsInPeriod": 6614
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "programmingLanguage": "TypeScript",
+      "stars": 29990,
+      "forks": 2109,
+      "starsInPeriod": 4038
+    },
+    {
+      "rank": 9,
       "fullName": "ranxianglei/billion-context",
       "url": "https://github.com/ranxianglei/billion-context",
       "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "programmingLanguage": "TypeScript",
-      "stars": 1412,
+      "stars": 1462,
       "forks": 116,
       "starsInPeriod": 659
     },
     {
-      "rank": 8,
+      "rank": 10,
+      "fullName": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "programmingLanguage": "Python",
+      "stars": 39766,
+      "forks": 4357,
+      "starsInPeriod": 2217
+    },
+    {
+      "rank": 11,
       "fullName": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "programmingLanguage": "Python",
-      "stars": 20756,
-      "forks": 2052,
+      "stars": 20848,
+      "forks": 2058,
       "starsInPeriod": 2244
-    },
-    {
-      "rank": 9,
-      "fullName": "twostraws/SwiftUI-Agent-Skill",
-      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "programmingLanguage": null,
-      "stars": 6115,
-      "forks": 221,
-      "starsInPeriod": 900
-    },
-    {
-      "rank": 10,
-      "fullName": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "programmingLanguage": "JavaScript",
-      "stars": 12443,
-      "forks": 1525,
-      "starsInPeriod": 4471
-    },
-    {
-      "rank": 11,
-      "fullName": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "programmingLanguage": "TypeScript",
-      "stars": 11683,
-      "forks": 1137,
-      "starsInPeriod": 1214
     }
   ]
 }

@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-16T04:30:59Z",
+  "observedAt": "2026-10-16T11:22:24Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,219 +14,199 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 112700,
-      "forks": 6528,
-      "starsInPeriod": 433
+      "stars": 112957,
+      "forks": 6534,
+      "starsInPeriod": 943
     },
     {
       "rank": 2,
-      "fullName": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "programmingLanguage": "Go",
-      "stars": 30542,
-      "forks": 4594,
-      "starsInPeriod": 1388
-    },
-    {
-      "rank": 3,
-      "fullName": "maximhq/bifrost",
-      "url": "https://github.com/maximhq/bifrost",
-      "description": "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.",
-      "programmingLanguage": "Go",
-      "stars": 8842,
-      "forks": 1400,
-      "starsInPeriod": 40
-    },
-    {
-      "rank": 4,
-      "fullName": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-      "programmingLanguage": "Go",
-      "stars": 52960,
-      "forks": 6927,
-      "starsInPeriod": 108
-    },
-    {
-      "rank": 5,
-      "fullName": "gtsteffaniak/filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "programmingLanguage": "Go",
-      "stars": 8774,
-      "forks": 488,
-      "starsInPeriod": 35
-    },
-    {
-      "rank": 6,
-      "fullName": "livekit/livekit",
-      "url": "https://github.com/livekit/livekit",
-      "description": "End-to-end realtime stack for connecting humans and AI",
-      "programmingLanguage": "Go",
-      "stars": 21475,
-      "forks": 2458,
-      "starsInPeriod": 21
-    },
-    {
-      "rank": 7,
       "fullName": "gitleaks/gitleaks",
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 29987,
-      "forks": 2301,
+      "stars": 29998,
+      "forks": 2309,
       "starsInPeriod": 33
     },
     {
-      "rank": 8,
-      "fullName": "google/ax",
-      "url": "https://github.com/google/ax",
-      "description": "Google's open agentic orchestration runtime",
+      "rank": 3,
+      "fullName": "tristenlammi/Arrmada",
+      "url": "https://github.com/tristenlammi/Arrmada",
+      "description": "arrrrrrrr",
       "programmingLanguage": "Go",
-      "stars": 13684,
-      "forks": 699,
-      "starsInPeriod": 107
+      "stars": 201,
+      "forks": 11,
+      "starsInPeriod": 27
     },
     {
-      "rank": 9,
-      "fullName": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
+      "rank": 4,
+      "fullName": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 5243,
-      "forks": 580,
-      "starsInPeriod": 81
+      "stars": 30634,
+      "forks": 4640,
+      "starsInPeriod": 1388
     },
     {
-      "rank": 10,
-      "fullName": "p1neappleXpress/OpenFlux",
-      "url": "https://github.com/p1neappleXpress/OpenFlux",
-      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
-      "programmingLanguage": "Go",
-      "stars": 2181,
-      "forks": 186,
-      "starsInPeriod": 33
-    },
-    {
-      "rank": 11,
-      "fullName": "gastownhall/beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "programmingLanguage": "Go",
-      "stars": 27923,
-      "forks": 1891,
-      "starsInPeriod": 32
-    },
-    {
-      "rank": 12,
-      "fullName": "Gentleman-Programming/engram",
-      "url": "https://github.com/Gentleman-Programming/engram",
-      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
-      "programmingLanguage": "Go",
-      "stars": 7278,
-      "forks": 753,
-      "starsInPeriod": 38
-    },
-    {
-      "rank": 13,
-      "fullName": "containerd/containerd",
-      "url": "https://github.com/containerd/containerd",
-      "description": "An open and reliable container runtime",
-      "programmingLanguage": "Go",
-      "stars": 21417,
-      "forks": 4164,
-      "starsInPeriod": 7
-    },
-    {
-      "rank": 14,
+      "rank": 5,
       "fullName": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 34255,
-      "forks": 4567,
+      "stars": 34343,
+      "forks": 4580,
       "starsInPeriod": 225
     },
     {
-      "rank": 15,
-      "fullName": "google/agentmesh",
-      "url": "https://github.com/google/agentmesh",
-      "description": "Agent Mesh",
+      "rank": 6,
+      "fullName": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
       "programmingLanguage": "Go",
-      "stars": 1081,
-      "forks": 176,
-      "starsInPeriod": 17
+      "stars": 25668,
+      "forks": 4161,
+      "starsInPeriod": 9
+    },
+    {
+      "rank": 7,
+      "fullName": "jasonxu114514/opencode2api",
+      "url": "https://github.com/jasonxu114514/opencode2api",
+      "description": "A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.",
+      "programmingLanguage": "Go",
+      "stars": 836,
+      "forks": 155,
+      "starsInPeriod": 186
+    },
+    {
+      "rank": 8,
+      "fullName": "sipeed/picoclaw",
+      "url": "https://github.com/sipeed/picoclaw",
+      "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+      "programmingLanguage": "Go",
+      "stars": 30078,
+      "forks": 4469,
+      "starsInPeriod": 49
+    },
+    {
+      "rank": 9,
+      "fullName": "Gentleman-Programming/engram",
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "programmingLanguage": "Go",
+      "stars": 7308,
+      "forks": 756,
+      "starsInPeriod": 38
+    },
+    {
+      "rank": 10,
+      "fullName": "GoogleCloudPlatform/scion",
+      "url": "https://github.com/GoogleCloudPlatform/scion",
+      "description": null,
+      "programmingLanguage": "Go",
+      "stars": 1917,
+      "forks": 285,
+      "starsInPeriod": 49
+    },
+    {
+      "rank": 11,
+      "fullName": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+      "programmingLanguage": "Go",
+      "stars": 18589,
+      "forks": 2415,
+      "starsInPeriod": 16
+    },
+    {
+      "rank": 12,
+      "fullName": "llm-d/llm-d-router",
+      "url": "https://github.com/llm-d/llm-d-router",
+      "description": "llm-d Router: The intelligent entry point for inference requests",
+      "programmingLanguage": "Go",
+      "stars": 411,
+      "forks": 457,
+      "starsInPeriod": 5
+    },
+    {
+      "rank": 13,
+      "fullName": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "programmingLanguage": "Go",
+      "stars": 44195,
+      "forks": 9460,
+      "starsInPeriod": 115
+    },
+    {
+      "rank": 14,
+      "fullName": "tbphp/gpt-load",
+      "url": "https://github.com/tbphp/gpt-load",
+      "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
+      "programmingLanguage": "Go",
+      "stars": 7134,
+      "forks": 791,
+      "starsInPeriod": 38
+    },
+    {
+      "rank": 15,
+      "fullName": "zeromicro/go-zero",
+      "url": "https://github.com/zeromicro/go-zero",
+      "description": "A cloud-native Go microservices framework with cli tool for productivity.",
+      "programmingLanguage": "Go",
+      "stars": 33382,
+      "forks": 4331,
+      "starsInPeriod": 5
     },
     {
       "rank": 16,
-      "fullName": "tailscale/tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "programmingLanguage": "Go",
-      "stars": 37625,
-      "forks": 3346,
-      "starsInPeriod": 86
-    },
-    {
-      "rank": 17,
-      "fullName": "redis/go-redis",
-      "url": "https://github.com/redis/go-redis",
-      "description": "Redis Go client",
-      "programmingLanguage": "Go",
-      "stars": 22263,
-      "forks": 2613,
-      "starsInPeriod": 2
-    },
-    {
-      "rank": 18,
-      "fullName": "danielmiessler/Fabric",
-      "url": "https://github.com/danielmiessler/Fabric",
-      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
-      "programmingLanguage": "Go",
-      "stars": 44289,
-      "forks": 4302,
-      "starsInPeriod": 24
-    },
-    {
-      "rank": 19,
-      "fullName": "temporalio/temporal",
-      "url": "https://github.com/temporalio/temporal",
-      "description": "Temporal service",
-      "programmingLanguage": "Go",
-      "stars": 23742,
-      "forks": 2010,
-      "starsInPeriod": 32
-    },
-    {
-      "rank": 20,
-      "fullName": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "programmingLanguage": "Go",
-      "stars": 111491,
-      "forks": 16908,
-      "starsInPeriod": 24
-    },
-    {
-      "rank": 21,
-      "fullName": "usememos/memos",
-      "url": "https://github.com/usememos/memos",
-      "description": "A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.",
-      "programmingLanguage": "Go",
-      "stars": 63830,
-      "forks": 4863,
-      "starsInPeriod": 30
-    },
-    {
-      "rank": 22,
       "fullName": "router-for-me/CLIProxyAPI",
       "url": "https://github.com/router-for-me/CLIProxyAPI",
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
       "programmingLanguage": "Go",
-      "stars": 55385,
-      "forks": 8465,
+      "stars": 55416,
+      "forks": 8472,
       "starsInPeriod": 149
+    },
+    {
+      "rank": 17,
+      "fullName": "gotenberg/gotenberg",
+      "url": "https://github.com/gotenberg/gotenberg",
+      "description": "A developer-friendly API for converting many document formats into PDF files, and more!",
+      "programmingLanguage": "Go",
+      "stars": 13309,
+      "forks": 871,
+      "starsInPeriod": 16
+    },
+    {
+      "rank": 18,
+      "fullName": "bytebase/bytebase",
+      "url": "https://github.com/bytebase/bytebase",
+      "description": "Database governance built for humans and agents — controlling changes and access across every major database.",
+      "programmingLanguage": "Go",
+      "stars": 14573,
+      "forks": 995,
+      "starsInPeriod": 9
+    },
+    {
+      "rank": 19,
+      "fullName": "skyhook-io/radar",
+      "url": "https://github.com/skyhook-io/radar",
+      "description": "The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.",
+      "programmingLanguage": "Go",
+      "stars": 3818,
+      "forks": 245,
+      "starsInPeriod": 16
+    },
+    {
+      "rank": 20,
+      "fullName": "prometheus/node_exporter",
+      "url": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "programmingLanguage": "Go",
+      "stars": 13844,
+      "forks": 2729,
+      "starsInPeriod": 2
     }
   ]
 }

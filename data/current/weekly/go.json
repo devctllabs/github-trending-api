@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-16T04:31:02Z",
+  "observedAt": "2026-10-16T11:22:27Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 30542,
-      "forks": 4594,
+      "stars": 30634,
+      "forks": 4640,
       "starsInPeriod": 5130
     },
     {
@@ -24,89 +24,89 @@
       "url": "https://github.com/gtsteffaniak/filebrowser",
       "description": "📂 Web File Browser",
       "programmingLanguage": "Go",
-      "stars": 8774,
+      "stars": 8778,
       "forks": 488,
       "starsInPeriod": 223
     },
     {
       "rank": 3,
-      "fullName": "Bennettxai/FounderOS",
-      "url": "https://github.com/Bennettxai/FounderOS",
-      "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
-      "programmingLanguage": "Go",
-      "stars": 1159,
-      "forks": 327,
-      "starsInPeriod": 154
-    },
-    {
-      "rank": 4,
       "fullName": "Armur-Ai/Pentest-Swarm-AI",
       "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "programmingLanguage": "Go",
-      "stars": 2985,
+      "stars": 2990,
       "forks": 546,
       "starsInPeriod": 217
     },
     {
-      "rank": 5,
-      "fullName": "docker/docker-agent",
-      "url": "https://github.com/docker/docker-agent",
-      "description": "AI Agent Builder and Runtime by Docker Engineering",
+      "rank": 4,
+      "fullName": "Bennettxai/FounderOS",
+      "url": "https://github.com/Bennettxai/FounderOS",
+      "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
       "programmingLanguage": "Go",
-      "stars": 4525,
-      "forks": 521,
-      "starsInPeriod": 354
+      "stars": 1160,
+      "forks": 328,
+      "starsInPeriod": 154
+    },
+    {
+      "rank": 5,
+      "fullName": "eugenioenko/ttt",
+      "url": "https://github.com/eugenioenko/ttt",
+      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
+      "programmingLanguage": "Go",
+      "stars": 597,
+      "forks": 66,
+      "starsInPeriod": 158
     },
     {
       "rank": 6,
-      "fullName": "0xJacky/nginx-ui",
-      "url": "https://github.com/0xJacky/nginx-ui",
-      "description": "Yet another WebUI for Nginx",
-      "programmingLanguage": "Go",
-      "stars": 11631,
-      "forks": 902,
-      "starsInPeriod": 64
-    },
-    {
-      "rank": 7,
-      "fullName": "palemoky/chinese-poetry-api",
-      "url": "https://github.com/palemoky/chinese-poetry-api",
-      "description": "📜 诗泉：高性能中国古诗词 API 服务",
-      "programmingLanguage": "Go",
-      "stars": 3398,
-      "forks": 448,
-      "starsInPeriod": 400
-    },
-    {
-      "rank": 8,
-      "fullName": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "programmingLanguage": "Go",
-      "stars": 183365,
-      "forks": 18311,
-      "starsInPeriod": 1038
-    },
-    {
-      "rank": 9,
       "fullName": "oauth2-proxy/oauth2-proxy",
       "url": "https://github.com/oauth2-proxy/oauth2-proxy",
       "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
       "programmingLanguage": "Go",
-      "stars": 15199,
-      "forks": 2235,
+      "stars": 15201,
+      "forks": 2237,
       "starsInPeriod": 143
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "programmingLanguage": "Go",
+      "stars": 183416,
+      "forks": 18323,
+      "starsInPeriod": 1038
+    },
+    {
+      "rank": 8,
       "fullName": "llm-d/llm-d-router",
       "url": "https://github.com/llm-d/llm-d-router",
       "description": "llm-d Router: The intelligent entry point for inference requests",
       "programmingLanguage": "Go",
-      "stars": 408,
-      "forks": 455,
+      "stars": 411,
+      "forks": 457,
       "starsInPeriod": 28
+    },
+    {
+      "rank": 9,
+      "fullName": "lharries/whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "description": "WhatsApp MCP server",
+      "programmingLanguage": "Go",
+      "stars": 6636,
+      "forks": 1417,
+      "starsInPeriod": 216
+    },
+    {
+      "rank": 10,
+      "fullName": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "programmingLanguage": "Go",
+      "stars": 38372,
+      "forks": 5876,
+      "starsInPeriod": 176
     },
     {
       "rank": 11,
@@ -114,39 +114,39 @@
       "url": "https://github.com/BishopFox/sliver",
       "description": "Adversary Emulation Framework",
       "programmingLanguage": "Go",
-      "stars": 12130,
+      "stars": 12132,
       "forks": 1628,
       "starsInPeriod": 142
     },
     {
       "rank": 12,
-      "fullName": "lharries/whatsapp-mcp",
-      "url": "https://github.com/lharries/whatsapp-mcp",
-      "description": "WhatsApp MCP server",
-      "programmingLanguage": "Go",
-      "stars": 6634,
-      "forks": 1417,
-      "starsInPeriod": 216
-    },
-    {
-      "rank": 13,
-      "fullName": "docker/compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
-      "programmingLanguage": "Go",
-      "stars": 38368,
-      "forks": 5874,
-      "starsInPeriod": 176
-    },
-    {
-      "rank": 14,
       "fullName": "QuantumNous/new-api",
       "url": "https://github.com/QuantumNous/new-api",
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "programmingLanguage": "Go",
-      "stars": 50051,
-      "forks": 12044,
+      "stars": 50080,
+      "forks": 12055,
       "starsInPeriod": 660
+    },
+    {
+      "rank": 13,
+      "fullName": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "programmingLanguage": "Go",
+      "stars": 11634,
+      "forks": 902,
+      "starsInPeriod": 64
+    },
+    {
+      "rank": 14,
+      "fullName": "evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild",
+      "description": "An extremely fast bundler for the web",
+      "programmingLanguage": "Go",
+      "stars": 40092,
+      "forks": 1361,
+      "starsInPeriod": 38
     },
     {
       "rank": 15,
@@ -155,8 +155,18 @@
       "description": "Agent Mesh",
       "programmingLanguage": "Go",
       "stars": 1081,
-      "forks": 176,
+      "forks": 178,
       "starsInPeriod": 114
+    },
+    {
+      "rank": 16,
+      "fullName": "Project-HAMi/HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "description": "Heterogeneous GPU Sharing on Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 4796,
+      "forks": 868,
+      "starsInPeriod": 197
     }
   ]
 }
