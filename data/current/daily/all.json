@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-10-15T21:22:01Z",
+  "observedAt": "2026-10-16T04:30:30Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 267773,
-      "forks": 67170,
-      "starsInPeriod": 32282
+      "stars": 275005,
+      "forks": 69275,
+      "starsInPeriod": 32314
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 38940,
-      "forks": 4320,
-      "starsInPeriod": 525
+      "stars": 39302,
+      "forks": 4341,
+      "starsInPeriod": 307
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "programmingLanguage": "Python",
-      "stars": 50358,
-      "forks": 4485,
+      "stars": 50679,
+      "forks": 4503,
       "starsInPeriod": 1091
     },
     {
@@ -44,9 +44,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 112447,
-      "forks": 6517,
-      "starsInPeriod": 530
+      "stars": 112700,
+      "forks": 6528,
+      "starsInPeriod": 433
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 68827,
-      "forks": 7531,
-      "starsInPeriod": 3027
+      "stars": 69424,
+      "forks": 7599,
+      "starsInPeriod": 3024
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "programmingLanguage": "Shell",
-      "stars": 299793,
-      "forks": 26774,
-      "starsInPeriod": 688
+      "stars": 300067,
+      "forks": 26796,
+      "starsInPeriod": 582
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "programmingLanguage": "TypeScript",
-      "stars": 75040,
-      "forks": 8922,
-      "starsInPeriod": 224
+      "stars": 75233,
+      "forks": 8938,
+      "starsInPeriod": 147
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "programmingLanguage": "TypeScript",
-      "stars": 29744,
-      "forks": 2079,
-      "starsInPeriod": 902
+      "stars": 29874,
+      "forks": 2087,
+      "starsInPeriod": 904
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "programmingLanguage": "Java",
-      "stars": 88619,
-      "forks": 9889,
-      "starsInPeriod": 1366
+      "stars": 88951,
+      "forks": 9933,
+      "starsInPeriod": 1369
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 280250,
-      "forks": 41689,
-      "starsInPeriod": 1015
+      "stars": 280558,
+      "forks": 41720,
+      "starsInPeriod": 1013
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/lightseekorg/tokenspeed",
       "description": "TokenSpeed is a speed-of-light LLM inference engine.",
       "programmingLanguage": "Python",
-      "stars": 2445,
-      "forks": 333,
-      "starsInPeriod": 25
+      "stars": 2543,
+      "forks": 342,
+      "starsInPeriod": 30
     },
     {
       "rank": 12,
@@ -124,9 +124,19 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
       "programmingLanguage": "Rust",
-      "stars": 5524,
-      "forks": 305,
-      "starsInPeriod": 725
+      "stars": 5857,
+      "forks": 317,
+      "starsInPeriod": 715
+    },
+    {
+      "rank": 13,
+      "fullName": "LibreSpark/LibreTV",
+      "url": "https://github.com/LibreSpark/LibreTV",
+      "description": "一分钟搭建影视站，支持Docker等部署方式",
+      "programmingLanguage": "TypeScript",
+      "stars": 18175,
+      "forks": 28778,
+      "starsInPeriod": 978
     }
   ]
 }
