@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-10-16T21:07:14Z",
+  "observedAt": "2026-10-17T04:24:25Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "programmingLanguage": "TypeScript",
-      "stars": 30171,
-      "forks": 2124,
+      "stars": 30286,
+      "forks": 2133,
       "starsInPeriod": 449
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "programmingLanguage": "TypeScript",
-      "stars": 75569,
-      "forks": 8963,
+      "stars": 75697,
+      "forks": 8970,
       "starsInPeriod": 672
     },
     {
@@ -34,19 +34,19 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "programmingLanguage": "TypeScript",
-      "stars": 11893,
-      "forks": 1157,
-      "starsInPeriod": 282
+      "stars": 12028,
+      "forks": 1166,
+      "starsInPeriod": 278
     },
     {
       "rank": 4,
       "fullName": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "programmingLanguage": "TypeScript",
-      "stars": 94417,
-      "forks": 6037,
-      "starsInPeriod": 1089
+      "stars": 94596,
+      "forks": 6048,
+      "starsInPeriod": 1102
     },
     {
       "rank": 5,
@@ -54,129 +54,119 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "programmingLanguage": "TypeScript",
-      "stars": 94940,
-      "forks": 9349,
-      "starsInPeriod": 256
+      "stars": 94998,
+      "forks": 9355,
+      "starsInPeriod": 257
     },
     {
       "rank": 6,
-      "fullName": "LibreSpark/LibreTV",
-      "url": "https://github.com/LibreSpark/LibreTV",
-      "description": "一分钟搭建影视站，支持Docker等部署方式",
-      "programmingLanguage": "TypeScript",
-      "stars": 18805,
-      "forks": 28932,
-      "starsInPeriod": 850
-    },
-    {
-      "rank": 7,
       "fullName": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "programmingLanguage": "TypeScript",
-      "stars": 214316,
-      "forks": 28760,
-      "starsInPeriod": 485
+      "stars": 214410,
+      "forks": 28774,
+      "starsInPeriod": 488
     },
     {
-      "rank": 8,
+      "rank": 7,
       "fullName": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "programmingLanguage": "TypeScript",
-      "stars": 65230,
-      "forks": 5878,
-      "starsInPeriod": 826
+      "stars": 65413,
+      "forks": 5895,
+      "starsInPeriod": 822
     },
     {
-      "rank": 9,
+      "rank": 8,
       "fullName": "desktop/desktop",
       "url": "https://github.com/desktop/desktop",
       "description": "Focus on what matters instead of fighting with Git.",
       "programmingLanguage": "TypeScript",
-      "stars": 21961,
+      "stars": 21966,
       "forks": 10633,
-      "starsInPeriod": 6
+      "starsInPeriod": 7
     },
     {
-      "rank": 10,
+      "rank": 9,
       "fullName": "krillinai/OpenCreator",
       "url": "https://github.com/krillinai/OpenCreator",
       "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
       "programmingLanguage": "TypeScript",
-      "stars": 13470,
-      "forks": 1475,
-      "starsInPeriod": 226
+      "stars": 13544,
+      "forks": 1479,
+      "starsInPeriod": 239
     },
     {
-      "rank": 11,
+      "rank": 10,
       "fullName": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "programmingLanguage": "TypeScript",
-      "stars": 8525,
+      "stars": 8526,
       "forks": 1114,
-      "starsInPeriod": 11
+      "starsInPeriod": 4
     },
     {
-      "rank": 12,
+      "rank": 11,
       "fullName": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 289441,
-      "forks": 72857,
-      "starsInPeriod": 25333
+      "stars": 293287,
+      "forks": 73930,
+      "starsInPeriod": 23584
     },
     {
-      "rank": 13,
+      "rank": 12,
       "fullName": "Fission-AI/OpenSpec",
       "url": "https://github.com/Fission-AI/OpenSpec",
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "programmingLanguage": "TypeScript",
-      "stars": 72157,
-      "forks": 4936,
-      "starsInPeriod": 113
+      "stars": 72173,
+      "forks": 4935,
+      "starsInPeriod": 122
     },
     {
-      "rank": 14,
+      "rank": 13,
       "fullName": "apache/maka",
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
       "programmingLanguage": "TypeScript",
-      "stars": 5811,
+      "stars": 5810,
       "forks": 551,
-      "starsInPeriod": 53
+      "starsInPeriod": 36
     },
     {
-      "rank": 15,
+      "rank": 14,
       "fullName": "SegFault42/HeliosGen",
       "url": "https://github.com/SegFault42/HeliosGen",
       "description": "🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....",
       "programmingLanguage": "TypeScript",
-      "stars": 3141,
+      "stars": 3144,
       "forks": 352,
-      "starsInPeriod": 77
+      "starsInPeriod": 90
     },
     {
-      "rank": 16,
+      "rank": 15,
       "fullName": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agentic apps",
       "programmingLanguage": "TypeScript",
-      "stars": 7390,
-      "forks": 669,
-      "starsInPeriod": 107
+      "stars": 7398,
+      "forks": 671,
+      "starsInPeriod": 89
     },
     {
-      "rank": 17,
+      "rank": 16,
       "fullName": "superdesigndev/superdesign",
       "url": "https://github.com/superdesigndev/superdesign",
       "description": "AI Product Design Agent - Open Source",
       "programmingLanguage": "TypeScript",
-      "stars": 7428,
-      "forks": 767,
-      "starsInPeriod": 59
+      "stars": 7432,
+      "forks": 768,
+      "starsInPeriod": 38
     }
   ]
 }
