@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-17T15:33:29Z",
+  "observedAt": "2026-10-17T20:36:08Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 30858,
-      "forks": 4737,
+      "stars": 30892,
+      "forks": 4748,
       "starsInPeriod": 5401
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/gtsteffaniak/filebrowser",
       "description": "📂 Web File Browser",
       "programmingLanguage": "Go",
-      "stars": 8789,
-      "forks": 490,
+      "stars": 8795,
+      "forks": 491,
       "starsInPeriod": 228
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "programmingLanguage": "Go",
-      "stars": 3000,
+      "stars": 3003,
       "forks": 546,
       "starsInPeriod": 227
     },
@@ -44,8 +44,8 @@
       "url": "https://github.com/Bennettxai/FounderOS",
       "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
       "programmingLanguage": "Go",
-      "stars": 1172,
-      "forks": 329,
+      "stars": 1173,
+      "forks": 331,
       "starsInPeriod": 152
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 183586,
-      "forks": 18352,
+      "stars": 183619,
+      "forks": 18358,
       "starsInPeriod": 1098
     },
     {
@@ -65,7 +65,7 @@
       "description": "llm-d Router: The intelligent entry point for inference requests",
       "programmingLanguage": "Go",
       "stars": 418,
-      "forks": 460,
+      "forks": 462,
       "starsInPeriod": 26
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/eugenioenko/ttt",
       "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
       "programmingLanguage": "Go",
-      "stars": 611,
-      "forks": 68,
+      "stars": 613,
+      "forks": 69,
       "starsInPeriod": 140
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://github.com/lharries/whatsapp-mcp",
       "description": "WhatsApp MCP server",
       "programmingLanguage": "Go",
-      "stars": 6642,
+      "stars": 6645,
       "forks": 1417,
       "starsInPeriod": 220
     },
@@ -104,12 +104,22 @@
       "url": "https://github.com/BishopFox/sliver",
       "description": "Adversary Emulation Framework",
       "programmingLanguage": "Go",
-      "stars": 12140,
-      "forks": 1628,
+      "stars": 12141,
+      "forks": 1630,
       "starsInPeriod": 145
     },
     {
       "rank": 11,
+      "fullName": "lionsoul2014/ip2region",
+      "url": "https://github.com/lionsoul2014/ip2region",
+      "description": "Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages",
+      "programmingLanguage": "Go",
+      "stars": 19687,
+      "forks": 3077,
+      "starsInPeriod": 87
+    },
+    {
+      "rank": 12,
       "fullName": "0xJacky/nginx-ui",
       "url": "https://github.com/0xJacky/nginx-ui",
       "description": "Yet another WebUI for Nginx",
@@ -119,27 +129,27 @@
       "starsInPeriod": 64
     },
     {
-      "rank": 12,
+      "rank": 13,
       "fullName": "QuantumNous/new-api",
       "url": "https://github.com/QuantumNous/new-api",
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "programmingLanguage": "Go",
-      "stars": 50125,
-      "forks": 12077,
+      "stars": 50133,
+      "forks": 12078,
       "starsInPeriod": 628
     },
     {
-      "rank": 13,
+      "rank": 14,
       "fullName": "jaegertracing/jaeger",
       "url": "https://github.com/jaegertracing/jaeger",
       "description": "CNCF Jaeger, a Distributed Tracing Platform",
       "programmingLanguage": "Go",
       "stars": 23302,
-      "forks": 3174,
+      "forks": 3173,
       "starsInPeriod": 41
     },
     {
-      "rank": 14,
+      "rank": 15,
       "fullName": "google/agentmesh",
       "url": "https://github.com/google/agentmesh",
       "description": "Agent Mesh",
