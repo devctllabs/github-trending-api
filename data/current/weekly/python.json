@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-10-17T04:23:48Z",
+  "observedAt": "2026-10-17T10:42:26Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,79 +14,79 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 40754,
-      "forks": 4411,
+      "stars": 41081,
+      "forks": 4430,
       "starsInPeriod": 2328
     },
     {
       "rank": 2,
-      "fullName": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "programmingLanguage": "Python",
-      "stars": 21042,
-      "forks": 2077,
-      "starsInPeriod": 2286
-    },
-    {
-      "rank": 3,
       "fullName": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "programmingLanguage": "Python",
-      "stars": 61062,
-      "forks": 9566,
+      "stars": 61122,
+      "forks": 9576,
       "starsInPeriod": 4078
     },
     {
-      "rank": 4,
+      "rank": 3,
       "fullName": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "programmingLanguage": "Python",
-      "stars": 51632,
-      "forks": 4572,
+      "stars": 51866,
+      "forks": 4596,
       "starsInPeriod": 3170
     },
     {
-      "rank": 5,
-      "fullName": "ifixai-ai/iFixAi",
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "programmingLanguage": "Python",
-      "stars": 28795,
-      "forks": 1558,
-      "starsInPeriod": 6913
-    },
-    {
-      "rank": 6,
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "programmingLanguage": "Python",
-      "stars": 71505,
-      "forks": 7818,
-      "starsInPeriod": 14708
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "fullName": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "programmingLanguage": "Python",
-      "stars": 48725,
-      "forks": 16677,
+      "stars": 49073,
+      "forks": 16722,
       "starsInPeriod": 2752
     },
     {
-      "rank": 8,
-      "fullName": "repowise-dev/repowise",
-      "url": "https://github.com/repowise-dev/repowise",
-      "description": "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.",
+      "rank": 5,
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 7819,
-      "forks": 898,
-      "starsInPeriod": 454
+      "stars": 72050,
+      "forks": 7873,
+      "starsInPeriod": 14708
+    },
+    {
+      "rank": 6,
+      "fullName": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "programmingLanguage": "Python",
+      "stars": 21126,
+      "forks": 2086,
+      "starsInPeriod": 2286
+    },
+    {
+      "rank": 7,
+      "fullName": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "programmingLanguage": "Python",
+      "stars": 28933,
+      "forks": 1577,
+      "starsInPeriod": 6913
+    },
+    {
+      "rank": 8,
+      "fullName": "KittenML/KittenTTS",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "description": "Open-source State-of-the-art TTS model which runs on a CPU 😻",
+      "programmingLanguage": "Python",
+      "stars": 16105,
+      "forks": 954,
+      "starsInPeriod": 413
     },
     {
       "rank": 9,
@@ -94,69 +94,29 @@
       "url": "https://github.com/lightseekorg/tokenspeed",
       "description": "TokenSpeed is a speed-of-light LLM inference engine.",
       "programmingLanguage": "Python",
-      "stars": 2673,
-      "forks": 352,
+      "stars": 2679,
+      "forks": 355,
       "starsInPeriod": 464
     },
     {
       "rank": 10,
-      "fullName": "mrexodia/ida-pro-mcp",
-      "url": "https://github.com/mrexodia/ida-pro-mcp",
-      "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
+      "fullName": "microsoft/TRELLIS.2",
+      "url": "https://github.com/microsoft/TRELLIS.2",
+      "description": "Native and Compact Structured Latents for 3D Generation",
       "programmingLanguage": "Python",
-      "stars": 12958,
-      "forks": 1591,
-      "starsInPeriod": 404
+      "stars": 12070,
+      "forks": 1472,
+      "starsInPeriod": 357
     },
     {
       "rank": 11,
-      "fullName": "rommapp/romm",
-      "url": "https://github.com/rommapp/romm",
-      "description": "A beautiful, powerful, self-hosted ROM manager and player.",
-      "programmingLanguage": "Python",
-      "stars": 13844,
-      "forks": 795,
-      "starsInPeriod": 547
-    },
-    {
-      "rank": 12,
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "programmingLanguage": "Python",
-      "stars": 29900,
-      "forks": 3379,
-      "starsInPeriod": 1817
-    },
-    {
-      "rank": 13,
-      "fullName": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "programmingLanguage": "Python",
-      "stars": 35560,
-      "forks": 4025,
-      "starsInPeriod": 1314
-    },
-    {
-      "rank": 14,
       "fullName": "ShawnPana/phone-harness",
       "url": "https://github.com/ShawnPana/phone-harness",
       "description": "let your agent control your phone",
       "programmingLanguage": "Python",
-      "stars": 3741,
-      "forks": 384,
+      "stars": 3747,
+      "forks": 388,
       "starsInPeriod": 522
-    },
-    {
-      "rank": 15,
-      "fullName": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "programmingLanguage": "Python",
-      "stars": 68939,
-      "forks": 8856,
-      "starsInPeriod": 3228
     }
   ]
 }

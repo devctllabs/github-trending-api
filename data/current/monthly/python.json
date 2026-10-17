@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-10-17T04:23:52Z",
+  "observedAt": "2026-10-17T10:42:29Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,29 +14,29 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 40106,
-      "forks": 5632,
+      "stars": 40136,
+      "forks": 5634,
       "starsInPeriod": 5343
     },
     {
       "rank": 2,
-      "fullName": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "programmingLanguage": "Python",
-      "stars": 50557,
-      "forks": 6114,
-      "starsInPeriod": 26912
-    },
-    {
-      "rank": 3,
       "fullName": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 71505,
-      "forks": 7818,
+      "stars": 72051,
+      "forks": 7873,
       "starsInPeriod": 38923
+    },
+    {
+      "rank": 3,
+      "fullName": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "programmingLanguage": "Python",
+      "stars": 50646,
+      "forks": 6119,
+      "starsInPeriod": 26912
     },
     {
       "rank": 4,
@@ -44,8 +44,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 29900,
-      "forks": 3379,
+      "stars": 29922,
+      "forks": 3382,
       "starsInPeriod": 5827
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 9700,
-      "forks": 1226,
+      "stars": 9723,
+      "forks": 1241,
       "starsInPeriod": 6877
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 70348,
-      "forks": 12363,
+      "stars": 70472,
+      "forks": 12396,
       "starsInPeriod": 15672
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "programmingLanguage": "Python",
-      "stars": 39205,
-      "forks": 3404,
+      "stars": 39231,
+      "forks": 3405,
       "starsInPeriod": 3642
     },
     {
@@ -84,69 +84,69 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "programmingLanguage": "Python",
-      "stars": 21042,
-      "forks": 2077,
+      "stars": 21126,
+      "forks": 2086,
       "starsInPeriod": 5049
     },
     {
       "rank": 9,
-      "fullName": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "fullName": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 32698,
-      "forks": 3781,
-      "starsInPeriod": 2065
+      "stars": 41081,
+      "forks": 4430,
+      "starsInPeriod": 4844
     },
     {
       "rank": 10,
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "programmingLanguage": "Python",
-      "stars": 98299,
-      "forks": 8642,
-      "starsInPeriod": 16286
-    },
-    {
-      "rank": 11,
       "fullName": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 53590,
-      "forks": 4863,
+      "stars": 53730,
+      "forks": 4878,
       "starsInPeriod": 3972
     },
     {
+      "rank": 11,
+      "fullName": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "programmingLanguage": "Python",
+      "stars": 32703,
+      "forks": 3781,
+      "starsInPeriod": 2065
+    },
+    {
       "rank": 12,
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "programmingLanguage": "Python",
+      "stars": 98460,
+      "forks": 8655,
+      "starsInPeriod": 16286
+    },
+    {
+      "rank": 13,
+      "fullName": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "programmingLanguage": "Python",
+      "stars": 8845,
+      "forks": 1383,
+      "starsInPeriod": 1573
+    },
+    {
+      "rank": 14,
       "fullName": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "programmingLanguage": "Python",
-      "stars": 104809,
-      "forks": 32706,
+      "stars": 104819,
+      "forks": 32712,
       "starsInPeriod": 2371
-    },
-    {
-      "rank": 13,
-      "fullName": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "programmingLanguage": "Python",
-      "stars": 5571,
-      "forks": 455,
-      "starsInPeriod": 3951
-    },
-    {
-      "rank": 14,
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "programmingLanguage": "Python",
-      "stars": 20385,
-      "forks": 1793,
-      "starsInPeriod": 3026
     },
     {
       "rank": 15,
@@ -154,19 +154,19 @@
       "url": "https://github.com/tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "programmingLanguage": "Python",
-      "stars": 8638,
-      "forks": 895,
+      "stars": 8640,
+      "forks": 898,
       "starsInPeriod": 1244
     },
     {
       "rank": 16,
-      "fullName": "google/artemis",
-      "url": "https://github.com/google/artemis",
-      "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.",
+      "fullName": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "programmingLanguage": "Python",
-      "stars": 12058,
-      "forks": 1302,
-      "starsInPeriod": 5756
+      "stars": 5640,
+      "forks": 463,
+      "starsInPeriod": 3951
     },
     {
       "rank": 17,
@@ -174,28 +174,38 @@
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "programmingLanguage": "Python",
-      "stars": 5343,
+      "stars": 5345,
       "forks": 749,
       "starsInPeriod": 1550
     },
     {
       "rank": 18,
-      "fullName": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "fullName": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
       "programmingLanguage": "Python",
-      "stars": 88152,
-      "forks": 9079,
-      "starsInPeriod": 6998
+      "stars": 61423,
+      "forks": 12427,
+      "starsInPeriod": 2657
     },
     {
       "rank": 19,
+      "fullName": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+      "programmingLanguage": "Python",
+      "stars": 32420,
+      "forks": 3382,
+      "starsInPeriod": 1816
+    },
+    {
+      "rank": 20,
       "fullName": "docling-project/docling",
       "url": "https://github.com/docling-project/docling",
       "description": "Get your documents ready for gen AI",
       "programmingLanguage": "Python",
-      "stars": 68993,
-      "forks": 5096,
+      "stars": 69001,
+      "forks": 5097,
       "starsInPeriod": 2643
     }
   ]

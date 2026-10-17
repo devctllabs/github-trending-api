@@ -4,15 +4,31 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Sat, 17 Oct 2026 04:24:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:42:42 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-10-17</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-10-17T04:24:04Z</ght:updatedAt>
+    <ght:updatedAt>2026-10-17T10:42:42Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
+    <item>
+      <title>Gentleman-Programming/engram</title>
+      <link>https://github.com/Gentleman-Programming/engram</link>
+      <description>Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.</description>
+      <guid isPermaLink="true">https://github.com/Gentleman-Programming/engram</guid>
+      <pubDate>Sat, 17 Oct 2026 04:24:04 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7379</ght:stars>
+      <ght:forks>770</ght:forks>
+      <ght:starsInPeriod>102</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
     <item>
       <title>JuliusBrussee/caveman</title>
       <link>https://github.com/JuliusBrussee/caveman</link>
@@ -20,14 +36,14 @@
       <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
       <pubDate>Sat, 17 Oct 2026 04:24:04 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>113085</ght:stars>
-      <ght:forks>6546</ght:forks>
+      <ght:stars>113146</ght:stars>
+      <ght:forks>6549</ght:forks>
       <ght:starsInPeriod>828</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
-      <ght:latestRank>1</ght:latestRank>
+      <ght:latestRank>2</ght:latestRank>
       <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>gitleaks/gitleaks</title>
@@ -36,14 +52,14 @@
       <guid isPermaLink="true">https://github.com/gitleaks/gitleaks</guid>
       <pubDate>Sat, 17 Oct 2026 04:24:04 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>30046</ght:stars>
-      <ght:forks>2322</ght:forks>
+      <ght:stars>30057</ght:stars>
+      <ght:forks>2333</ght:forks>
       <ght:starsInPeriod>54</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
-      <ght:latestRank>2</ght:latestRank>
+      <ght:latestRank>5</ght:latestRank>
       <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>tristenlammi/Arrmada</title>
@@ -52,13 +68,29 @@
       <guid isPermaLink="true">https://github.com/tristenlammi/Arrmada</guid>
       <pubDate>Sat, 17 Oct 2026 04:24:04 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>272</ght:stars>
-      <ght:forks>13</ght:forks>
+      <ght:stars>286</ght:stars>
+      <ght:forks>15</ght:forks>
       <ght:starsInPeriod>50</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
-      <ght:latestRank>3</ght:latestRank>
+      <ght:latestRank>16</ght:latestRank>
       <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>kubernetes-sigs/agent-sandbox</title>
+      <link>https://github.com/kubernetes-sigs/agent-sandbox</link>
+      <description>agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).</description>
+      <guid isPermaLink="true">https://github.com/kubernetes-sigs/agent-sandbox</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4286</ght:stars>
+      <ght:forks>567</ght:forks>
+      <ght:starsInPeriod>13</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -75,6 +107,22 @@
       <ght:latestRank>4</ght:latestRank>
       <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>ollama/ollama</title>
+      <link>https://github.com/ollama/ollama</link>
+      <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
+      <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>183557</ght:stars>
+      <ght:forks>18347</ght:forks>
+      <ght:starsInPeriod>166</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -100,14 +148,14 @@
       <guid isPermaLink="true">https://github.com/cilium/cilium</guid>
       <pubDate>Sat, 17 Oct 2026 04:24:04 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>25671</ght:stars>
-      <ght:forks>4165</ght:forks>
+      <ght:stars>25674</ght:stars>
+      <ght:forks>4166</ght:forks>
       <ght:starsInPeriod>11</ght:starsInPeriod>
       <ght:bestRank>6</ght:bestRank>
-      <ght:latestRank>6</ght:latestRank>
+      <ght:latestRank>7</ght:latestRank>
       <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>jasonxu114514/opencode2api</title>
@@ -116,14 +164,14 @@
       <guid isPermaLink="true">https://github.com/jasonxu114514/opencode2api</guid>
       <pubDate>Sat, 17 Oct 2026 04:24:04 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>906</ght:stars>
-      <ght:forks>170</ght:forks>
+      <ght:stars>942</ght:stars>
+      <ght:forks>174</ght:forks>
       <ght:starsInPeriod>185</ght:starsInPeriod>
-      <ght:bestRank>7</ght:bestRank>
-      <ght:latestRank>7</ght:latestRank>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
       <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>sipeed/picoclaw</title>
@@ -142,20 +190,36 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>Gentleman-Programming/engram</title>
-      <link>https://github.com/Gentleman-Programming/engram</link>
-      <description>Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.</description>
-      <guid isPermaLink="true">https://github.com/Gentleman-Programming/engram</guid>
+      <title>etcd-io/etcd</title>
+      <link>https://github.com/etcd-io/etcd</link>
+      <description>Distributed reliable key-value store for the most critical data of a distributed system</description>
+      <guid isPermaLink="true">https://github.com/etcd-io/etcd</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>52369</ght:stars>
+      <ght:forks>10539</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>llm-d/llm-d-router</title>
+      <link>https://github.com/llm-d/llm-d-router</link>
+      <description>llm-d Router: The intelligent entry point for inference requests</description>
+      <guid isPermaLink="true">https://github.com/llm-d/llm-d-router</guid>
       <pubDate>Sat, 17 Oct 2026 04:24:04 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>7367</ght:stars>
-      <ght:forks>769</ght:forks>
-      <ght:starsInPeriod>102</ght:starsInPeriod>
+      <ght:stars>415</ght:stars>
+      <ght:forks>459</ght:forks>
+      <ght:starsInPeriod>6</ght:starsInPeriod>
       <ght:bestRank>9</ght:bestRank>
       <ght:latestRank>9</ght:latestRank>
       <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>GoogleCloudPlatform/scion</title>
@@ -164,13 +228,29 @@
       <guid isPermaLink="true">https://github.com/GoogleCloudPlatform/scion</guid>
       <pubDate>Sat, 17 Oct 2026 04:24:04 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1933</ght:stars>
-      <ght:forks>286</ght:forks>
+      <ght:stars>1939</ght:stars>
+      <ght:forks>288</ght:forks>
       <ght:starsInPeriod>41</ght:starsInPeriod>
       <ght:bestRank>10</ght:bestRank>
-      <ght:latestRank>10</ght:latestRank>
+      <ght:latestRank>20</ght:latestRank>
       <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>spf13/cobra</title>
+      <link>https://github.com/spf13/cobra</link>
+      <description>A Commander for modern Go CLI interactions</description>
+      <guid isPermaLink="true">https://github.com/spf13/cobra</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>44704</ght:stars>
+      <ght:forks>6178</ght:forks>
+      <ght:starsInPeriod>3</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -190,19 +270,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>llm-d/llm-d-router</title>
-      <link>https://github.com/llm-d/llm-d-router</link>
-      <description>llm-d Router: The intelligent entry point for inference requests</description>
-      <guid isPermaLink="true">https://github.com/llm-d/llm-d-router</guid>
-      <pubDate>Sat, 17 Oct 2026 04:24:04 GMT</pubDate>
+      <title>argoproj/argo-cd</title>
+      <link>https://github.com/argoproj/argo-cd</link>
+      <description>Declarative Continuous Deployment for Kubernetes</description>
+      <guid isPermaLink="true">https://github.com/argoproj/argo-cd</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>415</ght:stars>
-      <ght:forks>459</ght:forks>
-      <ght:starsInPeriod>6</ght:starsInPeriod>
+      <ght:stars>24421</ght:stars>
+      <ght:forks>7971</ght:forks>
+      <ght:starsInPeriod>8</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>kubernetes/kubernetes</title>
+      <link>https://github.com/kubernetes/kubernetes</link>
+      <description>Production-Grade Container Scheduling and Management</description>
+      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>128319</ght:stars>
+      <ght:forks>47286</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
       <ght:bestRank>12</ght:bestRank>
       <ght:latestRank>12</ght:latestRank>
-      <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -212,14 +308,14 @@
       <guid isPermaLink="true">https://github.com/Wei-Shaw/sub2api</guid>
       <pubDate>Sat, 17 Oct 2026 04:24:04 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>44223</ght:stars>
-      <ght:forks>9472</ght:forks>
+      <ght:stars>44243</ght:stars>
+      <ght:forks>9482</ght:forks>
       <ght:starsInPeriod>107</ght:starsInPeriod>
       <ght:bestRank>13</ght:bestRank>
       <ght:latestRank>13</ght:latestRank>
       <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>tbphp/gpt-load</title>
@@ -238,6 +334,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>bia-pain-bache/BPB-Wizard</title>
+      <link>https://github.com/bia-pain-bache/BPB-Wizard</link>
+      <description>A wizard to facilitate BPB Panel deployment and management.</description>
+      <guid isPermaLink="true">https://github.com/bia-pain-bache/BPB-Wizard</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>1067</ght:stars>
+      <ght:forks>302</ght:forks>
+      <ght:starsInPeriod>5</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>zeromicro/go-zero</title>
       <link>https://github.com/zeromicro/go-zero</link>
       <description>A cloud-native Go microservices framework with cli tool for productivity.</description>
@@ -251,6 +363,22 @@
       <ght:latestRank>15</ght:latestRank>
       <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>google/ax</title>
+      <link>https://github.com/google/ax</link>
+      <description>Google's open agentic orchestration runtime</description>
+      <guid isPermaLink="true">https://github.com/google/ax</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>13845</ght:stars>
+      <ght:forks>712</ght:forks>
+      <ght:starsInPeriod>154</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -286,6 +414,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>pion/webrtc</title>
+      <link>https://github.com/pion/webrtc</link>
+      <description>Pure Go implementation of the WebRTC API</description>
+      <guid isPermaLink="true">https://github.com/pion/webrtc</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>16843</ght:stars>
+      <ght:forks>1908</ght:forks>
+      <ght:starsInPeriod />
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>bytebase/bytebase</title>
       <link>https://github.com/bytebase/bytebase</link>
       <description>Database governance built for humans and agents — controlling changes and access across every major database.</description>
@@ -299,6 +443,22 @@
       <ght:latestRank>18</ght:latestRank>
       <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>ygelfand/echolocal</title>
+      <link>https://github.com/ygelfand/echolocal</link>
+      <description>Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.</description>
+      <guid isPermaLink="true">https://github.com/ygelfand/echolocal</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>432</ght:stars>
+      <ght:forks>23</ght:forks>
+      <ght:starsInPeriod>25</ght:starsInPeriod>
+      <ght:bestRank>18</ght:bestRank>
+      <ght:latestRank>18</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -318,6 +478,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>gastownhall/beads</title>
+      <link>https://github.com/gastownhall/beads</link>
+      <description>Beads - A memory upgrade for your coding agent</description>
+      <guid isPermaLink="true">https://github.com/gastownhall/beads</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>27952</ght:stars>
+      <ght:forks>1893</ght:forks>
+      <ght:starsInPeriod>29</ght:starsInPeriod>
+      <ght:bestRank>19</ght:bestRank>
+      <ght:latestRank>19</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>prometheus/node_exporter</title>
       <link>https://github.com/prometheus/node_exporter</link>
       <description>Exporter for machine metrics</description>
@@ -331,6 +507,54 @@
       <ght:latestRank>20</ght:latestRank>
       <ght:firstSeenAt>2026-10-17T04:24:04Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-17T04:24:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>owncast/owncast</title>
+      <link>https://github.com/owncast/owncast</link>
+      <description>Take control over your live stream video by running it yourself. Streaming + chat out of the box.</description>
+      <guid isPermaLink="true">https://github.com/owncast/owncast</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>11603</ght:stars>
+      <ght:forks>1186</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
+      <ght:bestRank>21</ght:bestRank>
+      <ght:latestRank>21</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>microsoft/TypeScript</title>
+      <link>https://github.com/microsoft/TypeScript</link>
+      <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
+      <guid isPermaLink="true">https://github.com/microsoft/TypeScript</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>111506</ght:stars>
+      <ght:forks>17034</ght:forks>
+      <ght:starsInPeriod>17</ght:starsInPeriod>
+      <ght:bestRank>22</ght:bestRank>
+      <ght:latestRank>22</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>vshulcz/deja-vu</title>
+      <link>https://github.com/vshulcz/deja-vu</link>
+      <description>Coding agent memory for Claude Code, Codex, Cursor and 39 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.</description>
+      <guid isPermaLink="true">https://github.com/vshulcz/deja-vu</guid>
+      <pubDate>Sat, 17 Oct 2026 10:42:42 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>1224</ght:stars>
+      <ght:forks>125</ght:forks>
+      <ght:starsInPeriod>9</ght:starsInPeriod>
+      <ght:bestRank>23</ght:bestRank>
+      <ght:latestRank>23</ght:latestRank>
+      <ght:firstSeenAt>2026-10-17T10:42:42Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-17T10:42:42Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>

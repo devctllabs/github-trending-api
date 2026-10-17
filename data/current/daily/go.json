@@ -4,122 +4,92 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-17T04:24:04Z",
+  "observedAt": "2026-10-17T10:42:42Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "programmingLanguage": "Go",
-      "stars": 113085,
-      "forks": 6546,
-      "starsInPeriod": 828
-    },
-    {
-      "rank": 2,
-      "fullName": "gitleaks/gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
-      "programmingLanguage": "Go",
-      "stars": 30046,
-      "forks": 2322,
-      "starsInPeriod": 54
-    },
-    {
-      "rank": 3,
-      "fullName": "tristenlammi/Arrmada",
-      "url": "https://github.com/tristenlammi/Arrmada",
-      "description": "arrrrrrrr",
-      "programmingLanguage": "Go",
-      "stars": 272,
-      "forks": 13,
-      "starsInPeriod": 50
-    },
-    {
-      "rank": 4,
-      "fullName": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "programmingLanguage": "Go",
-      "stars": 30771,
-      "forks": 4680,
-      "starsInPeriod": 368
-    },
-    {
-      "rank": 5,
-      "fullName": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "programmingLanguage": "Go",
-      "stars": 34418,
-      "forks": 4591,
-      "starsInPeriod": 218
-    },
-    {
-      "rank": 6,
-      "fullName": "cilium/cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
-      "programmingLanguage": "Go",
-      "stars": 25671,
-      "forks": 4165,
-      "starsInPeriod": 11
-    },
-    {
-      "rank": 7,
-      "fullName": "jasonxu114514/opencode2api",
-      "url": "https://github.com/jasonxu114514/opencode2api",
-      "description": "A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.",
-      "programmingLanguage": "Go",
-      "stars": 906,
-      "forks": 170,
-      "starsInPeriod": 185
-    },
-    {
-      "rank": 8,
-      "fullName": "sipeed/picoclaw",
-      "url": "https://github.com/sipeed/picoclaw",
-      "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
-      "programmingLanguage": "Go",
-      "stars": 30079,
-      "forks": 4468,
-      "starsInPeriod": 41
-    },
-    {
-      "rank": 9,
       "fullName": "Gentleman-Programming/engram",
       "url": "https://github.com/Gentleman-Programming/engram",
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "programmingLanguage": "Go",
-      "stars": 7367,
-      "forks": 769,
+      "stars": 7379,
+      "forks": 770,
       "starsInPeriod": 102
     },
     {
-      "rank": 10,
-      "fullName": "GoogleCloudPlatform/scion",
-      "url": "https://github.com/GoogleCloudPlatform/scion",
-      "description": null,
+      "rank": 2,
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 1933,
-      "forks": 286,
-      "starsInPeriod": 41
+      "stars": 113146,
+      "forks": 6549,
+      "starsInPeriod": 828
     },
     {
-      "rank": 11,
-      "fullName": "keploy/keploy",
-      "url": "https://github.com/keploy/keploy",
-      "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+      "rank": 3,
+      "fullName": "kubernetes-sigs/agent-sandbox",
+      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
       "programmingLanguage": "Go",
-      "stars": 18605,
-      "forks": 2414,
-      "starsInPeriod": 16
+      "stars": 4286,
+      "forks": 567,
+      "starsInPeriod": 13
     },
     {
-      "rank": 12,
+      "rank": 4,
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "programmingLanguage": "Go",
+      "stars": 183557,
+      "forks": 18347,
+      "starsInPeriod": 166
+    },
+    {
+      "rank": 5,
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "programmingLanguage": "Go",
+      "stars": 30057,
+      "forks": 2333,
+      "starsInPeriod": 54
+    },
+    {
+      "rank": 6,
+      "fullName": "jasonxu114514/opencode2api",
+      "url": "https://github.com/jasonxu114514/opencode2api",
+      "description": "A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.",
+      "programmingLanguage": "Go",
+      "stars": 942,
+      "forks": 174,
+      "starsInPeriod": 185
+    },
+    {
+      "rank": 7,
+      "fullName": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "programmingLanguage": "Go",
+      "stars": 25674,
+      "forks": 4166,
+      "starsInPeriod": 11
+    },
+    {
+      "rank": 8,
+      "fullName": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "programmingLanguage": "Go",
+      "stars": 52369,
+      "forks": 10539,
+      "starsInPeriod": 7
+    },
+    {
+      "rank": 9,
       "fullName": "llm-d/llm-d-router",
       "url": "https://github.com/llm-d/llm-d-router",
       "description": "llm-d Router: The intelligent entry point for inference requests",
@@ -129,84 +99,144 @@
       "starsInPeriod": 6
     },
     {
+      "rank": 10,
+      "fullName": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "programmingLanguage": "Go",
+      "stars": 44704,
+      "forks": 6178,
+      "starsInPeriod": 3
+    },
+    {
+      "rank": 11,
+      "fullName": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 24421,
+      "forks": 7971,
+      "starsInPeriod": 8
+    },
+    {
+      "rank": 12,
+      "fullName": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "programmingLanguage": "Go",
+      "stars": 128319,
+      "forks": 47286,
+      "starsInPeriod": 24
+    },
+    {
       "rank": 13,
       "fullName": "Wei-Shaw/sub2api",
       "url": "https://github.com/Wei-Shaw/sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "programmingLanguage": "Go",
-      "stars": 44223,
-      "forks": 9472,
+      "stars": 44243,
+      "forks": 9482,
       "starsInPeriod": 107
     },
     {
       "rank": 14,
-      "fullName": "tbphp/gpt-load",
-      "url": "https://github.com/tbphp/gpt-load",
-      "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
+      "fullName": "bia-pain-bache/BPB-Wizard",
+      "url": "https://github.com/bia-pain-bache/BPB-Wizard",
+      "description": "A wizard to facilitate BPB Panel deployment and management.",
       "programmingLanguage": "Go",
-      "stars": 7144,
-      "forks": 793,
-      "starsInPeriod": 31
+      "stars": 1067,
+      "forks": 302,
+      "starsInPeriod": 5
     },
     {
       "rank": 15,
-      "fullName": "zeromicro/go-zero",
-      "url": "https://github.com/zeromicro/go-zero",
-      "description": "A cloud-native Go microservices framework with cli tool for productivity.",
+      "fullName": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
       "programmingLanguage": "Go",
-      "stars": 33386,
-      "forks": 4330,
-      "starsInPeriod": 4
+      "stars": 13845,
+      "forks": 712,
+      "starsInPeriod": 154
     },
     {
       "rank": 16,
-      "fullName": "router-for-me/CLIProxyAPI",
-      "url": "https://github.com/router-for-me/CLIProxyAPI",
-      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+      "fullName": "tristenlammi/Arrmada",
+      "url": "https://github.com/tristenlammi/Arrmada",
+      "description": "arrrrrrrr",
       "programmingLanguage": "Go",
-      "stars": 55472,
-      "forks": 8482,
-      "starsInPeriod": 111
+      "stars": 286,
+      "forks": 15,
+      "starsInPeriod": 50
     },
     {
       "rank": 17,
-      "fullName": "gotenberg/gotenberg",
-      "url": "https://github.com/gotenberg/gotenberg",
-      "description": "A developer-friendly API for converting many document formats into PDF files, and more!",
+      "fullName": "pion/webrtc",
+      "url": "https://github.com/pion/webrtc",
+      "description": "Pure Go implementation of the WebRTC API",
       "programmingLanguage": "Go",
-      "stars": 13313,
-      "forks": 872,
-      "starsInPeriod": 10
+      "stars": 16843,
+      "forks": 1908,
+      "starsInPeriod": null
     },
     {
       "rank": 18,
-      "fullName": "bytebase/bytebase",
-      "url": "https://github.com/bytebase/bytebase",
-      "description": "Database governance built for humans and agents — controlling changes and access across every major database.",
+      "fullName": "ygelfand/echolocal",
+      "url": "https://github.com/ygelfand/echolocal",
+      "description": "Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.",
       "programmingLanguage": "Go",
-      "stars": 14584,
-      "forks": 997,
-      "starsInPeriod": 9
+      "stars": 432,
+      "forks": 23,
+      "starsInPeriod": 25
     },
     {
       "rank": 19,
-      "fullName": "skyhook-io/radar",
-      "url": "https://github.com/skyhook-io/radar",
-      "description": "The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.",
+      "fullName": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 3830,
-      "forks": 245,
-      "starsInPeriod": 15
+      "stars": 27952,
+      "forks": 1893,
+      "starsInPeriod": 29
     },
     {
       "rank": 20,
-      "fullName": "prometheus/node_exporter",
-      "url": "https://github.com/prometheus/node_exporter",
-      "description": "Exporter for machine metrics",
+      "fullName": "GoogleCloudPlatform/scion",
+      "url": "https://github.com/GoogleCloudPlatform/scion",
+      "description": null,
       "programmingLanguage": "Go",
-      "stars": 13848,
-      "forks": 2729,
-      "starsInPeriod": 2
+      "stars": 1939,
+      "forks": 288,
+      "starsInPeriod": 41
+    },
+    {
+      "rank": 21,
+      "fullName": "owncast/owncast",
+      "url": "https://github.com/owncast/owncast",
+      "description": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
+      "programmingLanguage": "Go",
+      "stars": 11603,
+      "forks": 1186,
+      "starsInPeriod": 4
+    },
+    {
+      "rank": 22,
+      "fullName": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "programmingLanguage": "Go",
+      "stars": 111506,
+      "forks": 17034,
+      "starsInPeriod": 17
+    },
+    {
+      "rank": 23,
+      "fullName": "vshulcz/deja-vu",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "description": "Coding agent memory for Claude Code, Codex, Cursor and 39 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.",
+      "programmingLanguage": "Go",
+      "stars": 1224,
+      "forks": 125,
+      "starsInPeriod": 9
     }
   ]
 }

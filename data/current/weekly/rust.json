@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-10-17T04:23:58Z",
+  "observedAt": "2026-10-17T10:42:35Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 30768,
-      "forks": 4886,
+      "stars": 31108,
+      "forks": 4932,
       "starsInPeriod": 20267
     },
     {
@@ -24,59 +24,29 @@
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 2370,
-      "forks": 140,
+      "stars": 2372,
+      "forks": 143,
       "starsInPeriod": 372
     },
     {
       "rank": 3,
-      "fullName": "microsoft/mxc",
-      "url": "https://github.com/microsoft/mxc",
-      "description": "Policy-driven, layered isolation and containment",
+      "fullName": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
       "programmingLanguage": "Rust",
-      "stars": 2879,
-      "forks": 155,
-      "starsInPeriod": 640
+      "stars": 7308,
+      "forks": 380,
+      "starsInPeriod": 4073
     },
     {
       "rank": 4,
-      "fullName": "koharu-rs/koharu",
-      "url": "https://github.com/koharu-rs/koharu",
-      "description": "ML-powered manga translator, written in Rust.",
-      "programmingLanguage": "Rust",
-      "stars": 6356,
-      "forks": 455,
-      "starsInPeriod": 483
-    },
-    {
-      "rank": 5,
-      "fullName": "lexmount/moli",
-      "url": "https://github.com/lexmount/moli",
-      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
-      "programmingLanguage": "Rust",
-      "stars": 19054,
-      "forks": 551,
-      "starsInPeriod": 4529
-    },
-    {
-      "rank": 6,
       "fullName": "HakanSeven12/OpenCADStudio",
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 3141,
-      "forks": 366,
+      "stars": 3152,
+      "forks": 368,
       "starsInPeriod": 524
-    },
-    {
-      "rank": 7,
-      "fullName": "vosen/ZLUDA",
-      "url": "https://github.com/vosen/ZLUDA",
-      "description": "CUDA on non-NVIDIA GPUs",
-      "programmingLanguage": "Rust",
-      "stars": 15092,
-      "forks": 956,
-      "starsInPeriod": 168
     }
   ]
 }

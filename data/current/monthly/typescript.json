@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript?since=monthly",
-  "observedAt": "2026-10-17T04:24:32Z",
+  "observedAt": "2026-10-17T10:43:09Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "programmingLanguage": "TypeScript",
-      "stars": 103232,
-      "forks": 17271,
+      "stars": 103335,
+      "forks": 17279,
       "starsInPeriod": 22617
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "programmingLanguage": "TypeScript",
-      "stars": 65413,
-      "forks": 5895,
+      "stars": 65575,
+      "forks": 5912,
       "starsInPeriod": 14754
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "programmingLanguage": "TypeScript",
-      "stars": 30287,
-      "forks": 2133,
+      "stars": 30385,
+      "forks": 2183,
       "starsInPeriod": 6983
     },
     {
@@ -44,29 +44,29 @@
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "programmingLanguage": "TypeScript",
-      "stars": 36280,
-      "forks": 4895,
+      "stars": 36376,
+      "forks": 4909,
       "starsInPeriod": 9724
     },
     {
       "rank": 5,
-      "fullName": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "programmingLanguage": "TypeScript",
-      "stars": 151274,
-      "forks": 26851,
-      "starsInPeriod": 6803
-    },
-    {
-      "rank": 6,
       "fullName": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "programmingLanguage": "TypeScript",
-      "stars": 12028,
-      "forks": 1166,
+      "stars": 12141,
+      "forks": 1178,
       "starsInPeriod": 4016
+    },
+    {
+      "rank": 6,
+      "fullName": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "programmingLanguage": "TypeScript",
+      "stars": 151321,
+      "forks": 26853,
+      "starsInPeriod": 6803
     },
     {
       "rank": 7,
@@ -74,8 +74,8 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "programmingLanguage": "TypeScript",
-      "stars": 101253,
-      "forks": 8873,
+      "stars": 101292,
+      "forks": 8871,
       "starsInPeriod": 7673
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://github.com/pingdotgg/t3code",
       "description": null,
       "programmingLanguage": "TypeScript",
-      "stars": 27992,
-      "forks": 7494,
+      "stars": 28037,
+      "forks": 7504,
       "starsInPeriod": 5251
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://github.com/Effect-TS/effect",
       "description": "Build production-ready applications in TypeScript",
       "programmingLanguage": "TypeScript",
-      "stars": 17309,
+      "stars": 17312,
       "forks": 866,
       "starsInPeriod": 1279
     },
@@ -104,39 +104,39 @@
       "url": "https://github.com/remotion-dev/remotion",
       "description": "🎥 Make videos programmatically with React",
       "programmingLanguage": "TypeScript",
-      "stars": 64618,
-      "forks": 5113,
+      "stars": 64663,
+      "forks": 5117,
       "starsInPeriod": 5336
     },
     {
       "rank": 11,
-      "fullName": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "programmingLanguage": "TypeScript",
-      "stars": 111662,
-      "forks": 17058,
-      "starsInPeriod": 2619
-    },
-    {
-      "rank": 12,
       "fullName": "vercel-labs/skills",
       "url": "https://github.com/vercel-labs/skills",
       "description": "The open agent skills tool - npx skills",
       "programmingLanguage": "TypeScript",
-      "stars": 35270,
+      "stars": 35302,
       "forks": 3008,
       "starsInPeriod": 3589
     },
     {
-      "rank": 13,
+      "rank": 12,
       "fullName": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "programmingLanguage": "TypeScript",
-      "stars": 94596,
-      "forks": 6048,
+      "stars": 94776,
+      "forks": 6061,
       "starsInPeriod": 24782
+    },
+    {
+      "rank": 13,
+      "fullName": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "programmingLanguage": "TypeScript",
+      "stars": 4387,
+      "forks": 779,
+      "starsInPeriod": 1822
     },
     {
       "rank": 14,
@@ -154,8 +154,8 @@
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "programmingLanguage": "TypeScript",
-      "stars": 22643,
-      "forks": 1895,
+      "stars": 22650,
+      "forks": 1894,
       "starsInPeriod": 8410
     },
     {
@@ -164,7 +164,7 @@
       "url": "https://github.com/pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "programmingLanguage": "TypeScript",
-      "stars": 5978,
+      "stars": 5985,
       "forks": 504,
       "starsInPeriod": 4278
     },
@@ -174,57 +174,47 @@
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "programmingLanguage": "TypeScript",
-      "stars": 20309,
+      "stars": 20317,
       "forks": 2500,
       "starsInPeriod": 6142
     },
     {
       "rank": 18,
-      "fullName": "bendlang/bend",
-      "url": "https://github.com/bendlang/bend",
-      "description": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh",
-      "programmingLanguage": "TypeScript",
-      "stars": 23734,
-      "forks": 751,
-      "starsInPeriod": 4074
-    },
-    {
-      "rank": 19,
       "fullName": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agentic apps",
       "programmingLanguage": "TypeScript",
-      "stars": 7398,
+      "stars": 7405,
       "forks": 671,
       "starsInPeriod": 2654
     },
     {
-      "rank": 20,
+      "rank": 19,
       "fullName": "krillinai/OpenCreator",
       "url": "https://github.com/krillinai/OpenCreator",
       "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
       "programmingLanguage": "TypeScript",
-      "stars": 13544,
-      "forks": 1479,
+      "stars": 13586,
+      "forks": 1483,
       "starsInPeriod": 2084
     },
     {
-      "rank": 21,
-      "fullName": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "rank": 20,
+      "fullName": "anthropics/claude-code-action",
+      "url": "https://github.com/anthropics/claude-code-action",
+      "description": null,
       "programmingLanguage": "TypeScript",
-      "stars": 9063,
-      "forks": 654,
-      "starsInPeriod": 6474
+      "stars": 9548,
+      "forks": 2210,
+      "starsInPeriod": 688
     },
     {
-      "rank": 22,
+      "rank": 21,
       "fullName": "mobile-next/mobile-mcp",
       "url": "https://github.com/mobile-next/mobile-mcp",
       "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
       "programmingLanguage": "TypeScript",
-      "stars": 9677,
+      "stars": 9688,
       "forks": 859,
       "starsInPeriod": 2988
     }
