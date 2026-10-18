@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-10-18T15:51:30Z",
+  "updatedAt": "2026-10-18T20:41:38Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -28,14 +28,14 @@
       "url": "https://github.com/heartleo/zlib",
       "description": "A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents.",
       "programmingLanguage": "Go",
-      "stars": 1064,
+      "stars": 1072,
       "forks": 84,
       "starsInPeriod": 126,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-18T15:51:30Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 2
     },
     {
       "fullName": "JuliusBrussee/caveman",
@@ -56,28 +56,28 @@
       "url": "https://github.com/alvinunreal/lazyskills",
       "description": "mission control for agent skills",
       "programmingLanguage": "Go",
-      "stars": 551,
+      "stars": 555,
       "forks": 70,
       "starsInPeriod": 107,
       "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-10-18T15:51:30Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 2
     },
     {
       "fullName": "google/ax",
       "url": "https://github.com/google/ax",
-      "description": "Google's open agentic orchestration runtime",
+      "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
       "programmingLanguage": "Go",
-      "stars": 13927,
-      "forks": 721,
-      "starsInPeriod": 175,
+      "stars": 13932,
+      "forks": 722,
+      "starsInPeriod": 57,
       "bestRank": 3,
       "latestRank": 3,
       "firstSeenAt": "2026-10-18T04:31:33Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 3
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 4
     },
     {
       "fullName": "kubernetes-sigs/agent-sandbox",
@@ -98,56 +98,56 @@
       "url": "https://github.com/jasonxu114514/opencode2api",
       "description": "A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.",
       "programmingLanguage": "Go",
-      "stars": 1041,
-      "forks": 188,
-      "starsInPeriod": 104,
+      "stars": 1045,
+      "forks": 189,
+      "starsInPeriod": 66,
       "bestRank": 4,
       "latestRank": 4,
       "firstSeenAt": "2026-10-18T04:31:33Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 3
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 4
     },
     {
       "fullName": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 183718,
-      "forks": 18382,
-      "starsInPeriod": 167,
+      "stars": 183730,
+      "forks": 18392,
+      "starsInPeriod": 144,
       "bestRank": 4,
       "latestRank": 6,
       "firstSeenAt": "2026-10-18T04:31:33Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 3
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 4
     },
     {
       "fullName": "gitleaks/gitleaks",
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 30092,
-      "forks": 2372,
+      "stars": 30098,
+      "forks": 2381,
       "starsInPeriod": 32,
       "bestRank": 5,
       "latestRank": 7,
       "firstSeenAt": "2026-10-18T04:31:33Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 3
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 4
     },
     {
       "fullName": "tristenlammi/Arrmada",
       "url": "https://github.com/tristenlammi/Arrmada",
       "description": "One self-hosted app for all your media.",
       "programmingLanguage": "Go",
-      "stars": 339,
+      "stars": 348,
       "forks": 18,
-      "starsInPeriod": 68,
+      "starsInPeriod": 43,
       "bestRank": 5,
       "latestRank": 5,
       "firstSeenAt": "2026-10-18T11:03:02Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 3
     },
     {
       "fullName": "cilium/cilium",
@@ -182,28 +182,28 @@
       "url": "https://github.com/github/github-mcp-server",
       "description": "GitHub's official MCP Server",
       "programmingLanguage": "Go",
-      "stars": 33721,
-      "forks": 5311,
+      "stars": 33731,
+      "forks": 5330,
       "starsInPeriod": 43,
       "bestRank": 8,
       "latestRank": 8,
       "firstSeenAt": "2026-10-18T15:51:30Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 2
     },
     {
       "fullName": "gastownhall/beads",
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 27986,
+      "stars": 27989,
       "forks": 1894,
-      "starsInPeriod": 33,
+      "starsInPeriod": 27,
       "bestRank": 9,
       "latestRank": 9,
       "firstSeenAt": "2026-10-18T04:31:33Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 3
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 4
     },
     {
       "fullName": "llm-d/llm-d-router",
@@ -238,14 +238,14 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 5470,
-      "forks": 596,
+      "stars": 5488,
+      "forks": 599,
       "starsInPeriod": 93,
       "bestRank": 10,
       "latestRank": 10,
       "firstSeenAt": "2026-10-18T15:51:30Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 2
     },
     {
       "fullName": "argoproj/argo-cd",
@@ -266,14 +266,14 @@
       "url": "https://github.com/VersusControl/versus-incident",
       "description": "The self-hosted AI SRE agent. You don't have to monitor your systems alone. Versus Incident will keep track of your services, applications, and systems, detect new or unexpected problems, and provide your team with the evidence needed to investigate.",
       "programmingLanguage": "Go",
-      "stars": 867,
+      "stars": 871,
       "forks": 162,
       "starsInPeriod": 6,
       "bestRank": 11,
       "latestRank": 11,
       "firstSeenAt": "2026-10-18T15:51:30Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 2
     },
     {
       "fullName": "kubernetes/kubernetes",
@@ -294,14 +294,14 @@
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "programmingLanguage": "Go",
-      "stars": 49621,
-      "forks": 4504,
+      "stars": 49620,
+      "forks": 4505,
       "starsInPeriod": 26,
       "bestRank": 12,
       "latestRank": 12,
       "firstSeenAt": "2026-10-18T15:51:30Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 2
     },
     {
       "fullName": "Wei-Shaw/sub2api",
@@ -322,14 +322,14 @@
       "url": "https://github.com/authelia/authelia",
       "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
       "programmingLanguage": "Go",
-      "stars": 29299,
-      "forks": 1517,
+      "stars": 29302,
+      "forks": 1518,
       "starsInPeriod": 8,
       "bestRank": 13,
       "latestRank": 13,
       "firstSeenAt": "2026-10-18T15:51:30Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 2
     },
     {
       "fullName": "bia-pain-bache/BPB-Wizard",
@@ -356,22 +356,22 @@
       "bestRank": 14,
       "latestRank": 14,
       "firstSeenAt": "2026-10-18T15:51:30Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 2
     },
     {
       "fullName": "Mag1cFall/AIStudio2API",
       "url": "https://github.com/Mag1cFall/AIStudio2API",
       "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
       "programmingLanguage": "Go",
-      "stars": 350,
+      "stars": 355,
       "forks": 100,
       "starsInPeriod": 35,
       "bestRank": 15,
       "latestRank": 15,
       "firstSeenAt": "2026-10-18T15:51:30Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 2
     },
     {
       "fullName": "pion/webrtc",
@@ -392,42 +392,42 @@
       "url": "https://github.com/guohuiyuan/go-music-dl",
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "programmingLanguage": "Go",
-      "stars": 5456,
+      "stars": 5459,
       "forks": 520,
       "starsInPeriod": 37,
       "bestRank": 16,
       "latestRank": 16,
       "firstSeenAt": "2026-10-18T15:51:30Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 2
     },
     {
       "fullName": "ygelfand/echolocal",
       "url": "https://github.com/ygelfand/echolocal",
       "description": "Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.",
       "programmingLanguage": "Go",
-      "stars": 452,
+      "stars": 455,
       "forks": 24,
-      "starsInPeriod": 29,
+      "starsInPeriod": 15,
       "bestRank": 17,
       "latestRank": 17,
       "firstSeenAt": "2026-10-18T04:31:33Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 3
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 4
     },
     {
       "fullName": "dolthub/dolt",
       "url": "https://github.com/dolthub/dolt",
       "description": "Dolt – Git for Data",
       "programmingLanguage": "Go",
-      "stars": 24670,
+      "stars": 24675,
       "forks": 898,
       "starsInPeriod": 12,
       "bestRank": 18,
       "latestRank": 18,
       "firstSeenAt": "2026-10-18T15:51:30Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 2
     },
     {
       "fullName": "GoogleCloudPlatform/scion",
@@ -448,14 +448,14 @@
       "url": "https://github.com/masterking32/MasterDnsVPN",
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "programmingLanguage": "Go",
-      "stars": 7118,
+      "stars": 7122,
       "forks": 794,
       "starsInPeriod": 4,
       "bestRank": 19,
       "latestRank": 19,
       "firstSeenAt": "2026-10-18T15:51:30Z",
-      "lastSeenAt": "2026-10-18T15:51:30Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-18T20:41:38Z",
+      "appearances": 2
     },
     {
       "fullName": "owncast/owncast",
