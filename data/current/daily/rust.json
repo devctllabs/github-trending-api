@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-17T20:35:55Z",
+  "observedAt": "2026-10-18T04:31:23Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,19 +14,19 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 9842,
-      "forks": 711,
-      "starsInPeriod": 208
+      "stars": 10010,
+      "forks": 726,
+      "starsInPeriod": 178
     },
     {
       "rank": 2,
       "fullName": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "programmingLanguage": "Rust",
-      "stars": 7685,
-      "forks": 404,
-      "starsInPeriod": 1102
+      "stars": 7921,
+      "forks": 422,
+      "starsInPeriod": 1160
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "description": "Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
       "programmingLanguage": "Rust",
-      "stars": 7059,
+      "stars": 7072,
       "forks": 484,
-      "starsInPeriod": 93
+      "starsInPeriod": 76
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "programmingLanguage": "Rust",
-      "stars": 91861,
-      "forks": 11094,
-      "starsInPeriod": 43
+      "stars": 91871,
+      "forks": 11099,
+      "starsInPeriod": 52
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/ai-dynamo/dynamo",
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "programmingLanguage": "Rust",
-      "stars": 8323,
-      "forks": 1717,
-      "starsInPeriod": 8
+      "stars": 8326,
+      "forks": 1720,
+      "starsInPeriod": 7
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/mixelpixx/Konnect",
       "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "programmingLanguage": "Rust",
-      "stars": 1237,
-      "forks": 139,
-      "starsInPeriod": 228
+      "stars": 1254,
+      "forks": 141,
+      "starsInPeriod": 112
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/GCWing/OpenBitFun",
       "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
       "programmingLanguage": "Rust",
-      "stars": 2828,
+      "stars": 2831,
       "forks": 267,
-      "starsInPeriod": 151
+      "starsInPeriod": 148
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "programmingLanguage": "Rust",
-      "stars": 30255,
-      "forks": 4051,
-      "starsInPeriod": 87
+      "stars": 30271,
+      "forks": 4052,
+      "starsInPeriod": 77
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "programmingLanguage": "Rust",
-      "stars": 16628,
-      "forks": 788,
-      "starsInPeriod": 103
+      "stars": 16648,
+      "forks": 795,
+      "starsInPeriod": 97
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/surrealdb/surrealdb",
       "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
       "programmingLanguage": "Rust",
-      "stars": 33194,
-      "forks": 1425,
-      "starsInPeriod": 18
+      "stars": 33200,
+      "forks": 1434,
+      "starsInPeriod": 15
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/jdx/mise",
       "description": "dev tools, env vars, task runner",
       "programmingLanguage": "Rust",
-      "stars": 35117,
+      "stars": 35120,
       "forks": 1486,
-      "starsInPeriod": 47
+      "starsInPeriod": 45
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 126129,
-      "forks": 19788,
-      "starsInPeriod": 109
+      "stars": 126161,
+      "forks": 19789,
+      "starsInPeriod": 105
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/voidzero-dev/vite-plus",
       "description": "The unified toolchain and entry point for web development.",
       "programmingLanguage": "Rust",
-      "stars": 6344,
-      "forks": 283,
-      "starsInPeriod": 45
+      "stars": 6353,
+      "forks": 284,
+      "starsInPeriod": 37
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/pydantic/monty",
       "description": "A secure Python sandbox, written in Rust, for code written by AI.",
       "programmingLanguage": "Rust",
-      "stars": 8701,
+      "stars": 8709,
       "forks": 459,
-      "starsInPeriod": 9
+      "starsInPeriod": 11
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/foundry-rs/foundry",
       "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 10673,
+      "stars": 10674,
       "forks": 2677,
-      "starsInPeriod": 5
+      "starsInPeriod": 3
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/maddada/Ghostex",
       "description": "The Best & Most Powerful Native Agents Workspace. Fully Rust & GPUI based. Mobile apps. 20+ agents. Ghostty.",
       "programmingLanguage": "Rust",
-      "stars": 1249,
-      "forks": 87,
-      "starsInPeriod": 63
+      "stars": 1272,
+      "forks": 88,
+      "starsInPeriod": 77
     }
   ]
 }

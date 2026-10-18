@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=weekly",
-  "observedAt": "2026-10-17T20:35:38Z",
+  "observedAt": "2026-10-18T04:31:07Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 305852,
-      "forks": 77414,
-      "starsInPeriod": 248962
+      "stars": 309898,
+      "forks": 78447,
+      "starsInPeriod": 239923
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 31652,
-      "forks": 5012,
-      "starsInPeriod": 20267
+      "stars": 31910,
+      "forks": 5059,
+      "starsInPeriod": 18479
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "programmingLanguage": "C++",
-      "stars": 41428,
-      "forks": 3726,
-      "starsInPeriod": 20518
+      "stars": 41964,
+      "forks": 3797,
+      "starsInPeriod": 16250
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "programmingLanguage": "HTML",
-      "stars": 56935,
-      "forks": 3617,
-      "starsInPeriod": 9024
+      "stars": 57119,
+      "forks": 3635,
+      "starsInPeriod": 8382
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 41582,
-      "forks": 4452,
-      "starsInPeriod": 2328
+      "stars": 41927,
+      "forks": 4472,
+      "starsInPeriod": 3581
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "programmingLanguage": "TypeScript",
-      "stars": 65893,
-      "forks": 5947,
-      "starsInPeriod": 5601
+      "stars": 66085,
+      "forks": 5971,
+      "starsInPeriod": 5639
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "programmingLanguage": "TypeScript",
-      "stars": 30487,
-      "forks": 2189,
-      "starsInPeriod": 4207
+      "stars": 30545,
+      "forks": 2213,
+      "starsInPeriod": 4438
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "programmingLanguage": "Java",
-      "stars": 90177,
-      "forks": 10092,
-      "starsInPeriod": 7510
+      "stars": 90361,
+      "forks": 10116,
+      "starsInPeriod": 7608
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "programmingLanguage": "Shell",
-      "stars": 294982,
-      "forks": 24741,
-      "starsInPeriod": 11937
+      "stars": 295250,
+      "forks": 24763,
+      "starsInPeriod": 11272
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/ranxianglei/billion-context",
       "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "programmingLanguage": "TypeScript",
-      "stars": 1694,
-      "forks": 136,
-      "starsInPeriod": 779
+      "stars": 1754,
+      "forks": 141,
+      "starsInPeriod": 888
     }
   ]
 }

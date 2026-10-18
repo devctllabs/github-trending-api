@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-10-17T20:35:35Z",
+  "observedAt": "2026-10-18T04:31:03Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 41582,
-      "forks": 4452,
-      "starsInPeriod": 1383
+      "stars": 41927,
+      "forks": 4472,
+      "starsInPeriod": 1397
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "programmingLanguage": "Python",
-      "stars": 50117,
-      "forks": 16890,
-      "starsInPeriod": 1397
+      "stars": 50705,
+      "forks": 16965,
+      "starsInPeriod": 1365
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 282338,
-      "forks": 41969,
+      "stars": 282648,
+      "forks": 41997,
       "starsInPeriod": 1145
     },
     {
@@ -44,9 +44,9 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 53975,
-      "forks": 4900,
-      "starsInPeriod": 580
+      "stars": 54142,
+      "forks": 4908,
+      "starsInPeriod": 574
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "programmingLanguage": "Python",
-      "stars": 52166,
-      "forks": 4617,
-      "starsInPeriod": 879
+      "stars": 52348,
+      "forks": 4636,
+      "starsInPeriod": 878
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 9842,
-      "forks": 711,
-      "starsInPeriod": 208
+      "stars": 10010,
+      "forks": 726,
+      "starsInPeriod": 178
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/android/skills",
       "description": null,
       "programmingLanguage": "Kotlin",
-      "stars": 8374,
-      "forks": 551,
-      "starsInPeriod": 368
+      "stars": 8479,
+      "forks": 556,
+      "starsInPeriod": 355
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "programmingLanguage": "TypeScript",
-      "stars": 95255,
-      "forks": 6096,
-      "starsInPeriod": 829
+      "stars": 95580,
+      "forks": 6118,
+      "starsInPeriod": 830
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "programmingLanguage": "TypeScript",
-      "stars": 151619,
-      "forks": 26867,
-      "starsInPeriod": 168
+      "stars": 151868,
+      "forks": 26883,
+      "starsInPeriod": 179
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 73029,
-      "forks": 7987,
-      "starsInPeriod": 2135
+      "stars": 73657,
+      "forks": 8058,
+      "starsInPeriod": 2125
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "programmingLanguage": "TypeScript",
-      "stars": 215089,
-      "forks": 28850,
-      "starsInPeriod": 576
+      "stars": 215547,
+      "forks": 28878,
+      "starsInPeriod": 438
     },
     {
       "rank": 12,
@@ -124,19 +124,19 @@
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "programmingLanguage": "TypeScript",
-      "stars": 75984,
-      "forks": 8998,
-      "starsInPeriod": 406
+      "stars": 76141,
+      "forks": 9006,
+      "starsInPeriod": 420
     },
     {
       "rank": 13,
       "fullName": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "programmingLanguage": "Rust",
-      "stars": 7685,
-      "forks": 404,
-      "starsInPeriod": 1102
+      "stars": 7921,
+      "forks": 422,
+      "starsInPeriod": 1160
     }
   ]
 }

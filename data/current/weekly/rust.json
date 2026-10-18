@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-10-17T20:35:58Z",
+  "observedAt": "2026-10-18T04:31:26Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 31652,
-      "forks": 5012,
-      "starsInPeriod": 20267
+      "stars": 31910,
+      "forks": 5059,
+      "starsInPeriod": 18479
     },
     {
       "rank": 2,
@@ -24,19 +24,19 @@
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 2383,
-      "forks": 143,
-      "starsInPeriod": 372
+      "stars": 2387,
+      "forks": 144,
+      "starsInPeriod": 242
     },
     {
       "rank": 3,
       "fullName": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "programmingLanguage": "Rust",
-      "stars": 7685,
-      "forks": 404,
-      "starsInPeriod": 4073
+      "stars": 7921,
+      "forks": 422,
+      "starsInPeriod": 4277
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 3170,
-      "forks": 369,
-      "starsInPeriod": 524
+      "stars": 3211,
+      "forks": 372,
+      "starsInPeriod": 471
     }
   ]
 }
