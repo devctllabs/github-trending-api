@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-18T04:31:33Z",
+  "observedAt": "2026-10-18T11:03:02Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/Gentleman-Programming/engram",
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "programmingLanguage": "Go",
-      "stars": 7407,
-      "forks": 775,
+      "stars": 7415,
+      "forks": 776,
       "starsInPeriod": 66
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 113325,
-      "forks": 6556,
+      "stars": 113368,
+      "forks": 6559,
       "starsInPeriod": 215
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/kubernetes-sigs/agent-sandbox",
       "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
       "programmingLanguage": "Go",
-      "stars": 4295,
-      "forks": 568,
+      "stars": 4298,
+      "forks": 569,
       "starsInPeriod": 14
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 183661,
-      "forks": 18367,
+      "stars": 183689,
+      "forks": 18373,
       "starsInPeriod": 167
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 30076,
-      "forks": 2347,
+      "stars": 30086,
+      "forks": 2362,
       "starsInPeriod": 60
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/jasonxu114514/opencode2api",
       "description": "A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.",
       "programmingLanguage": "Go",
-      "stars": 1005,
-      "forks": 180,
+      "stars": 1028,
+      "forks": 184,
       "starsInPeriod": 104
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/cilium/cilium",
       "description": "eBPF-based Networking, Security, and Observability",
       "programmingLanguage": "Go",
-      "stars": 25679,
-      "forks": 4166,
+      "stars": 25680,
+      "forks": 4168,
       "starsInPeriod": 10
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://github.com/etcd-io/etcd",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "programmingLanguage": "Go",
-      "stars": 52380,
-      "forks": 10542,
+      "stars": 52389,
+      "forks": 10543,
       "starsInPeriod": 10
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/llm-d/llm-d-router",
       "description": "llm-d Router: The intelligent entry point for inference requests",
       "programmingLanguage": "Go",
-      "stars": 419,
-      "forks": 462,
+      "stars": 420,
+      "forks": 463,
       "starsInPeriod": 6
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://github.com/spf13/cobra",
       "description": "A Commander for modern Go CLI interactions",
       "programmingLanguage": "Go",
-      "stars": 44703,
-      "forks": 6179,
+      "stars": 44705,
+      "forks": 6219,
       "starsInPeriod": null
     },
     {
@@ -115,7 +115,7 @@
       "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
       "stars": 24425,
-      "forks": 7970,
+      "forks": 7973,
       "starsInPeriod": 7
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 128334,
-      "forks": 47287,
+      "stars": 128340,
+      "forks": 47314,
       "starsInPeriod": 24
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/Wei-Shaw/sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "programmingLanguage": "Go",
-      "stars": 44267,
-      "forks": 9503,
+      "stars": 44279,
+      "forks": 9504,
       "starsInPeriod": 58
     },
     {
@@ -144,8 +144,8 @@
       "url": "https://github.com/bia-pain-bache/BPB-Wizard",
       "description": "A wizard to facilitate BPB Panel deployment and management.",
       "programmingLanguage": "Go",
-      "stars": 1074,
-      "forks": 302,
+      "stars": 1075,
+      "forks": 303,
       "starsInPeriod": 6
     },
     {
@@ -154,78 +154,88 @@
       "url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
       "programmingLanguage": "Go",
-      "stars": 13911,
-      "forks": 717,
+      "stars": 13921,
+      "forks": 719,
       "starsInPeriod": 175
     },
     {
       "rank": 16,
+      "fullName": "tristenlammi/Arrmada",
+      "url": "https://github.com/tristenlammi/Arrmada",
+      "description": "One self-hosted app for all your media.",
+      "programmingLanguage": "Go",
+      "stars": 330,
+      "forks": 18,
+      "starsInPeriod": 68
+    },
+    {
+      "rank": 17,
       "fullName": "pion/webrtc",
       "url": "https://github.com/pion/webrtc",
       "description": "Pure Go implementation of the WebRTC API",
       "programmingLanguage": "Go",
       "stars": 16846,
-      "forks": 1908,
+      "forks": 1910,
       "starsInPeriod": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "fullName": "ygelfand/echolocal",
       "url": "https://github.com/ygelfand/echolocal",
       "description": "Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.",
       "programmingLanguage": "Go",
-      "stars": 446,
-      "forks": 23,
+      "stars": 449,
+      "forks": 24,
       "starsInPeriod": 29
     },
     {
-      "rank": 18,
+      "rank": 19,
       "fullName": "gastownhall/beads",
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 27973,
+      "stars": 27983,
       "forks": 1893,
       "starsInPeriod": 33
     },
     {
-      "rank": 19,
+      "rank": 20,
       "fullName": "GoogleCloudPlatform/scion",
       "url": "https://github.com/GoogleCloudPlatform/scion",
       "description": null,
       "programmingLanguage": "Go",
-      "stars": 1953,
+      "stars": 1959,
       "forks": 291,
       "starsInPeriod": 31
     },
     {
-      "rank": 20,
+      "rank": 21,
       "fullName": "owncast/owncast",
       "url": "https://github.com/owncast/owncast",
       "description": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
       "programmingLanguage": "Go",
-      "stars": 11611,
-      "forks": 1186,
+      "stars": 11612,
+      "forks": 1188,
       "starsInPeriod": 5
     },
     {
-      "rank": 21,
+      "rank": 22,
       "fullName": "microsoft/TypeScript",
       "url": "https://github.com/microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "programmingLanguage": "Go",
-      "stars": 111519,
-      "forks": 17035,
+      "stars": 111520,
+      "forks": 17058,
       "starsInPeriod": 19
     },
     {
-      "rank": 22,
+      "rank": 23,
       "fullName": "vshulcz/deja-vu",
       "url": "https://github.com/vshulcz/deja-vu",
       "description": "Coding agent memory for Claude Code, Codex, Cursor and 39 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.",
       "programmingLanguage": "Go",
-      "stars": 1237,
-      "forks": 125,
+      "stars": 1239,
+      "forks": 126,
       "starsInPeriod": 7
     }
   ]
