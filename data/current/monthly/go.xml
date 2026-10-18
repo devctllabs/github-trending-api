@@ -4,12 +4,12 @@
     <title>GitHub Trending — monthly — go</title>
     <link>https://github.com/trending/go?since=monthly</link>
     <description>GitHub Trending — monthly — go</description>
-    <lastBuildDate>Sun, 18 Oct 2026 11:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:51:37 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>monthly</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-10-18T11:03:09Z</ght:observedAt>
+    <ght:observedAt>2026-10-18T15:51:37Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,11 +17,11 @@
       <link>https://github.com/agent-substrate/substrate</link>
       <description>Agent Substrate: the core system</description>
       <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>5454</ght:stars>
-      <ght:forks>595</ght:forks>
+      <ght:stars>5470</ght:stars>
+      <ght:forks>596</ght:forks>
       <ght:starsInPeriod>3487</ght:starsInPeriod>
     </item>
     <item>
@@ -29,11 +29,11 @@
       <link>https://github.com/Tencent/WeKnora</link>
       <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
       <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
       <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>34576</ght:stars>
-      <ght:forks>4602</ght:forks>
+      <ght:stars>34597</ght:stars>
+      <ght:forks>4603</ght:forks>
       <ght:starsInPeriod>8870</ght:starsInPeriod>
     </item>
     <item>
@@ -41,107 +41,95 @@
       <link>https://github.com/caddyserver/caddy</link>
       <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
       <guid isPermaLink="true">https://github.com/caddyserver/caddy</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
       <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>78096</ght:stars>
-      <ght:forks>5148</ght:forks>
+      <ght:stars>78105</ght:stars>
+      <ght:forks>5150</ght:forks>
       <ght:starsInPeriod>2431</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>openbao/openbao</title>
-      <link>https://github.com/openbao/openbao</link>
-      <description>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</description>
-      <guid isPermaLink="true">https://github.com/openbao/openbao</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>8506</ght:stars>
-      <ght:forks>632</ght:forks>
-      <ght:starsInPeriod>1121</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>coder/coder</title>
-      <link>https://github.com/coder/coder</link>
-      <description>Secure environments for developers and their agents</description>
-      <guid isPermaLink="true">https://github.com/coder/coder</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>17078</ght:stars>
-      <ght:forks>1635</ght:forks>
-      <ght:starsInPeriod>2443</ght:starsInPeriod>
     </item>
     <item>
       <title>Gentleman-Programming/engram</title>
       <link>https://github.com/Gentleman-Programming/engram</link>
       <description>Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.</description>
       <guid isPermaLink="true">https://github.com/Gentleman-Programming/engram</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>6</ght:rank>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>7415</ght:stars>
+      <ght:stars>7427</ght:stars>
       <ght:forks>776</ght:forks>
       <ght:starsInPeriod>761</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>vxcontrol/pentagi</title>
-      <link>https://github.com/vxcontrol/pentagi</link>
-      <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
-      <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>31006</ght:stars>
-      <ght:forks>4822</ght:forks>
-      <ght:starsInPeriod>6427</ght:starsInPeriod>
     </item>
     <item>
       <title>ollama/ollama</title>
       <link>https://github.com/ollama/ollama</link>
       <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
       <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>8</ght:rank>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>183689</ght:stars>
-      <ght:forks>18373</ght:forks>
+      <ght:stars>183718</ght:stars>
+      <ght:forks>18382</ght:forks>
       <ght:starsInPeriod>3190</ght:starsInPeriod>
     </item>
     <item>
-      <title>docker/docker-agent</title>
-      <link>https://github.com/docker/docker-agent</link>
-      <description>AI Agent Builder and Runtime by Docker Engineering</description>
-      <guid isPermaLink="true">https://github.com/docker/docker-agent</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>9</ght:rank>
+      <title>vxcontrol/pentagi</title>
+      <link>https://github.com/vxcontrol/pentagi</link>
+      <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
+      <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>4558</ght:stars>
-      <ght:forks>522</ght:forks>
-      <ght:starsInPeriod>1236</ght:starsInPeriod>
+      <ght:stars>31058</ght:stars>
+      <ght:forks>4846</ght:forks>
+      <ght:starsInPeriod>6427</ght:starsInPeriod>
     </item>
     <item>
       <title>urfave/cli</title>
       <link>https://github.com/urfave/cli</link>
       <description>A declarative, simple, fast, and fun package for building command line tools in Go</description>
       <guid isPermaLink="true">https://github.com/urfave/cli</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>10</ght:rank>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
       <ght:stars>24290</ght:stars>
-      <ght:forks>1903</ght:forks>
+      <ght:forks>1906</ght:forks>
       <ght:starsInPeriod>82</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>docker/docker-agent</title>
+      <link>https://github.com/docker/docker-agent</link>
+      <description>AI Agent Builder and Runtime by Docker Engineering</description>
+      <guid isPermaLink="true">https://github.com/docker/docker-agent</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4559</ght:stars>
+      <ght:forks>522</ght:forks>
+      <ght:starsInPeriod>1236</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>coder/coder</title>
+      <link>https://github.com/coder/coder</link>
+      <description>Secure environments for developers and their agents</description>
+      <guid isPermaLink="true">https://github.com/coder/coder</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>9</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>17084</ght:stars>
+      <ght:forks>1635</ght:forks>
+      <ght:starsInPeriod>2443</ght:starsInPeriod>
     </item>
     <item>
       <title>Gaurav-Gosain/tuios</title>
       <link>https://github.com/Gaurav-Gosain/tuios</link>
       <description>A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.</description>
       <guid isPermaLink="true">https://github.com/Gaurav-Gosain/tuios</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>11</ght:rank>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>5467</ght:stars>
-      <ght:forks>256</ght:forks>
+      <ght:stars>5472</ght:stars>
+      <ght:forks>257</ght:forks>
       <ght:starsInPeriod>1813</ght:starsInPeriod>
     </item>
     <item>
@@ -149,119 +137,119 @@
       <link>https://github.com/Armur-Ai/Pentest-Swarm-AI</link>
       <description>Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.</description>
       <guid isPermaLink="true">https://github.com/Armur-Ai/Pentest-Swarm-AI</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>11</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>3013</ght:stars>
+      <ght:forks>550</ght:forks>
+      <ght:starsInPeriod>517</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>guohuiyuan/go-music-dl</title>
+      <link>https://github.com/guohuiyuan/go-music-dl</link>
+      <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
+      <guid isPermaLink="true">https://github.com/guohuiyuan/go-music-dl</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
       <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>3009</ght:stars>
-      <ght:forks>549</ght:forks>
-      <ght:starsInPeriod>517</ght:starsInPeriod>
+      <ght:stars>5456</ght:stars>
+      <ght:forks>520</ght:forks>
+      <ght:starsInPeriod>1106</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>trufflesecurity/trufflehog</title>
+      <link>https://github.com/trufflesecurity/trufflehog</link>
+      <description>Find, verify, and analyze leaked credentials</description>
+      <guid isPermaLink="true">https://github.com/trufflesecurity/trufflehog</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>13</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>28569</ght:stars>
+      <ght:forks>2648</ght:forks>
+      <ght:starsInPeriod>664</ght:starsInPeriod>
     </item>
     <item>
       <title>oauth2-proxy/oauth2-proxy</title>
       <link>https://github.com/oauth2-proxy/oauth2-proxy</link>
       <description>A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</description>
       <guid isPermaLink="true">https://github.com/oauth2-proxy/oauth2-proxy</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>13</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>15211</ght:stars>
-      <ght:forks>2238</ght:forks>
-      <ght:starsInPeriod>262</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>docker/compose</title>
-      <link>https://github.com/docker/compose</link>
-      <description>Define and run multi-container applications with Docker</description>
-      <guid isPermaLink="true">https://github.com/docker/compose</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
       <ght:rank>14</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>38386</ght:stars>
-      <ght:forks>5874</ght:forks>
-      <ght:starsInPeriod>397</ght:starsInPeriod>
+      <ght:stars>15212</ght:stars>
+      <ght:forks>2238</ght:forks>
+      <ght:starsInPeriod>262</ght:starsInPeriod>
     </item>
     <item>
       <title>github/gh-aw</title>
       <link>https://github.com/github/gh-aw</link>
       <description>GitHub Agentic Workflows</description>
       <guid isPermaLink="true">https://github.com/github/gh-aw</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
       <ght:rank>15</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>5414</ght:stars>
-      <ght:forks>593</ght:forks>
+      <ght:stars>5418</ght:stars>
+      <ght:forks>594</ght:forks>
       <ght:starsInPeriod>295</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>zitadel/zitadel</title>
-      <link>https://github.com/zitadel/zitadel</link>
-      <description>ZITADEL - Identity infrastructure, simplified for you.</description>
-      <guid isPermaLink="true">https://github.com/zitadel/zitadel</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>16</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>15340</ght:stars>
-      <ght:forks>1384</ght:forks>
-      <ght:starsInPeriod>330</ght:starsInPeriod>
     </item>
     <item>
       <title>golang/go</title>
       <link>https://github.com/golang/go</link>
       <description>The Go programming language</description>
       <guid isPermaLink="true">https://github.com/golang/go</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>17</ght:rank>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>16</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>139300</ght:stars>
-      <ght:forks>22607</ght:forks>
+      <ght:stars>139309</ght:stars>
+      <ght:forks>22645</ght:forks>
       <ght:starsInPeriod>1370</ght:starsInPeriod>
     </item>
     <item>
-      <title>usememos/memos</title>
-      <link>https://github.com/usememos/memos</link>
-      <description>A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.</description>
-      <guid isPermaLink="true">https://github.com/usememos/memos</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
+      <title>openbao/openbao</title>
+      <link>https://github.com/openbao/openbao</link>
+      <description>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</description>
+      <guid isPermaLink="true">https://github.com/openbao/openbao</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>17</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>8509</ght:stars>
+      <ght:forks>633</ght:forks>
+      <ght:starsInPeriod>1121</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>zitadel/zitadel</title>
+      <link>https://github.com/zitadel/zitadel</link>
+      <description>ZITADEL - Identity infrastructure, simplified for you.</description>
+      <guid isPermaLink="true">https://github.com/zitadel/zitadel</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
       <ght:rank>18</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>63882</ght:stars>
-      <ght:forks>4867</ght:forks>
-      <ght:starsInPeriod>911</ght:starsInPeriod>
+      <ght:stars>15341</ght:stars>
+      <ght:forks>1385</ght:forks>
+      <ght:starsInPeriod>330</ght:starsInPeriod>
     </item>
     <item>
-      <title>seaweedfs/seaweedfs</title>
-      <link>https://github.com/seaweedfs/seaweedfs</link>
-      <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
-      <guid isPermaLink="true">https://github.com/seaweedfs/seaweedfs</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
+      <title>docker/compose</title>
+      <link>https://github.com/docker/compose</link>
+      <description>Define and run multi-container applications with Docker</description>
+      <guid isPermaLink="true">https://github.com/docker/compose</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
       <ght:rank>19</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>35559</ght:stars>
-      <ght:forks>3072</ght:forks>
-      <ght:starsInPeriod>840</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>hashicorp/terraform</title>
-      <link>https://github.com/hashicorp/terraform</link>
-      <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
-      <guid isPermaLink="true">https://github.com/hashicorp/terraform</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>20</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>49963</ght:stars>
-      <ght:forks>10648</ght:forks>
-      <ght:starsInPeriod>491</ght:starsInPeriod>
+      <ght:stars>38387</ght:stars>
+      <ght:forks>5875</ght:forks>
+      <ght:starsInPeriod>397</ght:starsInPeriod>
     </item>
     <item>
       <title>XTLS/Xray-core</title>
       <link>https://github.com/XTLS/Xray-core</link>
       <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
       <guid isPermaLink="true">https://github.com/XTLS/Xray-core</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>21</ght:rank>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>20</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>42162</ght:stars>
-      <ght:forks>6006</ght:forks>
+      <ght:stars>42169</ght:stars>
+      <ght:forks>6007</ght:forks>
       <ght:starsInPeriod>648</ght:starsInPeriod>
     </item>
     <item>
@@ -269,24 +257,48 @@
       <link>https://github.com/prometheus/prometheus</link>
       <description>The Prometheus monitoring system and time series database.</description>
       <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
-      <ght:rank>22</ght:rank>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>21</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>66619</ght:stars>
+      <ght:stars>66621</ght:stars>
       <ght:forks>10924</ght:forks>
       <ght:starsInPeriod>807</ght:starsInPeriod>
     </item>
     <item>
-      <title>trufflesecurity/trufflehog</title>
-      <link>https://github.com/trufflesecurity/trufflehog</link>
-      <description>Find, verify, and analyze leaked credentials</description>
-      <guid isPermaLink="true">https://github.com/trufflesecurity/trufflehog</guid>
-      <pubDate>Sun, 18 Oct 2026 11:03:09 GMT</pubDate>
+      <title>kubernetes/kubernetes</title>
+      <link>https://github.com/kubernetes/kubernetes</link>
+      <description>Production-Grade Container Scheduling and Management</description>
+      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>22</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>128350</ght:stars>
+      <ght:forks>47361</ght:forks>
+      <ght:starsInPeriod>1247</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>hashicorp/terraform</title>
+      <link>https://github.com/hashicorp/terraform</link>
+      <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
+      <guid isPermaLink="true">https://github.com/hashicorp/terraform</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
       <ght:rank>23</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>28563</ght:stars>
-      <ght:forks>2647</ght:forks>
-      <ght:starsInPeriod>664</ght:starsInPeriod>
+      <ght:stars>49970</ght:stars>
+      <ght:forks>10648</ght:forks>
+      <ght:starsInPeriod>491</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>seaweedfs/seaweedfs</title>
+      <link>https://github.com/seaweedfs/seaweedfs</link>
+      <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
+      <guid isPermaLink="true">https://github.com/seaweedfs/seaweedfs</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:37 GMT</pubDate>
+      <ght:rank>24</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>35566</ght:stars>
+      <ght:forks>3072</ght:forks>
+      <ght:starsInPeriod>840</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

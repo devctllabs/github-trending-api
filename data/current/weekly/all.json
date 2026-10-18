@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=weekly",
-  "observedAt": "2026-10-18T11:02:37Z",
+  "observedAt": "2026-10-18T15:51:04Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 314436,
-      "forks": 79705,
+      "stars": 317931,
+      "forks": 80627,
       "starsInPeriod": 239923
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 32205,
-      "forks": 5106,
+      "stars": 32401,
+      "forks": 5133,
       "starsInPeriod": 18479
     },
     {
@@ -34,79 +34,79 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "programmingLanguage": "C++",
-      "stars": 42409,
-      "forks": 3842,
+      "stars": 42733,
+      "forks": 3873,
       "starsInPeriod": 16250
     },
     {
       "rank": 4,
-      "fullName": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "programmingLanguage": "HTML",
-      "stars": 57323,
-      "forks": 3655,
-      "starsInPeriod": 8382
-    },
-    {
-      "rank": 5,
       "fullName": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 42239,
-      "forks": 4500,
+      "stars": 42406,
+      "forks": 4516,
       "starsInPeriod": 3581
     },
     {
-      "rank": 6,
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "programmingLanguage": "TypeScript",
-      "stars": 66271,
-      "forks": 5990,
-      "starsInPeriod": 5639
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "fullName": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "programmingLanguage": "TypeScript",
-      "stars": 30593,
-      "forks": 2240,
+      "stars": 30654,
+      "forks": 2251,
       "starsInPeriod": 4438
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "fullName": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "programmingLanguage": "HTML",
+      "stars": 57493,
+      "forks": 3671,
+      "starsInPeriod": 8382
+    },
+    {
+      "rank": 7,
       "fullName": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "programmingLanguage": "Java",
-      "stars": 90507,
-      "forks": 10135,
+      "stars": 90636,
+      "forks": 10148,
       "starsInPeriod": 7608
     },
     {
+      "rank": 8,
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "programmingLanguage": "TypeScript",
+      "stars": 66496,
+      "forks": 6012,
+      "starsInPeriod": 5639
+    },
+    {
       "rank": 9,
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "programmingLanguage": "Shell",
-      "stars": 295577,
-      "forks": 24800,
-      "starsInPeriod": 11272
+      "fullName": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "programmingLanguage": "TypeScript",
+      "stars": 12599,
+      "forks": 1232,
+      "starsInPeriod": 1536
     },
     {
       "rank": 10,
-      "fullName": "ranxianglei/billion-context",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
-      "programmingLanguage": "TypeScript",
-      "stars": 1819,
-      "forks": 150,
-      "starsInPeriod": 888
+      "fullName": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "programmingLanguage": "Python",
+      "stars": 51994,
+      "forks": 17163,
+      "starsInPeriod": 4200
     }
   ]
 }

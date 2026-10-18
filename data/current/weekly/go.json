@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-18T11:03:05Z",
+  "observedAt": "2026-10-18T15:51:33Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,52 +14,82 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 31006,
-      "forks": 4822,
+      "stars": 31058,
+      "forks": 4846,
       "starsInPeriod": 5538
     },
     {
       "rank": 2,
-      "fullName": "gtsteffaniak/filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "programmingLanguage": "Go",
-      "stars": 8807,
-      "forks": 492,
-      "starsInPeriod": 217
-    },
-    {
-      "rank": 3,
       "fullName": "Armur-Ai/Pentest-Swarm-AI",
       "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "programmingLanguage": "Go",
-      "stars": 3009,
-      "forks": 549,
+      "stars": 3013,
+      "forks": 550,
       "starsInPeriod": 229
     },
     {
-      "rank": 4,
-      "fullName": "Bennettxai/FounderOS",
-      "url": "https://github.com/Bennettxai/FounderOS",
-      "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
+      "rank": 3,
+      "fullName": "gtsteffaniak/filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
       "programmingLanguage": "Go",
-      "stars": 1179,
-      "forks": 333,
-      "starsInPeriod": 153
+      "stars": 8809,
+      "forks": 492,
+      "starsInPeriod": 217
     },
     {
-      "rank": 5,
+      "rank": 4,
       "fullName": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 183689,
-      "forks": 18373,
+      "stars": 183718,
+      "forks": 18382,
       "starsInPeriod": 1112
     },
     {
+      "rank": 5,
+      "fullName": "Bennettxai/FounderOS",
+      "url": "https://github.com/Bennettxai/FounderOS",
+      "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
+      "programmingLanguage": "Go",
+      "stars": 1183,
+      "forks": 333,
+      "starsInPeriod": 153
+    },
+    {
       "rank": 6,
+      "fullName": "devaccuracy/ledgerforge",
+      "url": "https://github.com/devaccuracy/ledgerforge",
+      "description": "The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0.",
+      "programmingLanguage": "Go",
+      "stars": 408,
+      "forks": 42,
+      "starsInPeriod": 240
+    },
+    {
+      "rank": 7,
+      "fullName": "Autumn-27/ScopeSentry",
+      "url": "https://github.com/Autumn-27/ScopeSentry",
+      "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
+      "programmingLanguage": "Go",
+      "stars": 1945,
+      "forks": 401,
+      "starsInPeriod": 159
+    },
+    {
+      "rank": 8,
+      "fullName": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "programmingLanguage": "Go",
+      "stars": 33721,
+      "forks": 5311,
+      "starsInPeriod": 249
+    },
+    {
+      "rank": 9,
       "fullName": "llm-d/llm-d-router",
       "url": "https://github.com/llm-d/llm-d-router",
       "description": "llm-d Router: The intelligent entry point for inference requests",
@@ -69,77 +99,27 @@
       "starsInPeriod": 29
     },
     {
-      "rank": 7,
+      "rank": 10,
       "fullName": "eugenioenko/ttt",
       "url": "https://github.com/eugenioenko/ttt",
       "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
       "programmingLanguage": "Go",
-      "stars": 614,
+      "stars": 617,
       "forks": 70,
       "starsInPeriod": 113
     },
     {
-      "rank": 8,
+      "rank": 11,
       "fullName": "lharries/whatsapp-mcp",
       "url": "https://github.com/lharries/whatsapp-mcp",
       "description": "WhatsApp MCP server",
       "programmingLanguage": "Go",
       "stars": 6650,
-      "forks": 1419,
+      "forks": 1418,
       "starsInPeriod": 187
     },
     {
-      "rank": 9,
-      "fullName": "oauth2-proxy/oauth2-proxy",
-      "url": "https://github.com/oauth2-proxy/oauth2-proxy",
-      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
-      "programmingLanguage": "Go",
-      "stars": 15211,
-      "forks": 2238,
-      "starsInPeriod": 84
-    },
-    {
-      "rank": 10,
-      "fullName": "BishopFox/sliver",
-      "url": "https://github.com/BishopFox/sliver",
-      "description": "Adversary Emulation Framework",
-      "programmingLanguage": "Go",
-      "stars": 12143,
-      "forks": 1632,
-      "starsInPeriod": 122
-    },
-    {
-      "rank": 11,
-      "fullName": "0xJacky/nginx-ui",
-      "url": "https://github.com/0xJacky/nginx-ui",
-      "description": "Yet another WebUI for Nginx",
-      "programmingLanguage": "Go",
-      "stars": 11642,
-      "forks": 905,
-      "starsInPeriod": 59
-    },
-    {
       "rank": 12,
-      "fullName": "QuantumNous/new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
-      "programmingLanguage": "Go",
-      "stars": 50157,
-      "forks": 12082,
-      "starsInPeriod": 539
-    },
-    {
-      "rank": 13,
-      "fullName": "jaegertracing/jaeger",
-      "url": "https://github.com/jaegertracing/jaeger",
-      "description": "CNCF Jaeger, a Distributed Tracing Platform",
-      "programmingLanguage": "Go",
-      "stars": 23306,
-      "forks": 3175,
-      "starsInPeriod": 41
-    },
-    {
-      "rank": 14,
       "fullName": "google/agentmesh",
       "url": "https://github.com/google/agentmesh",
       "description": "Agent Mesh",
@@ -147,6 +127,36 @@
       "stars": 1111,
       "forks": 183,
       "starsInPeriod": 141
+    },
+    {
+      "rank": 13,
+      "fullName": "heartleo/zlib",
+      "url": "https://github.com/heartleo/zlib",
+      "description": "A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents.",
+      "programmingLanguage": "Go",
+      "stars": 1064,
+      "forks": 84,
+      "starsInPeriod": 374
+    },
+    {
+      "rank": 14,
+      "fullName": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "programmingLanguage": "Go",
+      "stars": 11643,
+      "forks": 906,
+      "starsInPeriod": 59
+    },
+    {
+      "rank": 15,
+      "fullName": "Mag1cFall/AIStudio2API",
+      "url": "https://github.com/Mag1cFall/AIStudio2API",
+      "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
+      "programmingLanguage": "Go",
+      "stars": 350,
+      "forks": 100,
+      "starsInPeriod": 100
     }
   ]
 }

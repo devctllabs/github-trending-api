@@ -4,12 +4,12 @@
     <title>GitHub Trending — daily — rust</title>
     <link>https://github.com/trending/rust</link>
     <description>GitHub Trending — daily — rust</description>
-    <lastBuildDate>Sun, 18 Oct 2026 11:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:51:21 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-10-18T11:02:53Z</ght:observedAt>
+    <ght:observedAt>2026-10-18T15:51:21Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,192 +17,132 @@
       <link>https://github.com/akitaonrails/ai-memory</link>
       <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
       <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:51:21 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>10166</ght:stars>
-      <ght:forks>735</ght:forks>
-      <ght:starsInPeriod>178</ght:starsInPeriod>
+      <ght:stars>10293</ght:stars>
+      <ght:forks>740</ght:forks>
+      <ght:starsInPeriod>513</ght:starsInPeriod>
     </item>
     <item>
       <title>xerj-org/xerj</title>
       <link>https://github.com/xerj-org/xerj</link>
       <description>XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.</description>
       <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:51:21 GMT</pubDate>
       <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>8124</ght:stars>
-      <ght:forks>429</ght:forks>
+      <ght:stars>8251</ght:stars>
+      <ght:forks>439</ght:forks>
       <ght:starsInPeriod>842</ght:starsInPeriod>
     </item>
     <item>
-      <title>magnitudedev/magnitude</title>
-      <link>https://github.com/magnitudedev/magnitude</link>
-      <description>Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.</description>
-      <guid isPermaLink="true">https://github.com/magnitudedev/magnitude</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
+      <title>rtk-ai/rtk</title>
+      <link>https://github.com/rtk-ai/rtk</link>
+      <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
+      <guid isPermaLink="true">https://github.com/rtk-ai/rtk</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:21 GMT</pubDate>
       <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>7105</ght:stars>
-      <ght:forks>485</ght:forks>
-      <ght:starsInPeriod>76</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>zed-industries/zed</title>
-      <link>https://github.com/zed-industries/zed</link>
-      <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
-      <guid isPermaLink="true">https://github.com/zed-industries/zed</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>91880</ght:stars>
-      <ght:forks>11104</ght:forks>
-      <ght:starsInPeriod>52</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>ai-dynamo/dynamo</title>
-      <link>https://github.com/ai-dynamo/dynamo</link>
-      <description>A Datacenter Scale Distributed Inference Serving Framework</description>
-      <guid isPermaLink="true">https://github.com/ai-dynamo/dynamo</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>8328</ght:stars>
-      <ght:forks>1720</ght:forks>
-      <ght:starsInPeriod>7</ght:starsInPeriod>
+      <ght:stars>83840</ght:stars>
+      <ght:forks>5327</ght:forks>
+      <ght:starsInPeriod>160</ght:starsInPeriod>
     </item>
     <item>
       <title>mixelpixx/Konnect</title>
       <link>https://github.com/mixelpixx/Konnect</link>
       <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
       <guid isPermaLink="true">https://github.com/mixelpixx/Konnect</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
-      <ght:rank>6</ght:rank>
+      <pubDate>Sun, 18 Oct 2026 15:51:21 GMT</pubDate>
+      <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1262</ght:stars>
-      <ght:forks>143</ght:forks>
+      <ght:stars>1272</ght:stars>
+      <ght:forks>144</ght:forks>
       <ght:starsInPeriod>112</ght:starsInPeriod>
     </item>
     <item>
-      <title>GCWing/OpenBitFun</title>
-      <link>https://github.com/GCWing/OpenBitFun</link>
-      <description>OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.</description>
-      <guid isPermaLink="true">https://github.com/GCWing/OpenBitFun</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
-      <ght:rank>7</ght:rank>
+      <title>googleworkspace/cli</title>
+      <link>https://github.com/googleworkspace/cli</link>
+      <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</description>
+      <guid isPermaLink="true">https://github.com/googleworkspace/cli</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:21 GMT</pubDate>
+      <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>2833</ght:stars>
-      <ght:forks>268</ght:forks>
-      <ght:starsInPeriod>148</ght:starsInPeriod>
+      <ght:stars>31641</ght:stars>
+      <ght:forks>1990</ght:forks>
+      <ght:starsInPeriod>51</ght:starsInPeriod>
     </item>
     <item>
-      <title>nautechsystems/nautilus_trader</title>
-      <link>https://github.com/nautechsystems/nautilus_trader</link>
-      <description>Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
-      <guid isPermaLink="true">https://github.com/nautechsystems/nautilus_trader</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
-      <ght:rank>8</ght:rank>
+      <title>rubys/roundhouse</title>
+      <link>https://github.com/rubys/roundhouse</link>
+      <description>Rails as a specification; the deployment target is a build flag</description>
+      <guid isPermaLink="true">https://github.com/rubys/roundhouse</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:21 GMT</pubDate>
+      <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>30280</ght:stars>
-      <ght:forks>4057</ght:forks>
-      <ght:starsInPeriod>77</ght:starsInPeriod>
+      <ght:stars>480</ght:stars>
+      <ght:forks>42</ght:forks>
+      <ght:starsInPeriod />
     </item>
     <item>
       <title>Automattic/harper</title>
       <link>https://github.com/Automattic/harper</link>
       <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
       <guid isPermaLink="true">https://github.com/Automattic/harper</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
-      <ght:rank>9</ght:rank>
+      <pubDate>Sun, 18 Oct 2026 15:51:21 GMT</pubDate>
+      <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>16663</ght:stars>
-      <ght:forks>814</ght:forks>
+      <ght:stars>16678</ght:stars>
+      <ght:forks>818</ght:forks>
       <ght:starsInPeriod>97</ght:starsInPeriod>
     </item>
     <item>
-      <title>surrealdb/surrealdb</title>
-      <link>https://github.com/surrealdb/surrealdb</link>
-      <description>A scalable, distributed, collaborative, document-graph database, for the realtime web</description>
-      <guid isPermaLink="true">https://github.com/surrealdb/surrealdb</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
+      <title>pollen-robotics/microduck</title>
+      <link>https://github.com/pollen-robotics/microduck</link>
+      <description>A Tiny biped duck robot 🦆</description>
+      <guid isPermaLink="true">https://github.com/pollen-robotics/microduck</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:21 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>9546</ght:stars>
+      <ght:forks>1244</ght:forks>
+      <ght:starsInPeriod>25</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>GCWing/OpenBitFun</title>
+      <link>https://github.com/GCWing/OpenBitFun</link>
+      <description>OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.</description>
+      <guid isPermaLink="true">https://github.com/GCWing/OpenBitFun</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:21 GMT</pubDate>
+      <ght:rank>9</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>2844</ght:stars>
+      <ght:forks>270</ght:forks>
+      <ght:starsInPeriod>148</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>claration/impactor</title>
+      <link>https://github.com/claration/impactor</link>
+      <description>Cross-platform &amp; feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.</description>
+      <guid isPermaLink="true">https://github.com/claration/impactor</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:21 GMT</pubDate>
       <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>33201</ght:stars>
-      <ght:forks>1438</ght:forks>
-      <ght:starsInPeriod>15</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>jdx/mise</title>
-      <link>https://github.com/jdx/mise</link>
-      <description>dev tools, env vars, task runner</description>
-      <guid isPermaLink="true">https://github.com/jdx/mise</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
-      <ght:rank>11</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>35120</ght:stars>
-      <ght:forks>1486</ght:forks>
-      <ght:starsInPeriod>45</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>rustdesk/rustdesk</title>
-      <link>https://github.com/rustdesk/rustdesk</link>
-      <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
-      <guid isPermaLink="true">https://github.com/rustdesk/rustdesk</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
-      <ght:rank>12</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>126190</ght:stars>
-      <ght:forks>19794</ght:forks>
-      <ght:starsInPeriod>105</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>voidzero-dev/vite-plus</title>
-      <link>https://github.com/voidzero-dev/vite-plus</link>
-      <description>The unified toolchain and entry point for web development.</description>
-      <guid isPermaLink="true">https://github.com/voidzero-dev/vite-plus</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
-      <ght:rank>13</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>6362</ght:stars>
-      <ght:forks>285</ght:forks>
-      <ght:starsInPeriod>37</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>pydantic/monty</title>
-      <link>https://github.com/pydantic/monty</link>
-      <description>A secure Python sandbox, written in Rust, for code written by AI.</description>
-      <guid isPermaLink="true">https://github.com/pydantic/monty</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
-      <ght:rank>14</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>8712</ght:stars>
-      <ght:forks>460</ght:forks>
+      <ght:stars>3514</ght:stars>
+      <ght:forks>239</ght:forks>
       <ght:starsInPeriod>11</ght:starsInPeriod>
     </item>
     <item>
-      <title>foundry-rs/foundry</title>
-      <link>https://github.com/foundry-rs/foundry</link>
-      <description>Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</description>
-      <guid isPermaLink="true">https://github.com/foundry-rs/foundry</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
-      <ght:rank>15</ght:rank>
+      <title>starship/starship</title>
+      <link>https://github.com/starship/starship</link>
+      <description>☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</description>
+      <guid isPermaLink="true">https://github.com/starship/starship</guid>
+      <pubDate>Sun, 18 Oct 2026 15:51:21 GMT</pubDate>
+      <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>10675</ght:stars>
-      <ght:forks>2678</ght:forks>
-      <ght:starsInPeriod>3</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>maddada/Ghostex</title>
-      <link>https://github.com/maddada/Ghostex</link>
-      <description>The Best &amp; Most Powerful Native Agents Workspace. Fully Rust &amp; GPUI based. Mobile apps. 20+ agents. Ghostty.</description>
-      <guid isPermaLink="true">https://github.com/maddada/Ghostex</guid>
-      <pubDate>Sun, 18 Oct 2026 11:02:53 GMT</pubDate>
-      <ght:rank>16</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1282</ght:stars>
-      <ght:forks>91</ght:forks>
-      <ght:starsInPeriod>77</ght:starsInPeriod>
+      <ght:stars>60324</ght:stars>
+      <ght:forks>2707</ght:forks>
+      <ght:starsInPeriod>25</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

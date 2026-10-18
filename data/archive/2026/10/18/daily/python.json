@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "updatedAt": "2026-10-18T11:02:43Z",
+  "updatedAt": "2026-10-18T15:51:11Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,70 +14,84 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 42239,
-      "forks": 4500,
+      "stars": 42407,
+      "forks": 4516,
       "starsInPeriod": 1187,
       "bestRank": 1,
-      "latestRank": 1,
+      "latestRank": 2,
       "firstSeenAt": "2026-10-18T04:31:13Z",
-      "lastSeenAt": "2026-10-18T11:02:43Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 3
     },
     {
       "fullName": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "programmingLanguage": "Python",
-      "stars": 51297,
-      "forks": 17048,
+      "stars": 51995,
+      "forks": 17163,
       "starsInPeriod": 2213,
-      "bestRank": 2,
-      "latestRank": 2,
+      "bestRank": 1,
+      "latestRank": 1,
       "firstSeenAt": "2026-10-18T04:31:13Z",
-      "lastSeenAt": "2026-10-18T11:02:43Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 3
     },
     {
       "fullName": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 54311,
-      "forks": 4924,
+      "stars": 54416,
+      "forks": 4933,
       "starsInPeriod": 582,
       "bestRank": 3,
       "latestRank": 3,
       "firstSeenAt": "2026-10-18T04:31:13Z",
-      "lastSeenAt": "2026-10-18T11:02:43Z",
-      "appearances": 2
-    },
-    {
-      "fullName": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "programmingLanguage": "Python",
-      "stars": 52541,
-      "forks": 4651,
-      "starsInPeriod": 672,
-      "bestRank": 4,
-      "latestRank": 4,
-      "firstSeenAt": "2026-10-18T04:31:13Z",
-      "lastSeenAt": "2026-10-18T11:02:43Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 3
     },
     {
       "fullName": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 74126,
-      "forks": 8115,
+      "stars": 74570,
+      "forks": 8154,
       "starsInPeriod": 2098,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-18T04:31:13Z",
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 3
+    },
+    {
+      "fullName": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "programmingLanguage": "Python",
+      "stars": 52606,
+      "forks": 4660,
+      "starsInPeriod": 672,
+      "bestRank": 4,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-18T04:31:13Z",
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 3
+    },
+    {
+      "fullName": "Kruk2/jasna",
+      "url": "https://github.com/Kruk2/jasna",
+      "description": "Video restoration tool",
+      "programmingLanguage": "Python",
+      "stars": 2291,
+      "forks": 178,
+      "starsInPeriod": 115,
       "bestRank": 5,
       "latestRank": 5,
-      "firstSeenAt": "2026-10-18T04:31:13Z",
-      "lastSeenAt": "2026-10-18T11:02:43Z",
-      "appearances": 2
+      "firstSeenAt": "2026-10-18T15:51:11Z",
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 1
     },
     {
       "fullName": "The-Swarm-Corporation/AutoHedge",
@@ -92,6 +106,20 @@
       "firstSeenAt": "2026-10-18T04:31:13Z",
       "lastSeenAt": "2026-10-18T11:02:43Z",
       "appearances": 2
+    },
+    {
+      "fullName": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "programmingLanguage": "Python",
+      "stars": 138336,
+      "forks": 16477,
+      "starsInPeriod": 155,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-18T15:51:11Z",
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 1
     },
     {
       "fullName": "bmad-code-org/BMAD-METHOD",
@@ -122,6 +150,20 @@
       "appearances": 2
     },
     {
+      "fullName": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "programmingLanguage": "Python",
+      "stars": 111865,
+      "forks": 21595,
+      "starsInPeriod": 242,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-18T15:51:11Z",
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 1
+    },
+    {
       "fullName": "google/artemis",
       "url": "https://github.com/google/artemis",
       "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.",
@@ -134,6 +176,20 @@
       "firstSeenAt": "2026-10-18T04:31:13Z",
       "lastSeenAt": "2026-10-18T11:02:43Z",
       "appearances": 2
+    },
+    {
+      "fullName": "NVlabs/ASPIRE",
+      "url": "https://github.com/NVlabs/ASPIRE",
+      "description": "ASPIRE: Agentic /Skills Discovery for Robotics",
+      "programmingLanguage": "Python",
+      "stars": 529,
+      "forks": 40,
+      "starsInPeriod": 99,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-18T15:51:11Z",
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 1
     },
     {
       "fullName": "yt-dlp/yt-dlp",
@@ -150,6 +206,20 @@
       "appearances": 2
     },
     {
+      "fullName": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "programmingLanguage": "Python",
+      "stars": 128171,
+      "forks": 12358,
+      "starsInPeriod": 592,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-18T15:51:11Z",
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 1
+    },
+    {
       "fullName": "lightseekorg/tokenspeed",
       "url": "https://github.com/lightseekorg/tokenspeed",
       "description": "TokenSpeed is a speed-of-light LLM inference engine.",
@@ -162,6 +232,20 @@
       "firstSeenAt": "2026-10-18T04:31:13Z",
       "lastSeenAt": "2026-10-18T11:02:43Z",
       "appearances": 2
+    },
+    {
+      "fullName": "ahujasid/mcp-for-blender",
+      "url": "https://github.com/ahujasid/mcp-for-blender",
+      "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
+      "programmingLanguage": "Python",
+      "stars": 31524,
+      "forks": 2930,
+      "starsInPeriod": 197,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-18T15:51:11Z",
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 1
     },
     {
       "fullName": "python/cpython",
@@ -178,6 +262,20 @@
       "appearances": 2
     },
     {
+      "fullName": "mozilla-ai/otari",
+      "url": "https://github.com/mozilla-ai/otari",
+      "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking.",
+      "programmingLanguage": "Python",
+      "stars": 646,
+      "forks": 83,
+      "starsInPeriod": 46,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-10-18T15:51:11Z",
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 1
+    },
+    {
       "fullName": "ScrapeCreators/social-media-research-skills",
       "url": "https://github.com/ScrapeCreators/social-media-research-skills",
       "description": "AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI.",
@@ -190,6 +288,48 @@
       "firstSeenAt": "2026-10-18T04:31:13Z",
       "lastSeenAt": "2026-10-18T11:02:43Z",
       "appearances": 2
+    },
+    {
+      "fullName": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "programmingLanguage": "Python",
+      "stars": 5731,
+      "forks": 478,
+      "starsInPeriod": 76,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-10-18T15:51:11Z",
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "k2-fsa/OmniVoice",
+      "url": "https://github.com/k2-fsa/OmniVoice",
+      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+      "programmingLanguage": "Python",
+      "stars": 14738,
+      "forks": 2198,
+      "starsInPeriod": 55,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-10-18T15:51:11Z",
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "Free-TV/IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "programmingLanguage": "Python",
+      "stars": 21186,
+      "forks": 3052,
+      "starsInPeriod": 19,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-10-18T15:51:11Z",
+      "lastSeenAt": "2026-10-18T15:51:11Z",
+      "appearances": 1
     }
   ]
 }

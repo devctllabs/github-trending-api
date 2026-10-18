@@ -4,29 +4,29 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-10-18T11:03:12Z",
+  "observedAt": "2026-10-18T15:51:40Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "programmingLanguage": "JavaScript",
+      "stars": 166776,
+      "forks": 9035,
+      "starsInPeriod": 840
+    },
+    {
+      "rank": 2,
       "fullName": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 282920,
-      "forks": 42016,
+      "stars": 283060,
+      "forks": 42043,
       "starsInPeriod": 1073
-    },
-    {
-      "rank": 2,
-      "fullName": "michael-denyer/pstack-claude",
-      "url": "https://github.com/michael-denyer/pstack-claude",
-      "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
-      "programmingLanguage": "JavaScript",
-      "stars": 2880,
-      "forks": 272,
-      "starsInPeriod": 118
     },
     {
       "rank": 3,
@@ -34,69 +34,69 @@
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 24531,
-      "forks": 1510,
+      "stars": 24722,
+      "forks": 1552,
       "starsInPeriod": 349
     },
     {
       "rank": 4,
-      "fullName": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 143068,
-      "forks": 35171,
-      "starsInPeriod": 28
+      "stars": 30983,
+      "forks": 1943,
+      "starsInPeriod": 476
     },
     {
       "rank": 5,
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "programmingLanguage": "JavaScript",
-      "stars": 166561,
-      "forks": 9015,
-      "starsInPeriod": 840
-    },
-    {
-      "rank": 6,
-      "fullName": "decolua/9router",
-      "url": "https://github.com/decolua/9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "programmingLanguage": "JavaScript",
-      "stars": 30995,
-      "forks": 6159,
-      "starsInPeriod": 52
-    },
-    {
-      "rank": 7,
-      "fullName": "plugin87/ux-ui-agent-skills",
-      "url": "https://github.com/plugin87/ux-ui-agent-skills",
-      "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
-      "programmingLanguage": "JavaScript",
-      "stars": 2106,
-      "forks": 224,
-      "starsInPeriod": 32
-    },
-    {
-      "rank": 8,
-      "fullName": "github/awesome-copilot",
-      "url": "https://github.com/github/awesome-copilot",
-      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-      "programmingLanguage": "JavaScript",
-      "stars": 40145,
-      "forks": 5151,
-      "starsInPeriod": 39
-    },
-    {
-      "rank": 9,
       "fullName": "withmarbleapp/os-taxonomy",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "description": null,
       "programmingLanguage": "JavaScript",
-      "stars": 5557,
-      "forks": 940,
+      "stars": 5661,
+      "forks": 951,
       "starsInPeriod": 392
+    },
+    {
+      "rank": 6,
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "programmingLanguage": "JavaScript",
+      "stars": 108072,
+      "forks": 11266,
+      "starsInPeriod": 430
+    },
+    {
+      "rank": 7,
+      "fullName": "laoma528/awesome-zhuiju-free",
+      "url": "https://github.com/laoma528/awesome-zhuiju-free",
+      "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
+      "programmingLanguage": "JavaScript",
+      "stars": 12584,
+      "forks": 876,
+      "starsInPeriod": 86
+    },
+    {
+      "rank": 8,
+      "fullName": "guoyue2010/lxmusic-",
+      "url": "https://github.com/guoyue2010/lxmusic-",
+      "description": "lxmusic(洛雪音乐)全网最新最全音源",
+      "programmingLanguage": "JavaScript",
+      "stars": 6466,
+      "forks": 311,
+      "starsInPeriod": 41
+    },
+    {
+      "rank": 9,
+      "fullName": "mnfst/awesome-free-llm-apis",
+      "url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "description": "List of Permanent Free LLM API (API Keys)",
+      "programmingLanguage": "JavaScript",
+      "stars": 10589,
+      "forks": 1182,
+      "starsInPeriod": 122
     },
     {
       "rank": 10,
@@ -104,19 +104,9 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 55305,
-      "forks": 8193,
+      "stars": 55337,
+      "forks": 8198,
       "starsInPeriod": 162
-    },
-    {
-      "rank": 11,
-      "fullName": "usebruno/bruno",
-      "url": "https://github.com/usebruno/bruno",
-      "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
-      "programmingLanguage": "JavaScript",
-      "stars": 47707,
-      "forks": 3009,
-      "starsInPeriod": 21
     }
   ]
 }

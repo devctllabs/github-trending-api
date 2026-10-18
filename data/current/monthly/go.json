@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-10-18T11:03:09Z",
+  "observedAt": "2026-10-18T15:51:37Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 5454,
-      "forks": 595,
+      "stars": 5470,
+      "forks": 596,
       "starsInPeriod": 3487
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 34576,
-      "forks": 4602,
+      "stars": 34597,
+      "forks": 4603,
       "starsInPeriod": 8870
     },
     {
@@ -34,119 +34,119 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 78096,
-      "forks": 5148,
+      "stars": 78105,
+      "forks": 5150,
       "starsInPeriod": 2431
     },
     {
       "rank": 4,
-      "fullName": "openbao/openbao",
-      "url": "https://github.com/openbao/openbao",
-      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "programmingLanguage": "Go",
-      "stars": 8506,
-      "forks": 632,
-      "starsInPeriod": 1121
-    },
-    {
-      "rank": 5,
-      "fullName": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "programmingLanguage": "Go",
-      "stars": 17078,
-      "forks": 1635,
-      "starsInPeriod": 2443
-    },
-    {
-      "rank": 6,
       "fullName": "Gentleman-Programming/engram",
       "url": "https://github.com/Gentleman-Programming/engram",
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "programmingLanguage": "Go",
-      "stars": 7415,
+      "stars": 7427,
       "forks": 776,
       "starsInPeriod": 761
     },
     {
-      "rank": 7,
-      "fullName": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "programmingLanguage": "Go",
-      "stars": 31006,
-      "forks": 4822,
-      "starsInPeriod": 6427
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "fullName": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 183689,
-      "forks": 18373,
+      "stars": 183718,
+      "forks": 18382,
       "starsInPeriod": 3190
     },
     {
-      "rank": 9,
-      "fullName": "docker/docker-agent",
-      "url": "https://github.com/docker/docker-agent",
-      "description": "AI Agent Builder and Runtime by Docker Engineering",
+      "rank": 6,
+      "fullName": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 4558,
-      "forks": 522,
-      "starsInPeriod": 1236
+      "stars": 31058,
+      "forks": 4846,
+      "starsInPeriod": 6427
     },
     {
-      "rank": 10,
+      "rank": 7,
       "fullName": "urfave/cli",
       "url": "https://github.com/urfave/cli",
       "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
       "programmingLanguage": "Go",
       "stars": 24290,
-      "forks": 1903,
+      "forks": 1906,
       "starsInPeriod": 82
     },
     {
-      "rank": 11,
+      "rank": 8,
+      "fullName": "docker/docker-agent",
+      "url": "https://github.com/docker/docker-agent",
+      "description": "AI Agent Builder and Runtime by Docker Engineering",
+      "programmingLanguage": "Go",
+      "stars": 4559,
+      "forks": 522,
+      "starsInPeriod": 1236
+    },
+    {
+      "rank": 9,
+      "fullName": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "programmingLanguage": "Go",
+      "stars": 17084,
+      "forks": 1635,
+      "starsInPeriod": 2443
+    },
+    {
+      "rank": 10,
       "fullName": "Gaurav-Gosain/tuios",
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "programmingLanguage": "Go",
-      "stars": 5467,
-      "forks": 256,
+      "stars": 5472,
+      "forks": 257,
       "starsInPeriod": 1813
     },
     {
-      "rank": 12,
+      "rank": 11,
       "fullName": "Armur-Ai/Pentest-Swarm-AI",
       "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "programmingLanguage": "Go",
-      "stars": 3009,
-      "forks": 549,
+      "stars": 3013,
+      "forks": 550,
       "starsInPeriod": 517
     },
     {
+      "rank": 12,
+      "fullName": "guohuiyuan/go-music-dl",
+      "url": "https://github.com/guohuiyuan/go-music-dl",
+      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
+      "programmingLanguage": "Go",
+      "stars": 5456,
+      "forks": 520,
+      "starsInPeriod": 1106
+    },
+    {
       "rank": 13,
+      "fullName": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "programmingLanguage": "Go",
+      "stars": 28569,
+      "forks": 2648,
+      "starsInPeriod": 664
+    },
+    {
+      "rank": 14,
       "fullName": "oauth2-proxy/oauth2-proxy",
       "url": "https://github.com/oauth2-proxy/oauth2-proxy",
       "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
       "programmingLanguage": "Go",
-      "stars": 15211,
+      "stars": 15212,
       "forks": 2238,
       "starsInPeriod": 262
-    },
-    {
-      "rank": 14,
-      "fullName": "docker/compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
-      "programmingLanguage": "Go",
-      "stars": 38386,
-      "forks": 5874,
-      "starsInPeriod": 397
     },
     {
       "rank": 15,
@@ -154,89 +154,99 @@
       "url": "https://github.com/github/gh-aw",
       "description": "GitHub Agentic Workflows",
       "programmingLanguage": "Go",
-      "stars": 5414,
-      "forks": 593,
+      "stars": 5418,
+      "forks": 594,
       "starsInPeriod": 295
     },
     {
       "rank": 16,
-      "fullName": "zitadel/zitadel",
-      "url": "https://github.com/zitadel/zitadel",
-      "description": "ZITADEL - Identity infrastructure, simplified for you.",
-      "programmingLanguage": "Go",
-      "stars": 15340,
-      "forks": 1384,
-      "starsInPeriod": 330
-    },
-    {
-      "rank": 17,
       "fullName": "golang/go",
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139300,
-      "forks": 22607,
+      "stars": 139309,
+      "forks": 22645,
       "starsInPeriod": 1370
     },
     {
-      "rank": 18,
-      "fullName": "usememos/memos",
-      "url": "https://github.com/usememos/memos",
-      "description": "A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.",
+      "rank": 17,
+      "fullName": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "programmingLanguage": "Go",
-      "stars": 63882,
-      "forks": 4867,
-      "starsInPeriod": 911
+      "stars": 8509,
+      "forks": 633,
+      "starsInPeriod": 1121
+    },
+    {
+      "rank": 18,
+      "fullName": "zitadel/zitadel",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "ZITADEL - Identity infrastructure, simplified for you.",
+      "programmingLanguage": "Go",
+      "stars": 15341,
+      "forks": 1385,
+      "starsInPeriod": 330
     },
     {
       "rank": 19,
-      "fullName": "seaweedfs/seaweedfs",
-      "url": "https://github.com/seaweedfs/seaweedfs",
-      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+      "fullName": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 35559,
-      "forks": 3072,
-      "starsInPeriod": 840
+      "stars": 38387,
+      "forks": 5875,
+      "starsInPeriod": 397
     },
     {
       "rank": 20,
-      "fullName": "hashicorp/terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "programmingLanguage": "Go",
-      "stars": 49963,
-      "forks": 10648,
-      "starsInPeriod": 491
-    },
-    {
-      "rank": 21,
       "fullName": "XTLS/Xray-core",
       "url": "https://github.com/XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "programmingLanguage": "Go",
-      "stars": 42162,
-      "forks": 6006,
+      "stars": 42169,
+      "forks": 6007,
       "starsInPeriod": 648
     },
     {
-      "rank": 22,
+      "rank": 21,
       "fullName": "prometheus/prometheus",
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "programmingLanguage": "Go",
-      "stars": 66619,
+      "stars": 66621,
       "forks": 10924,
       "starsInPeriod": 807
     },
     {
-      "rank": 23,
-      "fullName": "trufflesecurity/trufflehog",
-      "url": "https://github.com/trufflesecurity/trufflehog",
-      "description": "Find, verify, and analyze leaked credentials",
+      "rank": 22,
+      "fullName": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 28563,
-      "forks": 2647,
-      "starsInPeriod": 664
+      "stars": 128350,
+      "forks": 47361,
+      "starsInPeriod": 1247
+    },
+    {
+      "rank": 23,
+      "fullName": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "programmingLanguage": "Go",
+      "stars": 49970,
+      "forks": 10648,
+      "starsInPeriod": 491
+    },
+    {
+      "rank": 24,
+      "fullName": "seaweedfs/seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+      "programmingLanguage": "Go",
+      "stars": 35566,
+      "forks": 3072,
+      "starsInPeriod": 840
     }
   ]
 }

@@ -4,179 +4,159 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-10-18T11:03:22Z",
+  "observedAt": "2026-10-18T15:51:50Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "programmingLanguage": "TypeScript",
-      "stars": 95906,
-      "forks": 6132,
-      "starsInPeriod": 1146
-    },
-    {
-      "rank": 2,
-      "fullName": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "programmingLanguage": "TypeScript",
-      "stars": 152198,
-      "forks": 26964,
-      "starsInPeriod": 895
-    },
-    {
-      "rank": 3,
       "fullName": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "programmingLanguage": "TypeScript",
-      "stars": 215888,
-      "forks": 28919,
+      "stars": 216163,
+      "forks": 28949,
       "starsInPeriod": 1417
     },
     {
-      "rank": 4,
-      "fullName": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "programmingLanguage": "TypeScript",
-      "stars": 76278,
-      "forks": 9014,
-      "starsInPeriod": 502
-    },
-    {
-      "rank": 5,
-      "fullName": "elie222/rakazo",
-      "url": "https://github.com/elie222/rakazo",
-      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "programmingLanguage": "TypeScript",
-      "stars": 4507,
-      "forks": 810,
-      "starsInPeriod": 153
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "fullName": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "programmingLanguage": "TypeScript",
-      "stars": 12494,
-      "forks": 1225,
+      "stars": 12600,
+      "forks": 1232,
       "starsInPeriod": 351
     },
     {
+      "rank": 3,
+      "fullName": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "programmingLanguage": "TypeScript",
+      "stars": 76357,
+      "forks": 9026,
+      "starsInPeriod": 502
+    },
+    {
+      "rank": 4,
+      "fullName": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "programmingLanguage": "TypeScript",
+      "stars": 96196,
+      "forks": 6152,
+      "starsInPeriod": 1146
+    },
+    {
+      "rank": 5,
+      "fullName": "DmNote-App/DmNote",
+      "url": "https://github.com/DmNote-App/DmNote",
+      "description": "Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.",
+      "programmingLanguage": "TypeScript",
+      "stars": 4566,
+      "forks": 334,
+      "starsInPeriod": 616
+    },
+    {
+      "rank": 6,
+      "fullName": "LibreChat-AI/LibreChat",
+      "url": "https://github.com/LibreChat-AI/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "programmingLanguage": "TypeScript",
+      "stars": 45924,
+      "forks": 9446,
+      "starsInPeriod": 69
+    },
+    {
       "rank": 7,
+      "fullName": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "programmingLanguage": "TypeScript",
+      "stars": 116081,
+      "forks": 14803,
+      "starsInPeriod": 206
+    },
+    {
+      "rank": 8,
+      "fullName": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "programmingLanguage": "TypeScript",
+      "stars": 58486,
+      "forks": 9581,
+      "starsInPeriod": 36
+    },
+    {
+      "rank": 9,
+      "fullName": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "programmingLanguage": "TypeScript",
+      "stars": 141280,
+      "forks": 8306,
+      "starsInPeriod": 111
+    },
+    {
+      "rank": 10,
       "fullName": "thesysdev/openui",
       "url": "https://github.com/thesysdev/openui",
       "description": "The Open Standard for Generative UI",
       "programmingLanguage": "TypeScript",
-      "stars": 11663,
-      "forks": 794,
-      "starsInPeriod": 170
-    },
-    {
-      "rank": 8,
-      "fullName": "OpenBMB/PilotDeck",
-      "url": "https://github.com/OpenBMB/PilotDeck",
-      "description": "Task-oriented AI Agent productivity platform",
-      "programmingLanguage": "TypeScript",
-      "stars": 4648,
-      "forks": 514,
-      "starsInPeriod": 77
-    },
-    {
-      "rank": 9,
-      "fullName": "Fission-AI/OpenSpec",
-      "url": "https://github.com/Fission-AI/OpenSpec",
-      "description": "Spec-driven development (SDD) for AI coding assistants.",
-      "programmingLanguage": "TypeScript",
-      "stars": 72298,
-      "forks": 4942,
-      "starsInPeriod": 89
-    },
-    {
-      "rank": 10,
-      "fullName": "payloadcms/payload",
-      "url": "https://github.com/payloadcms/payload",
-      "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
-      "programmingLanguage": "TypeScript",
-      "stars": 45319,
-      "forks": 4304,
-      "starsInPeriod": 19
+      "stars": 11703,
+      "forks": 801,
+      "starsInPeriod": 259
     },
     {
       "rank": 11,
-      "fullName": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
+      "fullName": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "programmingLanguage": "TypeScript",
-      "stars": 193801,
-      "forks": 45786,
-      "starsInPeriod": 63
+      "stars": 18577,
+      "forks": 3177,
+      "starsInPeriod": 453
     },
     {
       "rank": 12,
+      "fullName": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
+      "programmingLanguage": "TypeScript",
+      "stars": 77992,
+      "forks": 11312,
+      "starsInPeriod": 411
+    },
+    {
+      "rank": 13,
+      "fullName": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "programmingLanguage": "TypeScript",
+      "stars": 4538,
+      "forks": 826,
+      "starsInPeriod": 113
+    },
+    {
+      "rank": 14,
       "fullName": "chthollyphile/folia-major",
       "url": "https://github.com/chthollyphile/folia-major",
       "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
       "programmingLanguage": "TypeScript",
-      "stars": 7818,
-      "forks": 806,
-      "starsInPeriod": 540
-    },
-    {
-      "rank": 13,
-      "fullName": "expo/expo",
-      "url": "https://github.com/expo/expo",
-      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-      "programmingLanguage": "TypeScript",
-      "stars": 52807,
-      "forks": 14611,
-      "starsInPeriod": 27
-    },
-    {
-      "rank": 14,
-      "fullName": "awslabs/aidlc-workflows",
-      "url": "https://github.com/awslabs/aidlc-workflows",
-      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
-      "programmingLanguage": "TypeScript",
-      "stars": 5372,
-      "forks": 971,
-      "starsInPeriod": 15
+      "stars": 7915,
+      "forks": 816,
+      "starsInPeriod": 402
     },
     {
       "rank": 15,
-      "fullName": "krillinai/OpenCreator",
-      "url": "https://github.com/krillinai/OpenCreator",
-      "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
+      "fullName": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
       "programmingLanguage": "TypeScript",
-      "stars": 13660,
-      "forks": 1496,
-      "starsInPeriod": 197
-    },
-    {
-      "rank": 16,
-      "fullName": "cline/cline",
-      "url": "https://github.com/cline/cline",
-      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "programmingLanguage": "TypeScript",
-      "stars": 70494,
-      "forks": 7697,
-      "starsInPeriod": 63
-    },
-    {
-      "rank": 17,
-      "fullName": "calcom/cal.diy",
-      "url": "https://github.com/calcom/cal.diy",
-      "description": "Scheduling infrastructure for absolutely everyone.",
-      "programmingLanguage": "TypeScript",
-      "stars": 49129,
-      "forks": 15368,
-      "starsInPeriod": 42
+      "stars": 6216,
+      "forks": 186,
+      "starsInPeriod": 83
     }
   ]
 }

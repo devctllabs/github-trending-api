@@ -4,29 +4,29 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-10-18T11:02:49Z",
+  "observedAt": "2026-10-18T15:51:18Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": null,
-      "programmingLanguage": "Python",
-      "stars": 40228,
-      "forks": 5643,
-      "starsInPeriod": 5410
-    },
-    {
-      "rank": 2,
       "fullName": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 74126,
-      "forks": 8115,
+      "stars": 74570,
+      "forks": 8154,
       "starsInPeriod": 40333
+    },
+    {
+      "rank": 2,
+      "fullName": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": null,
+      "programmingLanguage": "Python",
+      "stars": 40244,
+      "forks": 5646,
+      "starsInPeriod": 5410
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 51009,
-      "forks": 6138,
+      "stars": 51110,
+      "forks": 6142,
       "starsInPeriod": 27228
     },
     {
@@ -44,59 +44,59 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 30075,
-      "forks": 3395,
+      "stars": 30106,
+      "forks": 3403,
       "starsInPeriod": 5654
     },
     {
       "rank": 5,
-      "fullName": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "programmingLanguage": "Python",
-      "stars": 9832,
-      "forks": 1262,
-      "starsInPeriod": 6631
-    },
-    {
-      "rank": 6,
       "fullName": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 70822,
-      "forks": 12458,
+      "stars": 70913,
+      "forks": 12472,
       "starsInPeriod": 16014
     },
     {
-      "rank": 7,
-      "fullName": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "programmingLanguage": "Python",
-      "stars": 39253,
-      "forks": 3408,
-      "starsInPeriod": 3705
-    },
-    {
-      "rank": 8,
-      "fullName": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "programmingLanguage": "Python",
-      "stars": 21356,
-      "forks": 2108,
-      "starsInPeriod": 5319
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "fullName": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 42239,
-      "forks": 4500,
+      "stars": 42407,
+      "forks": 4516,
       "starsInPeriod": 5112
+    },
+    {
+      "rank": 7,
+      "fullName": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "programmingLanguage": "Python",
+      "stars": 9857,
+      "forks": 1266,
+      "starsInPeriod": 6631
+    },
+    {
+      "rank": 8,
+      "fullName": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "programmingLanguage": "Python",
+      "stars": 39257,
+      "forks": 3409,
+      "starsInPeriod": 3705
+    },
+    {
+      "rank": 9,
+      "fullName": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "programmingLanguage": "Python",
+      "stars": 21405,
+      "forks": 2116,
+      "starsInPeriod": 5319
     },
     {
       "rank": 10,
@@ -104,8 +104,8 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 54311,
-      "forks": 4924,
+      "stars": 54416,
+      "forks": 4933,
       "starsInPeriod": 4550
     },
     {
@@ -114,8 +114,8 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "programmingLanguage": "Python",
-      "stars": 32723,
-      "forks": 3788,
+      "stars": 32727,
+      "forks": 3790,
       "starsInPeriod": 2080
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 98895,
-      "forks": 8710,
+      "stars": 98955,
+      "forks": 8718,
       "starsInPeriod": 16458
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/strands-agents/harness-sdk",
       "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
       "programmingLanguage": "Python",
-      "stars": 8855,
-      "forks": 1390,
+      "stars": 8856,
+      "forks": 1391,
       "starsInPeriod": 1565
     },
     {
@@ -145,28 +145,28 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "programmingLanguage": "Python",
       "stars": 104843,
-      "forks": 32758,
+      "forks": 32787,
       "starsInPeriod": 2390
     },
     {
       "rank": 15,
-      "fullName": "tile-ai/tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "programmingLanguage": "Python",
-      "stars": 8646,
-      "forks": 898,
-      "starsInPeriod": 1244
-    },
-    {
-      "rank": 16,
       "fullName": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "programmingLanguage": "Python",
-      "stars": 5717,
-      "forks": 476,
+      "stars": 5731,
+      "forks": 478,
       "starsInPeriod": 4110
+    },
+    {
+      "rank": 16,
+      "fullName": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "programmingLanguage": "Python",
+      "stars": 8647,
+      "forks": 900,
+      "starsInPeriod": 1244
     },
     {
       "rank": 17,
@@ -174,19 +174,19 @@
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "programmingLanguage": "Python",
-      "stars": 5354,
+      "stars": 5356,
       "forks": 752,
       "starsInPeriod": 1550
     },
     {
       "rank": 18,
-      "fullName": "BerriAI/litellm",
-      "url": "https://github.com/BerriAI/litellm",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 61472,
-      "forks": 12451,
-      "starsInPeriod": 2650
+      "stars": 20479,
+      "forks": 1804,
+      "starsInPeriod": 2849
     },
     {
       "rank": 19,
@@ -194,19 +194,19 @@
       "url": "https://github.com/topoteretes/cognee",
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
       "programmingLanguage": "Python",
-      "stars": 32467,
-      "forks": 3388,
+      "stars": 32477,
+      "forks": 3390,
       "starsInPeriod": 1821
     },
     {
       "rank": 20,
-      "fullName": "docling-project/docling",
-      "url": "https://github.com/docling-project/docling",
-      "description": "Get your documents ready for gen AI",
+      "fullName": "ahujasid/mcp-for-blender",
+      "url": "https://github.com/ahujasid/mcp-for-blender",
+      "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
       "programmingLanguage": "Python",
-      "stars": 69046,
-      "forks": 5101,
-      "starsInPeriod": 2614
+      "stars": 31524,
+      "forks": 2930,
+      "starsInPeriod": 2629
     }
   ]
 }

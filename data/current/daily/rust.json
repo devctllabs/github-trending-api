@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-18T11:02:53Z",
+  "observedAt": "2026-10-18T15:51:21Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 10166,
-      "forks": 735,
-      "starsInPeriod": 178
+      "stars": 10293,
+      "forks": 740,
+      "starsInPeriod": 513
     },
     {
       "rank": 2,
@@ -24,149 +24,99 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "programmingLanguage": "Rust",
-      "stars": 8124,
-      "forks": 429,
+      "stars": 8251,
+      "forks": 439,
       "starsInPeriod": 842
     },
     {
       "rank": 3,
-      "fullName": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
+      "fullName": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "programmingLanguage": "Rust",
-      "stars": 7105,
-      "forks": 485,
-      "starsInPeriod": 76
+      "stars": 83840,
+      "forks": 5327,
+      "starsInPeriod": 160
     },
     {
       "rank": 4,
-      "fullName": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "programmingLanguage": "Rust",
-      "stars": 91880,
-      "forks": 11104,
-      "starsInPeriod": 52
-    },
-    {
-      "rank": 5,
-      "fullName": "ai-dynamo/dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "programmingLanguage": "Rust",
-      "stars": 8328,
-      "forks": 1720,
-      "starsInPeriod": 7
-    },
-    {
-      "rank": 6,
       "fullName": "mixelpixx/Konnect",
       "url": "https://github.com/mixelpixx/Konnect",
       "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "programmingLanguage": "Rust",
-      "stars": 1262,
-      "forks": 143,
+      "stars": 1272,
+      "forks": 144,
       "starsInPeriod": 112
     },
     {
+      "rank": 5,
+      "fullName": "googleworkspace/cli",
+      "url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "programmingLanguage": "Rust",
+      "stars": 31641,
+      "forks": 1990,
+      "starsInPeriod": 51
+    },
+    {
+      "rank": 6,
+      "fullName": "rubys/roundhouse",
+      "url": "https://github.com/rubys/roundhouse",
+      "description": "Rails as a specification; the deployment target is a build flag",
+      "programmingLanguage": "Rust",
+      "stars": 480,
+      "forks": 42,
+      "starsInPeriod": null
+    },
+    {
       "rank": 7,
-      "fullName": "GCWing/OpenBitFun",
-      "url": "https://github.com/GCWing/OpenBitFun",
-      "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
-      "programmingLanguage": "Rust",
-      "stars": 2833,
-      "forks": 268,
-      "starsInPeriod": 148
-    },
-    {
-      "rank": 8,
-      "fullName": "nautechsystems/nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "programmingLanguage": "Rust",
-      "stars": 30280,
-      "forks": 4057,
-      "starsInPeriod": 77
-    },
-    {
-      "rank": 9,
       "fullName": "Automattic/harper",
       "url": "https://github.com/Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "programmingLanguage": "Rust",
-      "stars": 16663,
-      "forks": 814,
+      "stars": 16678,
+      "forks": 818,
       "starsInPeriod": 97
     },
     {
+      "rank": 8,
+      "fullName": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "programmingLanguage": "Rust",
+      "stars": 9546,
+      "forks": 1244,
+      "starsInPeriod": 25
+    },
+    {
+      "rank": 9,
+      "fullName": "GCWing/OpenBitFun",
+      "url": "https://github.com/GCWing/OpenBitFun",
+      "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+      "programmingLanguage": "Rust",
+      "stars": 2844,
+      "forks": 270,
+      "starsInPeriod": 148
+    },
+    {
       "rank": 10,
-      "fullName": "surrealdb/surrealdb",
-      "url": "https://github.com/surrealdb/surrealdb",
-      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "fullName": "claration/impactor",
+      "url": "https://github.com/claration/impactor",
+      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
       "programmingLanguage": "Rust",
-      "stars": 33201,
-      "forks": 1438,
-      "starsInPeriod": 15
-    },
-    {
-      "rank": 11,
-      "fullName": "jdx/mise",
-      "url": "https://github.com/jdx/mise",
-      "description": "dev tools, env vars, task runner",
-      "programmingLanguage": "Rust",
-      "stars": 35120,
-      "forks": 1486,
-      "starsInPeriod": 45
-    },
-    {
-      "rank": 12,
-      "fullName": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "programmingLanguage": "Rust",
-      "stars": 126190,
-      "forks": 19794,
-      "starsInPeriod": 105
-    },
-    {
-      "rank": 13,
-      "fullName": "voidzero-dev/vite-plus",
-      "url": "https://github.com/voidzero-dev/vite-plus",
-      "description": "The unified toolchain and entry point for web development.",
-      "programmingLanguage": "Rust",
-      "stars": 6362,
-      "forks": 285,
-      "starsInPeriod": 37
-    },
-    {
-      "rank": 14,
-      "fullName": "pydantic/monty",
-      "url": "https://github.com/pydantic/monty",
-      "description": "A secure Python sandbox, written in Rust, for code written by AI.",
-      "programmingLanguage": "Rust",
-      "stars": 8712,
-      "forks": 460,
+      "stars": 3514,
+      "forks": 239,
       "starsInPeriod": 11
     },
     {
-      "rank": 15,
-      "fullName": "foundry-rs/foundry",
-      "url": "https://github.com/foundry-rs/foundry",
-      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "rank": 11,
+      "fullName": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
       "programmingLanguage": "Rust",
-      "stars": 10675,
-      "forks": 2678,
-      "starsInPeriod": 3
-    },
-    {
-      "rank": 16,
-      "fullName": "maddada/Ghostex",
-      "url": "https://github.com/maddada/Ghostex",
-      "description": "The Best & Most Powerful Native Agents Workspace. Fully Rust & GPUI based. Mobile apps. 20+ agents. Ghostty.",
-      "programmingLanguage": "Rust",
-      "stars": 1282,
-      "forks": 91,
-      "starsInPeriod": 77
+      "stars": 60324,
+      "forks": 2707,
+      "starsInPeriod": 25
     }
   ]
 }

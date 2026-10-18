@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "updatedAt": "2026-10-18T11:03:12Z",
+  "updatedAt": "2026-10-18T15:51:40Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,14 +14,28 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 282920,
-      "forks": 42016,
+      "stars": 283060,
+      "forks": 42043,
       "starsInPeriod": 1073,
+      "bestRank": 1,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-18T04:31:42Z",
+      "lastSeenAt": "2026-10-18T15:51:40Z",
+      "appearances": 3
+    },
+    {
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "programmingLanguage": "JavaScript",
+      "stars": 166776,
+      "forks": 9035,
+      "starsInPeriod": 840,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-18T04:31:42Z",
-      "lastSeenAt": "2026-10-18T11:03:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-18T15:51:40Z",
+      "appearances": 3
     },
     {
       "fullName": "michael-denyer/pstack-claude",
@@ -42,14 +56,14 @@
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 24531,
-      "forks": 1510,
+      "stars": 24722,
+      "forks": 1552,
       "starsInPeriod": 349,
       "bestRank": 3,
       "latestRank": 3,
       "firstSeenAt": "2026-10-18T04:31:42Z",
-      "lastSeenAt": "2026-10-18T11:03:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-18T15:51:40Z",
+      "appearances": 3
     },
     {
       "fullName": "vercel/next.js",
@@ -66,18 +80,32 @@
       "appearances": 2
     },
     {
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 166561,
-      "forks": 9015,
-      "starsInPeriod": 840,
+      "stars": 30983,
+      "forks": 1943,
+      "starsInPeriod": 476,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-18T15:51:40Z",
+      "lastSeenAt": "2026-10-18T15:51:40Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": null,
+      "programmingLanguage": "JavaScript",
+      "stars": 5661,
+      "forks": 951,
+      "starsInPeriod": 392,
       "bestRank": 5,
       "latestRank": 5,
       "firstSeenAt": "2026-10-18T04:31:42Z",
-      "lastSeenAt": "2026-10-18T11:03:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-18T15:51:40Z",
+      "appearances": 3
     },
     {
       "fullName": "decolua/9router",
@@ -94,6 +122,20 @@
       "appearances": 2
     },
     {
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "programmingLanguage": "JavaScript",
+      "stars": 108072,
+      "forks": 11266,
+      "starsInPeriod": 430,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-18T15:51:40Z",
+      "lastSeenAt": "2026-10-18T15:51:40Z",
+      "appearances": 1
+    },
+    {
       "fullName": "plugin87/ux-ui-agent-skills",
       "url": "https://github.com/plugin87/ux-ui-agent-skills",
       "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
@@ -106,6 +148,20 @@
       "firstSeenAt": "2026-10-18T04:31:42Z",
       "lastSeenAt": "2026-10-18T11:03:12Z",
       "appearances": 2
+    },
+    {
+      "fullName": "laoma528/awesome-zhuiju-free",
+      "url": "https://github.com/laoma528/awesome-zhuiju-free",
+      "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
+      "programmingLanguage": "JavaScript",
+      "stars": 12584,
+      "forks": 876,
+      "starsInPeriod": 86,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-18T15:51:40Z",
+      "lastSeenAt": "2026-10-18T15:51:40Z",
+      "appearances": 1
     },
     {
       "fullName": "github/awesome-copilot",
@@ -122,32 +178,46 @@
       "appearances": 2
     },
     {
-      "fullName": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "description": null,
+      "fullName": "guoyue2010/lxmusic-",
+      "url": "https://github.com/guoyue2010/lxmusic-",
+      "description": "lxmusic(洛雪音乐)全网最新最全音源",
       "programmingLanguage": "JavaScript",
-      "stars": 5557,
-      "forks": 940,
-      "starsInPeriod": 392,
+      "stars": 6466,
+      "forks": 311,
+      "starsInPeriod": 41,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-18T15:51:40Z",
+      "lastSeenAt": "2026-10-18T15:51:40Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "mnfst/awesome-free-llm-apis",
+      "url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "description": "List of Permanent Free LLM API (API Keys)",
+      "programmingLanguage": "JavaScript",
+      "stars": 10589,
+      "forks": 1182,
+      "starsInPeriod": 122,
       "bestRank": 9,
       "latestRank": 9,
-      "firstSeenAt": "2026-10-18T04:31:42Z",
-      "lastSeenAt": "2026-10-18T11:03:12Z",
-      "appearances": 2
+      "firstSeenAt": "2026-10-18T15:51:40Z",
+      "lastSeenAt": "2026-10-18T15:51:40Z",
+      "appearances": 1
     },
     {
       "fullName": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 55305,
-      "forks": 8193,
+      "stars": 55337,
+      "forks": 8198,
       "starsInPeriod": 162,
       "bestRank": 10,
       "latestRank": 10,
       "firstSeenAt": "2026-10-18T04:31:42Z",
-      "lastSeenAt": "2026-10-18T11:03:12Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-18T15:51:40Z",
+      "appearances": 3
     },
     {
       "fullName": "usebruno/bruno",
