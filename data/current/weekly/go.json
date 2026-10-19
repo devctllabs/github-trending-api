@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-18T20:41:41Z",
+  "observedAt": "2026-10-19T04:39:06Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 31096,
-      "forks": 4874,
-      "starsInPeriod": 5538
+      "stars": 31166,
+      "forks": 4893,
+      "starsInPeriod": 5765
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "programmingLanguage": "Go",
-      "stars": 3014,
-      "forks": 551,
-      "starsInPeriod": 229
+      "stars": 3018,
+      "forks": 552,
+      "starsInPeriod": 207
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/gtsteffaniak/filebrowser",
       "description": "📂 Web File Browser",
       "programmingLanguage": "Go",
-      "stars": 8811,
-      "forks": 492,
-      "starsInPeriod": 217
+      "stars": 8813,
+      "forks": 493,
+      "starsInPeriod": 201
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 183730,
-      "forks": 18392,
-      "starsInPeriod": 1112
+      "stars": 183771,
+      "forks": 18399,
+      "starsInPeriod": 1092
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/Bennettxai/FounderOS",
       "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
       "programmingLanguage": "Go",
-      "stars": 1191,
+      "stars": 1194,
       "forks": 333,
-      "starsInPeriod": 153
+      "starsInPeriod": 138
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/devaccuracy/ledgerforge",
       "description": "The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0.",
       "programmingLanguage": "Go",
-      "stars": 409,
+      "stars": 411,
       "forks": 42,
-      "starsInPeriod": 240
+      "starsInPeriod": 207
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/Autumn-27/ScopeSentry",
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "programmingLanguage": "Go",
-      "stars": 1948,
+      "stars": 1953,
       "forks": 401,
-      "starsInPeriod": 159
+      "starsInPeriod": 157
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/github/github-mcp-server",
       "description": "GitHub's official MCP Server",
       "programmingLanguage": "Go",
-      "stars": 33731,
-      "forks": 5330,
-      "starsInPeriod": 249
+      "stars": 33740,
+      "forks": 5334,
+      "starsInPeriod": 251
     },
     {
       "rank": 9,
@@ -95,8 +95,8 @@
       "description": "llm-d Router: The intelligent entry point for inference requests",
       "programmingLanguage": "Go",
       "stars": 421,
-      "forks": 466,
-      "starsInPeriod": 29
+      "forks": 469,
+      "starsInPeriod": 27
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/eugenioenko/ttt",
       "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
       "programmingLanguage": "Go",
-      "stars": 618,
-      "forks": 70,
-      "starsInPeriod": 113
+      "stars": 620,
+      "forks": 73,
+      "starsInPeriod": 95
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/lharries/whatsapp-mcp",
       "description": "WhatsApp MCP server",
       "programmingLanguage": "Go",
-      "stars": 6654,
+      "stars": 6656,
       "forks": 1419,
-      "starsInPeriod": 187
+      "starsInPeriod": 130
     },
     {
       "rank": 12,
@@ -124,39 +124,29 @@
       "url": "https://github.com/google/agentmesh",
       "description": "Agent Mesh",
       "programmingLanguage": "Go",
-      "stars": 1113,
+      "stars": 1116,
       "forks": 184,
-      "starsInPeriod": 141
+      "starsInPeriod": 151
     },
     {
       "rank": 13,
-      "fullName": "heartleo/zlib",
-      "url": "https://github.com/heartleo/zlib",
-      "description": "A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents.",
-      "programmingLanguage": "Go",
-      "stars": 1072,
-      "forks": 84,
-      "starsInPeriod": 374
-    },
-    {
-      "rank": 14,
       "fullName": "0xJacky/nginx-ui",
       "url": "https://github.com/0xJacky/nginx-ui",
       "description": "Yet another WebUI for Nginx",
       "programmingLanguage": "Go",
-      "stars": 11642,
+      "stars": 11644,
       "forks": 906,
-      "starsInPeriod": 59
+      "starsInPeriod": 52
     },
     {
-      "rank": 15,
+      "rank": 14,
       "fullName": "Mag1cFall/AIStudio2API",
       "url": "https://github.com/Mag1cFall/AIStudio2API",
       "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
       "programmingLanguage": "Go",
-      "stars": 355,
-      "forks": 100,
-      "starsInPeriod": 100
+      "stars": 359,
+      "forks": 102,
+      "starsInPeriod": 116
     }
   ]
 }

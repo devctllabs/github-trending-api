@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ght="urn:github-trending:v1" version="2.0">
+  <channel>
+    <title>GitHub Trending — daily — rust</title>
+    <link>https://github.com/trending/rust</link>
+    <description>GitHub Trending — daily — rust</description>
+    <lastBuildDate>Mon, 19 Oct 2026 04:38:54 GMT</lastBuildDate>
+    <ght:schemaVersion>1</ght:schemaVersion>
+    <ght:kind>daily-rollup</ght:kind>
+    <ght:date>2026-10-19</ght:date>
+    <ght:period>daily</ght:period>
+    <ght:language>rust</ght:language>
+    <ght:updatedAt>2026-10-19T04:38:54Z</ght:updatedAt>
+    <ght:latestStatus>complete</ght:latestStatus>
+    <ght:latestIssues />
+    <item>
+      <title>akitaonrails/ai-memory</title>
+      <link>https://github.com/akitaonrails/ai-memory</link>
+      <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
+      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>10641</ght:stars>
+      <ght:forks>754</ght:forks>
+      <ght:starsInPeriod>512</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T04:38:54Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>xerj-org/xerj</title>
+      <link>https://github.com/xerj-org/xerj</link>
+      <description>XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.</description>
+      <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>8597</ght:stars>
+      <ght:forks>458</ght:forks>
+      <ght:starsInPeriod>835</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T04:38:54Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>rtk-ai/rtk</title>
+      <link>https://github.com/rtk-ai/rtk</link>
+      <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
+      <guid isPermaLink="true">https://github.com/rtk-ai/rtk</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>83897</ght:stars>
+      <ght:forks>5329</ght:forks>
+      <ght:starsInPeriod>155</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T04:38:54Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>mixelpixx/Konnect</title>
+      <link>https://github.com/mixelpixx/Konnect</link>
+      <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
+      <guid isPermaLink="true">https://github.com/mixelpixx/Konnect</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>1286</ght:stars>
+      <ght:forks>146</ght:forks>
+      <ght:starsInPeriod>49</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T04:38:54Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>googleworkspace/cli</title>
+      <link>https://github.com/googleworkspace/cli</link>
+      <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</description>
+      <guid isPermaLink="true">https://github.com/googleworkspace/cli</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>31661</ght:stars>
+      <ght:forks>2004</ght:forks>
+      <ght:starsInPeriod>47</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T04:38:54Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>rubys/roundhouse</title>
+      <link>https://github.com/rubys/roundhouse</link>
+      <description>Rails as a specification; the deployment target is a build flag</description>
+      <guid isPermaLink="true">https://github.com/rubys/roundhouse</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>483</ght:stars>
+      <ght:forks>42</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T04:38:54Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Automattic/harper</title>
+      <link>https://github.com/Automattic/harper</link>
+      <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
+      <guid isPermaLink="true">https://github.com/Automattic/harper</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>16718</ght:stars>
+      <ght:forks>830</ght:forks>
+      <ght:starsInPeriod>78</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T04:38:54Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>pollen-robotics/microduck</title>
+      <link>https://github.com/pollen-robotics/microduck</link>
+      <description>A Tiny biped duck robot 🦆</description>
+      <guid isPermaLink="true">https://github.com/pollen-robotics/microduck</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>9581</ght:stars>
+      <ght:forks>1246</ght:forks>
+      <ght:starsInPeriod>29</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T04:38:54Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>GCWing/OpenBitFun</title>
+      <link>https://github.com/GCWing/OpenBitFun</link>
+      <description>OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.</description>
+      <guid isPermaLink="true">https://github.com/GCWing/OpenBitFun</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>2855</ght:stars>
+      <ght:forks>272</ght:forks>
+      <ght:starsInPeriod>18</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T04:38:54Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>claration/impactor</title>
+      <link>https://github.com/claration/impactor</link>
+      <description>Cross-platform &amp; feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.</description>
+      <guid isPermaLink="true">https://github.com/claration/impactor</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>3524</ght:stars>
+      <ght:forks>239</ght:forks>
+      <ght:starsInPeriod>16</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T04:38:54Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>starship/starship</title>
+      <link>https://github.com/starship/starship</link>
+      <description>☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</description>
+      <guid isPermaLink="true">https://github.com/starship/starship</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>60333</ght:stars>
+      <ght:forks>2710</ght:forks>
+      <ght:starsInPeriod>27</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T04:38:54Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+  </channel>
+</rss>

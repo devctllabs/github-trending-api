@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-18T20:41:28Z",
+  "observedAt": "2026-10-19T04:38:54Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 10398,
-      "forks": 746,
-      "starsInPeriod": 513
+      "stars": 10641,
+      "forks": 754,
+      "starsInPeriod": 512
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "programmingLanguage": "Rust",
-      "stars": 8319,
-      "forks": 443,
-      "starsInPeriod": 842
+      "stars": 8597,
+      "forks": 458,
+      "starsInPeriod": 835
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "programmingLanguage": "Rust",
-      "stars": 83861,
-      "forks": 5328,
-      "starsInPeriod": 160
+      "stars": 83897,
+      "forks": 5329,
+      "starsInPeriod": 155
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/mixelpixx/Konnect",
       "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "programmingLanguage": "Rust",
-      "stars": 1280,
-      "forks": 144,
-      "starsInPeriod": 47
+      "stars": 1286,
+      "forks": 146,
+      "starsInPeriod": 49
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
       "programmingLanguage": "Rust",
-      "stars": 31652,
-      "forks": 2000,
-      "starsInPeriod": 51
+      "stars": 31661,
+      "forks": 2004,
+      "starsInPeriod": 47
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/rubys/roundhouse",
       "description": "Rails as a specification; the deployment target is a build flag",
       "programmingLanguage": "Rust",
-      "stars": 481,
+      "stars": 483,
       "forks": 42,
-      "starsInPeriod": null
+      "starsInPeriod": 4
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "programmingLanguage": "Rust",
-      "stars": 16697,
-      "forks": 829,
-      "starsInPeriod": 74
+      "stars": 16718,
+      "forks": 830,
+      "starsInPeriod": 78
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "programmingLanguage": "Rust",
-      "stars": 9561,
-      "forks": 1244,
-      "starsInPeriod": 25
+      "stars": 9581,
+      "forks": 1246,
+      "starsInPeriod": 29
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/GCWing/OpenBitFun",
       "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
       "programmingLanguage": "Rust",
-      "stars": 2852,
-      "forks": 271,
-      "starsInPeriod": 21
+      "stars": 2855,
+      "forks": 272,
+      "starsInPeriod": 18
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/claration/impactor",
       "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
       "programmingLanguage": "Rust",
-      "stars": 3515,
+      "stars": 3524,
       "forks": 239,
-      "starsInPeriod": 11
+      "starsInPeriod": 16
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/starship/starship",
       "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
       "programmingLanguage": "Rust",
-      "stars": 60331,
-      "forks": 2711,
-      "starsInPeriod": 25
+      "stars": 60333,
+      "forks": 2710,
+      "starsInPeriod": 27
     }
   ]
 }
