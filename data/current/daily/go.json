@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-19T13:12:10Z",
+  "observedAt": "2026-10-19T22:20:57Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38508,
-      "forks": 774,
+      "stars": 38521,
+      "forks": 776,
       "starsInPeriod": 19
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/go-gitea/gitea",
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 58566,
-      "forks": 7290,
+      "stars": 58572,
+      "forks": 7297,
       "starsInPeriod": 23
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/helm/helm",
       "description": "The Kubernetes Package Manager",
       "programmingLanguage": "Go",
-      "stars": 30339,
-      "forks": 7846,
+      "stars": 30342,
+      "forks": 7850,
       "starsInPeriod": 3
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/urfave/cli",
       "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
       "programmingLanguage": "Go",
-      "stars": 24291,
-      "forks": 1920,
+      "stars": 24293,
+      "forks": 1935,
       "starsInPeriod": null
     },
     {
@@ -54,9 +54,9 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 183814,
-      "forks": 18403,
-      "starsInPeriod": 146
+      "stars": 183865,
+      "forks": 18414,
+      "starsInPeriod": 128
     },
     {
       "rank": 6,
@@ -64,8 +64,8 @@
       "url": "https://github.com/superplanehq/superplane",
       "description": "Open source factory for one-shot engineering",
       "programmingLanguage": "Go",
-      "stars": 8003,
-      "forks": 655,
+      "stars": 8041,
+      "forks": 658,
       "starsInPeriod": 103
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/rclone/rclone",
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "programmingLanguage": "Go",
-      "stars": 60398,
-      "forks": 5546,
+      "stars": 60410,
+      "forks": 5547,
       "starsInPeriod": 24
     },
     {
@@ -84,9 +84,9 @@
       "url": "https://github.com/Mag1cFall/AIStudio2API",
       "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
       "programmingLanguage": "Go",
-      "stars": 372,
-      "forks": 106,
-      "starsInPeriod": 29
+      "stars": 379,
+      "forks": 108,
+      "starsInPeriod": 26
     },
     {
       "rank": 9,
@@ -94,8 +94,8 @@
       "url": "https://github.com/etcd-io/etcd",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "programmingLanguage": "Go",
-      "stars": 52400,
-      "forks": 10541,
+      "stars": 52402,
+      "forks": 10543,
       "starsInPeriod": 12
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://github.com/gofiber/fiber",
       "description": "⚡️ Express inspired web framework written in Go",
       "programmingLanguage": "Go",
-      "stars": 40219,
+      "stars": 40224,
       "forks": 2055,
       "starsInPeriod": 4
     },
@@ -114,7 +114,7 @@
       "url": "https://github.com/livekit/livekit",
       "description": "End-to-end realtime stack for connecting humans and AI",
       "programmingLanguage": "Go",
-      "stars": 21644,
+      "stars": 21658,
       "forks": 2483,
       "starsInPeriod": 72
     },
@@ -124,7 +124,7 @@
       "url": "https://github.com/simulot/immich-go",
       "description": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
       "programmingLanguage": "Go",
-      "stars": 7064,
+      "stars": 7071,
       "forks": 273,
       "starsInPeriod": 9
     },
@@ -134,8 +134,8 @@
       "url": "https://github.com/danielmiessler/Fabric",
       "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "programmingLanguage": "Go",
-      "stars": 44353,
-      "forks": 4308,
+      "stars": 44366,
+      "forks": 4309,
       "starsInPeriod": 27
     },
     {
@@ -144,8 +144,8 @@
       "url": "https://github.com/strelov1/freehire",
       "description": "freehire — the open-source search engine for job seekers",
       "programmingLanguage": "Go",
-      "stars": 1349,
-      "forks": 157,
+      "stars": 1438,
+      "forks": 166,
       "starsInPeriod": 311
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/moby/moby",
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "programmingLanguage": "Go",
-      "stars": 72205,
-      "forks": 19248,
+      "stars": 72206,
+      "forks": 19255,
       "starsInPeriod": 4
     }
   ]

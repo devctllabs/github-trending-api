@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=monthly",
-  "observedAt": "2026-10-19T13:12:06Z",
+  "observedAt": "2026-10-19T22:20:54Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 16675,
-      "forks": 1815,
+      "stars": 16715,
+      "forks": 1817,
       "starsInPeriod": 7995
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 82966,
-      "forks": 5016,
+      "stars": 83183,
+      "forks": 5032,
       "starsInPeriod": 14068
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 18234,
-      "forks": 1107,
+      "stars": 18308,
+      "forks": 1109,
       "starsInPeriod": 3632
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
       "programmingLanguage": "Rust",
-      "stars": 30197,
-      "forks": 2174,
+      "stars": 30221,
+      "forks": 2178,
       "starsInPeriod": 7211
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 27223,
-      "forks": 2474,
+      "stars": 27241,
+      "forks": 2477,
       "starsInPeriod": 7204
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.com/cloudflare/quiche",
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "programmingLanguage": "Rust",
-      "stars": 12802,
+      "stars": 12804,
       "forks": 1179,
       "starsInPeriod": 995
     },
@@ -74,8 +74,8 @@
       "url": "https://github.com/bevyengine/bevy",
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 49128,
-      "forks": 4943,
+      "stars": 49140,
+      "forks": 4947,
       "starsInPeriod": 960
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "programmingLanguage": "Rust",
-      "stars": 152473,
-      "forks": 10943,
+      "stars": 152523,
+      "forks": 10950,
       "starsInPeriod": 7716
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/lexmount/moli",
       "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 19604,
-      "forks": 699,
+      "stars": 19663,
+      "forks": 722,
       "starsInPeriod": 17705
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://github.com/hydra-db/hydradb",
       "description": "HydraDB - fast graph database on object storage",
       "programmingLanguage": "Rust",
-      "stars": 13067,
+      "stars": 13068,
       "forks": 5425,
       "starsInPeriod": 9987
     },
@@ -114,8 +114,8 @@
       "url": "https://github.com/microsoft/mxc",
       "description": "Policy-driven, layered isolation and containment",
       "programmingLanguage": "Rust",
-      "stars": 2918,
-      "forks": 159,
+      "stars": 2925,
+      "forks": 160,
       "starsInPeriod": 1574
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 10904,
-      "forks": 777,
+      "stars": 11271,
+      "forks": 798,
       "starsInPeriod": 3747
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 126308,
-      "forks": 19833,
+      "stars": 126354,
+      "forks": 19841,
       "starsInPeriod": 2841
     },
     {
@@ -144,7 +144,7 @@
       "url": "https://github.com/timhartmann7/omnyssh",
       "description": "Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 1201,
+      "stars": 1205,
       "forks": 70,
       "starsInPeriod": 480
     },
@@ -154,8 +154,8 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "programmingLanguage": "Rust",
-      "stars": 8819,
-      "forks": 474,
+      "stars": 10473,
+      "forks": 553,
       "starsInPeriod": 7336
     },
     {
@@ -164,8 +164,8 @@
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 3303,
-      "forks": 383,
+      "stars": 3320,
+      "forks": 385,
       "starsInPeriod": 1217
     },
     {
@@ -174,7 +174,7 @@
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers",
       "programmingLanguage": "Rust",
-      "stars": 12526,
+      "stars": 12532,
       "forks": 939,
       "starsInPeriod": 1285
     },
@@ -184,7 +184,7 @@
       "url": "https://github.com/xingkongliang/skills-manager",
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "programmingLanguage": "Rust",
-      "stars": 6535,
+      "stars": 6546,
       "forks": 527,
       "starsInPeriod": 1708
     },
@@ -194,8 +194,8 @@
       "url": "https://github.com/pydantic/monty",
       "description": "A secure Python sandbox, written in Rust, for code written by AI.",
       "programmingLanguage": "Rust",
-      "stars": 8723,
-      "forks": 463,
+      "stars": 8729,
+      "forks": 465,
       "starsInPeriod": 514
     },
     {
@@ -204,8 +204,8 @@
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "programmingLanguage": "Rust",
-      "stars": 120579,
-      "forks": 19104,
+      "stars": 120610,
+      "forks": 19111,
       "starsInPeriod": 2537
     },
     {
@@ -214,8 +214,8 @@
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "programmingLanguage": "Rust",
-      "stars": 45366,
-      "forks": 6451,
+      "stars": 45371,
+      "forks": 6450,
       "starsInPeriod": 1932
     }
   ]

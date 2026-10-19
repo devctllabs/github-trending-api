@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "updatedAt": "2026-10-19T13:11:50Z",
+  "updatedAt": "2026-10-19T22:20:38Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,70 +14,70 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "programmingLanguage": "Python",
-      "stars": 55500,
-      "forks": 17790,
+      "stars": 56981,
+      "forks": 18137,
       "starsInPeriod": 3860,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-19T04:38:44Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 3
     },
     {
       "fullName": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 43056,
-      "forks": 4555,
+      "stars": 43161,
+      "forks": 4564,
       "starsInPeriod": 814,
       "bestRank": 2,
       "latestRank": 7,
       "firstSeenAt": "2026-10-19T04:38:44Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 3
     },
     {
       "fullName": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "programmingLanguage": "Python",
-      "stars": 139219,
-      "forks": 16540,
+      "stars": 139633,
+      "forks": 16577,
       "starsInPeriod": 1011,
       "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-10-19T04:38:44Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 3
     },
     {
       "fullName": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 54957,
-      "forks": 4966,
+      "stars": 55182,
+      "forks": 4977,
       "starsInPeriod": 607,
       "bestRank": 3,
       "latestRank": 5,
       "firstSeenAt": "2026-10-19T04:38:44Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 3
     },
     {
       "fullName": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "programmingLanguage": "Python",
-      "stars": 76012,
-      "forks": 5911,
+      "stars": 76197,
+      "forks": 5922,
       "starsInPeriod": 317,
       "bestRank": 3,
       "latestRank": 3,
       "firstSeenAt": "2026-10-19T13:11:50Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 2
     },
     {
       "fullName": "debpalash/VoiceStudio",
@@ -98,28 +98,28 @@
       "url": "https://github.com/Kruk2/jasna",
       "description": "Video restoration tool",
       "programmingLanguage": "Python",
-      "stars": 2735,
-      "forks": 205,
+      "stars": 2861,
+      "forks": 212,
       "starsInPeriod": 502,
       "bestRank": 4,
       "latestRank": 4,
       "firstSeenAt": "2026-10-19T04:38:44Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 3
     },
     {
       "fullName": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "programmingLanguage": "Python",
-      "stars": 41347,
-      "forks": 6892,
+      "stars": 41598,
+      "forks": 6919,
       "starsInPeriod": 355,
       "bestRank": 6,
       "latestRank": 6,
       "firstSeenAt": "2026-10-19T13:11:50Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 2
     },
     {
       "fullName": "K-Dense-AI/scientific-agent-skills",
@@ -140,14 +140,14 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "programmingLanguage": "Python",
-      "stars": 128798,
-      "forks": 12420,
-      "starsInPeriod": 626,
+      "stars": 129112,
+      "forks": 12452,
+      "starsInPeriod": 751,
       "bestRank": 8,
       "latestRank": 8,
       "firstSeenAt": "2026-10-19T04:38:44Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 3
     },
     {
       "fullName": "TauricResearch/TradingAgents",
@@ -182,28 +182,28 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "programmingLanguage": "Python",
-      "stars": 69846,
-      "forks": 7785,
+      "stars": 70051,
+      "forks": 7816,
       "starsInPeriod": 476,
       "bestRank": 9,
       "latestRank": 9,
       "firstSeenAt": "2026-10-19T13:11:50Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 2
     },
     {
       "fullName": "Friedrich-M/UniMate",
       "url": "https://github.com/Friedrich-M/UniMate",
       "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
       "programmingLanguage": "Python",
-      "stars": 1999,
-      "forks": 215,
+      "stars": 2016,
+      "forks": 219,
       "starsInPeriod": 142,
       "bestRank": 10,
       "latestRank": 10,
       "firstSeenAt": "2026-10-19T13:11:50Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 2
     },
     {
       "fullName": "ahujasid/mcp-for-blender",
@@ -224,14 +224,14 @@
       "url": "https://github.com/google/artemis",
       "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.",
       "programmingLanguage": "Python",
-      "stars": 12798,
-      "forks": 1490,
+      "stars": 12968,
+      "forks": 1537,
       "starsInPeriod": 526,
       "bestRank": 11,
       "latestRank": 11,
       "firstSeenAt": "2026-10-19T13:11:50Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 2
     },
     {
       "fullName": "mozilla-ai/otari",
@@ -252,14 +252,14 @@
       "url": "https://github.com/666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "programmingLanguage": "Python",
-      "stars": 80526,
-      "forks": 12219,
+      "stars": 80643,
+      "forks": 12235,
       "starsInPeriod": 394,
       "bestRank": 12,
       "latestRank": 12,
       "firstSeenAt": "2026-10-19T13:11:50Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 2
     },
     {
       "fullName": "superdesigndev/treg",
@@ -280,14 +280,14 @@
       "url": "https://github.com/bobeff/open-source-games",
       "description": "A list of open source games.",
       "programmingLanguage": "Python",
-      "stars": 16516,
-      "forks": 1462,
-      "starsInPeriod": 65,
+      "stars": 16574,
+      "forks": 1468,
+      "starsInPeriod": 461,
       "bestRank": 13,
       "latestRank": 13,
       "firstSeenAt": "2026-10-19T13:11:50Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 2
     },
     {
       "fullName": "k2-fsa/OmniVoice",
@@ -308,14 +308,14 @@
       "url": "https://github.com/fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "programmingLanguage": "Python",
-      "stars": 103242,
+      "stars": 103262,
       "forks": 10059,
       "starsInPeriod": 48,
       "bestRank": 14,
       "latestRank": 14,
       "firstSeenAt": "2026-10-19T13:11:50Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 2
     },
     {
       "fullName": "Free-TV/IPTV",
@@ -336,14 +336,14 @@
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "programmingLanguage": "Python",
-      "stars": 52921,
-      "forks": 4058,
+      "stars": 52980,
+      "forks": 4060,
       "starsInPeriod": 282,
       "bestRank": 15,
       "latestRank": 15,
       "firstSeenAt": "2026-10-19T13:11:50Z",
-      "lastSeenAt": "2026-10-19T13:11:50Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-19T22:20:38Z",
+      "appearances": 2
     }
   ]
 }
