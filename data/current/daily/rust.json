@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-19T04:38:54Z",
+  "observedAt": "2026-10-19T13:12:00Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 10641,
-      "forks": 754,
-      "starsInPeriod": 512
+      "stars": 10904,
+      "forks": 777,
+      "starsInPeriod": 666
     },
     {
       "rank": 2,
@@ -24,99 +24,89 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "programmingLanguage": "Rust",
-      "stars": 8597,
-      "forks": 458,
-      "starsInPeriod": 835
+      "stars": 8819,
+      "forks": 474,
+      "starsInPeriod": 675
     },
     {
       "rank": 3,
-      "fullName": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "fullName": "smg-project/smg",
+      "url": "https://github.com/smg-project/smg",
+      "description": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.",
       "programmingLanguage": "Rust",
-      "stars": 83897,
-      "forks": 5329,
-      "starsInPeriod": 155
+      "stars": 628,
+      "forks": 195,
+      "starsInPeriod": 8
     },
     {
       "rank": 4,
-      "fullName": "mixelpixx/Konnect",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
+      "fullName": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "programmingLanguage": "Rust",
-      "stars": 1286,
-      "forks": 146,
-      "starsInPeriod": 49
+      "stars": 96301,
+      "forks": 5143,
+      "starsInPeriod": 21
     },
     {
       "rank": 5,
-      "fullName": "googleworkspace/cli",
-      "url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "fullName": "leepokai/Codync",
+      "url": "https://github.com/leepokai/Codync",
+      "description": "The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 31661,
-      "forks": 2004,
-      "starsInPeriod": 47
+      "stars": 588,
+      "forks": 80,
+      "starsInPeriod": 49
     },
     {
       "rank": 6,
-      "fullName": "rubys/roundhouse",
-      "url": "https://github.com/rubys/roundhouse",
-      "description": "Rails as a specification; the deployment target is a build flag",
-      "programmingLanguage": "Rust",
-      "stars": 483,
-      "forks": 42,
-      "starsInPeriod": 4
-    },
-    {
-      "rank": 7,
       "fullName": "Automattic/harper",
       "url": "https://github.com/Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "programmingLanguage": "Rust",
-      "stars": 16718,
-      "forks": 830,
+      "stars": 16738,
+      "forks": 839,
       "starsInPeriod": 78
     },
     {
-      "rank": 8,
-      "fullName": "pollen-robotics/microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
+      "rank": 7,
+      "fullName": "martin-olivier/airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
       "programmingLanguage": "Rust",
-      "stars": 9581,
-      "forks": 1246,
-      "starsInPeriod": 29
+      "stars": 4463,
+      "forks": 787,
+      "starsInPeriod": 139
+    },
+    {
+      "rank": 8,
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "programmingLanguage": "Rust",
+      "stars": 82966,
+      "forks": 5016,
+      "starsInPeriod": 415
     },
     {
       "rank": 9,
-      "fullName": "GCWing/OpenBitFun",
-      "url": "https://github.com/GCWing/OpenBitFun",
-      "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+      "fullName": "confeden/Antigravity",
+      "url": "https://github.com/confeden/Antigravity",
+      "description": "Antigravity в России без VPN и смены региона аккаунта Google",
       "programmingLanguage": "Rust",
-      "stars": 2855,
-      "forks": 272,
-      "starsInPeriod": 18
+      "stars": 919,
+      "forks": 54,
+      "starsInPeriod": 24
     },
     {
       "rank": 10,
-      "fullName": "claration/impactor",
-      "url": "https://github.com/claration/impactor",
-      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
+      "fullName": "fish-shell/fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
       "programmingLanguage": "Rust",
-      "stars": 3524,
-      "forks": 239,
+      "stars": 34323,
+      "forks": 2393,
       "starsInPeriod": 16
-    },
-    {
-      "rank": 11,
-      "fullName": "starship/starship",
-      "url": "https://github.com/starship/starship",
-      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-      "programmingLanguage": "Rust",
-      "stars": 60333,
-      "forks": 2710,
-      "starsInPeriod": 27
     }
   ]
 }

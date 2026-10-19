@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-19T04:39:06Z",
+  "observedAt": "2026-10-19T13:12:13Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,79 +14,79 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 31166,
-      "forks": 4893,
+      "stars": 31257,
+      "forks": 4927,
       "starsInPeriod": 5765
     },
     {
       "rank": 2,
-      "fullName": "Armur-Ai/Pentest-Swarm-AI",
-      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
-      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
-      "programmingLanguage": "Go",
-      "stars": 3018,
-      "forks": 552,
-      "starsInPeriod": 207
-    },
-    {
-      "rank": 3,
-      "fullName": "gtsteffaniak/filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "programmingLanguage": "Go",
-      "stars": 8813,
-      "forks": 493,
-      "starsInPeriod": 201
-    },
-    {
-      "rank": 4,
       "fullName": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 183771,
-      "forks": 18399,
+      "stars": 183814,
+      "forks": 18403,
       "starsInPeriod": 1092
     },
     {
+      "rank": 3,
+      "fullName": "Armur-Ai/Pentest-Swarm-AI",
+      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
+      "programmingLanguage": "Go",
+      "stars": 3019,
+      "forks": 556,
+      "starsInPeriod": 207
+    },
+    {
+      "rank": 4,
+      "fullName": "gtsteffaniak/filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "programmingLanguage": "Go",
+      "stars": 8818,
+      "forks": 495,
+      "starsInPeriod": 201
+    },
+    {
       "rank": 5,
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 113582,
+      "forks": 6574,
+      "starsInPeriod": 2611
+    },
+    {
+      "rank": 6,
       "fullName": "Bennettxai/FounderOS",
       "url": "https://github.com/Bennettxai/FounderOS",
       "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
       "programmingLanguage": "Go",
-      "stars": 1194,
+      "stars": 1198,
       "forks": 333,
       "starsInPeriod": 138
     },
     {
-      "rank": 6,
-      "fullName": "devaccuracy/ledgerforge",
-      "url": "https://github.com/devaccuracy/ledgerforge",
-      "description": "The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0.",
+      "rank": 7,
+      "fullName": "eugenioenko/ttt",
+      "url": "https://github.com/eugenioenko/ttt",
+      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
       "programmingLanguage": "Go",
-      "stars": 411,
-      "forks": 42,
-      "starsInPeriod": 207
+      "stars": 623,
+      "forks": 78,
+      "starsInPeriod": 95
     },
     {
-      "rank": 7,
+      "rank": 8,
       "fullName": "Autumn-27/ScopeSentry",
       "url": "https://github.com/Autumn-27/ScopeSentry",
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "programmingLanguage": "Go",
-      "stars": 1953,
-      "forks": 401,
+      "stars": 1966,
+      "forks": 403,
       "starsInPeriod": 157
-    },
-    {
-      "rank": 8,
-      "fullName": "github/github-mcp-server",
-      "url": "https://github.com/github/github-mcp-server",
-      "description": "GitHub's official MCP Server",
-      "programmingLanguage": "Go",
-      "stars": 33740,
-      "forks": 5334,
-      "starsInPeriod": 251
     },
     {
       "rank": 9,
@@ -94,59 +94,89 @@
       "url": "https://github.com/llm-d/llm-d-router",
       "description": "llm-d Router: The intelligent entry point for inference requests",
       "programmingLanguage": "Go",
-      "stars": 421,
-      "forks": 469,
+      "stars": 422,
+      "forks": 471,
       "starsInPeriod": 27
     },
     {
       "rank": 10,
-      "fullName": "eugenioenko/ttt",
-      "url": "https://github.com/eugenioenko/ttt",
-      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
-      "programmingLanguage": "Go",
-      "stars": 620,
-      "forks": 73,
-      "starsInPeriod": 95
-    },
-    {
-      "rank": 11,
-      "fullName": "lharries/whatsapp-mcp",
-      "url": "https://github.com/lharries/whatsapp-mcp",
-      "description": "WhatsApp MCP server",
-      "programmingLanguage": "Go",
-      "stars": 6656,
-      "forks": 1419,
-      "starsInPeriod": 130
-    },
-    {
-      "rank": 12,
-      "fullName": "google/agentmesh",
-      "url": "https://github.com/google/agentmesh",
-      "description": "Agent Mesh",
-      "programmingLanguage": "Go",
-      "stars": 1116,
-      "forks": 184,
-      "starsInPeriod": 151
-    },
-    {
-      "rank": 13,
-      "fullName": "0xJacky/nginx-ui",
-      "url": "https://github.com/0xJacky/nginx-ui",
-      "description": "Yet another WebUI for Nginx",
-      "programmingLanguage": "Go",
-      "stars": 11644,
-      "forks": 906,
-      "starsInPeriod": 52
-    },
-    {
-      "rank": 14,
       "fullName": "Mag1cFall/AIStudio2API",
       "url": "https://github.com/Mag1cFall/AIStudio2API",
       "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
       "programmingLanguage": "Go",
-      "stars": 359,
-      "forks": 102,
+      "stars": 372,
+      "forks": 106,
       "starsInPeriod": 116
+    },
+    {
+      "rank": 11,
+      "fullName": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "programmingLanguage": "Go",
+      "stars": 33758,
+      "forks": 5353,
+      "starsInPeriod": 251
+    },
+    {
+      "rank": 12,
+      "fullName": "pearl-research-labs/pearl",
+      "url": "https://github.com/pearl-research-labs/pearl",
+      "description": "Monorepo for the Pearl network 🐚",
+      "programmingLanguage": "Go",
+      "stars": 369,
+      "forks": 90,
+      "starsInPeriod": 16
+    },
+    {
+      "rank": 13,
+      "fullName": "Gentleman-Programming/engram",
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "programmingLanguage": "Go",
+      "stars": 7452,
+      "forks": 778,
+      "starsInPeriod": 315
+    },
+    {
+      "rank": 14,
+      "fullName": "lionsoul2014/ip2region",
+      "url": "https://github.com/lionsoul2014/ip2region",
+      "description": "Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages",
+      "programmingLanguage": "Go",
+      "stars": 19695,
+      "forks": 3077,
+      "starsInPeriod": 87
+    },
+    {
+      "rank": 15,
+      "fullName": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "programmingLanguage": "Go",
+      "stars": 21644,
+      "forks": 2483,
+      "starsInPeriod": 268
+    },
+    {
+      "rank": 16,
+      "fullName": "google/agentmesh",
+      "url": "https://github.com/google/agentmesh",
+      "description": "Agent Mesh",
+      "programmingLanguage": "Go",
+      "stars": 1122,
+      "forks": 184,
+      "starsInPeriod": 151
+    },
+    {
+      "rank": 17,
+      "fullName": "gogs/gogs",
+      "url": "https://github.com/gogs/gogs",
+      "description": "The painless way to host your own Git service",
+      "programmingLanguage": "Go",
+      "stars": 47886,
+      "forks": 5079,
+      "starsInPeriod": 43
     }
   ]
 }

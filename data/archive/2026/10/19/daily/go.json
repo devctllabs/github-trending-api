@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-10-19T04:39:03Z",
+  "updatedAt": "2026-10-19T13:12:10Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -24,6 +24,20 @@
       "appearances": 1
     },
     {
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 38508,
+      "forks": 774,
+      "starsInPeriod": 19,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
+      "appearances": 1
+    },
+    {
       "fullName": "google/ax",
       "url": "https://github.com/google/ax",
       "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
@@ -35,6 +49,20 @@
       "latestRank": 2,
       "firstSeenAt": "2026-10-19T04:39:03Z",
       "lastSeenAt": "2026-10-19T04:39:03Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "programmingLanguage": "Go",
+      "stars": 58566,
+      "forks": 7290,
+      "starsInPeriod": 23,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
       "appearances": 1
     },
     {
@@ -52,6 +80,20 @@
       "appearances": 1
     },
     {
+      "fullName": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "programmingLanguage": "Go",
+      "stars": 30339,
+      "forks": 7846,
+      "starsInPeriod": 3,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
+      "appearances": 1
+    },
+    {
       "fullName": "tristenlammi/Arrmada",
       "url": "https://github.com/tristenlammi/Arrmada",
       "description": "One self-hosted app for all your media.",
@@ -66,18 +108,32 @@
       "appearances": 1
     },
     {
+      "fullName": "urfave/cli",
+      "url": "https://github.com/urfave/cli",
+      "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
+      "programmingLanguage": "Go",
+      "stars": 24291,
+      "forks": 1920,
+      "starsInPeriod": null,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
+      "appearances": 1
+    },
+    {
       "fullName": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 183771,
-      "forks": 18399,
+      "stars": 183814,
+      "forks": 18403,
       "starsInPeriod": 146,
       "bestRank": 5,
       "latestRank": 5,
       "firstSeenAt": "2026-10-19T04:39:03Z",
-      "lastSeenAt": "2026-10-19T04:39:03Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-19T13:12:10Z",
+      "appearances": 2
     },
     {
       "fullName": "gitleaks/gitleaks",
@@ -91,6 +147,20 @@
       "latestRank": 6,
       "firstSeenAt": "2026-10-19T04:39:03Z",
       "lastSeenAt": "2026-10-19T04:39:03Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "programmingLanguage": "Go",
+      "stars": 8003,
+      "forks": 655,
+      "starsInPeriod": 103,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
       "appearances": 1
     },
     {
@@ -108,6 +178,20 @@
       "appearances": 1
     },
     {
+      "fullName": "rclone/rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "programmingLanguage": "Go",
+      "stars": 60398,
+      "forks": 5546,
+      "starsInPeriod": 24,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
+      "appearances": 1
+    },
+    {
       "fullName": "gastownhall/beads",
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
@@ -122,6 +206,20 @@
       "appearances": 1
     },
     {
+      "fullName": "Mag1cFall/AIStudio2API",
+      "url": "https://github.com/Mag1cFall/AIStudio2API",
+      "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
+      "programmingLanguage": "Go",
+      "stars": 372,
+      "forks": 106,
+      "starsInPeriod": 29,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-19T04:39:03Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
+      "appearances": 2
+    },
+    {
       "fullName": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
@@ -133,6 +231,20 @@
       "latestRank": 9,
       "firstSeenAt": "2026-10-19T04:39:03Z",
       "lastSeenAt": "2026-10-19T04:39:03Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "programmingLanguage": "Go",
+      "stars": 52400,
+      "forks": 10541,
+      "starsInPeriod": 12,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
       "appearances": 1
     },
     {
@@ -150,6 +262,20 @@
       "appearances": 1
     },
     {
+      "fullName": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "programmingLanguage": "Go",
+      "stars": 40219,
+      "forks": 2055,
+      "starsInPeriod": 4,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
+      "appearances": 1
+    },
+    {
       "fullName": "mudler/LocalAI",
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
@@ -161,6 +287,20 @@
       "latestRank": 11,
       "firstSeenAt": "2026-10-19T04:39:03Z",
       "lastSeenAt": "2026-10-19T04:39:03Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "programmingLanguage": "Go",
+      "stars": 21644,
+      "forks": 2483,
+      "starsInPeriod": 72,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
       "appearances": 1
     },
     {
@@ -178,6 +318,20 @@
       "appearances": 1
     },
     {
+      "fullName": "simulot/immich-go",
+      "url": "https://github.com/simulot/immich-go",
+      "description": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
+      "programmingLanguage": "Go",
+      "stars": 7064,
+      "forks": 273,
+      "starsInPeriod": 9,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
+      "appearances": 1
+    },
+    {
       "fullName": "hashicorp/terraform",
       "url": "https://github.com/hashicorp/terraform",
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
@@ -192,17 +346,31 @@
       "appearances": 1
     },
     {
-      "fullName": "Mag1cFall/AIStudio2API",
-      "url": "https://github.com/Mag1cFall/AIStudio2API",
-      "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
+      "fullName": "danielmiessler/Fabric",
+      "url": "https://github.com/danielmiessler/Fabric",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "programmingLanguage": "Go",
-      "stars": 359,
-      "forks": 102,
-      "starsInPeriod": 29,
+      "stars": 44353,
+      "forks": 4308,
+      "starsInPeriod": 27,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "strelov1/freehire",
+      "url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "programmingLanguage": "Go",
+      "stars": 1349,
+      "forks": 157,
+      "starsInPeriod": 311,
       "bestRank": 14,
       "latestRank": 14,
-      "firstSeenAt": "2026-10-19T04:39:03Z",
-      "lastSeenAt": "2026-10-19T04:39:03Z",
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
       "appearances": 1
     },
     {
@@ -217,6 +385,20 @@
       "latestRank": 15,
       "firstSeenAt": "2026-10-19T04:39:03Z",
       "lastSeenAt": "2026-10-19T04:39:03Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "programmingLanguage": "Go",
+      "stars": 72205,
+      "forks": 19248,
+      "starsInPeriod": 4,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-10-19T13:12:10Z",
+      "lastSeenAt": "2026-10-19T13:12:10Z",
       "appearances": 1
     },
     {

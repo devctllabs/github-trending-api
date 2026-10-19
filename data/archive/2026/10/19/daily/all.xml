@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — all</title>
     <link>https://github.com/trending</link>
     <description>GitHub Trending — daily — all</description>
-    <lastBuildDate>Mon, 19 Oct 2026 04:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:11:41 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-10-19</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>all</ght:language>
-    <ght:updatedAt>2026-10-19T04:38:34Z</ght:updatedAt>
+    <ght:updatedAt>2026-10-19T13:11:41Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,14 +20,30 @@
       <guid isPermaLink="true">https://github.com/MadsLorentzen/ai-job-search</guid>
       <pubDate>Mon, 19 Oct 2026 04:38:34 GMT</pubDate>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>53902</ght:stars>
-      <ght:forks>17494</ght:forks>
-      <ght:starsInPeriod>2232</ght:starsInPeriod>
+      <ght:stars>55498</ght:stars>
+      <ght:forks>17790</ght:forks>
+      <ght:starsInPeriod>3860</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
       <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-19T04:38:34Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-19T13:11:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>anomalyco/opencode</title>
+      <link>https://github.com/anomalyco/opencode</link>
+      <description>The open source coding agent.</description>
+      <guid isPermaLink="true">https://github.com/anomalyco/opencode</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:34 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>217246</ght:stars>
+      <ght:forks>29053</ght:forks>
+      <ght:starsInPeriod>1310</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T13:11:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>anthropics/claude-plugins-official</title>
@@ -46,20 +62,36 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>anomalyco/opencode</title>
-      <link>https://github.com/anomalyco/opencode</link>
-      <description>The open source coding agent.</description>
-      <guid isPermaLink="true">https://github.com/anomalyco/opencode</guid>
+      <title>akitaonrails/ai-memory</title>
+      <link>https://github.com/akitaonrails/ai-memory</link>
+      <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
+      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
       <pubDate>Mon, 19 Oct 2026 04:38:34 GMT</pubDate>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>216797</ght:stars>
-      <ght:forks>29022</ght:forks>
-      <ght:starsInPeriod>1414</ght:starsInPeriod>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>10903</ght:stars>
+      <ght:forks>777</ght:forks>
+      <ght:starsInPeriod>666</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
       <ght:latestRank>3</ght:latestRank>
       <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-19T04:38:34Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-19T13:11:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>Comfy-Org/ComfyUI</title>
+      <link>https://github.com/Comfy-Org/ComfyUI</link>
+      <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.</description>
+      <guid isPermaLink="true">https://github.com/Comfy-Org/ComfyUI</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:34 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>139219</ght:stars>
+      <ght:forks>16540</ght:forks>
+      <ght:starsInPeriod>1011</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T13:11:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>cursor/plugins</title>
@@ -84,30 +116,14 @@
       <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
       <pubDate>Mon, 19 Oct 2026 04:38:34 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>76645</ght:stars>
-      <ght:forks>9061</ght:forks>
-      <ght:starsInPeriod>513</ght:starsInPeriod>
+      <ght:stars>76880</ght:stars>
+      <ght:forks>9076</ght:forks>
+      <ght:starsInPeriod>564</ght:starsInPeriod>
       <ght:bestRank>5</ght:bestRank>
       <ght:latestRank>5</ght:latestRank>
       <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-19T04:38:34Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>akitaonrails/ai-memory</title>
-      <link>https://github.com/akitaonrails/ai-memory</link>
-      <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
-      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Mon, 19 Oct 2026 04:38:34 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>10641</ght:stars>
-      <ght:forks>754</ght:forks>
-      <ght:starsInPeriod>512</ght:starsInPeriod>
-      <ght:bestRank>6</ght:bestRank>
-      <ght:latestRank>6</ght:latestRank>
-      <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-19T04:38:34Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-19T13:11:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>stablyai/orca</title>
@@ -116,13 +132,29 @@
       <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
       <pubDate>Mon, 19 Oct 2026 04:38:34 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>96974</ght:stars>
-      <ght:forks>6193</ght:forks>
-      <ght:starsInPeriod>1146</ght:starsInPeriod>
+      <ght:stars>97617</ght:stars>
+      <ght:forks>6224</ght:forks>
+      <ght:starsInPeriod>1591</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T13:11:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>headroomlabs-ai/headroom</title>
+      <link>https://github.com/headroomlabs-ai/headroom</link>
+      <description>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.</description>
+      <guid isPermaLink="true">https://github.com/headroomlabs-ai/headroom</guid>
+      <pubDate>Mon, 19 Oct 2026 13:11:41 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>76012</ght:stars>
+      <ght:forks>5911</ght:forks>
+      <ght:starsInPeriod>317</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
-      <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-19T04:38:34Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-19T13:11:41Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T13:11:41Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -132,13 +164,29 @@
       <guid isPermaLink="true">https://github.com/HKUDS/CLI-Anything</guid>
       <pubDate>Mon, 19 Oct 2026 04:38:34 GMT</pubDate>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>54720</ght:stars>
-      <ght:forks>4953</ght:forks>
-      <ght:starsInPeriod>589</ght:starsInPeriod>
+      <ght:stars>54957</ght:stars>
+      <ght:forks>4966</ght:forks>
+      <ght:starsInPeriod>607</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T13:11:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>withmarbleapp/os-taxonomy</title>
+      <link>https://github.com/withmarbleapp/os-taxonomy</link>
+      <description />
+      <guid isPermaLink="true">https://github.com/withmarbleapp/os-taxonomy</guid>
+      <pubDate>Mon, 19 Oct 2026 13:11:41 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>5882</ght:stars>
+      <ght:forks>986</ght:forks>
+      <ght:starsInPeriod>427</ght:starsInPeriod>
       <ght:bestRank>8</ght:bestRank>
       <ght:latestRank>8</ght:latestRank>
-      <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-19T04:38:34Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-19T13:11:41Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T13:11:41Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -156,6 +204,22 @@
       <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-19T04:38:34Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Kruk2/jasna</title>
+      <link>https://github.com/Kruk2/jasna</link>
+      <description>Video restoration tool</description>
+      <guid isPermaLink="true">https://github.com/Kruk2/jasna</guid>
+      <pubDate>Mon, 19 Oct 2026 04:38:34 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>2735</ght:stars>
+      <ght:forks>205</ght:forks>
+      <ght:starsInPeriod>502</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T13:11:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>android/skills</title>
@@ -190,35 +254,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>Kruk2/jasna</title>
-      <link>https://github.com/Kruk2/jasna</link>
-      <description>Video restoration tool</description>
-      <guid isPermaLink="true">https://github.com/Kruk2/jasna</guid>
-      <pubDate>Mon, 19 Oct 2026 04:38:34 GMT</pubDate>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>2525</ght:stars>
-      <ght:forks>195</ght:forks>
-      <ght:starsInPeriod>115</ght:starsInPeriod>
-      <ght:bestRank>12</ght:bestRank>
-      <ght:latestRank>12</ght:latestRank>
-      <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-19T04:38:34Z</ght:lastSeenAt>
+      <title>anthropics/claude-code</title>
+      <link>https://github.com/anthropics/claude-code</link>
+      <description>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</description>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
+      <pubDate>Mon, 19 Oct 2026 13:11:41 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>152391</ght:stars>
+      <ght:forks>27122</ght:forks>
+      <ght:starsInPeriod>167</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T13:11:41Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T13:11:41Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>Comfy-Org/ComfyUI</title>
-      <link>https://github.com/Comfy-Org/ComfyUI</link>
-      <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.</description>
-      <guid isPermaLink="true">https://github.com/Comfy-Org/ComfyUI</guid>
-      <pubDate>Mon, 19 Oct 2026 04:38:34 GMT</pubDate>
+      <title>shiyu-coder/Kronos</title>
+      <link>https://github.com/shiyu-coder/Kronos</link>
+      <description>Kronos: A Foundation Model for the Language of Financial Markets</description>
+      <guid isPermaLink="true">https://github.com/shiyu-coder/Kronos</guid>
+      <pubDate>Mon, 19 Oct 2026 13:11:41 GMT</pubDate>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>138802</ght:stars>
-      <ght:forks>16511</ght:forks>
-      <ght:starsInPeriod>154</ght:starsInPeriod>
-      <ght:bestRank>13</ght:bestRank>
-      <ght:latestRank>13</ght:latestRank>
-      <ght:firstSeenAt>2026-10-19T04:38:34Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-19T04:38:34Z</ght:lastSeenAt>
+      <ght:stars>41347</ght:stars>
+      <ght:forks>6892</ght:forks>
+      <ght:starsInPeriod>355</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-10-19T13:11:41Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-19T13:11:41Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>

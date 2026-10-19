@@ -4,49 +4,49 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-19T04:39:03Z",
+  "observedAt": "2026-10-19T13:12:10Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "alvinunreal/lazyskills",
-      "url": "https://github.com/alvinunreal/lazyskills",
-      "description": "mission control for agent skills",
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 569,
-      "forks": 73,
-      "starsInPeriod": 138
+      "stars": 38508,
+      "forks": 774,
+      "starsInPeriod": 19
     },
     {
       "rank": 2,
-      "fullName": "google/ax",
-      "url": "https://github.com/google/ax",
-      "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 13944,
-      "forks": 724,
-      "starsInPeriod": 56
+      "stars": 58566,
+      "forks": 7290,
+      "starsInPeriod": 23
     },
     {
       "rank": 3,
-      "fullName": "jasonxu114514/opencode2api",
-      "url": "https://github.com/jasonxu114514/opencode2api",
-      "description": "A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.",
+      "fullName": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
       "programmingLanguage": "Go",
-      "stars": 1075,
-      "forks": 191,
-      "starsInPeriod": 68
+      "stars": 30339,
+      "forks": 7846,
+      "starsInPeriod": 3
     },
     {
       "rank": 4,
-      "fullName": "tristenlammi/Arrmada",
-      "url": "https://github.com/tristenlammi/Arrmada",
-      "description": "One self-hosted app for all your media.",
+      "fullName": "urfave/cli",
+      "url": "https://github.com/urfave/cli",
+      "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
       "programmingLanguage": "Go",
-      "stars": 359,
-      "forks": 19,
-      "starsInPeriod": 43
+      "stars": 24291,
+      "forks": 1920,
+      "starsInPeriod": null
     },
     {
       "rank": 5,
@@ -54,139 +54,109 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 183771,
-      "forks": 18399,
+      "stars": 183814,
+      "forks": 18403,
       "starsInPeriod": 146
     },
     {
       "rank": 6,
-      "fullName": "gitleaks/gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
       "programmingLanguage": "Go",
-      "stars": 30102,
-      "forks": 2382,
-      "starsInPeriod": 32
+      "stars": 8003,
+      "forks": 655,
+      "starsInPeriod": 103
     },
     {
       "rank": 7,
-      "fullName": "github/github-mcp-server",
-      "url": "https://github.com/github/github-mcp-server",
-      "description": "GitHub's official MCP Server",
+      "fullName": "rclone/rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "programmingLanguage": "Go",
-      "stars": 33740,
-      "forks": 5334,
-      "starsInPeriod": 36
+      "stars": 60398,
+      "forks": 5546,
+      "starsInPeriod": 24
     },
     {
       "rank": 8,
-      "fullName": "gastownhall/beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "programmingLanguage": "Go",
-      "stars": 27998,
-      "forks": 1894,
-      "starsInPeriod": 26
-    },
-    {
-      "rank": 9,
-      "fullName": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "programmingLanguage": "Go",
-      "stars": 5526,
-      "forks": 605,
-      "starsInPeriod": 91
-    },
-    {
-      "rank": 10,
-      "fullName": "VersusControl/versus-incident",
-      "url": "https://github.com/VersusControl/versus-incident",
-      "description": "The self-hosted AI SRE agent. You don't have to monitor your systems alone. Versus Incident will keep track of your services, applications, and systems, detect new or unexpected problems, and provide your team with the evidence needed to investigate.",
-      "programmingLanguage": "Go",
-      "stars": 875,
-      "forks": 162,
-      "starsInPeriod": 8
-    },
-    {
-      "rank": 11,
-      "fullName": "mudler/LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
-      "programmingLanguage": "Go",
-      "stars": 49626,
-      "forks": 4506,
-      "starsInPeriod": 29
-    },
-    {
-      "rank": 12,
-      "fullName": "authelia/authelia",
-      "url": "https://github.com/authelia/authelia",
-      "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
-      "programmingLanguage": "Go",
-      "stars": 29306,
-      "forks": 1519,
-      "starsInPeriod": 10
-    },
-    {
-      "rank": 13,
-      "fullName": "hashicorp/terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "programmingLanguage": "Go",
-      "stars": 49976,
-      "forks": 10648,
-      "starsInPeriod": 30
-    },
-    {
-      "rank": 14,
       "fullName": "Mag1cFall/AIStudio2API",
       "url": "https://github.com/Mag1cFall/AIStudio2API",
       "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
       "programmingLanguage": "Go",
-      "stars": 359,
-      "forks": 102,
+      "stars": 372,
+      "forks": 106,
       "starsInPeriod": 29
     },
     {
+      "rank": 9,
+      "fullName": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "programmingLanguage": "Go",
+      "stars": 52400,
+      "forks": 10541,
+      "starsInPeriod": 12
+    },
+    {
+      "rank": 10,
+      "fullName": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "programmingLanguage": "Go",
+      "stars": 40219,
+      "forks": 2055,
+      "starsInPeriod": 4
+    },
+    {
+      "rank": 11,
+      "fullName": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "programmingLanguage": "Go",
+      "stars": 21644,
+      "forks": 2483,
+      "starsInPeriod": 72
+    },
+    {
+      "rank": 12,
+      "fullName": "simulot/immich-go",
+      "url": "https://github.com/simulot/immich-go",
+      "description": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
+      "programmingLanguage": "Go",
+      "stars": 7064,
+      "forks": 273,
+      "starsInPeriod": 9
+    },
+    {
+      "rank": 13,
+      "fullName": "danielmiessler/Fabric",
+      "url": "https://github.com/danielmiessler/Fabric",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+      "programmingLanguage": "Go",
+      "stars": 44353,
+      "forks": 4308,
+      "starsInPeriod": 27
+    },
+    {
+      "rank": 14,
+      "fullName": "strelov1/freehire",
+      "url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "programmingLanguage": "Go",
+      "stars": 1349,
+      "forks": 157,
+      "starsInPeriod": 311
+    },
+    {
       "rank": 15,
-      "fullName": "guohuiyuan/go-music-dl",
-      "url": "https://github.com/guohuiyuan/go-music-dl",
-      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
+      "fullName": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "programmingLanguage": "Go",
-      "stars": 5473,
-      "forks": 520,
-      "starsInPeriod": 33
-    },
-    {
-      "rank": 16,
-      "fullName": "ygelfand/echolocal",
-      "url": "https://github.com/ygelfand/echolocal",
-      "description": "Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.",
-      "programmingLanguage": "Go",
-      "stars": 462,
-      "forks": 24,
-      "starsInPeriod": 16
-    },
-    {
-      "rank": 17,
-      "fullName": "dolthub/dolt",
-      "url": "https://github.com/dolthub/dolt",
-      "description": "Dolt – Git for Data",
-      "programmingLanguage": "Go",
-      "stars": 24677,
-      "forks": 899,
-      "starsInPeriod": 13
-    },
-    {
-      "rank": 18,
-      "fullName": "masterking32/MasterDnsVPN",
-      "url": "https://github.com/masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "programmingLanguage": "Go",
-      "stars": 7125,
-      "forks": 794,
-      "starsInPeriod": 6
+      "stars": 72205,
+      "forks": 19248,
+      "starsInPeriod": 4
     }
   ]
 }

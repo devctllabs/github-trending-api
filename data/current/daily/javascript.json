@@ -4,109 +4,109 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-10-19T04:39:13Z",
+  "observedAt": "2026-10-19T13:12:20Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "programmingLanguage": "JavaScript",
-      "stars": 167181,
-      "forks": 9077,
-      "starsInPeriod": 1019
-    },
-    {
-      "rank": 2,
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "programmingLanguage": "JavaScript",
-      "stars": 283412,
-      "forks": 42100,
-      "starsInPeriod": 1084
-    },
-    {
-      "rank": 3,
-      "fullName": "hmjz100/LinkSwift",
-      "url": "https://github.com/hmjz100/LinkSwift",
-      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "programmingLanguage": "JavaScript",
-      "stars": 25188,
-      "forks": 1613,
-      "starsInPeriod": 433
-    },
-    {
-      "rank": 4,
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "programmingLanguage": "JavaScript",
-      "stars": 31230,
-      "forks": 1957,
-      "starsInPeriod": 479
-    },
-    {
-      "rank": 5,
       "fullName": "withmarbleapp/os-taxonomy",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "description": null,
       "programmingLanguage": "JavaScript",
-      "stars": 5782,
-      "forks": 972,
+      "stars": 5883,
+      "forks": 986,
       "starsInPeriod": 427
     },
     {
-      "rank": 6,
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "rank": 2,
+      "fullName": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
       "programmingLanguage": "JavaScript",
-      "stars": 108268,
-      "forks": 11284,
-      "starsInPeriod": 402
+      "stars": 85676,
+      "forks": 5835,
+      "starsInPeriod": 522
+    },
+    {
+      "rank": 3,
+      "fullName": "plugin87/ux-ui-agent-skills",
+      "url": "https://github.com/plugin87/ux-ui-agent-skills",
+      "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
+      "programmingLanguage": "JavaScript",
+      "stars": 2363,
+      "forks": 251,
+      "starsInPeriod": 252
+    },
+    {
+      "rank": 4,
+      "fullName": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "programmingLanguage": "JavaScript",
+      "stars": 3030,
+      "forks": 286,
+      "starsInPeriod": 144
+    },
+    {
+      "rank": 5,
+      "fullName": "YuJunZhiXue/dsh-purge",
+      "url": "https://github.com/YuJunZhiXue/dsh-purge",
+      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "programmingLanguage": "JavaScript",
+      "stars": 7842,
+      "forks": 1187,
+      "starsInPeriod": 423
+    },
+    {
+      "rank": 6,
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "programmingLanguage": "JavaScript",
+      "stars": 167590,
+      "forks": 9102,
+      "starsInPeriod": 1019
     },
     {
       "rank": 7,
-      "fullName": "laoma528/awesome-zhuiju-free",
-      "url": "https://github.com/laoma528/awesome-zhuiju-free",
-      "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
+      "fullName": "datawhalechina/easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 Vibe Coding 101｜Your First Course For AI Product Builders.",
       "programmingLanguage": "JavaScript",
-      "stars": 12604,
-      "forks": 877,
-      "starsInPeriod": 73
+      "stars": 20011,
+      "forks": 1934,
+      "starsInPeriod": 235
     },
     {
       "rank": 8,
-      "fullName": "guoyue2010/lxmusic-",
-      "url": "https://github.com/guoyue2010/lxmusic-",
-      "description": "lxmusic(洛雪音乐)全网最新最全音源",
+      "fullName": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 6471,
-      "forks": 311,
-      "starsInPeriod": 35
+      "stars": 25837,
+      "forks": 1671,
+      "starsInPeriod": 433
     },
     {
       "rank": 9,
-      "fullName": "mnfst/awesome-free-llm-apis",
-      "url": "https://github.com/mnfst/awesome-free-llm-apis",
-      "description": "List of Permanent Free LLM API (API Keys)",
+      "fullName": "flizzywine/dsh-tavern",
+      "url": "https://github.com/flizzywine/dsh-tavern",
+      "description": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
       "programmingLanguage": "JavaScript",
-      "stars": 10635,
-      "forks": 1187,
-      "starsInPeriod": 111
+      "stars": 1116,
+      "forks": 72,
+      "starsInPeriod": 46
     },
     {
       "rank": 10,
-      "fullName": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 55411,
-      "forks": 8203,
-      "starsInPeriod": 149
+      "stars": 31470,
+      "forks": 1968,
+      "starsInPeriod": 479
     }
   ]
 }

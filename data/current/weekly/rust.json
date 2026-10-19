@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-10-19T04:38:57Z",
+  "observedAt": "2026-10-19T13:12:03Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 32924,
-      "forks": 5211,
+      "stars": 33323,
+      "forks": 5269,
       "starsInPeriod": 16379
     },
     {
@@ -24,39 +24,39 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "programmingLanguage": "Rust",
-      "stars": 8597,
-      "forks": 458,
+      "stars": 8819,
+      "forks": 474,
       "starsInPeriod": 4925
     },
     {
       "rank": 3,
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "programmingLanguage": "Rust",
+      "stars": 10904,
+      "forks": 777,
+      "starsInPeriod": 1684
+    },
+    {
+      "rank": 4,
       "fullName": "trymirai/uzu",
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 2398,
+      "stars": 2400,
       "forks": 152,
       "starsInPeriod": 227
     },
     {
-      "rank": 4,
+      "rank": 5,
       "fullName": "HakanSeven12/OpenCADStudio",
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 3288,
-      "forks": 380,
+      "stars": 3303,
+      "forks": 383,
       "starsInPeriod": 482
-    },
-    {
-      "rank": 5,
-      "fullName": "koharu-rs/koharu",
-      "url": "https://github.com/koharu-rs/koharu",
-      "description": "ML-powered manga translator, written in Rust.",
-      "programmingLanguage": "Rust",
-      "stars": 6396,
-      "forks": 460,
-      "starsInPeriod": 403
     }
   ]
 }
