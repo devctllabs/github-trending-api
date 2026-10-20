@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-10-20T11:34:29Z",
+  "observedAt": "2026-10-20T17:02:00Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "programmingLanguage": "Python",
-      "stars": 58991,
-      "forks": 18529,
+      "stars": 59814,
+      "forks": 18730,
       "starsInPeriod": 3890
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "programmingLanguage": "Python",
-      "stars": 140297,
-      "forks": 16622,
+      "stars": 140545,
+      "forks": 16640,
       "starsInPeriod": 1201
     },
     {
@@ -34,9 +34,9 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "programmingLanguage": "Python",
-      "stars": 129503,
-      "forks": 12483,
-      "starsInPeriod": 751
+      "stars": 129865,
+      "forks": 12504,
+      "starsInPeriod": 906
     },
     {
       "rank": 4,
@@ -44,8 +44,8 @@
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "programmingLanguage": "Python",
-      "stars": 76510,
-      "forks": 5938,
+      "stars": 76622,
+      "forks": 5949,
       "starsInPeriod": 555
     },
     {
@@ -54,128 +54,118 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 30606,
-      "forks": 3454,
+      "stars": 30688,
+      "forks": 3462,
       "starsInPeriod": 262
     },
     {
       "rank": 6,
-      "fullName": "sickn33/agentic-awesome-skills",
-      "url": "https://github.com/sickn33/agentic-awesome-skills",
-      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
-      "programmingLanguage": "Python",
-      "stars": 47995,
-      "forks": 7009,
-      "starsInPeriod": 58
-    },
-    {
-      "rank": 7,
       "fullName": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "programmingLanguage": "Python",
-      "stars": 42021,
-      "forks": 6965,
+      "stars": 42185,
+      "forks": 6993,
       "starsInPeriod": 719
     },
     {
-      "rank": 8,
+      "rank": 7,
       "fullName": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "programmingLanguage": "Python",
-      "stars": 94225,
-      "forks": 23638,
+      "stars": 94337,
+      "forks": 23657,
       "starsInPeriod": 98
     },
     {
-      "rank": 9,
+      "rank": 8,
       "fullName": "bobeff/open-source-games",
       "url": "https://github.com/bobeff/open-source-games",
       "description": "A list of open source games.",
       "programmingLanguage": "Python",
-      "stars": 16648,
-      "forks": 1485,
-      "starsInPeriod": 456
+      "stars": 16714,
+      "forks": 1488,
+      "starsInPeriod": 155
     },
     {
-      "rank": 10,
+      "rank": 9,
       "fullName": "Kruk2/jasna",
       "url": "https://github.com/Kruk2/jasna",
       "description": "Video restoration tool",
       "programmingLanguage": "Python",
-      "stars": 3188,
-      "forks": 233,
+      "stars": 3226,
+      "forks": 238,
       "starsInPeriod": 507
     },
     {
-      "rank": 11,
+      "rank": 10,
       "fullName": "google/artemis",
       "url": "https://github.com/google/artemis",
       "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.",
       "programmingLanguage": "Python",
-      "stars": 13136,
-      "forks": 1599,
-      "starsInPeriod": 597
+      "stars": 13217,
+      "forks": 1534,
+      "starsInPeriod": 348
     },
     {
-      "rank": 12,
+      "rank": 11,
       "fullName": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 55531,
-      "forks": 5005,
+      "stars": 55597,
+      "forks": 5012,
       "starsInPeriod": 628
     },
     {
-      "rank": 13,
+      "rank": 12,
       "fullName": "AgriciDaniel/claude-seo",
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 19411,
-      "forks": 2817,
+      "stars": 19451,
+      "forks": 2822,
       "starsInPeriod": 185
     },
     {
-      "rank": 14,
+      "rank": 13,
       "fullName": "abus-aikorea/voice-pro",
       "url": "https://github.com/abus-aikorea/voice-pro",
       "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
       "programmingLanguage": "Python",
-      "stars": 13271,
-      "forks": 1919,
+      "stars": 13277,
+      "forks": 1920,
       "starsInPeriod": 48
     },
     {
-      "rank": 15,
+      "rank": 14,
       "fullName": "ScrapeGraphAI/Scrapegraph-ai",
       "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
       "description": "Python scraper based on AI",
       "programmingLanguage": "Python",
-      "stars": 32013,
-      "forks": 3432,
+      "stars": 32029,
+      "forks": 3369,
       "starsInPeriod": 57
     },
     {
-      "rank": 16,
+      "rank": 15,
       "fullName": "shy3130/tick-stock-panel",
       "url": "https://github.com/shy3130/tick-stock-panel",
       "description": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
       "programmingLanguage": "Python",
-      "stars": 6181,
-      "forks": 1502,
+      "stars": 6187,
+      "forks": 1493,
       "starsInPeriod": 50
     },
     {
-      "rank": 17,
+      "rank": 16,
       "fullName": "NVlabs/ASPIRE",
       "url": "https://github.com/NVlabs/ASPIRE",
       "description": "ASPIRE: Agentic /Skills Discovery for Robotics",
       "programmingLanguage": "Python",
-      "stars": 725,
-      "forks": 61,
+      "stars": 745,
+      "forks": 66,
       "starsInPeriod": 65
     }
   ]
