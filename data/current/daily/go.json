@@ -4,159 +4,209 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-20T04:49:14Z",
+  "observedAt": "2026-10-20T11:34:51Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "fullName": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 38528,
-      "forks": 776,
-      "starsInPeriod": 18
+      "stars": 128487,
+      "forks": 47483,
+      "starsInPeriod": 64
     },
     {
       "rank": 2,
-      "fullName": "go-gitea/gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "programmingLanguage": "Go",
-      "stars": 58578,
-      "forks": 7296,
-      "starsInPeriod": 23
-    },
-    {
-      "rank": 3,
       "fullName": "helm/helm",
       "url": "https://github.com/helm/helm",
       "description": "The Kubernetes Package Manager",
       "programmingLanguage": "Go",
-      "stars": 30345,
-      "forks": 7852,
+      "stars": 30349,
+      "forks": 7855,
       "starsInPeriod": 3
     },
     {
+      "rank": 3,
+      "fullName": "gosom/google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "programmingLanguage": "Go",
+      "stars": 6644,
+      "forks": 1040,
+      "starsInPeriod": 57
+    },
+    {
       "rank": 4,
+      "fullName": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "programmingLanguage": "Go",
+      "stars": 49766,
+      "forks": 4522,
+      "starsInPeriod": 133
+    },
+    {
+      "rank": 5,
+      "fullName": "QuantumNous/new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
+      "programmingLanguage": "Go",
+      "stars": 50329,
+      "forks": 12157,
+      "starsInPeriod": 88
+    },
+    {
+      "rank": 6,
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "programmingLanguage": "Go",
+      "stars": 58587,
+      "forks": 7303,
+      "starsInPeriod": 23
+    },
+    {
+      "rank": 7,
+      "fullName": "strelov1/freehire",
+      "url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "programmingLanguage": "Go",
+      "stars": 1643,
+      "forks": 199,
+      "starsInPeriod": 295
+    },
+    {
+      "rank": 8,
+      "fullName": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "programmingLanguage": "Go",
+      "stars": 3769,
+      "forks": 1514,
+      "starsInPeriod": 0
+    },
+    {
+      "rank": 9,
+      "fullName": "samber/cc-skills-golang",
+      "url": "https://github.com/samber/cc-skills-golang",
+      "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+      "programmingLanguage": "Go",
+      "stars": 3521,
+      "forks": 233,
+      "starsInPeriod": 10
+    },
+    {
+      "rank": 10,
+      "fullName": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "programmingLanguage": "Go",
+      "stars": 36408,
+      "forks": 4795,
+      "starsInPeriod": 8
+    },
+    {
+      "rank": 11,
+      "fullName": "kenn-io/agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+      "programmingLanguage": "Go",
+      "stars": 6218,
+      "forks": 703,
+      "starsInPeriod": 17
+    },
+    {
+      "rank": 12,
+      "fullName": "goharbor/harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "programmingLanguage": "Go",
+      "stars": 29575,
+      "forks": 5393,
+      "starsInPeriod": 8
+    },
+    {
+      "rank": 13,
+      "fullName": "knadh/listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "programmingLanguage": "Go",
+      "stars": 23874,
+      "forks": 2703,
+      "starsInPeriod": 37
+    },
+    {
+      "rank": 14,
+      "fullName": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "programmingLanguage": "Go",
+      "stars": 81059,
+      "forks": 6692,
+      "starsInPeriod": 37
+    },
+    {
+      "rank": 15,
+      "fullName": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "programmingLanguage": "Go",
+      "stars": 139410,
+      "forks": 22747,
+      "starsInPeriod": 55
+    },
+    {
+      "rank": 16,
+      "fullName": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 24441,
+      "forks": 8001,
+      "starsInPeriod": 7
+    },
+    {
+      "rank": 17,
+      "fullName": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "programmingLanguage": "Go",
+      "stars": 89391,
+      "forks": 8772,
+      "starsInPeriod": 19
+    },
+    {
+      "rank": 18,
+      "fullName": "larksuite/cli",
+      "url": "https://github.com/larksuite/cli",
+      "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
+      "programmingLanguage": "Go",
+      "stars": 17757,
+      "forks": 1400,
+      "starsInPeriod": 26
+    },
+    {
+      "rank": 19,
+      "fullName": "istio/istio",
+      "url": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "programmingLanguage": "Go",
+      "stars": 38458,
+      "forks": 8403,
+      "starsInPeriod": 5
+    },
+    {
+      "rank": 20,
       "fullName": "urfave/cli",
       "url": "https://github.com/urfave/cli",
       "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
       "programmingLanguage": "Go",
       "stars": 24294,
-      "forks": 1935,
+      "forks": 1963,
       "starsInPeriod": null
-    },
-    {
-      "rank": 5,
-      "fullName": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "programmingLanguage": "Go",
-      "stars": 183887,
-      "forks": 18422,
-      "starsInPeriod": 129
-    },
-    {
-      "rank": 6,
-      "fullName": "superplanehq/superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "Open source factory for one-shot engineering",
-      "programmingLanguage": "Go",
-      "stars": 8046,
-      "forks": 658,
-      "starsInPeriod": 92
-    },
-    {
-      "rank": 7,
-      "fullName": "rclone/rclone",
-      "url": "https://github.com/rclone/rclone",
-      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
-      "programmingLanguage": "Go",
-      "stars": 60421,
-      "forks": 5548,
-      "starsInPeriod": 22
-    },
-    {
-      "rank": 8,
-      "fullName": "Mag1cFall/AIStudio2API",
-      "url": "https://github.com/Mag1cFall/AIStudio2API",
-      "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
-      "programmingLanguage": "Go",
-      "stars": 386,
-      "forks": 110,
-      "starsInPeriod": 29
-    },
-    {
-      "rank": 9,
-      "fullName": "etcd-io/etcd",
-      "url": "https://github.com/etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "programmingLanguage": "Go",
-      "stars": 52403,
-      "forks": 10543,
-      "starsInPeriod": 11
-    },
-    {
-      "rank": 10,
-      "fullName": "gofiber/fiber",
-      "url": "https://github.com/gofiber/fiber",
-      "description": "⚡️ Express inspired web framework written in Go",
-      "programmingLanguage": "Go",
-      "stars": 40224,
-      "forks": 2056,
-      "starsInPeriod": 4
-    },
-    {
-      "rank": 11,
-      "fullName": "livekit/livekit",
-      "url": "https://github.com/livekit/livekit",
-      "description": "End-to-end realtime stack for connecting humans and AI",
-      "programmingLanguage": "Go",
-      "stars": 21674,
-      "forks": 2485,
-      "starsInPeriod": 69
-    },
-    {
-      "rank": 12,
-      "fullName": "simulot/immich-go",
-      "url": "https://github.com/simulot/immich-go",
-      "description": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
-      "programmingLanguage": "Go",
-      "stars": 7072,
-      "forks": 273,
-      "starsInPeriod": 9
-    },
-    {
-      "rank": 13,
-      "fullName": "danielmiessler/Fabric",
-      "url": "https://github.com/danielmiessler/Fabric",
-      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
-      "programmingLanguage": "Go",
-      "stars": 44374,
-      "forks": 4310,
-      "starsInPeriod": 26
-    },
-    {
-      "rank": 14,
-      "fullName": "strelov1/freehire",
-      "url": "https://github.com/strelov1/freehire",
-      "description": "freehire — the open-source search engine for job seekers",
-      "programmingLanguage": "Go",
-      "stars": 1496,
-      "forks": 173,
-      "starsInPeriod": 295
-    },
-    {
-      "rank": 15,
-      "fullName": "moby/moby",
-      "url": "https://github.com/moby/moby",
-      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-      "programmingLanguage": "Go",
-      "stars": 72207,
-      "forks": 19256,
-      "starsInPeriod": 4
     }
   ]
 }

@@ -4,49 +4,49 @@
   "period": "monthly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=monthly",
-  "observedAt": "2026-10-20T04:48:51Z",
+  "observedAt": "2026-10-20T11:34:26Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "programmingLanguage": "TypeScript",
-      "stars": 104843,
-      "forks": 17478,
-      "starsInPeriod": 23845
-    },
-    {
-      "rank": 2,
       "fullName": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 77807,
-      "forks": 8530,
+      "stars": 78198,
+      "forks": 8575,
       "starsInPeriod": 44161
     },
     {
-      "rank": 3,
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
+      "rank": 2,
+      "fullName": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
       "programmingLanguage": "TypeScript",
-      "stars": 67807,
-      "forks": 6125,
-      "starsInPeriod": 16049
+      "stars": 105008,
+      "forks": 17493,
+      "starsInPeriod": 23845
     },
     {
-      "rank": 4,
+      "rank": 3,
       "fullName": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 51733,
-      "forks": 6174,
+      "stars": 51862,
+      "forks": 6179,
       "starsInPeriod": 27932
+    },
+    {
+      "rank": 4,
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "programmingLanguage": "TypeScript",
+      "stars": 68057,
+      "forks": 6146,
+      "starsInPeriod": 16049
     },
     {
       "rank": 5,
@@ -54,8 +54,8 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 40462,
-      "forks": 5658,
+      "stars": 40500,
+      "forks": 5662,
       "starsInPeriod": 5573
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 32701,
-      "forks": 2043,
+      "stars": 33057,
+      "forks": 2069,
       "starsInPeriod": 16536
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "programmingLanguage": "TypeScript",
-      "stars": 31148,
-      "forks": 2337,
+      "stars": 31243,
+      "forks": 2388,
       "starsInPeriod": 7498
     },
     {
@@ -84,49 +84,49 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 16737,
+      "stars": 16786,
       "forks": 1819,
       "starsInPeriod": 8061
     },
     {
       "rank": 9,
-      "fullName": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "programmingLanguage": "Go",
-      "stars": 5613,
-      "forks": 607,
-      "starsInPeriod": 3612
-    },
-    {
-      "rank": 10,
-      "fullName": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "programmingLanguage": "TypeScript",
-      "stars": 37746,
-      "forks": 5095,
-      "starsInPeriod": 10330
-    },
-    {
-      "rank": 11,
       "fullName": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 30538,
-      "forks": 3448,
+      "stars": 30606,
+      "forks": 3454,
       "starsInPeriod": 5489
     },
     {
+      "rank": 10,
+      "fullName": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "programmingLanguage": "Java",
+      "stars": 91865,
+      "forks": 10291,
+      "starsInPeriod": 12523
+    },
+    {
+      "rank": 11,
+      "fullName": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "programmingLanguage": "Python",
+      "stars": 43292,
+      "forks": 4580,
+      "starsInPeriod": 6772
+    },
+    {
       "rank": 12,
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "programmingLanguage": "JavaScript",
-      "stars": 284245,
-      "forks": 42220,
-      "starsInPeriod": 22807
+      "fullName": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "programmingLanguage": "TypeScript",
+      "stars": 37956,
+      "forks": 5117,
+      "starsInPeriod": 10330
     },
     {
       "rank": 13,
@@ -134,39 +134,39 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "programmingLanguage": "TypeScript",
-      "stars": 13092,
-      "forks": 1287,
+      "stars": 13158,
+      "forks": 1293,
       "starsInPeriod": 4862
     },
     {
       "rank": 14,
-      "fullName": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "programmingLanguage": "Java",
-      "stars": 91698,
-      "forks": 10275,
-      "starsInPeriod": 12523
-    },
-    {
-      "rank": 15,
-      "fullName": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "programmingLanguage": "Python",
-      "stars": 43223,
-      "forks": 4573,
-      "starsInPeriod": 6772
-    },
-    {
-      "rank": 16,
       "fullName": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 71504,
-      "forks": 12576,
+      "stars": 71620,
+      "forks": 12597,
       "starsInPeriod": 16662
+    },
+    {
+      "rank": 15,
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "programmingLanguage": "JavaScript",
+      "stars": 284442,
+      "forks": 42247,
+      "starsInPeriod": 22807
+    },
+    {
+      "rank": 16,
+      "fullName": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "programmingLanguage": "Go",
+      "stars": 5635,
+      "forks": 609,
+      "starsInPeriod": 3612
     },
     {
       "rank": 17,
@@ -174,8 +174,8 @@
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 10331,
-      "forks": 1315,
+      "stars": 10401,
+      "forks": 1323,
       "starsInPeriod": 6077
     },
     {
@@ -184,8 +184,8 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "programmingLanguage": "Python",
-      "stars": 21790,
-      "forks": 2144,
+      "stars": 21858,
+      "forks": 2154,
       "starsInPeriod": 5595
     },
     {
@@ -194,29 +194,39 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 55366,
-      "forks": 4994,
+      "stars": 55531,
+      "forks": 5005,
       "starsInPeriod": 5545
     },
     {
       "rank": 20,
+      "fullName": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": null,
+      "programmingLanguage": "TypeScript",
+      "stars": 28729,
+      "forks": 7700,
+      "starsInPeriod": 5685
+    },
+    {
+      "rank": 21,
+      "fullName": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "programmingLanguage": "Python",
+      "stars": 39337,
+      "forks": 3420,
+      "starsInPeriod": 3696
+    },
+    {
+      "rank": 22,
       "fullName": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 83319,
-      "forks": 5041,
+      "stars": 83507,
+      "forks": 5051,
       "starsInPeriod": 14255
-    },
-    {
-      "rank": 21,
-      "fullName": "longbridge/gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "programmingLanguage": "Rust",
-      "stars": 18360,
-      "forks": 1112,
-      "starsInPeriod": 3797
     }
   ]
 }

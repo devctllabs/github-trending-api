@@ -4,109 +4,139 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-20T04:49:04Z",
+  "observedAt": "2026-10-20T11:34:40Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "programmingLanguage": "Rust",
-      "stars": 11504,
-      "forks": 817,
-      "starsInPeriod": 666
-    },
-    {
-      "rank": 2,
       "fullName": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 10647,
-      "forks": 618,
+      "stars": 10869,
+      "forks": 680,
       "starsInPeriod": 671
     },
     {
+      "rank": 2,
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "programmingLanguage": "Rust",
+      "stars": 11728,
+      "forks": 832,
+      "starsInPeriod": 902
+    },
+    {
       "rank": 3,
-      "fullName": "smg-project/smg",
-      "url": "https://github.com/smg-project/smg",
-      "description": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.",
-      "programmingLanguage": "Rust",
-      "stars": 644,
-      "forks": 196,
-      "starsInPeriod": 10
-    },
-    {
-      "rank": 4,
-      "fullName": "oven-sh/bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "programmingLanguage": "Rust",
-      "stars": 96307,
-      "forks": 5152,
-      "starsInPeriod": 27
-    },
-    {
-      "rank": 5,
-      "fullName": "leepokai/Codync",
-      "url": "https://github.com/leepokai/Codync",
-      "description": "The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.",
-      "programmingLanguage": "Rust",
-      "stars": 630,
-      "forks": 81,
-      "starsInPeriod": 51
-    },
-    {
-      "rank": 6,
-      "fullName": "Automattic/harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "programmingLanguage": "Rust",
-      "stars": 16807,
-      "forks": 859,
-      "starsInPeriod": 72
-    },
-    {
-      "rank": 7,
-      "fullName": "martin-olivier/airgorah",
-      "url": "https://github.com/martin-olivier/airgorah",
-      "description": "A WiFi security auditing software",
-      "programmingLanguage": "Rust",
-      "stars": 4515,
-      "forks": 791,
-      "starsInPeriod": 135
-    },
-    {
-      "rank": 8,
       "fullName": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 83319,
-      "forks": 5041,
+      "stars": 83507,
+      "forks": 5051,
       "starsInPeriod": 422
     },
     {
-      "rank": 9,
-      "fullName": "confeden/Antigravity",
-      "url": "https://github.com/confeden/Antigravity",
-      "description": "Antigravity в России без VPN и смены региона аккаунта Google",
+      "rank": 4,
+      "fullName": "ModernRelay/omnigraph",
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "description": "Object-storage native graph database with branching and typed ontology",
       "programmingLanguage": "Rust",
-      "stars": 930,
-      "forks": 55,
-      "starsInPeriod": 25
+      "stars": 1518,
+      "forks": 278,
+      "starsInPeriod": 173
+    },
+    {
+      "rank": 5,
+      "fullName": "fabio-rovai/open-ontologies",
+      "url": "https://github.com/fabio-rovai/open-ontologies",
+      "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
+      "programmingLanguage": "Rust",
+      "stars": 1143,
+      "forks": 159,
+      "starsInPeriod": 52
+    },
+    {
+      "rank": 6,
+      "fullName": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "programmingLanguage": "Rust",
+      "stars": 4775,
+      "forks": 473,
+      "starsInPeriod": 38
+    },
+    {
+      "rank": 7,
+      "fullName": "Jamailar/Beav",
+      "url": "https://github.com/Jamailar/Beav",
+      "description": "小红书 AI 运营工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集",
+      "programmingLanguage": "Rust",
+      "stars": 2076,
+      "forks": 274,
+      "starsInPeriod": 21
+    },
+    {
+      "rank": 8,
+      "fullName": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "programmingLanguage": "Rust",
+      "stars": 146665,
+      "forks": 9685,
+      "starsInPeriod": 508
+    },
+    {
+      "rank": 9,
+      "fullName": "harry0703/MangoDisk",
+      "url": "https://github.com/harry0703/MangoDisk",
+      "description": "Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
+      "programmingLanguage": "Rust",
+      "stars": 4362,
+      "forks": 294,
+      "starsInPeriod": 86
     },
     {
       "rank": 10,
-      "fullName": "fish-shell/fish-shell",
-      "url": "https://github.com/fish-shell/fish-shell",
-      "description": "The user-friendly command line shell.",
+      "fullName": "ZSeven-W/openpencil",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
       "programmingLanguage": "Rust",
-      "stars": 34332,
-      "forks": 2399,
-      "starsInPeriod": 15
+      "stars": 6289,
+      "forks": 550,
+      "starsInPeriod": 24
+    },
+    {
+      "rank": 11,
+      "fullName": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "programmingLanguage": "Rust",
+      "stars": 18397,
+      "forks": 1115,
+      "starsInPeriod": 185
+    },
+    {
+      "rank": 12,
+      "fullName": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "programmingLanguage": "Rust",
+      "stars": 9328,
+      "forks": 334,
+      "starsInPeriod": 23
+    },
+    {
+      "rank": 13,
+      "fullName": "agentgateway/agentgateway",
+      "url": "https://github.com/agentgateway/agentgateway",
+      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+      "programmingLanguage": "Rust",
+      "stars": 5423,
+      "forks": 959,
+      "starsInPeriod": 19
     }
   ]
 }

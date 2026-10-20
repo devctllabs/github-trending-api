@@ -4,193 +4,253 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Tue, 20 Oct 2026 04:49:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:34:51 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-10-20T04:49:14Z</ght:observedAt>
+    <ght:observedAt>2026-10-20T11:34:51Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
-      <title>aquasecurity/trivy</title>
-      <link>https://github.com/aquasecurity/trivy</link>
-      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
-      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
+      <title>kubernetes/kubernetes</title>
+      <link>https://github.com/kubernetes/kubernetes</link>
+      <description>Production-Grade Container Scheduling and Management</description>
+      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>38528</ght:stars>
-      <ght:forks>776</ght:forks>
-      <ght:starsInPeriod>18</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>go-gitea/gitea</title>
-      <link>https://github.com/go-gitea/gitea</link>
-      <description>Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</description>
-      <guid isPermaLink="true">https://github.com/go-gitea/gitea</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>58578</ght:stars>
-      <ght:forks>7296</ght:forks>
-      <ght:starsInPeriod>23</ght:starsInPeriod>
+      <ght:stars>128487</ght:stars>
+      <ght:forks>47483</ght:forks>
+      <ght:starsInPeriod>64</ght:starsInPeriod>
     </item>
     <item>
       <title>helm/helm</title>
       <link>https://github.com/helm/helm</link>
       <description>The Kubernetes Package Manager</description>
       <guid isPermaLink="true">https://github.com/helm/helm</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
-      <ght:rank>3</ght:rank>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>30345</ght:stars>
-      <ght:forks>7852</ght:forks>
+      <ght:stars>30349</ght:stars>
+      <ght:forks>7855</ght:forks>
       <ght:starsInPeriod>3</ght:starsInPeriod>
     </item>
     <item>
-      <title>urfave/cli</title>
-      <link>https://github.com/urfave/cli</link>
-      <description>A declarative, simple, fast, and fun package for building command line tools in Go</description>
-      <guid isPermaLink="true">https://github.com/urfave/cli</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
+      <title>gosom/google-maps-scraper</title>
+      <link>https://github.com/gosom/google-maps-scraper</link>
+      <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
+      <guid isPermaLink="true">https://github.com/gosom/google-maps-scraper</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>3</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6644</ght:stars>
+      <ght:forks>1040</ght:forks>
+      <ght:starsInPeriod>57</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>mudler/LocalAI</title>
+      <link>https://github.com/mudler/LocalAI</link>
+      <description>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</description>
+      <guid isPermaLink="true">https://github.com/mudler/LocalAI</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
       <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>24294</ght:stars>
-      <ght:forks>1935</ght:forks>
-      <ght:starsInPeriod />
+      <ght:stars>49766</ght:stars>
+      <ght:forks>4522</ght:forks>
+      <ght:starsInPeriod>133</ght:starsInPeriod>
     </item>
     <item>
-      <title>ollama/ollama</title>
-      <link>https://github.com/ollama/ollama</link>
-      <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
-      <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
+      <title>QuantumNous/new-api</title>
+      <link>https://github.com/QuantumNous/new-api</link>
+      <description>A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.</description>
+      <guid isPermaLink="true">https://github.com/QuantumNous/new-api</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
       <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>183887</ght:stars>
-      <ght:forks>18422</ght:forks>
-      <ght:starsInPeriod>129</ght:starsInPeriod>
+      <ght:stars>50329</ght:stars>
+      <ght:forks>12157</ght:forks>
+      <ght:starsInPeriod>88</ght:starsInPeriod>
     </item>
     <item>
-      <title>superplanehq/superplane</title>
-      <link>https://github.com/superplanehq/superplane</link>
-      <description>Open source factory for one-shot engineering</description>
-      <guid isPermaLink="true">https://github.com/superplanehq/superplane</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
+      <title>go-gitea/gitea</title>
+      <link>https://github.com/go-gitea/gitea</link>
+      <description>Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</description>
+      <guid isPermaLink="true">https://github.com/go-gitea/gitea</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
       <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>8046</ght:stars>
-      <ght:forks>658</ght:forks>
-      <ght:starsInPeriod>92</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>rclone/rclone</title>
-      <link>https://github.com/rclone/rclone</link>
-      <description>"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</description>
-      <guid isPermaLink="true">https://github.com/rclone/rclone</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>60421</ght:stars>
-      <ght:forks>5548</ght:forks>
-      <ght:starsInPeriod>22</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>Mag1cFall/AIStudio2API</title>
-      <link>https://github.com/Mag1cFall/AIStudio2API</link>
-      <description>将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic &amp; Gemini Compatible API</description>
-      <guid isPermaLink="true">https://github.com/Mag1cFall/AIStudio2API</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
-      <ght:rank>8</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>386</ght:stars>
-      <ght:forks>110</ght:forks>
-      <ght:starsInPeriod>29</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>etcd-io/etcd</title>
-      <link>https://github.com/etcd-io/etcd</link>
-      <description>Distributed reliable key-value store for the most critical data of a distributed system</description>
-      <guid isPermaLink="true">https://github.com/etcd-io/etcd</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
-      <ght:rank>9</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>52403</ght:stars>
-      <ght:forks>10543</ght:forks>
-      <ght:starsInPeriod>11</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>gofiber/fiber</title>
-      <link>https://github.com/gofiber/fiber</link>
-      <description>⚡️ Express inspired web framework written in Go</description>
-      <guid isPermaLink="true">https://github.com/gofiber/fiber</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
-      <ght:rank>10</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>40224</ght:stars>
-      <ght:forks>2056</ght:forks>
-      <ght:starsInPeriod>4</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>livekit/livekit</title>
-      <link>https://github.com/livekit/livekit</link>
-      <description>End-to-end realtime stack for connecting humans and AI</description>
-      <guid isPermaLink="true">https://github.com/livekit/livekit</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
-      <ght:rank>11</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>21674</ght:stars>
-      <ght:forks>2485</ght:forks>
-      <ght:starsInPeriod>69</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>simulot/immich-go</title>
-      <link>https://github.com/simulot/immich-go</link>
-      <description>An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.</description>
-      <guid isPermaLink="true">https://github.com/simulot/immich-go</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
-      <ght:rank>12</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>7072</ght:stars>
-      <ght:forks>273</ght:forks>
-      <ght:starsInPeriod>9</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>danielmiessler/Fabric</title>
-      <link>https://github.com/danielmiessler/Fabric</link>
-      <description>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</description>
-      <guid isPermaLink="true">https://github.com/danielmiessler/Fabric</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
-      <ght:rank>13</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>44374</ght:stars>
-      <ght:forks>4310</ght:forks>
-      <ght:starsInPeriod>26</ght:starsInPeriod>
+      <ght:stars>58587</ght:stars>
+      <ght:forks>7303</ght:forks>
+      <ght:starsInPeriod>23</ght:starsInPeriod>
     </item>
     <item>
       <title>strelov1/freehire</title>
       <link>https://github.com/strelov1/freehire</link>
       <description>freehire — the open-source search engine for job seekers</description>
       <guid isPermaLink="true">https://github.com/strelov1/freehire</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
-      <ght:rank>14</ght:rank>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1496</ght:stars>
-      <ght:forks>173</ght:forks>
+      <ght:stars>1643</ght:stars>
+      <ght:forks>199</ght:forks>
       <ght:starsInPeriod>295</ght:starsInPeriod>
     </item>
     <item>
-      <title>moby/moby</title>
-      <link>https://github.com/moby/moby</link>
-      <description>The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</description>
-      <guid isPermaLink="true">https://github.com/moby/moby</guid>
-      <pubDate>Tue, 20 Oct 2026 04:49:14 GMT</pubDate>
+      <title>DataDog/datadog-agent</title>
+      <link>https://github.com/DataDog/datadog-agent</link>
+      <description>Main repository for Datadog Agent</description>
+      <guid isPermaLink="true">https://github.com/DataDog/datadog-agent</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>3769</ght:stars>
+      <ght:forks>1514</ght:forks>
+      <ght:starsInPeriod>0</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>samber/cc-skills-golang</title>
+      <link>https://github.com/samber/cc-skills-golang</link>
+      <description>🧑‍🎨 A collection of Golang agentic skills that works</description>
+      <guid isPermaLink="true">https://github.com/samber/cc-skills-golang</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>9</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>3521</ght:stars>
+      <ght:forks>233</ght:forks>
+      <ght:starsInPeriod>10</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>hashicorp/vault</title>
+      <link>https://github.com/hashicorp/vault</link>
+      <description>A tool for secrets management, encryption as a service, and privileged access management</description>
+      <guid isPermaLink="true">https://github.com/hashicorp/vault</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>10</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>36408</ght:stars>
+      <ght:forks>4795</ght:forks>
+      <ght:starsInPeriod>8</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>kenn-io/agentsview</title>
+      <link>https://github.com/kenn-io/agentsview</link>
+      <description>Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.</description>
+      <guid isPermaLink="true">https://github.com/kenn-io/agentsview</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>11</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6218</ght:stars>
+      <ght:forks>703</ght:forks>
+      <ght:starsInPeriod>17</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>goharbor/harbor</title>
+      <link>https://github.com/goharbor/harbor</link>
+      <description>An open source trusted cloud native registry project that stores, signs, and scans content.</description>
+      <guid isPermaLink="true">https://github.com/goharbor/harbor</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>12</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>29575</ght:stars>
+      <ght:forks>5393</ght:forks>
+      <ght:starsInPeriod>8</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>knadh/listmonk</title>
+      <link>https://github.com/knadh/listmonk</link>
+      <description>High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.</description>
+      <guid isPermaLink="true">https://github.com/knadh/listmonk</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>13</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>23874</ght:stars>
+      <ght:forks>2703</ght:forks>
+      <ght:starsInPeriod>37</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>netdata/netdata</title>
+      <link>https://github.com/netdata/netdata</link>
+      <description>The fastest path to AI-powered full stack observability, even for lean teams.</description>
+      <guid isPermaLink="true">https://github.com/netdata/netdata</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>14</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>81059</ght:stars>
+      <ght:forks>6692</ght:forks>
+      <ght:starsInPeriod>37</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>golang/go</title>
+      <link>https://github.com/golang/go</link>
+      <description>The Go programming language</description>
+      <guid isPermaLink="true">https://github.com/golang/go</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
       <ght:rank>15</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>72207</ght:stars>
-      <ght:forks>19256</ght:forks>
-      <ght:starsInPeriod>4</ght:starsInPeriod>
+      <ght:stars>139410</ght:stars>
+      <ght:forks>22747</ght:forks>
+      <ght:starsInPeriod>55</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>argoproj/argo-cd</title>
+      <link>https://github.com/argoproj/argo-cd</link>
+      <description>Declarative Continuous Deployment for Kubernetes</description>
+      <guid isPermaLink="true">https://github.com/argoproj/argo-cd</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>24441</ght:stars>
+      <ght:forks>8001</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>gin-gonic/gin</title>
+      <link>https://github.com/gin-gonic/gin</link>
+      <description>Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.</description>
+      <guid isPermaLink="true">https://github.com/gin-gonic/gin</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>17</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>89391</ght:stars>
+      <ght:forks>8772</ght:forks>
+      <ght:starsInPeriod>19</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>larksuite/cli</title>
+      <link>https://github.com/larksuite/cli</link>
+      <description>The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.</description>
+      <guid isPermaLink="true">https://github.com/larksuite/cli</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>18</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>17757</ght:stars>
+      <ght:forks>1400</ght:forks>
+      <ght:starsInPeriod>26</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>istio/istio</title>
+      <link>https://github.com/istio/istio</link>
+      <description>Connect, secure, control, and observe services.</description>
+      <guid isPermaLink="true">https://github.com/istio/istio</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>19</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>38458</ght:stars>
+      <ght:forks>8403</ght:forks>
+      <ght:starsInPeriod>5</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>urfave/cli</title>
+      <link>https://github.com/urfave/cli</link>
+      <description>A declarative, simple, fast, and fun package for building command line tools in Go</description>
+      <guid isPermaLink="true">https://github.com/urfave/cli</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:51 GMT</pubDate>
+      <ght:rank>20</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>24294</ght:stars>
+      <ght:forks>1963</ght:forks>
+      <ght:starsInPeriod />
     </item>
   </channel>
 </rss>
