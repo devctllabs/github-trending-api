@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-20T17:02:11Z",
+  "observedAt": "2026-10-20T21:36:33Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 12269,
-      "forks": 717,
+      "stars": 12402,
+      "forks": 737,
       "starsInPeriod": 2155
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 11826,
-      "forks": 841,
+      "stars": 11887,
+      "forks": 844,
       "starsInPeriod": 902
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 83664,
-      "forks": 5045,
+      "stars": 83770,
+      "forks": 5019,
       "starsInPeriod": 593
     },
     {
@@ -45,7 +45,7 @@
       "description": "Object-storage native graph database with branching and typed ontology",
       "programmingLanguage": "Rust",
       "stars": 1532,
-      "forks": 267,
+      "forks": 233,
       "starsInPeriod": 173
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://github.com/fabio-rovai/open-ontologies",
       "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
       "programmingLanguage": "Rust",
-      "stars": 1149,
+      "stars": 1155,
       "forks": 161,
       "starsInPeriod": 52
     },
@@ -65,7 +65,7 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "programmingLanguage": "Rust",
       "stars": 4779,
-      "forks": 471,
+      "forks": 459,
       "starsInPeriod": 38
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://github.com/Jamailar/Beav",
       "description": "小红书 AI 运营工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集",
       "programmingLanguage": "Rust",
-      "stars": 2088,
+      "stars": 2089,
       "forks": 275,
       "starsInPeriod": 21
     },
@@ -84,8 +84,8 @@
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
       "programmingLanguage": "Rust",
-      "stars": 146764,
-      "forks": 9689,
+      "stars": 146785,
+      "forks": 9691,
       "starsInPeriod": 508
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/harry0703/MangoDisk",
       "description": "Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
       "programmingLanguage": "Rust",
-      "stars": 4377,
-      "forks": 294,
+      "stars": 4385,
+      "forks": 295,
       "starsInPeriod": 86
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://github.com/ZSeven-W/openpencil",
       "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
       "programmingLanguage": "Rust",
-      "stars": 6299,
-      "forks": 550,
+      "stars": 6300,
+      "forks": 551,
       "starsInPeriod": 24
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 18414,
+      "stars": 18418,
       "forks": 1116,
       "starsInPeriod": 185
     },
@@ -124,8 +124,8 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 9335,
-      "forks": 334,
+      "stars": 9337,
+      "forks": 333,
       "starsInPeriod": 23
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/agentgateway/agentgateway",
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "programmingLanguage": "Rust",
-      "stars": 5427,
-      "forks": 959,
+      "stars": 5430,
+      "forks": 961,
       "starsInPeriod": 19
     }
   ]
