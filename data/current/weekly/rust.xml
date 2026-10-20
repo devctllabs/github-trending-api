@@ -4,12 +4,12 @@
     <title>GitHub Trending — weekly — rust</title>
     <link>https://github.com/trending/rust?since=weekly</link>
     <description>GitHub Trending — weekly — rust</description>
-    <lastBuildDate>Mon, 19 Oct 2026 22:20:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 04:49:07 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>weekly</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-10-19T22:20:50Z</ght:observedAt>
+    <ght:observedAt>2026-10-20T04:49:07Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,60 +17,72 @@
       <link>https://github.com/storytold/artcraft</link>
       <description>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</description>
       <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
-      <pubDate>Mon, 19 Oct 2026 22:20:50 GMT</pubDate>
+      <pubDate>Tue, 20 Oct 2026 04:49:07 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>33668</ght:stars>
-      <ght:forks>5330</ght:forks>
-      <ght:starsInPeriod>16379</ght:starsInPeriod>
+      <ght:stars>33868</ght:stars>
+      <ght:forks>5357</ght:forks>
+      <ght:starsInPeriod>13572</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>storytold/artcraftx</title>
+      <link>https://github.com/storytold/artcraftx</link>
+      <description>ArtCraft-X</description>
+      <guid isPermaLink="true">https://github.com/storytold/artcraftx</guid>
+      <pubDate>Tue, 20 Oct 2026 04:49:07 GMT</pubDate>
+      <ght:rank>2</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>963</ght:stars>
+      <ght:forks>841</ght:forks>
+      <ght:starsInPeriod>251</ght:starsInPeriod>
     </item>
     <item>
       <title>xerj-org/xerj</title>
       <link>https://github.com/xerj-org/xerj</link>
-      <description>XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.</description>
+      <description>Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
       <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
-      <pubDate>Mon, 19 Oct 2026 22:20:50 GMT</pubDate>
-      <ght:rank>2</ght:rank>
+      <pubDate>Tue, 20 Oct 2026 04:49:07 GMT</pubDate>
+      <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>10473</ght:stars>
-      <ght:forks>553</ght:forks>
-      <ght:starsInPeriod>4925</ght:starsInPeriod>
+      <ght:stars>10647</ght:stars>
+      <ght:forks>618</ght:forks>
+      <ght:starsInPeriod>5573</ght:starsInPeriod>
     </item>
     <item>
       <title>akitaonrails/ai-memory</title>
       <link>https://github.com/akitaonrails/ai-memory</link>
       <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
       <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Mon, 19 Oct 2026 22:20:50 GMT</pubDate>
-      <ght:rank>3</ght:rank>
+      <pubDate>Tue, 20 Oct 2026 04:49:07 GMT</pubDate>
+      <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>11271</ght:stars>
-      <ght:forks>798</ght:forks>
-      <ght:starsInPeriod>1684</ght:starsInPeriod>
+      <ght:stars>11504</ght:stars>
+      <ght:forks>817</ght:forks>
+      <ght:starsInPeriod>1976</ght:starsInPeriod>
     </item>
     <item>
       <title>trymirai/uzu</title>
       <link>https://github.com/trymirai/uzu</link>
       <description>A high-performance inference engine for AI models</description>
       <guid isPermaLink="true">https://github.com/trymirai/uzu</guid>
-      <pubDate>Mon, 19 Oct 2026 22:20:50 GMT</pubDate>
-      <ght:rank>4</ght:rank>
+      <pubDate>Tue, 20 Oct 2026 04:49:07 GMT</pubDate>
+      <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>2405</ght:stars>
-      <ght:forks>153</ght:forks>
-      <ght:starsInPeriod>227</ght:starsInPeriod>
+      <ght:stars>2427</ght:stars>
+      <ght:forks>158</ght:forks>
+      <ght:starsInPeriod>197</ght:starsInPeriod>
     </item>
     <item>
       <title>HakanSeven12/OpenCADStudio</title>
       <link>https://github.com/HakanSeven12/OpenCADStudio</link>
       <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
       <guid isPermaLink="true">https://github.com/HakanSeven12/OpenCADStudio</guid>
-      <pubDate>Mon, 19 Oct 2026 22:20:50 GMT</pubDate>
-      <ght:rank>5</ght:rank>
+      <pubDate>Tue, 20 Oct 2026 04:49:07 GMT</pubDate>
+      <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>3320</ght:stars>
-      <ght:forks>385</ght:forks>
-      <ght:starsInPeriod>482</ght:starsInPeriod>
+      <ght:stars>3332</ght:stars>
+      <ght:forks>388</ght:forks>
+      <ght:starsInPeriod>438</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

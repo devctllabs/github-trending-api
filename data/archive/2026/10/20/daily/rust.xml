@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ght="urn:github-trending:v1" version="2.0">
+  <channel>
+    <title>GitHub Trending — daily — rust</title>
+    <link>https://github.com/trending/rust</link>
+    <description>GitHub Trending — daily — rust</description>
+    <lastBuildDate>Tue, 20 Oct 2026 04:49:04 GMT</lastBuildDate>
+    <ght:schemaVersion>1</ght:schemaVersion>
+    <ght:kind>daily-rollup</ght:kind>
+    <ght:date>2026-10-20</ght:date>
+    <ght:period>daily</ght:period>
+    <ght:language>rust</ght:language>
+    <ght:updatedAt>2026-10-20T04:49:04Z</ght:updatedAt>
+    <ght:latestStatus>complete</ght:latestStatus>
+    <ght:latestIssues />
+    <item>
+      <title>akitaonrails/ai-memory</title>
+      <link>https://github.com/akitaonrails/ai-memory</link>
+      <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
+      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
+      <pubDate>Tue, 20 Oct 2026 04:49:04 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>11504</ght:stars>
+      <ght:forks>817</ght:forks>
+      <ght:starsInPeriod>666</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-10-20T04:49:04Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-20T04:49:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>xerj-org/xerj</title>
+      <link>https://github.com/xerj-org/xerj</link>
+      <description>Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
+      <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
+      <pubDate>Tue, 20 Oct 2026 04:49:04 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>10647</ght:stars>
+      <ght:forks>618</ght:forks>
+      <ght:starsInPeriod>671</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-10-20T04:49:04Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-20T04:49:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>smg-project/smg</title>
+      <link>https://github.com/smg-project/smg</link>
+      <description>Engine-agnostic LLM gateway in Rust. Full OpenAI &amp; Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini &amp; more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.</description>
+      <guid isPermaLink="true">https://github.com/smg-project/smg</guid>
+      <pubDate>Tue, 20 Oct 2026 04:49:04 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>644</ght:stars>
+      <ght:forks>196</ght:forks>
+      <ght:starsInPeriod>10</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-20T04:49:04Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-20T04:49:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>oven-sh/bun</title>
+      <link>https://github.com/oven-sh/bun</link>
+      <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
+      <guid isPermaLink="true">https://github.com/oven-sh/bun</guid>
+      <pubDate>Tue, 20 Oct 2026 04:49:04 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>96307</ght:stars>
+      <ght:forks>5152</ght:forks>
+      <ght:starsInPeriod>27</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-20T04:49:04Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-20T04:49:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>leepokai/Codync</title>
+      <link>https://github.com/leepokai/Codync</link>
+      <description>The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.</description>
+      <guid isPermaLink="true">https://github.com/leepokai/Codync</guid>
+      <pubDate>Tue, 20 Oct 2026 04:49:04 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>630</ght:stars>
+      <ght:forks>81</ght:forks>
+      <ght:starsInPeriod>51</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-10-20T04:49:04Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-20T04:49:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Automattic/harper</title>
+      <link>https://github.com/Automattic/harper</link>
+      <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
+      <guid isPermaLink="true">https://github.com/Automattic/harper</guid>
+      <pubDate>Tue, 20 Oct 2026 04:49:04 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>16807</ght:stars>
+      <ght:forks>859</ght:forks>
+      <ght:starsInPeriod>72</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-10-20T04:49:04Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-20T04:49:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>martin-olivier/airgorah</title>
+      <link>https://github.com/martin-olivier/airgorah</link>
+      <description>A WiFi security auditing software</description>
+      <guid isPermaLink="true">https://github.com/martin-olivier/airgorah</guid>
+      <pubDate>Tue, 20 Oct 2026 04:49:04 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>4515</ght:stars>
+      <ght:forks>791</ght:forks>
+      <ght:starsInPeriod>135</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-10-20T04:49:04Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-20T04:49:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>pbakaus/impeccable</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <description>The design language that makes your AI harness better at design.</description>
+      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
+      <pubDate>Tue, 20 Oct 2026 04:49:04 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>83319</ght:stars>
+      <ght:forks>5041</ght:forks>
+      <ght:starsInPeriod>422</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-20T04:49:04Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-20T04:49:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>confeden/Antigravity</title>
+      <link>https://github.com/confeden/Antigravity</link>
+      <description>Antigravity в России без VPN и смены региона аккаунта Google</description>
+      <guid isPermaLink="true">https://github.com/confeden/Antigravity</guid>
+      <pubDate>Tue, 20 Oct 2026 04:49:04 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>930</ght:stars>
+      <ght:forks>55</ght:forks>
+      <ght:starsInPeriod>25</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-10-20T04:49:04Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-20T04:49:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>fish-shell/fish-shell</title>
+      <link>https://github.com/fish-shell/fish-shell</link>
+      <description>The user-friendly command line shell.</description>
+      <guid isPermaLink="true">https://github.com/fish-shell/fish-shell</guid>
+      <pubDate>Tue, 20 Oct 2026 04:49:04 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>34332</ght:stars>
+      <ght:forks>2399</ght:forks>
+      <ght:starsInPeriod>15</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-10-20T04:49:04Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-20T04:49:04Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+  </channel>
+</rss>
