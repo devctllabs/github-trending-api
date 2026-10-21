@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ght="urn:github-trending:v1" version="2.0">
+  <channel>
+    <title>GitHub Trending — weekly — rust</title>
+    <link>https://github.com/trending/rust?since=weekly</link>
+    <description>GitHub Trending — weekly — rust</description>
+    <lastBuildDate>Wed, 21 Oct 2026 04:44:30 GMT</lastBuildDate>
+    <ght:schemaVersion>1</ght:schemaVersion>
+    <ght:kind>daily-rollup</ght:kind>
+    <ght:date>2026-10-21</ght:date>
+    <ght:period>weekly</ght:period>
+    <ght:language>rust</ght:language>
+    <ght:updatedAt>2026-10-21T04:44:30Z</ght:updatedAt>
+    <ght:latestStatus>complete</ght:latestStatus>
+    <ght:latestIssues />
+    <item>
+      <title>storytold/artcraft</title>
+      <link>https://github.com/storytold/artcraft</link>
+      <description>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</description>
+      <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:30 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>34644</ght:stars>
+      <ght:forks>5486</ght:forks>
+      <ght:starsInPeriod>10287</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:30Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T04:44:30Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>akitaonrails/ai-memory</title>
+      <link>https://github.com/akitaonrails/ai-memory</link>
+      <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
+      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:30 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>11956</ght:stars>
+      <ght:forks>850</ght:forks>
+      <ght:starsInPeriod>2640</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:30Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T04:44:30Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>xerj-org/xerj</title>
+      <link>https://github.com/xerj-org/xerj</link>
+      <description>Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
+      <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:30 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>12483</ght:stars>
+      <ght:forks>749</ght:forks>
+      <ght:starsInPeriod>8074</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:30Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T04:44:30Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>trymirai/uzu</title>
+      <link>https://github.com/trymirai/uzu</link>
+      <description>A high-performance inference engine for AI models</description>
+      <guid isPermaLink="true">https://github.com/trymirai/uzu</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:30 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>2459</ght:stars>
+      <ght:forks>148</ght:forks>
+      <ght:starsInPeriod>175</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:30Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T04:44:30Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>mixelpixx/Konnect</title>
+      <link>https://github.com/mixelpixx/Konnect</link>
+      <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
+      <guid isPermaLink="true">https://github.com/mixelpixx/Konnect</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:30 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>1346</ght:stars>
+      <ght:forks>159</ght:forks>
+      <ght:starsInPeriod>372</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:30Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T04:44:30Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>storytold/artcraftx</title>
+      <link>https://github.com/storytold/artcraftx</link>
+      <description>ArtCraft-X</description>
+      <guid isPermaLink="true">https://github.com/storytold/artcraftx</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:30 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>984</ght:stars>
+      <ght:forks>859</ght:forks>
+      <ght:starsInPeriod>226</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:30Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T04:44:30Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>HakanSeven12/OpenCADStudio</title>
+      <link>https://github.com/HakanSeven12/OpenCADStudio</link>
+      <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
+      <guid isPermaLink="true">https://github.com/HakanSeven12/OpenCADStudio</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:30 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>3377</ght:stars>
+      <ght:forks>396</ght:forks>
+      <ght:starsInPeriod>404</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:30Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T04:44:30Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>vosen/ZLUDA</title>
+      <link>https://github.com/vosen/ZLUDA</link>
+      <description>CUDA on non-NVIDIA GPUs</description>
+      <guid isPermaLink="true">https://github.com/vosen/ZLUDA</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:30 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>15118</ght:stars>
+      <ght:forks>963</ght:forks>
+      <ght:starsInPeriod>116</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:30Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T04:44:30Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>ModernRelay/omnigraph</title>
+      <link>https://github.com/ModernRelay/omnigraph</link>
+      <description>Object-storage native graph database with branching and typed ontology</description>
+      <guid isPermaLink="true">https://github.com/ModernRelay/omnigraph</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:30 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>1538</ght:stars>
+      <ght:forks>235</ght:forks>
+      <ght:starsInPeriod>254</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:30Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T04:44:30Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>rust-lang/rust</title>
+      <link>https://github.com/rust-lang/rust</link>
+      <description>Empowering everyone to build reliable and efficient software.</description>
+      <guid isPermaLink="true">https://github.com/rust-lang/rust</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:30 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>120614</ght:stars>
+      <ght:forks>18659</ght:forks>
+      <ght:starsInPeriod>1273</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:30Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T04:44:30Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+  </channel>
+</rss>

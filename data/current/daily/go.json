@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-20T21:36:43Z",
+  "observedAt": "2026-10-21T04:44:37Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 128460,
-      "forks": 47014,
-      "starsInPeriod": 64
+      "stars": 128447,
+      "forks": 47013,
+      "starsInPeriod": 76
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/helm/helm",
       "description": "The Kubernetes Package Manager",
       "programmingLanguage": "Go",
-      "stars": 30351,
-      "forks": 7857,
-      "starsInPeriod": 11
+      "stars": 30352,
+      "forks": 7862,
+      "starsInPeriod": 10
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 6660,
-      "forks": 1043,
-      "starsInPeriod": 57
+      "stars": 6678,
+      "forks": 1045,
+      "starsInPeriod": 40
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "programmingLanguage": "Go",
-      "stars": 49796,
-      "forks": 4525,
-      "starsInPeriod": 133
+      "stars": 49806,
+      "forks": 4526,
+      "starsInPeriod": 126
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/QuantumNous/new-api",
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "programmingLanguage": "Go",
-      "stars": 50334,
-      "forks": 12160,
-      "starsInPeriod": 88
+      "stars": 50360,
+      "forks": 12171,
+      "starsInPeriod": 82
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/go-gitea/gitea",
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 58590,
-      "forks": 7307,
-      "starsInPeriod": 29
+      "stars": 58594,
+      "forks": 7310,
+      "starsInPeriod": 27
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/strelov1/freehire",
       "description": "freehire — the open-source search engine for job seekers",
       "programmingLanguage": "Go",
-      "stars": 1869,
-      "forks": 220,
-      "starsInPeriod": 309
+      "stars": 1922,
+      "forks": 224,
+      "starsInPeriod": 405
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/samber/cc-skills-golang",
       "description": "🧑‍🎨 A collection of Golang agentic skills that works",
       "programmingLanguage": "Go",
-      "stars": 3525,
-      "forks": 234,
-      "starsInPeriod": 10
+      "stars": 3531,
+      "forks": 235,
+      "starsInPeriod": 7
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/hashicorp/vault",
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "programmingLanguage": "Go",
-      "stars": 36410,
+      "stars": 36411,
       "forks": 4795,
-      "starsInPeriod": 8
+      "starsInPeriod": 9
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/kenn-io/agentsview",
       "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
       "programmingLanguage": "Go",
-      "stars": 6213,
+      "stars": 6219,
       "forks": 664,
-      "starsInPeriod": 17
+      "starsInPeriod": 13
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/goharbor/harbor",
       "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
       "programmingLanguage": "Go",
-      "stars": 29577,
+      "stars": 29581,
       "forks": 5393,
-      "starsInPeriod": 8
+      "starsInPeriod": 9
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/knadh/listmonk",
       "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
       "programmingLanguage": "Go",
-      "stars": 23883,
-      "forks": 2706,
-      "starsInPeriod": 37
+      "stars": 23887,
+      "forks": 2707,
+      "starsInPeriod": 36
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/netdata/netdata",
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "programmingLanguage": "Go",
-      "stars": 81064,
-      "forks": 6697,
-      "starsInPeriod": 37
+      "stars": 81068,
+      "forks": 6698,
+      "starsInPeriod": 33
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139386,
-      "forks": 22253,
-      "starsInPeriod": 55
+      "stars": 139379,
+      "forks": 22254,
+      "starsInPeriod": 63
     },
     {
       "rank": 16,
@@ -164,7 +164,7 @@
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 24432,
+      "stars": 24435,
       "forks": 7971,
       "starsInPeriod": 7
     },
@@ -174,9 +174,9 @@
       "url": "https://github.com/gin-gonic/gin",
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "programmingLanguage": "Go",
-      "stars": 89394,
-      "forks": 8777,
-      "starsInPeriod": 19
+      "stars": 89395,
+      "forks": 8780,
+      "starsInPeriod": 17
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/larksuite/cli",
       "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
       "programmingLanguage": "Go",
-      "stars": 17747,
-      "forks": 1355,
-      "starsInPeriod": 26
+      "stars": 17756,
+      "forks": 1356,
+      "starsInPeriod": 22
     },
     {
       "rank": 19,
@@ -194,9 +194,9 @@
       "url": "https://github.com/istio/istio",
       "description": "Connect, secure, control, and observe services.",
       "programmingLanguage": "Go",
-      "stars": 38460,
-      "forks": 8402,
-      "starsInPeriod": 5
+      "stars": 38461,
+      "forks": 8403,
+      "starsInPeriod": 4
     },
     {
       "rank": 20,
@@ -204,9 +204,9 @@
       "url": "https://github.com/urfave/cli",
       "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
       "programmingLanguage": "Go",
-      "stars": 24295,
-      "forks": 1867,
-      "starsInPeriod": 5
+      "stars": 24296,
+      "forks": 1866,
+      "starsInPeriod": 6
     }
   ]
 }
