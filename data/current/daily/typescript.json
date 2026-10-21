@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-10-21T04:44:56Z",
+  "observedAt": "2026-10-21T11:47:47Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,139 +14,149 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "programmingLanguage": "TypeScript",
-      "stars": 100011,
-      "forks": 6342,
+      "stars": 100500,
+      "forks": 6355,
       "starsInPeriod": 1565
     },
     {
       "rank": 2,
+      "fullName": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "programmingLanguage": "TypeScript",
+      "stars": 112604,
+      "forks": 16813,
+      "starsInPeriod": 509
+    },
+    {
+      "rank": 3,
+      "fullName": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "programmingLanguage": "TypeScript",
+      "stars": 58788,
+      "forks": 9643,
+      "starsInPeriod": 105
+    },
+    {
+      "rank": 4,
       "fullName": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "programmingLanguage": "TypeScript",
-      "stars": 77941,
-      "forks": 9169,
+      "stars": 78076,
+      "forks": 9181,
       "starsInPeriod": 684
     },
     {
-      "rank": 3,
-      "fullName": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "programmingLanguage": "TypeScript",
-      "stars": 219117,
-      "forks": 29229,
-      "starsInPeriod": 1240
-    },
-    {
-      "rank": 4,
-      "fullName": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": null,
-      "programmingLanguage": "TypeScript",
-      "stars": 28906,
-      "forks": 7766,
-      "starsInPeriod": 228
-    },
-    {
       "rank": 5,
-      "fullName": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "programmingLanguage": "TypeScript",
-      "stars": 392703,
-      "forks": 82539,
-      "starsInPeriod": 585
-    },
-    {
-      "rank": 6,
-      "fullName": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "programmingLanguage": "TypeScript",
-      "stars": 152674,
-      "forks": 26667,
-      "starsInPeriod": 494
-    },
-    {
-      "rank": 7,
-      "fullName": "rmyndharis/OpenWA",
-      "url": "https://github.com/rmyndharis/OpenWA",
-      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-      "programmingLanguage": "TypeScript",
-      "stars": 16015,
-      "forks": 3743,
-      "starsInPeriod": 313
-    },
-    {
-      "rank": 8,
-      "fullName": "croffasia/itsaplan",
-      "url": "https://github.com/croffasia/itsaplan",
-      "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
-      "programmingLanguage": "TypeScript",
-      "stars": 1657,
-      "forks": 233,
-      "starsInPeriod": 114
-    },
-    {
-      "rank": 9,
-      "fullName": "emdash-cms/emdash",
-      "url": "https://github.com/emdash-cms/emdash",
-      "description": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress",
-      "programmingLanguage": "TypeScript",
-      "stars": 13840,
-      "forks": 1318,
-      "starsInPeriod": 36
-    },
-    {
-      "rank": 10,
       "fullName": "thesysdev/openui",
       "url": "https://github.com/thesysdev/openui",
       "description": "The Open Standard for Generative UI",
       "programmingLanguage": "TypeScript",
-      "stars": 12736,
-      "forks": 862,
+      "stars": 12807,
+      "forks": 865,
       "starsInPeriod": 390
     },
     {
-      "rank": 11,
-      "fullName": "PC2005-cloud/dsh-pet",
-      "url": "https://github.com/PC2005-cloud/dsh-pet",
-      "description": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+      "rank": 6,
+      "fullName": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": null,
       "programmingLanguage": "TypeScript",
-      "stars": 3109,
-      "forks": 202,
-      "starsInPeriod": 403
+      "stars": 29006,
+      "forks": 7788,
+      "starsInPeriod": 228
     },
     {
-      "rank": 12,
-      "fullName": "mifi/lossless-cut",
-      "url": "https://github.com/mifi/lossless-cut",
-      "description": "The swiss army knife of lossless video/audio editing",
+      "rank": 7,
+      "fullName": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
       "programmingLanguage": "TypeScript",
-      "stars": 44802,
-      "forks": 2249,
-      "starsInPeriod": 43
+      "stars": 219456,
+      "forks": 29271,
+      "starsInPeriod": 1240
     },
     {
-      "rank": 13,
+      "rank": 8,
       "fullName": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "programmingLanguage": "TypeScript",
-      "stars": 141738,
-      "forks": 8332,
+      "stars": 141787,
+      "forks": 8331,
       "starsInPeriod": 206
     },
     {
-      "rank": 14,
-      "fullName": "elie222/rakazo",
-      "url": "https://github.com/elie222/rakazo",
-      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "rank": 9,
+      "fullName": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "programmingLanguage": "TypeScript",
-      "stars": 4957,
-      "forks": 897,
-      "starsInPeriod": 181
+      "stars": 16050,
+      "forks": 3753,
+      "starsInPeriod": 313
+    },
+    {
+      "rank": 10,
+      "fullName": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "programmingLanguage": "TypeScript",
+      "stars": 392646,
+      "forks": 82540,
+      "starsInPeriod": 585
+    },
+    {
+      "rank": 11,
+      "fullName": "croffasia/itsaplan",
+      "url": "https://github.com/croffasia/itsaplan",
+      "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
+      "programmingLanguage": "TypeScript",
+      "stars": 1691,
+      "forks": 238,
+      "starsInPeriod": 114
+    },
+    {
+      "rank": 12,
+      "fullName": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "programmingLanguage": "TypeScript",
+      "stars": 38628,
+      "forks": 5206,
+      "starsInPeriod": 684
+    },
+    {
+      "rank": 13,
+      "fullName": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "programmingLanguage": "TypeScript",
+      "stars": 70700,
+      "forks": 7723,
+      "starsInPeriod": 410
+    },
+    {
+      "rank": 14,
+      "fullName": "ItzCrazyKns/Vane",
+      "url": "https://github.com/ItzCrazyKns/Vane",
+      "description": "Vane is an AI-powered answering engine.",
+      "programmingLanguage": "TypeScript",
+      "stars": 37579,
+      "forks": 4184,
+      "starsInPeriod": 107
+    },
+    {
+      "rank": 15,
+      "fullName": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "programmingLanguage": "TypeScript",
+      "stars": 89021,
+      "forks": 13663,
+      "starsInPeriod": 141
     }
   ]
 }

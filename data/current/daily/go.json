@@ -4,209 +4,179 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-21T04:44:37Z",
+  "observedAt": "2026-10-21T11:47:27Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "kubernetes/kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
-      "programmingLanguage": "Go",
-      "stars": 128447,
-      "forks": 47013,
-      "starsInPeriod": 76
-    },
-    {
-      "rank": 2,
-      "fullName": "helm/helm",
-      "url": "https://github.com/helm/helm",
-      "description": "The Kubernetes Package Manager",
-      "programmingLanguage": "Go",
-      "stars": 30352,
-      "forks": 7862,
-      "starsInPeriod": 10
-    },
-    {
-      "rank": 3,
-      "fullName": "gosom/google-maps-scraper",
-      "url": "https://github.com/gosom/google-maps-scraper",
-      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
-      "programmingLanguage": "Go",
-      "stars": 6678,
-      "forks": 1045,
-      "starsInPeriod": 40
-    },
-    {
-      "rank": 4,
-      "fullName": "mudler/LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
-      "programmingLanguage": "Go",
-      "stars": 49806,
-      "forks": 4526,
-      "starsInPeriod": 126
-    },
-    {
-      "rank": 5,
-      "fullName": "QuantumNous/new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
-      "programmingLanguage": "Go",
-      "stars": 50360,
-      "forks": 12171,
-      "starsInPeriod": 82
-    },
-    {
-      "rank": 6,
-      "fullName": "go-gitea/gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "programmingLanguage": "Go",
-      "stars": 58594,
-      "forks": 7310,
-      "starsInPeriod": 27
-    },
-    {
-      "rank": 7,
       "fullName": "strelov1/freehire",
       "url": "https://github.com/strelov1/freehire",
       "description": "freehire — the open-source search engine for job seekers",
       "programmingLanguage": "Go",
-      "stars": 1922,
-      "forks": 224,
+      "stars": 2006,
+      "forks": 228,
       "starsInPeriod": 405
     },
     {
-      "rank": 8,
-      "fullName": "DataDog/datadog-agent",
-      "url": "https://github.com/DataDog/datadog-agent",
-      "description": "Main repository for Datadog Agent",
+      "rank": 2,
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 3769,
-      "forks": 1514,
-      "starsInPeriod": 0
+      "stars": 184127,
+      "forks": 18468,
+      "starsInPeriod": 437
     },
     {
-      "rank": 9,
-      "fullName": "samber/cc-skills-golang",
-      "url": "https://github.com/samber/cc-skills-golang",
-      "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+      "rank": 3,
+      "fullName": "Asymptote-Labs/agent-beacon",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "programmingLanguage": "Go",
-      "stars": 3531,
-      "forks": 235,
-      "starsInPeriod": 7
+      "stars": 2293,
+      "forks": 205,
+      "starsInPeriod": 447
     },
     {
-      "rank": 10,
+      "rank": 4,
       "fullName": "hashicorp/vault",
       "url": "https://github.com/hashicorp/vault",
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "programmingLanguage": "Go",
-      "stars": 36411,
-      "forks": 4795,
+      "stars": 36413,
+      "forks": 4796,
       "starsInPeriod": 9
     },
     {
-      "rank": 11,
-      "fullName": "kenn-io/agentsview",
-      "url": "https://github.com/kenn-io/agentsview",
-      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+      "rank": 5,
+      "fullName": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "programmingLanguage": "Go",
-      "stars": 6219,
-      "forks": 664,
-      "starsInPeriod": 13
+      "stars": 49823,
+      "forks": 4526,
+      "starsInPeriod": 126
     },
     {
-      "rank": 12,
-      "fullName": "goharbor/harbor",
-      "url": "https://github.com/goharbor/harbor",
-      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
-      "programmingLanguage": "Go",
-      "stars": 29581,
-      "forks": 5393,
-      "starsInPeriod": 9
-    },
-    {
-      "rank": 13,
-      "fullName": "knadh/listmonk",
-      "url": "https://github.com/knadh/listmonk",
-      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
-      "programmingLanguage": "Go",
-      "stars": 23887,
-      "forks": 2707,
-      "starsInPeriod": 36
-    },
-    {
-      "rank": 14,
-      "fullName": "netdata/netdata",
-      "url": "https://github.com/netdata/netdata",
-      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
-      "programmingLanguage": "Go",
-      "stars": 81068,
-      "forks": 6698,
-      "starsInPeriod": 33
-    },
-    {
-      "rank": 15,
-      "fullName": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "programmingLanguage": "Go",
-      "stars": 139379,
-      "forks": 22254,
-      "starsInPeriod": 63
-    },
-    {
-      "rank": 16,
-      "fullName": "argoproj/argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
-      "programmingLanguage": "Go",
-      "stars": 24435,
-      "forks": 7971,
-      "starsInPeriod": 7
-    },
-    {
-      "rank": 17,
-      "fullName": "gin-gonic/gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-      "programmingLanguage": "Go",
-      "stars": 89395,
-      "forks": 8780,
-      "starsInPeriod": 17
-    },
-    {
-      "rank": 18,
+      "rank": 6,
       "fullName": "larksuite/cli",
       "url": "https://github.com/larksuite/cli",
       "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
       "programmingLanguage": "Go",
-      "stars": 17756,
-      "forks": 1356,
+      "stars": 17761,
+      "forks": 1346,
       "starsInPeriod": 22
     },
     {
-      "rank": 19,
-      "fullName": "istio/istio",
-      "url": "https://github.com/istio/istio",
-      "description": "Connect, secure, control, and observe services.",
+      "rank": 7,
+      "fullName": "google/gvisor",
+      "url": "https://github.com/google/gvisor",
+      "description": "Application Kernel for Containers",
       "programmingLanguage": "Go",
-      "stars": 38461,
-      "forks": 8403,
-      "starsInPeriod": 4
+      "stars": 19732,
+      "forks": 2024,
+      "starsInPeriod": 14
     },
     {
-      "rank": 20,
-      "fullName": "urfave/cli",
-      "url": "https://github.com/urfave/cli",
-      "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
+      "rank": 8,
+      "fullName": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "programmingLanguage": "Go",
-      "stars": 24296,
-      "forks": 1866,
-      "starsInPeriod": 6
+      "stars": 89403,
+      "forks": 8785,
+      "starsInPeriod": 17
+    },
+    {
+      "rank": 9,
+      "fullName": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "programmingLanguage": "Go",
+      "stars": 8622,
+      "forks": 638,
+      "starsInPeriod": 24
+    },
+    {
+      "rank": 10,
+      "fullName": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Go.",
+      "programmingLanguage": "Go",
+      "stars": 13374,
+      "forks": 1143,
+      "starsInPeriod": 13
+    },
+    {
+      "rank": 11,
+      "fullName": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 24440,
+      "forks": 7966,
+      "starsInPeriod": 7
+    },
+    {
+      "rank": 12,
+      "fullName": "harness/harness",
+      "url": "https://github.com/harness/harness",
+      "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
+      "programmingLanguage": "Go",
+      "stars": 38641,
+      "forks": 3433,
+      "starsInPeriod": 31
+    },
+    {
+      "rank": 13,
+      "fullName": "ys-ll/uniterm",
+      "url": "https://github.com/ys-ll/uniterm",
+      "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
+      "programmingLanguage": "Go",
+      "stars": 877,
+      "forks": 134,
+      "starsInPeriod": 7
+    },
+    {
+      "rank": 14,
+      "fullName": "aldinokemal/go-whatsapp-web-multidevice",
+      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+      "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
+      "programmingLanguage": "Go",
+      "stars": 4932,
+      "forks": 1197,
+      "starsInPeriod": 5
+    },
+    {
+      "rank": 15,
+      "fullName": "DataDog/dd-trace-go",
+      "url": "https://github.com/DataDog/dd-trace-go",
+      "description": "Datadog Go Library including APM tracing, profiling, and security monitoring.",
+      "programmingLanguage": "Go",
+      "stars": 858,
+      "forks": 558,
+      "starsInPeriod": 0
+    },
+    {
+      "rank": 16,
+      "fullName": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "programmingLanguage": "Go",
+      "stars": 53402,
+      "forks": 7007,
+      "starsInPeriod": 120
+    },
+    {
+      "rank": 17,
+      "fullName": "zhoushoujianwork/easyeda-agent",
+      "url": "https://github.com/zhoushoujianwork/easyeda-agent",
+      "description": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
+      "programmingLanguage": "Go",
+      "stars": 760,
+      "forks": 95,
+      "starsInPeriod": 24
     }
   ]
 }

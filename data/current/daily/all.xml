@@ -4,12 +4,12 @@
     <title>GitHub Trending — daily — all</title>
     <link>https://github.com/trending</link>
     <description>GitHub Trending — daily — all</description>
-    <lastBuildDate>Wed, 21 Oct 2026 04:44:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:46:57 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>all</ght:language>
-    <ght:observedAt>2026-10-21T04:44:07Z</ght:observedAt>
+    <ght:observedAt>2026-10-21T11:46:57Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,11 +17,11 @@
       <link>https://github.com/MadsLorentzen/ai-job-search</link>
       <description>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.</description>
       <guid isPermaLink="true">https://github.com/MadsLorentzen/ai-job-search</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>61126</ght:stars>
-      <ght:forks>19003</ght:forks>
+      <ght:stars>62114</ght:stars>
+      <ght:forks>19192</ght:forks>
       <ght:starsInPeriod>3861</ght:starsInPeriod>
     </item>
     <item>
@@ -29,35 +29,59 @@
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <description>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
       <ght:rank>2</ght:rank>
       <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>34546</ght:stars>
-      <ght:forks>2164</ght:forks>
+      <ght:stars>35050</ght:stars>
+      <ght:forks>2203</ght:forks>
       <ght:starsInPeriod>1712</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>vllm-project/vllm</title>
+      <link>https://github.com/vllm-project/vllm</link>
+      <description>A high-throughput and memory-efficient inference and serving engine for LLMs</description>
+      <guid isPermaLink="true">https://github.com/vllm-project/vllm</guid>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
+      <ght:rank>3</ght:rank>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>94660</ght:stars>
+      <ght:forks>23710</ght:forks>
+      <ght:starsInPeriod>128</ght:starsInPeriod>
     </item>
     <item>
       <title>stablyai/orca</title>
       <link>https://github.com/stablyai/orca</link>
       <description>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
       <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
-      <ght:rank>3</ght:rank>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
+      <ght:rank>4</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>100010</ght:stars>
-      <ght:forks>6342</ght:forks>
+      <ght:stars>100498</ght:stars>
+      <ght:forks>6355</ght:forks>
       <ght:starsInPeriod>1565</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>headroomlabs-ai/headroom</title>
+      <link>https://github.com/headroomlabs-ai/headroom</link>
+      <description>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.</description>
+      <guid isPermaLink="true">https://github.com/headroomlabs-ai/headroom</guid>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
+      <ght:rank>5</ght:rank>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>76977</ght:stars>
+      <ght:forks>5974</ght:forks>
+      <ght:starsInPeriod>549</ght:starsInPeriod>
     </item>
     <item>
       <title>DietrichGebert/ponytail</title>
       <link>https://github.com/DietrichGebert/ponytail</link>
       <description>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
       <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
-      <ght:rank>4</ght:rank>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
+      <ght:rank>6</ght:rank>
       <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>170066</ght:stars>
-      <ght:forks>9250</ght:forks>
+      <ght:stars>170664</ght:stars>
+      <ght:forks>9282</ght:forks>
       <ght:starsInPeriod>1208</ght:starsInPeriod>
     </item>
     <item>
@@ -65,132 +89,84 @@
       <link>https://github.com/Comfy-Org/ComfyUI</link>
       <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.</description>
       <guid isPermaLink="true">https://github.com/Comfy-Org/ComfyUI</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
-      <ght:rank>5</ght:rank>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
+      <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>140931</ght:stars>
-      <ght:forks>16674</ght:forks>
+      <ght:stars>141201</ght:stars>
+      <ght:forks>16700</ght:forks>
       <ght:starsInPeriod>1206</ght:starsInPeriod>
     </item>
     <item>
-      <title>ruvnet/ruflo</title>
-      <link>https://github.com/ruvnet/ruflo</link>
-      <description>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</description>
-      <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>77941</ght:stars>
-      <ght:forks>9169</ght:forks>
-      <ght:starsInPeriod>684</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>Graphify-Labs/graphify</title>
-      <link>https://github.com/Graphify-Labs/graphify</link>
-      <description>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</description>
-      <guid isPermaLink="true">https://github.com/Graphify-Labs/graphify</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>130480</ght:stars>
-      <ght:forks>12555</ght:forks>
-      <ght:starsInPeriod>802</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>anomalyco/opencode</title>
-      <link>https://github.com/anomalyco/opencode</link>
-      <description>The open source coding agent.</description>
-      <guid isPermaLink="true">https://github.com/anomalyco/opencode</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
+      <title>supabase/supabase</title>
+      <link>https://github.com/supabase/supabase</link>
+      <description>The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.</description>
+      <guid isPermaLink="true">https://github.com/supabase/supabase</guid>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
       <ght:rank>8</ght:rank>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>219116</ght:stars>
-      <ght:forks>29229</ght:forks>
-      <ght:starsInPeriod>1240</ght:starsInPeriod>
+      <ght:stars>112603</ght:stars>
+      <ght:forks>16813</ght:forks>
+      <ght:starsInPeriod>509</ght:starsInPeriod>
     </item>
     <item>
-      <title>msitarzewski/agency-agents</title>
-      <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</description>
-      <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
+      <title>twentyhq/twenty</title>
+      <link>https://github.com/twentyhq/twenty</link>
+      <description>The open alternative to Salesforce, designed for AI.</description>
+      <guid isPermaLink="true">https://github.com/twentyhq/twenty</guid>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
       <ght:rank>9</ght:rank>
-      <ght:programmingLanguage>Shell</ght:programmingLanguage>
-      <ght:stars>162503</ght:stars>
-      <ght:forks>26243</ght:forks>
-      <ght:starsInPeriod>562</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>headroomlabs-ai/headroom</title>
-      <link>https://github.com/headroomlabs-ai/headroom</link>
-      <description>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.</description>
-      <guid isPermaLink="true">https://github.com/headroomlabs-ai/headroom</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
-      <ght:rank>10</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>76847</ght:stars>
-      <ght:forks>5963</ght:forks>
-      <ght:starsInPeriod>549</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>anthropics/knowledge-work-plugins</title>
-      <link>https://github.com/anthropics/knowledge-work-plugins</link>
-      <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
-      <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
-      <ght:rank>11</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>30870</ght:stars>
-      <ght:forks>3466</ght:forks>
-      <ght:starsInPeriod>267</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>wshobson/agents</title>
-      <link>https://github.com/wshobson/agents</link>
-      <description>Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi</description>
-      <guid isPermaLink="true">https://github.com/wshobson/agents</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
-      <ght:rank>12</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>41318</ght:stars>
-      <ght:forks>4396</ght:forks>
-      <ght:starsInPeriod>93</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>sickn33/agentic-awesome-skills</title>
-      <link>https://github.com/sickn33/agentic-awesome-skills</link>
-      <description>AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.</description>
-      <guid isPermaLink="true">https://github.com/sickn33/agentic-awesome-skills</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
-      <ght:rank>13</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>48178</ght:stars>
-      <ght:forks>7022</ght:forks>
-      <ght:starsInPeriod>83</ght:starsInPeriod>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>58787</ght:stars>
+      <ght:forks>9643</ght:forks>
+      <ght:starsInPeriod>105</ght:starsInPeriod>
     </item>
     <item>
       <title>shiyu-coder/Kronos</title>
       <link>https://github.com/shiyu-coder/Kronos</link>
       <description>Kronos: A Foundation Model for the Language of Financial Markets</description>
       <guid isPermaLink="true">https://github.com/shiyu-coder/Kronos</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
-      <ght:rank>14</ght:rank>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
+      <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>42434</ght:stars>
-      <ght:forks>7025</ght:forks>
+      <ght:stars>42582</ght:stars>
+      <ght:forks>7042</ght:forks>
       <ght:starsInPeriod>733</ght:starsInPeriod>
     </item>
     <item>
-      <title>vllm-project/vllm</title>
-      <link>https://github.com/vllm-project/vllm</link>
-      <description>A high-throughput and memory-efficient inference and serving engine for LLMs</description>
-      <guid isPermaLink="true">https://github.com/vllm-project/vllm</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:07 GMT</pubDate>
-      <ght:rank>15</ght:rank>
+      <title>strelov1/freehire</title>
+      <link>https://github.com/strelov1/freehire</link>
+      <description>freehire — the open-source search engine for job seekers</description>
+      <guid isPermaLink="true">https://github.com/strelov1/freehire</guid>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
+      <ght:rank>11</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>2005</ght:stars>
+      <ght:forks>228</ght:forks>
+      <ght:starsInPeriod>405</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>akitaonrails/ai-memory</title>
+      <link>https://github.com/akitaonrails/ai-memory</link>
+      <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
+      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
+      <ght:rank>12</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>12010</ght:stars>
+      <ght:forks>852</ght:forks>
+      <ght:starsInPeriod>810</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>Graphify-Labs/graphify</title>
+      <link>https://github.com/Graphify-Labs/graphify</link>
+      <description>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</description>
+      <guid isPermaLink="true">https://github.com/Graphify-Labs/graphify</guid>
+      <pubDate>Wed, 21 Oct 2026 11:46:57 GMT</pubDate>
+      <ght:rank>13</ght:rank>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>94513</ght:stars>
-      <ght:forks>23683</ght:forks>
-      <ght:starsInPeriod>128</ght:starsInPeriod>
+      <ght:stars>130893</ght:stars>
+      <ght:forks>12581</ght:forks>
+      <ght:starsInPeriod>802</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

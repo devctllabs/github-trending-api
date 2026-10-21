@@ -4,29 +4,29 @@
   "period": "monthly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=monthly",
-  "observedAt": "2026-10-21T04:44:14Z",
+  "observedAt": "2026-10-21T11:47:04Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "programmingLanguage": "Python",
-      "stars": 79228,
-      "forks": 8715,
-      "starsInPeriod": 45470
-    },
-    {
-      "rank": 2,
       "fullName": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "programmingLanguage": "TypeScript",
-      "stars": 105306,
-      "forks": 17545,
+      "stars": 105444,
+      "forks": 17555,
       "starsInPeriod": 24372
+    },
+    {
+      "rank": 2,
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "programmingLanguage": "Python",
+      "stars": 79661,
+      "forks": 8757,
+      "starsInPeriod": 45470
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 52084,
-      "forks": 6192,
+      "stars": 52192,
+      "forks": 6196,
       "starsInPeriod": 28261
     },
     {
@@ -44,69 +44,69 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "programmingLanguage": "TypeScript",
-      "stars": 68619,
-      "forks": 6206,
+      "stars": 68847,
+      "forks": 6224,
       "starsInPeriod": 16644
     },
     {
       "rank": 5,
-      "fullName": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": null,
-      "programmingLanguage": "Python",
-      "stars": 40575,
-      "forks": 5667,
-      "starsInPeriod": 5457
-    },
-    {
-      "rank": 6,
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "programmingLanguage": "JavaScript",
-      "stars": 34546,
-      "forks": 2164,
-      "starsInPeriod": 15824
-    },
-    {
-      "rank": 7,
-      "fullName": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "programmingLanguage": "TypeScript",
-      "stars": 31411,
-      "forks": 2209,
-      "starsInPeriod": 7699
-    },
-    {
-      "rank": 8,
       "fullName": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 16833,
+      "stars": 16893,
       "forks": 1792,
       "starsInPeriod": 8173
     },
     {
-      "rank": 9,
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "programmingLanguage": "Python",
-      "stars": 30870,
-      "forks": 3466,
-      "starsInPeriod": 5496
+      "rank": 6,
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "programmingLanguage": "TypeScript",
+      "stars": 31552,
+      "forks": 2178,
+      "starsInPeriod": 7699
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "programmingLanguage": "JavaScript",
+      "stars": 35050,
+      "forks": 2203,
+      "starsInPeriod": 15824
+    },
+    {
+      "rank": 8,
       "fullName": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "programmingLanguage": "Java",
-      "stars": 92231,
-      "forks": 10329,
+      "stars": 92407,
+      "forks": 10349,
       "starsInPeriod": 13031
+    },
+    {
+      "rank": 9,
+      "fullName": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "programmingLanguage": "TypeScript",
+      "stars": 38627,
+      "forks": 5206,
+      "starsInPeriod": 10683
+    },
+    {
+      "rank": 10,
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "programmingLanguage": "Python",
+      "stars": 30979,
+      "forks": 3475,
+      "starsInPeriod": 5496
     },
     {
       "rank": 11,
@@ -114,29 +114,29 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 43443,
-      "forks": 4585,
+      "stars": 43512,
+      "forks": 4597,
       "starsInPeriod": 6997
     },
     {
       "rank": 12,
-      "fullName": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "programmingLanguage": "TypeScript",
-      "stars": 38430,
-      "forks": 5176,
-      "starsInPeriod": 10683
-    },
-    {
-      "rank": 13,
       "fullName": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "programmingLanguage": "TypeScript",
-      "stars": 13274,
-      "forks": 1306,
+      "stars": 13320,
+      "forks": 1316,
       "starsInPeriod": 5033
+    },
+    {
+      "rank": 13,
+      "fullName": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": null,
+      "programmingLanguage": "Python",
+      "stars": 40598,
+      "forks": 5667,
+      "starsInPeriod": 5457
     },
     {
       "rank": 14,
@@ -144,8 +144,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 71857,
-      "forks": 12644,
+      "stars": 71957,
+      "forks": 12672,
       "starsInPeriod": 16986
     },
     {
@@ -154,19 +154,19 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 285002,
-      "forks": 42284,
+      "stars": 285197,
+      "forks": 42302,
       "starsInPeriod": 22836
     },
     {
       "rank": 16,
-      "fullName": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "programmingLanguage": "Go",
-      "stars": 5683,
-      "forks": 614,
-      "starsInPeriod": 3659
+      "fullName": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "programmingLanguage": "Python",
+      "stars": 22138,
+      "forks": 2167,
+      "starsInPeriod": 5836
     },
     {
       "rank": 17,
@@ -174,59 +174,49 @@
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 10512,
-      "forks": 1316,
+      "stars": 10573,
+      "forks": 1333,
       "starsInPeriod": 6143
     },
     {
       "rank": 18,
-      "fullName": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "programmingLanguage": "Python",
-      "stars": 22039,
-      "forks": 2160,
-      "starsInPeriod": 5836
-    },
-    {
-      "rank": 19,
-      "fullName": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "programmingLanguage": "Python",
-      "stars": 55722,
-      "forks": 5025,
-      "starsInPeriod": 6135
-    },
-    {
-      "rank": 20,
-      "fullName": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": null,
-      "programmingLanguage": "TypeScript",
-      "stars": 28906,
-      "forks": 7765,
-      "starsInPeriod": 5793
-    },
-    {
-      "rank": 21,
-      "fullName": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "programmingLanguage": "Python",
-      "stars": 39397,
-      "forks": 3421,
-      "starsInPeriod": 3715
-    },
-    {
-      "rank": 22,
       "fullName": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 83952,
-      "forks": 5030,
+      "stars": 84145,
+      "forks": 5039,
       "starsInPeriod": 14636
+    },
+    {
+      "rank": 19,
+      "fullName": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": null,
+      "programmingLanguage": "TypeScript",
+      "stars": 29006,
+      "forks": 7788,
+      "starsInPeriod": 5793
+    },
+    {
+      "rank": 20,
+      "fullName": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "programmingLanguage": "Python",
+      "stars": 55784,
+      "forks": 5035,
+      "starsInPeriod": 6135
+    },
+    {
+      "rank": 21,
+      "fullName": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "programmingLanguage": "Python",
+      "stars": 62114,
+      "forks": 19192,
+      "starsInPeriod": 16802
     }
   ]
 }

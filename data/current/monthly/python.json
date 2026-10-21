@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-10-21T04:44:24Z",
+  "observedAt": "2026-10-21T11:47:14Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 79228,
-      "forks": 8715,
+      "stars": 79661,
+      "forks": 8757,
       "starsInPeriod": 45470
     },
     {
@@ -24,39 +24,39 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 52084,
-      "forks": 6192,
+      "stars": 52192,
+      "forks": 6196,
       "starsInPeriod": 28261
     },
     {
       "rank": 3,
-      "fullName": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": null,
-      "programmingLanguage": "Python",
-      "stars": 40575,
-      "forks": 5667,
-      "starsInPeriod": 5457
-    },
-    {
-      "rank": 4,
       "fullName": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 30870,
-      "forks": 3466,
+      "stars": 30979,
+      "forks": 3475,
       "starsInPeriod": 5496
     },
     {
-      "rank": 5,
+      "rank": 4,
       "fullName": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 43443,
-      "forks": 4585,
+      "stars": 43512,
+      "forks": 4597,
       "starsInPeriod": 6997
+    },
+    {
+      "rank": 5,
+      "fullName": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": null,
+      "programmingLanguage": "Python",
+      "stars": 40598,
+      "forks": 5667,
+      "starsInPeriod": 5457
     },
     {
       "rank": 6,
@@ -64,29 +64,29 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 71857,
-      "forks": 12644,
+      "stars": 71957,
+      "forks": 12672,
       "starsInPeriod": 16986
     },
     {
       "rank": 7,
-      "fullName": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "programmingLanguage": "Python",
-      "stars": 10512,
-      "forks": 1316,
-      "starsInPeriod": 6143
-    },
-    {
-      "rank": 8,
       "fullName": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "programmingLanguage": "Python",
-      "stars": 22039,
-      "forks": 2160,
+      "stars": 22138,
+      "forks": 2167,
       "starsInPeriod": 5836
+    },
+    {
+      "rank": 8,
+      "fullName": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "programmingLanguage": "Python",
+      "stars": 10573,
+      "forks": 1333,
+      "starsInPeriod": 6143
     },
     {
       "rank": 9,
@@ -94,69 +94,69 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 55722,
-      "forks": 5025,
+      "stars": 55784,
+      "forks": 5035,
       "starsInPeriod": 6135
     },
     {
       "rank": 10,
+      "fullName": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "programmingLanguage": "Python",
+      "stars": 62114,
+      "forks": 19192,
+      "starsInPeriod": 16802
+    },
+    {
+      "rank": 11,
       "fullName": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "programmingLanguage": "Python",
-      "stars": 39396,
-      "forks": 3421,
+      "stars": 39420,
+      "forks": 3422,
       "starsInPeriod": 3715
     },
     {
-      "rank": 11,
-      "fullName": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "programmingLanguage": "Python",
-      "stars": 32799,
-      "forks": 3776,
-      "starsInPeriod": 2068
-    },
-    {
       "rank": 12,
-      "fullName": "wshobson/agents",
-      "url": "https://github.com/wshobson/agents",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
-      "programmingLanguage": "Python",
-      "stars": 41318,
-      "forks": 4396,
-      "starsInPeriod": 1538
-    },
-    {
-      "rank": 13,
-      "fullName": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "programmingLanguage": "Python",
-      "stars": 104937,
-      "forks": 32420,
-      "starsInPeriod": 2532
-    },
-    {
-      "rank": 14,
       "fullName": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 100362,
-      "forks": 8838,
+      "stars": 100468,
+      "forks": 8851,
       "starsInPeriod": 17031
     },
     {
-      "rank": 15,
-      "fullName": "tile-ai/tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "rank": 13,
+      "fullName": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "programmingLanguage": "Python",
-      "stars": 8702,
-      "forks": 905,
-      "starsInPeriod": 1269
+      "stars": 41407,
+      "forks": 4401,
+      "starsInPeriod": 1538
+    },
+    {
+      "rank": 14,
+      "fullName": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "programmingLanguage": "Python",
+      "stars": 32802,
+      "forks": 3766,
+      "starsInPeriod": 2068
+    },
+    {
+      "rank": 15,
+      "fullName": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "programmingLanguage": "Python",
+      "stars": 104946,
+      "forks": 32389,
+      "starsInPeriod": 2532
     },
     {
       "rank": 16,
@@ -164,39 +164,39 @@
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "programmingLanguage": "Python",
-      "stars": 5387,
+      "stars": 5390,
       "forks": 761,
       "starsInPeriod": 1572
     },
     {
       "rank": 17,
+      "fullName": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "programmingLanguage": "Python",
+      "stars": 8712,
+      "forks": 908,
+      "starsInPeriod": 1269
+    },
+    {
+      "rank": 18,
       "fullName": "ahujasid/mcp-for-blender",
       "url": "https://github.com/ahujasid/mcp-for-blender",
       "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
       "programmingLanguage": "Python",
-      "stars": 31808,
-      "forks": 2907,
+      "stars": 31848,
+      "forks": 2886,
       "starsInPeriod": 2793
     },
     {
-      "rank": 18,
-      "fullName": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "programmingLanguage": "Python",
-      "stars": 5905,
-      "forks": 501,
-      "starsInPeriod": 4187
-    },
-    {
       "rank": 19,
-      "fullName": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "fullName": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "programmingLanguage": "Python",
-      "stars": 61126,
-      "forks": 19003,
-      "starsInPeriod": 16802
+      "stars": 70477,
+      "forks": 9094,
+      "starsInPeriod": 10273
     }
   ]
 }

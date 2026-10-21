@@ -4,31 +4,15 @@
     <title>GitHub Trending — daily — rust</title>
     <link>https://github.com/trending/rust</link>
     <description>GitHub Trending — daily — rust</description>
-    <lastBuildDate>Wed, 21 Oct 2026 04:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:47:17 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-10-21</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>rust</ght:language>
-    <ght:updatedAt>2026-10-21T04:44:27Z</ght:updatedAt>
+    <ght:updatedAt>2026-10-21T11:47:17Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
-    <item>
-      <title>xerj-org/xerj</title>
-      <link>https://github.com/xerj-org/xerj</link>
-      <description>Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
-      <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:27 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>12483</ght:stars>
-      <ght:forks>749</ght:forks>
-      <ght:starsInPeriod>2660</ght:starsInPeriod>
-      <ght:bestRank>1</ght:bestRank>
-      <ght:latestRank>1</ght:latestRank>
-      <ght:firstSeenAt>2026-10-21T04:44:27Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-21T04:44:27Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
     <item>
       <title>akitaonrails/ai-memory</title>
       <link>https://github.com/akitaonrails/ai-memory</link>
@@ -36,13 +20,45 @@
       <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
       <pubDate>Wed, 21 Oct 2026 04:44:27 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>11956</ght:stars>
-      <ght:forks>850</ght:forks>
+      <ght:stars>12010</ght:stars>
+      <ght:forks>852</ght:forks>
       <ght:starsInPeriod>810</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:27Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>xerj-org/xerj</title>
+      <link>https://github.com/xerj-org/xerj</link>
+      <description>Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
+      <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:27 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>12597</ght:stars>
+      <ght:forks>776</ght:forks>
+      <ght:starsInPeriod>2660</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:27Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>trycua/cua</title>
+      <link>https://github.com/trycua/cua</link>
+      <description>Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.</description>
+      <guid isPermaLink="true">https://github.com/trycua/cua</guid>
+      <pubDate>Wed, 21 Oct 2026 11:47:17 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>30512</ght:stars>
+      <ght:forks>2210</ght:forks>
+      <ght:starsInPeriod>208</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
       <ght:latestRank>2</ght:latestRank>
-      <ght:firstSeenAt>2026-10-21T04:44:27Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-21T04:44:27Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-21T11:47:17Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -52,14 +68,46 @@
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
       <pubDate>Wed, 21 Oct 2026 04:44:27 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>83952</ght:stars>
-      <ght:forks>5030</ght:forks>
+      <ght:stars>84145</ght:stars>
+      <ght:forks>5039</ght:forks>
       <ght:starsInPeriod>601</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
-      <ght:latestRank>3</ght:latestRank>
+      <ght:latestRank>13</ght:latestRank>
       <ght:firstSeenAt>2026-10-21T04:44:27Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-21T04:44:27Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>openai/codex</title>
+      <link>https://github.com/openai/codex</link>
+      <description>Lightweight coding agent that runs in your terminal</description>
+      <guid isPermaLink="true">https://github.com/openai/codex</guid>
+      <pubDate>Wed, 21 Oct 2026 11:47:17 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>130254</ght:stars>
+      <ght:forks>20534</ght:forks>
+      <ght:starsInPeriod>538</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T11:47:17Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>harry0703/MangoDisk</title>
+      <link>https://github.com/harry0703/MangoDisk</link>
+      <description>Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.</description>
+      <guid isPermaLink="true">https://github.com/harry0703/MangoDisk</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:27 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>4449</ght:stars>
+      <ght:forks>298</ght:forks>
+      <ght:starsInPeriod>77</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:27Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>ModernRelay/omnigraph</title>
@@ -68,14 +116,14 @@
       <guid isPermaLink="true">https://github.com/ModernRelay/omnigraph</guid>
       <pubDate>Wed, 21 Oct 2026 04:44:27 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1538</ght:stars>
-      <ght:forks>235</ght:forks>
+      <ght:stars>1566</ght:stars>
+      <ght:forks>231</ght:forks>
       <ght:starsInPeriod>190</ght:starsInPeriod>
       <ght:bestRank>4</ght:bestRank>
-      <ght:latestRank>4</ght:latestRank>
+      <ght:latestRank>6</ght:latestRank>
       <ght:firstSeenAt>2026-10-21T04:44:27Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-21T04:44:27Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>fabio-rovai/open-ontologies</title>
@@ -84,14 +132,30 @@
       <guid isPermaLink="true">https://github.com/fabio-rovai/open-ontologies</guid>
       <pubDate>Wed, 21 Oct 2026 04:44:27 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1162</ght:stars>
-      <ght:forks>161</ght:forks>
+      <ght:stars>1180</ght:stars>
+      <ght:forks>162</ght:forks>
       <ght:starsInPeriod>56</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T04:44:27Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>farion1231/cc-switch</title>
+      <link>https://github.com/farion1231/cc-switch</link>
+      <description>A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io</description>
+      <guid isPermaLink="true">https://github.com/farion1231/cc-switch</guid>
+      <pubDate>Wed, 21 Oct 2026 04:44:27 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>147101</ght:stars>
+      <ght:forks>9702</ght:forks>
+      <ght:starsInPeriod>507</ght:starsInPeriod>
       <ght:bestRank>5</ght:bestRank>
       <ght:latestRank>5</ght:latestRank>
       <ght:firstSeenAt>2026-10-21T04:44:27Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-21T04:44:27Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>macro-inc/macro</title>
@@ -126,35 +190,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>farion1231/cc-switch</title>
-      <link>https://github.com/farion1231/cc-switch</link>
-      <description>A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io</description>
-      <guid isPermaLink="true">https://github.com/farion1231/cc-switch</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:27 GMT</pubDate>
+      <title>tursodatabase/turso</title>
+      <link>https://github.com/tursodatabase/turso</link>
+      <description>A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.</description>
+      <guid isPermaLink="true">https://github.com/tursodatabase/turso</guid>
+      <pubDate>Wed, 21 Oct 2026 11:47:17 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>146905</ght:stars>
-      <ght:forks>9697</ght:forks>
-      <ght:starsInPeriod>507</ght:starsInPeriod>
-      <ght:bestRank>8</ght:bestRank>
-      <ght:latestRank>8</ght:latestRank>
-      <ght:firstSeenAt>2026-10-21T04:44:27Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-21T04:44:27Z</ght:lastSeenAt>
+      <ght:stars>24915</ght:stars>
+      <ght:forks>1473</ght:forks>
+      <ght:starsInPeriod>59</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T11:47:17Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>harry0703/MangoDisk</title>
-      <link>https://github.com/harry0703/MangoDisk</link>
-      <description>Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.</description>
-      <guid isPermaLink="true">https://github.com/harry0703/MangoDisk</guid>
-      <pubDate>Wed, 21 Oct 2026 04:44:27 GMT</pubDate>
+      <title>trymirai/uzu</title>
+      <link>https://github.com/trymirai/uzu</link>
+      <description>A high-performance inference engine for AI models</description>
+      <guid isPermaLink="true">https://github.com/trymirai/uzu</guid>
+      <pubDate>Wed, 21 Oct 2026 11:47:17 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>4405</ght:stars>
-      <ght:forks>296</ght:forks>
-      <ght:starsInPeriod>77</ght:starsInPeriod>
+      <ght:stars>2465</ght:stars>
+      <ght:forks>143</ght:forks>
+      <ght:starsInPeriod>15</ght:starsInPeriod>
       <ght:bestRank>9</ght:bestRank>
       <ght:latestRank>9</ght:latestRank>
-      <ght:firstSeenAt>2026-10-21T04:44:27Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-21T04:44:27Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-21T11:47:17Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -190,6 +254,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>EasyTier/EasyTier</title>
+      <link>https://github.com/EasyTier/EasyTier</link>
+      <description>A simple, decentralized mesh VPN with WireGuard support.</description>
+      <guid isPermaLink="true">https://github.com/EasyTier/EasyTier</guid>
+      <pubDate>Wed, 21 Oct 2026 11:47:17 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>14188</ght:stars>
+      <ght:forks>1446</ght:forks>
+      <ght:starsInPeriod>23</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T11:47:17Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>max-sixty/worktrunk</title>
       <link>https://github.com/max-sixty/worktrunk</link>
       <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
@@ -203,6 +283,22 @@
       <ght:latestRank>12</ght:latestRank>
       <ght:firstSeenAt>2026-10-21T04:44:27Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-21T04:44:27Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>oxc-project/oxc</title>
+      <link>https://github.com/oxc-project/oxc</link>
+      <description>⚓ A collection of high-performance JavaScript tools.</description>
+      <guid isPermaLink="true">https://github.com/oxc-project/oxc</guid>
+      <pubDate>Wed, 21 Oct 2026 11:47:17 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>23159</ght:stars>
+      <ght:forks>1392</ght:forks>
+      <ght:starsInPeriod>38</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-10-21T11:47:17Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-21T11:47:17Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
