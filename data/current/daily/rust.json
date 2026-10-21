@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-21T11:47:17Z",
+  "observedAt": "2026-10-21T17:11:25Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 12010,
-      "forks": 852,
-      "starsInPeriod": 810
+      "stars": 12162,
+      "forks": 860,
+      "starsInPeriod": 303
     },
     {
       "rank": 2,
@@ -24,8 +24,8 @@
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
       "programmingLanguage": "Rust",
-      "stars": 30512,
-      "forks": 2210,
+      "stars": 30550,
+      "forks": 2212,
       "starsInPeriod": 208
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "programmingLanguage": "Rust",
-      "stars": 130254,
-      "forks": 20534,
+      "stars": 130283,
+      "forks": 20539,
       "starsInPeriod": 538
     },
     {
@@ -44,9 +44,9 @@
       "url": "https://github.com/harry0703/MangoDisk",
       "description": "Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
       "programmingLanguage": "Rust",
-      "stars": 4449,
-      "forks": 298,
-      "starsInPeriod": 77
+      "stars": 4472,
+      "forks": 300,
+      "starsInPeriod": 98
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
       "programmingLanguage": "Rust",
-      "stars": 147101,
-      "forks": 9702,
-      "starsInPeriod": 507
+      "stars": 147202,
+      "forks": 9712,
+      "starsInPeriod": 460
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/ModernRelay/omnigraph",
       "description": "Object-storage native graph database with branching and typed ontology",
       "programmingLanguage": "Rust",
-      "stars": 1566,
-      "forks": 231,
-      "starsInPeriod": 190
+      "stars": 1585,
+      "forks": 234,
+      "starsInPeriod": 66
     },
     {
       "rank": 7,
@@ -74,8 +74,8 @@
       "url": "https://github.com/tursodatabase/turso",
       "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
       "programmingLanguage": "Rust",
-      "stars": 24915,
-      "forks": 1473,
+      "stars": 24930,
+      "forks": 1474,
       "starsInPeriod": 59
     },
     {
@@ -84,9 +84,9 @@
       "url": "https://github.com/fabio-rovai/open-ontologies",
       "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
       "programmingLanguage": "Rust",
-      "stars": 1180,
-      "forks": 162,
-      "starsInPeriod": 56
+      "stars": 1192,
+      "forks": 165,
+      "starsInPeriod": 41
     },
     {
       "rank": 9,
@@ -94,7 +94,7 @@
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 2465,
+      "stars": 2470,
       "forks": 143,
       "starsInPeriod": 15
     },
@@ -104,9 +104,9 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 12597,
-      "forks": 776,
-      "starsInPeriod": 2660
+      "stars": 12688,
+      "forks": 791,
+      "starsInPeriod": 1257
     },
     {
       "rank": 11,
@@ -114,7 +114,7 @@
       "url": "https://github.com/EasyTier/EasyTier",
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "programmingLanguage": "Rust",
-      "stars": 14188,
+      "stars": 14199,
       "forks": 1446,
       "starsInPeriod": 23
     },
@@ -124,8 +124,8 @@
       "url": "https://github.com/oxc-project/oxc",
       "description": "⚓ A collection of high-performance JavaScript tools.",
       "programmingLanguage": "Rust",
-      "stars": 23159,
-      "forks": 1392,
+      "stars": 23164,
+      "forks": 1393,
       "starsInPeriod": 38
     },
     {
@@ -134,9 +134,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 84145,
-      "forks": 5039,
-      "starsInPeriod": 601
+      "stars": 84308,
+      "forks": 5044,
+      "starsInPeriod": 668
     }
   ]
 }
