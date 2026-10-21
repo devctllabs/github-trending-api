@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-10-21T17:11:43Z",
+  "observedAt": "2026-10-21T21:42:23Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,7 +14,7 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 5705,
+      "stars": 5711,
       "forks": 614,
       "starsInPeriod": 3659
     },
@@ -24,7 +24,7 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 78225,
+      "stars": 78230,
       "forks": 5169,
       "starsInPeriod": 2479
     },
@@ -34,8 +34,8 @@
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "programmingLanguage": "Go",
-      "stars": 8626,
-      "forks": 638,
+      "stars": 8629,
+      "forks": 639,
       "starsInPeriod": 1198
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 184170,
-      "forks": 18472,
+      "stars": 184194,
+      "forks": 18475,
       "starsInPeriod": 3696
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 34981,
-      "forks": 4677,
+      "stars": 34986,
+      "forks": 4680,
       "starsInPeriod": 7138
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.com/Gentleman-Programming/engram",
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "programmingLanguage": "Go",
-      "stars": 7511,
+      "stars": 7516,
       "forks": 782,
       "starsInPeriod": 807
     },
@@ -74,7 +74,7 @@
       "url": "https://github.com/google/ax",
       "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
       "programmingLanguage": "Go",
-      "stars": 14021,
+      "stars": 14020,
       "forks": 731,
       "starsInPeriod": 11759
     },
@@ -84,8 +84,8 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 31712,
-      "forks": 4878,
+      "stars": 31757,
+      "forks": 4889,
       "starsInPeriod": 6927
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/Asymptote-Labs/agent-beacon",
       "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "programmingLanguage": "Go",
-      "stars": 2354,
-      "forks": 212,
+      "stars": 2398,
+      "forks": 216,
       "starsInPeriod": 1421
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "programmingLanguage": "Go",
-      "stars": 5551,
+      "stars": 5553,
       "forks": 257,
       "starsInPeriod": 1882
     },
@@ -114,7 +114,7 @@
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 28626,
+      "stars": 28628,
       "forks": 2655,
       "starsInPeriod": 681
     },
@@ -124,8 +124,8 @@
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 128460,
-      "forks": 46996,
+      "stars": 128468,
+      "forks": 47041,
       "starsInPeriod": 1432
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://github.com/urfave/cli",
       "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
       "programmingLanguage": "Go",
-      "stars": 24296,
+      "stars": 24297,
       "forks": 1848,
       "starsInPeriod": 82
     },
@@ -144,7 +144,7 @@
       "url": "https://github.com/docker/docker-agent",
       "description": "AI Agent Builder and Runtime by Docker Engineering",
       "programmingLanguage": "Go",
-      "stars": 4589,
+      "stars": 4592,
       "forks": 526,
       "starsInPeriod": 1256
     },
@@ -164,8 +164,8 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139382,
-      "forks": 22260,
+      "stars": 139389,
+      "forks": 22276,
       "starsInPeriod": 1507
     },
     {
@@ -174,7 +174,7 @@
       "url": "https://github.com/hashicorp/terraform",
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "programmingLanguage": "Go",
-      "stars": 50001,
+      "stars": 50002,
       "forks": 10602,
       "starsInPeriod": 511
     },
@@ -184,8 +184,8 @@
       "url": "https://github.com/XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "programmingLanguage": "Go",
-      "stars": 42233,
-      "forks": 6020,
+      "stars": 42234,
+      "forks": 6023,
       "starsInPeriod": 658
     },
     {
@@ -194,7 +194,7 @@
       "url": "https://github.com/seaweedfs/seaweedfs",
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "programmingLanguage": "Go",
-      "stars": 35659,
+      "stars": 35661,
       "forks": 3086,
       "starsInPeriod": 848
     },
@@ -204,8 +204,8 @@
       "url": "https://github.com/zitadel/zitadel",
       "description": "ZITADEL - Identity infrastructure, simplified for you.",
       "programmingLanguage": "Go",
-      "stars": 15369,
-      "forks": 1396,
+      "stars": 15371,
+      "forks": 1397,
       "starsInPeriod": 330
     },
     {
@@ -214,7 +214,7 @@
       "url": "https://github.com/github/gh-aw",
       "description": "GitHub Agentic Workflows",
       "programmingLanguage": "Go",
-      "stars": 5428,
+      "stars": 5432,
       "forks": 596,
       "starsInPeriod": 293
     },
@@ -224,7 +224,7 @@
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "programmingLanguage": "Go",
-      "stars": 66674,
+      "stars": 66685,
       "forks": 10910,
       "starsInPeriod": 852
     },
@@ -234,8 +234,8 @@
       "url": "https://github.com/lharries/whatsapp-mcp",
       "description": "WhatsApp MCP server",
       "programmingLanguage": "Go",
-      "stars": 6681,
-      "forks": 1430,
+      "stars": 6684,
+      "forks": 1431,
       "starsInPeriod": 407
     },
     {
@@ -244,7 +244,7 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 38422,
+      "stars": 38425,
       "forks": 5878,
       "starsInPeriod": 397
     }
