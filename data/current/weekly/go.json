@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-22T04:42:48Z",
+  "observedAt": "2026-10-22T11:50:42Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 184225,
-      "forks": 18480,
+      "stars": 184269,
+      "forks": 18460,
       "starsInPeriod": 1408
     },
     {
@@ -24,139 +24,139 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 31811,
-      "forks": 4902,
+      "stars": 31928,
+      "forks": 4932,
       "starsInPeriod": 2665
     },
     {
       "rank": 3,
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "programmingLanguage": "Go",
-      "stars": 114175,
-      "forks": 6581,
-      "starsInPeriod": 2419
-    },
-    {
-      "rank": 4,
       "fullName": "gitleaks/gitleaks",
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 30204,
-      "forks": 2307,
+      "stars": 30212,
+      "forks": 2309,
       "starsInPeriod": 282
     },
     {
-      "rank": 5,
-      "fullName": "go-gitea/gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "programmingLanguage": "Go",
-      "stars": 58620,
-      "forks": 7308,
-      "starsInPeriod": 148
-    },
-    {
-      "rank": 6,
-      "fullName": "Gentleman-Programming/engram",
-      "url": "https://github.com/Gentleman-Programming/engram",
-      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
-      "programmingLanguage": "Go",
-      "stars": 7519,
-      "forks": 785,
-      "starsInPeriod": 331
-    },
-    {
-      "rank": 7,
-      "fullName": "superplanehq/superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "Open source factory for one-shot engineering",
-      "programmingLanguage": "Go",
-      "stars": 8124,
-      "forks": 664,
-      "starsInPeriod": 454
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "fullName": "mudler/LocalAI",
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "programmingLanguage": "Go",
-      "stars": 49845,
-      "forks": 4528,
+      "stars": 49840,
+      "forks": 4530,
       "starsInPeriod": 332
     },
     {
-      "rank": 9,
-      "fullName": "Mag1cFall/AIStudio2API",
-      "url": "https://github.com/Mag1cFall/AIStudio2API",
-      "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
+      "rank": 5,
+      "fullName": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "programmingLanguage": "Go",
-      "stars": 423,
-      "forks": 114,
-      "starsInPeriod": 166
+      "stars": 52416,
+      "forks": 10546,
+      "starsInPeriod": 86
+    },
+    {
+      "rank": 6,
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "programmingLanguage": "Go",
+      "stars": 58628,
+      "forks": 7299,
+      "starsInPeriod": 148
+    },
+    {
+      "rank": 7,
+      "fullName": "Gentleman-Programming/engram",
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "programmingLanguage": "Go",
+      "stars": 7522,
+      "forks": 785,
+      "starsInPeriod": 331
+    },
+    {
+      "rank": 8,
+      "fullName": "GoogleCloudPlatform/scion",
+      "url": "https://github.com/GoogleCloudPlatform/scion",
+      "description": null,
+      "programmingLanguage": "Go",
+      "stars": 2006,
+      "forks": 294,
+      "starsInPeriod": 143
+    },
+    {
+      "rank": 9,
+      "fullName": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "programmingLanguage": "Go",
+      "stars": 30357,
+      "forks": 7843,
+      "starsInPeriod": 34
     },
     {
       "rank": 10,
-      "fullName": "tailscale/tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "fullName": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
       "programmingLanguage": "Go",
-      "stars": 37903,
-      "forks": 3335,
-      "starsInPeriod": 405
+      "stars": 33848,
+      "forks": 5213,
+      "starsInPeriod": 247
     },
     {
       "rank": 11,
-      "fullName": "gin-gonic/gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "fullName": "php/frankenphp",
+      "url": "https://github.com/php/frankenphp",
+      "description": "🧟 The modern PHP app server",
       "programmingLanguage": "Go",
-      "stars": 89407,
-      "forks": 8788,
-      "starsInPeriod": 113
+      "stars": 11447,
+      "forks": 499,
+      "starsInPeriod": 52
     },
     {
       "rank": 12,
+      "fullName": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "programmingLanguage": "Go",
+      "stars": 72198,
+      "forks": 19190,
+      "starsInPeriod": 52
+    },
+    {
+      "rank": 13,
+      "fullName": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "programmingLanguage": "Go",
+      "stars": 25702,
+      "forks": 4178,
+      "starsInPeriod": 49
+    },
+    {
+      "rank": 14,
       "fullName": "golang/go",
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139394,
-      "forks": 22317,
+      "stars": 139415,
+      "forks": 22301,
       "starsInPeriod": 442
     },
     {
-      "rank": 13,
-      "fullName": "llm-d/llm-d-router",
-      "url": "https://github.com/llm-d/llm-d-router",
-      "description": "llm-d Router: The intelligent entry point for inference requests",
-      "programmingLanguage": "Go",
-      "stars": 428,
-      "forks": 477,
-      "starsInPeriod": 26
-    },
-    {
-      "rank": 14,
-      "fullName": "Autumn-27/ScopeSentry",
-      "url": "https://github.com/Autumn-27/ScopeSentry",
-      "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
-      "programmingLanguage": "Go",
-      "stars": 2006,
-      "forks": 428,
-      "starsInPeriod": 156
-    },
-    {
       "rank": 15,
-      "fullName": "lionsoul2014/ip2region",
-      "url": "https://github.com/lionsoul2014/ip2region",
-      "description": "Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages",
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 19718,
-      "forks": 3080,
-      "starsInPeriod": 65
+      "stars": 114271,
+      "forks": 6583,
+      "starsInPeriod": 2419
     },
     {
       "rank": 16,
@@ -164,29 +164,49 @@
       "url": "https://github.com/hashicorp/terraform",
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "programmingLanguage": "Go",
-      "stars": 50008,
-      "forks": 10602,
+      "stars": 50011,
+      "forks": 10598,
       "starsInPeriod": 127
     },
     {
       "rank": 17,
-      "fullName": "istio/istio",
-      "url": "https://github.com/istio/istio",
-      "description": "Connect, secure, control, and observe services.",
+      "fullName": "pearl-research-labs/pearl",
+      "url": "https://github.com/pearl-research-labs/pearl",
+      "description": "Monorepo for the Pearl network 🐚",
       "programmingLanguage": "Go",
-      "stars": 38461,
-      "forks": 8404,
-      "starsInPeriod": 24
+      "stars": 381,
+      "forks": 93,
+      "starsInPeriod": 22
     },
     {
       "rank": 18,
-      "fullName": "github/github-mcp-server",
-      "url": "https://github.com/github/github-mcp-server",
-      "description": "GitHub's official MCP Server",
+      "fullName": "gosom/google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 33836,
-      "forks": 5211,
-      "starsInPeriod": 247
+      "stars": 6734,
+      "forks": 1064,
+      "starsInPeriod": 273
+    },
+    {
+      "rank": 19,
+      "fullName": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "programmingLanguage": "Go",
+      "stars": 89413,
+      "forks": 8760,
+      "starsInPeriod": 113
+    },
+    {
+      "rank": 20,
+      "fullName": "PatchMon/PatchMon",
+      "url": "https://github.com/PatchMon/PatchMon",
+      "description": "Linux Patch Management & Automation Platform",
+      "programmingLanguage": "Go",
+      "stars": 3462,
+      "forks": 196,
+      "starsInPeriod": 49
     }
   ]
 }

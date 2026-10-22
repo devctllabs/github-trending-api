@@ -4,29 +4,29 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-10-22T04:43:05Z",
+  "observedAt": "2026-10-22T11:50:59Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "programmingLanguage": "TypeScript",
-      "stars": 101614,
-      "forks": 6426,
-      "starsInPeriod": 1541
-    },
-    {
-      "rank": 2,
       "fullName": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "programmingLanguage": "TypeScript",
-      "stars": 113115,
-      "forks": 16961,
+      "stars": 113270,
+      "forks": 16986,
       "starsInPeriod": 504
+    },
+    {
+      "rank": 2,
+      "fullName": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "programmingLanguage": "TypeScript",
+      "stars": 20769,
+      "forks": 2560,
+      "starsInPeriod": 186
     },
     {
       "rank": 3,
@@ -34,129 +34,129 @@
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "programmingLanguage": "TypeScript",
-      "stars": 59302,
-      "forks": 9669,
+      "stars": 59483,
+      "forks": 9682,
       "starsInPeriod": 112
     },
     {
       "rank": 4,
-      "fullName": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "programmingLanguage": "TypeScript",
-      "stars": 78251,
-      "forks": 9209,
-      "starsInPeriod": 612
-    },
-    {
-      "rank": 5,
-      "fullName": "thesysdev/openui",
-      "url": "https://github.com/thesysdev/openui",
-      "description": "The Open Standard for Generative UI",
-      "programmingLanguage": "TypeScript",
-      "stars": 12949,
-      "forks": 868,
-      "starsInPeriod": 332
-    },
-    {
-      "rank": 6,
-      "fullName": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": null,
-      "programmingLanguage": "TypeScript",
-      "stars": 29201,
-      "forks": 7836,
-      "starsInPeriod": 302
-    },
-    {
-      "rank": 7,
-      "fullName": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "programmingLanguage": "TypeScript",
-      "stars": 219806,
-      "forks": 29375,
-      "starsInPeriod": 1295
-    },
-    {
-      "rank": 8,
-      "fullName": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "programmingLanguage": "TypeScript",
-      "stars": 141895,
-      "forks": 8339,
-      "starsInPeriod": 168
-    },
-    {
-      "rank": 9,
-      "fullName": "rmyndharis/OpenWA",
-      "url": "https://github.com/rmyndharis/OpenWA",
-      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-      "programmingLanguage": "TypeScript",
-      "stars": 16079,
-      "forks": 3767,
-      "starsInPeriod": 155
-    },
-    {
-      "rank": 10,
-      "fullName": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "programmingLanguage": "TypeScript",
-      "stars": 392715,
-      "forks": 82548,
-      "starsInPeriod": 168
-    },
-    {
-      "rank": 11,
-      "fullName": "croffasia/itsaplan",
-      "url": "https://github.com/croffasia/itsaplan",
-      "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
-      "programmingLanguage": "TypeScript",
-      "stars": 1761,
-      "forks": 247,
-      "starsInPeriod": 150
-    },
-    {
-      "rank": 12,
       "fullName": "tashfeenahmed/freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "programmingLanguage": "TypeScript",
-      "stars": 39055,
-      "forks": 5266,
+      "stars": 39242,
+      "forks": 5296,
       "starsInPeriod": 675
     },
     {
-      "rank": 13,
-      "fullName": "cline/cline",
-      "url": "https://github.com/cline/cline",
-      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "rank": 5,
+      "fullName": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
       "programmingLanguage": "TypeScript",
-      "stars": 70697,
-      "forks": 7721,
-      "starsInPeriod": 58
+      "stars": 10441,
+      "forks": 1378,
+      "starsInPeriod": 191
     },
     {
-      "rank": 14,
-      "fullName": "ItzCrazyKns/Vane",
-      "url": "https://github.com/ItzCrazyKns/Vane",
-      "description": "Vane is an AI-powered answering engine.",
-      "programmingLanguage": "TypeScript",
-      "stars": 37614,
-      "forks": 4186,
-      "starsInPeriod": 74
-    },
-    {
-      "rank": 15,
+      "rank": 6,
       "fullName": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "programmingLanguage": "TypeScript",
-      "stars": 89125,
-      "forks": 13677,
+      "stars": 89168,
+      "forks": 13684,
       "starsInPeriod": 160
+    },
+    {
+      "rank": 7,
+      "fullName": "remotion-dev/remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "programmingLanguage": "TypeScript",
+      "stars": 66223,
+      "forks": 5301,
+      "starsInPeriod": 380
+    },
+    {
+      "rank": 8,
+      "fullName": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": null,
+      "programmingLanguage": "TypeScript",
+      "stars": 29301,
+      "forks": 7863,
+      "starsInPeriod": 302
+    },
+    {
+      "rank": 9,
+      "fullName": "vitejs/vite",
+      "url": "https://github.com/vitejs/vite",
+      "description": "Next generation frontend tooling. It's fast!",
+      "programmingLanguage": "TypeScript",
+      "stars": 83446,
+      "forks": 8860,
+      "starsInPeriod": 30
+    },
+    {
+      "rank": 10,
+      "fullName": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "programmingLanguage": "TypeScript",
+      "stars": 194091,
+      "forks": 10243,
+      "starsInPeriod": 455
+    },
+    {
+      "rank": 11,
+      "fullName": "Dokploy/dokploy",
+      "url": "https://github.com/Dokploy/dokploy",
+      "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+      "programmingLanguage": "TypeScript",
+      "stars": 37936,
+      "forks": 3108,
+      "starsInPeriod": 39
+    },
+    {
+      "rank": 12,
+      "fullName": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "programmingLanguage": "TypeScript",
+      "stars": 25649,
+      "forks": 2029,
+      "starsInPeriod": 25
+    },
+    {
+      "rank": 13,
+      "fullName": "github/docs",
+      "url": "https://github.com/github/docs",
+      "description": "The open-source repo for docs.github.com",
+      "programmingLanguage": "TypeScript",
+      "stars": 21072,
+      "forks": 69193,
+      "starsInPeriod": 12
+    },
+    {
+      "rank": 14,
+      "fullName": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "programmingLanguage": "TypeScript",
+      "stars": 6885,
+      "forks": 941,
+      "starsInPeriod": 89
+    },
+    {
+      "rank": 15,
+      "fullName": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "programmingLanguage": "TypeScript",
+      "stars": 102157,
+      "forks": 6448,
+      "starsInPeriod": 1694
     }
   ]
 }

@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=monthly",
-  "observedAt": "2026-10-22T04:42:41Z",
+  "observedAt": "2026-10-22T11:50:34Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 17042,
-      "forks": 1814,
+      "stars": 17111,
+      "forks": 1817,
       "starsInPeriod": 8303
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 84533,
-      "forks": 5053,
+      "stars": 84721,
+      "forks": 5057,
       "starsInPeriod": 15078
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 18481,
-      "forks": 1123,
+      "stars": 18498,
+      "forks": 1126,
       "starsInPeriod": 3959
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
       "programmingLanguage": "Rust",
-      "stars": 30604,
-      "forks": 2216,
+      "stars": 30645,
+      "forks": 2219,
       "starsInPeriod": 5155
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 27498,
-      "forks": 2455,
+      "stars": 27543,
+      "forks": 2459,
       "starsInPeriod": 7295
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/bevyengine/bevy",
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 49195,
-      "forks": 4955,
+      "stars": 49188,
+      "forks": 4956,
       "starsInPeriod": 992
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/lexmount/moli",
       "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 19980,
-      "forks": 532,
+      "stars": 20047,
+      "forks": 537,
       "starsInPeriod": 18277
     },
     {
@@ -84,19 +84,19 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 12854,
-      "forks": 817,
+      "stars": 12975,
+      "forks": 842,
       "starsInPeriod": 10966
     },
     {
       "rank": 9,
-      "fullName": "clash-verge-rev/clash-verge-rev",
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "fullName": "microsoft/mxc",
+      "url": "https://github.com/microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
       "programmingLanguage": "Rust",
-      "stars": 153040,
-      "forks": 10986,
-      "starsInPeriod": 7600
+      "stars": 2955,
+      "forks": 161,
+      "starsInPeriod": 1610
     },
     {
       "rank": 10,
@@ -105,98 +105,98 @@
       "description": "HydraDB - fast graph database on object storage",
       "programmingLanguage": "Rust",
       "stars": 13062,
-      "forks": 5414,
+      "forks": 5411,
       "starsInPeriod": 9523
     },
     {
       "rank": 11,
-      "fullName": "microsoft/mxc",
-      "url": "https://github.com/microsoft/mxc",
-      "description": "Policy-driven, layered isolation and containment",
-      "programmingLanguage": "Rust",
-      "stars": 2952,
-      "forks": 161,
-      "starsInPeriod": 1610
-    },
-    {
-      "rank": 12,
       "fullName": "trymirai/uzu",
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 2524,
+      "stars": 2537,
       "forks": 145,
       "starsInPeriod": 668
     },
     {
-      "rank": 13,
-      "fullName": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "programmingLanguage": "Rust",
-      "stars": 126558,
-      "forks": 19905,
-      "starsInPeriod": 2905
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "fullName": "Pumpkin-MC/Pumpkin",
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers",
       "programmingLanguage": "Rust",
-      "stars": 12569,
-      "forks": 943,
+      "stars": 12575,
+      "forks": 944,
       "starsInPeriod": 1315
     },
     {
-      "rank": 15,
-      "fullName": "timhartmann7/omnyssh",
-      "url": "https://github.com/timhartmann7/omnyssh",
-      "description": "Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.",
-      "programmingLanguage": "Rust",
-      "stars": 1216,
-      "forks": 69,
-      "starsInPeriod": 488
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "fullName": "xingkongliang/skills-manager",
       "url": "https://github.com/xingkongliang/skills-manager",
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "programmingLanguage": "Rust",
-      "stars": 6660,
-      "forks": 538,
+      "stars": 6676,
+      "forks": 539,
       "starsInPeriod": 1791
     },
     {
-      "rank": 17,
-      "fullName": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
+      "rank": 14,
+      "fullName": "timhartmann7/omnyssh",
+      "url": "https://github.com/timhartmann7/omnyssh",
+      "description": "Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 120648,
-      "forks": 18722,
-      "starsInPeriod": 2751
+      "stars": 1218,
+      "forks": 69,
+      "starsInPeriod": 488
     },
     {
-      "rank": 18,
+      "rank": 15,
+      "fullName": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "programmingLanguage": "Rust",
+      "stars": 126595,
+      "forks": 19911,
+      "starsInPeriod": 2905
+    },
+    {
+      "rank": 16,
+      "fullName": "changexbc/workbuddy-switch",
+      "url": "https://github.com/changexbc/workbuddy-switch",
+      "description": "WorkBuddy、CodeBuddy 账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。",
+      "programmingLanguage": "Rust",
+      "stars": 1471,
+      "forks": 189,
+      "starsInPeriod": 739
+    },
+    {
+      "rank": 17,
       "fullName": "HakanSeven12/OpenCADStudio",
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 3428,
-      "forks": 402,
+      "stars": 3442,
+      "forks": 407,
       "starsInPeriod": 1252
     },
     {
-      "rank": 19,
+      "rank": 18,
       "fullName": "pydantic/monty",
       "url": "https://github.com/pydantic/monty",
       "description": "A secure Python sandbox, written in Rust, for code written by AI.",
       "programmingLanguage": "Rust",
-      "stars": 8749,
-      "forks": 468,
+      "stars": 8751,
+      "forks": 469,
       "starsInPeriod": 525
+    },
+    {
+      "rank": 19,
+      "fullName": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "programmingLanguage": "Rust",
+      "stars": 120661,
+      "forks": 18735,
+      "starsInPeriod": 2751
     },
     {
       "rank": 20,
@@ -204,19 +204,9 @@
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "programmingLanguage": "Rust",
-      "stars": 45395,
+      "stars": 45390,
       "forks": 6458,
       "starsInPeriod": 1942
-    },
-    {
-      "rank": 21,
-      "fullName": "zerx-lab/FluxDown",
-      "url": "https://github.com/zerx-lab/FluxDown",
-      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
-      "programmingLanguage": "Rust",
-      "stars": 4860,
-      "forks": 286,
-      "starsInPeriod": 1755
     }
   ]
 }

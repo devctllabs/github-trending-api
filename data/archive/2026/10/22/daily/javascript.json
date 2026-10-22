@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "updatedAt": "2026-10-22T04:42:55Z",
+  "updatedAt": "2026-10-22T11:50:49Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,41 +14,55 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 37036,
-      "forks": 2306,
-      "starsInPeriod": 2012,
+      "stars": 38057,
+      "forks": 2378,
+      "starsInPeriod": 2979,
       "bestRank": 1,
-      "latestRank": 1,
+      "latestRank": 2,
       "firstSeenAt": "2026-10-22T04:42:55Z",
-      "lastSeenAt": "2026-10-22T04:42:55Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-22T11:50:49Z",
+      "appearances": 2
     },
     {
       "fullName": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 171969,
-      "forks": 9357,
-      "starsInPeriod": 2079,
-      "bestRank": 2,
-      "latestRank": 2,
+      "stars": 172572,
+      "forks": 9384,
+      "starsInPeriod": 1949,
+      "bestRank": 1,
+      "latestRank": 1,
       "firstSeenAt": "2026-10-22T04:42:55Z",
-      "lastSeenAt": "2026-10-22T04:42:55Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-22T11:50:49Z",
+      "appearances": 2
     },
     {
       "fullName": "withmarbleapp/os-taxonomy",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "description": null,
       "programmingLanguage": "JavaScript",
-      "stars": 7093,
-      "forks": 1147,
+      "stars": 7154,
+      "forks": 1153,
       "starsInPeriod": 420,
       "bestRank": 3,
-      "latestRank": 3,
+      "latestRank": 6,
       "firstSeenAt": "2026-10-22T04:42:55Z",
-      "lastSeenAt": "2026-10-22T04:42:55Z",
+      "lastSeenAt": "2026-10-22T11:50:49Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "programmingLanguage": "JavaScript",
+      "stars": 122534,
+      "forks": 39925,
+      "starsInPeriod": 59,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-22T11:50:49Z",
+      "lastSeenAt": "2026-10-22T11:50:49Z",
       "appearances": 1
     },
     {
@@ -56,14 +70,14 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "programmingLanguage": "JavaScript",
-      "stars": 18599,
-      "forks": 1021,
+      "stars": 18713,
+      "forks": 1029,
       "starsInPeriod": 394,
       "bestRank": 4,
       "latestRank": 4,
       "firstSeenAt": "2026-10-22T04:42:55Z",
-      "lastSeenAt": "2026-10-22T04:42:55Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-22T11:50:49Z",
+      "appearances": 2
     },
     {
       "fullName": "NomaDamas/CozyClay",
@@ -77,6 +91,20 @@
       "latestRank": 5,
       "firstSeenAt": "2026-10-22T04:42:55Z",
       "lastSeenAt": "2026-10-22T04:42:55Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "adobe/skills",
+      "url": "https://github.com/adobe/skills",
+      "description": "Adobe Skills for Agents",
+      "programmingLanguage": "JavaScript",
+      "stars": 293,
+      "forks": 90,
+      "starsInPeriod": 6,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-22T11:50:49Z",
+      "lastSeenAt": "2026-10-22T11:50:49Z",
       "appearances": 1
     },
     {
@@ -108,18 +136,32 @@
       "appearances": 1
     },
     {
+      "fullName": "mrdoob/three.js",
+      "url": "https://github.com/mrdoob/three.js",
+      "description": "JavaScript 3D Library.",
+      "programmingLanguage": "JavaScript",
+      "stars": 116758,
+      "forks": 36690,
+      "starsInPeriod": 52,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-22T11:50:49Z",
+      "lastSeenAt": "2026-10-22T11:50:49Z",
+      "appearances": 1
+    },
+    {
       "fullName": "shaobeichen/dsh-pocket",
       "url": "https://github.com/shaobeichen/dsh-pocket",
       "description": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)",
       "programmingLanguage": "JavaScript",
-      "stars": 2198,
-      "forks": 97,
+      "stars": 2224,
+      "forks": 98,
       "starsInPeriod": 215,
       "bestRank": 8,
       "latestRank": 8,
       "firstSeenAt": "2026-10-22T04:42:55Z",
-      "lastSeenAt": "2026-10-22T04:42:55Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-22T11:50:49Z",
+      "appearances": 2
     }
   ]
 }

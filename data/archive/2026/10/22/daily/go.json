@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-10-22T04:42:44Z",
+  "updatedAt": "2026-10-22T11:50:38Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -24,17 +24,45 @@
       "appearances": 1
     },
     {
+      "fullName": "CarterPerez-dev/Cybersecurity-Projects",
+      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
+      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
+      "programmingLanguage": "Go",
+      "stars": 8450,
+      "forks": 1231,
+      "starsInPeriod": 38,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
+      "appearances": 1
+    },
+    {
       "fullName": "Asymptote-Labs/agent-beacon",
       "url": "https://github.com/Asymptote-Labs/agent-beacon",
       "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "programmingLanguage": "Go",
-      "stars": 2477,
-      "forks": 225,
+      "stars": 2545,
+      "forks": 231,
       "starsInPeriod": 443,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 6,
       "firstSeenAt": "2026-10-22T04:42:44Z",
-      "lastSeenAt": "2026-10-22T04:42:44Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "strelov1/freehire",
+      "url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "programmingLanguage": "Go",
+      "stars": 2694,
+      "forks": 264,
+      "starsInPeriod": 360,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
       "appearances": 1
     },
     {
@@ -52,6 +80,20 @@
       "appearances": 1
     },
     {
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "programmingLanguage": "Go",
+      "stars": 48009,
+      "forks": 3516,
+      "starsInPeriod": 225,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
+      "appearances": 1
+    },
+    {
       "fullName": "mudler/LocalAI",
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
@@ -66,17 +108,45 @@
       "appearances": 1
     },
     {
+      "fullName": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "programmingLanguage": "Go",
+      "stars": 111563,
+      "forks": 16784,
+      "starsInPeriod": 23,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
+      "appearances": 1
+    },
+    {
       "fullName": "larksuite/cli",
       "url": "https://github.com/larksuite/cli",
       "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
       "programmingLanguage": "Go",
-      "stars": 17771,
-      "forks": 1347,
+      "stars": 17787,
+      "forks": 1348,
       "starsInPeriod": 21,
       "bestRank": 5,
-      "latestRank": 5,
+      "latestRank": 16,
       "firstSeenAt": "2026-10-22T04:42:44Z",
-      "lastSeenAt": "2026-10-22T04:42:44Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "programmingLanguage": "Go",
+      "stars": 30357,
+      "forks": 7843,
+      "starsInPeriod": 4,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
       "appearances": 1
     },
     {
@@ -108,6 +178,20 @@
       "appearances": 1
     },
     {
+      "fullName": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "programmingLanguage": "Go",
+      "stars": 37924,
+      "forks": 3339,
+      "starsInPeriod": 67,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
+      "appearances": 1
+    },
+    {
       "fullName": "openbao/openbao",
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
@@ -119,6 +203,20 @@
       "latestRank": 8,
       "firstSeenAt": "2026-10-22T04:42:44Z",
       "lastSeenAt": "2026-10-22T04:42:44Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "zitadel/zitadel",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "ZITADEL - Identity infrastructure, simplified for you.",
+      "programmingLanguage": "Go",
+      "stars": 15384,
+      "forks": 1396,
+      "starsInPeriod": 20,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
       "appearances": 1
     },
     {
@@ -136,6 +234,20 @@
       "appearances": 1
     },
     {
+      "fullName": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "programmingLanguage": "Go",
+      "stars": 5012,
+      "forks": 4039,
+      "starsInPeriod": null,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
+      "appearances": 1
+    },
+    {
       "fullName": "argoproj/argo-cd",
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
@@ -147,6 +259,20 @@
       "latestRank": 10,
       "firstSeenAt": "2026-10-22T04:42:44Z",
       "lastSeenAt": "2026-10-22T04:42:44Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 38608,
+      "forks": 790,
+      "starsInPeriod": 33,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
       "appearances": 1
     },
     {
@@ -162,6 +288,34 @@
       "firstSeenAt": "2026-10-22T04:42:44Z",
       "lastSeenAt": "2026-10-22T04:42:44Z",
       "appearances": 1
+    },
+    {
+      "fullName": "samber/cc-skills-golang",
+      "url": "https://github.com/samber/cc-skills-golang",
+      "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+      "programmingLanguage": "Go",
+      "stars": 3559,
+      "forks": 238,
+      "starsInPeriod": 21,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "programmingLanguage": "Go",
+      "stars": 53537,
+      "forks": 7029,
+      "starsInPeriod": 131,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-10-22T04:42:44Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
+      "appearances": 2
     },
     {
       "fullName": "ys-ll/uniterm",
@@ -192,6 +346,20 @@
       "appearances": 1
     },
     {
+      "fullName": "grafana/alloy",
+      "url": "https://github.com/grafana/alloy",
+      "description": "OpenTelemetry Collector distribution with programmable pipelines",
+      "programmingLanguage": "Go",
+      "stars": 3629,
+      "forks": 744,
+      "starsInPeriod": 2,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
+      "appearances": 1
+    },
+    {
       "fullName": "DataDog/dd-trace-go",
       "url": "https://github.com/DataDog/dd-trace-go",
       "description": "Datadog Go Library including APM tracing, profiling, and security monitoring.",
@@ -206,17 +374,31 @@
       "appearances": 1
     },
     {
-      "fullName": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "fullName": "ltaoo/wx_channels_download",
+      "url": "https://github.com/ltaoo/wx_channels_download",
+      "description": "微信视频号下载器",
       "programmingLanguage": "Go",
-      "stars": 53470,
-      "forks": 7020,
-      "starsInPeriod": 131,
+      "stars": 10028,
+      "forks": 1657,
+      "starsInPeriod": 89,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "programmingLanguage": "Go",
+      "stars": 139415,
+      "forks": 22301,
+      "starsInPeriod": 63,
       "bestRank": 15,
       "latestRank": 15,
-      "firstSeenAt": "2026-10-22T04:42:44Z",
-      "lastSeenAt": "2026-10-22T04:42:44Z",
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
       "appearances": 1
     },
     {
@@ -231,6 +413,20 @@
       "latestRank": 16,
       "firstSeenAt": "2026-10-22T04:42:44Z",
       "lastSeenAt": "2026-10-22T04:42:44Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "programmingLanguage": "Go",
+      "stars": 128491,
+      "forks": 47097,
+      "starsInPeriod": 52,
+      "bestRank": 17,
+      "latestRank": 17,
+      "firstSeenAt": "2026-10-22T11:50:38Z",
+      "lastSeenAt": "2026-10-22T11:50:38Z",
       "appearances": 1
     }
   ]

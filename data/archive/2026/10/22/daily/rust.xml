@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — rust</title>
     <link>https://github.com/trending/rust</link>
     <description>GitHub Trending — daily — rust</description>
-    <lastBuildDate>Thu, 22 Oct 2026 04:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:50:27 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-10-22</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>rust</ght:language>
-    <ght:updatedAt>2026-10-22T04:42:34Z</ght:updatedAt>
+    <ght:updatedAt>2026-10-22T11:50:27Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -30,20 +30,52 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>nautechsystems/nautilus_trader</title>
+      <link>https://github.com/nautechsystems/nautilus_trader</link>
+      <description>Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
+      <guid isPermaLink="true">https://github.com/nautechsystems/nautilus_trader</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:27 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>30583</ght:stars>
+      <ght:forks>4121</ght:forks>
+      <ght:starsInPeriod>175</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T11:50:27Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:27Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>pbakaus/impeccable</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <description>The design language that makes your AI harness better at design.</description>
+      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
+      <pubDate>Thu, 22 Oct 2026 04:42:34 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>84720</ght:stars>
+      <ght:forks>5057</ght:forks>
+      <ght:starsInPeriod>669</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T04:42:34Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:27Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>trycua/cua</title>
       <link>https://github.com/trycua/cua</link>
       <description>Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.</description>
       <guid isPermaLink="true">https://github.com/trycua/cua</guid>
       <pubDate>Thu, 22 Oct 2026 04:42:34 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>30604</ght:stars>
-      <ght:forks>2216</ght:forks>
+      <ght:stars>30645</ght:stars>
+      <ght:forks>2219</ght:forks>
       <ght:starsInPeriod>170</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
-      <ght:latestRank>2</ght:latestRank>
+      <ght:latestRank>7</ght:latestRank>
       <ght:firstSeenAt>2026-10-22T04:42:34Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-22T04:42:34Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-22T11:50:27Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>openai/codex</title>
@@ -52,13 +84,29 @@
       <guid isPermaLink="true">https://github.com/openai/codex</guid>
       <pubDate>Thu, 22 Oct 2026 04:42:34 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>130349</ght:stars>
-      <ght:forks>20559</ght:forks>
+      <ght:stars>130413</ght:stars>
+      <ght:forks>20563</ght:forks>
       <ght:starsInPeriod>169</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
-      <ght:latestRank>3</ght:latestRank>
+      <ght:latestRank>6</ght:latestRank>
       <ght:firstSeenAt>2026-10-22T04:42:34Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-22T04:42:34Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:27Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>NVIDIA/OpenShell</title>
+      <link>https://github.com/NVIDIA/OpenShell</link>
+      <description>OpenShell is the safe, private runtime for autonomous AI agents.</description>
+      <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:27 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>17111</ght:stars>
+      <ght:forks>1817</ght:forks>
+      <ght:starsInPeriod>221</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T11:50:27Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:27Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -78,6 +126,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>agentgateway/agentgateway</title>
+      <link>https://github.com/agentgateway/agentgateway</link>
+      <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
+      <guid isPermaLink="true">https://github.com/agentgateway/agentgateway</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:27 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>5485</ght:stars>
+      <ght:forks>976</ght:forks>
+      <ght:starsInPeriod>34</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T11:50:27Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:27Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>farion1231/cc-switch</title>
       <link>https://github.com/farion1231/cc-switch</link>
       <description>A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io</description>
@@ -91,6 +155,22 @@
       <ght:latestRank>5</ght:latestRank>
       <ght:firstSeenAt>2026-10-22T04:42:34Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-22T04:42:34Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>pnpm/pnpm</title>
+      <link>https://github.com/pnpm/pnpm</link>
+      <description>Fast, disk space efficient package manager</description>
+      <guid isPermaLink="true">https://github.com/pnpm/pnpm</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:27 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>36891</ght:stars>
+      <ght:forks>1955</ght:forks>
+      <ght:starsInPeriod>17</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T11:50:27Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:27Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -142,6 +222,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>redlib-org/redlib</title>
+      <link>https://github.com/redlib-org/redlib</link>
+      <description>Private front-end for Reddit</description>
+      <guid isPermaLink="true">https://github.com/redlib-org/redlib</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:27 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>3872</ght:stars>
+      <ght:forks>293</ght:forks>
+      <ght:starsInPeriod>13</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T11:50:27Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:27Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>trymirai/uzu</title>
       <link>https://github.com/trymirai/uzu</link>
       <description>A high-performance inference engine for AI models</description>
@@ -155,6 +251,22 @@
       <ght:latestRank>9</ght:latestRank>
       <ght:firstSeenAt>2026-10-22T04:42:34Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-22T04:42:34Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>apache/iggy</title>
+      <link>https://github.com/apache/iggy</link>
+      <description>Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed</description>
+      <guid isPermaLink="true">https://github.com/apache/iggy</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:27 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>5158</ght:stars>
+      <ght:forks>485</ght:forks>
+      <ght:starsInPeriod>18</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T11:50:27Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:27Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -174,6 +286,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>astral-sh/uv</title>
+      <link>https://github.com/astral-sh/uv</link>
+      <description>An extremely fast Python package and project manager, written in Rust.</description>
+      <guid isPermaLink="true">https://github.com/astral-sh/uv</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:27 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>91012</ght:stars>
+      <ght:forks>3686</ght:forks>
+      <ght:starsInPeriod>61</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T11:50:27Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:27Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>EasyTier/EasyTier</title>
       <link>https://github.com/EasyTier/EasyTier</link>
       <description>A simple, decentralized mesh VPN with WireGuard support.</description>
@@ -190,6 +318,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>max-sixty/worktrunk</title>
+      <link>https://github.com/max-sixty/worktrunk</link>
+      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:27 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>9380</ght:stars>
+      <ght:forks>335</ght:forks>
+      <ght:starsInPeriod>31</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T11:50:27Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:27Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>oxc-project/oxc</title>
       <link>https://github.com/oxc-project/oxc</link>
       <description>⚓ A collection of high-performance JavaScript tools.</description>
@@ -201,22 +345,6 @@
       <ght:starsInPeriod>39</ght:starsInPeriod>
       <ght:bestRank>12</ght:bestRank>
       <ght:latestRank>12</ght:latestRank>
-      <ght:firstSeenAt>2026-10-22T04:42:34Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-22T04:42:34Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>pbakaus/impeccable</title>
-      <link>https://github.com/pbakaus/impeccable</link>
-      <description>The design language that makes your AI harness better at design.</description>
-      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Thu, 22 Oct 2026 04:42:34 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>84533</ght:stars>
-      <ght:forks>5053</ght:forks>
-      <ght:starsInPeriod>669</ght:starsInPeriod>
-      <ght:bestRank>13</ght:bestRank>
-      <ght:latestRank>13</ght:latestRank>
       <ght:firstSeenAt>2026-10-22T04:42:34Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-22T04:42:34Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>

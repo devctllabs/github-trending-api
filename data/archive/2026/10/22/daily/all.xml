@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — all</title>
     <link>https://github.com/trending</link>
     <description>GitHub Trending — daily — all</description>
-    <lastBuildDate>Thu, 22 Oct 2026 04:42:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:50:06 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-10-22</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>all</ght:language>
-    <ght:updatedAt>2026-10-22T04:42:13Z</ght:updatedAt>
+    <ght:updatedAt>2026-10-22T11:50:06Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,13 +20,29 @@
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
       <pubDate>Thu, 22 Oct 2026 04:42:13 GMT</pubDate>
       <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>37033</ght:stars>
-      <ght:forks>2305</ght:forks>
-      <ght:starsInPeriod>2012</ght:starsInPeriod>
+      <ght:stars>38057</ght:stars>
+      <ght:forks>2378</ght:forks>
+      <ght:starsInPeriod>2979</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T04:42:13Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:06Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>php/php-src</title>
+      <link>https://github.com/php/php-src</link>
+      <description>The PHP Interpreter</description>
+      <guid isPermaLink="true">https://github.com/php/php-src</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:06 GMT</pubDate>
+      <ght:programmingLanguage>C</ght:programmingLanguage>
+      <ght:stars>40771</ght:stars>
+      <ght:forks>8269</ght:forks>
+      <ght:starsInPeriod>110</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
-      <ght:firstSeenAt>2026-10-22T04:42:13Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-22T04:42:13Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-22T11:50:06Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:06Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -44,6 +60,38 @@
       <ght:firstSeenAt>2026-10-22T04:42:13Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-22T04:42:13Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>anthropics/knowledge-work-plugins</title>
+      <link>https://github.com/anthropics/knowledge-work-plugins</link>
+      <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
+      <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:06 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>31292</ght:stars>
+      <ght:forks>3505</ght:forks>
+      <ght:starsInPeriod>303</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T11:50:06Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:06Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>DietrichGebert/ponytail</title>
+      <link>https://github.com/DietrichGebert/ponytail</link>
+      <description>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
+      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
+      <pubDate>Thu, 22 Oct 2026 04:42:13 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>172571</ght:stars>
+      <ght:forks>9384</ght:forks>
+      <ght:starsInPeriod>1949</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T04:42:13Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:06Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>stablyai/orca</title>
@@ -78,20 +126,20 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>DietrichGebert/ponytail</title>
-      <link>https://github.com/DietrichGebert/ponytail</link>
-      <description>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
-      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
+      <title>Graphify-Labs/graphify</title>
+      <link>https://github.com/Graphify-Labs/graphify</link>
+      <description>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</description>
+      <guid isPermaLink="true">https://github.com/Graphify-Labs/graphify</guid>
       <pubDate>Thu, 22 Oct 2026 04:42:13 GMT</pubDate>
-      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>171969</ght:stars>
-      <ght:forks>9357</ght:forks>
-      <ght:starsInPeriod>2079</ght:starsInPeriod>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>132278</ght:stars>
+      <ght:forks>12678</ght:forks>
+      <ght:starsInPeriod>1407</ght:starsInPeriod>
       <ght:bestRank>5</ght:bestRank>
       <ght:latestRank>5</ght:latestRank>
       <ght:firstSeenAt>2026-10-22T04:42:13Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-22T04:42:13Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-10-22T11:50:06Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>Comfy-Org/ComfyUI</title>
@@ -116,13 +164,29 @@
       <guid isPermaLink="true">https://github.com/supabase/supabase</guid>
       <pubDate>Thu, 22 Oct 2026 04:42:13 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>113115</ght:stars>
-      <ght:forks>16961</ght:forks>
+      <ght:stars>113270</ght:stars>
+      <ght:forks>16986</ght:forks>
       <ght:starsInPeriod>504</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T04:42:13Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:06Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>fastapi/fastapi</title>
+      <link>https://github.com/fastapi/fastapi</link>
+      <description>FastAPI framework, high performance, easy to learn, fast to code, ready for production</description>
+      <guid isPermaLink="true">https://github.com/fastapi/fastapi</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:06 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>103399</ght:stars>
+      <ght:forks>10066</ght:forks>
+      <ght:starsInPeriod>96</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
-      <ght:firstSeenAt>2026-10-22T04:42:13Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-22T04:42:13Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-10-22T11:50:06Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:06Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -142,6 +206,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>luongnv89/claude-howto</title>
+      <link>https://github.com/luongnv89/claude-howto</link>
+      <description>A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.</description>
+      <guid isPermaLink="true">https://github.com/luongnv89/claude-howto</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:06 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>42616</ght:stars>
+      <ght:forks>5348</ght:forks>
+      <ght:starsInPeriod>428</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T11:50:06Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:06Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>shiyu-coder/Kronos</title>
       <link>https://github.com/shiyu-coder/Kronos</link>
       <description>Kronos: A Foundation Model for the Language of Financial Markets</description>
@@ -158,6 +238,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>Meloong-Git/PCL</title>
+      <link>https://github.com/Meloong-Git/PCL</link>
+      <description>Minecraft 启动器 Plain Craft Launcher（PCL）。</description>
+      <guid isPermaLink="true">https://github.com/Meloong-Git/PCL</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:06 GMT</pubDate>
+      <ght:programmingLanguage>Visual Basic .NET</ght:programmingLanguage>
+      <ght:stars>8534</ght:stars>
+      <ght:forks>1175</ght:forks>
+      <ght:starsInPeriod>115</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-10-22T11:50:06Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-22T11:50:06Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>akitaonrails/ai-memory</title>
       <link>https://github.com/akitaonrails/ai-memory</link>
       <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
@@ -169,22 +265,6 @@
       <ght:starsInPeriod>286</ght:starsInPeriod>
       <ght:bestRank>10</ght:bestRank>
       <ght:latestRank>10</ght:latestRank>
-      <ght:firstSeenAt>2026-10-22T04:42:13Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-22T04:42:13Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>Graphify-Labs/graphify</title>
-      <link>https://github.com/Graphify-Labs/graphify</link>
-      <description>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</description>
-      <guid isPermaLink="true">https://github.com/Graphify-Labs/graphify</guid>
-      <pubDate>Thu, 22 Oct 2026 04:42:13 GMT</pubDate>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>131864</ght:stars>
-      <ght:forks>12655</ght:forks>
-      <ght:starsInPeriod>1433</ght:starsInPeriod>
-      <ght:bestRank>11</ght:bestRank>
-      <ght:latestRank>11</ght:latestRank>
       <ght:firstSeenAt>2026-10-22T04:42:13Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-22T04:42:13Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>

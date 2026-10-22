@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-10-22T04:42:34Z",
+  "updatedAt": "2026-10-22T11:50:27Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -24,31 +24,73 @@
       "appearances": 1
     },
     {
+      "fullName": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "programmingLanguage": "Rust",
+      "stars": 30583,
+      "forks": 4121,
+      "starsInPeriod": 175,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-22T11:50:27Z",
+      "lastSeenAt": "2026-10-22T11:50:27Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "programmingLanguage": "Rust",
+      "stars": 84720,
+      "forks": 5057,
+      "starsInPeriod": 669,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-22T04:42:34Z",
+      "lastSeenAt": "2026-10-22T11:50:27Z",
+      "appearances": 2
+    },
+    {
       "fullName": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
       "programmingLanguage": "Rust",
-      "stars": 30604,
-      "forks": 2216,
+      "stars": 30645,
+      "forks": 2219,
       "starsInPeriod": 170,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 7,
       "firstSeenAt": "2026-10-22T04:42:34Z",
-      "lastSeenAt": "2026-10-22T04:42:34Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-22T11:50:27Z",
+      "appearances": 2
     },
     {
       "fullName": "openai/codex",
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "programmingLanguage": "Rust",
-      "stars": 130349,
-      "forks": 20559,
+      "stars": 130413,
+      "forks": 20563,
       "starsInPeriod": 169,
       "bestRank": 3,
-      "latestRank": 3,
+      "latestRank": 6,
       "firstSeenAt": "2026-10-22T04:42:34Z",
-      "lastSeenAt": "2026-10-22T04:42:34Z",
+      "lastSeenAt": "2026-10-22T11:50:27Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 17111,
+      "forks": 1817,
+      "starsInPeriod": 221,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-22T11:50:27Z",
+      "lastSeenAt": "2026-10-22T11:50:27Z",
       "appearances": 1
     },
     {
@@ -66,6 +108,20 @@
       "appearances": 1
     },
     {
+      "fullName": "agentgateway/agentgateway",
+      "url": "https://github.com/agentgateway/agentgateway",
+      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+      "programmingLanguage": "Rust",
+      "stars": 5485,
+      "forks": 976,
+      "starsInPeriod": 34,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-22T11:50:27Z",
+      "lastSeenAt": "2026-10-22T11:50:27Z",
+      "appearances": 1
+    },
+    {
       "fullName": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
@@ -77,6 +133,20 @@
       "latestRank": 5,
       "firstSeenAt": "2026-10-22T04:42:34Z",
       "lastSeenAt": "2026-10-22T04:42:34Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm",
+      "description": "Fast, disk space efficient package manager",
+      "programmingLanguage": "Rust",
+      "stars": 36891,
+      "forks": 1955,
+      "starsInPeriod": 17,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-22T11:50:27Z",
+      "lastSeenAt": "2026-10-22T11:50:27Z",
       "appearances": 1
     },
     {
@@ -122,6 +192,20 @@
       "appearances": 1
     },
     {
+      "fullName": "redlib-org/redlib",
+      "url": "https://github.com/redlib-org/redlib",
+      "description": "Private front-end for Reddit",
+      "programmingLanguage": "Rust",
+      "stars": 3872,
+      "forks": 293,
+      "starsInPeriod": 13,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-22T11:50:27Z",
+      "lastSeenAt": "2026-10-22T11:50:27Z",
+      "appearances": 1
+    },
+    {
       "fullName": "trymirai/uzu",
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
@@ -133,6 +217,20 @@
       "latestRank": 9,
       "firstSeenAt": "2026-10-22T04:42:34Z",
       "lastSeenAt": "2026-10-22T04:42:34Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "apache/iggy",
+      "url": "https://github.com/apache/iggy",
+      "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+      "programmingLanguage": "Rust",
+      "stars": 5158,
+      "forks": 485,
+      "starsInPeriod": 18,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-22T11:50:27Z",
+      "lastSeenAt": "2026-10-22T11:50:27Z",
       "appearances": 1
     },
     {
@@ -150,6 +248,20 @@
       "appearances": 1
     },
     {
+      "fullName": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "programmingLanguage": "Rust",
+      "stars": 91012,
+      "forks": 3686,
+      "starsInPeriod": 61,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-22T11:50:27Z",
+      "lastSeenAt": "2026-10-22T11:50:27Z",
+      "appearances": 1
+    },
+    {
       "fullName": "EasyTier/EasyTier",
       "url": "https://github.com/EasyTier/EasyTier",
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
@@ -164,6 +276,20 @@
       "appearances": 1
     },
     {
+      "fullName": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "programmingLanguage": "Rust",
+      "stars": 9380,
+      "forks": 335,
+      "starsInPeriod": 31,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-22T11:50:27Z",
+      "lastSeenAt": "2026-10-22T11:50:27Z",
+      "appearances": 1
+    },
+    {
       "fullName": "oxc-project/oxc",
       "url": "https://github.com/oxc-project/oxc",
       "description": "⚓ A collection of high-performance JavaScript tools.",
@@ -173,20 +299,6 @@
       "starsInPeriod": 39,
       "bestRank": 12,
       "latestRank": 12,
-      "firstSeenAt": "2026-10-22T04:42:34Z",
-      "lastSeenAt": "2026-10-22T04:42:34Z",
-      "appearances": 1
-    },
-    {
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "programmingLanguage": "Rust",
-      "stars": 84533,
-      "forks": 5053,
-      "starsInPeriod": 669,
-      "bestRank": 13,
-      "latestRank": 13,
       "firstSeenAt": "2026-10-22T04:42:34Z",
       "lastSeenAt": "2026-10-22T04:42:34Z",
       "appearances": 1
