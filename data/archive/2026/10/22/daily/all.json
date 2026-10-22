@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "updatedAt": "2026-10-22T11:50:06Z",
+  "updatedAt": "2026-10-22T17:09:24Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,28 +14,28 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 38057,
-      "forks": 2378,
+      "stars": 38740,
+      "forks": 2414,
       "starsInPeriod": 2979,
       "bestRank": 1,
       "latestRank": 4,
       "firstSeenAt": "2026-10-22T04:42:13Z",
-      "lastSeenAt": "2026-10-22T11:50:06Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-22T17:09:24Z",
+      "appearances": 3
     },
     {
       "fullName": "php/php-src",
       "url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
       "programmingLanguage": "C",
-      "stars": 40771,
-      "forks": 8269,
-      "starsInPeriod": 110,
+      "stars": 40988,
+      "forks": 8294,
+      "starsInPeriod": 423,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-22T11:50:06Z",
-      "lastSeenAt": "2026-10-22T11:50:06Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-22T17:09:24Z",
+      "appearances": 2
     },
     {
       "fullName": "vllm-project/vllm",
@@ -56,28 +56,28 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 31292,
-      "forks": 3505,
+      "stars": 31428,
+      "forks": 3520,
       "starsInPeriod": 303,
       "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-10-22T11:50:06Z",
-      "lastSeenAt": "2026-10-22T11:50:06Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-22T17:09:24Z",
+      "appearances": 2
     },
     {
       "fullName": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 172571,
-      "forks": 9384,
+      "stars": 172997,
+      "forks": 9416,
       "starsInPeriod": 1949,
       "bestRank": 3,
       "latestRank": 3,
       "firstSeenAt": "2026-10-22T04:42:13Z",
-      "lastSeenAt": "2026-10-22T11:50:06Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-22T17:09:24Z",
+      "appearances": 3
     },
     {
       "fullName": "stablyai/orca",
@@ -112,14 +112,14 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "programmingLanguage": "Python",
-      "stars": 132278,
-      "forks": 12678,
+      "stars": 132632,
+      "forks": 12700,
       "starsInPeriod": 1407,
       "bestRank": 5,
       "latestRank": 5,
       "firstSeenAt": "2026-10-22T04:42:13Z",
-      "lastSeenAt": "2026-10-22T11:50:06Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-22T17:09:24Z",
+      "appearances": 3
     },
     {
       "fullName": "Comfy-Org/ComfyUI",
@@ -140,28 +140,28 @@
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "programmingLanguage": "TypeScript",
-      "stars": 113270,
+      "stars": 113367,
       "forks": 16986,
-      "starsInPeriod": 504,
+      "starsInPeriod": 683,
       "bestRank": 6,
       "latestRank": 6,
       "firstSeenAt": "2026-10-22T04:42:13Z",
-      "lastSeenAt": "2026-10-22T11:50:06Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-22T17:09:24Z",
+      "appearances": 3
     },
     {
       "fullName": "fastapi/fastapi",
       "url": "https://github.com/fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "programmingLanguage": "Python",
-      "stars": 103399,
-      "forks": 10066,
+      "stars": 103564,
+      "forks": 10079,
       "starsInPeriod": 96,
       "bestRank": 7,
       "latestRank": 7,
       "firstSeenAt": "2026-10-22T11:50:06Z",
-      "lastSeenAt": "2026-10-22T11:50:06Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-22T17:09:24Z",
+      "appearances": 2
     },
     {
       "fullName": "twentyhq/twenty",
@@ -182,14 +182,14 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "programmingLanguage": "Python",
-      "stars": 42616,
-      "forks": 5348,
-      "starsInPeriod": 428,
+      "stars": 42872,
+      "forks": 5371,
+      "starsInPeriod": 370,
       "bestRank": 8,
       "latestRank": 8,
       "firstSeenAt": "2026-10-22T11:50:06Z",
-      "lastSeenAt": "2026-10-22T11:50:06Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-22T17:09:24Z",
+      "appearances": 2
     },
     {
       "fullName": "shiyu-coder/Kronos",
@@ -210,14 +210,14 @@
       "url": "https://github.com/Meloong-Git/PCL",
       "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
       "programmingLanguage": "Visual Basic .NET",
-      "stars": 8534,
-      "forks": 1175,
+      "stars": 8631,
+      "forks": 1193,
       "starsInPeriod": 115,
       "bestRank": 9,
       "latestRank": 9,
       "firstSeenAt": "2026-10-22T11:50:06Z",
-      "lastSeenAt": "2026-10-22T11:50:06Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-22T17:09:24Z",
+      "appearances": 2
     },
     {
       "fullName": "akitaonrails/ai-memory",
