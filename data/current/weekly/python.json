@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-10-23T04:47:30Z",
+  "observedAt": "2026-10-23T11:36:59Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,29 +14,29 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 43941,
-      "forks": 4626,
+      "stars": 44011,
+      "forks": 4631,
       "starsInPeriod": 5649
     },
     {
       "rank": 2,
-      "fullName": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "programmingLanguage": "Python",
-      "stars": 53950,
-      "forks": 4761,
-      "starsInPeriod": 3967
-    },
-    {
-      "rank": 3,
       "fullName": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 56308,
-      "forks": 5066,
+      "stars": 56428,
+      "forks": 5067,
       "starsInPeriod": 3275
+    },
+    {
+      "rank": 3,
+      "fullName": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "programmingLanguage": "Python",
+      "stars": 142184,
+      "forks": 16767,
+      "starsInPeriod": 4375
     },
     {
       "rank": 4,
@@ -44,89 +44,89 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 81970,
-      "forks": 9053,
+      "stars": 82333,
+      "forks": 9092,
       "starsInPeriod": 13581
     },
     {
       "rank": 5,
-      "fullName": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "fullName": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "programmingLanguage": "Python",
-      "stars": 142073,
-      "forks": 16754,
-      "starsInPeriod": 4375
+      "stars": 54067,
+      "forks": 4771,
+      "starsInPeriod": 3967
     },
     {
       "rank": 6,
+      "fullName": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "programmingLanguage": "Python",
+      "stars": 95210,
+      "forks": 23836,
+      "starsInPeriod": 1341
+    },
+    {
+      "rank": 7,
       "fullName": "wshobson/agents",
       "url": "https://github.com/wshobson/agents",
       "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "programmingLanguage": "Python",
-      "stars": 41578,
-      "forks": 4410,
+      "stars": 41592,
+      "forks": 4411,
       "starsInPeriod": 747
     },
     {
-      "rank": 7,
-      "fullName": "ethanplusai/harvey",
-      "url": "https://github.com/ethanplusai/harvey",
-      "description": "Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.",
-      "programmingLanguage": "Python",
-      "stars": 2163,
-      "forks": 441,
-      "starsInPeriod": 1300
-    },
-    {
       "rank": 8,
-      "fullName": "Kruk2/jasna",
-      "url": "https://github.com/Kruk2/jasna",
-      "description": "Video restoration tool",
+      "fullName": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "programmingLanguage": "Python",
-      "stars": 3455,
-      "forks": 262,
-      "starsInPeriod": 1422
+      "stars": 104033,
+      "forks": 10105,
+      "starsInPeriod": 1008
     },
     {
       "rank": 9,
-      "fullName": "sgl-project/sglang",
-      "url": "https://github.com/sgl-project/sglang",
-      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
-      "programmingLanguage": "Python",
-      "stars": 37639,
-      "forks": 9809,
-      "starsInPeriod": 505
-    },
-    {
-      "rank": 10,
       "fullName": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "programmingLanguage": "Python",
-      "stars": 43416,
-      "forks": 5405,
+      "stars": 43748,
+      "forks": 5428,
       "starsInPeriod": 982
     },
     {
+      "rank": 10,
+      "fullName": "Kruk2/jasna",
+      "url": "https://github.com/Kruk2/jasna",
+      "description": "Video restoration tool",
+      "programmingLanguage": "Python",
+      "stars": 3475,
+      "forks": 267,
+      "starsInPeriod": 1422
+    },
+    {
       "rank": 11,
+      "fullName": "ethanplusai/harvey",
+      "url": "https://github.com/ethanplusai/harvey",
+      "description": "Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.",
+      "programmingLanguage": "Python",
+      "stars": 2221,
+      "forks": 458,
+      "starsInPeriod": 1300
+    },
+    {
+      "rank": 12,
       "fullName": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "programmingLanguage": "Python",
-      "stars": 22587,
-      "forks": 2203,
+      "stars": 22651,
+      "forks": 2211,
       "starsInPeriod": 1917
-    },
-    {
-      "rank": 12,
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "programmingLanguage": "Python",
-      "stars": 134318,
-      "forks": 21237,
-      "starsInPeriod": 2907
     },
     {
       "rank": 13,
@@ -134,38 +134,28 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "programmingLanguage": "Python",
-      "stars": 43241,
-      "forks": 7119,
+      "stars": 43352,
+      "forks": 7144,
       "starsInPeriod": 2410
     },
     {
       "rank": 14,
-      "fullName": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "fullName": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
       "programmingLanguage": "Python",
-      "stars": 95170,
-      "forks": 23817,
-      "starsInPeriod": 1341
+      "stars": 37659,
+      "forks": 9823,
+      "starsInPeriod": 505
     },
     {
       "rank": 15,
-      "fullName": "lightseekorg/tokenspeed",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "programmingLanguage": "Python",
-      "stars": 2765,
-      "forks": 368,
-      "starsInPeriod": 386
-    },
-    {
-      "rank": 16,
       "fullName": "yt-dlp/yt-dlp",
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "programmingLanguage": "Python",
-      "stars": 200509,
-      "forks": 17485,
+      "stars": 200668,
+      "forks": 17498,
       "starsInPeriod": 2510
     }
   ]

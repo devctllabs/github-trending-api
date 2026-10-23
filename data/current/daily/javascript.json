@@ -4,99 +4,89 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-10-23T04:47:57Z",
+  "observedAt": "2026-10-23T11:37:27Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "programmingLanguage": "JavaScript",
-      "stars": 173785,
-      "forks": 9464,
-      "starsInPeriod": 1948
-    },
-    {
-      "rank": 2,
       "fullName": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 39926,
-      "forks": 2492,
-      "starsInPeriod": 2979
+      "stars": 40708,
+      "forks": 2535,
+      "starsInPeriod": 2706
     },
     {
-      "rank": 3,
+      "rank": 2,
       "fullName": "nodejs/node",
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "programmingLanguage": "JavaScript",
-      "stars": 122574,
-      "forks": 39925,
+      "stars": 122595,
+      "forks": 39932,
       "starsInPeriod": 76
     },
     {
+      "rank": 3,
+      "fullName": "projectdiscovery/nuclei-templates",
+      "url": "https://github.com/projectdiscovery/nuclei-templates",
+      "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+      "programmingLanguage": "JavaScript",
+      "stars": 13190,
+      "forks": 3706,
+      "starsInPeriod": 19
+    },
+    {
       "rank": 4,
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "programmingLanguage": "JavaScript",
+      "stars": 174334,
+      "forks": 9496,
+      "starsInPeriod": 1870
+    },
+    {
+      "rank": 5,
+      "fullName": "mailcow/mailcow-dockerized",
+      "url": "https://github.com/mailcow/mailcow-dockerized",
+      "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
+      "programmingLanguage": "JavaScript",
+      "stars": 13666,
+      "forks": 1849,
+      "starsInPeriod": 26
+    },
+    {
+      "rank": 6,
       "fullName": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "programmingLanguage": "JavaScript",
-      "stars": 18851,
-      "forks": 1039,
+      "stars": 18953,
+      "forks": 1048,
       "starsInPeriod": 311
     },
     {
-      "rank": 5,
-      "fullName": "adobe/skills",
-      "url": "https://github.com/adobe/skills",
-      "description": "Adobe Skills for Agents",
-      "programmingLanguage": "JavaScript",
-      "stars": 297,
-      "forks": 91,
-      "starsInPeriod": 7
-    },
-    {
-      "rank": 6,
-      "fullName": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "description": null,
-      "programmingLanguage": "JavaScript",
-      "stars": 7229,
-      "forks": 1164,
-      "starsInPeriod": 250
-    },
-    {
       "rank": 7,
-      "fullName": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "fullName": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
       "programmingLanguage": "JavaScript",
-      "stars": 101218,
-      "forks": 6838,
-      "starsInPeriod": 630
+      "stars": 1201,
+      "forks": 154,
+      "starsInPeriod": 385
     },
     {
       "rank": 8,
-      "fullName": "mrdoob/three.js",
-      "url": "https://github.com/mrdoob/three.js",
-      "description": "JavaScript 3D Library.",
+      "fullName": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
       "programmingLanguage": "JavaScript",
-      "stars": 116803,
-      "forks": 36699,
-      "starsInPeriod": 53
-    },
-    {
-      "rank": 9,
-      "fullName": "shaobeichen/dsh-pocket",
-      "url": "https://github.com/shaobeichen/dsh-pocket",
-      "description": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)",
-      "programmingLanguage": "JavaScript",
-      "stars": 2257,
-      "forks": 100,
-      "starsInPeriod": 88
+      "stars": 143193,
+      "forks": 34882,
+      "starsInPeriod": 78
     }
   ]
 }

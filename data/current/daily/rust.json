@@ -4,119 +4,169 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-23T04:47:37Z",
+  "observedAt": "2026-10-23T11:37:06Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "nautechsystems/nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "programmingLanguage": "Rust",
-      "stars": 30625,
-      "forks": 4127,
-      "starsInPeriod": 157
-    },
-    {
-      "rank": 2,
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "programmingLanguage": "Rust",
-      "stars": 85082,
-      "forks": 5079,
-      "starsInPeriod": 587
-    },
-    {
-      "rank": 3,
       "fullName": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 17939,
-      "forks": 1839,
+      "stars": 18225,
+      "forks": 1850,
       "starsInPeriod": 211
     },
     {
+      "rank": 2,
+      "fullName": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "programmingLanguage": "Rust",
+      "stars": 10311,
+      "forks": 1321,
+      "starsInPeriod": 430
+    },
+    {
+      "rank": 3,
+      "fullName": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "programmingLanguage": "Rust",
+      "stars": 4861,
+      "forks": 471,
+      "starsInPeriod": 35
+    },
+    {
       "rank": 4,
+      "fullName": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "programmingLanguage": "Rust",
+      "stars": 8371,
+      "forks": 1752,
+      "starsInPeriod": 14
+    },
+    {
+      "rank": 5,
       "fullName": "agentgateway/agentgateway",
       "url": "https://github.com/agentgateway/agentgateway",
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "programmingLanguage": "Rust",
-      "stars": 5511,
-      "forks": 977,
+      "stars": 5516,
+      "forks": 979,
       "starsInPeriod": 34
     },
     {
-      "rank": 5,
-      "fullName": "pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm",
-      "description": "Fast, disk space efficient package manager",
-      "programmingLanguage": "Rust",
-      "stars": 36901,
-      "forks": 1955,
-      "starsInPeriod": 16
-    },
-    {
       "rank": 6,
-      "fullName": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "programmingLanguage": "Rust",
-      "stars": 130510,
-      "forks": 20577,
-      "starsInPeriod": 181
-    },
-    {
-      "rank": 7,
-      "fullName": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
-      "programmingLanguage": "Rust",
-      "stars": 30719,
-      "forks": 2232,
-      "starsInPeriod": 132
-    },
-    {
-      "rank": 8,
-      "fullName": "redlib-org/redlib",
-      "url": "https://github.com/redlib-org/redlib",
-      "description": "Private front-end for Reddit",
-      "programmingLanguage": "Rust",
-      "stars": 3885,
-      "forks": 296,
-      "starsInPeriod": 13
-    },
-    {
-      "rank": 9,
-      "fullName": "apache/iggy",
-      "url": "https://github.com/apache/iggy",
-      "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
-      "programmingLanguage": "Rust",
-      "stars": 5173,
-      "forks": 485,
-      "starsInPeriod": 20
-    },
-    {
-      "rank": 10,
       "fullName": "astral-sh/uv",
       "url": "https://github.com/astral-sh/uv",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 91050,
-      "forks": 3687,
+      "stars": 91063,
+      "forks": 3686,
       "starsInPeriod": 59
     },
     {
-      "rank": 11,
+      "rank": 7,
+      "fullName": "ZSeven-W/openpencil",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "programmingLanguage": "Rust",
+      "stars": 6420,
+      "forks": 562,
+      "starsInPeriod": 39
+    },
+    {
+      "rank": 8,
+      "fullName": "harry0703/MangoDisk",
+      "url": "https://github.com/harry0703/MangoDisk",
+      "description": "Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
+      "programmingLanguage": "Rust",
+      "stars": 4579,
+      "forks": 309,
+      "starsInPeriod": 54
+    },
+    {
+      "rank": 9,
       "fullName": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 9400,
-      "forks": 336,
+      "stars": 9410,
+      "forks": 334,
       "starsInPeriod": 31
+    },
+    {
+      "rank": 10,
+      "fullName": "stalwartlabs/stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "programmingLanguage": "Rust",
+      "stars": 15252,
+      "forks": 1010,
+      "starsInPeriod": 27
+    },
+    {
+      "rank": 11,
+      "fullName": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "description": "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.",
+      "programmingLanguage": "Rust",
+      "stars": 536,
+      "forks": 69,
+      "starsInPeriod": 28
+    },
+    {
+      "rank": 12,
+      "fullName": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
+      "programmingLanguage": "Rust",
+      "stars": 24976,
+      "forks": 1484,
+      "starsInPeriod": 30
+    },
+    {
+      "rank": 13,
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "programmingLanguage": "Rust",
+      "stars": 12891,
+      "forks": 901,
+      "starsInPeriod": 283
+    },
+    {
+      "rank": 14,
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "programmingLanguage": "Rust",
+      "stars": 85230,
+      "forks": 5088,
+      "starsInPeriod": 587
+    },
+    {
+      "rank": 15,
+      "fullName": "redlib-org/redlib",
+      "url": "https://github.com/redlib-org/redlib",
+      "description": "Private front-end for Reddit",
+      "programmingLanguage": "Rust",
+      "stars": 3887,
+      "forks": 298,
+      "starsInPeriod": 13
+    },
+    {
+      "rank": 16,
+      "fullName": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "programmingLanguage": "Rust",
+      "stars": 130566,
+      "forks": 20584,
+      "starsInPeriod": 181
     }
   ]
 }

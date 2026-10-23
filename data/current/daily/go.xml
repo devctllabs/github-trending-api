@@ -4,205 +4,193 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Fri, 23 Oct 2026 04:47:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:37:16 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-10-23T04:47:47Z</ght:observedAt>
+    <ght:observedAt>2026-10-23T11:37:16Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
-      <title>CarterPerez-dev/Cybersecurity-Projects</title>
-      <link>https://github.com/CarterPerez-dev/Cybersecurity-Projects</link>
-      <description>Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇</description>
-      <guid isPermaLink="true">https://github.com/CarterPerez-dev/Cybersecurity-Projects</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
+      <title>prometheus/prometheus</title>
+      <link>https://github.com/prometheus/prometheus</link>
+      <description>The Prometheus monitoring system and time series database.</description>
+      <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>8474</ght:stars>
-      <ght:forks>1238</ght:forks>
-      <ght:starsInPeriod>31</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>alibaba/open-code-review</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <description>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
-      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>48090</ght:stars>
-      <ght:forks>3519</ght:forks>
-      <ght:starsInPeriod>226</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>microsoft/TypeScript</title>
-      <link>https://github.com/microsoft/TypeScript</link>
-      <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
-      <guid isPermaLink="true">https://github.com/microsoft/TypeScript</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>111574</ght:stars>
-      <ght:forks>16777</ght:forks>
-      <ght:starsInPeriod>25</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>helm/helm</title>
-      <link>https://github.com/helm/helm</link>
-      <description>The Kubernetes Package Manager</description>
-      <guid isPermaLink="true">https://github.com/helm/helm</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>30359</ght:stars>
-      <ght:forks>7849</ght:forks>
-      <ght:starsInPeriod>5</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>Asymptote-Labs/agent-beacon</title>
-      <link>https://github.com/Asymptote-Labs/agent-beacon</link>
-      <description>The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu</description>
-      <guid isPermaLink="true">https://github.com/Asymptote-Labs/agent-beacon</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>2641</ght:stars>
-      <ght:forks>240</ght:forks>
-      <ght:starsInPeriod>245</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>tailscale/tailscale</title>
-      <link>https://github.com/tailscale/tailscale</link>
-      <description>The easiest, most secure way to use WireGuard and 2FA.</description>
-      <guid isPermaLink="true">https://github.com/tailscale/tailscale</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>37968</ght:stars>
-      <ght:forks>3343</ght:forks>
-      <ght:starsInPeriod>68</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>zitadel/zitadel</title>
-      <link>https://github.com/zitadel/zitadel</link>
-      <description>ZITADEL - Identity infrastructure, simplified for you.</description>
-      <guid isPermaLink="true">https://github.com/zitadel/zitadel</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>15397</ght:stars>
-      <ght:forks>1398</ght:forks>
-      <ght:starsInPeriod>24</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>open-telemetry/opentelemetry-collector-contrib</title>
-      <link>https://github.com/open-telemetry/opentelemetry-collector-contrib</link>
-      <description>Contrib repository for the OpenTelemetry Collector</description>
-      <guid isPermaLink="true">https://github.com/open-telemetry/opentelemetry-collector-contrib</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>8</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>5014</ght:stars>
-      <ght:forks>4042</ght:forks>
-      <ght:starsInPeriod>2</ght:starsInPeriod>
+      <ght:stars>66712</ght:stars>
+      <ght:forks>10910</ght:forks>
+      <ght:starsInPeriod>36</ght:starsInPeriod>
     </item>
     <item>
       <title>aquasecurity/trivy</title>
       <link>https://github.com/aquasecurity/trivy</link>
       <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
       <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>9</ght:rank>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
+      <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>38634</ght:stars>
+      <ght:stars>38652</ght:stars>
       <ght:forks>794</ght:forks>
       <ght:starsInPeriod>46</ght:starsInPeriod>
     </item>
     <item>
-      <title>samber/cc-skills-golang</title>
-      <link>https://github.com/samber/cc-skills-golang</link>
-      <description>🧑‍🎨 A collection of Golang agentic skills that works</description>
-      <guid isPermaLink="true">https://github.com/samber/cc-skills-golang</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>10</ght:rank>
+      <title>Asymptote-Labs/agent-beacon</title>
+      <link>https://github.com/Asymptote-Labs/agent-beacon</link>
+      <description>The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu</description>
+      <guid isPermaLink="true">https://github.com/Asymptote-Labs/agent-beacon</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
+      <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>3584</ght:stars>
-      <ght:forks>240</ght:forks>
-      <ght:starsInPeriod>24</ght:starsInPeriod>
+      <ght:stars>2667</ght:stars>
+      <ght:forks>244</ght:forks>
+      <ght:starsInPeriod>245</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>fleetdm/fleet</title>
+      <link>https://github.com/fleetdm/fleet</link>
+      <description>Open device management</description>
+      <guid isPermaLink="true">https://github.com/fleetdm/fleet</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
+      <ght:rank>4</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7035</ght:stars>
+      <ght:forks>1080</ght:forks>
+      <ght:starsInPeriod>10</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>chaitin/SafeLine</title>
+      <link>https://github.com/chaitin/SafeLine</link>
+      <description>SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.</description>
+      <guid isPermaLink="true">https://github.com/chaitin/SafeLine</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
+      <ght:rank>5</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>22914</ght:stars>
+      <ght:forks>1568</ght:forks>
+      <ght:starsInPeriod>28</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>php/frankenphp</title>
+      <link>https://github.com/php/frankenphp</link>
+      <description>🧟 The modern PHP app server</description>
+      <guid isPermaLink="true">https://github.com/php/frankenphp</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
+      <ght:rank>6</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>11454</ght:stars>
+      <ght:forks>500</ght:forks>
+      <ght:starsInPeriod>8</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>infiniflow/ragflow</title>
+      <link>https://github.com/infiniflow/ragflow</link>
+      <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
+      <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
+      <ght:rank>7</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>92720</ght:stars>
+      <ght:forks>11081</ght:forks>
+      <ght:starsInPeriod>80</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>TencentCloud/CubeSandbox</title>
+      <link>https://github.com/TencentCloud/CubeSandbox</link>
+      <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
+      <guid isPermaLink="true">https://github.com/TencentCloud/CubeSandbox</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>13021</ght:stars>
+      <ght:forks>1179</ght:forks>
+      <ght:starsInPeriod>21</ght:starsInPeriod>
     </item>
     <item>
       <title>multica-ai/multica</title>
       <link>https://github.com/multica-ai/multica</link>
       <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
       <guid isPermaLink="true">https://github.com/multica-ai/multica</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>11</ght:rank>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
+      <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>53594</ght:stars>
-      <ght:forks>7033</ght:forks>
+      <ght:stars>53643</ght:stars>
+      <ght:forks>7037</ght:forks>
       <ght:starsInPeriod>145</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>grafana/alloy</title>
-      <link>https://github.com/grafana/alloy</link>
-      <description>OpenTelemetry Collector distribution with programmable pipelines</description>
-      <guid isPermaLink="true">https://github.com/grafana/alloy</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>12</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>3633</ght:stars>
-      <ght:forks>745</ght:forks>
-      <ght:starsInPeriod>3</ght:starsInPeriod>
     </item>
     <item>
       <title>ltaoo/wx_channels_download</title>
       <link>https://github.com/ltaoo/wx_channels_download</link>
       <description>微信视频号下载器</description>
       <guid isPermaLink="true">https://github.com/ltaoo/wx_channels_download</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>13</ght:rank>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
+      <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>10045</ght:stars>
-      <ght:forks>1659</ght:forks>
+      <ght:stars>10059</ght:stars>
+      <ght:forks>1664</ght:forks>
       <ght:starsInPeriod>66</ght:starsInPeriod>
     </item>
     <item>
-      <title>golang/go</title>
-      <link>https://github.com/golang/go</link>
-      <description>The Go programming language</description>
-      <guid isPermaLink="true">https://github.com/golang/go</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
+      <title>QuantumNous/new-api</title>
+      <link>https://github.com/QuantumNous/new-api</link>
+      <description>A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.</description>
+      <guid isPermaLink="true">https://github.com/QuantumNous/new-api</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
+      <ght:rank>11</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>50561</ght:stars>
+      <ght:forks>12227</ght:forks>
+      <ght:starsInPeriod>109</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>github/gh-stack</title>
+      <link>https://github.com/github/gh-stack</link>
+      <description>GitHub Stacked PRs</description>
+      <guid isPermaLink="true">https://github.com/github/gh-stack</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
+      <ght:rank>12</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>1714</ght:stars>
+      <ght:forks>86</ght:forks>
+      <ght:starsInPeriod>3</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>samber/cc-skills-golang</title>
+      <link>https://github.com/samber/cc-skills-golang</link>
+      <description>🧑‍🎨 A collection of Golang agentic skills that works</description>
+      <guid isPermaLink="true">https://github.com/samber/cc-skills-golang</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
+      <ght:rank>13</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>3589</ght:stars>
+      <ght:forks>241</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>chenyme/grok2api</title>
+      <link>https://github.com/chenyme/grok2api</link>
+      <description>Multi-account API gateway for Grok Build, Grok Web, and Grok Console</description>
+      <guid isPermaLink="true">https://github.com/chenyme/grok2api</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
       <ght:rank>14</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>139484</ght:stars>
-      <ght:forks>22298</ght:forks>
-      <ght:starsInPeriod>88</ght:starsInPeriod>
+      <ght:stars>7848</ght:stars>
+      <ght:forks>2341</ght:forks>
+      <ght:starsInPeriod>11</ght:starsInPeriod>
     </item>
     <item>
-      <title>larksuite/cli</title>
-      <link>https://github.com/larksuite/cli</link>
-      <description>The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.</description>
-      <guid isPermaLink="true">https://github.com/larksuite/cli</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
+      <title>zitadel/zitadel</title>
+      <link>https://github.com/zitadel/zitadel</link>
+      <description>ZITADEL - Identity infrastructure, simplified for you.</description>
+      <guid isPermaLink="true">https://github.com/zitadel/zitadel</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:16 GMT</pubDate>
       <ght:rank>15</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>17799</ght:stars>
-      <ght:forks>1352</ght:forks>
-      <ght:starsInPeriod>27</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>kubernetes/kubernetes</title>
-      <link>https://github.com/kubernetes/kubernetes</link>
-      <description>Production-Grade Container Scheduling and Management</description>
-      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:47 GMT</pubDate>
-      <ght:rank>16</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>128562</ght:stars>
-      <ght:forks>47097</ght:forks>
-      <ght:starsInPeriod>81</ght:starsInPeriod>
+      <ght:stars>15404</ght:stars>
+      <ght:forks>1398</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

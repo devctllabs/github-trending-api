@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=monthly",
-  "observedAt": "2026-10-23T04:48:03Z",
+  "observedAt": "2026-10-23T11:37:34Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 39926,
-      "forks": 2492,
+      "stars": 40710,
+      "forks": 2535,
       "starsInPeriod": 18566
     },
     {
@@ -24,29 +24,29 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 286651,
-      "forks": 42522,
+      "stars": 286908,
+      "forks": 42552,
       "starsInPeriod": 22715
     },
     {
       "rank": 3,
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "programmingLanguage": "JavaScript",
-      "stars": 109708,
-      "forks": 11444,
-      "starsInPeriod": 11681
-    },
-    {
-      "rank": 4,
       "fullName": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "programmingLanguage": "JavaScript",
-      "stars": 101218,
-      "forks": 6838,
+      "stars": 101382,
+      "forks": 6845,
       "starsInPeriod": 12311
+    },
+    {
+      "rank": 4,
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "programmingLanguage": "JavaScript",
+      "stars": 109797,
+      "forks": 11449,
+      "starsInPeriod": 11681
     },
     {
       "rank": 5,
@@ -54,8 +54,8 @@
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "programmingLanguage": "JavaScript",
-      "stars": 14986,
-      "forks": 1951,
+      "stars": 15083,
+      "forks": 1960,
       "starsInPeriod": 13705
     },
     {
@@ -64,29 +64,29 @@
       "url": "https://github.com/michael-denyer/pstack-claude",
       "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "programmingLanguage": "JavaScript",
-      "stars": 3310,
-      "forks": 307,
+      "stars": 3323,
+      "forks": 308,
       "starsInPeriod": 2773
     },
     {
       "rank": 7,
+      "fullName": "androoAGI/starnet",
+      "url": "https://github.com/androoAGI/starnet",
+      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "programmingLanguage": "JavaScript",
+      "stars": 1581,
+      "forks": 321,
+      "starsInPeriod": 1491
+    },
+    {
+      "rank": 8,
       "fullName": "hmjz100/LinkSwift",
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 27180,
-      "forks": 1804,
+      "stars": 27261,
+      "forks": 1808,
       "starsInPeriod": 6586
-    },
-    {
-      "rank": 8,
-      "fullName": "mnfst/awesome-free-llm-apis",
-      "url": "https://github.com/mnfst/awesome-free-llm-apis",
-      "description": "List of Permanent Free LLM API (API Keys)",
-      "programmingLanguage": "JavaScript",
-      "stars": 11013,
-      "forks": 1233,
-      "starsInPeriod": 2950
     },
     {
       "rank": 9,
@@ -94,12 +94,32 @@
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "description": null,
       "programmingLanguage": "JavaScript",
-      "stars": 7229,
-      "forks": 1164,
+      "stars": 7256,
+      "forks": 1171,
       "starsInPeriod": 2716
     },
     {
       "rank": 10,
+      "fullName": "mnfst/awesome-free-llm-apis",
+      "url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "description": "List of Permanent Free LLM API (API Keys)",
+      "programmingLanguage": "JavaScript",
+      "stars": 11040,
+      "forks": 1234,
+      "starsInPeriod": 2950
+    },
+    {
+      "rank": 11,
+      "fullName": "mrdoob/three.js",
+      "url": "https://github.com/mrdoob/three.js",
+      "description": "JavaScript 3D Library.",
+      "programmingLanguage": "JavaScript",
+      "stars": 116814,
+      "forks": 36703,
+      "starsInPeriod": 1342
+    },
+    {
+      "rank": 12,
       "fullName": "hughhowey/neo",
       "url": "https://github.com/hughhowey/neo",
       "description": "A novel-writing tool created by a novelist.",
@@ -109,84 +129,84 @@
       "starsInPeriod": 1113
     },
     {
-      "rank": 11,
-      "fullName": "mrdoob/three.js",
-      "url": "https://github.com/mrdoob/three.js",
-      "description": "JavaScript 3D Library.",
-      "programmingLanguage": "JavaScript",
-      "stars": 116803,
-      "forks": 36699,
-      "starsInPeriod": 1342
-    },
-    {
-      "rank": 12,
-      "fullName": "byoungd/up",
-      "url": "https://github.com/byoungd/up",
-      "description": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。",
-      "programmingLanguage": "JavaScript",
-      "stars": 69215,
-      "forks": 6874,
-      "starsInPeriod": 5935
-    },
-    {
       "rank": 13,
-      "fullName": "vercel-labs/agent-skills",
-      "url": "https://github.com/vercel-labs/agent-skills",
-      "description": "Vercel's official collection of agent skills",
-      "programmingLanguage": "JavaScript",
-      "stars": 32845,
-      "forks": 2872,
-      "starsInPeriod": 1461
-    },
-    {
-      "rank": 14,
-      "fullName": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "programmingLanguage": "JavaScript",
-      "stars": 143194,
-      "forks": 34875,
-      "starsInPeriod": 1667
-    },
-    {
-      "rank": 15,
       "fullName": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 173785,
-      "forks": 9464,
+      "stars": 174334,
+      "forks": 9496,
       "starsInPeriod": 30058
     },
     {
+      "rank": 14,
+      "fullName": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。",
+      "programmingLanguage": "JavaScript",
+      "stars": 69239,
+      "forks": 6876,
+      "starsInPeriod": 5935
+    },
+    {
+      "rank": 15,
+      "fullName": "vercel-labs/agent-skills",
+      "url": "https://github.com/vercel-labs/agent-skills",
+      "description": "Vercel's official collection of agent skills",
+      "programmingLanguage": "JavaScript",
+      "stars": 32866,
+      "forks": 2873,
+      "starsInPeriod": 1461
+    },
+    {
       "rank": 16,
+      "fullName": "plugin87/ux-ui-agent-skills",
+      "url": "https://github.com/plugin87/ux-ui-agent-skills",
+      "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
+      "programmingLanguage": "JavaScript",
+      "stars": 2869,
+      "forks": 274,
+      "starsInPeriod": 1443
+    },
+    {
+      "rank": 17,
       "fullName": "qist/tvbox",
       "url": "https://github.com/qist/tvbox",
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "programmingLanguage": "JavaScript",
-      "stars": 12212,
-      "forks": 4301,
+      "stars": 12224,
+      "forks": 4303,
       "starsInPeriod": 831
     },
     {
-      "rank": 17,
+      "rank": 18,
+      "fullName": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "programmingLanguage": "JavaScript",
+      "stars": 143193,
+      "forks": 34882,
+      "starsInPeriod": 1667
+    },
+    {
+      "rank": 19,
       "fullName": "spicetify/cli",
       "url": "https://github.com/spicetify/cli",
       "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
       "programmingLanguage": "JavaScript",
-      "stars": 25177,
+      "stars": 25180,
       "forks": 993,
       "starsInPeriod": 661
     },
     {
-      "rank": 18,
-      "fullName": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "rank": 20,
+      "fullName": "Neet-Nestor/Telegram-Media-Downloader",
+      "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader",
+      "description": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
       "programmingLanguage": "JavaScript",
-      "stars": 122574,
-      "forks": 39925,
-      "starsInPeriod": 1580
+      "stars": 6245,
+      "forks": 614,
+      "starsInPeriod": 724
     }
   ]
 }

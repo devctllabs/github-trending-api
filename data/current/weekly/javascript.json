@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=weekly",
-  "observedAt": "2026-10-23T04:48:00Z",
+  "observedAt": "2026-10-23T11:37:30Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/michael-denyer/pstack-claude",
       "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "programmingLanguage": "JavaScript",
-      "stars": 3310,
-      "forks": 307,
+      "stars": 3323,
+      "forks": 308,
       "starsInPeriod": 1066
     },
     {
@@ -24,78 +24,98 @@
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 27180,
-      "forks": 1804,
+      "stars": 27260,
+      "forks": 1808,
       "starsInPeriod": 4362
     },
     {
       "rank": 3,
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "programmingLanguage": "JavaScript",
-      "stars": 173785,
-      "forks": 9464,
-      "starsInPeriod": 9212
-    },
-    {
-      "rank": 4,
-      "fullName": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "programmingLanguage": "JavaScript",
-      "stars": 101218,
-      "forks": 6838,
-      "starsInPeriod": 4037
-    },
-    {
-      "rank": 5,
-      "fullName": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "programmingLanguage": "JavaScript",
-      "stars": 18851,
-      "forks": 1039,
-      "starsInPeriod": 1370
-    },
-    {
-      "rank": 6,
-      "fullName": "react/react",
-      "url": "https://github.com/react/react",
-      "description": "The library for web and native user interfaces.",
-      "programmingLanguage": "JavaScript",
-      "stars": 251707,
-      "forks": 51563,
-      "starsInPeriod": 876
-    },
-    {
-      "rank": 7,
-      "fullName": "datawhalechina/easy-vibe",
-      "url": "https://github.com/datawhalechina/easy-vibe",
-      "description": "💻 Vibe Coding 101｜Your First Course For AI Product Builders.",
-      "programmingLanguage": "JavaScript",
-      "stars": 20123,
-      "forks": 1946,
-      "starsInPeriod": 393
-    },
-    {
-      "rank": 8,
       "fullName": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 39926,
-      "forks": 2492,
+      "stars": 40708,
+      "forks": 2535,
       "starsInPeriod": 9270
     },
     {
+      "rank": 4,
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "programmingLanguage": "JavaScript",
+      "stars": 174334,
+      "forks": 9496,
+      "starsInPeriod": 9212
+    },
+    {
+      "rank": 5,
+      "fullName": "plugin87/ux-ui-agent-skills",
+      "url": "https://github.com/plugin87/ux-ui-agent-skills",
+      "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
+      "programmingLanguage": "JavaScript",
+      "stars": 2869,
+      "forks": 274,
+      "starsInPeriod": 896
+    },
+    {
+      "rank": 6,
+      "fullName": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "programmingLanguage": "JavaScript",
+      "stars": 18953,
+      "forks": 1048,
+      "starsInPeriod": 1370
+    },
+    {
+      "rank": 7,
+      "fullName": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "programmingLanguage": "JavaScript",
+      "stars": 101382,
+      "forks": 6845,
+      "starsInPeriod": 4037
+    },
+    {
+      "rank": 8,
+      "fullName": "datawhalechina/easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 Vibe Coding 101｜Your First Course For AI Product Builders.",
+      "programmingLanguage": "JavaScript",
+      "stars": 20131,
+      "forks": 1947,
+      "starsInPeriod": 393
+    },
+    {
       "rank": 9,
+      "fullName": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "programmingLanguage": "JavaScript",
+      "stars": 251709,
+      "forks": 51570,
+      "starsInPeriod": 876
+    },
+    {
+      "rank": 10,
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "programmingLanguage": "JavaScript",
+      "stars": 286908,
+      "forks": 42552,
+      "starsInPeriod": 6468
+    },
+    {
+      "rank": 11,
       "fullName": "Minglink/dsh-infinite-gen-5",
       "url": "https://github.com/Minglink/dsh-infinite-gen-5",
       "description": "DeepSeek v4.1 flash 逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进",
       "programmingLanguage": "JavaScript",
-      "stars": 3353,
-      "forks": 387,
+      "stars": 3368,
+      "forks": 388,
       "starsInPeriod": 474
     }
   ]

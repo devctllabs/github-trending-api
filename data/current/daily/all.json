@@ -4,99 +4,89 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-10-23T04:47:16Z",
+  "observedAt": "2026-10-23T11:36:45Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "php/php-src",
-      "url": "https://github.com/php/php-src",
-      "description": "The PHP Interpreter",
-      "programmingLanguage": "C",
-      "stars": 41261,
-      "forks": 8323,
-      "starsInPeriod": 287
-    },
-    {
-      "rank": 2,
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "programmingLanguage": "Python",
-      "stars": 31727,
-      "forks": 3542,
-      "starsInPeriod": 303
-    },
-    {
-      "rank": 3,
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "programmingLanguage": "JavaScript",
-      "stars": 173785,
-      "forks": 9463,
-      "starsInPeriod": 1948
-    },
-    {
-      "rank": 4,
       "fullName": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 39926,
-      "forks": 2492,
-      "starsInPeriod": 2979
+      "stars": 40707,
+      "forks": 2535,
+      "starsInPeriod": 2706
+    },
+    {
+      "rank": 2,
+      "fullName": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "programmingLanguage": "C",
+      "stars": 41443,
+      "forks": 8338,
+      "starsInPeriod": 722
+    },
+    {
+      "rank": 3,
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "programmingLanguage": "Python",
+      "stars": 31908,
+      "forks": 3549,
+      "starsInPeriod": 643
+    },
+    {
+      "rank": 4,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 18225,
+      "forks": 1850,
+      "starsInPeriod": 211
     },
     {
       "rank": 5,
-      "fullName": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "programmingLanguage": "Python",
-      "stars": 133173,
-      "forks": 12734,
-      "starsInPeriod": 1408
+      "fullName": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "programmingLanguage": "TypeScript",
+      "stars": 6552,
+      "forks": 1347,
+      "starsInPeriod": 547
     },
     {
       "rank": 6,
-      "fullName": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "programmingLanguage": "TypeScript",
-      "stars": 113559,
-      "forks": 17009,
-      "starsInPeriod": 693
+      "fullName": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "programmingLanguage": "Python",
+      "stars": 8009,
+      "forks": 1066,
+      "starsInPeriod": 209
     },
     {
       "rank": 7,
-      "fullName": "fastapi/fastapi",
-      "url": "https://github.com/fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "fullName": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "programmingLanguage": "Python",
-      "stars": 103868,
-      "forks": 10093,
-      "starsInPeriod": 101
+      "stars": 39993,
+      "forks": 4554,
+      "starsInPeriod": 144
     },
     {
       "rank": 8,
-      "fullName": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "programmingLanguage": "Python",
-      "stars": 43416,
-      "forks": 5405,
-      "starsInPeriod": 177
-    },
-    {
-      "rank": 9,
-      "fullName": "Meloong-Git/PCL",
-      "url": "https://github.com/Meloong-Git/PCL",
-      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "programmingLanguage": "Visual Basic .NET",
-      "stars": 8756,
-      "forks": 1212,
-      "starsInPeriod": 119
+      "fullName": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "programmingLanguage": "JavaScript",
+      "stars": 122594,
+      "forks": 39932,
+      "starsInPeriod": 76
     }
   ]
 }

@@ -4,169 +4,179 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-10-23T04:48:07Z",
+  "observedAt": "2026-10-23T11:37:38Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "fullName": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "programmingLanguage": "TypeScript",
-      "stars": 113559,
-      "forks": 17009,
-      "starsInPeriod": 693
+      "stars": 6552,
+      "forks": 1347,
+      "starsInPeriod": 547
     },
     {
       "rank": 2,
-      "fullName": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "fullName": "SehajveerSingh2005/bloom",
+      "url": "https://github.com/SehajveerSingh2005/bloom",
+      "description": "Bloom is a desktop companion that reimagines how you interact with Windows. It moves away from static, rigid interfaces and introduces a workspace that feels natural, fluid, and responsive.",
       "programmingLanguage": "TypeScript",
-      "stars": 20798,
-      "forks": 2564,
-      "starsInPeriod": 109
+      "stars": 326,
+      "forks": 37,
+      "starsInPeriod": 31
     },
     {
       "rank": 3,
-      "fullName": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "programmingLanguage": "TypeScript",
-      "stars": 59553,
-      "forks": 9696,
-      "starsInPeriod": 605
-    },
-    {
-      "rank": 4,
-      "fullName": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "programmingLanguage": "TypeScript",
-      "stars": 39701,
-      "forks": 5365,
-      "starsInPeriod": 625
-    },
-    {
-      "rank": 5,
-      "fullName": "genspark-ai/genoffice",
-      "url": "https://github.com/genspark-ai/genoffice",
-      "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
-      "programmingLanguage": "TypeScript",
-      "stars": 10572,
-      "forks": 1400,
-      "starsInPeriod": 193
-    },
-    {
-      "rank": 6,
-      "fullName": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "programmingLanguage": "TypeScript",
-      "stars": 89256,
-      "forks": 13697,
-      "starsInPeriod": 144
-    },
-    {
-      "rank": 7,
-      "fullName": "remotion-dev/remotion",
-      "url": "https://github.com/remotion-dev/remotion",
-      "description": "🎥 Make videos programmatically with React",
-      "programmingLanguage": "TypeScript",
-      "stars": 66437,
-      "forks": 5331,
-      "starsInPeriod": 348
-    },
-    {
-      "rank": 8,
-      "fullName": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": null,
-      "programmingLanguage": "TypeScript",
-      "stars": 29481,
-      "forks": 7909,
-      "starsInPeriod": 287
-    },
-    {
-      "rank": 9,
-      "fullName": "vitejs/vite",
-      "url": "https://github.com/vitejs/vite",
-      "description": "Next generation frontend tooling. It's fast!",
-      "programmingLanguage": "TypeScript",
-      "stars": 83469,
-      "forks": 8865,
-      "starsInPeriod": 35
-    },
-    {
-      "rank": 10,
-      "fullName": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "programmingLanguage": "TypeScript",
-      "stars": 194365,
-      "forks": 10259,
-      "starsInPeriod": 424
-    },
-    {
-      "rank": 11,
-      "fullName": "Dokploy/dokploy",
-      "url": "https://github.com/Dokploy/dokploy",
-      "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
-      "programmingLanguage": "TypeScript",
-      "stars": 37958,
-      "forks": 3115,
-      "starsInPeriod": 51
-    },
-    {
-      "rank": 12,
-      "fullName": "bowenliang123/dsh-context",
-      "url": "https://github.com/bowenliang123/dsh-context",
-      "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。",
-      "programmingLanguage": "TypeScript",
-      "stars": 3421,
-      "forks": 135,
-      "starsInPeriod": 296
-    },
-    {
-      "rank": 13,
-      "fullName": "EveryInc/compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "programmingLanguage": "TypeScript",
-      "stars": 25665,
-      "forks": 2029,
-      "starsInPeriod": 22
-    },
-    {
-      "rank": 14,
-      "fullName": "github/docs",
-      "url": "https://github.com/github/docs",
-      "description": "The open-source repo for docs.github.com",
-      "programmingLanguage": "TypeScript",
-      "stars": 21079,
-      "forks": 69203,
-      "starsInPeriod": 12
-    },
-    {
-      "rank": 15,
-      "fullName": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "programmingLanguage": "TypeScript",
-      "stars": 6961,
-      "forks": 941,
-      "starsInPeriod": 75
-    },
-    {
-      "rank": 16,
       "fullName": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "programmingLanguage": "TypeScript",
-      "stars": 102992,
-      "forks": 6502,
+      "stars": 103318,
+      "forks": 6524,
       "starsInPeriod": 1689
+    },
+    {
+      "rank": 4,
+      "fullName": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+      "programmingLanguage": "TypeScript",
+      "stars": 13138,
+      "forks": 1190,
+      "starsInPeriod": 262
+    },
+    {
+      "rank": 5,
+      "fullName": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "programmingLanguage": "TypeScript",
+      "stars": 113670,
+      "forks": 17022,
+      "starsInPeriod": 440
+    },
+    {
+      "rank": 6,
+      "fullName": "vitejs/vite",
+      "url": "https://github.com/vitejs/vite",
+      "description": "Next generation frontend tooling. It's fast!",
+      "programmingLanguage": "TypeScript",
+      "stars": 83476,
+      "forks": 8872,
+      "starsInPeriod": 35
+    },
+    {
+      "rank": 7,
+      "fullName": "logto-io/logto",
+      "url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "programmingLanguage": "TypeScript",
+      "stars": 14759,
+      "forks": 1200,
+      "starsInPeriod": 15
+    },
+    {
+      "rank": 8,
+      "fullName": "expo/expo",
+      "url": "https://github.com/expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "programmingLanguage": "TypeScript",
+      "stars": 53028,
+      "forks": 14732,
+      "starsInPeriod": 49
+    },
+    {
+      "rank": 9,
+      "fullName": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
+      "programmingLanguage": "TypeScript",
+      "stars": 26331,
+      "forks": 2559,
+      "starsInPeriod": 68
+    },
+    {
+      "rank": 10,
+      "fullName": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "programmingLanguage": "TypeScript",
+      "stars": 59575,
+      "forks": 9704,
+      "starsInPeriod": 605
+    },
+    {
+      "rank": 11,
+      "fullName": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
+      "programmingLanguage": "TypeScript",
+      "stars": 10610,
+      "forks": 1419,
+      "starsInPeriod": 193
+    },
+    {
+      "rank": 12,
+      "fullName": "liguobao/ds-harness-remote",
+      "url": "https://github.com/liguobao/ds-harness-remote",
+      "description": "一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.)",
+      "programmingLanguage": "TypeScript",
+      "stars": 754,
+      "forks": 73,
+      "starsInPeriod": 331
+    },
+    {
+      "rank": 13,
+      "fullName": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "programmingLanguage": "TypeScript",
+      "stars": 91633,
+      "forks": 12161,
+      "starsInPeriod": 102
+    },
+    {
+      "rank": 14,
+      "fullName": "genlayerlabs/genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "description": null,
+      "programmingLanguage": "TypeScript",
+      "stars": 19128,
+      "forks": 915,
+      "starsInPeriod": 82
+    },
+    {
+      "rank": 15,
+      "fullName": "Dokploy/dokploy",
+      "url": "https://github.com/Dokploy/dokploy",
+      "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+      "programmingLanguage": "TypeScript",
+      "stars": 37964,
+      "forks": 3118,
+      "starsInPeriod": 51
+    },
+    {
+      "rank": 16,
+      "fullName": "bowenliang123/dsh-context",
+      "url": "https://github.com/bowenliang123/dsh-context",
+      "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。",
+      "programmingLanguage": "TypeScript",
+      "stars": 3452,
+      "forks": 136,
+      "starsInPeriod": 296
+    },
+    {
+      "rank": 17,
+      "fullName": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "programmingLanguage": "TypeScript",
+      "stars": 194471,
+      "forks": 10263,
+      "starsInPeriod": 424
     }
   ]
 }

@@ -4,12 +4,12 @@
     <title>GitHub Trending — weekly — rust</title>
     <link>https://github.com/trending/rust?since=weekly</link>
     <description>GitHub Trending — weekly — rust</description>
-    <lastBuildDate>Fri, 23 Oct 2026 04:47:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:37:10 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>weekly</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-10-23T04:47:40Z</ght:observedAt>
+    <ght:observedAt>2026-10-23T11:37:10Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,11 +17,11 @@
       <link>https://github.com/akitaonrails/ai-memory</link>
       <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
       <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:40 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>12831</ght:stars>
-      <ght:forks>899</ght:forks>
+      <ght:stars>12891</ght:stars>
+      <ght:forks>901</ght:forks>
       <ght:starsInPeriod>3322</ght:starsInPeriod>
     </item>
     <item>
@@ -29,11 +29,11 @@
       <link>https://github.com/xerj-org/xerj</link>
       <description>Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
       <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:40 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
       <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>13172</ght:stars>
-      <ght:forks>946</ght:forks>
+      <ght:stars>13268</ght:stars>
+      <ght:forks>961</ght:forks>
       <ght:starsInPeriod>8064</ght:starsInPeriod>
     </item>
     <item>
@@ -41,11 +41,11 @@
       <link>https://github.com/oven-sh/bun</link>
       <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
       <guid isPermaLink="true">https://github.com/oven-sh/bun</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:40 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
       <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>96357</ght:stars>
-      <ght:forks>5106</ght:forks>
+      <ght:stars>96355</ght:stars>
+      <ght:forks>5112</ght:forks>
       <ght:starsInPeriod>191</ght:starsInPeriod>
     </item>
     <item>
@@ -53,11 +53,11 @@
       <link>https://github.com/mixelpixx/Konnect</link>
       <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
       <guid isPermaLink="true">https://github.com/mixelpixx/Konnect</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:40 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
       <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1364</ght:stars>
-      <ght:forks>163</ght:forks>
+      <ght:stars>1375</ght:stars>
+      <ght:forks>165</ght:forks>
       <ght:starsInPeriod>378</ght:starsInPeriod>
     </item>
     <item>
@@ -65,35 +65,59 @@
       <link>https://github.com/GCWing/OpenBitFun</link>
       <description>OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.</description>
       <guid isPermaLink="true">https://github.com/GCWing/OpenBitFun</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:40 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
       <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>3054</ght:stars>
-      <ght:forks>277</ght:forks>
+      <ght:stars>3099</ght:stars>
+      <ght:forks>278</ght:forks>
       <ght:starsInPeriod>639</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>leepokai/Codync</title>
+      <link>https://github.com/leepokai/Codync</link>
+      <description>The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.</description>
+      <guid isPermaLink="true">https://github.com/leepokai/Codync</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
+      <ght:rank>6</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>746</ght:stars>
+      <ght:forks>92</ght:forks>
+      <ght:starsInPeriod>308</ght:starsInPeriod>
     </item>
     <item>
       <title>trymirai/uzu</title>
       <link>https://github.com/trymirai/uzu</link>
       <description>A high-performance inference engine for AI models</description>
       <guid isPermaLink="true">https://github.com/trymirai/uzu</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:40 GMT</pubDate>
-      <ght:rank>6</ght:rank>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
+      <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>2543</ght:stars>
+      <ght:stars>2546</ght:stars>
       <ght:forks>146</ght:forks>
       <ght:starsInPeriod>198</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>pollen-robotics/microduck</title>
+      <link>https://github.com/pollen-robotics/microduck</link>
+      <description>A Tiny biped duck robot 🦆</description>
+      <guid isPermaLink="true">https://github.com/pollen-robotics/microduck</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>10311</ght:stars>
+      <ght:forks>1321</ght:forks>
+      <ght:starsInPeriod>847</ght:starsInPeriod>
     </item>
     <item>
       <title>googleworkspace/cli</title>
       <link>https://github.com/googleworkspace/cli</link>
       <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</description>
       <guid isPermaLink="true">https://github.com/googleworkspace/cli</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:40 GMT</pubDate>
-      <ght:rank>7</ght:rank>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
+      <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>31800</ght:stars>
-      <ght:forks>1949</ght:forks>
+      <ght:stars>31807</ght:stars>
+      <ght:forks>1951</ght:forks>
       <ght:starsInPeriod>275</ght:starsInPeriod>
     </item>
     <item>
@@ -101,36 +125,72 @@
       <link>https://github.com/ModernRelay/omnigraph</link>
       <description>Object-storage native graph database with branching and typed ontology</description>
       <guid isPermaLink="true">https://github.com/ModernRelay/omnigraph</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:40 GMT</pubDate>
-      <ght:rank>8</ght:rank>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
+      <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1673</ght:stars>
-      <ght:forks>237</ght:forks>
+      <ght:stars>1681</ght:stars>
+      <ght:forks>238</ght:forks>
       <ght:starsInPeriod>378</ght:starsInPeriod>
     </item>
     <item>
-      <title>storytold/artcraft</title>
-      <link>https://github.com/storytold/artcraft</link>
-      <description>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</description>
-      <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:40 GMT</pubDate>
-      <ght:rank>9</ght:rank>
+      <title>claration/impactor</title>
+      <link>https://github.com/claration/impactor</link>
+      <description>Cross-platform &amp; feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.</description>
+      <guid isPermaLink="true">https://github.com/claration/impactor</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
+      <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>35679</ght:stars>
-      <ght:forks>5645</ght:forks>
-      <ght:starsInPeriod>6721</ght:starsInPeriod>
+      <ght:stars>3574</ght:stars>
+      <ght:forks>247</ght:forks>
+      <ght:starsInPeriod>91</ght:starsInPeriod>
     </item>
     <item>
-      <title>voidzero-dev/vite-plus</title>
-      <link>https://github.com/voidzero-dev/vite-plus</link>
-      <description>The unified toolchain and entry point for web development.</description>
-      <guid isPermaLink="true">https://github.com/voidzero-dev/vite-plus</guid>
-      <pubDate>Fri, 23 Oct 2026 04:47:40 GMT</pubDate>
-      <ght:rank>10</ght:rank>
+      <title>BrandonKowalski/slot</title>
+      <link>https://github.com/BrandonKowalski/slot</link>
+      <description>A bespoke, Game Boy-centric CFW for the RG SP.</description>
+      <guid isPermaLink="true">https://github.com/BrandonKowalski/slot</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
+      <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>6450</ght:stars>
-      <ght:forks>296</ght:forks>
-      <ght:starsInPeriod>225</ght:starsInPeriod>
+      <ght:stars>240</ght:stars>
+      <ght:forks>68</ght:forks>
+      <ght:starsInPeriod>64</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>HakanSeven12/OpenCADStudio</title>
+      <link>https://github.com/HakanSeven12/OpenCADStudio</link>
+      <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
+      <guid isPermaLink="true">https://github.com/HakanSeven12/OpenCADStudio</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
+      <ght:rank>13</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>3464</ght:stars>
+      <ght:forks>411</ght:forks>
+      <ght:starsInPeriod>367</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>oxc-project/oxc</title>
+      <link>https://github.com/oxc-project/oxc</link>
+      <description>⚓ A collection of high-performance JavaScript tools.</description>
+      <guid isPermaLink="true">https://github.com/oxc-project/oxc</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
+      <ght:rank>14</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>23198</ght:stars>
+      <ght:forks>1400</ght:forks>
+      <ght:starsInPeriod>130</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>martin-olivier/airgorah</title>
+      <link>https://github.com/martin-olivier/airgorah</link>
+      <description>A WiFi security auditing software</description>
+      <guid isPermaLink="true">https://github.com/martin-olivier/airgorah</guid>
+      <pubDate>Fri, 23 Oct 2026 11:37:10 GMT</pubDate>
+      <ght:rank>15</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>4727</ght:stars>
+      <ght:forks>792</ght:forks>
+      <ght:starsInPeriod>521</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

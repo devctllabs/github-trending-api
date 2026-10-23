@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-10-23T04:47:27Z",
+  "observedAt": "2026-10-23T11:36:56Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,129 +14,109 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 31727,
-      "forks": 3542,
-      "starsInPeriod": 303
+      "stars": 31908,
+      "forks": 3549,
+      "starsInPeriod": 643
     },
     {
       "rank": 2,
+      "fullName": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "programmingLanguage": "Python",
+      "stars": 8009,
+      "forks": 1066,
+      "starsInPeriod": 209
+    },
+    {
+      "rank": 3,
+      "fullName": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "programmingLanguage": "Python",
+      "stars": 39993,
+      "forks": 4554,
+      "starsInPeriod": 144
+    },
+    {
+      "rank": 4,
+      "fullName": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "programmingLanguage": "Python",
+      "stars": 28254,
+      "forks": 2995,
+      "starsInPeriod": 93
+    },
+    {
+      "rank": 5,
+      "fullName": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "programmingLanguage": "Python",
+      "stars": 113205,
+      "forks": 21900,
+      "starsInPeriod": 498
+    },
+    {
+      "rank": 6,
       "fullName": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "programmingLanguage": "Python",
-      "stars": 133173,
-      "forks": 12734,
-      "starsInPeriod": 1408
-    },
-    {
-      "rank": 3,
-      "fullName": "fastapi/fastapi",
-      "url": "https://github.com/fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-      "programmingLanguage": "Python",
-      "stars": 103868,
-      "forks": 10093,
-      "starsInPeriod": 101
-    },
-    {
-      "rank": 4,
-      "fullName": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "programmingLanguage": "Python",
-      "stars": 43416,
-      "forks": 5405,
-      "starsInPeriod": 177
-    },
-    {
-      "rank": 5,
-      "fullName": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "programmingLanguage": "Python",
-      "stars": 95170,
-      "forks": 23817,
-      "starsInPeriod": 440
-    },
-    {
-      "rank": 6,
-      "fullName": "headroomlabs-ai/headroom",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "programmingLanguage": "Python",
-      "stars": 77583,
-      "forks": 6020,
-      "starsInPeriod": 517
+      "stars": 133531,
+      "forks": 12760,
+      "starsInPeriod": 1328
     },
     {
       "rank": 7,
-      "fullName": "Z4nzu/hackingtool",
-      "url": "https://github.com/Z4nzu/hackingtool",
-      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "fullName": "Mailu/Mailu",
+      "url": "https://github.com/Mailu/Mailu",
+      "description": "Insular email distribution - mail server as Docker images",
       "programmingLanguage": "Python",
-      "stars": 81302,
-      "forks": 9163,
-      "starsInPeriod": 50
+      "stars": 7577,
+      "forks": 1022,
+      "starsInPeriod": 5
     },
     {
       "rank": 8,
-      "fullName": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "fullName": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "programmingLanguage": "Python",
-      "stars": 43241,
-      "forks": 7119,
-      "starsInPeriod": 500
+      "stars": 35815,
+      "forks": 3783,
+      "starsInPeriod": 139
     },
     {
       "rank": 9,
-      "fullName": "NanmiCoder/MediaCrawler",
-      "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "programmingLanguage": "Python",
-      "stars": 67736,
-      "forks": 12916,
-      "starsInPeriod": 102
-    },
-    {
-      "rank": 10,
-      "fullName": "BerriAI/litellm",
-      "url": "https://github.com/BerriAI/litellm",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "programmingLanguage": "Python",
-      "stars": 61859,
-      "forks": 12587,
-      "starsInPeriod": 107
-    },
-    {
-      "rank": 11,
-      "fullName": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "programmingLanguage": "Python",
-      "stars": 142073,
-      "forks": 16754,
-      "starsInPeriod": 681
-    },
-    {
-      "rank": 12,
       "fullName": "onyx-dot-app/onyx",
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "programmingLanguage": "Python",
-      "stars": 32878,
+      "stars": 32898,
       "forks": 4619,
       "starsInPeriod": 181
     },
     {
-      "rank": 13,
-      "fullName": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "rank": 10,
+      "fullName": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "programmingLanguage": "Python",
-      "stars": 36354,
-      "forks": 5881,
-      "starsInPeriod": 171
+      "stars": 95210,
+      "forks": 23836,
+      "starsInPeriod": 440
+    },
+    {
+      "rank": 11,
+      "fullName": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "programmingLanguage": "Python",
+      "stars": 43748,
+      "forks": 5428,
+      "starsInPeriod": 1168
     }
   ]
 }

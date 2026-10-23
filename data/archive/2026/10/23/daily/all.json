@@ -5,37 +5,51 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "updatedAt": "2026-10-23T04:47:16Z",
+  "updatedAt": "2026-10-23T11:36:45Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
+    {
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "programmingLanguage": "JavaScript",
+      "stars": 40707,
+      "forks": 2535,
+      "starsInPeriod": 2706,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-23T04:47:16Z",
+      "lastSeenAt": "2026-10-23T11:36:45Z",
+      "appearances": 2
+    },
     {
       "fullName": "php/php-src",
       "url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
       "programmingLanguage": "C",
-      "stars": 41261,
-      "forks": 8323,
-      "starsInPeriod": 287,
+      "stars": 41443,
+      "forks": 8338,
+      "starsInPeriod": 722,
       "bestRank": 1,
-      "latestRank": 1,
+      "latestRank": 2,
       "firstSeenAt": "2026-10-23T04:47:16Z",
-      "lastSeenAt": "2026-10-23T04:47:16Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-23T11:36:45Z",
+      "appearances": 2
     },
     {
       "fullName": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 31727,
-      "forks": 3542,
-      "starsInPeriod": 303,
+      "stars": 31908,
+      "forks": 3549,
+      "starsInPeriod": 643,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 3,
       "firstSeenAt": "2026-10-23T04:47:16Z",
-      "lastSeenAt": "2026-10-23T04:47:16Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-23T11:36:45Z",
+      "appearances": 2
     },
     {
       "fullName": "DietrichGebert/ponytail",
@@ -52,17 +66,17 @@
       "appearances": 1
     },
     {
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "programmingLanguage": "JavaScript",
-      "stars": 39926,
-      "forks": 2492,
-      "starsInPeriod": 2979,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 18225,
+      "forks": 1850,
+      "starsInPeriod": 211,
       "bestRank": 4,
       "latestRank": 4,
-      "firstSeenAt": "2026-10-23T04:47:16Z",
-      "lastSeenAt": "2026-10-23T04:47:16Z",
+      "firstSeenAt": "2026-10-23T11:36:45Z",
+      "lastSeenAt": "2026-10-23T11:36:45Z",
       "appearances": 1
     },
     {
@@ -80,6 +94,20 @@
       "appearances": 1
     },
     {
+      "fullName": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "programmingLanguage": "TypeScript",
+      "stars": 6552,
+      "forks": 1347,
+      "starsInPeriod": 547,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-23T11:36:45Z",
+      "lastSeenAt": "2026-10-23T11:36:45Z",
+      "appearances": 1
+    },
+    {
       "fullName": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
@@ -91,6 +119,20 @@
       "latestRank": 6,
       "firstSeenAt": "2026-10-23T04:47:16Z",
       "lastSeenAt": "2026-10-23T04:47:16Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "programmingLanguage": "Python",
+      "stars": 8009,
+      "forks": 1066,
+      "starsInPeriod": 209,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-23T11:36:45Z",
+      "lastSeenAt": "2026-10-23T11:36:45Z",
       "appearances": 1
     },
     {
@@ -108,6 +150,20 @@
       "appearances": 1
     },
     {
+      "fullName": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "programmingLanguage": "Python",
+      "stars": 39993,
+      "forks": 4554,
+      "starsInPeriod": 144,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-23T11:36:45Z",
+      "lastSeenAt": "2026-10-23T11:36:45Z",
+      "appearances": 1
+    },
+    {
       "fullName": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
@@ -119,6 +175,20 @@
       "latestRank": 8,
       "firstSeenAt": "2026-10-23T04:47:16Z",
       "lastSeenAt": "2026-10-23T04:47:16Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "programmingLanguage": "JavaScript",
+      "stars": 122594,
+      "forks": 39932,
+      "starsInPeriod": 76,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-23T11:36:45Z",
+      "lastSeenAt": "2026-10-23T11:36:45Z",
       "appearances": 1
     },
     {
