@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-10-23T21:23:33Z",
+  "observedAt": "2026-10-24T04:34:42Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 32161,
-      "forks": 3567,
-      "starsInPeriod": 643
+      "stars": 32315,
+      "forks": 3576,
+      "starsInPeriod": 635
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "programmingLanguage": "Python",
-      "stars": 8380,
-      "forks": 1090,
-      "starsInPeriod": 209
+      "stars": 8596,
+      "forks": 1106,
+      "starsInPeriod": 226
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "programmingLanguage": "Python",
-      "stars": 40204,
-      "forks": 4571,
-      "starsInPeriod": 144
+      "stars": 40339,
+      "forks": 4582,
+      "starsInPeriod": 150
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/baidu/Unlimited-OCR",
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "programmingLanguage": "Python",
-      "stars": 28281,
-      "forks": 3002,
-      "starsInPeriod": 93
+      "stars": 28293,
+      "forks": 3003,
+      "starsInPeriod": 75
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "programmingLanguage": "Python",
-      "stars": 113362,
-      "forks": 21939,
-      "starsInPeriod": 498
+      "stars": 113441,
+      "forks": 21958,
+      "starsInPeriod": 485
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "programmingLanguage": "Python",
-      "stars": 133857,
-      "forks": 12787,
-      "starsInPeriod": 1328
+      "stars": 133973,
+      "forks": 12796,
+      "starsInPeriod": 1173
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/Mailu/Mailu",
       "description": "Insular email distribution - mail server as Docker images",
       "programmingLanguage": "Python",
-      "stars": 7583,
-      "forks": 1022,
-      "starsInPeriod": 5
+      "stars": 7585,
+      "forks": 1023,
+      "starsInPeriod": 4
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "programmingLanguage": "Python",
-      "stars": 35865,
-      "forks": 3790,
-      "starsInPeriod": 139
+      "stars": 35898,
+      "forks": 3798,
+      "starsInPeriod": 143
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "programmingLanguage": "Python",
-      "stars": 32925,
-      "forks": 4623,
-      "starsInPeriod": 84
+      "stars": 32933,
+      "forks": 4625,
+      "starsInPeriod": 86
     },
     {
       "rank": 10,
@@ -104,19 +104,29 @@
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "programmingLanguage": "Python",
-      "stars": 95243,
-      "forks": 23858,
-      "starsInPeriod": 111
+      "stars": 95262,
+      "forks": 23865,
+      "starsInPeriod": 108
     },
     {
       "rank": 11,
+      "fullName": "Anil-matcha/open-duet",
+      "url": "https://github.com/Anil-matcha/open-duet",
+      "description": "Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act. Also an alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and ChatGPT agent.",
+      "programmingLanguage": "Python",
+      "stars": 6117,
+      "forks": 758,
+      "starsInPeriod": 68
+    },
+    {
+      "rank": 12,
       "fullName": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "programmingLanguage": "Python",
-      "stars": 43966,
-      "forks": 5449,
-      "starsInPeriod": 1168
+      "stars": 44047,
+      "forks": 5457,
+      "starsInPeriod": 1053
     }
   ]
 }
