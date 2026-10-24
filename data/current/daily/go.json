@@ -4,169 +4,169 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-24T10:58:23Z",
+  "observedAt": "2026-10-24T15:56:09Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
+      "fullName": "github/gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
       "programmingLanguage": "Go",
-      "stars": 66730,
-      "forks": 10914,
-      "starsInPeriod": 34
+      "stars": 5454,
+      "forks": 597,
+      "starsInPeriod": 8
     },
     {
       "rank": 2,
-      "fullName": "strelov1/freehire",
-      "url": "https://github.com/strelov1/freehire",
-      "description": "freehire — the open-source search engine for job seekers",
+      "fullName": "Gentleman-Programming/gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "programmingLanguage": "Go",
-      "stars": 2940,
-      "forks": 291,
-      "starsInPeriod": 186
+      "stars": 7982,
+      "forks": 860,
+      "starsInPeriod": 31
     },
     {
       "rank": 3,
-      "fullName": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "fullName": "Gaurav-Gosain/tuios",
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
       "programmingLanguage": "Go",
-      "stars": 38684,
-      "forks": 795,
-      "starsInPeriod": 52
+      "stars": 5731,
+      "forks": 269,
+      "starsInPeriod": 121
     },
     {
       "rank": 4,
-      "fullName": "Asymptote-Labs/agent-beacon",
-      "url": "https://github.com/Asymptote-Labs/agent-beacon",
-      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
+      "fullName": "slavakurilyak/awesome-ai-agents",
+      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+      "description": "Awesome list of 300+ agentic AI resources",
       "programmingLanguage": "Go",
-      "stars": 2724,
-      "forks": 247,
-      "starsInPeriod": 122
+      "stars": 2644,
+      "forks": 693,
+      "starsInPeriod": 47
     },
     {
       "rank": 5,
-      "fullName": "fleetdm/fleet",
-      "url": "https://github.com/fleetdm/fleet",
-      "description": "Open device management",
-      "programmingLanguage": "Go",
-      "stars": 7039,
-      "forks": 1082,
-      "starsInPeriod": 10
-    },
-    {
-      "rank": 6,
       "fullName": "chaitin/SafeLine",
       "url": "https://github.com/chaitin/SafeLine",
       "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
       "programmingLanguage": "Go",
-      "stars": 22926,
-      "forks": 1570,
-      "starsInPeriod": 24
+      "stars": 22933,
+      "forks": 1571,
+      "starsInPeriod": 16
+    },
+    {
+      "rank": 6,
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 114765,
+      "forks": 6616,
+      "starsInPeriod": 225
     },
     {
       "rank": 7,
-      "fullName": "php/frankenphp",
-      "url": "https://github.com/php/frankenphp",
-      "description": "🧟 The modern PHP app server",
+      "fullName": "projectdiscovery/nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
       "programmingLanguage": "Go",
-      "stars": 11458,
-      "forks": 502,
-      "starsInPeriod": 7
+      "stars": 32280,
+      "forks": 3940,
+      "starsInPeriod": 34
     },
     {
       "rank": 8,
-      "fullName": "infiniflow/ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "fullName": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 92789,
-      "forks": 11099,
-      "starsInPeriod": 93
+      "stars": 78349,
+      "forks": 5173,
+      "starsInPeriod": 56
     },
     {
       "rank": 9,
-      "fullName": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "fullName": "goreleaser/goreleaser",
+      "url": "https://github.com/goreleaser/goreleaser",
+      "description": "Release engineering, simplified",
       "programmingLanguage": "Go",
-      "stars": 13026,
-      "forks": 1178,
-      "starsInPeriod": 17
+      "stars": 16117,
+      "forks": 1132,
+      "starsInPeriod": 3
     },
     {
       "rank": 10,
-      "fullName": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "fullName": "danielmiessler/Fabric",
+      "url": "https://github.com/danielmiessler/Fabric",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "programmingLanguage": "Go",
-      "stars": 53695,
-      "forks": 7041,
-      "starsInPeriod": 105
+      "stars": 44414,
+      "forks": 4316,
+      "starsInPeriod": 13
     },
     {
       "rank": 11,
-      "fullName": "ltaoo/wx_channels_download",
-      "url": "https://github.com/ltaoo/wx_channels_download",
-      "description": "微信视频号下载器",
+      "fullName": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 10083,
-      "forks": 1669,
-      "starsInPeriod": 36
+      "stars": 28170,
+      "forks": 1897,
+      "starsInPeriod": 29
     },
     {
       "rank": 12,
-      "fullName": "QuantumNous/new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
+      "fullName": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "programmingLanguage": "Go",
-      "stars": 50606,
-      "forks": 12245,
-      "starsInPeriod": 104
+      "stars": 26498,
+      "forks": 1114,
+      "starsInPeriod": 28
     },
     {
       "rank": 13,
-      "fullName": "github/gh-stack",
-      "url": "https://github.com/github/gh-stack",
-      "description": "GitHub Stacked PRs",
+      "fullName": "grafana/alloy",
+      "url": "https://github.com/grafana/alloy",
+      "description": "OpenTelemetry Collector distribution with programmable pipelines",
       "programmingLanguage": "Go",
-      "stars": 1718,
-      "forks": 86,
+      "stars": 3637,
+      "forks": 746,
       "starsInPeriod": 3
     },
     {
       "rank": 14,
-      "fullName": "samber/cc-skills-golang",
-      "url": "https://github.com/samber/cc-skills-golang",
-      "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+      "fullName": "QuantumNous/new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "programmingLanguage": "Go",
-      "stars": 3605,
-      "forks": 242,
-      "starsInPeriod": 31
+      "stars": 50617,
+      "forks": 12251,
+      "starsInPeriod": 52
     },
     {
       "rank": 15,
-      "fullName": "chenyme/grok2api",
-      "url": "https://github.com/chenyme/grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "fullName": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
       "programmingLanguage": "Go",
-      "stars": 7849,
-      "forks": 2344,
-      "starsInPeriod": 10
+      "stars": 65345,
+      "forks": 6267,
+      "starsInPeriod": 21
     },
     {
       "rank": 16,
-      "fullName": "zitadel/zitadel",
-      "url": "https://github.com/zitadel/zitadel",
-      "description": "ZITADEL - Identity infrastructure, simplified for you.",
+      "fullName": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 15420,
-      "forks": 1398,
-      "starsInPeriod": 20
+      "stars": 35295,
+      "forks": 4748,
+      "starsInPeriod": 98
     }
   ]
 }

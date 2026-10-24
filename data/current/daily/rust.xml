@@ -4,12 +4,12 @@
     <title>GitHub Trending — daily — rust</title>
     <link>https://github.com/trending/rust</link>
     <description>GitHub Trending — daily — rust</description>
-    <lastBuildDate>Sat, 24 Oct 2026 10:58:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:55:59 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-10-24T10:58:13Z</ght:observedAt>
+    <ght:observedAt>2026-10-24T15:55:59Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,192 +17,168 @@
       <link>https://github.com/NVIDIA/OpenShell</link>
       <description>OpenShell is the safe, private runtime for autonomous AI agents.</description>
       <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>19087</ght:stars>
-      <ght:forks>1903</ght:forks>
-      <ght:starsInPeriod>1119</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>pollen-robotics/microduck</title>
-      <link>https://github.com/pollen-robotics/microduck</link>
-      <description>A Tiny biped duck robot 🦆</description>
-      <guid isPermaLink="true">https://github.com/pollen-robotics/microduck</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>10617</ght:stars>
-      <ght:forks>1373</ght:forks>
-      <ght:starsInPeriod>421</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>macro-inc/macro</title>
-      <link>https://github.com/macro-inc/macro</link>
-      <description>Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</description>
-      <guid isPermaLink="true">https://github.com/macro-inc/macro</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>4891</ght:stars>
-      <ght:forks>473</ght:forks>
-      <ght:starsInPeriod>30</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>ai-dynamo/dynamo</title>
-      <link>https://github.com/ai-dynamo/dynamo</link>
-      <description>A Datacenter Scale Distributed Inference Serving Framework</description>
-      <guid isPermaLink="true">https://github.com/ai-dynamo/dynamo</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>8377</ght:stars>
-      <ght:forks>1754</ght:forks>
-      <ght:starsInPeriod>11</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>agentgateway/agentgateway</title>
-      <link>https://github.com/agentgateway/agentgateway</link>
-      <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
-      <guid isPermaLink="true">https://github.com/agentgateway/agentgateway</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>5535</ght:stars>
-      <ght:forks>982</ght:forks>
-      <ght:starsInPeriod>36</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>astral-sh/uv</title>
-      <link>https://github.com/astral-sh/uv</link>
-      <description>An extremely fast Python package and project manager, written in Rust.</description>
-      <guid isPermaLink="true">https://github.com/astral-sh/uv</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>91103</ght:stars>
-      <ght:forks>3687</ght:forks>
-      <ght:starsInPeriod>55</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>ZSeven-W/openpencil</title>
-      <link>https://github.com/ZSeven-W/openpencil</link>
-      <description>The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.</description>
-      <guid isPermaLink="true">https://github.com/ZSeven-W/openpencil</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>6485</ght:stars>
-      <ght:forks>567</ght:forks>
-      <ght:starsInPeriod>51</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>harry0703/MangoDisk</title>
-      <link>https://github.com/harry0703/MangoDisk</link>
-      <description>Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.</description>
-      <guid isPermaLink="true">https://github.com/harry0703/MangoDisk</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>8</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>4642</ght:stars>
-      <ght:forks>316</ght:forks>
-      <ght:starsInPeriod>64</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>max-sixty/worktrunk</title>
-      <link>https://github.com/max-sixty/worktrunk</link>
-      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
-      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>9</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>9442</ght:stars>
-      <ght:forks>335</ght:forks>
-      <ght:starsInPeriod>33</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>stalwartlabs/stalwart</title>
-      <link>https://github.com/stalwartlabs/stalwart</link>
-      <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
-      <guid isPermaLink="true">https://github.com/stalwartlabs/stalwart</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>10</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>15276</ght:stars>
-      <ght:forks>1012</ght:forks>
-      <ght:starsInPeriod>23</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>anomalyco/hex</title>
-      <link>https://github.com/anomalyco/hex</link>
-      <description>Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.</description>
-      <guid isPermaLink="true">https://github.com/anomalyco/hex</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>11</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>568</ght:stars>
-      <ght:forks>70</ght:forks>
-      <ght:starsInPeriod>27</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>tursodatabase/turso</title>
-      <link>https://github.com/tursodatabase/turso</link>
-      <description>A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.</description>
-      <guid isPermaLink="true">https://github.com/tursodatabase/turso</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>12</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>24995</ght:stars>
-      <ght:forks>1490</ght:forks>
-      <ght:starsInPeriod>28</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>akitaonrails/ai-memory</title>
-      <link>https://github.com/akitaonrails/ai-memory</link>
-      <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
-      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>13</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>13154</ght:stars>
-      <ght:forks>919</ght:forks>
-      <ght:starsInPeriod>271</ght:starsInPeriod>
+      <ght:stars>19241</ght:stars>
+      <ght:forks>1914</ght:forks>
+      <ght:starsInPeriod>893</ght:starsInPeriod>
     </item>
     <item>
       <title>pbakaus/impeccable</title>
       <link>https://github.com/pbakaus/impeccable</link>
       <description>The design language that makes your AI harness better at design.</description>
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>14</ght:rank>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>85811</ght:stars>
-      <ght:forks>5131</ght:forks>
+      <ght:stars>86042</ght:stars>
+      <ght:forks>5141</ght:forks>
       <ght:starsInPeriod>541</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>pollen-robotics/microduck</title>
+      <link>https://github.com/pollen-robotics/microduck</link>
+      <description>A Tiny biped duck robot 🦆</description>
+      <guid isPermaLink="true">https://github.com/pollen-robotics/microduck</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>3</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>10759</ght:stars>
+      <ght:forks>1386</ght:forks>
+      <ght:starsInPeriod>421</ght:starsInPeriod>
     </item>
     <item>
       <title>redlib-org/redlib</title>
       <link>https://github.com/redlib-org/redlib</link>
       <description>Private front-end for Reddit</description>
       <guid isPermaLink="true">https://github.com/redlib-org/redlib</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>15</ght:rank>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>3904</ght:stars>
-      <ght:forks>300</ght:forks>
+      <ght:stars>3910</ght:stars>
+      <ght:forks>303</ght:forks>
       <ght:starsInPeriod>16</ght:starsInPeriod>
     </item>
     <item>
-      <title>openai/codex</title>
-      <link>https://github.com/openai/codex</link>
-      <description>Lightweight coding agent that runs in your terminal</description>
-      <guid isPermaLink="true">https://github.com/openai/codex</guid>
-      <pubDate>Sat, 24 Oct 2026 10:58:13 GMT</pubDate>
-      <ght:rank>16</ght:rank>
+      <title>macro-inc/macro</title>
+      <link>https://github.com/macro-inc/macro</link>
+      <description>Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</description>
+      <guid isPermaLink="true">https://github.com/macro-inc/macro</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>130745</ght:stars>
-      <ght:forks>20621</ght:forks>
-      <ght:starsInPeriod>173</ght:starsInPeriod>
+      <ght:stars>4894</ght:stars>
+      <ght:forks>473</ght:forks>
+      <ght:starsInPeriod>30</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>CapSoftware/Cap</title>
+      <link>https://github.com/CapSoftware/Cap</link>
+      <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
+      <guid isPermaLink="true">https://github.com/CapSoftware/Cap</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>6</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>23670</ght:stars>
+      <ght:forks>2139</ght:forks>
+      <ght:starsInPeriod>81</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>max-sixty/worktrunk</title>
+      <link>https://github.com/max-sixty/worktrunk</link>
+      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>7</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>9445</ght:stars>
+      <ght:forks>336</ght:forks>
+      <ght:starsInPeriod>33</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>herdrdev/herdr</title>
+      <link>https://github.com/herdrdev/herdr</link>
+      <description>the runtime your coding agents live on</description>
+      <guid isPermaLink="true">https://github.com/herdrdev/herdr</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>45646</ght:stars>
+      <ght:forks>3633</ght:forks>
+      <ght:starsInPeriod>147</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>aaif-goose/goose</title>
+      <link>https://github.com/aaif-goose/goose</link>
+      <description>an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</description>
+      <guid isPermaLink="true">https://github.com/aaif-goose/goose</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>9</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>55631</ght:stars>
+      <ght:forks>6439</ght:forks>
+      <ght:starsInPeriod>57</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>cjpais/Handy</title>
+      <link>https://github.com/cjpais/Handy</link>
+      <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
+      <guid isPermaLink="true">https://github.com/cjpais/Handy</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>10</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>34522</ght:stars>
+      <ght:forks>3279</ght:forks>
+      <ght:starsInPeriod>88</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>vercel-labs/agent-browser</title>
+      <link>https://github.com/vercel-labs/agent-browser</link>
+      <description>Browser automation CLI for AI agents</description>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>11</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>44528</ght:stars>
+      <ght:forks>3052</ght:forks>
+      <ght:starsInPeriod>49</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>ZSeven-W/openpencil</title>
+      <link>https://github.com/ZSeven-W/openpencil</link>
+      <description>The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.</description>
+      <guid isPermaLink="true">https://github.com/ZSeven-W/openpencil</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>12</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>6535</ght:stars>
+      <ght:forks>571</ght:forks>
+      <ght:starsInPeriod>51</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>xingkongliang/skills-manager</title>
+      <link>https://github.com/xingkongliang/skills-manager</link>
+      <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</description>
+      <guid isPermaLink="true">https://github.com/xingkongliang/skills-manager</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>13</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>6777</ght:stars>
+      <ght:forks>548</ght:forks>
+      <ght:starsInPeriod>38</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>apache/iggy</title>
+      <link>https://github.com/apache/iggy</link>
+      <description>Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed</description>
+      <guid isPermaLink="true">https://github.com/apache/iggy</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:59 GMT</pubDate>
+      <ght:rank>14</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>5184</ght:stars>
+      <ght:forks>489</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

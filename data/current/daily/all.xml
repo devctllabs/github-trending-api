@@ -4,12 +4,12 @@
     <title>GitHub Trending — daily — all</title>
     <link>https://github.com/trending</link>
     <description>GitHub Trending — daily — all</description>
-    <lastBuildDate>Sat, 24 Oct 2026 10:57:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:55:39 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>all</ght:language>
-    <ght:observedAt>2026-10-24T10:57:53Z</ght:observedAt>
+    <ght:observedAt>2026-10-24T15:55:39Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,96 +17,120 @@
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <description>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Sat, 24 Oct 2026 10:57:53 GMT</pubDate>
+      <pubDate>Sat, 24 Oct 2026 15:55:39 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>42896</ght:stars>
-      <ght:forks>2677</ght:forks>
-      <ght:starsInPeriod>2716</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>php/php-src</title>
-      <link>https://github.com/php/php-src</link>
-      <description>The PHP Interpreter</description>
-      <guid isPermaLink="true">https://github.com/php/php-src</guid>
-      <pubDate>Sat, 24 Oct 2026 10:57:53 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>C</ght:programmingLanguage>
-      <ght:stars>41626</ght:stars>
-      <ght:forks>8373</ght:forks>
-      <ght:starsInPeriod>716</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>anthropics/knowledge-work-plugins</title>
-      <link>https://github.com/anthropics/knowledge-work-plugins</link>
-      <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
-      <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
-      <pubDate>Sat, 24 Oct 2026 10:57:53 GMT</pubDate>
-      <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>32478</ght:stars>
-      <ght:forks>3587</ght:forks>
-      <ght:starsInPeriod>635</ght:starsInPeriod>
+      <ght:stars>43476</ght:stars>
+      <ght:forks>2714</ght:forks>
+      <ght:starsInPeriod>2271</ght:starsInPeriod>
     </item>
     <item>
       <title>NVIDIA/OpenShell</title>
       <link>https://github.com/NVIDIA/OpenShell</link>
       <description>OpenShell is the safe, private runtime for autonomous AI agents.</description>
       <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
-      <pubDate>Sat, 24 Oct 2026 10:57:53 GMT</pubDate>
-      <ght:rank>4</ght:rank>
+      <pubDate>Sat, 24 Oct 2026 15:55:39 GMT</pubDate>
+      <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>19087</ght:stars>
-      <ght:forks>1903</ght:forks>
-      <ght:starsInPeriod>1119</ght:starsInPeriod>
+      <ght:stars>19241</ght:stars>
+      <ght:forks>1914</ght:forks>
+      <ght:starsInPeriod>893</ght:starsInPeriod>
     </item>
     <item>
-      <title>Renhuai123/ziwei-doushu</title>
-      <link>https://github.com/Renhuai123/ziwei-doushu</link>
-      <description>紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据</description>
-      <guid isPermaLink="true">https://github.com/Renhuai123/ziwei-doushu</guid>
-      <pubDate>Sat, 24 Oct 2026 10:57:53 GMT</pubDate>
+      <title>aws/agent-toolkit-for-aws</title>
+      <link>https://github.com/aws/agent-toolkit-for-aws</link>
+      <description>Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS</description>
+      <guid isPermaLink="true">https://github.com/aws/agent-toolkit-for-aws</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:39 GMT</pubDate>
+      <ght:rank>3</ght:rank>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>3020</ght:stars>
+      <ght:forks>393</ght:forks>
+      <ght:starsInPeriod>11</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>Nutlope/hallmark</title>
+      <link>https://github.com/Nutlope/hallmark</link>
+      <description>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</description>
+      <guid isPermaLink="true">https://github.com/Nutlope/hallmark</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:39 GMT</pubDate>
+      <ght:rank>4</ght:rank>
+      <ght:programmingLanguage>CSS</ght:programmingLanguage>
+      <ght:stars>31703</ght:stars>
+      <ght:forks>1633</ght:forks>
+      <ght:starsInPeriod>567</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>luongnv89/claude-howto</title>
+      <link>https://github.com/luongnv89/claude-howto</link>
+      <description>A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.</description>
+      <guid isPermaLink="true">https://github.com/luongnv89/claude-howto</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:39 GMT</pubDate>
       <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>7157</ght:stars>
-      <ght:forks>1459</ght:forks>
-      <ght:starsInPeriod>546</ght:starsInPeriod>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>44287</ght:stars>
+      <ght:forks>5478</ght:forks>
+      <ght:starsInPeriod>1053</ght:starsInPeriod>
     </item>
     <item>
-      <title>SnailSploit/Claude-Red</title>
-      <link>https://github.com/SnailSploit/Claude-Red</link>
-      <description>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.</description>
-      <guid isPermaLink="true">https://github.com/SnailSploit/Claude-Red</guid>
-      <pubDate>Sat, 24 Oct 2026 10:57:53 GMT</pubDate>
+      <title>pbakaus/impeccable</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <description>The design language that makes your AI harness better at design.</description>
+      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:39 GMT</pubDate>
       <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>8760</ght:stars>
-      <ght:forks>1123</ght:forks>
-      <ght:starsInPeriod>226</ght:starsInPeriod>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>86042</ght:stars>
+      <ght:forks>5141</ght:forks>
+      <ght:starsInPeriod>541</ght:starsInPeriod>
     </item>
     <item>
-      <title>OpenBMB/VoxCPM</title>
-      <link>https://github.com/OpenBMB/VoxCPM</link>
-      <description>VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</description>
-      <guid isPermaLink="true">https://github.com/OpenBMB/VoxCPM</guid>
-      <pubDate>Sat, 24 Oct 2026 10:57:53 GMT</pubDate>
+      <title>pollen-robotics/microduck</title>
+      <link>https://github.com/pollen-robotics/microduck</link>
+      <description>A Tiny biped duck robot 🦆</description>
+      <guid isPermaLink="true">https://github.com/pollen-robotics/microduck</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:39 GMT</pubDate>
       <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>40467</ght:stars>
-      <ght:forks>4597</ght:forks>
-      <ght:starsInPeriod>150</ght:starsInPeriod>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>10759</ght:stars>
+      <ght:forks>1386</ght:forks>
+      <ght:starsInPeriod>421</ght:starsInPeriod>
     </item>
     <item>
-      <title>nodejs/node</title>
-      <link>https://github.com/nodejs/node</link>
-      <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
-      <guid isPermaLink="true">https://github.com/nodejs/node</guid>
-      <pubDate>Sat, 24 Oct 2026 10:57:53 GMT</pubDate>
+      <title>google-gemini/gemini-cli</title>
+      <link>https://github.com/google-gemini/gemini-cli</link>
+      <description>An open-source AI agent that brings the power of Gemini directly into your terminal.</description>
+      <guid isPermaLink="true">https://github.com/google-gemini/gemini-cli</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:39 GMT</pubDate>
       <ght:rank>8</ght:rank>
-      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>123044</ght:stars>
-      <ght:forks>39846</ght:forks>
-      <ght:starsInPeriod>66</ght:starsInPeriod>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>107752</ght:stars>
+      <ght:forks>14788</ght:forks>
+      <ght:starsInPeriod>38</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>jbiaojerry/ebook-treasure-chest</title>
+      <link>https://github.com/jbiaojerry/ebook-treasure-chest</link>
+      <description>欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。</description>
+      <guid isPermaLink="true">https://github.com/jbiaojerry/ebook-treasure-chest</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:39 GMT</pubDate>
+      <ght:rank>9</ght:rank>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>22446</ght:stars>
+      <ght:forks>3180</ght:forks>
+      <ght:starsInPeriod>220</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>makecindy/cindy</title>
+      <link>https://github.com/makecindy/cindy</link>
+      <description>Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。</description>
+      <guid isPermaLink="true">https://github.com/makecindy/cindy</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:39 GMT</pubDate>
+      <ght:rank>10</ght:rank>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>3879</ght:stars>
+      <ght:forks>568</ght:forks>
+      <ght:starsInPeriod>471</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

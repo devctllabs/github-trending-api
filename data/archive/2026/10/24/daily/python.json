@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "updatedAt": "2026-10-24T10:58:03Z",
+  "updatedAt": "2026-10-24T15:55:49Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,28 +14,56 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 32479,
-      "forks": 3587,
-      "starsInPeriod": 635,
+      "stars": 32546,
+      "forks": 3595,
+      "starsInPeriod": 598,
+      "bestRank": 1,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-24T04:34:42Z",
+      "lastSeenAt": "2026-10-24T15:55:49Z",
+      "appearances": 3
+    },
+    {
+      "fullName": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "programmingLanguage": "Python",
+      "stars": 3020,
+      "forks": 393,
+      "starsInPeriod": 11,
       "bestRank": 1,
       "latestRank": 1,
+      "firstSeenAt": "2026-10-24T15:55:49Z",
+      "lastSeenAt": "2026-10-24T15:55:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "programmingLanguage": "Python",
+      "stars": 44288,
+      "forks": 5478,
+      "starsInPeriod": 1053,
+      "bestRank": 2,
+      "latestRank": 2,
       "firstSeenAt": "2026-10-24T04:34:42Z",
-      "lastSeenAt": "2026-10-24T10:58:03Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-24T15:55:49Z",
+      "appearances": 3
     },
     {
       "fullName": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "programmingLanguage": "Python",
-      "stars": 8760,
-      "forks": 1123,
-      "starsInPeriod": 226,
+      "stars": 8805,
+      "forks": 1130,
+      "starsInPeriod": 770,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 5,
       "firstSeenAt": "2026-10-24T04:34:42Z",
-      "lastSeenAt": "2026-10-24T10:58:03Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-24T15:55:49Z",
+      "appearances": 3
     },
     {
       "fullName": "OpenBMB/VoxCPM",
@@ -52,6 +80,20 @@
       "appearances": 2
     },
     {
+      "fullName": "jbiaojerry/ebook-treasure-chest",
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "programmingLanguage": "Python",
+      "stars": 22446,
+      "forks": 3180,
+      "starsInPeriod": 220,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-24T15:55:49Z",
+      "lastSeenAt": "2026-10-24T15:55:49Z",
+      "appearances": 1
+    },
+    {
       "fullName": "baidu/Unlimited-OCR",
       "url": "https://github.com/baidu/Unlimited-OCR",
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
@@ -66,18 +108,32 @@
       "appearances": 2
     },
     {
+      "fullName": "pollen-robotics/microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
+      "programmingLanguage": "Python",
+      "stars": 2598,
+      "forks": 602,
+      "starsInPeriod": 41,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-24T15:55:49Z",
+      "lastSeenAt": "2026-10-24T15:55:49Z",
+      "appearances": 1
+    },
+    {
       "fullName": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "programmingLanguage": "Python",
-      "stars": 113507,
-      "forks": 21969,
+      "stars": 113564,
+      "forks": 21986,
       "starsInPeriod": 485,
       "bestRank": 5,
-      "latestRank": 5,
+      "latestRank": 7,
       "firstSeenAt": "2026-10-24T04:34:42Z",
-      "lastSeenAt": "2026-10-24T10:58:03Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-24T15:55:49Z",
+      "appearances": 3
     },
     {
       "fullName": "Graphify-Labs/graphify",
@@ -122,6 +178,20 @@
       "appearances": 2
     },
     {
+      "fullName": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "description": "Specification and documentation for Agent Skills",
+      "programmingLanguage": "Python",
+      "stars": 26559,
+      "forks": 1954,
+      "starsInPeriod": 64,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-24T15:55:49Z",
+      "lastSeenAt": "2026-10-24T15:55:49Z",
+      "appearances": 1
+    },
+    {
       "fullName": "onyx-dot-app/onyx",
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
@@ -134,6 +204,20 @@
       "firstSeenAt": "2026-10-24T04:34:42Z",
       "lastSeenAt": "2026-10-24T10:58:03Z",
       "appearances": 2
+    },
+    {
+      "fullName": "crewAIInc/crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "programmingLanguage": "Python",
+      "stars": 60060,
+      "forks": 8863,
+      "starsInPeriod": 32,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-24T15:55:49Z",
+      "lastSeenAt": "2026-10-24T15:55:49Z",
+      "appearances": 1
     },
     {
       "fullName": "vllm-project/vllm",
@@ -150,6 +234,20 @@
       "appearances": 2
     },
     {
+      "fullName": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "programmingLanguage": "Python",
+      "stars": 53364,
+      "forks": 6236,
+      "starsInPeriod": 342,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-24T15:55:49Z",
+      "lastSeenAt": "2026-10-24T15:55:49Z",
+      "appearances": 1
+    },
+    {
       "fullName": "Anil-matcha/open-duet",
       "url": "https://github.com/Anil-matcha/open-duet",
       "description": "Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act. Also an alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and ChatGPT agent.",
@@ -164,18 +262,18 @@
       "appearances": 2
     },
     {
-      "fullName": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "fullName": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "programmingLanguage": "Python",
-      "stars": 44129,
-      "forks": 5465,
-      "starsInPeriod": 1053,
-      "bestRank": 12,
-      "latestRank": 12,
-      "firstSeenAt": "2026-10-24T04:34:42Z",
-      "lastSeenAt": "2026-10-24T10:58:03Z",
-      "appearances": 2
+      "stars": 77815,
+      "forks": 9312,
+      "starsInPeriod": 73,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-24T15:55:49Z",
+      "lastSeenAt": "2026-10-24T15:55:49Z",
+      "appearances": 1
     }
   ]
 }

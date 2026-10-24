@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "updatedAt": "2026-10-24T10:57:53Z",
+  "updatedAt": "2026-10-24T15:55:39Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,14 +14,28 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 42896,
-      "forks": 2677,
-      "starsInPeriod": 2716,
+      "stars": 43476,
+      "forks": 2714,
+      "starsInPeriod": 2271,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-24T04:34:32Z",
-      "lastSeenAt": "2026-10-24T10:57:53Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-24T15:55:39Z",
+      "appearances": 3
+    },
+    {
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 19241,
+      "forks": 1914,
+      "starsInPeriod": 893,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-24T04:34:32Z",
+      "lastSeenAt": "2026-10-24T15:55:39Z",
+      "appearances": 3
     },
     {
       "fullName": "php/php-src",
@@ -52,18 +66,32 @@
       "appearances": 2
     },
     {
-      "fullName": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "programmingLanguage": "Rust",
-      "stars": 19087,
-      "forks": 1903,
-      "starsInPeriod": 1119,
+      "fullName": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "programmingLanguage": "Python",
+      "stars": 3020,
+      "forks": 393,
+      "starsInPeriod": 11,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-24T15:55:39Z",
+      "lastSeenAt": "2026-10-24T15:55:39Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "programmingLanguage": "CSS",
+      "stars": 31703,
+      "forks": 1633,
+      "starsInPeriod": 567,
       "bestRank": 4,
       "latestRank": 4,
-      "firstSeenAt": "2026-10-24T04:34:32Z",
-      "lastSeenAt": "2026-10-24T10:57:53Z",
-      "appearances": 2
+      "firstSeenAt": "2026-10-24T15:55:39Z",
+      "lastSeenAt": "2026-10-24T15:55:39Z",
+      "appearances": 1
     },
     {
       "fullName": "Renhuai123/ziwei-doushu",
@@ -80,6 +108,20 @@
       "appearances": 2
     },
     {
+      "fullName": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "programmingLanguage": "Python",
+      "stars": 44287,
+      "forks": 5478,
+      "starsInPeriod": 1053,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-24T15:55:39Z",
+      "lastSeenAt": "2026-10-24T15:55:39Z",
+      "appearances": 1
+    },
+    {
       "fullName": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
@@ -92,6 +134,20 @@
       "firstSeenAt": "2026-10-24T04:34:32Z",
       "lastSeenAt": "2026-10-24T10:57:53Z",
       "appearances": 2
+    },
+    {
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "programmingLanguage": "Rust",
+      "stars": 86042,
+      "forks": 5141,
+      "starsInPeriod": 541,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-24T15:55:39Z",
+      "lastSeenAt": "2026-10-24T15:55:39Z",
+      "appearances": 1
     },
     {
       "fullName": "OpenBMB/VoxCPM",
@@ -108,6 +164,20 @@
       "appearances": 2
     },
     {
+      "fullName": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "programmingLanguage": "Rust",
+      "stars": 10759,
+      "forks": 1386,
+      "starsInPeriod": 421,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-24T15:55:39Z",
+      "lastSeenAt": "2026-10-24T15:55:39Z",
+      "appearances": 1
+    },
+    {
       "fullName": "nodejs/node",
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
@@ -120,6 +190,48 @@
       "firstSeenAt": "2026-10-24T04:34:32Z",
       "lastSeenAt": "2026-10-24T10:57:53Z",
       "appearances": 2
+    },
+    {
+      "fullName": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "programmingLanguage": "TypeScript",
+      "stars": 107752,
+      "forks": 14788,
+      "starsInPeriod": 38,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-24T15:55:39Z",
+      "lastSeenAt": "2026-10-24T15:55:39Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "jbiaojerry/ebook-treasure-chest",
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "programmingLanguage": "Python",
+      "stars": 22446,
+      "forks": 3180,
+      "starsInPeriod": 220,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-24T15:55:39Z",
+      "lastSeenAt": "2026-10-24T15:55:39Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "programmingLanguage": "TypeScript",
+      "stars": 3879,
+      "forks": 568,
+      "starsInPeriod": 471,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-24T15:55:39Z",
+      "lastSeenAt": "2026-10-24T15:55:39Z",
+      "appearances": 1
     }
   ]
 }
