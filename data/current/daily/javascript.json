@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-10-24T15:56:19Z",
+  "observedAt": "2026-10-24T20:48:09Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 43480,
-      "forks": 2714,
+      "stars": 44186,
+      "forks": 2750,
       "starsInPeriod": 2271
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/laoma528/awesome-zhuiju-free",
       "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
       "programmingLanguage": "JavaScript",
-      "stars": 13424,
-      "forks": 943,
+      "stars": 13442,
+      "forks": 945,
       "starsInPeriod": 132
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
       "programmingLanguage": "JavaScript",
-      "stars": 88616,
-      "forks": 5983,
+      "stars": 88699,
+      "forks": 5991,
       "starsInPeriod": 445
     },
     {
@@ -44,79 +44,99 @@
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "programmingLanguage": "JavaScript",
-      "stars": 123055,
-      "forks": 39785,
+      "stars": 123059,
+      "forks": 39779,
       "starsInPeriod": 475
     },
     {
       "rank": 5,
+      "fullName": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "programmingLanguage": "JavaScript",
+      "stars": 1296,
+      "forks": 160,
+      "starsInPeriod": 57
+    },
+    {
+      "rank": 6,
       "fullName": "louislam/uptime-kuma",
       "url": "https://github.com/louislam/uptime-kuma",
       "description": "A fancy self-hosted monitoring tool",
       "programmingLanguage": "JavaScript",
-      "stars": 92844,
-      "forks": 8601,
+      "stars": 92863,
+      "forks": 8602,
       "starsInPeriod": 49
     },
     {
-      "rank": 6,
+      "rank": 7,
       "fullName": "projectdiscovery/nuclei-templates",
       "url": "https://github.com/projectdiscovery/nuclei-templates",
       "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
       "programmingLanguage": "JavaScript",
-      "stars": 13209,
+      "stars": 13215,
       "forks": 3708,
       "starsInPeriod": 17
     },
     {
-      "rank": 7,
+      "rank": 8,
       "fullName": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 175315,
-      "forks": 9552,
-      "starsInPeriod": 1575
+      "stars": 175450,
+      "forks": 9566,
+      "starsInPeriod": 776
     },
     {
-      "rank": 8,
+      "rank": 9,
       "fullName": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 56338,
-      "forks": 8327,
+      "stars": 56361,
+      "forks": 8332,
       "starsInPeriod": 158
     },
     {
-      "rank": 9,
+      "rank": 10,
       "fullName": "OpenWhispr/openwhispr",
       "url": "https://github.com/OpenWhispr/openwhispr",
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "programmingLanguage": "JavaScript",
-      "stars": 9869,
-      "forks": 1270,
+      "stars": 9886,
+      "forks": 1271,
       "starsInPeriod": 57
     },
     {
-      "rank": 10,
+      "rank": 11,
       "fullName": "OpenSenseNova/SenseNova-Skills",
       "url": "https://github.com/OpenSenseNova/SenseNova-Skills",
       "description": "Modular SenseNova skills for building AI-powered office assistants and productivity workflows",
       "programmingLanguage": "JavaScript",
-      "stars": 5893,
+      "stars": 5896,
       "forks": 421,
       "starsInPeriod": 26
     },
     {
-      "rank": 11,
+      "rank": 12,
       "fullName": "Neet-Nestor/Telegram-Media-Downloader",
       "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader",
       "description": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
       "programmingLanguage": "JavaScript",
-      "stars": 6282,
-      "forks": 619,
+      "stars": 6283,
+      "forks": 620,
       "starsInPeriod": 36
+    },
+    {
+      "rank": 13,
+      "fullName": "NomaDamas/CozyClay",
+      "url": "https://github.com/NomaDamas/CozyClay",
+      "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
+      "programmingLanguage": "JavaScript",
+      "stars": 1003,
+      "forks": 113,
+      "starsInPeriod": 30
     }
   ]
 }

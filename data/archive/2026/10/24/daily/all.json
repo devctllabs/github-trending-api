@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "updatedAt": "2026-10-24T15:55:39Z",
+  "updatedAt": "2026-10-24T20:47:30Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,28 +14,28 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 43476,
-      "forks": 2714,
+      "stars": 44184,
+      "forks": 2750,
       "starsInPeriod": 2271,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-24T04:34:32Z",
-      "lastSeenAt": "2026-10-24T15:55:39Z",
-      "appearances": 3
+      "lastSeenAt": "2026-10-24T20:47:30Z",
+      "appearances": 4
     },
     {
       "fullName": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 19241,
-      "forks": 1914,
+      "stars": 19392,
+      "forks": 1927,
       "starsInPeriod": 893,
       "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-10-24T04:34:32Z",
-      "lastSeenAt": "2026-10-24T15:55:39Z",
-      "appearances": 3
+      "lastSeenAt": "2026-10-24T20:47:30Z",
+      "appearances": 4
     },
     {
       "fullName": "php/php-src",
@@ -70,28 +70,28 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "programmingLanguage": "Python",
-      "stars": 3020,
-      "forks": 393,
+      "stars": 3086,
+      "forks": 395,
       "starsInPeriod": 11,
       "bestRank": 3,
       "latestRank": 3,
       "firstSeenAt": "2026-10-24T15:55:39Z",
-      "lastSeenAt": "2026-10-24T15:55:39Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-24T20:47:30Z",
+      "appearances": 2
     },
     {
       "fullName": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "programmingLanguage": "CSS",
-      "stars": 31703,
-      "forks": 1633,
-      "starsInPeriod": 567,
+      "stars": 31991,
+      "forks": 1644,
+      "starsInPeriod": 570,
       "bestRank": 4,
       "latestRank": 4,
       "firstSeenAt": "2026-10-24T15:55:39Z",
-      "lastSeenAt": "2026-10-24T15:55:39Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-24T20:47:30Z",
+      "appearances": 2
     },
     {
       "fullName": "Renhuai123/ziwei-doushu",
@@ -112,14 +112,14 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "programmingLanguage": "Python",
-      "stars": 44287,
-      "forks": 5478,
-      "starsInPeriod": 1053,
+      "stars": 44438,
+      "forks": 5485,
+      "starsInPeriod": 442,
       "bestRank": 5,
       "latestRank": 5,
       "firstSeenAt": "2026-10-24T15:55:39Z",
-      "lastSeenAt": "2026-10-24T15:55:39Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-24T20:47:30Z",
+      "appearances": 2
     },
     {
       "fullName": "SnailSploit/Claude-Red",
@@ -140,14 +140,14 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 86042,
-      "forks": 5141,
-      "starsInPeriod": 541,
+      "stars": 86269,
+      "forks": 5151,
+      "starsInPeriod": 733,
       "bestRank": 6,
       "latestRank": 6,
       "firstSeenAt": "2026-10-24T15:55:39Z",
-      "lastSeenAt": "2026-10-24T15:55:39Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-24T20:47:30Z",
+      "appearances": 2
     },
     {
       "fullName": "OpenBMB/VoxCPM",
@@ -168,14 +168,14 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "programmingLanguage": "Rust",
-      "stars": 10759,
-      "forks": 1386,
-      "starsInPeriod": 421,
+      "stars": 10890,
+      "forks": 1398,
+      "starsInPeriod": 381,
       "bestRank": 7,
       "latestRank": 7,
       "firstSeenAt": "2026-10-24T15:55:39Z",
-      "lastSeenAt": "2026-10-24T15:55:39Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-24T20:47:30Z",
+      "appearances": 2
     },
     {
       "fullName": "nodejs/node",
@@ -196,42 +196,42 @@
       "url": "https://github.com/google-gemini/gemini-cli",
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "programmingLanguage": "TypeScript",
-      "stars": 107752,
-      "forks": 14788,
+      "stars": 107937,
+      "forks": 14804,
       "starsInPeriod": 38,
       "bestRank": 8,
       "latestRank": 8,
       "firstSeenAt": "2026-10-24T15:55:39Z",
-      "lastSeenAt": "2026-10-24T15:55:39Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-24T20:47:30Z",
+      "appearances": 2
     },
     {
       "fullName": "jbiaojerry/ebook-treasure-chest",
       "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
       "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
       "programmingLanguage": "Python",
-      "stars": 22446,
-      "forks": 3180,
+      "stars": 22536,
+      "forks": 3184,
       "starsInPeriod": 220,
       "bestRank": 9,
       "latestRank": 9,
       "firstSeenAt": "2026-10-24T15:55:39Z",
-      "lastSeenAt": "2026-10-24T15:55:39Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-24T20:47:30Z",
+      "appearances": 2
     },
     {
       "fullName": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "programmingLanguage": "TypeScript",
-      "stars": 3879,
-      "forks": 568,
+      "stars": 4014,
+      "forks": 577,
       "starsInPeriod": 471,
       "bestRank": 10,
       "latestRank": 10,
       "firstSeenAt": "2026-10-24T15:55:39Z",
-      "lastSeenAt": "2026-10-24T15:55:39Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-24T20:47:30Z",
+      "appearances": 2
     }
   ]
 }
