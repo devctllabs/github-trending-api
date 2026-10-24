@@ -18,12 +18,12 @@ github-trending = "github_trending.cli:main"
 
 [dependency-groups]
 dev = [
-  "complexipy>=8.0.1,<9",
+  "complexipy>=8.1.0,<9",
   "deptry>=0.23,<1",
   "import-linter>=2.3,<3",
   "mypy>=2.4.0,<3",
   "pytest>=8.4,<10",
-  "ruff>=0.17.0,<1",
+  "ruff>=0.17.1,<1",
   "types-beautifulsoup4>=4.12,<5",
 ]
 
