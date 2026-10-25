@@ -4,149 +4,149 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-25T04:39:25Z",
+  "observedAt": "2026-10-25T11:25:55Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "programmingLanguage": "Rust",
-      "stars": 19565,
-      "forks": 1937,
-      "starsInPeriod": 896
-    },
-    {
-      "rank": 2,
       "fullName": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 86567,
-      "forks": 5165,
+      "stars": 86913,
+      "forks": 5188,
       "starsInPeriod": 619
     },
     {
-      "rank": 3,
+      "rank": 2,
       "fullName": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "programmingLanguage": "Rust",
-      "stars": 11082,
-      "forks": 1418,
+      "stars": 11274,
+      "forks": 1442,
       "starsInPeriod": 319
     },
     {
-      "rank": 4,
-      "fullName": "redlib-org/redlib",
-      "url": "https://github.com/redlib-org/redlib",
-      "description": "Private front-end for Reddit",
-      "programmingLanguage": "Rust",
-      "stars": 3919,
-      "forks": 307,
-      "starsInPeriod": 20
-    },
-    {
-      "rank": 5,
-      "fullName": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "programmingLanguage": "Rust",
-      "stars": 4904,
-      "forks": 477,
-      "starsInPeriod": 33
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "fullName": "CapSoftware/Cap",
       "url": "https://github.com/CapSoftware/Cap",
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "programmingLanguage": "Rust",
-      "stars": 23712,
-      "forks": 2148,
+      "stars": 23732,
+      "forks": 2149,
       "starsInPeriod": 94
     },
     {
+      "rank": 4,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 19729,
+      "forks": 1953,
+      "starsInPeriod": 896
+    },
+    {
+      "rank": 5,
+      "fullName": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
+      "programmingLanguage": "Rust",
+      "stars": 42323,
+      "forks": 4181,
+      "starsInPeriod": 43
+    },
+    {
+      "rank": 6,
+      "fullName": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "programmingLanguage": "Rust",
+      "stars": 6207,
+      "forks": 220,
+      "starsInPeriod": 19
+    },
+    {
       "rank": 7,
-      "fullName": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "programmingLanguage": "Rust",
-      "stars": 9458,
-      "forks": 336,
-      "starsInPeriod": 31
-    },
-    {
-      "rank": 8,
-      "fullName": "herdrdev/herdr",
-      "url": "https://github.com/herdrdev/herdr",
-      "description": "the runtime your coding agents live on",
-      "programmingLanguage": "Rust",
-      "stars": 45726,
-      "forks": 3637,
-      "starsInPeriod": 144
-    },
-    {
-      "rank": 9,
       "fullName": "aaif-goose/goose",
       "url": "https://github.com/aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "programmingLanguage": "Rust",
-      "stars": 55666,
-      "forks": 6444,
+      "stars": 55683,
+      "forks": 6448,
       "starsInPeriod": 56
     },
     {
+      "rank": 8,
+      "fullName": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "programmingLanguage": "Rust",
+      "stars": 21849,
+      "forks": 1035,
+      "starsInPeriod": 8
+    },
+    {
+      "rank": 9,
+      "fullName": "claration/impactor",
+      "url": "https://github.com/claration/impactor",
+      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
+      "programmingLanguage": "Rust",
+      "stars": 3597,
+      "forks": 257,
+      "starsInPeriod": 8
+    },
+    {
       "rank": 10,
-      "fullName": "cjpais/Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "programmingLanguage": "Rust",
-      "stars": 34559,
-      "forks": 3284,
-      "starsInPeriod": 88
-    },
-    {
-      "rank": 11,
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "programmingLanguage": "Rust",
-      "stars": 44552,
-      "forks": 3056,
-      "starsInPeriod": 55
-    },
-    {
-      "rank": 12,
       "fullName": "ZSeven-W/openpencil",
       "url": "https://github.com/ZSeven-W/openpencil",
       "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
       "programmingLanguage": "Rust",
-      "stars": 6603,
-      "forks": 576,
+      "stars": 6629,
+      "forks": 578,
       "starsInPeriod": 100
     },
     {
-      "rank": 13,
-      "fullName": "xingkongliang/skills-manager",
-      "url": "https://github.com/xingkongliang/skills-manager",
-      "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "rank": 11,
+      "fullName": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
       "programmingLanguage": "Rust",
-      "stars": 6793,
-      "forks": 549,
-      "starsInPeriod": 33
+      "stars": 25993,
+      "forks": 1292,
+      "starsInPeriod": 8
+    },
+    {
+      "rank": 12,
+      "fullName": "bytecodealliance/wasmtime",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+      "programmingLanguage": "Rust",
+      "stars": 18761,
+      "forks": 1888,
+      "starsInPeriod": 9
+    },
+    {
+      "rank": 13,
+      "fullName": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "programmingLanguage": "Rust",
+      "stars": 36439,
+      "forks": 4822,
+      "starsInPeriod": 85
     },
     {
       "rank": 14,
-      "fullName": "apache/iggy",
-      "url": "https://github.com/apache/iggy",
-      "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+      "fullName": "ayangweb/BongoCat",
+      "url": "https://github.com/ayangweb/BongoCat",
+      "description": "🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!",
       "programmingLanguage": "Rust",
-      "stars": 5195,
-      "forks": 491,
-      "starsInPeriod": 6
+      "stars": 24179,
+      "forks": 1206,
+      "starsInPeriod": 39
     }
   ]
 }

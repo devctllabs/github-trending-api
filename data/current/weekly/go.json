@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-25T04:39:37Z",
+  "observedAt": "2026-10-25T11:26:08Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,199 +14,179 @@
       "url": "https://github.com/Asymptote-Labs/agent-beacon",
       "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "programmingLanguage": "Go",
-      "stars": 2778,
+      "stars": 2792,
       "forks": 254,
       "starsInPeriod": 920
     },
     {
       "rank": 2,
-      "fullName": "mudler/LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
-      "programmingLanguage": "Go",
-      "stars": 49939,
-      "forks": 4540,
-      "starsInPeriod": 367
-    },
-    {
-      "rank": 3,
-      "fullName": "gin-gonic/gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-      "programmingLanguage": "Go",
-      "stars": 89426,
-      "forks": 8775,
-      "starsInPeriod": 97
-    },
-    {
-      "rank": 4,
-      "fullName": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "programmingLanguage": "Go",
-      "stars": 184674,
-      "forks": 18549,
-      "starsInPeriod": 1434
-    },
-    {
-      "rank": 5,
-      "fullName": "ltaoo/wx_channels_download",
-      "url": "https://github.com/ltaoo/wx_channels_download",
-      "description": "微信视频号下载器",
-      "programmingLanguage": "Go",
-      "stars": 10092,
-      "forks": 1671,
-      "starsInPeriod": 233
-    },
-    {
-      "rank": 6,
-      "fullName": "superplanehq/superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "Open source factory for one-shot engineering",
-      "programmingLanguage": "Go",
-      "stars": 8203,
-      "forks": 669,
-      "starsInPeriod": 366
-    },
-    {
-      "rank": 7,
-      "fullName": "go-gitea/gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "programmingLanguage": "Go",
-      "stars": 58678,
-      "forks": 7308,
-      "starsInPeriod": 169
-    },
-    {
-      "rank": 8,
-      "fullName": "chaitin/SafeLine",
-      "url": "https://github.com/chaitin/SafeLine",
-      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
-      "programmingLanguage": "Go",
-      "stars": 22941,
-      "forks": 1571,
-      "starsInPeriod": 176
-    },
-    {
-      "rank": 9,
-      "fullName": "jasonxu114514/opencode2api",
-      "url": "https://github.com/jasonxu114514/opencode2api",
-      "description": "A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.",
-      "programmingLanguage": "Go",
-      "stars": 1273,
-      "forks": 223,
-      "starsInPeriod": 294
-    },
-    {
-      "rank": 10,
-      "fullName": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "programmingLanguage": "Go",
-      "stars": 38697,
-      "forks": 796,
-      "starsInPeriod": 223
-    },
-    {
-      "rank": 11,
-      "fullName": "github/github-mcp-server",
-      "url": "https://github.com/github/github-mcp-server",
-      "description": "GitHub's official MCP Server",
-      "programmingLanguage": "Go",
-      "stars": 33932,
-      "forks": 5225,
-      "starsInPeriod": 257
-    },
-    {
-      "rank": 12,
-      "fullName": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "programmingLanguage": "Go",
-      "stars": 32324,
-      "forks": 5013,
-      "starsInPeriod": 1463
-    },
-    {
-      "rank": 13,
-      "fullName": "kenn-io/agentsview",
-      "url": "https://github.com/kenn-io/agentsview",
-      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents.",
-      "programmingLanguage": "Go",
-      "stars": 6263,
-      "forks": 661,
-      "starsInPeriod": 137
-    },
-    {
-      "rank": 14,
-      "fullName": "helm/helm",
-      "url": "https://github.com/helm/helm",
-      "description": "The Kubernetes Package Manager",
-      "programmingLanguage": "Go",
-      "stars": 30367,
-      "forks": 7862,
-      "starsInPeriod": 40
-    },
-    {
-      "rank": 15,
-      "fullName": "eugenioenko/ttt",
-      "url": "https://github.com/eugenioenko/ttt",
-      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
-      "programmingLanguage": "Go",
-      "stars": 833,
-      "forks": 95,
-      "starsInPeriod": 211
-    },
-    {
-      "rank": 16,
-      "fullName": "PatchMon/PatchMon",
-      "url": "https://github.com/PatchMon/PatchMon",
-      "description": "Linux Patch Management & Automation Platform",
-      "programmingLanguage": "Go",
-      "stars": 3503,
-      "forks": 199,
-      "starsInPeriod": 80
-    },
-    {
-      "rank": 17,
-      "fullName": "moby/moby",
-      "url": "https://github.com/moby/moby",
-      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-      "programmingLanguage": "Go",
-      "stars": 72204,
-      "forks": 19195,
-      "starsInPeriod": 51
-    },
-    {
-      "rank": 18,
-      "fullName": "gitleaks/gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
-      "programmingLanguage": "Go",
-      "stars": 30305,
-      "forks": 2314,
-      "starsInPeriod": 241
-    },
-    {
-      "rank": 19,
-      "fullName": "pearl-research-labs/pearl",
-      "url": "https://github.com/pearl-research-labs/pearl",
-      "description": "Monorepo for the Pearl network 🐚",
-      "programmingLanguage": "Go",
-      "stars": 394,
-      "forks": 94,
-      "starsInPeriod": 28
-    },
-    {
-      "rank": 20,
       "fullName": "slavakurilyak/awesome-ai-agents",
       "url": "https://github.com/slavakurilyak/awesome-ai-agents",
       "description": "Awesome list of 300+ agentic AI resources",
       "programmingLanguage": "Go",
-      "stars": 2665,
-      "forks": 697,
+      "stars": 2678,
+      "forks": 698,
       "starsInPeriod": 193
+    },
+    {
+      "rank": 3,
+      "fullName": "eugenioenko/ttt",
+      "url": "https://github.com/eugenioenko/ttt",
+      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
+      "programmingLanguage": "Go",
+      "stars": 839,
+      "forks": 96,
+      "starsInPeriod": 211
+    },
+    {
+      "rank": 4,
+      "fullName": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "programmingLanguage": "Go",
+      "stars": 49941,
+      "forks": 4541,
+      "starsInPeriod": 367
+    },
+    {
+      "rank": 5,
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "programmingLanguage": "Go",
+      "stars": 8210,
+      "forks": 669,
+      "starsInPeriod": 366
+    },
+    {
+      "rank": 6,
+      "fullName": "strelov1/freehire",
+      "url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "programmingLanguage": "Go",
+      "stars": 3007,
+      "forks": 298,
+      "starsInPeriod": 2066
+    },
+    {
+      "rank": 7,
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "programmingLanguage": "Go",
+      "stars": 184707,
+      "forks": 18559,
+      "starsInPeriod": 1434
+    },
+    {
+      "rank": 8,
+      "fullName": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "programmingLanguage": "Go",
+      "stars": 89427,
+      "forks": 8780,
+      "starsInPeriod": 97
+    },
+    {
+      "rank": 9,
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "programmingLanguage": "Go",
+      "stars": 58681,
+      "forks": 7308,
+      "starsInPeriod": 169
+    },
+    {
+      "rank": 10,
+      "fullName": "kenn-io/agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents.",
+      "programmingLanguage": "Go",
+      "stars": 6267,
+      "forks": 661,
+      "starsInPeriod": 137
+    },
+    {
+      "rank": 11,
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 38702,
+      "forks": 796,
+      "starsInPeriod": 223
+    },
+    {
+      "rank": 12,
+      "fullName": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "programmingLanguage": "Go",
+      "stars": 30369,
+      "forks": 7866,
+      "starsInPeriod": 40
+    },
+    {
+      "rank": 13,
+      "fullName": "Autumn-27/ScopeSentry",
+      "url": "https://github.com/Autumn-27/ScopeSentry",
+      "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
+      "programmingLanguage": "Go",
+      "stars": 2124,
+      "forks": 477,
+      "starsInPeriod": 189
+    },
+    {
+      "rank": 14,
+      "fullName": "pearl-research-labs/pearl",
+      "url": "https://github.com/pearl-research-labs/pearl",
+      "description": "Monorepo for the Pearl network 🐚",
+      "programmingLanguage": "Go",
+      "stars": 395,
+      "forks": 96,
+      "starsInPeriod": 28
+    },
+    {
+      "rank": 15,
+      "fullName": "jasonxu114514/opencode2api",
+      "url": "https://github.com/jasonxu114514/opencode2api",
+      "description": "A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.",
+      "programmingLanguage": "Go",
+      "stars": 1287,
+      "forks": 222,
+      "starsInPeriod": 294
+    },
+    {
+      "rank": 16,
+      "fullName": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "programmingLanguage": "Go",
+      "stars": 32356,
+      "forks": 5019,
+      "starsInPeriod": 1463
+    },
+    {
+      "rank": 17,
+      "fullName": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "programmingLanguage": "Go",
+      "stars": 36690,
+      "forks": 1904,
+      "starsInPeriod": 122
+    },
+    {
+      "rank": 18,
+      "fullName": "chaitin/SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "programmingLanguage": "Go",
+      "stars": 22947,
+      "forks": 1572,
+      "starsInPeriod": 176
     }
   ]
 }

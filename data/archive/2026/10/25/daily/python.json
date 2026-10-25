@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "updatedAt": "2026-10-25T04:39:15Z",
+  "updatedAt": "2026-10-25T11:25:45Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,13 +14,27 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "programmingLanguage": "Python",
-      "stars": 3176,
-      "forks": 401,
+      "stars": 3255,
+      "forks": 404,
       "starsInPeriod": 13,
       "bestRank": 1,
-      "latestRank": 1,
+      "latestRank": 12,
       "firstSeenAt": "2026-10-25T04:39:15Z",
-      "lastSeenAt": "2026-10-25T04:39:15Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "programmingLanguage": "Python",
+      "stars": 85614,
+      "forks": 9491,
+      "starsInPeriod": 1588,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-25T11:25:45Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
       "appearances": 1
     },
     {
@@ -38,6 +52,20 @@
       "appearances": 1
     },
     {
+      "fullName": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "programmingLanguage": "Python",
+      "stars": 113886,
+      "forks": 22055,
+      "starsInPeriod": 309,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-25T04:39:15Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
+      "appearances": 2
+    },
+    {
       "fullName": "jbiaojerry/ebook-treasure-chest",
       "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
       "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
@@ -49,6 +77,20 @@
       "latestRank": 3,
       "firstSeenAt": "2026-10-25T04:39:15Z",
       "lastSeenAt": "2026-10-25T04:39:15Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "programmingLanguage": "Python",
+      "stars": 20182,
+      "forks": 2907,
+      "starsInPeriod": 179,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-25T11:25:45Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
       "appearances": 1
     },
     {
@@ -66,17 +108,45 @@
       "appearances": 1
     },
     {
+      "fullName": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "programmingLanguage": "Python",
+      "stars": 142992,
+      "forks": 21027,
+      "starsInPeriod": 131,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-25T11:25:45Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
+      "appearances": 1
+    },
+    {
       "fullName": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "programmingLanguage": "Python",
-      "stars": 8867,
-      "forks": 1144,
+      "stars": 8938,
+      "forks": 1160,
       "starsInPeriod": 630,
       "bestRank": 5,
-      "latestRank": 5,
+      "latestRank": 14,
       "firstSeenAt": "2026-10-25T04:39:15Z",
-      "lastSeenAt": "2026-10-25T04:39:15Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "programmingLanguage": "Python",
+      "stars": 29773,
+      "forks": 3457,
+      "starsInPeriod": 120,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-25T11:25:45Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
       "appearances": 1
     },
     {
@@ -94,17 +164,31 @@
       "appearances": 1
     },
     {
-      "fullName": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "fullName": "apirrone/Open_Duck_Mini",
+      "url": "https://github.com/apirrone/Open_Duck_Mini",
+      "description": "Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe",
       "programmingLanguage": "Python",
-      "stars": 113740,
-      "forks": 22032,
-      "starsInPeriod": 309,
+      "stars": 4476,
+      "forks": 567,
+      "starsInPeriod": 44,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-25T11:25:45Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "programmingLanguage": "Python",
+      "stars": 42625,
+      "forks": 5406,
+      "starsInPeriod": 213,
       "bestRank": 7,
       "latestRank": 7,
-      "firstSeenAt": "2026-10-25T04:39:15Z",
-      "lastSeenAt": "2026-10-25T04:39:15Z",
+      "firstSeenAt": "2026-10-25T11:25:45Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
       "appearances": 1
     },
     {
@@ -122,6 +206,20 @@
       "appearances": 1
     },
     {
+      "fullName": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+      "programmingLanguage": "Python",
+      "stars": 78539,
+      "forks": 7284,
+      "starsInPeriod": 48,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-25T11:25:45Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
+      "appearances": 1
+    },
+    {
       "fullName": "crewAIInc/crewAI",
       "url": "https://github.com/crewAIInc/crewAI",
       "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
@@ -133,6 +231,20 @@
       "latestRank": 9,
       "firstSeenAt": "2026-10-25T04:39:15Z",
       "lastSeenAt": "2026-10-25T04:39:15Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "521xueweihan/HelloGitHub",
+      "url": "https://github.com/521xueweihan/HelloGitHub",
+      "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+      "programmingLanguage": "Python",
+      "stars": 184327,
+      "forks": 13087,
+      "starsInPeriod": 252,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-25T11:25:45Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
       "appearances": 1
     },
     {
@@ -150,6 +262,20 @@
       "appearances": 1
     },
     {
+      "fullName": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "programmingLanguage": "Python",
+      "stars": 68466,
+      "forks": 13037,
+      "starsInPeriod": 408,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-25T11:25:45Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
+      "appearances": 1
+    },
+    {
       "fullName": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
@@ -161,6 +287,34 @@
       "latestRank": 11,
       "firstSeenAt": "2026-10-25T04:39:15Z",
       "lastSeenAt": "2026-10-25T04:39:15Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "experientiallabs/experiential",
+      "url": "https://github.com/experientiallabs/experiential",
+      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
+      "programmingLanguage": "Python",
+      "stars": 12406,
+      "forks": 261,
+      "starsInPeriod": 1224,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-25T11:25:45Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "programmingLanguage": "Python",
+      "stars": 43341,
+      "forks": 3183,
+      "starsInPeriod": 225,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-10-25T11:25:45Z",
+      "lastSeenAt": "2026-10-25T11:25:45Z",
       "appearances": 1
     }
   ]

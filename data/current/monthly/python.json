@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-10-25T04:39:22Z",
+  "observedAt": "2026-10-25T11:25:52Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 85199,
-      "forks": 9429,
+      "stars": 85614,
+      "forks": 9491,
       "starsInPeriod": 49780
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 32695,
-      "forks": 3612,
+      "stars": 32795,
+      "forks": 3620,
       "starsInPeriod": 7138
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "programmingLanguage": "Python",
-      "stars": 53486,
-      "forks": 6238,
+      "stars": 53556,
+      "forks": 6240,
       "starsInPeriod": 26766
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 44386,
-      "forks": 4656,
+      "stars": 44450,
+      "forks": 4658,
       "starsInPeriod": 7817
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "programmingLanguage": "Python",
-      "stars": 22970,
-      "forks": 2237,
+      "stars": 23014,
+      "forks": 2240,
       "starsInPeriod": 6675
     },
     {
@@ -64,69 +64,69 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 73372,
-      "forks": 12865,
+      "stars": 73491,
+      "forks": 12888,
       "starsInPeriod": 17406
     },
     {
       "rank": 7,
-      "fullName": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "programmingLanguage": "Python",
-      "stars": 10945,
-      "forks": 1409,
-      "starsInPeriod": 6206
-    },
-    {
-      "rank": 8,
       "fullName": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "programmingLanguage": "Python",
-      "stars": 39643,
-      "forks": 3427,
+      "stars": 39660,
+      "forks": 3429,
       "starsInPeriod": 3908
     },
     {
-      "rank": 9,
-      "fullName": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "rank": 8,
+      "fullName": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "programmingLanguage": "Python",
-      "stars": 56881,
-      "forks": 5100,
-      "starsInPeriod": 6811
+      "stars": 10969,
+      "forks": 1411,
+      "starsInPeriod": 6206
     },
     {
-      "rank": 10,
+      "rank": 9,
       "fullName": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 101882,
-      "forks": 9007,
+      "stars": 102149,
+      "forks": 9039,
       "starsInPeriod": 16998
     },
     {
-      "rank": 11,
-      "fullName": "wshobson/agents",
-      "url": "https://github.com/wshobson/agents",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "rank": 10,
+      "fullName": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 41654,
-      "forks": 4414,
-      "starsInPeriod": 1839
+      "stars": 56955,
+      "forks": 5109,
+      "starsInPeriod": 6811
     },
     {
-      "rank": 12,
+      "rank": 11,
       "fullName": "lightseekorg/tokenspeed",
       "url": "https://github.com/lightseekorg/tokenspeed",
       "description": "TokenSpeed is a speed-of-light LLM inference engine.",
       "programmingLanguage": "Python",
-      "stars": 2779,
-      "forks": 374,
+      "stars": 2781,
+      "forks": 376,
       "starsInPeriod": 619
+    },
+    {
+      "rank": 12,
+      "fullName": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "programmingLanguage": "Python",
+      "stars": 41674,
+      "forks": 4419,
+      "starsInPeriod": 1839
     },
     {
       "rank": 13,
@@ -134,29 +134,29 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "programmingLanguage": "Python",
-      "stars": 71644,
-      "forks": 9288,
+      "stars": 71749,
+      "forks": 9304,
       "starsInPeriod": 10740
     },
     {
       "rank": 14,
-      "fullName": "tile-ai/tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "programmingLanguage": "Python",
-      "stars": 8760,
-      "forks": 922,
-      "starsInPeriod": 1310
-    },
-    {
-      "rank": 15,
       "fullName": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "programmingLanguage": "Python",
-      "stars": 43617,
-      "forks": 7201,
+      "stars": 43674,
+      "forks": 7213,
       "starsInPeriod": 4320
+    },
+    {
+      "rank": 15,
+      "fullName": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "programmingLanguage": "Python",
+      "stars": 8765,
+      "forks": 923,
+      "starsInPeriod": 1310
     },
     {
       "rank": 16,
@@ -164,29 +164,29 @@
       "url": "https://github.com/fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "programmingLanguage": "Python",
-      "stars": 104100,
-      "forks": 10117,
+      "stars": 104106,
+      "forks": 10116,
       "starsInPeriod": 1882
     },
     {
       "rank": 17,
-      "fullName": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "programmingLanguage": "Python",
-      "stars": 105049,
-      "forks": 32180,
-      "starsInPeriod": 2535
-    },
-    {
-      "rank": 18,
       "fullName": "ahujasid/mcp-for-blender",
       "url": "https://github.com/ahujasid/mcp-for-blender",
       "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
       "programmingLanguage": "Python",
-      "stars": 32275,
-      "forks": 2920,
+      "stars": 32297,
+      "forks": 2923,
       "starsInPeriod": 3042
+    },
+    {
+      "rank": 18,
+      "fullName": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "programmingLanguage": "Python",
+      "stars": 19946,
+      "forks": 2715,
+      "starsInPeriod": 4926
     }
   ]
 }

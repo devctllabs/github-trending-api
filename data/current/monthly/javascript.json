@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=monthly",
-  "observedAt": "2026-10-25T04:39:50Z",
+  "observedAt": "2026-10-25T11:26:21Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 44941,
-      "forks": 2789,
+      "stars": 45736,
+      "forks": 2838,
       "starsInPeriod": 22219
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 288201,
-      "forks": 42723,
+      "stars": 288381,
+      "forks": 42757,
       "starsInPeriod": 22855
     },
     {
@@ -34,29 +34,29 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 175616,
-      "forks": 9577,
+      "stars": 175805,
+      "forks": 9589,
       "starsInPeriod": 31175
     },
     {
       "rank": 4,
-      "fullName": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
-      "programmingLanguage": "JavaScript",
-      "stars": 15572,
-      "forks": 2050,
-      "starsInPeriod": 14161
-    },
-    {
-      "rank": 5,
       "fullName": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 110251,
-      "forks": 11503,
+      "stars": 110335,
+      "forks": 11513,
       "starsInPeriod": 11794
+    },
+    {
+      "rank": 5,
+      "fullName": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
+      "programmingLanguage": "JavaScript",
+      "stars": 15642,
+      "forks": 2059,
+      "starsInPeriod": 14161
     },
     {
       "rank": 6,
@@ -64,8 +64,8 @@
       "url": "https://github.com/michael-denyer/pstack-claude",
       "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "programmingLanguage": "JavaScript",
-      "stars": 3386,
-      "forks": 317,
+      "stars": 3396,
+      "forks": 318,
       "starsInPeriod": 2818
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 27647,
-      "forks": 1838,
+      "stars": 27758,
+      "forks": 1842,
       "starsInPeriod": 7013
     },
     {
@@ -84,29 +84,29 @@
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "description": null,
       "programmingLanguage": "JavaScript",
-      "stars": 7329,
+      "stars": 7340,
       "forks": 1189,
       "starsInPeriod": 2817
     },
     {
       "rank": 9,
-      "fullName": "androoAGI/starnet",
-      "url": "https://github.com/androoAGI/starnet",
-      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-      "programmingLanguage": "JavaScript",
-      "stars": 1606,
-      "forks": 324,
-      "starsInPeriod": 1382
-    },
-    {
-      "rank": 10,
       "fullName": "mnfst/awesome-free-llm-apis",
       "url": "https://github.com/mnfst/awesome-free-llm-apis",
       "description": "List of Permanent Free LLM API (API Keys)",
       "programmingLanguage": "JavaScript",
-      "stars": 11205,
-      "forks": 1262,
+      "stars": 11230,
+      "forks": 1266,
       "starsInPeriod": 2974
+    },
+    {
+      "rank": 10,
+      "fullName": "androoAGI/starnet",
+      "url": "https://github.com/androoAGI/starnet",
+      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "programmingLanguage": "JavaScript",
+      "stars": 1607,
+      "forks": 324,
+      "starsInPeriod": 1382
     },
     {
       "rank": 11,
@@ -120,13 +120,13 @@
     },
     {
       "rank": 12,
-      "fullName": "mrdoob/three.js",
-      "url": "https://github.com/mrdoob/three.js",
-      "description": "JavaScript 3D Library.",
+      "fullName": "vercel-labs/agent-skills",
+      "url": "https://github.com/vercel-labs/agent-skills",
+      "description": "Vercel's official collection of agent skills",
       "programmingLanguage": "JavaScript",
-      "stars": 116888,
-      "forks": 36714,
-      "starsInPeriod": 1369
+      "stars": 32982,
+      "forks": 2884,
+      "starsInPeriod": 1536
     },
     {
       "rank": 13,
@@ -134,49 +134,49 @@
       "url": "https://github.com/byoungd/up",
       "description": "韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。",
       "programmingLanguage": "JavaScript",
-      "stars": 69308,
-      "forks": 6880,
+      "stars": 69324,
+      "forks": 6883,
       "starsInPeriod": 5923
     },
     {
       "rank": 14,
-      "fullName": "vercel-labs/agent-skills",
-      "url": "https://github.com/vercel-labs/agent-skills",
-      "description": "Vercel's official collection of agent skills",
+      "fullName": "mrdoob/three.js",
+      "url": "https://github.com/mrdoob/three.js",
+      "description": "JavaScript 3D Library.",
       "programmingLanguage": "JavaScript",
-      "stars": 32966,
-      "forks": 2883,
-      "starsInPeriod": 1536
+      "stars": 116898,
+      "forks": 36718,
+      "starsInPeriod": 1369
     },
     {
       "rank": 15,
-      "fullName": "qist/tvbox",
-      "url": "https://github.com/qist/tvbox",
-      "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+      "fullName": "plugin87/ux-ui-agent-skills",
+      "url": "https://github.com/plugin87/ux-ui-agent-skills",
+      "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
       "programmingLanguage": "JavaScript",
-      "stars": 12282,
-      "forks": 4315,
-      "starsInPeriod": 871
+      "stars": 2990,
+      "forks": 286,
+      "starsInPeriod": 1552
     },
     {
       "rank": 16,
-      "fullName": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "programmingLanguage": "JavaScript",
-      "stars": 143225,
-      "forks": 34544,
-      "starsInPeriod": 1680
-    },
-    {
-      "rank": 17,
       "fullName": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 56394,
-      "forks": 8338,
+      "stars": 56430,
+      "forks": 8341,
       "starsInPeriod": 5162
+    },
+    {
+      "rank": 17,
+      "fullName": "qist/tvbox",
+      "url": "https://github.com/qist/tvbox",
+      "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+      "programmingLanguage": "JavaScript",
+      "stars": 12300,
+      "forks": 4318,
+      "starsInPeriod": 871
     },
     {
       "rank": 18,
@@ -184,8 +184,8 @@
       "url": "https://github.com/spicetify/cli",
       "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
       "programmingLanguage": "JavaScript",
-      "stars": 25211,
-      "forks": 994,
+      "stars": 25220,
+      "forks": 995,
       "starsInPeriod": 660
     }
   ]

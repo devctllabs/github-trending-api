@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=weekly",
-  "observedAt": "2026-10-25T04:39:47Z",
+  "observedAt": "2026-10-25T11:26:17Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,99 +14,89 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 44941,
-      "forks": 2789,
+      "stars": 45736,
+      "forks": 2838,
       "starsInPeriod": 12680
     },
     {
       "rank": 2,
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "fullName": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": null,
       "programmingLanguage": "JavaScript",
-      "stars": 175616,
-      "forks": 9577,
-      "starsInPeriod": 9747
+      "stars": 7340,
+      "forks": 1189,
+      "starsInPeriod": 1809
     },
     {
       "rank": 3,
+      "fullName": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "programmingLanguage": "JavaScript",
+      "stars": 19366,
+      "forks": 1079,
+      "starsInPeriod": 1784
+    },
+    {
+      "rank": 4,
       "fullName": "plugin87/ux-ui-agent-skills",
       "url": "https://github.com/plugin87/ux-ui-agent-skills",
       "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
       "programmingLanguage": "JavaScript",
-      "stars": 2985,
-      "forks": 285,
+      "stars": 2990,
+      "forks": 286,
       "starsInPeriod": 945
     },
     {
-      "rank": 4,
-      "fullName": "hmjz100/LinkSwift",
-      "url": "https://github.com/hmjz100/LinkSwift",
-      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "rank": 5,
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 27647,
-      "forks": 1838,
-      "starsInPeriod": 3355
+      "stars": 175805,
+      "forks": 9589,
+      "starsInPeriod": 9747
     },
     {
-      "rank": 5,
+      "rank": 6,
       "fullName": "datawhalechina/easy-vibe",
       "url": "https://github.com/datawhalechina/easy-vibe",
       "description": "💻 Vibe Coding 101｜Your First Course For AI Product Builders.",
       "programmingLanguage": "JavaScript",
-      "stars": 20153,
+      "stars": 20157,
       "forks": 1952,
       "starsInPeriod": 399
     },
     {
-      "rank": 6,
+      "rank": 7,
       "fullName": "react/react",
       "url": "https://github.com/react/react",
       "description": "The library for web and native user interfaces.",
       "programmingLanguage": "JavaScript",
-      "stars": 251757,
-      "forks": 51563,
+      "stars": 251761,
+      "forks": 51567,
       "starsInPeriod": 791
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "fullName": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "programmingLanguage": "JavaScript",
+      "stars": 27758,
+      "forks": 1842,
+      "starsInPeriod": 3355
+    },
+    {
+      "rank": 9,
       "fullName": "xmanrui/dsh-im",
       "url": "https://github.com/xmanrui/dsh-im",
       "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
       "programmingLanguage": "JavaScript",
-      "stars": 2434,
-      "forks": 247,
+      "stars": 2454,
+      "forks": 249,
       "starsInPeriod": 357
-    },
-    {
-      "rank": 8,
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "programmingLanguage": "JavaScript",
-      "stars": 288200,
-      "forks": 42723,
-      "starsInPeriod": 6091
-    },
-    {
-      "rank": 9,
-      "fullName": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "programmingLanguage": "JavaScript",
-      "stars": 123066,
-      "forks": 39620,
-      "starsInPeriod": 896
-    },
-    {
-      "rank": 10,
-      "fullName": "Minglink/dsh-infinite-gen-5",
-      "url": "https://github.com/Minglink/dsh-infinite-gen-5",
-      "description": "DeepSeek v4.1 flash 逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进",
-      "programmingLanguage": "JavaScript",
-      "stars": 3440,
-      "forks": 401,
-      "starsInPeriod": 471
     }
   ]
 }

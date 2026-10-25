@@ -4,109 +4,119 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-10-25T04:39:05Z",
+  "observedAt": "2026-10-25T11:25:35Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "programmingLanguage": "JavaScript",
-      "stars": 44941,
-      "forks": 2788,
-      "starsInPeriod": 2264
-    },
-    {
-      "rank": 2,
-      "fullName": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "programmingLanguage": "Rust",
-      "stars": 19565,
-      "forks": 1937,
-      "starsInPeriod": 896
-    },
-    {
-      "rank": 3,
-      "fullName": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "programmingLanguage": "Python",
-      "stars": 3176,
-      "forks": 401,
-      "starsInPeriod": 13
-    },
-    {
-      "rank": 4,
-      "fullName": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "programmingLanguage": "CSS",
-      "stars": 32327,
-      "forks": 1659,
-      "starsInPeriod": 455
-    },
-    {
-      "rank": 5,
-      "fullName": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "programmingLanguage": "Python",
-      "stars": 44663,
-      "forks": 5497,
-      "starsInPeriod": 392
-    },
-    {
-      "rank": 6,
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "programmingLanguage": "Rust",
-      "stars": 86567,
-      "forks": 5165,
-      "starsInPeriod": 619
-    },
-    {
-      "rank": 7,
-      "fullName": "pollen-robotics/microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "programmingLanguage": "Rust",
-      "stars": 11082,
-      "forks": 1418,
-      "starsInPeriod": 319
-    },
-    {
-      "rank": 8,
-      "fullName": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "programmingLanguage": "TypeScript",
-      "stars": 108162,
-      "forks": 14816,
-      "starsInPeriod": 44
-    },
-    {
-      "rank": 9,
-      "fullName": "jbiaojerry/ebook-treasure-chest",
-      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
-      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
-      "programmingLanguage": "Python",
-      "stars": 22769,
-      "forks": 3198,
-      "starsInPeriod": 227
-    },
-    {
-      "rank": 10,
       "fullName": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "programmingLanguage": "TypeScript",
-      "stars": 4193,
-      "forks": 603,
+      "stars": 4400,
+      "forks": 624,
       "starsInPeriod": 477
+    },
+    {
+      "rank": 2,
+      "fullName": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "programmingLanguage": "CSS",
+      "stars": 32796,
+      "forks": 1696,
+      "starsInPeriod": 455
+    },
+    {
+      "rank": 3,
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "programmingLanguage": "Python",
+      "stars": 85614,
+      "forks": 9491,
+      "starsInPeriod": 1588
+    },
+    {
+      "rank": 4,
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "programmingLanguage": "Rust",
+      "stars": 86913,
+      "forks": 5188,
+      "starsInPeriod": 619
+    },
+    {
+      "rank": 5,
+      "fullName": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "programmingLanguage": "Rust",
+      "stars": 11274,
+      "forks": 1442,
+      "starsInPeriod": 319
+    },
+    {
+      "rank": 6,
+      "fullName": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "programmingLanguage": "Python",
+      "stars": 113886,
+      "forks": 22055,
+      "starsInPeriod": 309
+    },
+    {
+      "rank": 7,
+      "fullName": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "programmingLanguage": "TypeScript",
+      "stars": 7363,
+      "forks": 1509,
+      "starsInPeriod": 489
+    },
+    {
+      "rank": 8,
+      "fullName": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "programmingLanguage": "TypeScript",
+      "stars": 1117,
+      "forks": 81,
+      "starsInPeriod": 52
+    },
+    {
+      "rank": 9,
+      "fullName": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "programmingLanguage": "PHP",
+      "stars": 63815,
+      "forks": 5750,
+      "starsInPeriod": 150
+    },
+    {
+      "rank": 10,
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "programmingLanguage": "JavaScript",
+      "stars": 45735,
+      "forks": 2838,
+      "starsInPeriod": 2264
+    },
+    {
+      "rank": 11,
+      "fullName": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "programmingLanguage": "Python",
+      "stars": 20182,
+      "forks": 2907,
+      "starsInPeriod": 179
     }
   ]
 }
