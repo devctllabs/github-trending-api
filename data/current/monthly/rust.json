@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=monthly",
-  "observedAt": "2026-10-25T11:26:01Z",
+  "observedAt": "2026-10-25T16:16:35Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 19729,
-      "forks": 1953,
+      "stars": 19791,
+      "forks": 1962,
       "starsInPeriod": 10495
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 86913,
-      "forks": 5188,
+      "stars": 87294,
+      "forks": 5217,
       "starsInPeriod": 15700
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 18602,
-      "forks": 1144,
+      "stars": 18615,
+      "forks": 1147,
       "starsInPeriod": 3951
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 27715,
-      "forks": 2480,
+      "stars": 27733,
+      "forks": 2483,
       "starsInPeriod": 7192
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://github.com/bevyengine/bevy",
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 49259,
+      "stars": 49264,
       "forks": 4972,
       "starsInPeriod": 1025
     },
@@ -64,7 +64,7 @@
       "url": "https://github.com/lexmount/moli",
       "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 20575,
+      "stars": 20640,
       "forks": 554,
       "starsInPeriod": 18706
     },
@@ -74,8 +74,8 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 15427,
-      "forks": 1107,
+      "stars": 15469,
+      "forks": 1120,
       "starsInPeriod": 13449
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
       "programmingLanguage": "Rust",
-      "stars": 30915,
-      "forks": 2256,
+      "stars": 30935,
+      "forks": 2259,
       "starsInPeriod": 4802
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 13378,
-      "forks": 946,
+      "stars": 13446,
+      "forks": 950,
       "starsInPeriod": 5008
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://github.com/microsoft/mxc",
       "description": "Policy-driven, layered isolation and containment",
       "programmingLanguage": "Rust",
-      "stars": 2987,
+      "stars": 2988,
       "forks": 163,
       "starsInPeriod": 1634
     },
@@ -114,7 +114,7 @@
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 2574,
+      "stars": 2575,
       "forks": 148,
       "starsInPeriod": 761
     },
@@ -124,7 +124,7 @@
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers",
       "programmingLanguage": "Rust",
-      "stars": 12627,
+      "stars": 12631,
       "forks": 956,
       "starsInPeriod": 1338
     },
@@ -134,7 +134,7 @@
       "url": "https://github.com/xingkongliang/skills-manager",
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "programmingLanguage": "Rust",
-      "stars": 6815,
+      "stars": 6822,
       "forks": 551,
       "starsInPeriod": 1882
     },
@@ -144,7 +144,7 @@
       "url": "https://github.com/timhartmann7/omnyssh",
       "description": "Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 1238,
+      "stars": 1241,
       "forks": 69,
       "starsInPeriod": 502
     },
@@ -154,8 +154,8 @@
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "programmingLanguage": "Rust",
-      "stars": 45414,
-      "forks": 6453,
+      "stars": 45412,
+      "forks": 6452,
       "starsInPeriod": 1643
     },
     {
@@ -164,8 +164,8 @@
       "url": "https://github.com/hydra-db/hydradb",
       "description": "HydraDB - fast graph database on object storage",
       "programmingLanguage": "Rust",
-      "stars": 13068,
-      "forks": 5398,
+      "stars": 13069,
+      "forks": 5397,
       "starsInPeriod": 7568
     },
     {
@@ -174,7 +174,7 @@
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 3519,
+      "stars": 3522,
       "forks": 415,
       "starsInPeriod": 1259
     },
@@ -184,8 +184,8 @@
       "url": "https://github.com/changexbc/workbuddy-switch",
       "description": "WorkBuddy、CodeBuddy 账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。",
       "programmingLanguage": "Rust",
-      "stars": 1518,
-      "forks": 205,
+      "stars": 1522,
+      "forks": 206,
       "starsInPeriod": 712
     },
     {
@@ -194,8 +194,8 @@
       "url": "https://github.com/emilk/egui",
       "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
       "programmingLanguage": "Rust",
-      "stars": 31742,
-      "forks": 2249,
+      "stars": 31747,
+      "forks": 2250,
       "starsInPeriod": 1101
     }
   ]
