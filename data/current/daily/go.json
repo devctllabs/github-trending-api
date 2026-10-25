@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-24T20:47:59Z",
+  "observedAt": "2026-10-25T04:39:34Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/github/gh-aw",
       "description": "GitHub Agentic Workflows",
       "programmingLanguage": "Go",
-      "stars": 5457,
-      "forks": 599,
-      "starsInPeriod": 8
+      "stars": 5462,
+      "forks": 600,
+      "starsInPeriod": 7
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai",
       "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "programmingLanguage": "Go",
-      "stars": 7988,
+      "stars": 7999,
       "forks": 862,
-      "starsInPeriod": 31
+      "starsInPeriod": 30
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
       "programmingLanguage": "Go",
-      "stars": 5783,
-      "forks": 271,
-      "starsInPeriod": 121
+      "stars": 5838,
+      "forks": 272,
+      "starsInPeriod": 131
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/slavakurilyak/awesome-ai-agents",
       "description": "Awesome list of 300+ agentic AI resources",
       "programmingLanguage": "Go",
-      "stars": 2651,
-      "forks": 696,
-      "starsInPeriod": 47
+      "stars": 2665,
+      "forks": 697,
+      "starsInPeriod": 44
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/chaitin/SafeLine",
       "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
       "programmingLanguage": "Go",
-      "stars": 22939,
+      "stars": 22941,
       "forks": 1571,
-      "starsInPeriod": 16
+      "starsInPeriod": 15
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 114799,
-      "forks": 6619,
-      "starsInPeriod": 225
+      "stars": 114846,
+      "forks": 6622,
+      "starsInPeriod": 229
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/projectdiscovery/nuclei",
       "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
       "programmingLanguage": "Go",
-      "stars": 32288,
+      "stars": 32295,
       "forks": 3941,
-      "starsInPeriod": 34
+      "starsInPeriod": 28
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 78357,
-      "forks": 5174,
-      "starsInPeriod": 56
+      "stars": 78371,
+      "forks": 5175,
+      "starsInPeriod": 45
     },
     {
       "rank": 9,
@@ -94,7 +94,7 @@
       "url": "https://github.com/goreleaser/goreleaser",
       "description": "Release engineering, simplified",
       "programmingLanguage": "Go",
-      "stars": 16120,
+      "stars": 16122,
       "forks": 1133,
       "starsInPeriod": 3
     },
@@ -104,8 +104,8 @@
       "url": "https://github.com/danielmiessler/Fabric",
       "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "programmingLanguage": "Go",
-      "stars": 44413,
-      "forks": 4316,
+      "stars": 44415,
+      "forks": 4317,
       "starsInPeriod": 13
     },
     {
@@ -114,9 +114,9 @@
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 28179,
-      "forks": 1897,
-      "starsInPeriod": 29
+      "stars": 28191,
+      "forks": 1900,
+      "starsInPeriod": 30
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/henrygd/beszel",
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "programmingLanguage": "Go",
-      "stars": 26509,
+      "stars": 26511,
       "forks": 1114,
-      "starsInPeriod": 28
+      "starsInPeriod": 23
     },
     {
       "rank": 13,
@@ -134,7 +134,7 @@
       "url": "https://github.com/grafana/alloy",
       "description": "OpenTelemetry Collector distribution with programmable pipelines",
       "programmingLanguage": "Go",
-      "stars": 3637,
+      "stars": 3639,
       "forks": 746,
       "starsInPeriod": 3
     },
@@ -144,9 +144,9 @@
       "url": "https://github.com/QuantumNous/new-api",
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "programmingLanguage": "Go",
-      "stars": 50622,
-      "forks": 12249,
-      "starsInPeriod": 52
+      "stars": 50635,
+      "forks": 12248,
+      "starsInPeriod": 51
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/traefik/traefik",
       "description": "The Cloud Native Application Proxy",
       "programmingLanguage": "Go",
-      "stars": 65350,
-      "forks": 6267,
-      "starsInPeriod": 21
+      "stars": 65355,
+      "forks": 6266,
+      "starsInPeriod": 17
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 35304,
-      "forks": 4750,
-      "starsInPeriod": 98
+      "stars": 35319,
+      "forks": 4754,
+      "starsInPeriod": 94
     }
   ]
 }
