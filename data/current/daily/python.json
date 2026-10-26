@@ -4,149 +4,169 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-10-26T04:44:49Z",
+  "observedAt": "2026-10-26T12:59:51Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "programmingLanguage": "Python",
-      "stars": 87186,
-      "forks": 9644,
-      "starsInPeriod": 1592
-    },
-    {
-      "rank": 2,
       "fullName": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "programmingLanguage": "Python",
-      "stars": 114835,
-      "forks": 22148,
-      "starsInPeriod": 381
+      "stars": 115336,
+      "forks": 22192,
+      "starsInPeriod": 1376
+    },
+    {
+      "rank": 2,
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "programmingLanguage": "Python",
+      "stars": 21751,
+      "forks": 1911,
+      "starsInPeriod": 203
     },
     {
       "rank": 3,
-      "fullName": "AgriciDaniel/claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 21156,
-      "forks": 2966,
-      "starsInPeriod": 197
+      "stars": 102953,
+      "forks": 9132,
+      "starsInPeriod": 723
     },
     {
       "rank": 4,
-      "fullName": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 143069,
-      "forks": 21046,
-      "starsInPeriod": 111
+      "stars": 88015,
+      "forks": 9704,
+      "starsInPeriod": 2292
     },
     {
       "rank": 5,
-      "fullName": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "programmingLanguage": "Python",
-      "stars": 29844,
-      "forks": 3463,
-      "starsInPeriod": 97
-    },
-    {
-      "rank": 6,
-      "fullName": "apirrone/Open_Duck_Mini",
-      "url": "https://github.com/apirrone/Open_Duck_Mini",
-      "description": "Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe",
-      "programmingLanguage": "Python",
-      "stars": 4493,
-      "forks": 569,
-      "starsInPeriod": 37
-    },
-    {
-      "rank": 7,
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
-      "programmingLanguage": "Python",
-      "stars": 42783,
-      "forks": 5425,
-      "starsInPeriod": 176
-    },
-    {
-      "rank": 8,
-      "fullName": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
-      "programmingLanguage": "Python",
-      "stars": 78568,
-      "forks": 7291,
-      "starsInPeriod": 47
-    },
-    {
-      "rank": 9,
-      "fullName": "521xueweihan/HelloGitHub",
-      "url": "https://github.com/521xueweihan/HelloGitHub",
-      "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-      "programmingLanguage": "Python",
-      "stars": 184501,
-      "forks": 13099,
-      "starsInPeriod": 276
-    },
-    {
-      "rank": 10,
-      "fullName": "NanmiCoder/MediaCrawler",
-      "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "programmingLanguage": "Python",
-      "stars": 68594,
-      "forks": 13051,
-      "starsInPeriod": 350
-    },
-    {
-      "rank": 11,
-      "fullName": "experientiallabs/experiential",
-      "url": "https://github.com/experientiallabs/experiential",
-      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
-      "programmingLanguage": "Python",
-      "stars": 12945,
-      "forks": 264,
-      "starsInPeriod": 1117
-    },
-    {
-      "rank": 12,
-      "fullName": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "programmingLanguage": "Python",
-      "stars": 3276,
-      "forks": 406,
-      "starsInPeriod": 245
-    },
-    {
-      "rank": 13,
       "fullName": "AstrBotDevs/AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "programmingLanguage": "Python",
-      "stars": 43520,
-      "forks": 3195,
+      "stars": 43707,
+      "forks": 3203,
       "starsInPeriod": 208
     },
     {
-      "rank": 14,
-      "fullName": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "rank": 6,
+      "fullName": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "programmingLanguage": "Python",
-      "stars": 9127,
-      "forks": 1207,
-      "starsInPeriod": 186
+      "stars": 63617,
+      "forks": 9941,
+      "starsInPeriod": 358
+    },
+    {
+      "rank": 7,
+      "fullName": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "programmingLanguage": "Python",
+      "stars": 23845,
+      "forks": 3846,
+      "starsInPeriod": 75
+    },
+    {
+      "rank": 8,
+      "fullName": "eugeniughelbur/obsidian-second-brain",
+      "url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+      "description": "Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less research, scheduled agents.",
+      "programmingLanguage": "Python",
+      "stars": 4931,
+      "forks": 604,
+      "starsInPeriod": 35
+    },
+    {
+      "rank": 9,
+      "fullName": "Asabeneh/30-Days-Of-Python",
+      "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+      "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "programmingLanguage": "Python",
+      "stars": 77207,
+      "forks": 13937,
+      "starsInPeriod": 110
+    },
+    {
+      "rank": 10,
+      "fullName": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "programmingLanguage": "Python",
+      "stars": 21764,
+      "forks": 3000,
+      "starsInPeriod": 1539
+    },
+    {
+      "rank": 11,
+      "fullName": "higgsfield-ai/skills",
+      "url": "https://github.com/higgsfield-ai/skills",
+      "description": null,
+      "programmingLanguage": "Python",
+      "stars": 1651,
+      "forks": 319,
+      "starsInPeriod": 253
+    },
+    {
+      "rank": 12,
+      "fullName": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "The Unofficial and Awesome Home Assistant MCP Server",
+      "programmingLanguage": "Python",
+      "stars": 5261,
+      "forks": 252,
+      "starsInPeriod": 36
+    },
+    {
+      "rank": 13,
+      "fullName": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "programmingLanguage": "Python",
+      "stars": 187757,
+      "forks": 45901,
+      "starsInPeriod": 79
+    },
+    {
+      "rank": 14,
+      "fullName": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "programmingLanguage": "Python",
+      "stars": 91736,
+      "forks": 39014,
+      "starsInPeriod": 25
+    },
+    {
+      "rank": 15,
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "programmingLanguage": "Python",
+      "stars": 65533,
+      "forks": 5688,
+      "starsInPeriod": 157
+    },
+    {
+      "rank": 16,
+      "fullName": "HarnessRouter/harnessrouter",
+      "url": "https://github.com/HarnessRouter/harnessrouter",
+      "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure.",
+      "programmingLanguage": "Python",
+      "stars": 3667,
+      "forks": 392,
+      "starsInPeriod": 95
     }
   ]
 }
