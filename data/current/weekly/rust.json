@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-10-25T20:49:46Z",
+  "observedAt": "2026-10-26T04:45:02Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 13490,
-      "forks": 954,
-      "starsInPeriod": 3541
+      "stars": 13562,
+      "forks": 960,
+      "starsInPeriod": 3254
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 15526,
-      "forks": 1134,
-      "starsInPeriod": 8080
+      "stars": 15621,
+      "forks": 1145,
+      "starsInPeriod": 7637
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "programmingLanguage": "Rust",
-      "stars": 11552,
-      "forks": 1474,
-      "starsInPeriod": 1263
+      "stars": 11825,
+      "forks": 1500,
+      "starsInPeriod": 1876
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/jub0t/Concat",
       "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
       "programmingLanguage": "Rust",
-      "stars": 11517,
-      "forks": 1417,
-      "starsInPeriod": 2629
+      "stars": 11573,
+      "forks": 1421,
+      "starsInPeriod": 2616
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "programmingLanguage": "Rust",
-      "stars": 96407,
-      "forks": 5137,
-      "starsInPeriod": 207
+      "stars": 96413,
+      "forks": 5140,
+      "starsInPeriod": 205
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/ZSeven-W/openpencil",
       "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
       "programmingLanguage": "Rust",
-      "stars": 6663,
-      "forks": 581,
-      "starsInPeriod": 360
+      "stars": 6679,
+      "forks": 582,
+      "starsInPeriod": 452
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "programmingLanguage": "Rust",
-      "stars": 17120,
-      "forks": 769,
-      "starsInPeriod": 491
+      "stars": 17127,
+      "forks": 768,
+      "starsInPeriod": 441
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 87526,
-      "forks": 5230,
-      "starsInPeriod": 4478
+      "stars": 87956,
+      "forks": 5255,
+      "starsInPeriod": 4741
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "programmingLanguage": "Rust",
-      "stars": 4922,
-      "forks": 477,
-      "starsInPeriod": 207
+      "stars": 4933,
+      "forks": 480,
+      "starsInPeriod": 217
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/leepokai/Codync",
       "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 850,
-      "forks": 102,
-      "starsInPeriod": 304
+      "stars": 873,
+      "forks": 103,
+      "starsInPeriod": 279
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/harry0703/MangoDisk",
       "description": "Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
       "programmingLanguage": "Rust",
-      "stars": 4774,
-      "forks": 327,
-      "starsInPeriod": 546
+      "stars": 4791,
+      "forks": 328,
+      "starsInPeriod": 549
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 19838,
-      "forks": 1966,
-      "starsInPeriod": 3189
+      "stars": 19917,
+      "forks": 1971,
+      "starsInPeriod": 3233
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/ModernRelay/omnigraph",
       "description": "Object-storage native graph database with branching and typed ontology",
       "programmingLanguage": "Rust",
-      "stars": 1750,
+      "stars": 1756,
       "forks": 245,
-      "starsInPeriod": 426
+      "starsInPeriod": 436
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/claration/impactor",
       "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
       "programmingLanguage": "Rust",
-      "stars": 3608,
+      "stars": 3613,
       "forks": 257,
-      "starsInPeriod": 99
+      "starsInPeriod": 102
     },
     {
       "rank": 15,
@@ -154,7 +154,7 @@
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 2576,
+      "stars": 2577,
       "forks": 148,
       "starsInPeriod": 191
     },
@@ -164,9 +164,9 @@
       "url": "https://github.com/redlib-org/redlib",
       "description": "Private front-end for Reddit",
       "programmingLanguage": "Rust",
-      "stars": 3925,
+      "stars": 3928,
       "forks": 310,
-      "starsInPeriod": 81
+      "starsInPeriod": 82
     }
   ]
 }
