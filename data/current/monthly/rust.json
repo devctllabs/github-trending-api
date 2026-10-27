@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=monthly",
-  "observedAt": "2026-10-26T22:39:41Z",
+  "observedAt": "2026-10-27T05:02:16Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 89100,
-      "forks": 5307,
-      "starsInPeriod": 16493
+      "stars": 89434,
+      "forks": 5323,
+      "starsInPeriod": 17522
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 20081,
-      "forks": 1983,
-      "starsInPeriod": 11062
+      "stars": 20121,
+      "forks": 1985,
+      "starsInPeriod": 11321
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 18658,
-      "forks": 1152,
-      "starsInPeriod": 3932
+      "stars": 18669,
+      "forks": 1153,
+      "starsInPeriod": 3911
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 27815,
-      "forks": 2495,
-      "starsInPeriod": 7208
+      "stars": 27861,
+      "forks": 2501,
+      "starsInPeriod": 7217
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 16821,
-      "forks": 1173,
-      "starsInPeriod": 13668
+      "stars": 16891,
+      "forks": 1182,
+      "starsInPeriod": 14963
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/lexmount/moli",
       "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 20897,
-      "forks": 559,
-      "starsInPeriod": 18837
+      "stars": 20970,
+      "forks": 561,
+      "starsInPeriod": 19052
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 13787,
-      "forks": 975,
-      "starsInPeriod": 5139
+      "stars": 13866,
+      "forks": 986,
+      "starsInPeriod": 5360
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/jub0t/Concat",
       "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
       "programmingLanguage": "Rust",
-      "stars": 11760,
-      "forks": 1442,
-      "starsInPeriod": 7934
+      "stars": 11819,
+      "forks": 1451,
+      "starsInPeriod": 8058
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/bevyengine/bevy",
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 49303,
-      "forks": 4977,
-      "starsInPeriod": 1030
+      "stars": 49307,
+      "forks": 4980,
+      "starsInPeriod": 1034
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
       "programmingLanguage": "Rust",
-      "stars": 31035,
-      "forks": 2272,
-      "starsInPeriod": 4767
+      "stars": 31044,
+      "forks": 2274,
+      "starsInPeriod": 4651
     },
     {
       "rank": 11,
@@ -114,7 +114,7 @@
       "url": "https://github.com/pydantic/monty",
       "description": "A secure Python sandbox, written in Rust, for code written by AI.",
       "programmingLanguage": "Rust",
-      "stars": 8786,
+      "stars": 8789,
       "forks": 475,
       "starsInPeriod": 485
     },
@@ -124,9 +124,9 @@
       "url": "https://github.com/microsoft/mxc",
       "description": "Policy-driven, layered isolation and containment",
       "programmingLanguage": "Rust",
-      "stars": 3002,
+      "stars": 3008,
       "forks": 166,
-      "starsInPeriod": 1638
+      "starsInPeriod": 1642
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers",
       "programmingLanguage": "Rust",
-      "stars": 12660,
-      "forks": 959,
-      "starsInPeriod": 1348
+      "stars": 12666,
+      "forks": 960,
+      "starsInPeriod": 1368
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 127164,
-      "forks": 20057,
-      "starsInPeriod": 3044
+      "stars": 127199,
+      "forks": 20062,
+      "starsInPeriod": 3110
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/xingkongliang/skills-manager",
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "programmingLanguage": "Rust",
-      "stars": 6907,
-      "forks": 557,
-      "starsInPeriod": 1898
+      "stars": 6922,
+      "forks": 558,
+      "starsInPeriod": 1959
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 2583,
+      "stars": 2588,
       "forks": 149,
-      "starsInPeriod": 771
+      "starsInPeriod": 775
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 3572,
-      "forks": 423,
-      "starsInPeriod": 1271
+      "stars": 3585,
+      "forks": 422,
+      "starsInPeriod": 1288
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/mixelpixx/Konnect",
       "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "programmingLanguage": "Rust",
-      "stars": 1419,
-      "forks": 181,
-      "starsInPeriod": 628
+      "stars": 1424,
+      "forks": 183,
+      "starsInPeriod": 624
     },
     {
       "rank": 19,
@@ -194,9 +194,9 @@
       "url": "https://github.com/emilk/egui",
       "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
       "programmingLanguage": "Rust",
-      "stars": 31788,
-      "forks": 2263,
-      "starsInPeriod": 1124
+      "stars": 31793,
+      "forks": 2264,
+      "starsInPeriod": 1144
     },
     {
       "rank": 20,
@@ -204,9 +204,9 @@
       "url": "https://github.com/confeden/Antigravity",
       "description": "Antigravity в России без VPN и смены региона аккаунта Google",
       "programmingLanguage": "Rust",
-      "stars": 1039,
+      "stars": 1041,
       "forks": 62,
-      "starsInPeriod": 423
+      "starsInPeriod": 422
     },
     {
       "rank": 21,
@@ -214,9 +214,9 @@
       "url": "https://github.com/zerx-lab/FluxDown",
       "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
       "programmingLanguage": "Rust",
-      "stars": 5033,
-      "forks": 294,
-      "starsInPeriod": 1866
+      "stars": 5041,
+      "forks": 295,
+      "starsInPeriod": 1873
     }
   ]
 }
