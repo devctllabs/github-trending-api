@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-10-27T17:59:44Z",
+  "observedAt": "2026-10-27T22:12:52Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 14016,
-      "forks": 997,
+      "stars": 14061,
+      "forks": 1003,
       "starsInPeriod": 2838
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 90244,
-      "forks": 5365,
+      "stars": 90408,
+      "forks": 5371,
       "starsInPeriod": 5863
     },
     {
@@ -34,18 +34,18 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "programmingLanguage": "Rust",
-      "stars": 12728,
-      "forks": 1571,
+      "stars": 12752,
+      "forks": 1573,
       "starsInPeriod": 2666
     },
     {
       "rank": 4,
       "fullName": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
-      "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+      "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 17043,
-      "forks": 1219,
+      "stars": 17102,
+      "forks": 1235,
       "starsInPeriod": 8261
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/ZSeven-W/openpencil",
       "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
       "programmingLanguage": "Rust",
-      "stars": 6721,
-      "forks": 588,
+      "stars": 6726,
+      "forks": 587,
       "starsInPeriod": 435
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "programmingLanguage": "Rust",
-      "stars": 96434,
-      "forks": 5174,
+      "stars": 96440,
+      "forks": 5175,
       "starsInPeriod": 210
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 20244,
-      "forks": 1992,
+      "stars": 20272,
+      "forks": 1995,
       "starsInPeriod": 3405
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://github.com/agentgateway/agentgateway",
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "programmingLanguage": "Rust",
-      "stars": 5680,
-      "forks": 1002,
+      "stars": 5682,
+      "forks": 1003,
       "starsInPeriod": 258
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://github.com/CapSoftware/Cap",
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "programmingLanguage": "Rust",
-      "stars": 23914,
+      "stars": 23934,
       "forks": 2177,
       "starsInPeriod": 414
     },
@@ -104,8 +104,8 @@
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "programmingLanguage": "Rust",
-      "stars": 30940,
-      "forks": 4169,
+      "stars": 30951,
+      "forks": 4170,
       "starsInPeriod": 573
     },
     {
@@ -114,8 +114,8 @@
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "programmingLanguage": "Rust",
-      "stars": 5119,
-      "forks": 498,
+      "stars": 5140,
+      "forks": 500,
       "starsInPeriod": 216
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://github.com/claration/impactor",
       "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
       "programmingLanguage": "Rust",
-      "stars": 3642,
-      "forks": 260,
+      "stars": 3644,
+      "forks": 261,
       "starsInPeriod": 109
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/harry0703/MangoDisk",
       "description": "Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
       "programmingLanguage": "Rust",
-      "stars": 4908,
-      "forks": 336,
+      "stars": 4913,
+      "forks": 337,
       "starsInPeriod": 546
     },
     {
@@ -144,7 +144,7 @@
       "url": "https://github.com/ModernRelay/omnigraph",
       "description": "Object-storage native graph database with branching and typed ontology",
       "programmingLanguage": "Rust",
-      "stars": 1787,
+      "stars": 1788,
       "forks": 250,
       "starsInPeriod": 449
     },
@@ -154,7 +154,7 @@
       "url": "https://github.com/stalwartlabs/stalwart",
       "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
       "programmingLanguage": "Rust",
-      "stars": 15407,
+      "stars": 15424,
       "forks": 1023,
       "starsInPeriod": 189
     },
@@ -164,8 +164,8 @@
       "url": "https://github.com/jub0t/Concat",
       "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
       "programmingLanguage": "Rust",
-      "stars": 11957,
-      "forks": 1475,
+      "stars": 12012,
+      "forks": 1482,
       "starsInPeriod": 2376
     }
   ]

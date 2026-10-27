@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-27T17:59:55Z",
+  "observedAt": "2026-10-27T22:13:03Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/strelov1/freehire",
       "description": "freehire — the open-source search engine for job seekers",
       "programmingLanguage": "Go",
-      "stars": 3232,
-      "forks": 332,
+      "stars": 3245,
+      "forks": 335,
       "starsInPeriod": 1820
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/slavakurilyak/awesome-ai-agents",
       "description": "Awesome list of 300+ agentic AI resources",
       "programmingLanguage": "Go",
-      "stars": 2749,
-      "forks": 714,
+      "stars": 2753,
+      "forks": 716,
       "starsInPeriod": 250
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/chaitin/SafeLine",
       "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
       "programmingLanguage": "Go",
-      "stars": 23036,
-      "forks": 1579,
+      "stars": 23044,
+      "forks": 1580,
       "starsInPeriod": 199
     },
     {
@@ -55,7 +55,7 @@
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "programmingLanguage": "Go",
       "stars": 89439,
-      "forks": 8820,
+      "forks": 8822,
       "starsInPeriod": 102
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 185002,
-      "forks": 18646,
+      "stars": 185019,
+      "forks": 18653,
       "starsInPeriod": 1459
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 53995,
-      "forks": 7105,
+      "stars": 54007,
+      "forks": 7107,
       "starsInPeriod": 720
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "programmingLanguage": "Go",
-      "stars": 50005,
-      "forks": 4551,
+      "stars": 50009,
+      "forks": 4552,
       "starsInPeriod": 371
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://github.com/pearl-research-labs/pearl",
       "description": "Monorepo for the Pearl network 🐚",
       "programmingLanguage": "Go",
-      "stars": 416,
+      "stars": 419,
       "forks": 100,
       "starsInPeriod": 39
     },
@@ -114,7 +114,7 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 38774,
+      "stars": 38779,
       "forks": 804,
       "starsInPeriod": 240
     },
@@ -124,8 +124,8 @@
       "url": "https://github.com/eugenioenko/ttt",
       "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
       "programmingLanguage": "Go",
-      "stars": 915,
-      "forks": 107,
+      "stars": 917,
+      "forks": 108,
       "starsInPeriod": 257
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/helm/helm",
       "description": "The Kubernetes Package Manager",
       "programmingLanguage": "Go",
-      "stars": 30376,
-      "forks": 7895,
+      "stars": 30377,
+      "forks": 7897,
       "starsInPeriod": 39
     },
     {
@@ -144,7 +144,7 @@
       "url": "https://github.com/Autumn-27/ScopeSentry",
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "programmingLanguage": "Go",
-      "stars": 2166,
+      "stars": 2167,
       "forks": 486,
       "starsInPeriod": 183
     },
@@ -154,7 +154,7 @@
       "url": "https://github.com/QuantumNous/new-api",
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "programmingLanguage": "Go",
-      "stars": 50808,
+      "stars": 50811,
       "forks": 12303,
       "starsInPeriod": 542
     },
@@ -164,8 +164,8 @@
       "url": "https://github.com/grafana/loki",
       "description": "Like Prometheus, but for logs.",
       "programmingLanguage": "Go",
-      "stars": 29067,
-      "forks": 4158,
+      "stars": 29070,
+      "forks": 4160,
       "starsInPeriod": 28
     },
     {
@@ -174,7 +174,7 @@
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "programmingLanguage": "Go",
-      "stars": 92966,
+      "stars": 92970,
       "forks": 11129,
       "starsInPeriod": 486
     },
@@ -184,8 +184,8 @@
       "url": "https://github.com/encoredev/encore",
       "description": "Infrastructure orchestration from local to your cloud",
       "programmingLanguage": "Go",
-      "stars": 12622,
-      "forks": 652,
+      "stars": 12627,
+      "forks": 651,
       "starsInPeriod": 142
     }
   ]
