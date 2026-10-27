@@ -4,159 +4,209 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-27T05:02:19Z",
+  "observedAt": "2026-10-27T12:09:39Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "MHSanaei/3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "fullName": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
       "programmingLanguage": "Go",
-      "stars": 48654,
-      "forks": 12519,
-      "starsInPeriod": 82
+      "stars": 7704,
+      "forks": 2318,
+      "starsInPeriod": 10
     },
     {
       "rank": 2,
-      "fullName": "slavakurilyak/awesome-ai-agents",
-      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
-      "description": "Awesome list of 300+ agentic AI resources",
-      "programmingLanguage": "Go",
-      "stars": 2738,
-      "forks": 712,
-      "starsInPeriod": 28
-    },
-    {
-      "rank": 3,
       "fullName": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 115358,
-      "forks": 6653,
+      "stars": 115426,
+      "forks": 6659,
       "starsInPeriod": 277
     },
     {
-      "rank": 4,
+      "rank": 3,
       "fullName": "Gaurav-Gosain/tuios",
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
       "programmingLanguage": "Go",
-      "stars": 6111,
-      "forks": 281,
+      "stars": 6122,
+      "forks": 283,
       "starsInPeriod": 175
     },
     {
-      "rank": 5,
-      "fullName": "evcc-io/evcc",
-      "url": "https://github.com/evcc-io/evcc",
-      "description": "smart charging ☀️🚘",
+      "rank": 4,
+      "fullName": "router-for-me/CLIProxyAPI",
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
       "programmingLanguage": "Go",
-      "stars": 7426,
-      "forks": 1585,
-      "starsInPeriod": 5
+      "stars": 56577,
+      "forks": 8656,
+      "starsInPeriod": 298
+    },
+    {
+      "rank": 5,
+      "fullName": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "programmingLanguage": "Go",
+      "stars": 17913,
+      "forks": 1784,
+      "starsInPeriod": 6
     },
     {
       "rank": 6,
-      "fullName": "cockroachdb/cockroach",
-      "url": "https://github.com/cockroachdb/cockroach",
-      "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+      "fullName": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 32587,
-      "forks": 4172,
-      "starsInPeriod": 3
+      "stars": 53960,
+      "forks": 7097,
+      "starsInPeriod": 123
     },
     {
       "rank": 7,
-      "fullName": "majd/ipatool",
-      "url": "https://github.com/majd/ipatool",
-      "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
+      "fullName": "kopia/kopia",
+      "url": "https://github.com/kopia/kopia",
+      "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
       "programmingLanguage": "Go",
-      "stars": 12009,
-      "forks": 1051,
-      "starsInPeriod": 56
+      "stars": 14496,
+      "forks": 775,
+      "starsInPeriod": 31
     },
     {
       "rank": 8,
+      "fullName": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "programmingLanguage": "Go",
+      "stars": 72215,
+      "forks": 19232,
+      "starsInPeriod": 9
+    },
+    {
+      "rank": 9,
+      "fullName": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "programmingLanguage": "Go",
+      "stars": 20936,
+      "forks": 2016,
+      "starsInPeriod": 10
+    },
+    {
+      "rank": 10,
+      "fullName": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "programmingLanguage": "Go",
+      "stars": 36759,
+      "forks": 1911,
+      "starsInPeriod": 57
+    },
+    {
+      "rank": 11,
+      "fullName": "cloudflare/cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client",
+      "programmingLanguage": "Go",
+      "stars": 16293,
+      "forks": 1500,
+      "starsInPeriod": 45
+    },
+    {
+      "rank": 12,
       "fullName": "kunchenguid/no-mistakes",
       "url": "https://github.com/kunchenguid/no-mistakes",
       "description": "git push no-mistakes",
       "programmingLanguage": "Go",
-      "stars": 8983,
-      "forks": 936,
+      "stars": 8982,
+      "forks": 935,
       "starsInPeriod": 24
     },
     {
-      "rank": 9,
-      "fullName": "gohugoio/hugo",
-      "url": "https://github.com/gohugoio/hugo",
-      "description": "The world’s fastest framework for building websites.",
-      "programmingLanguage": "Go",
-      "stars": 90255,
-      "forks": 8415,
-      "starsInPeriod": 19
-    },
-    {
-      "rank": 10,
-      "fullName": "go-git/go-git",
-      "url": "https://github.com/go-git/go-git",
-      "description": "A highly extensible Git implementation in pure Go.",
-      "programmingLanguage": "Go",
-      "stars": 7832,
-      "forks": 1073,
-      "starsInPeriod": 0
-    },
-    {
-      "rank": 11,
-      "fullName": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "programmingLanguage": "Go",
-      "stars": 139628,
-      "forks": 21562,
-      "starsInPeriod": 61
-    },
-    {
-      "rank": 12,
-      "fullName": "github/gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
-      "programmingLanguage": "Go",
-      "stars": 5477,
-      "forks": 604,
-      "starsInPeriod": 9
-    },
-    {
       "rank": 13,
-      "fullName": "kedacore/keda",
-      "url": "https://github.com/kedacore/keda",
-      "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+      "fullName": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "programmingLanguage": "Go",
-      "stars": 10674,
-      "forks": 1564,
-      "starsInPeriod": 3
+      "stars": 35629,
+      "forks": 4818,
+      "starsInPeriod": 132
     },
     {
       "rank": 14,
-      "fullName": "YouROK/TorrServer",
-      "url": "https://github.com/YouROK/TorrServer",
-      "description": "Torrent stream server",
+      "fullName": "encoredev/encore",
+      "url": "https://github.com/encoredev/encore",
+      "description": "Infrastructure orchestration from local to your cloud",
       "programmingLanguage": "Go",
-      "stars": 3162,
-      "forks": 376,
-      "starsInPeriod": 7
+      "stars": 12614,
+      "forks": 651,
+      "starsInPeriod": 26
     },
     {
       "rank": 15,
-      "fullName": "benbjohnson/litestream",
-      "url": "https://github.com/benbjohnson/litestream",
-      "description": "Streaming replication for SQLite.",
+      "fullName": "rorkai/App-Store-Connect-CLI",
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI",
+      "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
       "programmingLanguage": "Go",
-      "stars": 14545,
-      "forks": 448,
-      "starsInPeriod": 9
+      "stars": 8062,
+      "forks": 698,
+      "starsInPeriod": 15
+    },
+    {
+      "rank": 16,
+      "fullName": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "programmingLanguage": "Go",
+      "stars": 37773,
+      "forks": 1497,
+      "starsInPeriod": 70
+    },
+    {
+      "rank": 17,
+      "fullName": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "programmingLanguage": "Go",
+      "stars": 6581,
+      "forks": 1525,
+      "starsInPeriod": 0
+    },
+    {
+      "rank": 18,
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "programmingLanguage": "Go",
+      "stars": 48442,
+      "forks": 3549,
+      "starsInPeriod": 119
+    },
+    {
+      "rank": 19,
+      "fullName": "grafana/mcp-grafana",
+      "url": "https://github.com/grafana/mcp-grafana",
+      "description": "MCP server for Grafana",
+      "programmingLanguage": "Go",
+      "stars": 3612,
+      "forks": 479,
+      "starsInPeriod": 10
+    },
+    {
+      "rank": 20,
+      "fullName": "klauspost/compress",
+      "url": "https://github.com/klauspost/compress",
+      "description": "Optimized Go Compression Packages",
+      "programmingLanguage": "Go",
+      "stars": 5702,
+      "forks": 422,
+      "starsInPeriod": 3
     }
   ]
 }

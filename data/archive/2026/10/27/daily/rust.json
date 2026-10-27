@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-10-27T05:02:10Z",
+  "updatedAt": "2026-10-27T12:09:30Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,28 +14,28 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 89434,
-      "forks": 5323,
-      "starsInPeriod": 1506,
+      "stars": 89858,
+      "forks": 5340,
+      "starsInPeriod": 1458,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-27T05:02:10Z",
-      "lastSeenAt": "2026-10-27T05:02:10Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-27T12:09:30Z",
+      "appearances": 2
     },
     {
       "fullName": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "programmingLanguage": "Rust",
-      "stars": 12508,
-      "forks": 1554,
-      "starsInPeriod": 843,
+      "stars": 12688,
+      "forks": 1567,
+      "starsInPeriod": 575,
       "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-10-27T05:02:10Z",
-      "lastSeenAt": "2026-10-27T05:02:10Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-27T12:09:30Z",
+      "appearances": 2
     },
     {
       "fullName": "cjpais/Handy",
@@ -52,6 +52,20 @@
       "appearances": 1
     },
     {
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "programmingLanguage": "Rust",
+      "stars": 100005,
+      "forks": 13072,
+      "starsInPeriod": 211,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-27T05:02:10Z",
+      "lastSeenAt": "2026-10-27T12:09:30Z",
+      "appearances": 2
+    },
+    {
       "fullName": "samwhosung/benilla",
       "url": "https://github.com/samwhosung/benilla",
       "description": "A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy",
@@ -63,6 +77,20 @@
       "latestRank": 4,
       "firstSeenAt": "2026-10-27T05:02:10Z",
       "lastSeenAt": "2026-10-27T05:02:10Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "fabio-rovai/open-ontologies",
+      "url": "https://github.com/fabio-rovai/open-ontologies",
+      "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
+      "programmingLanguage": "Rust",
+      "stars": 1683,
+      "forks": 215,
+      "starsInPeriod": 275,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-27T12:09:30Z",
+      "lastSeenAt": "2026-10-27T12:09:30Z",
       "appearances": 1
     },
     {
@@ -80,17 +108,17 @@
       "appearances": 1
     },
     {
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "fullName": "ShayanAbbas1/dbdelve",
+      "url": "https://github.com/ShayanAbbas1/dbdelve",
+      "description": "Fast and lightweight DB Client made in Rust and GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 99815,
-      "forks": 13057,
-      "starsInPeriod": 211,
-      "bestRank": 6,
-      "latestRank": 6,
-      "firstSeenAt": "2026-10-27T05:02:10Z",
-      "lastSeenAt": "2026-10-27T05:02:10Z",
+      "stars": 549,
+      "forks": 32,
+      "starsInPeriod": 27,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-27T12:09:30Z",
+      "lastSeenAt": "2026-10-27T12:09:30Z",
       "appearances": 1
     },
     {
@@ -98,13 +126,27 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 127199,
-      "forks": 20062,
+      "stars": 127238,
+      "forks": 20076,
       "starsInPeriod": 190,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-27T05:02:10Z",
+      "lastSeenAt": "2026-10-27T12:09:30Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "zeronsh/zeron",
+      "url": "https://github.com/zeronsh/zeron",
+      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
+      "programmingLanguage": "Rust",
+      "stars": 3395,
+      "forks": 349,
+      "starsInPeriod": 29,
       "bestRank": 7,
       "latestRank": 7,
-      "firstSeenAt": "2026-10-27T05:02:10Z",
-      "lastSeenAt": "2026-10-27T05:02:10Z",
+      "firstSeenAt": "2026-10-27T12:09:30Z",
+      "lastSeenAt": "2026-10-27T12:09:30Z",
       "appearances": 1
     },
     {
@@ -122,6 +164,20 @@
       "appearances": 1
     },
     {
+      "fullName": "agentgateway/agentgateway",
+      "url": "https://github.com/agentgateway/agentgateway",
+      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+      "programmingLanguage": "Rust",
+      "stars": 5674,
+      "forks": 1001,
+      "starsInPeriod": 30,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-27T12:09:30Z",
+      "lastSeenAt": "2026-10-27T12:09:30Z",
+      "appearances": 1
+    },
+    {
       "fullName": "JayWebtech/autoshorts",
       "url": "https://github.com/JayWebtech/autoshorts",
       "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
@@ -133,6 +189,20 @@
       "latestRank": 9,
       "firstSeenAt": "2026-10-27T05:02:10Z",
       "lastSeenAt": "2026-10-27T05:02:10Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "xai-org/x-algorithm",
+      "url": "https://github.com/xai-org/x-algorithm",
+      "description": "Algorithm powering the For You feed on X",
+      "programmingLanguage": "Rust",
+      "stars": 33824,
+      "forks": 5467,
+      "starsInPeriod": 37,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-27T12:09:30Z",
+      "lastSeenAt": "2026-10-27T12:09:30Z",
       "appearances": 1
     },
     {

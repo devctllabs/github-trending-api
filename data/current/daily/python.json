@@ -4,169 +4,159 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-10-27T05:02:00Z",
+  "observedAt": "2026-10-27T12:09:20Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "programmingLanguage": "Python",
-      "stars": 116427,
-      "forks": 22324,
-      "starsInPeriod": 1395
+      "stars": 44861,
+      "forks": 5667,
+      "starsInPeriod": 1587
     },
     {
       "rank": 2,
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "fullName": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "programmingLanguage": "Python",
-      "stars": 22377,
-      "forks": 1950,
-      "starsInPeriod": 214
+      "stars": 6334,
+      "forks": 542,
+      "starsInPeriod": 261
     },
     {
       "rank": 3,
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "programmingLanguage": "Python",
-      "stars": 103953,
-      "forks": 9221,
-      "starsInPeriod": 746
-    },
-    {
-      "rank": 4,
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "programmingLanguage": "Python",
-      "stars": 89670,
-      "forks": 9883,
-      "starsInPeriod": 2297
-    },
-    {
-      "rank": 5,
-      "fullName": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "programmingLanguage": "Python",
-      "stars": 43917,
-      "forks": 3220,
-      "starsInPeriod": 376
-    },
-    {
-      "rank": 6,
-      "fullName": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "programmingLanguage": "Python",
-      "stars": 63811,
-      "forks": 9984,
-      "starsInPeriod": 355
-    },
-    {
-      "rank": 7,
-      "fullName": "smicallef/spiderfoot",
-      "url": "https://github.com/smicallef/spiderfoot",
-      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "programmingLanguage": "Python",
-      "stars": 23876,
-      "forks": 3864,
-      "starsInPeriod": 84
-    },
-    {
-      "rank": 8,
-      "fullName": "eugeniughelbur/obsidian-second-brain",
-      "url": "https://github.com/eugeniughelbur/obsidian-second-brain",
-      "description": "Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less research, scheduled agents.",
-      "programmingLanguage": "Python",
-      "stars": 4961,
-      "forks": 607,
-      "starsInPeriod": 42
-    },
-    {
-      "rank": 9,
-      "fullName": "Asabeneh/30-Days-Of-Python",
-      "url": "https://github.com/Asabeneh/30-Days-Of-Python",
-      "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
-      "programmingLanguage": "Python",
-      "stars": 77262,
-      "forks": 13945,
-      "starsInPeriod": 90
-    },
-    {
-      "rank": 10,
       "fullName": "AgriciDaniel/claude-seo",
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 22259,
-      "forks": 3052,
+      "stars": 22458,
+      "forks": 3078,
       "starsInPeriod": 1457
     },
     {
-      "rank": 11,
-      "fullName": "higgsfield-ai/skills",
-      "url": "https://github.com/higgsfield-ai/skills",
-      "description": null,
+      "rank": 4,
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 1695,
-      "forks": 322,
-      "starsInPeriod": 226
+      "stars": 104486,
+      "forks": 9261,
+      "starsInPeriod": 1623
+    },
+    {
+      "rank": 5,
+      "fullName": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "programmingLanguage": "Python",
+      "stars": 116954,
+      "forks": 22398,
+      "starsInPeriod": 1702
+    },
+    {
+      "rank": 6,
+      "fullName": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "programmingLanguage": "Python",
+      "stars": 9567,
+      "forks": 1287,
+      "starsInPeriod": 257
+    },
+    {
+      "rank": 7,
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "programmingLanguage": "Python",
+      "stars": 22630,
+      "forks": 1963,
+      "starsInPeriod": 932
+    },
+    {
+      "rank": 8,
+      "fullName": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "programmingLanguage": "Python",
+      "stars": 23884,
+      "forks": 3873,
+      "starsInPeriod": 84
+    },
+    {
+      "rank": 9,
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "programmingLanguage": "Python",
+      "stars": 90488,
+      "forks": 9968,
+      "starsInPeriod": 2601
+    },
+    {
+      "rank": 10,
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "programmingLanguage": "Python",
+      "stars": 74585,
+      "forks": 13072,
+      "starsInPeriod": 529
+    },
+    {
+      "rank": 11,
+      "fullName": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "programmingLanguage": "Python",
+      "stars": 58975,
+      "forks": 3414,
+      "starsInPeriod": 182
     },
     {
       "rank": 12,
-      "fullName": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "The Unofficial and Awesome Home Assistant MCP Server",
+      "fullName": "HKUDS/AutoSwarm",
+      "url": "https://github.com/HKUDS/AutoSwarm",
+      "description": "AutoSwarm: All Your Agents, Working as One (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · and more)",
       "programmingLanguage": "Python",
-      "stars": 5282,
-      "forks": 255,
-      "starsInPeriod": 36
+      "stars": 2022,
+      "forks": 366,
+      "starsInPeriod": 41
     },
     {
       "rank": 13,
-      "fullName": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "fullName": "SimplifyJobs/Summer2027-Internships",
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "description": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
       "programmingLanguage": "Python",
-      "stars": 187784,
-      "forks": 45902,
-      "starsInPeriod": 73
+      "stars": 48180,
+      "forks": 3265,
+      "starsInPeriod": 53
     },
     {
       "rank": 14,
-      "fullName": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "fullName": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "programmingLanguage": "Python",
-      "stars": 91754,
-      "forks": 39035,
-      "starsInPeriod": 21
+      "stars": 243,
+      "forks": 32,
+      "starsInPeriod": 75
     },
     {
       "rank": 15,
-      "fullName": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "fullName": "521xueweihan/HelloGitHub",
+      "url": "https://github.com/521xueweihan/HelloGitHub",
+      "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
       "programmingLanguage": "Python",
-      "stars": 65608,
-      "forks": 5702,
-      "starsInPeriod": 152
-    },
-    {
-      "rank": 16,
-      "fullName": "HarnessRouter/harnessrouter",
-      "url": "https://github.com/HarnessRouter/harnessrouter",
-      "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure.",
-      "programmingLanguage": "Python",
-      "stars": 3710,
-      "forks": 395,
-      "starsInPeriod": 77
+      "stars": 184907,
+      "forks": 13112,
+      "starsInPeriod": 333
     }
   ]
 }

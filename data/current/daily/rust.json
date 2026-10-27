@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-27T05:02:10Z",
+  "observedAt": "2026-10-27T12:09:30Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "programmingLanguage": "Rust",
-      "stars": 89434,
-      "forks": 5323,
-      "starsInPeriod": 1506
+      "stars": 89858,
+      "forks": 5340,
+      "starsInPeriod": 1458
     },
     {
       "rank": 2,
@@ -24,109 +24,79 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "programmingLanguage": "Rust",
-      "stars": 12508,
-      "forks": 1554,
-      "starsInPeriod": 843
+      "stars": 12688,
+      "forks": 1567,
+      "starsInPeriod": 575
     },
     {
       "rank": 3,
-      "fullName": "cjpais/Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "programmingLanguage": "Rust",
-      "stars": 34812,
-      "forks": 3306,
-      "starsInPeriod": 140
-    },
-    {
-      "rank": 4,
-      "fullName": "samwhosung/benilla",
-      "url": "https://github.com/samwhosung/benilla",
-      "description": "A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy",
-      "programmingLanguage": "Rust",
-      "stars": 839,
-      "forks": 185,
-      "starsInPeriod": 19
-    },
-    {
-      "rank": 5,
-      "fullName": "CapSoftware/Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
-      "programmingLanguage": "Rust",
-      "stars": 23850,
-      "forks": 2171,
-      "starsInPeriod": 77
-    },
-    {
-      "rank": 6,
       "fullName": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "programmingLanguage": "Rust",
-      "stars": 99815,
-      "forks": 13057,
+      "stars": 100005,
+      "forks": 13072,
       "starsInPeriod": 211
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "fullName": "fabio-rovai/open-ontologies",
+      "url": "https://github.com/fabio-rovai/open-ontologies",
+      "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
+      "programmingLanguage": "Rust",
+      "stars": 1683,
+      "forks": 215,
+      "starsInPeriod": 275
+    },
+    {
+      "rank": 5,
+      "fullName": "ShayanAbbas1/dbdelve",
+      "url": "https://github.com/ShayanAbbas1/dbdelve",
+      "description": "Fast and lightweight DB Client made in Rust and GPUI.",
+      "programmingLanguage": "Rust",
+      "stars": 549,
+      "forks": 32,
+      "starsInPeriod": 27
+    },
+    {
+      "rank": 6,
       "fullName": "rustdesk/rustdesk",
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 127199,
-      "forks": 20062,
+      "stars": 127238,
+      "forks": 20076,
       "starsInPeriod": 190
     },
     {
-      "rank": 8,
-      "fullName": "malisper/pgrust",
-      "url": "https://github.com/malisper/pgrust",
-      "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
+      "rank": 7,
+      "fullName": "zeronsh/zeron",
+      "url": "https://github.com/zeronsh/zeron",
+      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "programmingLanguage": "Rust",
-      "stars": 5559,
-      "forks": 214,
-      "starsInPeriod": 81
+      "stars": 3395,
+      "forks": 349,
+      "starsInPeriod": 29
+    },
+    {
+      "rank": 8,
+      "fullName": "agentgateway/agentgateway",
+      "url": "https://github.com/agentgateway/agentgateway",
+      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+      "programmingLanguage": "Rust",
+      "stars": 5674,
+      "forks": 1001,
+      "starsInPeriod": 30
     },
     {
       "rank": 9,
-      "fullName": "JayWebtech/autoshorts",
-      "url": "https://github.com/JayWebtech/autoshorts",
-      "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
+      "fullName": "xai-org/x-algorithm",
+      "url": "https://github.com/xai-org/x-algorithm",
+      "description": "Algorithm powering the For You feed on X",
       "programmingLanguage": "Rust",
-      "stars": 1352,
-      "forks": 263,
-      "starsInPeriod": 19
-    },
-    {
-      "rank": 10,
-      "fullName": "nautechsystems/nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "programmingLanguage": "Rust",
-      "stars": 30912,
-      "forks": 4164,
-      "starsInPeriod": 82
-    },
-    {
-      "rank": 11,
-      "fullName": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
-      "programmingLanguage": "Rust",
-      "stars": 42362,
-      "forks": 4190,
-      "starsInPeriod": 27
-    },
-    {
-      "rank": 12,
-      "fullName": "mesamirh/MovieBox-Tui",
-      "url": "https://github.com/mesamirh/MovieBox-Tui",
-      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
-      "programmingLanguage": "Rust",
-      "stars": 2649,
-      "forks": 319,
-      "starsInPeriod": 29
+      "stars": 33824,
+      "forks": 5467,
+      "starsInPeriod": 37
     }
   ]
 }
