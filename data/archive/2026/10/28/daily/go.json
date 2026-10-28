@@ -5,10 +5,24 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-10-28T05:40:56Z",
+  "updatedAt": "2026-10-28T12:53:14Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
+    {
+      "fullName": "cloudflare/cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client",
+      "programmingLanguage": "Go",
+      "stars": 16322,
+      "forks": 1503,
+      "starsInPeriod": 44,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-28T05:40:56Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
+      "appearances": 2
+    },
     {
       "fullName": "open-telemetry/opentelemetry-collector",
       "url": "https://github.com/open-telemetry/opentelemetry-collector",
@@ -38,6 +52,34 @@
       "appearances": 1
     },
     {
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "programmingLanguage": "Go",
+      "stars": 8341,
+      "forks": 677,
+      "starsInPeriod": 79,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "programmingLanguage": "Go",
+      "stars": 48777,
+      "forks": 3569,
+      "starsInPeriod": 169,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-28T05:40:56Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
+      "appearances": 2
+    },
+    {
       "fullName": "Gaurav-Gosain/tuios",
       "url": "https://github.com/Gaurav-Gosain/tuios",
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
@@ -52,18 +94,32 @@
       "appearances": 1
     },
     {
+      "fullName": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "programmingLanguage": "Go",
+      "stars": 54090,
+      "forks": 7117,
+      "starsInPeriod": 129,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-28T05:40:56Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
+      "appearances": 2
+    },
+    {
       "fullName": "router-for-me/CLIProxyAPI",
       "url": "https://github.com/router-for-me/CLIProxyAPI",
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
       "programmingLanguage": "Go",
-      "stars": 56699,
-      "forks": 8674,
+      "stars": 56748,
+      "forks": 8684,
       "starsInPeriod": 257,
       "bestRank": 4,
-      "latestRank": 4,
+      "latestRank": 5,
       "firstSeenAt": "2026-10-28T05:40:56Z",
-      "lastSeenAt": "2026-10-28T05:40:56Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-28T12:53:14Z",
+      "appearances": 2
     },
     {
       "fullName": "VictoriaMetrics/VictoriaMetrics",
@@ -80,17 +136,17 @@
       "appearances": 1
     },
     {
-      "fullName": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "fullName": "MHSanaei/3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "programmingLanguage": "Go",
-      "stars": 54035,
-      "forks": 7109,
-      "starsInPeriod": 129,
+      "stars": 48770,
+      "forks": 12548,
+      "starsInPeriod": 84,
       "bestRank": 6,
       "latestRank": 6,
-      "firstSeenAt": "2026-10-28T05:40:56Z",
-      "lastSeenAt": "2026-10-28T05:40:56Z",
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
       "appearances": 1
     },
     {
@@ -108,6 +164,20 @@
       "appearances": 1
     },
     {
+      "fullName": "mvanhorn/cli-printing-press",
+      "url": "https://github.com/mvanhorn/cli-printing-press",
+      "description": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+      "programmingLanguage": "Go",
+      "stars": 4861,
+      "forks": 531,
+      "starsInPeriod": 7,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
+      "appearances": 1
+    },
+    {
       "fullName": "moby/moby",
       "url": "https://github.com/moby/moby",
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
@@ -119,6 +189,20 @@
       "latestRank": 8,
       "firstSeenAt": "2026-10-28T05:40:56Z",
       "lastSeenAt": "2026-10-28T05:40:56Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "tulir/whatsmeow",
+      "url": "https://github.com/tulir/whatsmeow",
+      "description": "Go library for the WhatsApp web multidevice API",
+      "programmingLanguage": "Go",
+      "stars": 7688,
+      "forks": 1287,
+      "starsInPeriod": 14,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
       "appearances": 1
     },
     {
@@ -136,31 +220,59 @@
       "appearances": 1
     },
     {
+      "fullName": "chaitin/SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "programmingLanguage": "Go",
+      "stars": 23065,
+      "forks": 1581,
+      "starsInPeriod": 67,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
+      "appearances": 1
+    },
+    {
       "fullName": "wailsapp/wails",
       "url": "https://github.com/wailsapp/wails",
       "description": "Create beautiful applications using Go",
       "programmingLanguage": "Go",
-      "stars": 36775,
+      "stars": 36785,
       "forks": 1910,
       "starsInPeriod": 46,
       "bestRank": 10,
-      "latestRank": 10,
+      "latestRank": 12,
       "firstSeenAt": "2026-10-28T05:40:56Z",
-      "lastSeenAt": "2026-10-28T05:40:56Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "github/gh-stack",
+      "url": "https://github.com/github/gh-stack",
+      "description": "GitHub Stacked PRs",
+      "programmingLanguage": "Go",
+      "stars": 1724,
+      "forks": 90,
+      "starsInPeriod": null,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
       "appearances": 1
     },
     {
-      "fullName": "cloudflare/cloudflared",
-      "url": "https://github.com/cloudflare/cloudflared",
-      "description": "Cloudflare Tunnel client",
+      "fullName": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
       "programmingLanguage": "Go",
-      "stars": 16313,
-      "forks": 1502,
-      "starsInPeriod": 44,
+      "stars": 7063,
+      "forks": 1091,
+      "starsInPeriod": 8,
       "bestRank": 11,
       "latestRank": 11,
-      "firstSeenAt": "2026-10-28T05:40:56Z",
-      "lastSeenAt": "2026-10-28T05:40:56Z",
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
       "appearances": 1
     },
     {
@@ -192,6 +304,20 @@
       "appearances": 1
     },
     {
+      "fullName": "plandex-ai/plandex",
+      "url": "https://github.com/plandex-ai/plandex",
+      "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+      "programmingLanguage": "Go",
+      "stars": 15830,
+      "forks": 1182,
+      "starsInPeriod": 13,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
+      "appearances": 1
+    },
+    {
       "fullName": "encoredev/encore",
       "url": "https://github.com/encoredev/encore",
       "description": "Infrastructure orchestration from local to your cloud",
@@ -203,6 +329,20 @@
       "latestRank": 14,
       "firstSeenAt": "2026-10-28T05:40:56Z",
       "lastSeenAt": "2026-10-28T05:40:56Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "programmingLanguage": "Go",
+      "stars": 9779,
+      "forks": 1024,
+      "starsInPeriod": 14,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
       "appearances": 1
     },
     {
@@ -220,6 +360,20 @@
       "appearances": 1
     },
     {
+      "fullName": "lionsoul2014/ip2region",
+      "url": "https://github.com/lionsoul2014/ip2region",
+      "description": "Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages",
+      "programmingLanguage": "Go",
+      "stars": 19775,
+      "forks": 3087,
+      "starsInPeriod": 22,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
+      "appearances": 1
+    },
+    {
       "fullName": "glanceapp/glance",
       "url": "https://github.com/glanceapp/glance",
       "description": "A self-hosted dashboard that puts all your feeds in one place",
@@ -231,6 +385,20 @@
       "latestRank": 16,
       "firstSeenAt": "2026-10-28T05:40:56Z",
       "lastSeenAt": "2026-10-28T05:40:56Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "argoproj/argo-workflows",
+      "url": "https://github.com/argoproj/argo-workflows",
+      "description": "Workflow Engine for Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 17061,
+      "forks": 3718,
+      "starsInPeriod": 4,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
       "appearances": 1
     },
     {
@@ -248,17 +416,31 @@
       "appearances": 1
     },
     {
-      "fullName": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 48700,
-      "forks": 3564,
-      "starsInPeriod": 169,
+      "stars": 185090,
+      "forks": 18681,
+      "starsInPeriod": 142,
+      "bestRank": 17,
+      "latestRank": 17,
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "kubernetes-sigs/agent-sandbox",
+      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
+      "programmingLanguage": "Go",
+      "stars": 4429,
+      "forks": 586,
+      "starsInPeriod": 19,
       "bestRank": 18,
       "latestRank": 18,
-      "firstSeenAt": "2026-10-28T05:40:56Z",
-      "lastSeenAt": "2026-10-28T05:40:56Z",
+      "firstSeenAt": "2026-10-28T12:53:14Z",
+      "lastSeenAt": "2026-10-28T12:53:14Z",
       "appearances": 1
     },
     {

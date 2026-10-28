@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=weekly",
-  "observedAt": "2026-10-28T05:41:10Z",
+  "observedAt": "2026-10-28T12:53:28Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,99 +14,89 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 50485,
-      "forks": 3182,
+      "stars": 50952,
+      "forks": 3209,
       "starsInPeriod": 16388
     },
     {
       "rank": 2,
-      "fullName": "hmjz100/LinkSwift",
-      "url": "https://github.com/hmjz100/LinkSwift",
-      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "programmingLanguage": "JavaScript",
-      "stars": 33402,
-      "forks": 2342,
-      "starsInPeriod": 6597
-    },
-    {
-      "rank": 3,
-      "fullName": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "description": null,
-      "programmingLanguage": "JavaScript",
-      "stars": 7425,
-      "forks": 1200,
-      "starsInPeriod": 842
-    },
-    {
-      "rank": 4,
-      "fullName": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "programmingLanguage": "JavaScript",
-      "stars": 20210,
-      "forks": 1129,
-      "starsInPeriod": 2027
-    },
-    {
-      "rank": 5,
       "fullName": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 178363,
-      "forks": 9763,
+      "stars": 178679,
+      "forks": 9791,
       "starsInPeriod": 8968
     },
     {
-      "rank": 6,
-      "fullName": "plugin87/ux-ui-agent-skills",
-      "url": "https://github.com/plugin87/ux-ui-agent-skills",
-      "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
+      "rank": 3,
+      "fullName": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 3038,
-      "forks": 292,
-      "starsInPeriod": 552
+      "stars": 33828,
+      "forks": 2386,
+      "starsInPeriod": 6597
     },
     {
-      "rank": 7,
+      "rank": 4,
       "fullName": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 291071,
-      "forks": 43090,
+      "stars": 291364,
+      "forks": 43132,
       "starsInPeriod": 6381
     },
     {
-      "rank": 8,
-      "fullName": "react/react",
-      "url": "https://github.com/react/react",
-      "description": "The library for web and native user interfaces.",
+      "rank": 5,
+      "fullName": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "programmingLanguage": "JavaScript",
-      "stars": 251806,
-      "forks": 51576,
-      "starsInPeriod": 524
+      "stars": 20307,
+      "forks": 1135,
+      "starsInPeriod": 2027
     },
     {
-      "rank": 9,
+      "rank": 6,
       "fullName": "nodejs/node",
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "programmingLanguage": "JavaScript",
-      "stars": 123152,
-      "forks": 39265,
+      "stars": 123124,
+      "forks": 39267,
       "starsInPeriod": 773
     },
     {
-      "rank": 10,
-      "fullName": "xmanrui/dsh-im",
-      "url": "https://github.com/xmanrui/dsh-im",
-      "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+      "rank": 7,
+      "fullName": "plugin87/ux-ui-agent-skills",
+      "url": "https://github.com/plugin87/ux-ui-agent-skills",
+      "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
       "programmingLanguage": "JavaScript",
-      "stars": 2706,
-      "forks": 269,
-      "starsInPeriod": 470
+      "stars": 3042,
+      "forks": 292,
+      "starsInPeriod": 552
+    },
+    {
+      "rank": 8,
+      "fullName": "projectdiscovery/nuclei-templates",
+      "url": "https://github.com/projectdiscovery/nuclei-templates",
+      "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+      "programmingLanguage": "JavaScript",
+      "stars": 13242,
+      "forks": 3720,
+      "starsInPeriod": 116
+    },
+    {
+      "rank": 9,
+      "fullName": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": null,
+      "programmingLanguage": "JavaScript",
+      "stars": 7436,
+      "forks": 1204,
+      "starsInPeriod": 842
     }
   ]
 }

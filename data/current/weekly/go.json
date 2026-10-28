@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-28T05:41:00Z",
+  "observedAt": "2026-10-28T12:53:18Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,69 +14,69 @@
       "url": "https://github.com/strelov1/freehire",
       "description": "freehire — the open-source search engine for job seekers",
       "programmingLanguage": "Go",
-      "stars": 3256,
-      "forks": 337,
+      "stars": 3264,
+      "forks": 338,
       "starsInPeriod": 1486
     },
     {
       "rank": 2,
-      "fullName": "Asymptote-Labs/agent-beacon",
-      "url": "https://github.com/Asymptote-Labs/agent-beacon",
-      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
-      "programmingLanguage": "Go",
-      "stars": 2880,
-      "forks": 262,
-      "starsInPeriod": 946
-    },
-    {
-      "rank": 3,
       "fullName": "slavakurilyak/awesome-ai-agents",
       "url": "https://github.com/slavakurilyak/awesome-ai-agents",
       "description": "Awesome list of 300+ agentic AI resources",
       "programmingLanguage": "Go",
-      "stars": 2758,
+      "stars": 2762,
       "forks": 717,
       "starsInPeriod": 274
     },
     {
-      "rank": 4,
-      "fullName": "chaitin/SafeLine",
-      "url": "https://github.com/chaitin/SafeLine",
-      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
-      "programmingLanguage": "Go",
-      "stars": 23056,
-      "forks": 1581,
-      "starsInPeriod": 242
-    },
-    {
-      "rank": 5,
-      "fullName": "gin-gonic/gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-      "programmingLanguage": "Go",
-      "stars": 89443,
-      "forks": 8829,
-      "starsInPeriod": 94
-    },
-    {
-      "rank": 6,
-      "fullName": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "programmingLanguage": "Go",
-      "stars": 185055,
-      "forks": 18668,
-      "starsInPeriod": 1173
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "fullName": "multica-ai/multica",
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 54036,
-      "forks": 7109,
+      "stars": 54090,
+      "forks": 7117,
       "starsInPeriod": 735
+    },
+    {
+      "rank": 4,
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "programmingLanguage": "Go",
+      "stars": 185090,
+      "forks": 18681,
+      "starsInPeriod": 1173
+    },
+    {
+      "rank": 5,
+      "fullName": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "programmingLanguage": "Go",
+      "stars": 38215,
+      "forks": 3370,
+      "starsInPeriod": 382
+    },
+    {
+      "rank": 6,
+      "fullName": "eugenioenko/ttt",
+      "url": "https://github.com/eugenioenko/ttt",
+      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
+      "programmingLanguage": "Go",
+      "stars": 933,
+      "forks": 110,
+      "starsInPeriod": 287
+    },
+    {
+      "rank": 7,
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 38806,
+      "forks": 806,
+      "starsInPeriod": 248
     },
     {
       "rank": 8,
@@ -84,8 +84,8 @@
       "url": "https://github.com/samber/cc-skills-golang",
       "description": "🧑‍🎨 A collection of Golang agentic skills that works",
       "programmingLanguage": "Go",
-      "stars": 3696,
-      "forks": 247,
+      "stars": 3702,
+      "forks": 248,
       "starsInPeriod": 172
     },
     {
@@ -94,79 +94,79 @@
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "programmingLanguage": "Go",
-      "stars": 50014,
+      "stars": 50022,
       "forks": 4554,
       "starsInPeriod": 275
     },
     {
       "rank": 10,
+      "fullName": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "programmingLanguage": "Go",
+      "stars": 36785,
+      "forks": 1910,
+      "starsInPeriod": 177
+    },
+    {
+      "rank": 11,
       "fullName": "pearl-research-labs/pearl",
       "url": "https://github.com/pearl-research-labs/pearl",
       "description": "Monorepo for the Pearl network 🐚",
       "programmingLanguage": "Go",
-      "stars": 419,
-      "forks": 100,
+      "stars": 424,
+      "forks": 101,
       "starsInPeriod": 41
     },
     {
-      "rank": 11,
-      "fullName": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "programmingLanguage": "Go",
-      "stars": 38791,
-      "forks": 804,
-      "starsInPeriod": 248
-    },
-    {
       "rank": 12,
-      "fullName": "eugenioenko/ttt",
-      "url": "https://github.com/eugenioenko/ttt",
-      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
+      "fullName": "php/frankenphp",
+      "url": "https://github.com/php/frankenphp",
+      "description": "🧟 The modern PHP app server",
       "programmingLanguage": "Go",
-      "stars": 924,
-      "forks": 110,
-      "starsInPeriod": 287
+      "stars": 11485,
+      "forks": 503,
+      "starsInPeriod": 76
     },
     {
       "rank": 13,
-      "fullName": "helm/helm",
-      "url": "https://github.com/helm/helm",
-      "description": "The Kubernetes Package Manager",
+      "fullName": "Asymptote-Labs/agent-beacon",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "programmingLanguage": "Go",
-      "stars": 30380,
-      "forks": 7904,
-      "starsInPeriod": 33
+      "stars": 2883,
+      "forks": 262,
+      "starsInPeriod": 946
     },
     {
       "rank": 14,
-      "fullName": "Autumn-27/ScopeSentry",
-      "url": "https://github.com/Autumn-27/ScopeSentry",
-      "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
+      "fullName": "dagger/dagger",
+      "url": "https://github.com/dagger/dagger",
+      "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud",
       "programmingLanguage": "Go",
-      "stars": 2171,
-      "forks": 488,
-      "starsInPeriod": 185
+      "stars": 16527,
+      "forks": 940,
+      "starsInPeriod": 177
     },
     {
       "rank": 15,
       "fullName": "QuantumNous/new-api",
       "url": "https://github.com/QuantumNous/new-api",
-      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
+      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
       "programmingLanguage": "Go",
-      "stars": 50832,
-      "forks": 12311,
+      "stars": 50870,
+      "forks": 12326,
       "starsInPeriod": 547
     },
     {
       "rank": 16,
-      "fullName": "grafana/loki",
-      "url": "https://github.com/grafana/loki",
-      "description": "Like Prometheus, but for logs.",
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
       "programmingLanguage": "Go",
-      "stars": 29082,
-      "forks": 4160,
-      "starsInPeriod": 30
+      "stars": 8341,
+      "forks": 677,
+      "starsInPeriod": 285
     },
     {
       "rank": 17,
@@ -174,19 +174,29 @@
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "programmingLanguage": "Go",
-      "stars": 92985,
-      "forks": 11129,
+      "stars": 93009,
+      "forks": 11140,
       "starsInPeriod": 484
     },
     {
       "rank": 18,
-      "fullName": "encoredev/encore",
-      "url": "https://github.com/encoredev/encore",
-      "description": "Infrastructure orchestration from local to your cloud",
+      "fullName": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "programmingLanguage": "Go",
-      "stars": 12636,
-      "forks": 651,
-      "starsInPeriod": 157
+      "stars": 72219,
+      "forks": 19252,
+      "starsInPeriod": 61
+    },
+    {
+      "rank": 19,
+      "fullName": "chaitin/SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "programmingLanguage": "Go",
+      "stars": 23065,
+      "forks": 1581,
+      "starsInPeriod": 242
     }
   ]
 }

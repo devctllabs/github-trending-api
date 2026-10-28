@@ -4,29 +4,29 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-10-28T05:40:40Z",
+  "observedAt": "2026-10-28T12:52:58Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "programmingLanguage": "Python",
-      "stars": 33488,
-      "forks": 3677,
-      "starsInPeriod": 2789
-    },
-    {
-      "rank": 2,
       "fullName": "AgriciDaniel/claude-seo",
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 22855,
-      "forks": 3106,
+      "stars": 23035,
+      "forks": 3126,
       "starsInPeriod": 3081
+    },
+    {
+      "rank": 2,
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "programmingLanguage": "Python",
+      "stars": 33547,
+      "forks": 3685,
+      "starsInPeriod": 2789
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "programmingLanguage": "Python",
-      "stars": 117459,
-      "forks": 22485,
+      "stars": 117646,
+      "forks": 22513,
       "starsInPeriod": 4882
     },
     {
@@ -44,19 +44,19 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "programmingLanguage": "Python",
-      "stars": 137138,
-      "forks": 13085,
+      "stars": 137379,
+      "forks": 13102,
       "starsInPeriod": 7268
     },
     {
       "rank": 5,
-      "fullName": "fastapi/fastapi",
-      "url": "https://github.com/fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 104207,
-      "forks": 10133,
-      "starsInPeriod": 1089
+      "stars": 92314,
+      "forks": 10216,
+      "starsInPeriod": 12866
     },
     {
       "rank": 6,
@@ -64,69 +64,89 @@
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "programmingLanguage": "Python",
-      "stars": 95729,
-      "forks": 24079,
+      "stars": 95755,
+      "forks": 24091,
       "starsInPeriod": 1404
     },
     {
       "rank": 7,
-      "fullName": "sgl-project/sglang",
-      "url": "https://github.com/sgl-project/sglang",
-      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
-      "programmingLanguage": "Python",
-      "stars": 38295,
-      "forks": 9943,
-      "starsInPeriod": 821
-    },
-    {
-      "rank": 8,
-      "fullName": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "programmingLanguage": "Python",
-      "stars": 45639,
-      "forks": 5591,
-      "starsInPeriod": 3545
-    },
-    {
-      "rank": 9,
-      "fullName": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "programmingLanguage": "Python",
-      "stars": 3318,
-      "forks": 416,
-      "starsInPeriod": 397
-    },
-    {
-      "rank": 10,
-      "fullName": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "programmingLanguage": "Python",
-      "stars": 9642,
-      "forks": 1300,
-      "starsInPeriod": 1994
-    },
-    {
-      "rank": 11,
       "fullName": "higgsfield-ai/skills",
       "url": "https://github.com/higgsfield-ai/skills",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 1750,
+      "stars": 1757,
       "forks": 328,
       "starsInPeriod": 406
     },
     {
-      "rank": 12,
-      "fullName": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "rank": 8,
+      "fullName": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "programmingLanguage": "Python",
-      "stars": 43968,
-      "forks": 7261,
-      "starsInPeriod": 1790
+      "stars": 3324,
+      "forks": 416,
+      "starsInPeriod": 397
+    },
+    {
+      "rank": 9,
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "programmingLanguage": "Python",
+      "stars": 65752,
+      "forks": 5721,
+      "starsInPeriod": 874
+    },
+    {
+      "rank": 10,
+      "fullName": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "programmingLanguage": "Python",
+      "stars": 104237,
+      "forks": 10137,
+      "starsInPeriod": 1089
+    },
+    {
+      "rank": 11,
+      "fullName": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "programmingLanguage": "Python",
+      "stars": 45736,
+      "forks": 5603,
+      "starsInPeriod": 3545
+    },
+    {
+      "rank": 12,
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "programmingLanguage": "Python",
+      "stars": 47244,
+      "forks": 5885,
+      "starsInPeriod": 5182
+    },
+    {
+      "rank": 13,
+      "fullName": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "programmingLanguage": "Python",
+      "stars": 9674,
+      "forks": 1305,
+      "starsInPeriod": 1994
+    },
+    {
+      "rank": 14,
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "programmingLanguage": "Python",
+      "stars": 22907,
+      "forks": 1980,
+      "starsInPeriod": 2140
     }
   ]
 }

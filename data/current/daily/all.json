@@ -4,119 +4,149 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-10-28T05:40:26Z",
+  "observedAt": "2026-10-28T12:52:43Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "elayadesign/ai-design-skills",
-      "url": "https://github.com/elayadesign/ai-design-skills",
-      "description": null,
-      "programmingLanguage": null,
-      "stars": 9858,
-      "forks": 694,
-      "starsInPeriod": 1395
-    },
-    {
-      "rank": 2,
-      "fullName": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "programmingLanguage": "CSS",
-      "stars": 39367,
-      "forks": 2055,
-      "starsInPeriod": 2830
-    },
-    {
-      "rank": 3,
-      "fullName": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "programmingLanguage": "TypeScript",
-      "stars": 2642,
-      "forks": 265,
-      "starsInPeriod": 777
-    },
-    {
-      "rank": 4,
-      "fullName": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "programmingLanguage": "Shell",
-      "stars": 306631,
-      "forks": 27292,
-      "starsInPeriod": 617
-    },
-    {
-      "rank": 5,
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "programmingLanguage": "Rust",
-      "stars": 90896,
-      "forks": 5389,
-      "starsInPeriod": 1449
-    },
-    {
-      "rank": 6,
-      "fullName": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "programmingLanguage": "TypeScript",
-      "stars": 7651,
-      "forks": 907,
-      "starsInPeriod": 1465
-    },
-    {
-      "rank": 7,
-      "fullName": "gitroomhq/postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "programmingLanguage": "TypeScript",
-      "stars": 39582,
-      "forks": 7530,
-      "starsInPeriod": 951
-    },
-    {
-      "rank": 8,
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "programmingLanguage": "JavaScript",
-      "stars": 291071,
-      "forks": 43089,
-      "starsInPeriod": 1165
-    },
-    {
-      "rank": 9,
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
-      "programmingLanguage": "Python",
-      "stars": 46444,
-      "forks": 5810,
-      "starsInPeriod": 1598
-    },
-    {
-      "rank": 10,
       "fullName": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "programmingLanguage": "TypeScript",
-      "stars": 4256,
-      "forks": 225,
-      "starsInPeriod": 1204
+      "stars": 4584,
+      "forks": 239,
+      "starsInPeriod": 1075
     },
     {
-      "rank": 11,
+      "rank": 2,
+      "fullName": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": null,
+      "programmingLanguage": null,
+      "stars": 10600,
+      "forks": 757,
+      "starsInPeriod": 1395
+    },
+    {
+      "rank": 3,
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "programmingLanguage": "Shell",
+      "stars": 306968,
+      "forks": 27321,
+      "starsInPeriod": 1096
+    },
+    {
+      "rank": 4,
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "programmingLanguage": "Python",
+      "stars": 47244,
+      "forks": 5885,
+      "starsInPeriod": 2376
+    },
+    {
+      "rank": 5,
+      "fullName": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "programmingLanguage": "Rust",
+      "stars": 5197,
+      "forks": 507,
+      "starsInPeriod": 106
+    },
+    {
+      "rank": 6,
+      "fullName": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "programmingLanguage": "CSS",
+      "stars": 40013,
+      "forks": 2087,
+      "starsInPeriod": 2109
+    },
+    {
+      "rank": 7,
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "programmingLanguage": "Rust",
+      "stars": 91360,
+      "forks": 5405,
+      "starsInPeriod": 1471
+    },
+    {
+      "rank": 8,
+      "fullName": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "programmingLanguage": "TypeScript",
+      "stars": 7841,
+      "forks": 922,
+      "starsInPeriod": 740
+    },
+    {
+      "rank": 9,
+      "fullName": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "programmingLanguage": "TypeScript",
+      "stars": 2923,
+      "forks": 289,
+      "starsInPeriod": 1053
+    },
+    {
+      "rank": 10,
       "fullName": "togg53192-cmd/jailbreaks",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "description": "LIST OF ALL MY JAILBREAKS",
       "programmingLanguage": null,
-      "stars": 5883,
-      "forks": 865,
-      "starsInPeriod": 902
+      "stars": 6411,
+      "forks": 924,
+      "starsInPeriod": 1478
+    },
+    {
+      "rank": 11,
+      "fullName": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "programmingLanguage": "JavaScript",
+      "stars": 33826,
+      "forks": 2386,
+      "starsInPeriod": 3209
+    },
+    {
+      "rank": 12,
+      "fullName": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "programmingLanguage": "Shell",
+      "stars": 3372,
+      "forks": 217,
+      "starsInPeriod": 212
+    },
+    {
+      "rank": 13,
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "programmingLanguage": "Rust",
+      "stars": 100577,
+      "forks": 13128,
+      "starsInPeriod": 415
+    },
+    {
+      "rank": 14,
+      "fullName": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "programmingLanguage": "Jupyter Notebook",
+      "stars": 18288,
+      "forks": 17866,
+      "starsInPeriod": 143
     }
   ]
 }
