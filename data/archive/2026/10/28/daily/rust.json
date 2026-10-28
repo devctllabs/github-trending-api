@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-10-28T12:53:04Z",
+  "updatedAt": "2026-10-28T22:34:00Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,28 +14,28 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 91360,
-      "forks": 5405,
+      "stars": 92493,
+      "forks": 5468,
       "starsInPeriod": 1471,
       "bestRank": 1,
       "latestRank": 2,
       "firstSeenAt": "2026-10-28T05:40:46Z",
-      "lastSeenAt": "2026-10-28T12:53:04Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-28T22:34:00Z",
+      "appearances": 3
     },
     {
       "fullName": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "programmingLanguage": "Rust",
-      "stars": 5197,
-      "forks": 507,
+      "stars": 5383,
+      "forks": 518,
       "starsInPeriod": 106,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-28T12:53:04Z",
-      "lastSeenAt": "2026-10-28T12:53:04Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-28T22:34:00Z",
+      "appearances": 2
     },
     {
       "fullName": "pollen-robotics/microduck",
@@ -56,14 +56,14 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "programmingLanguage": "Rust",
-      "stars": 100577,
-      "forks": 13128,
-      "starsInPeriod": 415,
+      "stars": 100972,
+      "forks": 13158,
+      "starsInPeriod": 596,
       "bestRank": 3,
       "latestRank": 3,
       "firstSeenAt": "2026-10-28T05:40:46Z",
-      "lastSeenAt": "2026-10-28T12:53:04Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-28T22:34:00Z",
+      "appearances": 3
     },
     {
       "fullName": "fabio-rovai/open-ontologies",
@@ -84,14 +84,14 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "programmingLanguage": "Rust",
-      "stars": 131389,
-      "forks": 20747,
+      "stars": 131435,
+      "forks": 20756,
       "starsInPeriod": 308,
       "bestRank": 4,
       "latestRank": 4,
       "firstSeenAt": "2026-10-28T12:53:04Z",
-      "lastSeenAt": "2026-10-28T12:53:04Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-28T22:34:00Z",
+      "appearances": 2
     },
     {
       "fullName": "ShayanAbbas1/dbdelve",
@@ -112,14 +112,14 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 28007,
-      "forks": 2537,
+      "stars": 28036,
+      "forks": 2541,
       "starsInPeriod": 88,
       "bestRank": 5,
       "latestRank": 5,
       "firstSeenAt": "2026-10-28T12:53:04Z",
-      "lastSeenAt": "2026-10-28T12:53:04Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-28T22:34:00Z",
+      "appearances": 2
     },
     {
       "fullName": "rustdesk/rustdesk",
@@ -136,6 +136,20 @@
       "appearances": 1
     },
     {
+      "fullName": "trymirai/uzu",
+      "url": "https://github.com/trymirai/uzu",
+      "description": "A high-performance inference engine for AI models",
+      "programmingLanguage": "Rust",
+      "stars": 2993,
+      "forks": 183,
+      "starsInPeriod": 360,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-28T12:53:04Z",
+      "lastSeenAt": "2026-10-28T22:34:00Z",
+      "appearances": 2
+    },
+    {
       "fullName": "zeronsh/zeron",
       "url": "https://github.com/zeronsh/zeron",
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
@@ -150,18 +164,18 @@
       "appearances": 1
     },
     {
-      "fullName": "trymirai/uzu",
-      "url": "https://github.com/trymirai/uzu",
-      "description": "A high-performance inference engine for AI models",
+      "fullName": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "programmingLanguage": "Rust",
-      "stars": 2954,
-      "forks": 180,
-      "starsInPeriod": 360,
+      "stars": 24490,
+      "forks": 869,
+      "starsInPeriod": 180,
       "bestRank": 7,
       "latestRank": 7,
       "firstSeenAt": "2026-10-28T12:53:04Z",
-      "lastSeenAt": "2026-10-28T12:53:04Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-28T22:34:00Z",
+      "appearances": 2
     },
     {
       "fullName": "agentgateway/agentgateway",
@@ -178,88 +192,74 @@
       "appearances": 1
     },
     {
-      "fullName": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "programmingLanguage": "Rust",
-      "stars": 24442,
-      "forks": 864,
-      "starsInPeriod": 180,
-      "bestRank": 8,
-      "latestRank": 8,
-      "firstSeenAt": "2026-10-28T12:53:04Z",
-      "lastSeenAt": "2026-10-28T12:53:04Z",
-      "appearances": 1
-    },
-    {
       "fullName": "xai-org/x-algorithm",
       "url": "https://github.com/xai-org/x-algorithm",
       "description": "Algorithm powering the For You feed on X",
       "programmingLanguage": "Rust",
-      "stars": 33857,
-      "forks": 5473,
-      "starsInPeriod": 40,
-      "bestRank": 9,
-      "latestRank": 9,
+      "stars": 33873,
+      "forks": 5476,
+      "starsInPeriod": 37,
+      "bestRank": 8,
+      "latestRank": 8,
       "firstSeenAt": "2026-10-28T05:40:46Z",
-      "lastSeenAt": "2026-10-28T12:53:04Z",
-      "appearances": 2
+      "lastSeenAt": "2026-10-28T22:34:00Z",
+      "appearances": 3
     },
     {
       "fullName": "cocoindex-io/cocoindex",
       "url": "https://github.com/cocoindex-io/cocoindex",
       "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
       "programmingLanguage": "Rust",
-      "stars": 11767,
-      "forks": 920,
+      "stars": 11773,
+      "forks": 922,
       "starsInPeriod": 3,
-      "bestRank": 10,
-      "latestRank": 10,
+      "bestRank": 9,
+      "latestRank": 9,
       "firstSeenAt": "2026-10-28T12:53:04Z",
-      "lastSeenAt": "2026-10-28T12:53:04Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-28T22:34:00Z",
+      "appearances": 2
     },
     {
       "fullName": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 44746,
+      "stars": 44777,
       "forks": 3068,
       "starsInPeriod": 66,
-      "bestRank": 11,
-      "latestRank": 11,
+      "bestRank": 10,
+      "latestRank": 10,
       "firstSeenAt": "2026-10-28T12:53:04Z",
-      "lastSeenAt": "2026-10-28T12:53:04Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-28T22:34:00Z",
+      "appearances": 2
     },
     {
       "fullName": "stalwartlabs/stalwart",
       "url": "https://github.com/stalwartlabs/stalwart",
       "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
       "programmingLanguage": "Rust",
-      "stars": 15451,
+      "stars": 15464,
       "forks": 1025,
       "starsInPeriod": 78,
-      "bestRank": 12,
-      "latestRank": 12,
+      "bestRank": 11,
+      "latestRank": 11,
       "firstSeenAt": "2026-10-28T12:53:04Z",
-      "lastSeenAt": "2026-10-28T12:53:04Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-28T22:34:00Z",
+      "appearances": 2
     },
     {
       "fullName": "zed-industries/zed",
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "programmingLanguage": "Rust",
-      "stars": 92334,
-      "forks": 11253,
+      "stars": 92342,
+      "forks": 11258,
       "starsInPeriod": 65,
-      "bestRank": 13,
-      "latestRank": 13,
+      "bestRank": 12,
+      "latestRank": 12,
       "firstSeenAt": "2026-10-28T12:53:04Z",
-      "lastSeenAt": "2026-10-28T12:53:04Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-28T22:34:00Z",
+      "appearances": 2
     }
   ]
 }
