@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-28T22:34:10Z",
+  "observedAt": "2026-10-29T05:46:31Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/cloudflare/cloudflared",
       "description": "Cloudflare Tunnel client",
       "programmingLanguage": "Go",
-      "stars": 16328,
-      "forks": 1504,
-      "starsInPeriod": 30
+      "stars": 16330,
+      "forks": 1506,
+      "starsInPeriod": 31
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/superplanehq/superplane",
       "description": "Open source factory for one-shot engineering",
       "programmingLanguage": "Go",
-      "stars": 8357,
+      "stars": 8366,
       "forks": 680,
-      "starsInPeriod": 79
+      "starsInPeriod": 69
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 48824,
-      "forks": 3571,
-      "starsInPeriod": 312
+      "stars": 48873,
+      "forks": 3572,
+      "starsInPeriod": 310
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 54126,
-      "forks": 7125,
-      "starsInPeriod": 136
+      "stars": 54171,
+      "forks": 7129,
+      "starsInPeriod": 137
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/router-for-me/CLIProxyAPI",
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
       "programmingLanguage": "Go",
-      "stars": 56788,
-      "forks": 8694,
-      "starsInPeriod": 167
+      "stars": 56818,
+      "forks": 8700,
+      "starsInPeriod": 162
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/MHSanaei/3x-ui",
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "programmingLanguage": "Go",
-      "stars": 48785,
-      "forks": 12550,
-      "starsInPeriod": 84
+      "stars": 48804,
+      "forks": 12553,
+      "starsInPeriod": 86
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/mvanhorn/cli-printing-press",
       "description": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
       "programmingLanguage": "Go",
-      "stars": 4866,
-      "forks": 532,
-      "starsInPeriod": 7
+      "stars": 4869,
+      "forks": 531,
+      "starsInPeriod": 9
     },
     {
       "rank": 8,
@@ -86,7 +86,7 @@
       "programmingLanguage": "Go",
       "stars": 7695,
       "forks": 1288,
-      "starsInPeriod": 14
+      "starsInPeriod": 9
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/chaitin/SafeLine",
       "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
       "programmingLanguage": "Go",
-      "stars": 23073,
+      "stars": 23081,
       "forks": 1583,
-      "starsInPeriod": 67
+      "starsInPeriod": 43
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/github/gh-stack",
       "description": "GitHub Stacked PRs",
       "programmingLanguage": "Go",
-      "stars": 1726,
-      "forks": 91,
-      "starsInPeriod": null
+      "stars": 1725,
+      "forks": 92,
+      "starsInPeriod": 2
     },
     {
       "rank": 11,
@@ -114,8 +114,8 @@
       "url": "https://github.com/fleetdm/fleet",
       "description": "Open device management",
       "programmingLanguage": "Go",
-      "stars": 7065,
-      "forks": 1091,
+      "stars": 7070,
+      "forks": 1092,
       "starsInPeriod": 8
     },
     {
@@ -124,9 +124,9 @@
       "url": "https://github.com/wailsapp/wails",
       "description": "Create beautiful applications using Go",
       "programmingLanguage": "Go",
-      "stars": 36793,
-      "forks": 1912,
-      "starsInPeriod": 33
+      "stars": 36799,
+      "forks": 1914,
+      "starsInPeriod": 35
     },
     {
       "rank": 13,
@@ -134,8 +134,8 @@
       "url": "https://github.com/plandex-ai/plandex",
       "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
       "programmingLanguage": "Go",
-      "stars": 15834,
-      "forks": 1182,
+      "stars": 15840,
+      "forks": 1183,
       "starsInPeriod": 13
     },
     {
@@ -144,9 +144,9 @@
       "url": "https://github.com/anchore/syft",
       "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
       "programmingLanguage": "Go",
-      "stars": 9783,
-      "forks": 1024,
-      "starsInPeriod": 14
+      "stars": 9785,
+      "forks": 1026,
+      "starsInPeriod": 15
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/lionsoul2014/ip2region",
       "description": "Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages",
       "programmingLanguage": "Go",
-      "stars": 19777,
-      "forks": 3087,
-      "starsInPeriod": 22
+      "stars": 19785,
+      "forks": 3088,
+      "starsInPeriod": 9
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/argoproj/argo-workflows",
       "description": "Workflow Engine for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 17063,
+      "stars": 17066,
       "forks": 3717,
-      "starsInPeriod": 4
+      "starsInPeriod": 6
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 185139,
-      "forks": 18699,
-      "starsInPeriod": 142
+      "stars": 185159,
+      "forks": 18705,
+      "starsInPeriod": 134
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/kubernetes-sigs/agent-sandbox",
       "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
       "programmingLanguage": "Go",
-      "stars": 4433,
+      "stars": 4437,
       "forks": 587,
-      "starsInPeriod": 19
+      "starsInPeriod": 15
     }
   ]
 }
