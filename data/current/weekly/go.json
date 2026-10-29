@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-29T05:46:34Z",
+  "observedAt": "2026-10-29T12:59:05Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/strelov1/freehire",
       "description": "freehire — the open-source search engine for job seekers",
       "programmingLanguage": "Go",
-      "stars": 3303,
-      "forks": 342,
+      "stars": 3325,
+      "forks": 347,
       "starsInPeriod": 1229
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://github.com/slavakurilyak/awesome-ai-agents",
       "description": "Awesome list of 300+ agentic AI resources",
       "programmingLanguage": "Go",
-      "stars": 2768,
+      "stars": 2771,
       "forks": 718,
       "starsInPeriod": 277
     },
@@ -34,169 +34,169 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 54171,
-      "forks": 7129,
+      "stars": 54224,
+      "forks": 7139,
       "starsInPeriod": 733
     },
     {
       "rank": 4,
-      "fullName": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "programmingLanguage": "Go",
-      "stars": 185159,
-      "forks": 18705,
-      "starsInPeriod": 1140
-    },
-    {
-      "rank": 5,
-      "fullName": "tailscale/tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "programmingLanguage": "Go",
-      "stars": 38261,
-      "forks": 3375,
-      "starsInPeriod": 378
-    },
-    {
-      "rank": 6,
-      "fullName": "eugenioenko/ttt",
-      "url": "https://github.com/eugenioenko/ttt",
-      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
-      "programmingLanguage": "Go",
-      "stars": 952,
-      "forks": 113,
-      "starsInPeriod": 302
-    },
-    {
-      "rank": 7,
-      "fullName": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "programmingLanguage": "Go",
-      "stars": 38820,
-      "forks": 806,
-      "starsInPeriod": 257
-    },
-    {
-      "rank": 8,
-      "fullName": "samber/cc-skills-golang",
-      "url": "https://github.com/samber/cc-skills-golang",
-      "description": "🧑‍🎨 A collection of Golang agentic skills that works",
-      "programmingLanguage": "Go",
-      "stars": 3714,
-      "forks": 249,
-      "starsInPeriod": 171
-    },
-    {
-      "rank": 9,
-      "fullName": "mudler/LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
-      "programmingLanguage": "Go",
-      "stars": 50034,
-      "forks": 4558,
-      "starsInPeriod": 245
-    },
-    {
-      "rank": 10,
-      "fullName": "wailsapp/wails",
-      "url": "https://github.com/wailsapp/wails",
-      "description": "Create beautiful applications using Go",
-      "programmingLanguage": "Go",
-      "stars": 36799,
-      "forks": 1914,
-      "starsInPeriod": 176
-    },
-    {
-      "rank": 11,
-      "fullName": "pearl-research-labs/pearl",
-      "url": "https://github.com/pearl-research-labs/pearl",
-      "description": "Monorepo for the Pearl network 🐚",
-      "programmingLanguage": "Go",
-      "stars": 426,
-      "forks": 101,
-      "starsInPeriod": 45
-    },
-    {
-      "rank": 12,
-      "fullName": "php/frankenphp",
-      "url": "https://github.com/php/frankenphp",
-      "description": "🧟 The modern PHP app server",
-      "programmingLanguage": "Go",
-      "stars": 11494,
-      "forks": 503,
-      "starsInPeriod": 69
-    },
-    {
-      "rank": 13,
-      "fullName": "Asymptote-Labs/agent-beacon",
-      "url": "https://github.com/Asymptote-Labs/agent-beacon",
-      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
-      "programmingLanguage": "Go",
-      "stars": 2911,
-      "forks": 261,
-      "starsInPeriod": 560
-    },
-    {
-      "rank": 14,
-      "fullName": "dagger/dagger",
-      "url": "https://github.com/dagger/dagger",
-      "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud",
-      "programmingLanguage": "Go",
-      "stars": 16540,
-      "forks": 942,
-      "starsInPeriod": 178
-    },
-    {
-      "rank": 15,
-      "fullName": "QuantumNous/new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
-      "programmingLanguage": "Go",
-      "stars": 50914,
-      "forks": 12334,
-      "starsInPeriod": 549
-    },
-    {
-      "rank": 16,
-      "fullName": "superplanehq/superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "Open source factory for one-shot engineering",
-      "programmingLanguage": "Go",
-      "stars": 8366,
-      "forks": 680,
-      "starsInPeriod": 282
-    },
-    {
-      "rank": 17,
       "fullName": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "programmingLanguage": "Go",
-      "stars": 93041,
-      "forks": 11146,
+      "stars": 93077,
+      "forks": 11153,
       "starsInPeriod": 471
     },
     {
-      "rank": 18,
-      "fullName": "moby/moby",
-      "url": "https://github.com/moby/moby",
-      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "rank": 5,
+      "fullName": "QuantumNous/new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
       "programmingLanguage": "Go",
-      "stars": 72223,
-      "forks": 19262,
-      "starsInPeriod": 62
+      "stars": 50958,
+      "forks": 12350,
+      "starsInPeriod": 549
     },
     {
-      "rank": 19,
+      "rank": 6,
       "fullName": "chaitin/SafeLine",
       "url": "https://github.com/chaitin/SafeLine",
       "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
       "programmingLanguage": "Go",
-      "stars": 23081,
-      "forks": 1583,
+      "stars": 23087,
+      "forks": 1584,
       "starsInPeriod": 255
+    },
+    {
+      "rank": 7,
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "programmingLanguage": "Go",
+      "stars": 185201,
+      "forks": 18716,
+      "starsInPeriod": 1140
+    },
+    {
+      "rank": 8,
+      "fullName": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "programmingLanguage": "Go",
+      "stars": 36811,
+      "forks": 1915,
+      "starsInPeriod": 176
+    },
+    {
+      "rank": 9,
+      "fullName": "eugenioenko/ttt",
+      "url": "https://github.com/eugenioenko/ttt",
+      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
+      "programmingLanguage": "Go",
+      "stars": 955,
+      "forks": 113,
+      "starsInPeriod": 302
+    },
+    {
+      "rank": 10,
+      "fullName": "samber/cc-skills-golang",
+      "url": "https://github.com/samber/cc-skills-golang",
+      "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+      "programmingLanguage": "Go",
+      "stars": 3722,
+      "forks": 249,
+      "starsInPeriod": 171
+    },
+    {
+      "rank": 11,
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 38829,
+      "forks": 808,
+      "starsInPeriod": 257
+    },
+    {
+      "rank": 12,
+      "fullName": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "programmingLanguage": "Go",
+      "stars": 90271,
+      "forks": 8426,
+      "starsInPeriod": 114
+    },
+    {
+      "rank": 13,
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "programmingLanguage": "Go",
+      "stars": 8381,
+      "forks": 680,
+      "starsInPeriod": 282
+    },
+    {
+      "rank": 14,
+      "fullName": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "programmingLanguage": "Go",
+      "stars": 50047,
+      "forks": 4560,
+      "starsInPeriod": 245
+    },
+    {
+      "rank": 15,
+      "fullName": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "programmingLanguage": "Go",
+      "stars": 38532,
+      "forks": 5890,
+      "starsInPeriod": 129
+    },
+    {
+      "rank": 16,
+      "fullName": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "programmingLanguage": "Go",
+      "stars": 38288,
+      "forks": 3381,
+      "starsInPeriod": 378
+    },
+    {
+      "rank": 17,
+      "fullName": "tinygo-org/tinygo",
+      "url": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+      "programmingLanguage": "Go",
+      "stars": 17858,
+      "forks": 1096,
+      "starsInPeriod": 30
+    },
+    {
+      "rank": 18,
+      "fullName": "Autumn-27/ScopeSentry",
+      "url": "https://github.com/Autumn-27/ScopeSentry",
+      "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
+      "programmingLanguage": "Go",
+      "stars": 2201,
+      "forks": 500,
+      "starsInPeriod": 190
+    },
+    {
+      "rank": 19,
+      "fullName": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "programmingLanguage": "Go",
+      "stars": 66858,
+      "forks": 10939,
+      "starsInPeriod": 212
     }
   ]
 }

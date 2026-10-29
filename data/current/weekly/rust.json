@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-10-29T05:46:24Z",
+  "observedAt": "2026-10-29T12:58:55Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 93303,
-      "forks": 5507,
+      "stars": 94297,
+      "forks": 5570,
       "starsInPeriod": 7283
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 14331,
-      "forks": 1026,
+      "stars": 14370,
+      "forks": 1029,
       "starsInPeriod": 2194
     },
     {
@@ -34,29 +34,29 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "programmingLanguage": "Rust",
-      "stars": 12975,
-      "forks": 1601,
+      "stars": 13030,
+      "forks": 1609,
       "starsInPeriod": 3245
     },
     {
       "rank": 4,
+      "fullName": "agentgateway/agentgateway",
+      "url": "https://github.com/agentgateway/agentgateway",
+      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+      "programmingLanguage": "Rust",
+      "stars": 5763,
+      "forks": 1019,
+      "starsInPeriod": 259
+    },
+    {
+      "rank": 5,
       "fullName": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
       "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 17387,
-      "forks": 1306,
+      "stars": 17478,
+      "forks": 1317,
       "starsInPeriod": 4974
-    },
-    {
-      "rank": 5,
-      "fullName": "ZSeven-W/openpencil",
-      "url": "https://github.com/ZSeven-W/openpencil",
-      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
-      "programmingLanguage": "Rust",
-      "stars": 6921,
-      "forks": 601,
-      "starsInPeriod": 487
     },
     {
       "rank": 6,
@@ -64,99 +64,119 @@
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "programmingLanguage": "Rust",
-      "stars": 5524,
-      "forks": 526,
+      "stars": 5624,
+      "forks": 531,
       "starsInPeriod": 475
     },
     {
       "rank": 7,
-      "fullName": "CapSoftware/Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "fullName": "ZSeven-W/openpencil",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
       "programmingLanguage": "Rust",
-      "stars": 24024,
-      "forks": 2189,
-      "starsInPeriod": 519
+      "stars": 6941,
+      "forks": 602,
+      "starsInPeriod": 487
     },
     {
       "rank": 8,
-      "fullName": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "programmingLanguage": "Rust",
-      "stars": 20617,
-      "forks": 2022,
-      "starsInPeriod": 3555
+      "stars": 101466,
+      "forks": 13185,
+      "starsInPeriod": 2449
     },
     {
       "rank": 9,
-      "fullName": "agentgateway/agentgateway",
-      "url": "https://github.com/agentgateway/agentgateway",
-      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
-      "programmingLanguage": "Rust",
-      "stars": 5744,
-      "forks": 1015,
-      "starsInPeriod": 259
-    },
-    {
-      "rank": 10,
       "fullName": "stalwartlabs/stalwart",
       "url": "https://github.com/stalwartlabs/stalwart",
       "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
       "programmingLanguage": "Rust",
-      "stars": 15476,
-      "forks": 1027,
+      "stars": 15484,
+      "forks": 1029,
       "starsInPeriod": 264
     },
     {
-      "rank": 11,
-      "fullName": "nautechsystems/nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "rank": 10,
+      "fullName": "CapSoftware/Cap",
+      "url": "https://github.com/CapSoftware/Cap",
+      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "programmingLanguage": "Rust",
-      "stars": 31015,
-      "forks": 4176,
-      "starsInPeriod": 548
+      "stars": 24041,
+      "forks": 2195,
+      "starsInPeriod": 519
+    },
+    {
+      "rank": 11,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 20658,
+      "forks": 2024,
+      "starsInPeriod": 3555
     },
     {
       "rank": 12,
-      "fullName": "claration/impactor",
-      "url": "https://github.com/claration/impactor",
-      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
-      "programmingLanguage": "Rust",
-      "stars": 3676,
-      "forks": 263,
-      "starsInPeriod": 123
-    },
-    {
-      "rank": 13,
       "fullName": "xai-org/x-algorithm",
       "url": "https://github.com/xai-org/x-algorithm",
       "description": "Algorithm powering the For You feed on X",
       "programmingLanguage": "Rust",
-      "stars": 33883,
-      "forks": 5478,
+      "stars": 33891,
+      "forks": 5480,
       "starsInPeriod": 171
     },
     {
-      "rank": 14,
-      "fullName": "oven-sh/bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "programmingLanguage": "Rust",
-      "stars": 96455,
-      "forks": 5204,
-      "starsInPeriod": 198
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "fullName": "trymirai/uzu",
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 3006,
-      "forks": 183,
+      "stars": 3019,
+      "forks": 185,
       "starsInPeriod": 509
+    },
+    {
+      "rank": 14,
+      "fullName": "NVIDIA/cuda-rust",
+      "url": "https://github.com/NVIDIA/cuda-rust",
+      "description": "NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.",
+      "programmingLanguage": "Rust",
+      "stars": 3868,
+      "forks": 349,
+      "starsInPeriod": 101
+    },
+    {
+      "rank": 15,
+      "fullName": "claration/impactor",
+      "url": "https://github.com/claration/impactor",
+      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
+      "programmingLanguage": "Rust",
+      "stars": 3677,
+      "forks": 263,
+      "starsInPeriod": 123
+    },
+    {
+      "rank": 16,
+      "fullName": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "programmingLanguage": "Rust",
+      "stars": 96459,
+      "forks": 5210,
+      "starsInPeriod": 198
+    },
+    {
+      "rank": 17,
+      "fullName": "fabio-rovai/open-ontologies",
+      "url": "https://github.com/fabio-rovai/open-ontologies",
+      "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
+      "programmingLanguage": "Rust",
+      "stars": 2043,
+      "forks": 243,
+      "starsInPeriod": 824
     }
   ]
 }

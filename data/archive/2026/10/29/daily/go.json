@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-10-29T05:46:31Z",
+  "updatedAt": "2026-10-29T12:59:02Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -24,17 +24,45 @@
       "appearances": 1
     },
     {
+      "fullName": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "programmingLanguage": "Go",
+      "stars": 28282,
+      "forks": 1910,
+      "starsInPeriod": 25,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
+      "appearances": 1
+    },
+    {
       "fullName": "superplanehq/superplane",
       "url": "https://github.com/superplanehq/superplane",
       "description": "Open source factory for one-shot engineering",
       "programmingLanguage": "Go",
-      "stars": 8366,
+      "stars": 8381,
       "forks": 680,
       "starsInPeriod": 69,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 13,
       "firstSeenAt": "2026-10-29T05:46:31Z",
-      "lastSeenAt": "2026-10-29T05:46:31Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 115946,
+      "forks": 6704,
+      "starsInPeriod": 289,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
       "appearances": 1
     },
     {
@@ -52,6 +80,20 @@
       "appearances": 1
     },
     {
+      "fullName": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "programmingLanguage": "Go",
+      "stars": 38532,
+      "forks": 5890,
+      "starsInPeriod": 17,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
+      "appearances": 1
+    },
+    {
       "fullName": "multica-ai/multica",
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
@@ -66,17 +108,45 @@
       "appearances": 1
     },
     {
+      "fullName": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "programmingLanguage": "Go",
+      "stars": 17943,
+      "forks": 1791,
+      "starsInPeriod": 24,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
+      "appearances": 1
+    },
+    {
       "fullName": "router-for-me/CLIProxyAPI",
       "url": "https://github.com/router-for-me/CLIProxyAPI",
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
       "programmingLanguage": "Go",
-      "stars": 56818,
-      "forks": 8700,
+      "stars": 56865,
+      "forks": 8708,
       "starsInPeriod": 162,
       "bestRank": 5,
-      "latestRank": 5,
+      "latestRank": 19,
       "firstSeenAt": "2026-10-29T05:46:31Z",
-      "lastSeenAt": "2026-10-29T05:46:31Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "programmingLanguage": "Go",
+      "stars": 5950,
+      "forks": 650,
+      "starsInPeriod": 52,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
       "appearances": 1
     },
     {
@@ -94,6 +164,20 @@
       "appearances": 1
     },
     {
+      "fullName": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+      "programmingLanguage": "Go",
+      "stars": 18893,
+      "forks": 2437,
+      "starsInPeriod": 27,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
+      "appearances": 1
+    },
+    {
       "fullName": "mvanhorn/cli-printing-press",
       "url": "https://github.com/mvanhorn/cli-printing-press",
       "description": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
@@ -105,6 +189,20 @@
       "latestRank": 7,
       "firstSeenAt": "2026-10-29T05:46:31Z",
       "lastSeenAt": "2026-10-29T05:46:31Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
+      "programmingLanguage": "Go",
+      "stars": 14329,
+      "forks": 759,
+      "starsInPeriod": 133,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
       "appearances": 1
     },
     {
@@ -122,6 +220,20 @@
       "appearances": 1
     },
     {
+      "fullName": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "programmingLanguage": "Go",
+      "stars": 37856,
+      "forks": 1500,
+      "starsInPeriod": 51,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
+      "appearances": 1
+    },
+    {
       "fullName": "chaitin/SafeLine",
       "url": "https://github.com/chaitin/SafeLine",
       "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
@@ -133,6 +245,20 @@
       "latestRank": 9,
       "firstSeenAt": "2026-10-29T05:46:31Z",
       "lastSeenAt": "2026-10-29T05:46:31Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "programmingLanguage": "Go",
+      "stars": 8669,
+      "forks": 394,
+      "starsInPeriod": 60,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
       "appearances": 1
     },
     {
@@ -150,6 +276,20 @@
       "appearances": 1
     },
     {
+      "fullName": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "programmingLanguage": "Go",
+      "stars": 20956,
+      "forks": 2020,
+      "starsInPeriod": 17,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
+      "appearances": 1
+    },
+    {
       "fullName": "fleetdm/fleet",
       "url": "https://github.com/fleetdm/fleet",
       "description": "Open device management",
@@ -164,6 +304,20 @@
       "appearances": 1
     },
     {
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "programmingLanguage": "Go",
+      "stars": 30482,
+      "forks": 2323,
+      "starsInPeriod": 53,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
+      "appearances": 1
+    },
+    {
       "fullName": "wailsapp/wails",
       "url": "https://github.com/wailsapp/wails",
       "description": "Create beautiful applications using Go",
@@ -175,6 +329,20 @@
       "latestRank": 12,
       "firstSeenAt": "2026-10-29T05:46:31Z",
       "lastSeenAt": "2026-10-29T05:46:31Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "programmingLanguage": "Go",
+      "stars": 83499,
+      "forks": 3189,
+      "starsInPeriod": 35,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
       "appearances": 1
     },
     {
@@ -206,6 +374,20 @@
       "appearances": 1
     },
     {
+      "fullName": "vllm-project/semantic-router",
+      "url": "https://github.com/vllm-project/semantic-router",
+      "description": "An open, programmable decision layer for models and compute.",
+      "programmingLanguage": "Go",
+      "stars": 6312,
+      "forks": 1090,
+      "starsInPeriod": 28,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
+      "appearances": 1
+    },
+    {
       "fullName": "lionsoul2014/ip2region",
       "url": "https://github.com/lionsoul2014/ip2region",
       "description": "Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages",
@@ -217,6 +399,20 @@
       "latestRank": 15,
       "firstSeenAt": "2026-10-29T05:46:31Z",
       "lastSeenAt": "2026-10-29T05:46:31Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "programmingLanguage": "Go",
+      "stars": 42432,
+      "forks": 6060,
+      "starsInPeriod": 39,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
       "appearances": 1
     },
     {
@@ -234,6 +430,20 @@
       "appearances": 1
     },
     {
+      "fullName": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "programmingLanguage": "Go",
+      "stars": 14363,
+      "forks": 1150,
+      "starsInPeriod": 4,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
+      "appearances": 1
+    },
+    {
       "fullName": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
@@ -248,6 +458,20 @@
       "appearances": 1
     },
     {
+      "fullName": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "programmingLanguage": "Go",
+      "stars": 45080,
+      "forks": 9697,
+      "starsInPeriod": 80,
+      "bestRank": 17,
+      "latestRank": 17,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
+      "appearances": 1
+    },
+    {
       "fullName": "kubernetes-sigs/agent-sandbox",
       "url": "https://github.com/kubernetes-sigs/agent-sandbox",
       "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
@@ -259,6 +483,20 @@
       "latestRank": 18,
       "firstSeenAt": "2026-10-29T05:46:31Z",
       "lastSeenAt": "2026-10-29T05:46:31Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "programmingLanguage": "Go",
+      "stars": 50093,
+      "forks": 10598,
+      "starsInPeriod": 17,
+      "bestRank": 18,
+      "latestRank": 18,
+      "firstSeenAt": "2026-10-29T12:59:02Z",
+      "lastSeenAt": "2026-10-29T12:59:02Z",
       "appearances": 1
     }
   ]

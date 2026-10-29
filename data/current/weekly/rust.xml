@@ -4,12 +4,12 @@
     <title>GitHub Trending — weekly — rust</title>
     <link>https://github.com/trending/rust?since=weekly</link>
     <description>GitHub Trending — weekly — rust</description>
-    <lastBuildDate>Thu, 29 Oct 2026 05:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:58:55 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>weekly</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-10-29T05:46:24Z</ght:observedAt>
+    <ght:observedAt>2026-10-29T12:58:55Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,11 +17,11 @@
       <link>https://github.com/pbakaus/impeccable</link>
       <description>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.</description>
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>93303</ght:stars>
-      <ght:forks>5507</ght:forks>
+      <ght:stars>94297</ght:stars>
+      <ght:forks>5570</ght:forks>
       <ght:starsInPeriod>7283</ght:starsInPeriod>
     </item>
     <item>
@@ -29,11 +29,11 @@
       <link>https://github.com/akitaonrails/ai-memory</link>
       <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
       <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
       <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>14331</ght:stars>
-      <ght:forks>1026</ght:forks>
+      <ght:stars>14370</ght:stars>
+      <ght:forks>1029</ght:forks>
       <ght:starsInPeriod>2194</ght:starsInPeriod>
     </item>
     <item>
@@ -41,59 +41,95 @@
       <link>https://github.com/pollen-robotics/microduck</link>
       <description>A Tiny biped duck robot 🦆</description>
       <guid isPermaLink="true">https://github.com/pollen-robotics/microduck</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
       <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>12975</ght:stars>
-      <ght:forks>1601</ght:forks>
+      <ght:stars>13030</ght:stars>
+      <ght:forks>1609</ght:forks>
       <ght:starsInPeriod>3245</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>agentgateway/agentgateway</title>
+      <link>https://github.com/agentgateway/agentgateway</link>
+      <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
+      <guid isPermaLink="true">https://github.com/agentgateway/agentgateway</guid>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
+      <ght:rank>4</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>5763</ght:stars>
+      <ght:forks>1019</ght:forks>
+      <ght:starsInPeriod>259</ght:starsInPeriod>
     </item>
     <item>
       <title>xerj-org/xerj</title>
       <link>https://github.com/xerj-org/xerj</link>
       <description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
       <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>17387</ght:stars>
-      <ght:forks>1306</ght:forks>
-      <ght:starsInPeriod>4974</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>ZSeven-W/openpencil</title>
-      <link>https://github.com/ZSeven-W/openpencil</link>
-      <description>The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.</description>
-      <guid isPermaLink="true">https://github.com/ZSeven-W/openpencil</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
       <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>6921</ght:stars>
-      <ght:forks>601</ght:forks>
-      <ght:starsInPeriod>487</ght:starsInPeriod>
+      <ght:stars>17478</ght:stars>
+      <ght:forks>1317</ght:forks>
+      <ght:starsInPeriod>4974</ght:starsInPeriod>
     </item>
     <item>
       <title>macro-inc/macro</title>
       <link>https://github.com/macro-inc/macro</link>
       <description>Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</description>
       <guid isPermaLink="true">https://github.com/macro-inc/macro</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
       <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>5524</ght:stars>
-      <ght:forks>526</ght:forks>
+      <ght:stars>5624</ght:stars>
+      <ght:forks>531</ght:forks>
       <ght:starsInPeriod>475</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>ZSeven-W/openpencil</title>
+      <link>https://github.com/ZSeven-W/openpencil</link>
+      <description>The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.</description>
+      <guid isPermaLink="true">https://github.com/ZSeven-W/openpencil</guid>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
+      <ght:rank>7</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>6941</ght:stars>
+      <ght:forks>602</ght:forks>
+      <ght:starsInPeriod>487</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>ruvnet/RuView</title>
+      <link>https://github.com/ruvnet/RuView</link>
+      <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
+      <guid isPermaLink="true">https://github.com/ruvnet/RuView</guid>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>101466</ght:stars>
+      <ght:forks>13185</ght:forks>
+      <ght:starsInPeriod>2449</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>stalwartlabs/stalwart</title>
+      <link>https://github.com/stalwartlabs/stalwart</link>
+      <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
+      <guid isPermaLink="true">https://github.com/stalwartlabs/stalwart</guid>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
+      <ght:rank>9</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>15484</ght:stars>
+      <ght:forks>1029</ght:forks>
+      <ght:starsInPeriod>264</ght:starsInPeriod>
     </item>
     <item>
       <title>CapSoftware/Cap</title>
       <link>https://github.com/CapSoftware/Cap</link>
       <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
       <guid isPermaLink="true">https://github.com/CapSoftware/Cap</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
-      <ght:rank>7</ght:rank>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
+      <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>24024</ght:stars>
-      <ght:forks>2189</ght:forks>
+      <ght:stars>24041</ght:stars>
+      <ght:forks>2195</ght:forks>
       <ght:starsInPeriod>519</ght:starsInPeriod>
     </item>
     <item>
@@ -101,96 +137,84 @@
       <link>https://github.com/NVIDIA/OpenShell</link>
       <description>OpenShell is the safe, private runtime for autonomous AI agents.</description>
       <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
-      <ght:rank>8</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>20617</ght:stars>
-      <ght:forks>2022</ght:forks>
-      <ght:starsInPeriod>3555</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>agentgateway/agentgateway</title>
-      <link>https://github.com/agentgateway/agentgateway</link>
-      <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
-      <guid isPermaLink="true">https://github.com/agentgateway/agentgateway</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
-      <ght:rank>9</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>5744</ght:stars>
-      <ght:forks>1015</ght:forks>
-      <ght:starsInPeriod>259</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>stalwartlabs/stalwart</title>
-      <link>https://github.com/stalwartlabs/stalwart</link>
-      <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
-      <guid isPermaLink="true">https://github.com/stalwartlabs/stalwart</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
-      <ght:rank>10</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>15476</ght:stars>
-      <ght:forks>1027</ght:forks>
-      <ght:starsInPeriod>264</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>nautechsystems/nautilus_trader</title>
-      <link>https://github.com/nautechsystems/nautilus_trader</link>
-      <description>Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
-      <guid isPermaLink="true">https://github.com/nautechsystems/nautilus_trader</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
       <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>31015</ght:stars>
-      <ght:forks>4176</ght:forks>
-      <ght:starsInPeriod>548</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>claration/impactor</title>
-      <link>https://github.com/claration/impactor</link>
-      <description>Cross-platform &amp; feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.</description>
-      <guid isPermaLink="true">https://github.com/claration/impactor</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
-      <ght:rank>12</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>3676</ght:stars>
-      <ght:forks>263</ght:forks>
-      <ght:starsInPeriod>123</ght:starsInPeriod>
+      <ght:stars>20658</ght:stars>
+      <ght:forks>2024</ght:forks>
+      <ght:starsInPeriod>3555</ght:starsInPeriod>
     </item>
     <item>
       <title>xai-org/x-algorithm</title>
       <link>https://github.com/xai-org/x-algorithm</link>
       <description>Algorithm powering the For You feed on X</description>
       <guid isPermaLink="true">https://github.com/xai-org/x-algorithm</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
-      <ght:rank>13</ght:rank>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
+      <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>33883</ght:stars>
-      <ght:forks>5478</ght:forks>
+      <ght:stars>33891</ght:stars>
+      <ght:forks>5480</ght:forks>
       <ght:starsInPeriod>171</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>oven-sh/bun</title>
-      <link>https://github.com/oven-sh/bun</link>
-      <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
-      <guid isPermaLink="true">https://github.com/oven-sh/bun</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
-      <ght:rank>14</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>96455</ght:stars>
-      <ght:forks>5204</ght:forks>
-      <ght:starsInPeriod>198</ght:starsInPeriod>
     </item>
     <item>
       <title>trymirai/uzu</title>
       <link>https://github.com/trymirai/uzu</link>
       <description>A high-performance inference engine for AI models</description>
       <guid isPermaLink="true">https://github.com/trymirai/uzu</guid>
-      <pubDate>Thu, 29 Oct 2026 05:46:24 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
+      <ght:rank>13</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>3019</ght:stars>
+      <ght:forks>185</ght:forks>
+      <ght:starsInPeriod>509</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>NVIDIA/cuda-rust</title>
+      <link>https://github.com/NVIDIA/cuda-rust</link>
+      <description>NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.</description>
+      <guid isPermaLink="true">https://github.com/NVIDIA/cuda-rust</guid>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
+      <ght:rank>14</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>3868</ght:stars>
+      <ght:forks>349</ght:forks>
+      <ght:starsInPeriod>101</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>claration/impactor</title>
+      <link>https://github.com/claration/impactor</link>
+      <description>Cross-platform &amp; feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.</description>
+      <guid isPermaLink="true">https://github.com/claration/impactor</guid>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
       <ght:rank>15</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>3006</ght:stars>
-      <ght:forks>183</ght:forks>
-      <ght:starsInPeriod>509</ght:starsInPeriod>
+      <ght:stars>3677</ght:stars>
+      <ght:forks>263</ght:forks>
+      <ght:starsInPeriod>123</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>oven-sh/bun</title>
+      <link>https://github.com/oven-sh/bun</link>
+      <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
+      <guid isPermaLink="true">https://github.com/oven-sh/bun</guid>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>96459</ght:stars>
+      <ght:forks>5210</ght:forks>
+      <ght:starsInPeriod>198</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>fabio-rovai/open-ontologies</title>
+      <link>https://github.com/fabio-rovai/open-ontologies</link>
+      <description>Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.</description>
+      <guid isPermaLink="true">https://github.com/fabio-rovai/open-ontologies</guid>
+      <pubDate>Thu, 29 Oct 2026 12:58:55 GMT</pubDate>
+      <ght:rank>17</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>2043</ght:stars>
+      <ght:forks>243</ght:forks>
+      <ght:starsInPeriod>824</ght:starsInPeriod>
     </item>
   </channel>
 </rss>
