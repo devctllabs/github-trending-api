@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-10-30T12:53:41Z",
+  "observedAt": "2026-10-30T22:17:36Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 96416,
-      "forks": 5674,
+      "stars": 96954,
+      "forks": 5710,
       "starsInPeriod": 2299
     },
     {
@@ -24,9 +24,9 @@
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "programmingLanguage": "Rust",
-      "stars": 5706,
-      "forks": 535,
-      "starsInPeriod": 379
+      "stars": 5837,
+      "forks": 537,
+      "starsInPeriod": 117
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/agentgateway/agentgateway",
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "programmingLanguage": "Rust",
-      "stars": 5798,
+      "stars": 5810,
       "forks": 1028,
-      "starsInPeriod": 63
+      "starsInPeriod": 34
     },
     {
       "rank": 4,
@@ -44,8 +44,8 @@
       "url": "https://github.com/anomalyco/hex",
       "description": "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.",
       "programmingLanguage": "Rust",
-      "stars": 1126,
-      "forks": 93,
+      "stars": 1231,
+      "forks": 99,
       "starsInPeriod": 286
     },
     {
@@ -54,9 +54,9 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "programmingLanguage": "Rust",
-      "stars": 101685,
-      "forks": 13208,
-      "starsInPeriod": 849
+      "stars": 101753,
+      "forks": 13215,
+      "starsInPeriod": 211
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "programmingLanguage": "Rust",
-      "stars": 45568,
-      "forks": 6561,
-      "starsInPeriod": 128
+      "stars": 45584,
+      "forks": 6570,
+      "starsInPeriod": 31
     },
     {
       "rank": 7,
@@ -74,8 +74,8 @@
       "url": "https://github.com/fabio-rovai/open-ontologies",
       "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
       "programmingLanguage": "Rust",
-      "stars": 2204,
-      "forks": 256,
+      "stars": 2367,
+      "forks": 266,
       "starsInPeriod": 176
     },
     {
@@ -84,9 +84,9 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 127572,
-      "forks": 20169,
-      "starsInPeriod": 160
+      "stars": 127622,
+      "forks": 20183,
+      "starsInPeriod": 124
     },
     {
       "rank": 9,
@@ -94,8 +94,8 @@
       "url": "https://github.com/infosave2007/aivpn",
       "description": "AI-VPN that makes your traffic invisible to deep packet inspection",
       "programmingLanguage": "Rust",
-      "stars": 751,
-      "forks": 65,
+      "stars": 768,
+      "forks": 66,
       "starsInPeriod": 49
     },
     {
@@ -104,9 +104,9 @@
       "url": "https://github.com/Mesh-LLM/mesh-llm",
       "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
       "programmingLanguage": "Rust",
-      "stars": 3661,
-      "forks": 476,
-      "starsInPeriod": 51
+      "stars": 3681,
+      "forks": 478,
+      "starsInPeriod": 37
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/nyakang/nyaterm",
       "description": "A modern remote terminal workspace",
       "programmingLanguage": "Rust",
-      "stars": 2153,
+      "stars": 2169,
       "forks": 203,
-      "starsInPeriod": 169
+      "starsInPeriod": 78
     },
     {
       "rank": 12,
@@ -124,8 +124,8 @@
       "url": "https://github.com/daeuniverse/honk",
       "description": "Inspired by dae & sing-box",
       "programmingLanguage": "Rust",
-      "stars": 905,
-      "forks": 75,
+      "stars": 957,
+      "forks": 79,
       "starsInPeriod": 142
     },
     {
@@ -134,9 +134,9 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "description": "Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.",
       "programmingLanguage": "Rust",
-      "stars": 7592,
-      "forks": 543,
-      "starsInPeriod": 141
+      "stars": 7612,
+      "forks": 548,
+      "starsInPeriod": 60
     },
     {
       "rank": 14,
@@ -144,8 +144,8 @@
       "url": "https://github.com/rivet-dev/rivet",
       "description": "Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.",
       "programmingLanguage": "Rust",
-      "stars": 6510,
-      "forks": 291,
+      "stars": 6519,
+      "forks": 293,
       "starsInPeriod": 29
     },
     {
@@ -154,9 +154,9 @@
       "url": "https://github.com/screenpipe/screenpipe",
       "description": "YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context",
       "programmingLanguage": "Rust",
-      "stars": 22173,
-      "forks": 2262,
-      "starsInPeriod": 31
+      "stars": 22176,
+      "forks": 2263,
+      "starsInPeriod": 26
     },
     {
       "rank": 16,
@@ -164,8 +164,8 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 44898,
-      "forks": 3071,
+      "stars": 44927,
+      "forks": 3073,
       "starsInPeriod": 83
     },
     {
@@ -174,8 +174,8 @@
       "url": "https://github.com/janhq/jan",
       "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
       "programmingLanguage": "Rust",
-      "stars": 45169,
-      "forks": 3117,
+      "stars": 45178,
+      "forks": 3119,
       "starsInPeriod": 34
     }
   ]

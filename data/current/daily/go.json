@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-30T12:53:51Z",
+  "observedAt": "2026-10-30T22:17:46Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,7 +14,7 @@
       "url": "https://github.com/wailsapp/wails",
       "description": "Create beautiful applications using Go",
       "programmingLanguage": "Go",
-      "stars": 36836,
+      "stars": 36848,
       "forks": 1916,
       "starsInPeriod": 30
     },
@@ -24,8 +24,8 @@
       "url": "https://github.com/argoproj/argo-workflows",
       "description": "Workflow Engine for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 17069,
-      "forks": 3722,
+      "stars": 17070,
+      "forks": 3721,
       "starsInPeriod": 2
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "programmingLanguage": "Go",
-      "stars": 93184,
-      "forks": 11178,
+      "stars": 93220,
+      "forks": 11184,
       "starsInPeriod": 110
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://github.com/mvanhorn/cli-printing-press",
       "description": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
       "programmingLanguage": "Go",
-      "stars": 4892,
+      "stars": 4896,
       "forks": 533,
       "starsInPeriod": 22
     },
@@ -54,8 +54,8 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 49072,
-      "forks": 3596,
+      "stars": 49124,
+      "forks": 3597,
       "starsInPeriod": 147
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/milvus-io/milvus",
       "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
       "programmingLanguage": "Go",
-      "stars": 46536,
-      "forks": 4320,
+      "stars": 46538,
+      "forks": 4321,
       "starsInPeriod": 12
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://github.com/crossplane/crossplane",
       "description": "The Cloud Native Control Plane",
       "programmingLanguage": "Go",
-      "stars": 12208,
+      "stars": 12209,
       "forks": 1286,
       "starsInPeriod": 7
     },
@@ -84,9 +84,9 @@
       "url": "https://github.com/nektos/act",
       "description": "Run your GitHub Actions locally 🚀",
       "programmingLanguage": "Go",
-      "stars": 72488,
-      "forks": 2086,
-      "starsInPeriod": 20
+      "stars": 72497,
+      "forks": 2089,
+      "starsInPeriod": 14
     },
     {
       "rank": 9,
@@ -94,8 +94,8 @@
       "url": "https://github.com/kserve/kserve",
       "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 6173,
-      "forks": 1768,
+      "stars": 6175,
+      "forks": 1770,
       "starsInPeriod": 4
     },
     {
@@ -104,9 +104,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 116232,
-      "forks": 6723,
-      "starsInPeriod": 295
+      "stars": 116320,
+      "forks": 6733,
+      "starsInPeriod": 294
     },
     {
       "rank": 11,
@@ -114,8 +114,8 @@
       "url": "https://github.com/fleetdm/fleet",
       "description": "Open device management",
       "programmingLanguage": "Go",
-      "stars": 7077,
-      "forks": 1095,
+      "stars": 7081,
+      "forks": 1097,
       "starsInPeriod": 4
     },
     {
@@ -124,9 +124,9 @@
       "url": "https://github.com/tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "programmingLanguage": "Go",
-      "stars": 38343,
-      "forks": 3389,
-      "starsInPeriod": 69
+      "stars": 38369,
+      "forks": 3395,
+      "starsInPeriod": 60
     },
     {
       "rank": 13,
@@ -135,7 +135,7 @@
       "description": "Like Prometheus, but for logs.",
       "programmingLanguage": "Go",
       "stars": 29095,
-      "forks": 4164,
+      "forks": 4165,
       "starsInPeriod": 6
     },
     {
@@ -144,8 +144,8 @@
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 24503,
-      "forks": 8065,
+      "stars": 24501,
+      "forks": 8073,
       "starsInPeriod": 4
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/hashicorp/nomad",
       "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
       "programmingLanguage": "Go",
-      "stars": 17058,
-      "forks": 2154,
+      "stars": 17063,
+      "forks": 2153,
       "starsInPeriod": null
     },
     {
@@ -164,7 +164,7 @@
       "url": "https://github.com/docker/docker-agent",
       "description": "AI Agent Builder and Runtime by Docker Engineering",
       "programmingLanguage": "Go",
-      "stars": 4621,
+      "stars": 4623,
       "forks": 542,
       "starsInPeriod": 4
     },
@@ -174,8 +174,8 @@
       "url": "https://github.com/fatedier/frp",
       "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
       "programmingLanguage": "Go",
-      "stars": 110329,
-      "forks": 15286,
+      "stars": 110343,
+      "forks": 15288,
       "starsInPeriod": 49
     },
     {
@@ -184,8 +184,8 @@
       "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
       "description": "Contrib repository for the OpenTelemetry Collector",
       "programmingLanguage": "Go",
-      "stars": 5034,
-      "forks": 4067,
+      "stars": 5033,
+      "forks": 4069,
       "starsInPeriod": 3
     },
     {
@@ -194,8 +194,8 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 54361,
-      "forks": 7155,
+      "stars": 54385,
+      "forks": 7165,
       "starsInPeriod": 142
     },
     {
@@ -204,7 +204,7 @@
       "url": "https://github.com/github/gh-aw",
       "description": "GitHub Agentic Workflows",
       "programmingLanguage": "Go",
-      "stars": 5531,
+      "stars": 5534,
       "forks": 609,
       "starsInPeriod": 17
     },
@@ -214,9 +214,9 @@
       "url": "https://github.com/Wei-Shaw/sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "programmingLanguage": "Go",
-      "stars": 45147,
-      "forks": 9721,
-      "starsInPeriod": 75
+      "stars": 45166,
+      "forks": 9727,
+      "starsInPeriod": 72
     },
     {
       "rank": 22,
@@ -224,9 +224,9 @@
       "url": "https://github.com/jesseduffield/lazygit",
       "description": "simple terminal UI for git commands",
       "programmingLanguage": "Go",
-      "stars": 83532,
-      "forks": 3208,
-      "starsInPeriod": 33
+      "stars": 83542,
+      "forks": 3217,
+      "starsInPeriod": 43
     },
     {
       "rank": 23,
@@ -234,9 +234,9 @@
       "url": "https://github.com/google/ax",
       "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
       "programmingLanguage": "Go",
-      "stars": 14370,
+      "stars": 14380,
       "forks": 767,
-      "starsInPeriod": 93
+      "starsInPeriod": 43
     }
   ]
 }
