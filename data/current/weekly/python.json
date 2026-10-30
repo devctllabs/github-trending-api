@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-10-29T22:44:20Z",
+  "observedAt": "2026-10-30T05:46:17Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 23960,
-      "forks": 3221,
-      "starsInPeriod": 3516
+      "stars": 24100,
+      "forks": 3230,
+      "starsInPeriod": 4110
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "programmingLanguage": "Python",
-      "stars": 118304,
-      "forks": 22627,
-      "starsInPeriod": 5322
+      "stars": 118418,
+      "forks": 22647,
+      "starsInPeriod": 5557
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/hugohe3/ppt-master",
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "programmingLanguage": "Python",
-      "stars": 70808,
-      "forks": 5526,
+      "stars": 70980,
+      "forks": 5536,
       "starsInPeriod": 4980
     },
     {
@@ -44,9 +44,9 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 33836,
-      "forks": 3721,
-      "starsInPeriod": 2612
+      "stars": 33892,
+      "forks": 3727,
+      "starsInPeriod": 2504
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "programmingLanguage": "Python",
-      "stars": 95864,
-      "forks": 24147,
-      "starsInPeriod": 1072
+      "stars": 95879,
+      "forks": 24167,
+      "starsInPeriod": 768
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 94231,
-      "forks": 10425,
-      "starsInPeriod": 12923
+      "stars": 94580,
+      "forks": 10463,
+      "starsInPeriod": 12825
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/higgsfield-ai/skills",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 1814,
+      "stars": 1815,
       "forks": 334,
-      "starsInPeriod": 415
+      "starsInPeriod": 455
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "programmingLanguage": "Python",
-      "stars": 138635,
-      "forks": 13218,
-      "starsInPeriod": 6662
+      "stars": 138870,
+      "forks": 13250,
+      "starsInPeriod": 6027
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "programmingLanguage": "Python",
-      "stars": 3342,
-      "forks": 420,
-      "starsInPeriod": 408
+      "stars": 3345,
+      "forks": 421,
+      "starsInPeriod": 413
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/sgl-project/sglang",
       "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
       "programmingLanguage": "Python",
-      "stars": 38363,
-      "forks": 10007,
-      "starsInPeriod": 784
+      "stars": 38373,
+      "forks": 10016,
+      "starsInPeriod": 778
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 23352,
-      "forks": 2019,
-      "starsInPeriod": 2222
+      "stars": 23400,
+      "forks": 2024,
+      "starsInPeriod": 2405
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "programmingLanguage": "Python",
-      "stars": 49911,
-      "forks": 6142,
-      "starsInPeriod": 5724
+      "stars": 50625,
+      "forks": 6232,
+      "starsInPeriod": 7509
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "programmingLanguage": "Python",
-      "stars": 9828,
-      "forks": 1323,
-      "starsInPeriod": 2059
+      "stars": 9860,
+      "forks": 1328,
+      "starsInPeriod": 2005
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "programmingLanguage": "Python",
-      "stars": 46123,
-      "forks": 5652,
-      "starsInPeriod": 3404
+      "stars": 46158,
+      "forks": 5661,
+      "starsInPeriod": 3279
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "programmingLanguage": "Python",
-      "stars": 65882,
-      "forks": 5736,
-      "starsInPeriod": 868
+      "stars": 65924,
+      "forks": 5741,
+      "starsInPeriod": 814
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "programmingLanguage": "Python",
-      "stars": 62334,
-      "forks": 4932,
-      "starsInPeriod": 2751
+      "stars": 62441,
+      "forks": 4951,
+      "starsInPeriod": 2784
     }
   ]
 }

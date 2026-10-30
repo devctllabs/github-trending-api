@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-29T22:44:37Z",
+  "observedAt": "2026-10-30T05:46:33Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 28289,
-      "forks": 1910,
-      "starsInPeriod": 25
+      "stars": 28296,
+      "forks": 1911,
+      "starsInPeriod": 20
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 116090,
-      "forks": 6709,
-      "starsInPeriod": 289
+      "stars": 116153,
+      "forks": 6718,
+      "starsInPeriod": 295
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 38524,
+      "stars": 38521,
       "forks": 5891,
-      "starsInPeriod": 17
+      "starsInPeriod": 16
     },
     {
       "rank": 4,
@@ -44,7 +44,7 @@
       "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
       "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
       "programmingLanguage": "Go",
-      "stars": 17950,
+      "stars": 17956,
       "forks": 1792,
       "starsInPeriod": 10
     },
@@ -54,9 +54,9 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 5954,
+      "stars": 5960,
       "forks": 654,
-      "starsInPeriod": 52
+      "starsInPeriod": 50
     },
     {
       "rank": 6,
@@ -64,8 +64,8 @@
       "url": "https://github.com/keploy/keploy",
       "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
       "programmingLanguage": "Go",
-      "stars": 18901,
-      "forks": 2438,
+      "stars": 18909,
+      "forks": 2437,
       "starsInPeriod": 27
     },
     {
@@ -74,9 +74,9 @@
       "url": "https://github.com/google/ax",
       "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
       "programmingLanguage": "Go",
-      "stars": 14345,
-      "forks": 762,
-      "starsInPeriod": 133
+      "stars": 14363,
+      "forks": 765,
+      "starsInPeriod": 93
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/glanceapp/glance",
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "programmingLanguage": "Go",
-      "stars": 37871,
+      "stars": 37877,
       "forks": 1500,
-      "starsInPeriod": 51
+      "starsInPeriod": 43
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "programmingLanguage": "Go",
-      "stars": 8683,
-      "forks": 394,
-      "starsInPeriod": 60
+      "stars": 8687,
+      "forks": 395,
+      "starsInPeriod": 50
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/nats-io/nats-server",
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "programmingLanguage": "Go",
-      "stars": 20964,
+      "stars": 20966,
       "forks": 2020,
-      "starsInPeriod": 8
+      "starsInPeriod": 7
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 30502,
-      "forks": 2322,
-      "starsInPeriod": 50
+      "stars": 30511,
+      "forks": 2321,
+      "starsInPeriod": 47
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/jesseduffield/lazygit",
       "description": "simple terminal UI for git commands",
       "programmingLanguage": "Go",
-      "stars": 83514,
-      "forks": 3197,
-      "starsInPeriod": 36
+      "stars": 83521,
+      "forks": 3202,
+      "starsInPeriod": 33
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/superplanehq/superplane",
       "description": "Open source factory for one-shot engineering",
       "programmingLanguage": "Go",
-      "stars": 8384,
-      "forks": 679,
-      "starsInPeriod": 42
+      "stars": 8389,
+      "forks": 680,
+      "starsInPeriod": 40
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/vllm-project/semantic-router",
       "description": "An open, programmable decision layer for models and compute.",
       "programmingLanguage": "Go",
-      "stars": 6324,
-      "forks": 1090,
-      "starsInPeriod": 28
+      "stars": 6330,
+      "forks": 1091,
+      "starsInPeriod": 29
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "programmingLanguage": "Go",
-      "stars": 42445,
-      "forks": 6064,
-      "starsInPeriod": 39
+      "stars": 42461,
+      "forks": 6065,
+      "starsInPeriod": 38
     },
     {
       "rank": 16,
@@ -166,7 +166,7 @@
       "programmingLanguage": "Go",
       "stars": 14365,
       "forks": 1151,
-      "starsInPeriod": 4
+      "starsInPeriod": 2
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/Wei-Shaw/sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "programmingLanguage": "Go",
-      "stars": 45098,
-      "forks": 9705,
-      "starsInPeriod": 80
+      "stars": 45119,
+      "forks": 9709,
+      "starsInPeriod": 75
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/hashicorp/terraform",
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "programmingLanguage": "Go",
-      "stars": 50086,
+      "stars": 50080,
       "forks": 10598,
-      "starsInPeriod": 17
+      "starsInPeriod": 18
     },
     {
       "rank": 19,
@@ -194,9 +194,9 @@
       "url": "https://github.com/router-for-me/CLIProxyAPI",
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
       "programmingLanguage": "Go",
-      "stars": 56915,
-      "forks": 8711,
-      "starsInPeriod": 136
+      "stars": 56959,
+      "forks": 8714,
+      "starsInPeriod": 131
     }
   ]
 }
