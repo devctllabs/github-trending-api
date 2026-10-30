@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Fri, 30 Oct 2026 05:46:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:53:51 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-10-30</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-10-30T05:46:33Z</ght:updatedAt>
+    <ght:updatedAt>2026-10-30T12:53:51Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -30,19 +30,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>wailsapp/wails</title>
+      <link>https://github.com/wailsapp/wails</link>
+      <description>Create beautiful applications using Go</description>
+      <guid isPermaLink="true">https://github.com/wailsapp/wails</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>36836</ght:stars>
+      <ght:forks>1916</ght:forks>
+      <ght:starsInPeriod>30</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>JuliusBrussee/caveman</title>
       <link>https://github.com/JuliusBrussee/caveman</link>
       <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
       <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
       <pubDate>Fri, 30 Oct 2026 05:46:33 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>116153</ght:stars>
-      <ght:forks>6718</ght:forks>
+      <ght:stars>116232</ght:stars>
+      <ght:forks>6723</ght:forks>
       <ght:starsInPeriod>295</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
-      <ght:latestRank>2</ght:latestRank>
+      <ght:latestRank>10</ght:latestRank>
       <ght:firstSeenAt>2026-10-30T05:46:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-30T05:46:33Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>argoproj/argo-workflows</title>
+      <link>https://github.com/argoproj/argo-workflows</link>
+      <description>Workflow Engine for Kubernetes</description>
+      <guid isPermaLink="true">https://github.com/argoproj/argo-workflows</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>17069</ght:stars>
+      <ght:forks>3722</ght:forks>
+      <ght:starsInPeriod>2</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -62,6 +94,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>infiniflow/ragflow</title>
+      <link>https://github.com/infiniflow/ragflow</link>
+      <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
+      <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>93184</ght:stars>
+      <ght:forks>11178</ght:forks>
+      <ght:starsInPeriod>110</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>VictoriaMetrics/VictoriaMetrics</title>
       <link>https://github.com/VictoriaMetrics/VictoriaMetrics</link>
       <description>VictoriaMetrics: fast, cost-effective monitoring solution and time series database</description>
@@ -75,6 +123,22 @@
       <ght:latestRank>4</ght:latestRank>
       <ght:firstSeenAt>2026-10-30T05:46:33Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-30T05:46:33Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>mvanhorn/cli-printing-press</title>
+      <link>https://github.com/mvanhorn/cli-printing-press</link>
+      <description>Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.</description>
+      <guid isPermaLink="true">https://github.com/mvanhorn/cli-printing-press</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4892</ght:stars>
+      <ght:forks>533</ght:forks>
+      <ght:starsInPeriod>22</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -94,6 +158,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <description>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>49072</ght:stars>
+      <ght:forks>3596</ght:forks>
+      <ght:starsInPeriod>147</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>keploy/keploy</title>
       <link>https://github.com/keploy/keploy</link>
       <description>Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.</description>
@@ -110,19 +190,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>milvus-io/milvus</title>
+      <link>https://github.com/milvus-io/milvus</link>
+      <description>Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</description>
+      <guid isPermaLink="true">https://github.com/milvus-io/milvus</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>46536</ght:stars>
+      <ght:forks>4320</ght:forks>
+      <ght:starsInPeriod>12</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>google/ax</title>
       <link>https://github.com/google/ax</link>
       <description>Agent Executor (AX) is Google's open agentic orchestration runtime</description>
       <guid isPermaLink="true">https://github.com/google/ax</guid>
       <pubDate>Fri, 30 Oct 2026 05:46:33 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>14363</ght:stars>
-      <ght:forks>765</ght:forks>
+      <ght:stars>14370</ght:stars>
+      <ght:forks>767</ght:forks>
       <ght:starsInPeriod>93</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
-      <ght:latestRank>7</ght:latestRank>
+      <ght:latestRank>23</ght:latestRank>
       <ght:firstSeenAt>2026-10-30T05:46:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-30T05:46:33Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>crossplane/crossplane</title>
+      <link>https://github.com/crossplane/crossplane</link>
+      <description>The Cloud Native Control Plane</description>
+      <guid isPermaLink="true">https://github.com/crossplane/crossplane</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>12208</ght:stars>
+      <ght:forks>1286</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -142,6 +254,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>nektos/act</title>
+      <link>https://github.com/nektos/act</link>
+      <description>Run your GitHub Actions locally 🚀</description>
+      <guid isPermaLink="true">https://github.com/nektos/act</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>72488</ght:stars>
+      <ght:forks>2086</ght:forks>
+      <ght:starsInPeriod>20</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>tailscale/tailcat</title>
       <link>https://github.com/tailscale/tailcat</link>
       <description>like netcat, but over Tailscale's data plane, without Tailscale's control plane</description>
@@ -155,6 +283,22 @@
       <ght:latestRank>9</ght:latestRank>
       <ght:firstSeenAt>2026-10-30T05:46:33Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-30T05:46:33Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>kserve/kserve</title>
+      <link>https://github.com/kserve/kserve</link>
+      <description>Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes</description>
+      <guid isPermaLink="true">https://github.com/kserve/kserve</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6173</ght:stars>
+      <ght:forks>1768</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -190,19 +334,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>fleetdm/fleet</title>
+      <link>https://github.com/fleetdm/fleet</link>
+      <description>Open device management</description>
+      <guid isPermaLink="true">https://github.com/fleetdm/fleet</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7077</ght:stars>
+      <ght:forks>1095</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>jesseduffield/lazygit</title>
       <link>https://github.com/jesseduffield/lazygit</link>
       <description>simple terminal UI for git commands</description>
       <guid isPermaLink="true">https://github.com/jesseduffield/lazygit</guid>
       <pubDate>Fri, 30 Oct 2026 05:46:33 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>83521</ght:stars>
-      <ght:forks>3202</ght:forks>
+      <ght:stars>83532</ght:stars>
+      <ght:forks>3208</ght:forks>
       <ght:starsInPeriod>33</ght:starsInPeriod>
       <ght:bestRank>12</ght:bestRank>
-      <ght:latestRank>12</ght:latestRank>
+      <ght:latestRank>22</ght:latestRank>
       <ght:firstSeenAt>2026-10-30T05:46:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-30T05:46:33Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>tailscale/tailscale</title>
+      <link>https://github.com/tailscale/tailscale</link>
+      <description>The easiest, most secure way to use WireGuard and 2FA.</description>
+      <guid isPermaLink="true">https://github.com/tailscale/tailscale</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>38343</ght:stars>
+      <ght:forks>3389</ght:forks>
+      <ght:starsInPeriod>69</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -222,6 +398,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>grafana/loki</title>
+      <link>https://github.com/grafana/loki</link>
+      <description>Like Prometheus, but for logs.</description>
+      <guid isPermaLink="true">https://github.com/grafana/loki</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>29095</ght:stars>
+      <ght:forks>4164</ght:forks>
+      <ght:starsInPeriod>6</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>vllm-project/semantic-router</title>
       <link>https://github.com/vllm-project/semantic-router</link>
       <description>An open, programmable decision layer for models and compute.</description>
@@ -235,6 +427,22 @@
       <ght:latestRank>14</ght:latestRank>
       <ght:firstSeenAt>2026-10-30T05:46:33Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-30T05:46:33Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>argoproj/argo-cd</title>
+      <link>https://github.com/argoproj/argo-cd</link>
+      <description>Declarative Continuous Deployment for Kubernetes</description>
+      <guid isPermaLink="true">https://github.com/argoproj/argo-cd</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>24503</ght:stars>
+      <ght:forks>8065</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -254,6 +462,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>hashicorp/nomad</title>
+      <link>https://github.com/hashicorp/nomad</link>
+      <description>Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.</description>
+      <guid isPermaLink="true">https://github.com/hashicorp/nomad</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>17058</ght:stars>
+      <ght:forks>2154</ght:forks>
+      <ght:starsInPeriod />
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>jackc/pgx</title>
       <link>https://github.com/jackc/pgx</link>
       <description>PostgreSQL driver and toolkit for Go</description>
@@ -270,19 +494,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>docker/docker-agent</title>
+      <link>https://github.com/docker/docker-agent</link>
+      <description>AI Agent Builder and Runtime by Docker Engineering</description>
+      <guid isPermaLink="true">https://github.com/docker/docker-agent</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4621</ght:stars>
+      <ght:forks>542</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>Wei-Shaw/sub2api</title>
       <link>https://github.com/Wei-Shaw/sub2api</link>
       <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
       <guid isPermaLink="true">https://github.com/Wei-Shaw/sub2api</guid>
       <pubDate>Fri, 30 Oct 2026 05:46:33 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>45119</ght:stars>
-      <ght:forks>9709</ght:forks>
+      <ght:stars>45147</ght:stars>
+      <ght:forks>9721</ght:forks>
       <ght:starsInPeriod>75</ght:starsInPeriod>
       <ght:bestRank>17</ght:bestRank>
-      <ght:latestRank>17</ght:latestRank>
+      <ght:latestRank>21</ght:latestRank>
       <ght:firstSeenAt>2026-10-30T05:46:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-10-30T05:46:33Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>fatedier/frp</title>
+      <link>https://github.com/fatedier/frp</link>
+      <description>A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</description>
+      <guid isPermaLink="true">https://github.com/fatedier/frp</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>110329</ght:stars>
+      <ght:forks>15286</ght:forks>
+      <ght:starsInPeriod>49</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -302,6 +558,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>open-telemetry/opentelemetry-collector-contrib</title>
+      <link>https://github.com/open-telemetry/opentelemetry-collector-contrib</link>
+      <description>Contrib repository for the OpenTelemetry Collector</description>
+      <guid isPermaLink="true">https://github.com/open-telemetry/opentelemetry-collector-contrib</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5034</ght:stars>
+      <ght:forks>4067</ght:forks>
+      <ght:starsInPeriod>3</ght:starsInPeriod>
+      <ght:bestRank>18</ght:bestRank>
+      <ght:latestRank>18</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>router-for-me/CLIProxyAPI</title>
       <link>https://github.com/router-for-me/CLIProxyAPI</link>
       <description>Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API</description>
@@ -315,6 +587,38 @@
       <ght:latestRank>19</ght:latestRank>
       <ght:firstSeenAt>2026-10-30T05:46:33Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-10-30T05:46:33Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>multica-ai/multica</title>
+      <link>https://github.com/multica-ai/multica</link>
+      <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
+      <guid isPermaLink="true">https://github.com/multica-ai/multica</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>54361</ght:stars>
+      <ght:forks>7155</ght:forks>
+      <ght:starsInPeriod>142</ght:starsInPeriod>
+      <ght:bestRank>19</ght:bestRank>
+      <ght:latestRank>19</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>github/gh-aw</title>
+      <link>https://github.com/github/gh-aw</link>
+      <description>GitHub Agentic Workflows</description>
+      <guid isPermaLink="true">https://github.com/github/gh-aw</guid>
+      <pubDate>Fri, 30 Oct 2026 12:53:51 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5531</ght:stars>
+      <ght:forks>609</ght:forks>
+      <ght:starsInPeriod>17</ght:starsInPeriod>
+      <ght:bestRank>20</ght:bestRank>
+      <ght:latestRank>20</ght:latestRank>
+      <ght:firstSeenAt>2026-10-30T12:53:51Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-10-30T12:53:51Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>

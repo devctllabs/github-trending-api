@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=weekly",
-  "observedAt": "2026-10-30T05:46:48Z",
+  "observedAt": "2026-10-30T12:54:04Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 53079,
-      "forks": 3407,
+      "stars": 53418,
+      "forks": 3434,
       "starsInPeriod": 14320
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "programmingLanguage": "JavaScript",
-      "stars": 105723,
-      "forks": 7144,
+      "stars": 105995,
+      "forks": 7163,
       "starsInPeriod": 4359
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 292846,
-      "forks": 43334,
+      "stars": 293061,
+      "forks": 43361,
       "starsInPeriod": 6594
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 36366,
-      "forks": 2584,
+      "stars": 36530,
+      "forks": 2597,
       "starsInPeriod": 9296
     },
     {
@@ -54,39 +54,39 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "programmingLanguage": "JavaScript",
-      "stars": 20730,
-      "forks": 1164,
+      "stars": 20811,
+      "forks": 1167,
       "starsInPeriod": 1897
     },
     {
       "rank": 6,
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "fullName": "OpenWhispr/openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "programmingLanguage": "JavaScript",
-      "stars": 180366,
-      "forks": 9901,
-      "starsInPeriod": 7147
+      "stars": 10355,
+      "forks": 1341,
+      "starsInPeriod": 555
     },
     {
       "rank": 7,
-      "fullName": "zarazhangrui/frontend-slides",
-      "url": "https://github.com/zarazhangrui/frontend-slides",
-      "description": "Create beautiful slides on the web using a coding agent's frontend skills",
+      "fullName": "NomaDamas/k-skill",
+      "url": "https://github.com/NomaDamas/k-skill",
+      "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
       "programmingLanguage": "JavaScript",
-      "stars": 31576,
-      "forks": 2418,
-      "starsInPeriod": 477
+      "stars": 8215,
+      "forks": 994,
+      "starsInPeriod": 163
     },
     {
       "rank": 8,
-      "fullName": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "fullName": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 123093,
-      "forks": 39308,
-      "starsInPeriod": 748
+      "stars": 57430,
+      "forks": 8470,
+      "starsInPeriod": 1363
     },
     {
       "rank": 9,
@@ -94,39 +94,19 @@
       "url": "https://github.com/ulsklyc/yuvomi",
       "description": "One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid. No tracking, MIT.",
       "programmingLanguage": "JavaScript",
-      "stars": 2137,
+      "stars": 2145,
       "forks": 198,
       "starsInPeriod": 387
     },
     {
       "rank": 10,
-      "fullName": "OpenWhispr/openwhispr",
-      "url": "https://github.com/OpenWhispr/openwhispr",
-      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "fullName": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "programmingLanguage": "JavaScript",
-      "stars": 10337,
-      "forks": 1338,
-      "starsInPeriod": 555
-    },
-    {
-      "rank": 11,
-      "fullName": "reisxd/TizenTube",
-      "url": "https://github.com/reisxd/TizenTube",
-      "description": "A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.",
-      "programmingLanguage": "JavaScript",
-      "stars": 2401,
-      "forks": 229,
-      "starsInPeriod": 74
-    },
-    {
-      "rank": 12,
-      "fullName": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "programmingLanguage": "JavaScript",
-      "stars": 57371,
-      "forks": 8459,
-      "starsInPeriod": 1363
+      "stars": 123103,
+      "forks": 39310,
+      "starsInPeriod": 748
     }
   ]
 }

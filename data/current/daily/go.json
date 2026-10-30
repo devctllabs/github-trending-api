@@ -4,199 +4,239 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-10-30T05:46:33Z",
+  "observedAt": "2026-10-30T12:53:51Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "gastownhall/beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
+      "fullName": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
       "programmingLanguage": "Go",
-      "stars": 28296,
-      "forks": 1911,
-      "starsInPeriod": 20
+      "stars": 36836,
+      "forks": 1916,
+      "starsInPeriod": 30
     },
     {
       "rank": 2,
+      "fullName": "argoproj/argo-workflows",
+      "url": "https://github.com/argoproj/argo-workflows",
+      "description": "Workflow Engine for Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 17069,
+      "forks": 3722,
+      "starsInPeriod": 2
+    },
+    {
+      "rank": 3,
+      "fullName": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "programmingLanguage": "Go",
+      "stars": 93184,
+      "forks": 11178,
+      "starsInPeriod": 110
+    },
+    {
+      "rank": 4,
+      "fullName": "mvanhorn/cli-printing-press",
+      "url": "https://github.com/mvanhorn/cli-printing-press",
+      "description": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+      "programmingLanguage": "Go",
+      "stars": 4892,
+      "forks": 533,
+      "starsInPeriod": 22
+    },
+    {
+      "rank": 5,
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "programmingLanguage": "Go",
+      "stars": 49072,
+      "forks": 3596,
+      "starsInPeriod": 147
+    },
+    {
+      "rank": 6,
+      "fullName": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "programmingLanguage": "Go",
+      "stars": 46536,
+      "forks": 4320,
+      "starsInPeriod": 12
+    },
+    {
+      "rank": 7,
+      "fullName": "crossplane/crossplane",
+      "url": "https://github.com/crossplane/crossplane",
+      "description": "The Cloud Native Control Plane",
+      "programmingLanguage": "Go",
+      "stars": 12208,
+      "forks": 1286,
+      "starsInPeriod": 7
+    },
+    {
+      "rank": 8,
+      "fullName": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "programmingLanguage": "Go",
+      "stars": 72488,
+      "forks": 2086,
+      "starsInPeriod": 20
+    },
+    {
+      "rank": 9,
+      "fullName": "kserve/kserve",
+      "url": "https://github.com/kserve/kserve",
+      "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 6173,
+      "forks": 1768,
+      "starsInPeriod": 4
+    },
+    {
+      "rank": 10,
       "fullName": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 116153,
-      "forks": 6718,
+      "stars": 116232,
+      "forks": 6723,
       "starsInPeriod": 295
     },
     {
-      "rank": 3,
-      "fullName": "docker/compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
-      "programmingLanguage": "Go",
-      "stars": 38521,
-      "forks": 5891,
-      "starsInPeriod": 16
-    },
-    {
-      "rank": 4,
-      "fullName": "VictoriaMetrics/VictoriaMetrics",
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
-      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
-      "programmingLanguage": "Go",
-      "stars": 17956,
-      "forks": 1792,
-      "starsInPeriod": 10
-    },
-    {
-      "rank": 5,
-      "fullName": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "programmingLanguage": "Go",
-      "stars": 5960,
-      "forks": 654,
-      "starsInPeriod": 50
-    },
-    {
-      "rank": 6,
-      "fullName": "keploy/keploy",
-      "url": "https://github.com/keploy/keploy",
-      "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
-      "programmingLanguage": "Go",
-      "stars": 18909,
-      "forks": 2437,
-      "starsInPeriod": 27
-    },
-    {
-      "rank": 7,
-      "fullName": "google/ax",
-      "url": "https://github.com/google/ax",
-      "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
-      "programmingLanguage": "Go",
-      "stars": 14363,
-      "forks": 765,
-      "starsInPeriod": 93
-    },
-    {
-      "rank": 8,
-      "fullName": "glanceapp/glance",
-      "url": "https://github.com/glanceapp/glance",
-      "description": "A self-hosted dashboard that puts all your feeds in one place",
-      "programmingLanguage": "Go",
-      "stars": 37877,
-      "forks": 1500,
-      "starsInPeriod": 43
-    },
-    {
-      "rank": 9,
-      "fullName": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "programmingLanguage": "Go",
-      "stars": 8687,
-      "forks": 395,
-      "starsInPeriod": 50
-    },
-    {
-      "rank": 10,
-      "fullName": "nats-io/nats-server",
-      "url": "https://github.com/nats-io/nats-server",
-      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
-      "programmingLanguage": "Go",
-      "stars": 20966,
-      "forks": 2020,
-      "starsInPeriod": 7
-    },
-    {
       "rank": 11,
-      "fullName": "gitleaks/gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
+      "fullName": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
       "programmingLanguage": "Go",
-      "stars": 30511,
-      "forks": 2321,
-      "starsInPeriod": 47
+      "stars": 7077,
+      "forks": 1095,
+      "starsInPeriod": 4
     },
     {
       "rank": 12,
-      "fullName": "jesseduffield/lazygit",
-      "url": "https://github.com/jesseduffield/lazygit",
-      "description": "simple terminal UI for git commands",
+      "fullName": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "programmingLanguage": "Go",
-      "stars": 83521,
-      "forks": 3202,
-      "starsInPeriod": 33
+      "stars": 38343,
+      "forks": 3389,
+      "starsInPeriod": 69
     },
     {
       "rank": 13,
-      "fullName": "superplanehq/superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "Open source factory for one-shot engineering",
+      "fullName": "grafana/loki",
+      "url": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
       "programmingLanguage": "Go",
-      "stars": 8389,
-      "forks": 680,
-      "starsInPeriod": 40
+      "stars": 29095,
+      "forks": 4164,
+      "starsInPeriod": 6
     },
     {
       "rank": 14,
-      "fullName": "vllm-project/semantic-router",
-      "url": "https://github.com/vllm-project/semantic-router",
-      "description": "An open, programmable decision layer for models and compute.",
+      "fullName": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 6330,
-      "forks": 1091,
-      "starsInPeriod": 29
+      "stars": 24503,
+      "forks": 8065,
+      "starsInPeriod": 4
     },
     {
       "rank": 15,
-      "fullName": "XTLS/Xray-core",
-      "url": "https://github.com/XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "fullName": "hashicorp/nomad",
+      "url": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
       "programmingLanguage": "Go",
-      "stars": 42461,
-      "forks": 6065,
-      "starsInPeriod": 38
+      "stars": 17058,
+      "forks": 2154,
+      "starsInPeriod": null
     },
     {
       "rank": 16,
-      "fullName": "jackc/pgx",
-      "url": "https://github.com/jackc/pgx",
-      "description": "PostgreSQL driver and toolkit for Go",
+      "fullName": "docker/docker-agent",
+      "url": "https://github.com/docker/docker-agent",
+      "description": "AI Agent Builder and Runtime by Docker Engineering",
       "programmingLanguage": "Go",
-      "stars": 14365,
-      "forks": 1151,
-      "starsInPeriod": 2
+      "stars": 4621,
+      "forks": 542,
+      "starsInPeriod": 4
     },
     {
       "rank": 17,
+      "fullName": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "programmingLanguage": "Go",
+      "stars": 110329,
+      "forks": 15286,
+      "starsInPeriod": 49
+    },
+    {
+      "rank": 18,
+      "fullName": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "programmingLanguage": "Go",
+      "stars": 5034,
+      "forks": 4067,
+      "starsInPeriod": 3
+    },
+    {
+      "rank": 19,
+      "fullName": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "programmingLanguage": "Go",
+      "stars": 54361,
+      "forks": 7155,
+      "starsInPeriod": 142
+    },
+    {
+      "rank": 20,
+      "fullName": "github/gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "programmingLanguage": "Go",
+      "stars": 5531,
+      "forks": 609,
+      "starsInPeriod": 17
+    },
+    {
+      "rank": 21,
       "fullName": "Wei-Shaw/sub2api",
       "url": "https://github.com/Wei-Shaw/sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "programmingLanguage": "Go",
-      "stars": 45119,
-      "forks": 9709,
+      "stars": 45147,
+      "forks": 9721,
       "starsInPeriod": 75
     },
     {
-      "rank": 18,
-      "fullName": "hashicorp/terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "rank": 22,
+      "fullName": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
       "programmingLanguage": "Go",
-      "stars": 50080,
-      "forks": 10598,
-      "starsInPeriod": 18
+      "stars": 83532,
+      "forks": 3208,
+      "starsInPeriod": 33
     },
     {
-      "rank": 19,
-      "fullName": "router-for-me/CLIProxyAPI",
-      "url": "https://github.com/router-for-me/CLIProxyAPI",
-      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+      "rank": 23,
+      "fullName": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
       "programmingLanguage": "Go",
-      "stars": 56959,
-      "forks": 8714,
-      "starsInPeriod": 131
+      "stars": 14370,
+      "forks": 767,
+      "starsInPeriod": 93
     }
   ]
 }
