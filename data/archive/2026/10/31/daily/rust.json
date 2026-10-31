@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-10-31T05:38:49Z",
+  "updatedAt": "2026-10-31T12:26:22Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,14 +14,28 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 97311,
-      "forks": 5732,
-      "starsInPeriod": 2300,
+      "stars": 97679,
+      "forks": 5760,
+      "starsInPeriod": 1339,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-10-31T05:38:49Z",
-      "lastSeenAt": "2026-10-31T05:38:49Z",
-      "appearances": 1
+      "lastSeenAt": "2026-10-31T12:26:22Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "description": "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.",
+      "programmingLanguage": "Rust",
+      "stars": 1303,
+      "forks": 104,
+      "starsInPeriod": 289,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-10-31T05:38:49Z",
+      "lastSeenAt": "2026-10-31T12:26:22Z",
+      "appearances": 2
     },
     {
       "fullName": "macro-inc/macro",
@@ -52,17 +66,31 @@
       "appearances": 1
     },
     {
-      "fullName": "anomalyco/hex",
-      "url": "https://github.com/anomalyco/hex",
-      "description": "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.",
+      "fullName": "tauri-apps/tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "programmingLanguage": "Rust",
-      "stars": 1272,
-      "forks": 102,
-      "starsInPeriod": 289,
+      "stars": 112361,
+      "forks": 4138,
+      "starsInPeriod": 33,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-10-31T12:26:22Z",
+      "lastSeenAt": "2026-10-31T12:26:22Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "programmingLanguage": "Rust",
+      "stars": 35717,
+      "forks": 3388,
+      "starsInPeriod": 572,
       "bestRank": 4,
       "latestRank": 4,
-      "firstSeenAt": "2026-10-31T05:38:49Z",
-      "lastSeenAt": "2026-10-31T05:38:49Z",
+      "firstSeenAt": "2026-10-31T12:26:22Z",
+      "lastSeenAt": "2026-10-31T12:26:22Z",
       "appearances": 1
     },
     {
@@ -80,6 +108,20 @@
       "appearances": 1
     },
     {
+      "fullName": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "programmingLanguage": "Rust",
+      "stars": 132362,
+      "forks": 20906,
+      "starsInPeriod": 702,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-10-31T12:26:22Z",
+      "lastSeenAt": "2026-10-31T12:26:22Z",
+      "appearances": 1
+    },
+    {
       "fullName": "juspay/hyperswitch",
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
@@ -91,6 +133,20 @@
       "latestRank": 6,
       "firstSeenAt": "2026-10-31T05:38:49Z",
       "lastSeenAt": "2026-10-31T05:38:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "the runtime your coding agents live on",
+      "programmingLanguage": "Rust",
+      "stars": 47030,
+      "forks": 3758,
+      "starsInPeriod": 264,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-10-31T12:26:22Z",
+      "lastSeenAt": "2026-10-31T12:26:22Z",
       "appearances": 1
     },
     {
@@ -108,6 +164,20 @@
       "appearances": 1
     },
     {
+      "fullName": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "programmingLanguage": "Rust",
+      "stars": 28299,
+      "forks": 2584,
+      "starsInPeriod": 48,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-10-31T12:26:22Z",
+      "lastSeenAt": "2026-10-31T12:26:22Z",
+      "appearances": 1
+    },
+    {
       "fullName": "infosave2007/aivpn",
       "url": "https://github.com/infosave2007/aivpn",
       "description": "AI-VPN that makes your traffic invisible to deep packet inspection",
@@ -119,6 +189,20 @@
       "latestRank": 8,
       "firstSeenAt": "2026-10-31T05:38:49Z",
       "lastSeenAt": "2026-10-31T05:38:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+      "programmingLanguage": "Rust",
+      "stars": 150557,
+      "forks": 9892,
+      "starsInPeriod": 271,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-10-31T12:26:22Z",
+      "lastSeenAt": "2026-10-31T12:26:22Z",
       "appearances": 1
     },
     {
@@ -136,6 +220,34 @@
       "appearances": 1
     },
     {
+      "fullName": "waditu/czsc",
+      "url": "https://github.com/waditu/czsc",
+      "description": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+      "programmingLanguage": "Rust",
+      "stars": 6518,
+      "forks": 1787,
+      "starsInPeriod": 30,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-10-31T12:26:22Z",
+      "lastSeenAt": "2026-10-31T12:26:22Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "daeuniverse/honk",
+      "url": "https://github.com/daeuniverse/honk",
+      "description": "Inspired by dae & sing-box",
+      "programmingLanguage": "Rust",
+      "stars": 1013,
+      "forks": 83,
+      "starsInPeriod": 133,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-10-31T05:38:49Z",
+      "lastSeenAt": "2026-10-31T12:26:22Z",
+      "appearances": 2
+    },
+    {
       "fullName": "nyakang/nyaterm",
       "url": "https://github.com/nyakang/nyaterm",
       "description": "A modern remote terminal workspace",
@@ -150,17 +262,17 @@
       "appearances": 1
     },
     {
-      "fullName": "daeuniverse/honk",
-      "url": "https://github.com/daeuniverse/honk",
-      "description": "Inspired by dae & sing-box",
+      "fullName": "fastrepl/anarlog",
+      "url": "https://github.com/fastrepl/anarlog",
+      "description": "Open source Granola AI Alternative",
       "programmingLanguage": "Rust",
-      "stars": 982,
-      "forks": 80,
-      "starsInPeriod": 133,
+      "stars": 9703,
+      "forks": 817,
+      "starsInPeriod": 45,
       "bestRank": 11,
       "latestRank": 11,
-      "firstSeenAt": "2026-10-31T05:38:49Z",
-      "lastSeenAt": "2026-10-31T05:38:49Z",
+      "firstSeenAt": "2026-10-31T12:26:22Z",
+      "lastSeenAt": "2026-10-31T12:26:22Z",
       "appearances": 1
     },
     {
@@ -178,6 +290,20 @@
       "appearances": 1
     },
     {
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "programmingLanguage": "Rust",
+      "stars": 44977,
+      "forks": 3078,
+      "starsInPeriod": 71,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-10-31T05:38:49Z",
+      "lastSeenAt": "2026-10-31T12:26:22Z",
+      "appearances": 2
+    },
+    {
       "fullName": "rivet-dev/rivet",
       "url": "https://github.com/rivet-dev/rivet",
       "description": "Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.",
@@ -192,6 +318,20 @@
       "appearances": 1
     },
     {
+      "fullName": "Nasiko-Labs/nasiko",
+      "url": "https://github.com/Nasiko-Labs/nasiko",
+      "description": "The Open Runtime for AI Agents",
+      "programmingLanguage": "Rust",
+      "stars": 10842,
+      "forks": 2721,
+      "starsInPeriod": 215,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-10-31T12:26:22Z",
+      "lastSeenAt": "2026-10-31T12:26:22Z",
+      "appearances": 1
+    },
+    {
       "fullName": "screenpipe/screenpipe",
       "url": "https://github.com/screenpipe/screenpipe",
       "description": "YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context",
@@ -201,20 +341,6 @@
       "starsInPeriod": 26,
       "bestRank": 14,
       "latestRank": 14,
-      "firstSeenAt": "2026-10-31T05:38:49Z",
-      "lastSeenAt": "2026-10-31T05:38:49Z",
-      "appearances": 1
-    },
-    {
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "programmingLanguage": "Rust",
-      "stars": 44951,
-      "forks": 3075,
-      "starsInPeriod": 71,
-      "bestRank": 15,
-      "latestRank": 15,
       "firstSeenAt": "2026-10-31T05:38:49Z",
       "lastSeenAt": "2026-10-31T05:38:49Z",
       "appearances": 1

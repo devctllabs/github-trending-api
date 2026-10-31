@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=monthly",
-  "observedAt": "2026-10-31T05:38:56Z",
+  "observedAt": "2026-10-31T12:26:29Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,29 +14,29 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 97311,
-      "forks": 5732,
+      "stars": 97679,
+      "forks": 5760,
       "starsInPeriod": 24624
     },
     {
       "rank": 2,
-      "fullName": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "programmingLanguage": "Rust",
-      "stars": 20779,
-      "forks": 2040,
-      "starsInPeriod": 10707
-    },
-    {
-      "rank": 3,
       "fullName": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 14627,
-      "forks": 1051,
+      "stars": 14653,
+      "forks": 1053,
       "starsInPeriod": 6040
+    },
+    {
+      "rank": 3,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 20806,
+      "forks": 2043,
+      "starsInPeriod": 10707
     },
     {
       "rank": 4,
@@ -44,7 +44,7 @@
       "url": "https://github.com/crmne/spotifast",
       "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
       "programmingLanguage": "Rust",
-      "stars": 9427,
+      "stars": 9432,
       "forks": 557,
       "starsInPeriod": 4717
     },
@@ -54,29 +54,29 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 17781,
-      "forks": 1379,
+      "stars": 17837,
+      "forks": 1387,
       "starsInPeriod": 15951
     },
     {
       "rank": 6,
-      "fullName": "lexmount/moli",
-      "url": "https://github.com/lexmount/moli",
-      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
-      "programmingLanguage": "Rust",
-      "stars": 21768,
-      "forks": 584,
-      "starsInPeriod": 19787
-    },
-    {
-      "rank": 7,
       "fullName": "jub0t/Concat",
       "url": "https://github.com/jub0t/Concat",
       "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
       "programmingLanguage": "Rust",
-      "stars": 12886,
-      "forks": 1584,
+      "stars": 13003,
+      "forks": 1599,
       "starsInPeriod": 8993
+    },
+    {
+      "rank": 7,
+      "fullName": "lexmount/moli",
+      "url": "https://github.com/lexmount/moli",
+      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+      "programmingLanguage": "Rust",
+      "stars": 21817,
+      "forks": 585,
+      "starsInPeriod": 19787
     },
     {
       "rank": 8,
@@ -84,8 +84,8 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 18814,
-      "forks": 1174,
+      "stars": 18820,
+      "forks": 1175,
       "starsInPeriod": 3858
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://github.com/bevyengine/bevy",
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 49401,
+      "stars": 49411,
       "forks": 5000,
       "starsInPeriod": 1055
     },
@@ -104,19 +104,19 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 127644,
-      "forks": 20196,
+      "stars": 127681,
+      "forks": 20201,
       "starsInPeriod": 3440
     },
     {
       "rank": 11,
-      "fullName": "crmne/zapfast",
-      "url": "https://github.com/crmne/zapfast",
-      "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
+      "fullName": "HakanSeven12/OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 2316,
-      "forks": 270,
-      "starsInPeriod": 1403
+      "stars": 3715,
+      "forks": 436,
+      "starsInPeriod": 1380
     },
     {
       "rank": 12,
@@ -124,89 +124,89 @@
       "url": "https://github.com/xingkongliang/skills-manager",
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "programmingLanguage": "Rust",
-      "stars": 7092,
-      "forks": 575,
+      "stars": 7097,
+      "forks": 577,
       "starsInPeriod": 1891
     },
     {
       "rank": 13,
-      "fullName": "trymirai/uzu",
-      "url": "https://github.com/trymirai/uzu",
-      "description": "A high-performance inference engine for AI models",
-      "programmingLanguage": "Rust",
-      "stars": 3117,
-      "forks": 203,
-      "starsInPeriod": 1269
-    },
-    {
-      "rank": 14,
       "fullName": "denoland/deno",
       "url": "https://github.com/denoland/deno",
       "description": "A modern runtime for JavaScript and TypeScript.",
       "programmingLanguage": "Rust",
-      "stars": 108780,
+      "stars": 108781,
       "forks": 6475,
       "starsInPeriod": 865
     },
     {
-      "rank": 15,
-      "fullName": "mixelpixx/Konnect",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
-      "programmingLanguage": "Rust",
-      "stars": 1436,
-      "forks": 199,
-      "starsInPeriod": 615
-    },
-    {
-      "rank": 16,
-      "fullName": "HakanSeven12/OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
-      "programmingLanguage": "Rust",
-      "stars": 3710,
-      "forks": 436,
-      "starsInPeriod": 1380
-    },
-    {
-      "rank": 17,
-      "fullName": "microsoft/mxc",
-      "url": "https://github.com/microsoft/mxc",
-      "description": "Policy-driven, layered isolation and containment",
-      "programmingLanguage": "Rust",
-      "stars": 3052,
-      "forks": 169,
-      "starsInPeriod": 1684
-    },
-    {
-      "rank": 18,
+      "rank": 14,
       "fullName": "zerx-lab/FluxDown",
       "url": "https://github.com/zerx-lab/FluxDown",
       "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
       "programmingLanguage": "Rust",
-      "stars": 5194,
+      "stars": 5208,
       "forks": 308,
       "starsInPeriod": 1978
     },
     {
-      "rank": 19,
+      "rank": 15,
+      "fullName": "crmne/zapfast",
+      "url": "https://github.com/crmne/zapfast",
+      "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
+      "programmingLanguage": "Rust",
+      "stars": 2320,
+      "forks": 270,
+      "starsInPeriod": 1403
+    },
+    {
+      "rank": 16,
       "fullName": "emilk/egui",
       "url": "https://github.com/emilk/egui",
       "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
       "programmingLanguage": "Rust",
-      "stars": 31877,
+      "stars": 31886,
       "forks": 2288,
       "starsInPeriod": 1199
     },
     {
-      "rank": 20,
-      "fullName": "changexbc/workbuddy-switch",
-      "url": "https://github.com/changexbc/workbuddy-switch",
-      "description": "WorkBuddy、CodeBuddy 账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。",
+      "rank": 17,
+      "fullName": "mixelpixx/Konnect",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "programmingLanguage": "Rust",
-      "stars": 1639,
-      "forks": 222,
-      "starsInPeriod": 723
+      "stars": 1437,
+      "forks": 200,
+      "starsInPeriod": 615
+    },
+    {
+      "rank": 18,
+      "fullName": "trymirai/uzu",
+      "url": "https://github.com/trymirai/uzu",
+      "description": "A high-performance inference engine for AI models",
+      "programmingLanguage": "Rust",
+      "stars": 3127,
+      "forks": 206,
+      "starsInPeriod": 1269
+    },
+    {
+      "rank": 19,
+      "fullName": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "programmingLanguage": "Rust",
+      "stars": 35718,
+      "forks": 3388,
+      "starsInPeriod": 3363
+    },
+    {
+      "rank": 20,
+      "fullName": "microsoft/mxc",
+      "url": "https://github.com/microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "programmingLanguage": "Rust",
+      "stars": 3053,
+      "forks": 169,
+      "starsInPeriod": 1684
     }
   ]
 }

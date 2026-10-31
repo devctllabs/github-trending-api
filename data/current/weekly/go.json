@@ -4,149 +4,149 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-10-31T05:39:03Z",
+  "observedAt": "2026-10-31T12:26:35Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "infiniflow/ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "programmingLanguage": "Go",
-      "stars": 93230,
-      "forks": 11187,
-      "starsInPeriod": 508
-    },
-    {
-      "rank": 2,
-      "fullName": "slavakurilyak/awesome-ai-agents",
-      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
-      "description": "Awesome list of 300+ agentic AI resources",
-      "programmingLanguage": "Go",
-      "stars": 2801,
-      "forks": 727,
-      "starsInPeriod": 182
-    },
-    {
-      "rank": 3,
       "fullName": "multica-ai/multica",
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 54396,
+      "stars": 54422,
       "forks": 7167,
       "starsInPeriod": 760
     },
     {
-      "rank": 4,
-      "fullName": "QuantumNous/new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
+      "rank": 2,
+      "fullName": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "programmingLanguage": "Go",
-      "stars": 51071,
-      "forks": 12378,
-      "starsInPeriod": 535
+      "stars": 93246,
+      "forks": 11188,
+      "starsInPeriod": 508
     },
     {
-      "rank": 5,
-      "fullName": "plandex-ai/plandex",
-      "url": "https://github.com/plandex-ai/plandex",
-      "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
-      "programmingLanguage": "Go",
-      "stars": 15864,
-      "forks": 1186,
-      "starsInPeriod": 93
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "fullName": "router-for-me/CLIProxyAPI",
       "url": "https://github.com/router-for-me/CLIProxyAPI",
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
       "programmingLanguage": "Go",
-      "stars": 57058,
-      "forks": 8731,
+      "stars": 57091,
+      "forks": 8739,
       "starsInPeriod": 1031
     },
     {
-      "rank": 7,
-      "fullName": "grafana/loki",
-      "url": "https://github.com/grafana/loki",
-      "description": "Like Prometheus, but for logs.",
+      "rank": 4,
+      "fullName": "slavakurilyak/awesome-ai-agents",
+      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+      "description": "Awesome list of 300+ agentic AI resources",
       "programmingLanguage": "Go",
-      "stars": 29095,
-      "forks": 4165,
-      "starsInPeriod": 56
+      "stars": 2807,
+      "forks": 730,
+      "starsInPeriod": 182
     },
     {
-      "rank": 8,
-      "fullName": "wailsapp/wails",
-      "url": "https://github.com/wailsapp/wails",
-      "description": "Create beautiful applications using Go",
-      "programmingLanguage": "Go",
-      "stars": 36856,
-      "forks": 1916,
-      "starsInPeriod": 192
-    },
-    {
-      "rank": 9,
-      "fullName": "chaitin/SafeLine",
-      "url": "https://github.com/chaitin/SafeLine",
-      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
-      "programmingLanguage": "Go",
-      "stars": 23123,
-      "forks": 1587,
-      "starsInPeriod": 209
-    },
-    {
-      "rank": 10,
+      "rank": 5,
       "fullName": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 185401,
-      "forks": 18782,
+      "stars": 185436,
+      "forks": 18790,
       "starsInPeriod": 1092
     },
     {
-      "rank": 11,
-      "fullName": "tailscale/tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "rank": 6,
+      "fullName": "QuantumNous/new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
       "programmingLanguage": "Go",
-      "stars": 38384,
-      "forks": 3397,
-      "starsInPeriod": 380
+      "stars": 51090,
+      "forks": 12379,
+      "starsInPeriod": 535
     },
     {
-      "rank": 12,
-      "fullName": "github/gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
-      "programmingLanguage": "Go",
-      "stars": 5535,
-      "forks": 609,
-      "starsInPeriod": 93
-    },
-    {
-      "rank": 13,
-      "fullName": "strelov1/freehire",
-      "url": "https://github.com/strelov1/freehire",
-      "description": "freehire — the open-source search engine for job seekers",
-      "programmingLanguage": "Go",
-      "stars": 3393,
-      "forks": 350,
-      "starsInPeriod": 515
-    },
-    {
-      "rank": 14,
+      "rank": 7,
       "fullName": "cloudflare/cloudflared",
       "url": "https://github.com/cloudflare/cloudflared",
       "description": "Cloudflare Tunnel client",
       "programmingLanguage": "Go",
-      "stars": 16360,
+      "stars": 16367,
       "forks": 1509,
       "starsInPeriod": 141
+    },
+    {
+      "rank": 8,
+      "fullName": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "programmingLanguage": "Go",
+      "stars": 38411,
+      "forks": 3399,
+      "starsInPeriod": 380
+    },
+    {
+      "rank": 9,
+      "fullName": "grafana/loki",
+      "url": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "programmingLanguage": "Go",
+      "stars": 29096,
+      "forks": 4165,
+      "starsInPeriod": 56
+    },
+    {
+      "rank": 10,
+      "fullName": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "programmingLanguage": "Go",
+      "stars": 36863,
+      "forks": 1916,
+      "starsInPeriod": 192
+    },
+    {
+      "rank": 11,
+      "fullName": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "programmingLanguage": "Go",
+      "stars": 17976,
+      "forks": 1793,
+      "starsInPeriod": 76
+    },
+    {
+      "rank": 12,
+      "fullName": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "programmingLanguage": "Go",
+      "stars": 38535,
+      "forks": 5898,
+      "starsInPeriod": 133
+    },
+    {
+      "rank": 13,
+      "fullName": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
+      "programmingLanguage": "Go",
+      "stars": 30383,
+      "forks": 1799,
+      "starsInPeriod": 223
+    },
+    {
+      "rank": 14,
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "programmingLanguage": "Go",
+      "stars": 8487,
+      "forks": 685,
+      "starsInPeriod": 349
     },
     {
       "rank": 15,
@@ -160,43 +160,43 @@
     },
     {
       "rank": 16,
-      "fullName": "VictoriaMetrics/VictoriaMetrics",
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
-      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "fullName": "tinygo-org/tinygo",
+      "url": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
       "programmingLanguage": "Go",
-      "stars": 17973,
-      "forks": 1793,
-      "starsInPeriod": 76
+      "stars": 17867,
+      "forks": 1098,
+      "starsInPeriod": 30
     },
     {
       "rank": 17,
-      "fullName": "eugenioenko/ttt",
-      "url": "https://github.com/eugenioenko/ttt",
-      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
+      "fullName": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
       "programmingLanguage": "Go",
-      "stars": 992,
-      "forks": 113,
-      "starsInPeriod": 207
+      "stars": 110358,
+      "forks": 15292,
+      "starsInPeriod": 291
     },
     {
       "rank": 18,
+      "fullName": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "programmingLanguage": "Go",
+      "stars": 89936,
+      "forks": 5566,
+      "starsInPeriod": 288
+    },
+    {
+      "rank": 19,
       "fullName": "samber/cc-skills-golang",
       "url": "https://github.com/samber/cc-skills-golang",
       "description": "🧑‍🎨 A collection of Golang agentic skills that works",
       "programmingLanguage": "Go",
-      "stars": 3737,
+      "stars": 3739,
       "forks": 251,
       "starsInPeriod": 141
-    },
-    {
-      "rank": 19,
-      "fullName": "docker/compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
-      "programmingLanguage": "Go",
-      "stars": 38533,
-      "forks": 5891,
-      "starsInPeriod": 133
     }
   ]
 }
