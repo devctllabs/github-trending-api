@@ -4,149 +4,179 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-11-01T06:00:14Z",
+  "observedAt": "2026-11-01T13:21:18Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "fullName": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "programmingLanguage": "Python",
-      "stars": 53052,
-      "forks": 6495,
-      "starsInPeriod": 1034
+      "stars": 44987,
+      "forks": 7434,
+      "starsInPeriod": 611
     },
     {
       "rank": 2,
-      "fullName": "bregman-arie/devops-exercises",
-      "url": "https://github.com/bregman-arie/devops-exercises",
-      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+      "fullName": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
       "programmingLanguage": "Python",
-      "stars": 86108,
-      "forks": 20557,
-      "starsInPeriod": 342
+      "stars": 494049,
+      "forks": 55158,
+      "starsInPeriod": 298
     },
     {
       "rank": 3,
-      "fullName": "0x0funky/agent-sprite-forge",
-      "url": "https://github.com/0x0funky/agent-sprite-forge",
-      "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
+      "fullName": "kornia/kornia",
+      "url": "https://github.com/kornia/kornia",
+      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
       "programmingLanguage": "Python",
-      "stars": 4791,
-      "forks": 473,
-      "starsInPeriod": 45
+      "stars": 11599,
+      "forks": 1456,
+      "starsInPeriod": 88
     },
     {
       "rank": 4,
-      "fullName": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
+      "fullName": "beenuar/AiSOC",
+      "url": "https://github.com/beenuar/AiSOC",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
       "programmingLanguage": "Python",
-      "stars": 185989,
-      "forks": 21957,
-      "starsInPeriod": 754
+      "stars": 5894,
+      "forks": 620,
+      "starsInPeriod": 436
     },
     {
       "rank": 5,
-      "fullName": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "fullName": "FlashML-org/FreeToken",
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
       "programmingLanguage": "Python",
-      "stars": 74070,
-      "forks": 9712,
-      "starsInPeriod": 583
+      "stars": 15123,
+      "forks": 1535,
+      "starsInPeriod": 232
     },
     {
       "rank": 6,
-      "fullName": "hacksider/Deep-Live-Cam",
-      "url": "https://github.com/hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
+      "fullName": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "programmingLanguage": "Python",
-      "stars": 97485,
-      "forks": 14214,
-      "starsInPeriod": 41
+      "stars": 91466,
+      "forks": 9604,
+      "starsInPeriod": 844
     },
     {
       "rank": 7,
-      "fullName": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "programmingLanguage": "Python",
-      "stars": 144530,
-      "forks": 12947,
-      "starsInPeriod": 154
-    },
-    {
-      "rank": 8,
       "fullName": "paperless-ngx/paperless-ngx",
       "url": "https://github.com/paperless-ngx/paperless-ngx",
       "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "programmingLanguage": "Python",
-      "stars": 47473,
-      "forks": 3320,
-      "starsInPeriod": 80
+      "stars": 47496,
+      "forks": 3321,
+      "starsInPeriod": 67
     },
     {
-      "rank": 9,
-      "fullName": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "programmingLanguage": "Python",
-      "stars": 140120,
-      "forks": 13372,
-      "starsInPeriod": 660
-    },
-    {
-      "rank": 10,
-      "fullName": "MemPalace/mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "programmingLanguage": "Python",
-      "stars": 60204,
-      "forks": 7627,
-      "starsInPeriod": 49
-    },
-    {
-      "rank": 11,
-      "fullName": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "programmingLanguage": "Python",
-      "stars": 6882,
-      "forks": 602,
-      "starsInPeriod": 266
-    },
-    {
-      "rank": 12,
-      "fullName": "The-PR-Agent/pr-agent",
-      "url": "https://github.com/The-PR-Agent/pr-agent",
-      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "programmingLanguage": "Python",
-      "stars": 13849,
-      "forks": 2031,
-      "starsInPeriod": 122
-    },
-    {
-      "rank": 13,
+      "rank": 8,
       "fullName": "ethanplusai/harvey",
       "url": "https://github.com/ethanplusai/harvey",
       "description": "Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.",
       "programmingLanguage": "Python",
-      "stars": 3757,
-      "forks": 773,
-      "starsInPeriod": 218
+      "stars": 3826,
+      "forks": 791,
+      "starsInPeriod": 237
+    },
+    {
+      "rank": 9,
+      "fullName": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "programmingLanguage": "Python",
+      "stars": 74200,
+      "forks": 9742,
+      "starsInPeriod": 461
+    },
+    {
+      "rank": 10,
+      "fullName": "scenario-labs/skills",
+      "url": "https://github.com/scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "programmingLanguage": "Python",
+      "stars": 1425,
+      "forks": 172,
+      "starsInPeriod": 98
+    },
+    {
+      "rank": 11,
+      "fullName": "andreavolpato/spektrafilm",
+      "url": "https://github.com/andreavolpato/spektrafilm",
+      "description": "Spectral simulation of analog photography processes",
+      "programmingLanguage": "Python",
+      "stars": 1466,
+      "forks": 194,
+      "starsInPeriod": 142
+    },
+    {
+      "rank": 12,
+      "fullName": "bregman-arie/devops-exercises",
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+      "programmingLanguage": "Python",
+      "stars": 86264,
+      "forks": 20565,
+      "starsInPeriod": 733
+    },
+    {
+      "rank": 13,
+      "fullName": "bleachbit/bleachbit",
+      "url": "https://github.com/bleachbit/bleachbit",
+      "description": "BleachBit system cleaner for Windows and Linux",
+      "programmingLanguage": "Python",
+      "stars": 7323,
+      "forks": 483,
+      "starsInPeriod": 35
     },
     {
       "rank": 14,
-      "fullName": "sngyai/Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
-      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "fullName": "oraios/serena",
+      "url": "https://github.com/oraios/serena",
+      "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent",
       "programmingLanguage": "Python",
-      "stars": 8427,
-      "forks": 1679,
-      "starsInPeriod": 29
+      "stars": 30969,
+      "forks": 2118,
+      "starsInPeriod": 57
+    },
+    {
+      "rank": 15,
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "programmingLanguage": "Python",
+      "stars": 186128,
+      "forks": 21978,
+      "starsInPeriod": 438
+    },
+    {
+      "rank": 16,
+      "fullName": "eriklindernoren/ML-From-Scratch",
+      "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+      "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+      "programmingLanguage": "Python",
+      "stars": 33232,
+      "forks": 5529,
+      "starsInPeriod": 36
+    },
+    {
+      "rank": 17,
+      "fullName": "python/cpython",
+      "url": "https://github.com/python/cpython",
+      "description": "The Python programming language",
+      "programmingLanguage": "Python",
+      "stars": 77769,
+      "forks": 37143,
+      "starsInPeriod": 47
     }
   ]
 }

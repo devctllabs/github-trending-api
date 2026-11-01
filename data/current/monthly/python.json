@@ -4,29 +4,29 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-11-01T06:00:20Z",
+  "observedAt": "2026-11-01T13:21:25Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "programmingLanguage": "Python",
-      "stars": 34237,
-      "forks": 3778,
-      "starsInPeriod": 8375
-    },
-    {
-      "rank": 2,
       "fullName": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 97056,
-      "forks": 10766,
+      "stars": 97395,
+      "forks": 10805,
       "starsInPeriod": 47234
+    },
+    {
+      "rank": 2,
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "programmingLanguage": "Python",
+      "stars": 34298,
+      "forks": 3788,
+      "starsInPeriod": 8375
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Design physical products with AI",
       "programmingLanguage": "Python",
-      "stars": 24556,
-      "forks": 2355,
+      "stars": 24613,
+      "forks": 2357,
       "starsInPeriod": 8092
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 45602,
-      "forks": 4748,
+      "stars": 45644,
+      "forks": 4751,
       "starsInPeriod": 8525
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 25126,
-      "forks": 3325,
+      "stars": 25300,
+      "forks": 3338,
       "starsInPeriod": 6891
     },
     {
@@ -64,19 +64,19 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 107295,
-      "forks": 9558,
+      "stars": 107435,
+      "forks": 9578,
       "starsInPeriod": 21482
     },
     {
       "rank": 7,
-      "fullName": "danyuchn/asd-ste100-skill",
-      "url": "https://github.com/danyuchn/asd-ste100-skill",
-      "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "programmingLanguage": "Python",
-      "stars": 5891,
-      "forks": 343,
-      "starsInPeriod": 3595
+      "stars": 53361,
+      "forks": 6524,
+      "starsInPeriod": 12117
     },
     {
       "rank": 8,
@@ -84,89 +84,79 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 23724,
-      "forks": 2052,
+      "stars": 23788,
+      "forks": 2054,
       "starsInPeriod": 5009
     },
     {
       "rank": 9,
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
-      "programmingLanguage": "Python",
-      "stars": 53052,
-      "forks": 6495,
-      "starsInPeriod": 12117
-    },
-    {
-      "rank": 10,
       "fullName": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 57975,
+      "stars": 58008,
       "forks": 5217,
       "starsInPeriod": 7040
     },
     {
-      "rank": 11,
-      "fullName": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "programmingLanguage": "Python",
-      "stars": 65514,
-      "forks": 10210,
-      "starsInPeriod": 9713
-    },
-    {
-      "rank": 12,
+      "rank": 10,
       "fullName": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "programmingLanguage": "Python",
-      "stars": 74070,
-      "forks": 9712,
+      "stars": 74200,
+      "forks": 9742,
       "starsInPeriod": 12228
     },
     {
+      "rank": 11,
+      "fullName": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "programmingLanguage": "Python",
+      "stars": 45459,
+      "forks": 3332,
+      "starsInPeriod": 4192
+    },
+    {
+      "rank": 12,
+      "fullName": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "programmingLanguage": "Python",
+      "stars": 65606,
+      "forks": 10231,
+      "starsInPeriod": 9713
+    },
+    {
       "rank": 13,
+      "fullName": "danyuchn/asd-ste100-skill",
+      "url": "https://github.com/danyuchn/asd-ste100-skill",
+      "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
+      "programmingLanguage": "Python",
+      "stars": 5907,
+      "forks": 344,
+      "starsInPeriod": 3595
+    },
+    {
+      "rank": 14,
       "fullName": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "programmingLanguage": "Python",
-      "stars": 76127,
-      "forks": 13441,
+      "stars": 76168,
+      "forks": 13461,
       "starsInPeriod": 14370
     },
     {
-      "rank": 14,
+      "rank": 15,
       "fullName": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "programmingLanguage": "Python",
-      "stars": 46299,
-      "forks": 5675,
+      "stars": 46329,
+      "forks": 5681,
       "starsInPeriod": 4742
-    },
-    {
-      "rank": 15,
-      "fullName": "Kruk2/jasna",
-      "url": "https://github.com/Kruk2/jasna",
-      "description": "Video restoration tool",
-      "programmingLanguage": "Python",
-      "stars": 4204,
-      "forks": 344,
-      "starsInPeriod": 2319
-    },
-    {
-      "rank": 16,
-      "fullName": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "programmingLanguage": "Python",
-      "stars": 83125,
-      "forks": 12567,
-      "starsInPeriod": 7921
     }
   ]
 }

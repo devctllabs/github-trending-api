@@ -4,13 +4,13 @@
     <title>GitHub Trending — monthly — go</title>
     <link>https://github.com/trending/go?since=monthly</link>
     <description>GitHub Trending — monthly — go</description>
-    <lastBuildDate>Sun, 01 Nov 2026 06:00:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:21:45 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-01</ght:date>
     <ght:period>monthly</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-11-01T06:00:39Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-01T13:21:45Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,14 +20,14 @@
       <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
       <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>185508</ght:stars>
-      <ght:forks>18811</ght:forks>
+      <ght:stars>185543</ght:stars>
+      <ght:forks>18829</ght:forks>
       <ght:starsInPeriod>4569</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
-      <ght:latestRank>1</ght:latestRank>
+      <ght:latestRank>2</ght:latestRank>
       <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>vxcontrol/pentagi</title>
@@ -36,14 +36,14 @@
       <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
       <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>32881</ght:stars>
-      <ght:forks>5138</ght:forks>
+      <ght:stars>32907</ght:stars>
+      <ght:forks>5142</ght:forks>
       <ght:starsInPeriod>7929</ght:starsInPeriod>
-      <ght:bestRank>2</ght:bestRank>
-      <ght:latestRank>2</ght:latestRank>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
       <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>caddyserver/caddy</title>
@@ -52,14 +52,14 @@
       <guid isPermaLink="true">https://github.com/caddyserver/caddy</guid>
       <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>78605</ght:stars>
-      <ght:forks>5223</ght:forks>
+      <ght:stars>78611</ght:stars>
+      <ght:forks>5228</ght:forks>
       <ght:starsInPeriod>2611</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
       <ght:latestRank>3</ght:latestRank>
       <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>Gaurav-Gosain/tuios</title>
@@ -68,14 +68,14 @@
       <guid isPermaLink="true">https://github.com/Gaurav-Gosain/tuios</guid>
       <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6259</ght:stars>
-      <ght:forks>297</ght:forks>
+      <ght:stars>6267</ght:stars>
+      <ght:forks>298</ght:forks>
       <ght:starsInPeriod>1898</ght:starsInPeriod>
       <ght:bestRank>4</ght:bestRank>
       <ght:latestRank>4</ght:latestRank>
       <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>Agent-Field/CodeAF</title>
@@ -94,36 +94,52 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>gosom/google-maps-scraper</title>
-      <link>https://github.com/gosom/google-maps-scraper</link>
-      <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
-      <guid isPermaLink="true">https://github.com/gosom/google-maps-scraper</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>7129</ght:stars>
-      <ght:forks>1108</ght:forks>
-      <ght:starsInPeriod>918</ght:starsInPeriod>
-      <ght:bestRank>6</ght:bestRank>
-      <ght:latestRank>6</ght:latestRank>
-      <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
       <title>docker/compose</title>
       <link>https://github.com/docker/compose</link>
       <description>Define and run multi-container applications with Docker</description>
       <guid isPermaLink="true">https://github.com/docker/compose</guid>
       <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>38552</ght:stars>
-      <ght:forks>5899</ght:forks>
+      <ght:stars>38554</ght:stars>
+      <ght:forks>5900</ght:forks>
       <ght:starsInPeriod>460</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>gosom/google-maps-scraper</title>
+      <link>https://github.com/gosom/google-maps-scraper</link>
+      <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
+      <guid isPermaLink="true">https://github.com/gosom/google-maps-scraper</guid>
+      <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7142</ght:stars>
+      <ght:forks>1112</ght:forks>
+      <ght:starsInPeriod>918</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>kubernetes/kubernetes</title>
+      <link>https://github.com/kubernetes/kubernetes</link>
+      <description>Production-Grade Container Scheduling and Management</description>
+      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
+      <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>128811</ght:stars>
+      <ght:forks>45730</ght:forks>
+      <ght:starsInPeriod>1691</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
       <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>aquasecurity/trivy</title>
@@ -132,30 +148,14 @@
       <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
       <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>38882</ght:stars>
-      <ght:forks>812</ght:forks>
+      <ght:stars>38887</ght:stars>
+      <ght:forks>813</ght:forks>
       <ght:starsInPeriod>797</ght:starsInPeriod>
       <ght:bestRank>8</ght:bestRank>
-      <ght:latestRank>8</ght:latestRank>
+      <ght:latestRank>14</ght:latestRank>
       <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>oauth2-proxy/oauth2-proxy</title>
-      <link>https://github.com/oauth2-proxy/oauth2-proxy</link>
-      <description>A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</description>
-      <guid isPermaLink="true">https://github.com/oauth2-proxy/oauth2-proxy</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>15303</ght:stars>
-      <ght:forks>2260</ght:forks>
-      <ght:starsInPeriod>296</ght:starsInPeriod>
-      <ght:bestRank>9</ght:bestRank>
-      <ght:latestRank>9</ght:latestRank>
-      <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>llm-d/llm-d-router</title>
@@ -167,43 +167,11 @@
       <ght:stars>440</ght:stars>
       <ght:forks>498</ght:forks>
       <ght:starsInPeriod>75</ght:starsInPeriod>
-      <ght:bestRank>10</ght:bestRank>
-      <ght:latestRank>10</ght:latestRank>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
       <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>kubernetes/kubernetes</title>
-      <link>https://github.com/kubernetes/kubernetes</link>
-      <description>Production-Grade Container Scheduling and Management</description>
-      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>128809</ght:stars>
-      <ght:forks>45728</ght:forks>
-      <ght:starsInPeriod>1691</ght:starsInPeriod>
-      <ght:bestRank>11</ght:bestRank>
-      <ght:latestRank>11</ght:latestRank>
-      <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>Asymptote-Labs/agent-beacon</title>
-      <link>https://github.com/Asymptote-Labs/agent-beacon</link>
-      <description>The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu</description>
-      <guid isPermaLink="true">https://github.com/Asymptote-Labs/agent-beacon</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>2976</ght:stars>
-      <ght:forks>264</ght:forks>
-      <ght:starsInPeriod>1272</ght:starsInPeriod>
-      <ght:bestRank>12</ght:bestRank>
-      <ght:latestRank>12</ght:latestRank>
-      <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>microsoft/TypeScript</title>
@@ -212,14 +180,30 @@
       <guid isPermaLink="true">https://github.com/microsoft/TypeScript</guid>
       <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>111705</ght:stars>
-      <ght:forks>15426</ght:forks>
+      <ght:stars>111712</ght:stars>
+      <ght:forks>15433</ght:forks>
       <ght:starsInPeriod>672</ght:starsInPeriod>
-      <ght:bestRank>13</ght:bestRank>
-      <ght:latestRank>13</ght:latestRank>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
       <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>oauth2-proxy/oauth2-proxy</title>
+      <link>https://github.com/oauth2-proxy/oauth2-proxy</link>
+      <description>A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</description>
+      <guid isPermaLink="true">https://github.com/oauth2-proxy/oauth2-proxy</guid>
+      <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>15305</ght:stars>
+      <ght:forks>2260</ght:forks>
+      <ght:starsInPeriod>296</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>golang/go</title>
@@ -228,14 +212,46 @@
       <guid isPermaLink="true">https://github.com/golang/go</guid>
       <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>139710</ght:stars>
-      <ght:forks>21012</ght:forks>
+      <ght:stars>139718</ght:stars>
+      <ght:forks>21021</ght:forks>
       <ght:starsInPeriod>1819</ght:starsInPeriod>
-      <ght:bestRank>14</ght:bestRank>
-      <ght:latestRank>14</ght:latestRank>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
       <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>Asymptote-Labs/agent-beacon</title>
+      <link>https://github.com/Asymptote-Labs/agent-beacon</link>
+      <description>The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu</description>
+      <guid isPermaLink="true">https://github.com/Asymptote-Labs/agent-beacon</guid>
+      <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>2981</ght:stars>
+      <ght:forks>265</ght:forks>
+      <ght:starsInPeriod>1272</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>docker/docker-agent</title>
+      <link>https://github.com/docker/docker-agent</link>
+      <description>AI Agent Builder and Runtime by Docker Engineering</description>
+      <guid isPermaLink="true">https://github.com/docker/docker-agent</guid>
+      <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4641</ght:stars>
+      <ght:forks>545</ght:forks>
+      <ght:starsInPeriod>1283</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>lharries/whatsapp-mcp</title>
@@ -244,13 +260,29 @@
       <guid isPermaLink="true">https://github.com/lharries/whatsapp-mcp</guid>
       <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6781</ght:stars>
+      <ght:stars>6784</ght:stars>
       <ght:forks>1462</ght:forks>
       <ght:starsInPeriod>469</ght:starsInPeriod>
       <ght:bestRank>15</ght:bestRank>
-      <ght:latestRank>15</ght:latestRank>
+      <ght:latestRank>16</ght:latestRank>
       <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>slavakurilyak/awesome-ai-agents</title>
+      <link>https://github.com/slavakurilyak/awesome-ai-agents</link>
+      <description>Awesome list of 300+ agentic AI resources</description>
+      <guid isPermaLink="true">https://github.com/slavakurilyak/awesome-ai-agents</guid>
+      <pubDate>Sun, 01 Nov 2026 13:21:45 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>2834</ght:stars>
+      <ght:forks>736</ght:forks>
+      <ght:starsInPeriod>560</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-11-01T13:21:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -270,19 +302,19 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>docker/docker-agent</title>
-      <link>https://github.com/docker/docker-agent</link>
-      <description>AI Agent Builder and Runtime by Docker Engineering</description>
-      <guid isPermaLink="true">https://github.com/docker/docker-agent</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
+      <title>rasonyang/ai-native-callcenter</title>
+      <link>https://github.com/rasonyang/ai-native-callcenter</link>
+      <description>Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (OpenAI, Grok, Qwen, Doubao, or any compatible gateway).</description>
+      <guid isPermaLink="true">https://github.com/rasonyang/ai-native-callcenter</guid>
+      <pubDate>Sun, 01 Nov 2026 13:21:45 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>4640</ght:stars>
-      <ght:forks>544</ght:forks>
-      <ght:starsInPeriod>1283</ght:starsInPeriod>
+      <ght:stars>515</ght:stars>
+      <ght:forks>95</ght:forks>
+      <ght:starsInPeriod>342</ght:starsInPeriod>
       <ght:bestRank>17</ght:bestRank>
       <ght:latestRank>17</ght:latestRank>
-      <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-01T13:21:45Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -308,14 +340,14 @@
       <guid isPermaLink="true">https://github.com/tailscale/tailscale</guid>
       <pubDate>Sun, 01 Nov 2026 06:00:39 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>38450</ght:stars>
-      <ght:forks>3404</ght:forks>
+      <ght:stars>38463</ght:stars>
+      <ght:forks>3406</ght:forks>
       <ght:starsInPeriod>1494</ght:starsInPeriod>
-      <ght:bestRank>19</ght:bestRank>
-      <ght:latestRank>19</ght:latestRank>
+      <ght:bestRank>18</ght:bestRank>
+      <ght:latestRank>18</ght:latestRank>
       <ght:firstSeenAt>2026-11-01T06:00:39Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-01T06:00:39Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-01T13:21:45Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
   </channel>
 </rss>

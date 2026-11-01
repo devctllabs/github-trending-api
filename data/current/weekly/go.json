@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-11-01T06:00:36Z",
+  "observedAt": "2026-11-01T13:21:42Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,189 +14,199 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 54471,
-      "forks": 7170,
+      "stars": 54493,
+      "forks": 7169,
       "starsInPeriod": 787
     },
     {
       "rank": 2,
-      "fullName": "infiniflow/ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "programmingLanguage": "Go",
-      "stars": 93272,
-      "forks": 11195,
-      "starsInPeriod": 499
-    },
-    {
-      "rank": 3,
-      "fullName": "router-for-me/CLIProxyAPI",
-      "url": "https://github.com/router-for-me/CLIProxyAPI",
-      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
-      "programmingLanguage": "Go",
-      "stars": 57141,
-      "forks": 8751,
-      "starsInPeriod": 1045
-    },
-    {
-      "rank": 4,
-      "fullName": "slavakurilyak/awesome-ai-agents",
-      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
-      "description": "Awesome list of 300+ agentic AI resources",
-      "programmingLanguage": "Go",
-      "stars": 2828,
-      "forks": 736,
-      "starsInPeriod": 173
-    },
-    {
-      "rank": 5,
-      "fullName": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "programmingLanguage": "Go",
-      "stars": 185508,
-      "forks": 18811,
-      "starsInPeriod": 1000
-    },
-    {
-      "rank": 6,
-      "fullName": "QuantumNous/new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
-      "programmingLanguage": "Go",
-      "stars": 51108,
-      "forks": 12391,
-      "starsInPeriod": 540
-    },
-    {
-      "rank": 7,
-      "fullName": "cloudflare/cloudflared",
-      "url": "https://github.com/cloudflare/cloudflared",
-      "description": "Cloudflare Tunnel client",
-      "programmingLanguage": "Go",
-      "stars": 16381,
-      "forks": 1512,
-      "starsInPeriod": 151
-    },
-    {
-      "rank": 8,
-      "fullName": "tailscale/tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "programmingLanguage": "Go",
-      "stars": 38450,
-      "forks": 3404,
-      "starsInPeriod": 411
-    },
-    {
-      "rank": 9,
-      "fullName": "grafana/loki",
-      "url": "https://github.com/grafana/loki",
-      "description": "Like Prometheus, but for logs.",
-      "programmingLanguage": "Go",
-      "stars": 29102,
-      "forks": 4166,
-      "starsInPeriod": 54
-    },
-    {
-      "rank": 10,
-      "fullName": "wailsapp/wails",
-      "url": "https://github.com/wailsapp/wails",
-      "description": "Create beautiful applications using Go",
-      "programmingLanguage": "Go",
-      "stars": 36878,
-      "forks": 1919,
-      "starsInPeriod": 206
-    },
-    {
-      "rank": 11,
-      "fullName": "VictoriaMetrics/VictoriaMetrics",
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
-      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
-      "programmingLanguage": "Go",
-      "stars": 17990,
-      "forks": 1793,
-      "starsInPeriod": 78
-    },
-    {
-      "rank": 12,
-      "fullName": "docker/compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
-      "programmingLanguage": "Go",
-      "stars": 38552,
-      "forks": 5899,
-      "starsInPeriod": 137
-    },
-    {
-      "rank": 13,
       "fullName": "netbirdio/netbird",
       "url": "https://github.com/netbirdio/netbird",
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "programmingLanguage": "Go",
-      "stars": 30449,
-      "forks": 1807,
+      "stars": 30478,
+      "forks": 1808,
       "starsInPeriod": 227
     },
     {
-      "rank": 14,
-      "fullName": "superplanehq/superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "Open source factory for one-shot engineering",
+      "rank": 3,
+      "fullName": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 8498,
-      "forks": 686,
-      "starsInPeriod": 338
+      "stars": 38554,
+      "forks": 5900,
+      "starsInPeriod": 137
     },
     {
-      "rank": 15,
+      "rank": 4,
+      "fullName": "router-for-me/CLIProxyAPI",
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+      "programmingLanguage": "Go",
+      "stars": 57172,
+      "forks": 8753,
+      "starsInPeriod": 1045
+    },
+    {
+      "rank": 5,
+      "fullName": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "programmingLanguage": "Go",
+      "stars": 38463,
+      "forks": 3406,
+      "starsInPeriod": 411
+    },
+    {
+      "rank": 6,
+      "fullName": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "programmingLanguage": "Go",
+      "stars": 17991,
+      "forks": 1793,
+      "starsInPeriod": 78
+    },
+    {
+      "rank": 7,
+      "fullName": "grafana/loki",
+      "url": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "programmingLanguage": "Go",
+      "stars": 29104,
+      "forks": 4166,
+      "starsInPeriod": 54
+    },
+    {
+      "rank": 8,
+      "fullName": "cloudflare/cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client",
+      "programmingLanguage": "Go",
+      "stars": 16385,
+      "forks": 1512,
+      "starsInPeriod": 151
+    },
+    {
+      "rank": 9,
+      "fullName": "Billionmail/BillionMail",
+      "url": "https://github.com/Billionmail/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "programmingLanguage": "Go",
+      "stars": 16134,
+      "forks": 1791,
+      "starsInPeriod": 181
+    },
+    {
+      "rank": 10,
+      "fullName": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "programmingLanguage": "Go",
+      "stars": 93285,
+      "forks": 11193,
+      "starsInPeriod": 499
+    },
+    {
+      "rank": 11,
+      "fullName": "MHSanaei/3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "programmingLanguage": "Go",
+      "stars": 49071,
+      "forks": 12619,
+      "starsInPeriod": 582
+    },
+    {
+      "rank": 12,
       "fullName": "hashicorp/nomad",
       "url": "https://github.com/hashicorp/nomad",
       "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
       "programmingLanguage": "Go",
-      "stars": 17065,
+      "stars": 17066,
       "forks": 2154,
       "starsInPeriod": 42
     },
     {
-      "rank": 16,
+      "rank": 13,
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "programmingLanguage": "Go",
+      "stars": 8502,
+      "forks": 687,
+      "starsInPeriod": 338
+    },
+    {
+      "rank": 14,
       "fullName": "tinygo-org/tinygo",
       "url": "https://github.com/tinygo-org/tinygo",
       "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
       "programmingLanguage": "Go",
-      "stars": 17873,
-      "forks": 1098,
+      "stars": 17875,
+      "forks": 1100,
       "starsInPeriod": 31
     },
     {
-      "rank": 17,
+      "rank": 15,
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "programmingLanguage": "Go",
+      "stars": 185542,
+      "forks": 18829,
+      "starsInPeriod": 1000
+    },
+    {
+      "rank": 16,
       "fullName": "fatedier/frp",
       "url": "https://github.com/fatedier/frp",
       "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
       "programmingLanguage": "Go",
-      "stars": 110361,
-      "forks": 15297,
+      "stars": 110367,
+      "forks": 15296,
       "starsInPeriod": 287
     },
     {
-      "rank": 18,
-      "fullName": "syncthing/syncthing",
-      "url": "https://github.com/syncthing/syncthing",
-      "description": "Open Source Continuous File Synchronization",
+      "rank": 17,
+      "fullName": "slavakurilyak/awesome-ai-agents",
+      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+      "description": "Awesome list of 300+ agentic AI resources",
       "programmingLanguage": "Go",
-      "stars": 89959,
-      "forks": 5570,
-      "starsInPeriod": 291
+      "stars": 2834,
+      "forks": 736,
+      "starsInPeriod": 173
+    },
+    {
+      "rank": 18,
+      "fullName": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "programmingLanguage": "Go",
+      "stars": 90312,
+      "forks": 8440,
+      "starsInPeriod": 108
     },
     {
       "rank": 19,
-      "fullName": "samber/cc-skills-golang",
-      "url": "https://github.com/samber/cc-skills-golang",
-      "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+      "fullName": "mayswind/ezbookkeeping",
+      "url": "https://github.com/mayswind/ezbookkeeping",
+      "description": "ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.",
       "programmingLanguage": "Go",
-      "stars": 3744,
-      "forks": 252,
-      "starsInPeriod": 137
+      "stars": 5911,
+      "forks": 735,
+      "starsInPeriod": 94
+    },
+    {
+      "rank": 20,
+      "fullName": "QuantumNous/new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
+      "programmingLanguage": "Go",
+      "stars": 51125,
+      "forks": 12393,
+      "starsInPeriod": 540
     }
   ]
 }

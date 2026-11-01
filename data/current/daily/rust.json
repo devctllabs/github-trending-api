@@ -4,19 +4,19 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-01T06:00:23Z",
+  "observedAt": "2026-11-01T13:21:28Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "fullName": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "programmingLanguage": "Rust",
-      "stars": 98498,
-      "forks": 5814,
-      "starsInPeriod": 1338
+      "stars": 36113,
+      "forks": 3426,
+      "starsInPeriod": 611
     },
     {
       "rank": 2,
@@ -24,119 +24,139 @@
       "url": "https://github.com/anomalyco/hex",
       "description": "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.",
       "programmingLanguage": "Rust",
-      "stars": 2238,
-      "forks": 141,
+      "stars": 2622,
+      "forks": 164,
       "starsInPeriod": 172
     },
     {
       "rank": 3,
-      "fullName": "tauri-apps/tauri",
-      "url": "https://github.com/tauri-apps/tauri",
-      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "fullName": "xai-org/x-algorithm",
+      "url": "https://github.com/xai-org/x-algorithm",
+      "description": "Algorithm powering the For You feed on X",
       "programmingLanguage": "Rust",
-      "stars": 112385,
-      "forks": 4143,
-      "starsInPeriod": 35
+      "stars": 34000,
+      "forks": 5502,
+      "starsInPeriod": 31
     },
     {
       "rank": 4,
-      "fullName": "cjpais/Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "programmingLanguage": "Rust",
-      "stars": 35956,
-      "forks": 3415,
-      "starsInPeriod": 611
-    },
-    {
-      "rank": 5,
-      "fullName": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "programmingLanguage": "Rust",
-      "stars": 132572,
-      "forks": 20944,
-      "starsInPeriod": 731
-    },
-    {
-      "rank": 6,
-      "fullName": "herdrdev/herdr",
-      "url": "https://github.com/herdrdev/herdr",
-      "description": "the runtime your coding agents live on",
-      "programmingLanguage": "Rust",
-      "stars": 47183,
-      "forks": 3774,
-      "starsInPeriod": 246
-    },
-    {
-      "rank": 7,
-      "fullName": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "programmingLanguage": "Rust",
-      "stars": 28401,
-      "forks": 2590,
-      "starsInPeriod": 60
-    },
-    {
-      "rank": 8,
-      "fullName": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
-      "programmingLanguage": "Rust",
-      "stars": 150692,
-      "forks": 9907,
-      "starsInPeriod": 253
-    },
-    {
-      "rank": 9,
-      "fullName": "waditu/czsc",
-      "url": "https://github.com/waditu/czsc",
-      "description": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
-      "programmingLanguage": "Rust",
-      "stars": 6525,
-      "forks": 1788,
-      "starsInPeriod": 27
-    },
-    {
-      "rank": 10,
-      "fullName": "daeuniverse/honk",
-      "url": "https://github.com/daeuniverse/honk",
-      "description": "Inspired by dae & sing-box",
-      "programmingLanguage": "Rust",
-      "stars": 1109,
-      "forks": 90,
-      "starsInPeriod": 112
-    },
-    {
-      "rank": 11,
-      "fullName": "fastrepl/anarlog",
-      "url": "https://github.com/fastrepl/anarlog",
-      "description": "Open source Granola AI Alternative",
-      "programmingLanguage": "Rust",
-      "stars": 9724,
-      "forks": 821,
-      "starsInPeriod": 38
-    },
-    {
-      "rank": 12,
       "fullName": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 45053,
-      "forks": 3083,
+      "stars": 45089,
+      "forks": 3086,
       "starsInPeriod": 79
     },
     {
-      "rank": 13,
-      "fullName": "Nasiko-Labs/nasiko",
-      "url": "https://github.com/Nasiko-Labs/nasiko",
-      "description": "The Open Runtime for AI Agents",
+      "rank": 5,
+      "fullName": "leepokai/Codync",
+      "url": "https://github.com/leepokai/Codync",
+      "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 10927,
-      "forks": 2754,
-      "starsInPeriod": 212
+      "stars": 1437,
+      "forks": 141,
+      "starsInPeriod": 288
+    },
+    {
+      "rank": 6,
+      "fullName": "jub0t/Concat",
+      "url": "https://github.com/jub0t/Concat",
+      "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
+      "programmingLanguage": "Rust",
+      "stars": 13418,
+      "forks": 1653,
+      "starsInPeriod": 429
+    },
+    {
+      "rank": 7,
+      "fullName": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "programmingLanguage": "Rust",
+      "stars": 9743,
+      "forks": 348,
+      "starsInPeriod": 145
+    },
+    {
+      "rank": 8,
+      "fullName": "mesamirh/MovieBox-Tui",
+      "url": "https://github.com/mesamirh/MovieBox-Tui",
+      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
+      "programmingLanguage": "Rust",
+      "stars": 2718,
+      "forks": 332,
+      "starsInPeriod": 23
+    },
+    {
+      "rank": 9,
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows",
+      "programmingLanguage": "Rust",
+      "stars": 21385,
+      "forks": 2497,
+      "starsInPeriod": 29
+    },
+    {
+      "rank": 10,
+      "fullName": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "programmingLanguage": "Rust",
+      "stars": 6048,
+      "forks": 557,
+      "starsInPeriod": 54
+    },
+    {
+      "rank": 11,
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "programmingLanguage": "Rust",
+      "stars": 98880,
+      "forks": 5834,
+      "starsInPeriod": 1173
+    },
+    {
+      "rank": 12,
+      "fullName": "Mesh-LLM/mesh-llm",
+      "url": "https://github.com/Mesh-LLM/mesh-llm",
+      "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+      "programmingLanguage": "Rust",
+      "stars": 3731,
+      "forks": 481,
+      "starsInPeriod": 41
+    },
+    {
+      "rank": 13,
+      "fullName": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "the runtime your coding agents live on",
+      "programmingLanguage": "Rust",
+      "stars": 47238,
+      "forks": 3778,
+      "starsInPeriod": 246
+    },
+    {
+      "rank": 14,
+      "fullName": "fabio-rovai/open-ontologies",
+      "url": "https://github.com/fabio-rovai/open-ontologies",
+      "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
+      "programmingLanguage": "Rust",
+      "stars": 2666,
+      "forks": 293,
+      "starsInPeriod": 148
+    },
+    {
+      "rank": 15,
+      "fullName": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "programmingLanguage": "Rust",
+      "stars": 132665,
+      "forks": 20954,
+      "starsInPeriod": 731
     }
   ]
 }

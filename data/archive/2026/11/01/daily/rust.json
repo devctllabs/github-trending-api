@@ -5,37 +5,51 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-11-01T06:00:23Z",
+  "updatedAt": "2026-11-01T13:21:28Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
+    {
+      "fullName": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "programmingLanguage": "Rust",
+      "stars": 36113,
+      "forks": 3426,
+      "starsInPeriod": 611,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-11-01T06:00:23Z",
+      "lastSeenAt": "2026-11-01T13:21:28Z",
+      "appearances": 2
+    },
     {
       "fullName": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 98498,
-      "forks": 5814,
-      "starsInPeriod": 1338,
+      "stars": 98880,
+      "forks": 5834,
+      "starsInPeriod": 1173,
       "bestRank": 1,
-      "latestRank": 1,
+      "latestRank": 11,
       "firstSeenAt": "2026-11-01T06:00:23Z",
-      "lastSeenAt": "2026-11-01T06:00:23Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-01T13:21:28Z",
+      "appearances": 2
     },
     {
       "fullName": "anomalyco/hex",
       "url": "https://github.com/anomalyco/hex",
       "description": "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.",
       "programmingLanguage": "Rust",
-      "stars": 2238,
-      "forks": 141,
+      "stars": 2622,
+      "forks": 164,
       "starsInPeriod": 172,
       "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-11-01T06:00:23Z",
-      "lastSeenAt": "2026-11-01T06:00:23Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-01T13:21:28Z",
+      "appearances": 2
     },
     {
       "fullName": "tauri-apps/tauri",
@@ -52,31 +66,59 @@
       "appearances": 1
     },
     {
-      "fullName": "cjpais/Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "fullName": "xai-org/x-algorithm",
+      "url": "https://github.com/xai-org/x-algorithm",
+      "description": "Algorithm powering the For You feed on X",
       "programmingLanguage": "Rust",
-      "stars": 35956,
-      "forks": 3415,
-      "starsInPeriod": 611,
+      "stars": 34000,
+      "forks": 5502,
+      "starsInPeriod": 31,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-11-01T13:21:28Z",
+      "lastSeenAt": "2026-11-01T13:21:28Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "programmingLanguage": "Rust",
+      "stars": 45089,
+      "forks": 3086,
+      "starsInPeriod": 79,
       "bestRank": 4,
       "latestRank": 4,
       "firstSeenAt": "2026-11-01T06:00:23Z",
-      "lastSeenAt": "2026-11-01T06:00:23Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-01T13:21:28Z",
+      "appearances": 2
     },
     {
       "fullName": "openai/codex",
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "programmingLanguage": "Rust",
-      "stars": 132572,
-      "forks": 20944,
+      "stars": 132665,
+      "forks": 20954,
       "starsInPeriod": 731,
       "bestRank": 5,
-      "latestRank": 5,
+      "latestRank": 15,
       "firstSeenAt": "2026-11-01T06:00:23Z",
-      "lastSeenAt": "2026-11-01T06:00:23Z",
+      "lastSeenAt": "2026-11-01T13:21:28Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "leepokai/Codync",
+      "url": "https://github.com/leepokai/Codync",
+      "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
+      "programmingLanguage": "Rust",
+      "stars": 1437,
+      "forks": 141,
+      "starsInPeriod": 288,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-01T13:21:28Z",
+      "lastSeenAt": "2026-11-01T13:21:28Z",
       "appearances": 1
     },
     {
@@ -84,13 +126,27 @@
       "url": "https://github.com/herdrdev/herdr",
       "description": "the runtime your coding agents live on",
       "programmingLanguage": "Rust",
-      "stars": 47183,
-      "forks": 3774,
+      "stars": 47238,
+      "forks": 3778,
       "starsInPeriod": 246,
       "bestRank": 6,
-      "latestRank": 6,
+      "latestRank": 13,
       "firstSeenAt": "2026-11-01T06:00:23Z",
-      "lastSeenAt": "2026-11-01T06:00:23Z",
+      "lastSeenAt": "2026-11-01T13:21:28Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "jub0t/Concat",
+      "url": "https://github.com/jub0t/Concat",
+      "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
+      "programmingLanguage": "Rust",
+      "stars": 13418,
+      "forks": 1653,
+      "starsInPeriod": 429,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-01T13:21:28Z",
+      "lastSeenAt": "2026-11-01T13:21:28Z",
       "appearances": 1
     },
     {
@@ -108,6 +164,20 @@
       "appearances": 1
     },
     {
+      "fullName": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "programmingLanguage": "Rust",
+      "stars": 9743,
+      "forks": 348,
+      "starsInPeriod": 145,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-01T13:21:28Z",
+      "lastSeenAt": "2026-11-01T13:21:28Z",
+      "appearances": 1
+    },
+    {
       "fullName": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
@@ -119,6 +189,20 @@
       "latestRank": 8,
       "firstSeenAt": "2026-11-01T06:00:23Z",
       "lastSeenAt": "2026-11-01T06:00:23Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "mesamirh/MovieBox-Tui",
+      "url": "https://github.com/mesamirh/MovieBox-Tui",
+      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
+      "programmingLanguage": "Rust",
+      "stars": 2718,
+      "forks": 332,
+      "starsInPeriod": 23,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-01T13:21:28Z",
+      "lastSeenAt": "2026-11-01T13:21:28Z",
       "appearances": 1
     },
     {
@@ -136,6 +220,20 @@
       "appearances": 1
     },
     {
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows",
+      "programmingLanguage": "Rust",
+      "stars": 21385,
+      "forks": 2497,
+      "starsInPeriod": 29,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-01T13:21:28Z",
+      "lastSeenAt": "2026-11-01T13:21:28Z",
+      "appearances": 1
+    },
+    {
       "fullName": "daeuniverse/honk",
       "url": "https://github.com/daeuniverse/honk",
       "description": "Inspired by dae & sing-box",
@@ -147,6 +245,20 @@
       "latestRank": 10,
       "firstSeenAt": "2026-11-01T06:00:23Z",
       "lastSeenAt": "2026-11-01T06:00:23Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "programmingLanguage": "Rust",
+      "stars": 6048,
+      "forks": 557,
+      "starsInPeriod": 54,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-01T13:21:28Z",
+      "lastSeenAt": "2026-11-01T13:21:28Z",
       "appearances": 1
     },
     {
@@ -164,17 +276,17 @@
       "appearances": 1
     },
     {
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
+      "fullName": "Mesh-LLM/mesh-llm",
+      "url": "https://github.com/Mesh-LLM/mesh-llm",
+      "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
       "programmingLanguage": "Rust",
-      "stars": 45053,
-      "forks": 3083,
-      "starsInPeriod": 79,
+      "stars": 3731,
+      "forks": 481,
+      "starsInPeriod": 41,
       "bestRank": 12,
       "latestRank": 12,
-      "firstSeenAt": "2026-11-01T06:00:23Z",
-      "lastSeenAt": "2026-11-01T06:00:23Z",
+      "firstSeenAt": "2026-11-01T13:21:28Z",
+      "lastSeenAt": "2026-11-01T13:21:28Z",
       "appearances": 1
     },
     {
@@ -189,6 +301,20 @@
       "latestRank": 13,
       "firstSeenAt": "2026-11-01T06:00:23Z",
       "lastSeenAt": "2026-11-01T06:00:23Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "fabio-rovai/open-ontologies",
+      "url": "https://github.com/fabio-rovai/open-ontologies",
+      "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
+      "programmingLanguage": "Rust",
+      "stars": 2666,
+      "forks": 293,
+      "starsInPeriod": 148,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-11-01T13:21:28Z",
+      "lastSeenAt": "2026-11-01T13:21:28Z",
       "appearances": 1
     }
   ]

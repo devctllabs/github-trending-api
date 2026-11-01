@@ -4,12 +4,12 @@
     <title>GitHub Trending — weekly — rust</title>
     <link>https://github.com/trending/rust?since=weekly</link>
     <description>GitHub Trending — weekly — rust</description>
-    <lastBuildDate>Sun, 01 Nov 2026 06:00:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:21:31 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>weekly</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-11-01T06:00:26Z</ght:observedAt>
+    <ght:observedAt>2026-11-01T13:21:31Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,59 +17,83 @@
       <link>https://github.com/pbakaus/impeccable</link>
       <description>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.</description>
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>98498</ght:stars>
-      <ght:forks>5814</ght:forks>
+      <ght:stars>98880</ght:stars>
+      <ght:forks>5834</ght:forks>
       <ght:starsInPeriod>12031</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>akitaonrails/ai-memory</title>
-      <link>https://github.com/akitaonrails/ai-memory</link>
-      <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
-      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>14745</ght:stars>
-      <ght:forks>1059</ght:forks>
-      <ght:starsInPeriod>1509</ght:starsInPeriod>
     </item>
     <item>
       <title>agentgateway/agentgateway</title>
       <link>https://github.com/agentgateway/agentgateway</link>
       <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
       <guid isPermaLink="true">https://github.com/agentgateway/agentgateway</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>2</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>5844</ght:stars>
+      <ght:forks>1033</ght:forks>
+      <ght:starsInPeriod>296</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>akitaonrails/ai-memory</title>
+      <link>https://github.com/akitaonrails/ai-memory</link>
+      <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
+      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
       <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>5838</ght:stars>
-      <ght:forks>1032</ght:forks>
-      <ght:starsInPeriod>296</ght:starsInPeriod>
+      <ght:stars>14775</ght:stars>
+      <ght:forks>1060</ght:forks>
+      <ght:starsInPeriod>1509</ght:starsInPeriod>
     </item>
     <item>
       <title>pollen-robotics/microduck</title>
       <link>https://github.com/pollen-robotics/microduck</link>
       <description>A Tiny biped duck robot 🦆</description>
       <guid isPermaLink="true">https://github.com/pollen-robotics/microduck</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
       <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>13244</ght:stars>
-      <ght:forks>1652</ght:forks>
+      <ght:stars>13258</ght:stars>
+      <ght:forks>1658</ght:forks>
       <ght:starsInPeriod>2487</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>cjpais/Handy</title>
+      <link>https://github.com/cjpais/Handy</link>
+      <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
+      <guid isPermaLink="true">https://github.com/cjpais/Handy</guid>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>5</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>36113</ght:stars>
+      <ght:forks>3426</ght:forks>
+      <ght:starsInPeriod>1300</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>fabio-rovai/open-ontologies</title>
+      <link>https://github.com/fabio-rovai/open-ontologies</link>
+      <description>Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.</description>
+      <guid isPermaLink="true">https://github.com/fabio-rovai/open-ontologies</guid>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>6</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>2666</ght:stars>
+      <ght:forks>293</ght:forks>
+      <ght:starsInPeriod>1297</ght:starsInPeriod>
     </item>
     <item>
       <title>macro-inc/macro</title>
       <link>https://github.com/macro-inc/macro</link>
       <description>Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</description>
       <guid isPermaLink="true">https://github.com/macro-inc/macro</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>5</ght:rank>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>6036</ght:stars>
-      <ght:forks>555</ght:forks>
+      <ght:stars>6048</ght:stars>
+      <ght:forks>557</ght:forks>
       <ght:starsInPeriod>1138</ght:starsInPeriod>
     </item>
     <item>
@@ -77,156 +101,144 @@
       <link>https://github.com/ruvnet/RuView</link>
       <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
       <guid isPermaLink="true">https://github.com/ruvnet/RuView</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>6</ght:rank>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>101897</ght:stars>
-      <ght:forks>13242</ght:forks>
+      <ght:stars>101936</ght:stars>
+      <ght:forks>13244</ght:forks>
       <ght:starsInPeriod>2557</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>CapSoftware/Cap</title>
-      <link>https://github.com/CapSoftware/Cap</link>
-      <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
-      <guid isPermaLink="true">https://github.com/CapSoftware/Cap</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>24212</ght:stars>
-      <ght:forks>2222</ght:forks>
-      <ght:starsInPeriod>539</ght:starsInPeriod>
     </item>
     <item>
       <title>xai-org/x-algorithm</title>
       <link>https://github.com/xai-org/x-algorithm</link>
       <description>Algorithm powering the For You feed on X</description>
       <guid isPermaLink="true">https://github.com/xai-org/x-algorithm</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>8</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>33995</ght:stars>
-      <ght:forks>5499</ght:forks>
-      <ght:starsInPeriod>243</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>stalwartlabs/stalwart</title>
-      <link>https://github.com/stalwartlabs/stalwart</link>
-      <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
-      <guid isPermaLink="true">https://github.com/stalwartlabs/stalwart</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
       <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>15599</ght:stars>
-      <ght:forks>1029</ght:forks>
-      <ght:starsInPeriod>291</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>NVIDIA/cuda-rust</title>
-      <link>https://github.com/NVIDIA/cuda-rust</link>
-      <description>NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.</description>
-      <guid isPermaLink="true">https://github.com/NVIDIA/cuda-rust</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>10</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>3927</ght:stars>
-      <ght:forks>351</ght:forks>
-      <ght:starsInPeriod>134</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>trymirai/uzu</title>
-      <link>https://github.com/trymirai/uzu</link>
-      <description>A high-performance inference engine for AI models</description>
-      <guid isPermaLink="true">https://github.com/trymirai/uzu</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>11</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>3146</ght:stars>
-      <ght:forks>209</ght:forks>
-      <ght:starsInPeriod>573</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>xerj-org/xerj</title>
-      <link>https://github.com/xerj-org/xerj</link>
-      <description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
-      <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>12</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>17979</ght:stars>
-      <ght:forks>1400</ght:forks>
-      <ght:starsInPeriod>2910</ght:starsInPeriod>
+      <ght:stars>34000</ght:stars>
+      <ght:forks>5502</ght:forks>
+      <ght:starsInPeriod>243</ght:starsInPeriod>
     </item>
     <item>
       <title>Mesh-LLM/mesh-llm</title>
       <link>https://github.com/Mesh-LLM/mesh-llm</link>
       <description>Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.</description>
       <guid isPermaLink="true">https://github.com/Mesh-LLM/mesh-llm</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>13</ght:rank>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>3724</ght:stars>
-      <ght:forks>480</ght:forks>
+      <ght:stars>3731</ght:stars>
+      <ght:forks>481</ght:forks>
       <ght:starsInPeriod>149</ght:starsInPeriod>
     </item>
     <item>
-      <title>cjpais/Handy</title>
-      <link>https://github.com/cjpais/Handy</link>
-      <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
-      <guid isPermaLink="true">https://github.com/cjpais/Handy</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>14</ght:rank>
+      <title>CapSoftware/Cap</title>
+      <link>https://github.com/CapSoftware/Cap</link>
+      <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
+      <guid isPermaLink="true">https://github.com/CapSoftware/Cap</guid>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>35956</ght:stars>
-      <ght:forks>3415</ght:forks>
-      <ght:starsInPeriod>1300</ght:starsInPeriod>
+      <ght:stars>24226</ght:stars>
+      <ght:forks>2225</ght:forks>
+      <ght:starsInPeriod>539</ght:starsInPeriod>
     </item>
     <item>
       <title>Nasiko-Labs/nasiko</title>
       <link>https://github.com/Nasiko-Labs/nasiko</link>
       <description>The Open Runtime for AI Agents</description>
       <guid isPermaLink="true">https://github.com/Nasiko-Labs/nasiko</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>15</ght:rank>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>10927</ght:stars>
-      <ght:forks>2754</ght:forks>
+      <ght:stars>10955</ght:stars>
+      <ght:forks>2765</ght:forks>
       <ght:starsInPeriod>1455</ght:starsInPeriod>
     </item>
     <item>
-      <title>rustdesk/rustdesk</title>
-      <link>https://github.com/rustdesk/rustdesk</link>
-      <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
-      <guid isPermaLink="true">https://github.com/rustdesk/rustdesk</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>16</ght:rank>
+      <title>trymirai/uzu</title>
+      <link>https://github.com/trymirai/uzu</link>
+      <description>A high-performance inference engine for AI models</description>
+      <guid isPermaLink="true">https://github.com/trymirai/uzu</guid>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>13</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>127745</ght:stars>
-      <ght:forks>20214</ght:forks>
-      <ght:starsInPeriod>1037</ght:starsInPeriod>
+      <ght:stars>3157</ght:stars>
+      <ght:forks>210</ght:forks>
+      <ght:starsInPeriod>573</ght:starsInPeriod>
     </item>
     <item>
-      <title>rivet-dev/rivet</title>
-      <link>https://github.com/rivet-dev/rivet</link>
-      <description>Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.</description>
-      <guid isPermaLink="true">https://github.com/rivet-dev/rivet</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
-      <ght:rank>17</ght:rank>
+      <title>stalwartlabs/stalwart</title>
+      <link>https://github.com/stalwartlabs/stalwart</link>
+      <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
+      <guid isPermaLink="true">https://github.com/stalwartlabs/stalwart</guid>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>14</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>6546</ght:stars>
-      <ght:forks>295</ght:forks>
-      <ght:starsInPeriod>217</ght:starsInPeriod>
+      <ght:stars>15611</ght:stars>
+      <ght:forks>1029</ght:forks>
+      <ght:starsInPeriod>291</ght:starsInPeriod>
     </item>
     <item>
       <title>openai/codex</title>
       <link>https://github.com/openai/codex</link>
       <description>Lightweight coding agent that runs in your terminal</description>
       <guid isPermaLink="true">https://github.com/openai/codex</guid>
-      <pubDate>Sun, 01 Nov 2026 06:00:26 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>15</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>132665</ght:stars>
+      <ght:forks>20954</ght:forks>
+      <ght:starsInPeriod>1835</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>NVIDIA/cuda-rust</title>
+      <link>https://github.com/NVIDIA/cuda-rust</link>
+      <description>NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.</description>
+      <guid isPermaLink="true">https://github.com/NVIDIA/cuda-rust</guid>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>3931</ght:stars>
+      <ght:forks>351</ght:forks>
+      <ght:starsInPeriod>134</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>leepokai/Codync</title>
+      <link>https://github.com/leepokai/Codync</link>
+      <description>Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.</description>
+      <guid isPermaLink="true">https://github.com/leepokai/Codync</guid>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>17</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>1437</ght:stars>
+      <ght:forks>141</ght:forks>
+      <ght:starsInPeriod>608</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>herdrdev/herdr</title>
+      <link>https://github.com/herdrdev/herdr</link>
+      <description>the runtime your coding agents live on</description>
+      <guid isPermaLink="true">https://github.com/herdrdev/herdr</guid>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
       <ght:rank>18</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>132572</ght:stars>
-      <ght:forks>20944</ght:forks>
-      <ght:starsInPeriod>1835</ght:starsInPeriod>
+      <ght:stars>47238</ght:stars>
+      <ght:forks>3778</ght:forks>
+      <ght:starsInPeriod>1524</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>rustdesk/rustdesk</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+      <guid isPermaLink="true">https://github.com/rustdesk/rustdesk</guid>
+      <pubDate>Sun, 01 Nov 2026 13:21:31 GMT</pubDate>
+      <ght:rank>19</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>127776</ght:stars>
+      <ght:forks>20232</ght:forks>
+      <ght:starsInPeriod>1037</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

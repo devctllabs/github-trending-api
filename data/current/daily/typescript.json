@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-11-01T06:00:52Z",
+  "observedAt": "2026-11-01T13:21:58Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "programmingLanguage": "TypeScript",
-      "stars": 108139,
-      "forks": 9488,
-      "starsInPeriod": 1723
+      "stars": 108556,
+      "forks": 9517,
+      "starsInPeriod": 1527
     },
     {
       "rank": 2,
@@ -24,139 +24,179 @@
       "url": "https://github.com/pingdotgg/t3code",
       "description": null,
       "programmingLanguage": "TypeScript",
-      "stars": 35985,
-      "forks": 8811,
-      "starsInPeriod": 1148
+      "stars": 36704,
+      "forks": 8856,
+      "starsInPeriod": 3100
     },
     {
       "rank": 3,
-      "fullName": "Renhuai123/ziwei-doushu",
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "programmingLanguage": "TypeScript",
-      "stars": 12481,
-      "forks": 2447,
-      "starsInPeriod": 1092
-    },
-    {
-      "rank": 4,
       "fullName": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "programmingLanguage": "TypeScript",
-      "stars": 9857,
-      "forks": 1369,
-      "starsInPeriod": 1303
+      "stars": 10156,
+      "forks": 1407,
+      "starsInPeriod": 919
+    },
+    {
+      "rank": 4,
+      "fullName": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "programmingLanguage": "TypeScript",
+      "stars": 12794,
+      "forks": 2514,
+      "starsInPeriod": 953
     },
     {
       "rank": 5,
-      "fullName": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "programmingLanguage": "TypeScript",
-      "stars": 42270,
-      "forks": 6520,
-      "starsInPeriod": 116
-    },
-    {
-      "rank": 6,
       "fullName": "CopilotKit/OpenBot",
       "url": "https://github.com/CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "programmingLanguage": "TypeScript",
-      "stars": 9167,
-      "forks": 1149,
-      "starsInPeriod": 608
+      "stars": 9255,
+      "forks": 1161,
+      "starsInPeriod": 178
     },
     {
-      "rank": 7,
-      "fullName": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "programmingLanguage": "TypeScript",
-      "stars": 45276,
-      "forks": 6177,
-      "starsInPeriod": 593
-    },
-    {
-      "rank": 8,
-      "fullName": "a2ui-project/a2ui",
-      "url": "https://github.com/a2ui-project/a2ui",
-      "description": null,
-      "programmingLanguage": "TypeScript",
-      "stars": 16918,
-      "forks": 1358,
-      "starsInPeriod": 19
-    },
-    {
-      "rank": 9,
-      "fullName": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-      "programmingLanguage": "TypeScript",
-      "stars": 41503,
-      "forks": 4218,
-      "starsInPeriod": 98
-    },
-    {
-      "rank": 10,
-      "fullName": "Yeachan-Heo/oh-my-claudecode",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "programmingLanguage": "TypeScript",
-      "stars": 40469,
-      "forks": 3620,
-      "starsInPeriod": 36
-    },
-    {
-      "rank": 11,
-      "fullName": "OpenCTI-Platform/opencti",
-      "url": "https://github.com/OpenCTI-Platform/opencti",
-      "description": "Open Cyber Threat Intelligence Platform",
-      "programmingLanguage": "TypeScript",
-      "stars": 10235,
-      "forks": 1495,
-      "starsInPeriod": 9
-    },
-    {
-      "rank": 12,
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "programmingLanguage": "TypeScript",
-      "stars": 111856,
-      "forks": 7073,
-      "starsInPeriod": 728
-    },
-    {
-      "rank": 13,
+      "rank": 6,
       "fullName": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "programmingLanguage": "TypeScript",
-      "stars": 109582,
-      "forks": 18151,
+      "stars": 109717,
+      "forks": 18177,
       "starsInPeriod": 401
     },
     {
-      "rank": 14,
-      "fullName": "CodeWithCJ/SparkyFitness",
-      "url": "https://github.com/CodeWithCJ/SparkyFitness",
-      "description": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
-      "programmingLanguage": "TypeScript",
-      "stars": 6636,
-      "forks": 451,
-      "starsInPeriod": 30
-    },
-    {
-      "rank": 15,
+      "rank": 7,
       "fullName": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "programmingLanguage": "TypeScript",
-      "stars": 5012,
-      "forks": 1420,
+      "stars": 5018,
+      "forks": 1421,
       "starsInPeriod": 40
+    },
+    {
+      "rank": 8,
+      "fullName": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "programmingLanguage": "TypeScript",
+      "stars": 154130,
+      "forks": 25510,
+      "starsInPeriod": 146
+    },
+    {
+      "rank": 9,
+      "fullName": "eneskirca/nodeterm",
+      "url": "https://github.com/eneskirca/nodeterm",
+      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
+      "programmingLanguage": "TypeScript",
+      "stars": 2292,
+      "forks": 265,
+      "starsInPeriod": 49
+    },
+    {
+      "rank": 10,
+      "fullName": "upscayl/upscayl",
+      "url": "https://github.com/upscayl/upscayl",
+      "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "programmingLanguage": "TypeScript",
+      "stars": 51553,
+      "forks": 2680,
+      "starsInPeriod": 134
+    },
+    {
+      "rank": 11,
+      "fullName": "siddharthvaddem/openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "programmingLanguage": "TypeScript",
+      "stars": 40001,
+      "forks": 3225,
+      "starsInPeriod": 26
+    },
+    {
+      "rank": 12,
+      "fullName": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "programmingLanguage": "TypeScript",
+      "stars": 38344,
+      "forks": 5681,
+      "starsInPeriod": 123
+    },
+    {
+      "rank": 13,
+      "fullName": "LibreChat-AI/LibreChat",
+      "url": "https://github.com/LibreChat-AI/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "programmingLanguage": "TypeScript",
+      "stars": 46601,
+      "forks": 9584,
+      "starsInPeriod": 61
+    },
+    {
+      "rank": 14,
+      "fullName": "chthollyphile/folia-major",
+      "url": "https://github.com/chthollyphile/folia-major",
+      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+      "programmingLanguage": "TypeScript",
+      "stars": 10833,
+      "forks": 1199,
+      "starsInPeriod": 268
+    },
+    {
+      "rank": 15,
+      "fullName": "TheNetsky/Microsoft-Rewards-Script",
+      "url": "https://github.com/TheNetsky/Microsoft-Rewards-Script",
+      "description": "Automated Microsoft Rewards script, using TypeScript and Playwright.",
+      "programmingLanguage": "TypeScript",
+      "stars": 1154,
+      "forks": 253,
+      "starsInPeriod": 7
+    },
+    {
+      "rank": 16,
+      "fullName": "ItzCrazyKns/Vane",
+      "url": "https://github.com/ItzCrazyKns/Vane",
+      "description": "Vane is an AI-powered answering engine.",
+      "programmingLanguage": "TypeScript",
+      "stars": 37939,
+      "forks": 4223,
+      "starsInPeriod": 57
+    },
+    {
+      "rank": 17,
+      "fullName": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "programmingLanguage": "TypeScript",
+      "stars": 42355,
+      "forks": 6524,
+      "starsInPeriod": 370
+    },
+    {
+      "rank": 18,
+      "fullName": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "programmingLanguage": "TypeScript",
+      "stars": 41235,
+      "forks": 4744,
+      "starsInPeriod": 189
+    },
+    {
+      "rank": 19,
+      "fullName": "motiondivision/motion",
+      "url": "https://github.com/motiondivision/motion",
+      "description": "A modern animation library for React and JavaScript",
+      "programmingLanguage": "TypeScript",
+      "stars": 34758,
+      "forks": 1490,
+      "starsInPeriod": 57
     }
   ]
 }
