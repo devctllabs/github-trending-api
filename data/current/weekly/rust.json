@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-10-31T21:31:53Z",
+  "observedAt": "2026-11-01T06:00:26Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 98161,
-      "forks": 5787,
-      "starsInPeriod": 11323
+      "stars": 98498,
+      "forks": 5814,
+      "starsInPeriod": 12031
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 14702,
-      "forks": 1056,
-      "starsInPeriod": 1669
+      "stars": 14745,
+      "forks": 1059,
+      "starsInPeriod": 1509
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/agentgateway/agentgateway",
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "programmingLanguage": "Rust",
-      "stars": 5830,
+      "stars": 5838,
       "forks": 1032,
-      "starsInPeriod": 291
+      "starsInPeriod": 296
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "programmingLanguage": "Rust",
-      "stars": 13232,
-      "forks": 1650,
-      "starsInPeriod": 2800
+      "stars": 13244,
+      "forks": 1652,
+      "starsInPeriod": 2487
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "programmingLanguage": "Rust",
-      "stars": 6027,
+      "stars": 6036,
       "forks": 555,
-      "starsInPeriod": 892
+      "starsInPeriod": 1138
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "programmingLanguage": "Rust",
-      "stars": 101870,
-      "forks": 13232,
-      "starsInPeriod": 2551
+      "stars": 101897,
+      "forks": 13242,
+      "starsInPeriod": 2557
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/CapSoftware/Cap",
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "programmingLanguage": "Rust",
-      "stars": 24201,
-      "forks": 2221,
-      "starsInPeriod": 568
+      "stars": 24212,
+      "forks": 2222,
+      "starsInPeriod": 539
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/xai-org/x-algorithm",
       "description": "Algorithm powering the For You feed on X",
       "programmingLanguage": "Rust",
-      "stars": 33989,
-      "forks": 5498,
-      "starsInPeriod": 187
+      "stars": 33995,
+      "forks": 5499,
+      "starsInPeriod": 243
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/stalwartlabs/stalwart",
       "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
       "programmingLanguage": "Rust",
-      "stars": 15580,
-      "forks": 1030,
-      "starsInPeriod": 286
+      "stars": 15599,
+      "forks": 1029,
+      "starsInPeriod": 291
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/NVIDIA/cuda-rust",
       "description": "NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.",
       "programmingLanguage": "Rust",
-      "stars": 3924,
+      "stars": 3927,
       "forks": 351,
-      "starsInPeriod": 124
+      "starsInPeriod": 134
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 3138,
-      "forks": 207,
-      "starsInPeriod": 534
+      "stars": 3146,
+      "forks": 209,
+      "starsInPeriod": 573
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 17924,
-      "forks": 1396,
-      "starsInPeriod": 4227
+      "stars": 17979,
+      "forks": 1400,
+      "starsInPeriod": 2910
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/Mesh-LLM/mesh-llm",
       "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
       "programmingLanguage": "Rust",
-      "stars": 3714,
+      "stars": 3724,
       "forks": 480,
-      "starsInPeriod": 144
+      "starsInPeriod": 149
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/cjpais/Handy",
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "programmingLanguage": "Rust",
-      "stars": 35868,
-      "forks": 3408,
-      "starsInPeriod": 1223
+      "stars": 35956,
+      "forks": 3415,
+      "starsInPeriod": 1300
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/Nasiko-Labs/nasiko",
       "description": "The Open Runtime for AI Agents",
       "programmingLanguage": "Rust",
-      "stars": 10912,
-      "forks": 2747,
-      "starsInPeriod": 1217
+      "stars": 10927,
+      "forks": 2754,
+      "starsInPeriod": 1455
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 127720,
-      "forks": 20206,
-      "starsInPeriod": 1024
+      "stars": 127745,
+      "forks": 20214,
+      "starsInPeriod": 1037
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/rivet-dev/rivet",
       "description": "Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.",
       "programmingLanguage": "Rust",
-      "stars": 6540,
-      "forks": 294,
-      "starsInPeriod": 213
+      "stars": 6546,
+      "forks": 295,
+      "starsInPeriod": 217
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "programmingLanguage": "Rust",
-      "stars": 132473,
-      "forks": 20925,
-      "starsInPeriod": 1783
+      "stars": 132572,
+      "forks": 20944,
+      "starsInPeriod": 1835
     }
   ]
 }
