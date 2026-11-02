@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "updatedAt": "2026-11-02T06:00:02Z",
+  "updatedAt": "2026-11-02T15:48:05Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,27 +14,41 @@
       "url": "https://github.com/Orkas-AI/Orkas",
       "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
       "programmingLanguage": "JavaScript",
-      "stars": 7671,
-      "forks": 475,
+      "stars": 7719,
+      "forks": 481,
       "starsInPeriod": 1146,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-11-02T06:00:02Z",
-      "lastSeenAt": "2026-11-02T06:00:02Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-02T15:48:05Z",
+      "appearances": 2
     },
     {
       "fullName": "techjarves/Portable-Local-Studio",
       "url": "https://github.com/techjarves/Portable-Local-Studio",
       "description": "Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text",
       "programmingLanguage": "JavaScript",
-      "stars": 1758,
-      "forks": 435,
+      "stars": 1781,
+      "forks": 444,
       "starsInPeriod": 93,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 6,
       "firstSeenAt": "2026-11-02T06:00:02Z",
-      "lastSeenAt": "2026-11-02T06:00:02Z",
+      "lastSeenAt": "2026-11-02T15:48:05Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "programmingLanguage": "JavaScript",
+      "stars": 112722,
+      "forks": 11800,
+      "starsInPeriod": 294,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-11-02T15:48:05Z",
+      "lastSeenAt": "2026-11-02T15:48:05Z",
       "appearances": 1
     },
     {
@@ -52,6 +66,20 @@
       "appearances": 1
     },
     {
+      "fullName": "fleetbase/fleetbase",
+      "url": "https://github.com/fleetbase/fleetbase",
+      "description": "Modular logistics and supply chain operating system (LSOS)",
+      "programmingLanguage": "JavaScript",
+      "stars": 4488,
+      "forks": 1185,
+      "starsInPeriod": 14,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-11-02T15:48:05Z",
+      "lastSeenAt": "2026-11-02T15:48:05Z",
+      "appearances": 1
+    },
+    {
       "fullName": "mrdoob/three.js",
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
@@ -66,6 +94,20 @@
       "appearances": 1
     },
     {
+      "fullName": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "programmingLanguage": "JavaScript",
+      "stars": 3470,
+      "forks": 417,
+      "starsInPeriod": 850,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-02T15:48:05Z",
+      "lastSeenAt": "2026-11-02T15:48:05Z",
+      "appearances": 1
+    },
+    {
       "fullName": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
@@ -77,6 +119,20 @@
       "latestRank": 5,
       "firstSeenAt": "2026-11-02T06:00:02Z",
       "lastSeenAt": "2026-11-02T06:00:02Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "programmingLanguage": "JavaScript",
+      "stars": 295312,
+      "forks": 43703,
+      "starsInPeriod": 797,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-02T15:48:05Z",
+      "lastSeenAt": "2026-11-02T15:48:05Z",
       "appearances": 1
     },
     {
@@ -105,6 +161,20 @@
       "latestRank": 7,
       "firstSeenAt": "2026-11-02T06:00:02Z",
       "lastSeenAt": "2026-11-02T06:00:02Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "webpack/webpack",
+      "url": "https://github.com/webpack/webpack",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+      "programmingLanguage": "JavaScript",
+      "stars": 65977,
+      "forks": 9619,
+      "starsInPeriod": 4,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-02T15:48:05Z",
+      "lastSeenAt": "2026-11-02T15:48:05Z",
       "appearances": 1
     },
     {

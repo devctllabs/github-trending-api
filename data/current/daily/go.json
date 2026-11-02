@@ -4,179 +4,179 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-11-02T05:59:52Z",
+  "observedAt": "2026-11-02T15:47:54Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
+      "fullName": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "programmingLanguage": "Go",
+      "stars": 28418,
+      "forks": 1918,
+      "starsInPeriod": 42
+    },
+    {
+      "rank": 2,
+      "fullName": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "smart charging ☀️🚘",
+      "programmingLanguage": "Go",
+      "stars": 7495,
+      "forks": 1608,
+      "starsInPeriod": 11
+    },
+    {
+      "rank": 3,
       "fullName": "MHSanaei/3x-ui",
       "url": "https://github.com/MHSanaei/3x-ui",
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "programmingLanguage": "Go",
-      "stars": 49120,
-      "forks": 12618,
+      "stars": 49150,
+      "forks": 12625,
       "starsInPeriod": 86
     },
     {
-      "rank": 2,
-      "fullName": "Billionmail/BillionMail",
-      "url": "https://github.com/Billionmail/BillionMail",
-      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
-      "programmingLanguage": "Go",
-      "stars": 16151,
-      "forks": 1796,
-      "starsInPeriod": 42
-    },
-    {
-      "rank": 3,
-      "fullName": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "programmingLanguage": "Go",
-      "stars": 139732,
-      "forks": 21035,
-      "starsInPeriod": 178
-    },
-    {
       "rank": 4,
-      "fullName": "XTLS/Xray-core",
-      "url": "https://github.com/XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "fullName": "egoist/kero",
+      "url": "https://github.com/egoist/kero",
+      "description": "A cross-platform native terminal app optimized for agents",
       "programmingLanguage": "Go",
-      "stars": 42550,
-      "forks": 6084,
-      "starsInPeriod": 27
+      "stars": 1364,
+      "forks": 129,
+      "starsInPeriod": 17
     },
     {
       "rank": 5,
+      "fullName": "warmbly/warmbly",
+      "url": "https://github.com/warmbly/warmbly",
+      "description": "The largest open-source B2B cold outreach and email warmup service.",
+      "programmingLanguage": "Go",
+      "stars": 854,
+      "forks": 158,
+      "starsInPeriod": 244
+    },
+    {
+      "rank": 6,
       "fullName": "mayswind/ezbookkeeping",
       "url": "https://github.com/mayswind/ezbookkeeping",
       "description": "ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.",
       "programmingLanguage": "Go",
-      "stars": 5936,
-      "forks": 737,
+      "stars": 5942,
+      "forks": 741,
       "starsInPeriod": 23
     },
     {
-      "rank": 6,
-      "fullName": "IceWhaleTech/CasaOS",
-      "url": "https://github.com/IceWhaleTech/CasaOS",
-      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-      "programmingLanguage": "Go",
-      "stars": 37503,
-      "forks": 2206,
-      "starsInPeriod": 29
-    },
-    {
       "rank": 7,
-      "fullName": "docker/compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 38568,
-      "forks": 5900,
-      "starsInPeriod": 31
+      "stars": 185675,
+      "forks": 18866,
+      "starsInPeriod": 143
     },
     {
       "rank": 8,
-      "fullName": "hashicorp/terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "programmingLanguage": "Go",
-      "stars": 50347,
-      "forks": 10600,
-      "starsInPeriod": 151
-    },
-    {
-      "rank": 9,
-      "fullName": "k3s-io/k3s",
-      "url": "https://github.com/k3s-io/k3s",
-      "description": "Lightweight Kubernetes",
-      "programmingLanguage": "Go",
-      "stars": 34315,
-      "forks": 2774,
-      "starsInPeriod": 12
-    },
-    {
-      "rank": 10,
       "fullName": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 128826,
-      "forks": 45737,
+      "stars": 128835,
+      "forks": 45742,
       "starsInPeriod": 170
     },
     {
-      "rank": 11,
-      "fullName": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "rank": 9,
+      "fullName": "sundowndev/phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
       "programmingLanguage": "Go",
-      "stars": 111715,
-      "forks": 15446,
-      "starsInPeriod": 19
+      "stars": 18363,
+      "forks": 6255,
+      "starsInPeriod": 15
+    },
+    {
+      "rank": 10,
+      "fullName": "Mag1cFall/AIStudio2API",
+      "url": "https://github.com/Mag1cFall/AIStudio2API",
+      "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
+      "programmingLanguage": "Go",
+      "stars": 675,
+      "forks": 152,
+      "starsInPeriod": 35
+    },
+    {
+      "rank": 11,
+      "fullName": "rclone/rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "programmingLanguage": "Go",
+      "stars": 60726,
+      "forks": 5638,
+      "starsInPeriod": 30
     },
     {
       "rank": 12,
-      "fullName": "netbirdio/netbird",
-      "url": "https://github.com/netbirdio/netbird",
-      "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
+      "fullName": "pocket-id/pocket-id",
+      "url": "https://github.com/pocket-id/pocket-id",
+      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
       "programmingLanguage": "Go",
-      "stars": 30543,
-      "forks": 1818,
-      "starsInPeriod": 124
+      "stars": 9901,
+      "forks": 348,
+      "starsInPeriod": 57
     },
     {
       "rank": 13,
+      "fullName": "m5stack/StackChan",
+      "url": "https://github.com/m5stack/StackChan",
+      "description": "StackChan open source!",
+      "programmingLanguage": "Go",
+      "stars": 1478,
+      "forks": 414,
+      "starsInPeriod": 4
+    },
+    {
+      "rank": 14,
       "fullName": "0xJacky/nginx-ui",
       "url": "https://github.com/0xJacky/nginx-ui",
       "description": "Yet another WebUI for Nginx",
       "programmingLanguage": "Go",
-      "stars": 11728,
+      "stars": 11727,
       "forks": 912,
       "starsInPeriod": 32
     },
     {
-      "rank": 14,
-      "fullName": "tailscale/tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "programmingLanguage": "Go",
-      "stars": 38500,
-      "forks": 3408,
-      "starsInPeriod": 55
-    },
-    {
       "rank": 15,
-      "fullName": "guohuiyuan/go-music-dl",
-      "url": "https://github.com/guohuiyuan/go-music-dl",
-      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
+      "fullName": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "programmingLanguage": "Go",
-      "stars": 5792,
-      "forks": 547,
-      "starsInPeriod": 32
+      "stars": 30561,
+      "forks": 1818,
+      "starsInPeriod": 124
     },
     {
       "rank": 16,
-      "fullName": "gosom/google-maps-scraper",
-      "url": "https://github.com/gosom/google-maps-scraper",
-      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "fullName": "xpzouying/xiaohongshu-mcp",
+      "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+      "description": "MCP for xiaohongshu.com",
       "programmingLanguage": "Go",
-      "stars": 7161,
-      "forks": 1114,
-      "starsInPeriod": 41
+      "stars": 16747,
+      "forks": 2460,
+      "starsInPeriod": 37
     },
     {
       "rank": 17,
-      "fullName": "XIU2/CloudflareSpeedTest",
-      "url": "https://github.com/XIU2/CloudflareSpeedTest",
-      "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+      "fullName": "CarterPerez-dev/Cybersecurity-Projects",
+      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
+      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Owned by my cybersecurity company 👇",
       "programmingLanguage": "Go",
-      "stars": 29773,
-      "forks": 5518,
-      "starsInPeriod": 32
+      "stars": 8962,
+      "forks": 1321,
+      "starsInPeriod": 58
     }
   ]
 }

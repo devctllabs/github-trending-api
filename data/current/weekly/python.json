@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-11-02T05:59:35Z",
+  "observedAt": "2026-11-02T15:47:37Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,119 +14,119 @@
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 25656,
-      "forks": 3366,
+      "stars": 25870,
+      "forks": 3387,
       "starsInPeriod": 5034
     },
     {
       "rank": 2,
-      "fullName": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "programmingLanguage": "Python",
-      "stars": 119652,
-      "forks": 22885,
-      "starsInPeriod": 5432
-    },
-    {
-      "rank": 3,
       "fullName": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 186456,
-      "forks": 22028,
+      "stars": 186652,
+      "forks": 22039,
       "starsInPeriod": 2600
     },
     {
+      "rank": 3,
+      "fullName": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "programmingLanguage": "Python",
+      "stars": 119849,
+      "forks": 22923,
+      "starsInPeriod": 5432
+    },
+    {
       "rank": 4,
+      "fullName": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "programmingLanguage": "Python",
+      "stars": 7006,
+      "forks": 620,
+      "starsInPeriod": 926
+    },
+    {
+      "rank": 5,
       "fullName": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 23889,
-      "forks": 2061,
+      "stars": 23956,
+      "forks": 2069,
       "starsInPeriod": 2301
     },
     {
-      "rank": 5,
-      "fullName": "higgsfield-ai/skills",
-      "url": "https://github.com/higgsfield-ai/skills",
-      "description": null,
-      "programmingLanguage": "Python",
-      "stars": 1848,
-      "forks": 338,
-      "starsInPeriod": 416
-    },
-    {
       "rank": 6,
-      "fullName": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "programmingLanguage": "Python",
-      "stars": 45550,
-      "forks": 3340,
-      "starsInPeriod": 2169
-    },
-    {
-      "rank": 7,
-      "fullName": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "programmingLanguage": "Python",
-      "stars": 145086,
-      "forks": 13003,
-      "starsInPeriod": 2098
-    },
-    {
-      "rank": 8,
-      "fullName": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "description": "A privacy-first app that strips AI watermarks from content you own.",
-      "programmingLanguage": "Python",
-      "stars": 25927,
-      "forks": 2956,
-      "starsInPeriod": 1035
-    },
-    {
-      "rank": 9,
-      "fullName": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "programmingLanguage": "Python",
-      "stars": 140676,
-      "forks": 13445,
-      "starsInPeriod": 5670
-    },
-    {
-      "rank": 10,
       "fullName": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "programmingLanguage": "Python",
-      "stars": 63597,
-      "forks": 5032,
+      "stars": 63892,
+      "forks": 5055,
       "starsInPeriod": 2778
     },
     {
+      "rank": 7,
+      "fullName": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "programmingLanguage": "Python",
+      "stars": 45645,
+      "forks": 3347,
+      "starsInPeriod": 2169
+    },
+    {
+      "rank": 8,
+      "fullName": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "programmingLanguage": "Python",
+      "stars": 140935,
+      "forks": 13472,
+      "starsInPeriod": 5670
+    },
+    {
+      "rank": 9,
+      "fullName": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "programmingLanguage": "Python",
+      "stars": 145303,
+      "forks": 13024,
+      "starsInPeriod": 2098
+    },
+    {
+      "rank": 10,
+      "fullName": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "A privacy-first app that strips AI watermarks from content you own.",
+      "programmingLanguage": "Python",
+      "stars": 25978,
+      "forks": 2963,
+      "starsInPeriod": 1035
+    },
+    {
       "rank": 11,
+      "fullName": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "programmingLanguage": "Python",
+      "stars": 60243,
+      "forks": 7637,
+      "starsInPeriod": 541
+    },
+    {
+      "rank": 12,
       "fullName": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "programmingLanguage": "Python",
-      "stars": 53873,
-      "forks": 6589,
+      "stars": 54169,
+      "forks": 6628,
       "starsInPeriod": 10982
-    },
-    {
-      "rank": 12,
-      "fullName": "beenuar/AiSOC",
-      "url": "https://github.com/beenuar/AiSOC",
-      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
-      "programmingLanguage": "Python",
-      "stars": 6382,
-      "forks": 655,
-      "starsInPeriod": 2450
     }
   ]
 }
