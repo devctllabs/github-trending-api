@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-02T15:47:43Z",
+  "observedAt": "2026-11-03T00:57:14Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -12,11 +12,11 @@
       "rank": 1,
       "fullName": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+      "description": "Computer use CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 8534,
-      "forks": 595,
-      "starsInPeriod": 2243
+      "stars": 9693,
+      "forks": 657,
+      "starsInPeriod": 2275
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 9892,
-      "forks": 353,
-      "starsInPeriod": 136
+      "stars": 10032,
+      "forks": 361,
+      "starsInPeriod": 77
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/anomalyco/hex",
       "description": "Local voice dictation for mac, windows and linux",
       "programmingLanguage": "Rust",
-      "stars": 3935,
-      "forks": 230,
-      "starsInPeriod": 1332
+      "stars": 4086,
+      "forks": 240,
+      "starsInPeriod": 1134
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/cjpais/Handy",
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "programmingLanguage": "Rust",
-      "stars": 37051,
-      "forks": 3485,
-      "starsInPeriod": 995
+      "stars": 37157,
+      "forks": 3493,
+      "starsInPeriod": 852
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/leepokai/Codync",
       "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 1691,
-      "forks": 160,
-      "starsInPeriod": 205
+      "stars": 1735,
+      "forks": 167,
+      "starsInPeriod": 206
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "programmingLanguage": "Rust",
-      "stars": 24949,
-      "forks": 898,
-      "starsInPeriod": 113
+      "stars": 24977,
+      "forks": 900,
+      "starsInPeriod": 108
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/SimoHypers/limusic",
       "description": "Feature rich, native desktop, YouTube Music client.",
       "programmingLanguage": "Rust",
-      "stars": 1704,
-      "forks": 110,
-      "starsInPeriod": 154
+      "stars": 1734,
+      "forks": 112,
+      "starsInPeriod": 101
     },
     {
       "rank": 8,
@@ -84,8 +84,8 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 45239,
-      "forks": 3102,
+      "stars": 45282,
+      "forks": 3107,
       "starsInPeriod": 136
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/jub0t/Concat",
       "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
       "programmingLanguage": "Rust",
-      "stars": 13752,
-      "forks": 1699,
+      "stars": 13821,
+      "forks": 1707,
       "starsInPeriod": 302
     },
     {
@@ -104,9 +104,9 @@
       "url": "https://github.com/Nasiko-Labs/nasiko",
       "description": "The Open Runtime for AI Agents",
       "programmingLanguage": "Rust",
-      "stars": 11513,
-      "forks": 3054,
-      "starsInPeriod": 522
+      "stars": 11536,
+      "forks": 3069,
+      "starsInPeriod": 293
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/Duecki1/CalibRaw",
       "description": "Free, open-source RAW editor for Linux, Android, Windows and macOS. GPU-accelerated, non-destructive, with masks, HDR merge and local AI.",
       "programmingLanguage": "Rust",
-      "stars": 231,
+      "stars": 247,
       "forks": 15,
-      "starsInPeriod": 19
+      "starsInPeriod": 25
     }
   ]
 }

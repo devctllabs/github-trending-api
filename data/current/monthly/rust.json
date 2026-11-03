@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=monthly",
-  "observedAt": "2026-11-02T15:47:50Z",
+  "observedAt": "2026-11-03T00:57:20Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 100167,
-      "forks": 5927,
-      "starsInPeriod": 26119
+      "stars": 100480,
+      "forks": 5935,
+      "starsInPeriod": 26586
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 14911,
-      "forks": 1073,
-      "starsInPeriod": 6190
+      "stars": 14950,
+      "forks": 1079,
+      "starsInPeriod": 6256
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "programmingLanguage": "Rust",
-      "stars": 20957,
-      "forks": 2057,
-      "starsInPeriod": 7208
+      "stars": 20979,
+      "forks": 2056,
+      "starsInPeriod": 6784
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 18791,
-      "forks": 1432,
-      "starsInPeriod": 16834
+      "stars": 18812,
+      "forks": 1436,
+      "starsInPeriod": 17029
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/jub0t/Concat",
       "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
       "programmingLanguage": "Rust",
-      "stars": 13752,
-      "forks": 1699,
-      "starsInPeriod": 9590
+      "stars": 13821,
+      "forks": 1707,
+      "starsInPeriod": 9873
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/crmne/spotifast",
       "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
       "programmingLanguage": "Rust",
-      "stars": 9538,
+      "stars": 9553,
       "forks": 565,
-      "starsInPeriod": 4736
+      "starsInPeriod": 4741
     },
     {
       "rank": 7,
@@ -74,19 +74,19 @@
       "url": "https://github.com/lexmount/moli",
       "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 22196,
-      "forks": 606,
-      "starsInPeriod": 19732
+      "stars": 22253,
+      "forks": 611,
+      "starsInPeriod": 18772
     },
     {
       "rank": 8,
       "fullName": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+      "description": "Computer use CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 8534,
-      "forks": 595,
-      "starsInPeriod": 4234
+      "stars": 9693,
+      "forks": 657,
+      "starsInPeriod": 6883
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/cjpais/Handy",
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "programmingLanguage": "Rust",
-      "stars": 37051,
-      "forks": 3485,
-      "starsInPeriod": 3766
+      "stars": 37157,
+      "forks": 3493,
+      "starsInPeriod": 4550
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/bevyengine/bevy",
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "programmingLanguage": "Rust",
-      "stars": 49465,
-      "forks": 5010,
-      "starsInPeriod": 1050
+      "stars": 49476,
+      "forks": 5012,
+      "starsInPeriod": 1056
     },
     {
       "rank": 11,
@@ -116,7 +116,7 @@
       "programmingLanguage": "Rust",
       "stars": 17354,
       "forks": 1470,
-      "starsInPeriod": 810
+      "starsInPeriod": 827
     },
     {
       "rank": 12,
@@ -124,8 +124,8 @@
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 3747,
-      "forks": 445,
+      "stars": 3761,
+      "forks": 444,
       "starsInPeriod": 1368
     },
     {
@@ -134,9 +134,9 @@
       "url": "https://github.com/SimoHypers/limusic",
       "description": "Feature rich, native desktop, YouTube Music client.",
       "programmingLanguage": "Rust",
-      "stars": 1704,
-      "forks": 110,
-      "starsInPeriod": 917
+      "stars": 1734,
+      "forks": 112,
+      "starsInPeriod": 1004
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 127907,
-      "forks": 20244,
-      "starsInPeriod": 3477
+      "stars": 127942,
+      "forks": 20258,
+      "starsInPeriod": 3532
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 3188,
-      "forks": 214,
-      "starsInPeriod": 1350
+      "stars": 3193,
+      "forks": 217,
+      "starsInPeriod": 1378
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/denoland/deno",
       "description": "A modern runtime for JavaScript and TypeScript.",
       "programmingLanguage": "Rust",
-      "stars": 108795,
-      "forks": 6486,
-      "starsInPeriod": 885
+      "stars": 108794,
+      "forks": 6502,
+      "starsInPeriod": 891
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/mixelpixx/Konnect",
       "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "programmingLanguage": "Rust",
-      "stars": 1449,
-      "forks": 207,
-      "starsInPeriod": 596
+      "stars": 1451,
+      "forks": 208,
+      "starsInPeriod": 599
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/samwhosung/benilla",
       "description": "A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy",
       "programmingLanguage": "Rust",
-      "stars": 917,
-      "forks": 212,
-      "starsInPeriod": 663
+      "stars": 919,
+      "forks": 214,
+      "starsInPeriod": 463
     },
     {
       "rank": 19,
@@ -194,9 +194,9 @@
       "url": "https://github.com/emilk/egui",
       "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
       "programmingLanguage": "Rust",
-      "stars": 31923,
-      "forks": 2301,
-      "starsInPeriod": 1209
+      "stars": 31937,
+      "forks": 2304,
+      "starsInPeriod": 1204
     }
   ]
 }
