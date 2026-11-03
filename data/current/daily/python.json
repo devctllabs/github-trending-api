@@ -4,149 +4,189 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-11-03T00:57:04Z",
+  "observedAt": "2026-11-03T14:11:12Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "programmingLanguage": "Python",
-      "stars": 92865,
-      "forks": 9778,
-      "starsInPeriod": 706
-    },
-    {
-      "rank": 2,
-      "fullName": "FlashML-org/FreeToken",
-      "url": "https://github.com/FlashML-org/FreeToken",
-      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-      "programmingLanguage": "Python",
-      "stars": 16065,
-      "forks": 1585,
-      "starsInPeriod": 653
-    },
-    {
-      "rank": 3,
-      "fullName": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "programmingLanguage": "Python",
-      "stars": 46014,
-      "forks": 7586,
-      "starsInPeriod": 857
-    },
-    {
-      "rank": 4,
-      "fullName": "kornia/kornia",
-      "url": "https://github.com/kornia/kornia",
-      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "programmingLanguage": "Python",
-      "stars": 12131,
-      "forks": 1487,
-      "starsInPeriod": 412
-    },
-    {
-      "rank": 5,
-      "fullName": "karpathy/nanochat",
-      "url": "https://github.com/karpathy/nanochat",
-      "description": "The best ChatGPT that $100 can buy.",
-      "programmingLanguage": "Python",
-      "stars": 59891,
-      "forks": 8414,
-      "starsInPeriod": 321
-    },
-    {
-      "rank": 6,
       "fullName": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
       "programmingLanguage": "Python",
-      "stars": 38102,
-      "forks": 4324,
-      "starsInPeriod": 420
+      "stars": 38520,
+      "forks": 4352,
+      "starsInPeriod": 699
     },
     {
-      "rank": 7,
-      "fullName": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "rank": 2,
+      "fullName": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
       "programmingLanguage": "Python",
-      "stars": 145525,
-      "forks": 13055,
-      "starsInPeriod": 540
+      "stars": 16185,
+      "forks": 2829,
+      "starsInPeriod": 204
     },
     {
-      "rank": 8,
-      "fullName": "beenuar/AiSOC",
-      "url": "https://github.com/beenuar/AiSOC",
-      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "rank": 3,
+      "fullName": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "programmingLanguage": "Python",
-      "stars": 6690,
-      "forks": 682,
-      "starsInPeriod": 659
+      "stars": 93850,
+      "forks": 9853,
+      "starsInPeriod": 1658
     },
     {
-      "rank": 9,
-      "fullName": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
+      "rank": 4,
+      "fullName": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "programmingLanguage": "Python",
-      "stars": 495527,
-      "forks": 55312,
-      "starsInPeriod": 1311
+      "stars": 46271,
+      "forks": 7628,
+      "starsInPeriod": 503
     },
     {
-      "rank": 10,
+      "rank": 5,
       "fullName": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "programmingLanguage": "Python",
-      "stars": 75317,
-      "forks": 9932,
-      "starsInPeriod": 693
+      "stars": 75708,
+      "forks": 10013,
+      "starsInPeriod": 836
     },
     {
-      "rank": 11,
+      "rank": 6,
+      "fullName": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "programmingLanguage": "Python",
+      "stars": 60150,
+      "forks": 8435,
+      "starsInPeriod": 551
+    },
+    {
+      "rank": 7,
+      "fullName": "kornia/kornia",
+      "url": "https://github.com/kornia/kornia",
+      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "programmingLanguage": "Python",
+      "stars": 12294,
+      "forks": 1508,
+      "starsInPeriod": 312
+    },
+    {
+      "rank": 8,
+      "fullName": "FlashML-org/FreeToken",
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "programmingLanguage": "Python",
+      "stars": 16431,
+      "forks": 1609,
+      "starsInPeriod": 689
+    },
+    {
+      "rank": 9,
       "fullName": "derv82/wifit3",
       "url": "https://github.com/derv82/wifit3",
       "description": "Wifite but USB-only & cross-platform.",
       "programmingLanguage": "Python",
-      "stars": 3051,
-      "forks": 305,
-      "starsInPeriod": 217
+      "stars": 3084,
+      "forks": 309,
+      "starsInPeriod": 66
+    },
+    {
+      "rank": 10,
+      "fullName": "andreavolpato/spektrafilm",
+      "url": "https://github.com/andreavolpato/spektrafilm",
+      "description": "Spectral simulation of analog photography processes",
+      "programmingLanguage": "Python",
+      "stars": 1805,
+      "forks": 244,
+      "starsInPeriod": 139
+    },
+    {
+      "rank": 11,
+      "fullName": "MakazhanAlpamys/Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "programmingLanguage": "Python",
+      "stars": 10067,
+      "forks": 1662,
+      "starsInPeriod": 135
     },
     {
       "rank": 12,
-      "fullName": "mealie-recipes/mealie",
-      "url": "https://github.com/mealie-recipes/mealie",
-      "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+      "fullName": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
       "programmingLanguage": "Python",
-      "stars": 13783,
-      "forks": 1636,
-      "starsInPeriod": 17
+      "stars": 495747,
+      "forks": 55350,
+      "starsInPeriod": 434
     },
     {
       "rank": 13,
-      "fullName": "NanmiCoder/MediaCrawler",
-      "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "fullName": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
       "programmingLanguage": "Python",
-      "stars": 69904,
-      "forks": 13267,
-      "starsInPeriod": 294
+      "stars": 64248,
+      "forks": 5081,
+      "starsInPeriod": 460
     },
     {
       "rank": 14,
-      "fullName": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "fullName": "github/copilot-cli",
+      "url": "https://github.com/github/copilot-cli",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
       "programmingLanguage": "Python",
-      "stars": 66370,
-      "forks": 5809,
-      "starsInPeriod": 136
+      "stars": 11333,
+      "forks": 1974,
+      "starsInPeriod": 11
+    },
+    {
+      "rank": 15,
+      "fullName": "agent0ai/agent-zero",
+      "url": "https://github.com/agent0ai/agent-zero",
+      "description": "Agent Zero AI framework",
+      "programmingLanguage": "Python",
+      "stars": 19693,
+      "forks": 3857,
+      "starsInPeriod": 38
+    },
+    {
+      "rank": 16,
+      "fullName": "jordan-gibbs/hyperresearch",
+      "url": "https://github.com/jordan-gibbs/hyperresearch",
+      "description": "Convert Claude Code or Codex into the most intelligent Deep Research Agent. Collect, search, and synthesize web research into a persistent, searchable wiki that builds on itself. Hosted API + MCP: hyperresearch.ai",
+      "programmingLanguage": "Python",
+      "stars": 4357,
+      "forks": 443,
+      "starsInPeriod": 27
+    },
+    {
+      "rank": 17,
+      "fullName": "AminBlg/SimpleEnglish",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
+      "programmingLanguage": "Python",
+      "stars": 4177,
+      "forks": 179,
+      "starsInPeriod": 50
+    },
+    {
+      "rank": 18,
+      "fullName": "shy3130/tick-stock-panel",
+      "url": "https://github.com/shy3130/tick-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "programmingLanguage": "Python",
+      "stars": 6969,
+      "forks": 1679,
+      "starsInPeriod": 97
     }
   ]
 }

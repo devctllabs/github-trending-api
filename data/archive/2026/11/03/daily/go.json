@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-11-03T00:57:23Z",
+  "updatedAt": "2026-11-03T14:11:33Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,13 +14,27 @@
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 28433,
-      "forks": 1920,
+      "stars": 28447,
+      "forks": 1921,
       "starsInPeriod": 40,
       "bestRank": 1,
-      "latestRank": 1,
+      "latestRank": 7,
       "firstSeenAt": "2026-11-03T00:57:23Z",
-      "lastSeenAt": "2026-11-03T00:57:23Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "programmingLanguage": "Go",
+      "stars": 33142,
+      "forks": 5177,
+      "starsInPeriod": 145,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-11-03T14:11:33Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
       "appearances": 1
     },
     {
@@ -38,6 +52,20 @@
       "appearances": 1
     },
     {
+      "fullName": "qax-os/excelize",
+      "url": "https://github.com/qax-os/excelize",
+      "description": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+      "programmingLanguage": "Go",
+      "stars": 21048,
+      "forks": 1986,
+      "starsInPeriod": 13,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-11-03T14:11:33Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
+      "appearances": 1
+    },
+    {
       "fullName": "MHSanaei/3x-ui",
       "url": "https://github.com/MHSanaei/3x-ui",
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
@@ -49,6 +77,20 @@
       "latestRank": 3,
       "firstSeenAt": "2026-11-03T00:57:23Z",
       "lastSeenAt": "2026-11-03T00:57:23Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "Asymptote-Labs/agent-beacon",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
+      "programmingLanguage": "Go",
+      "stars": 3192,
+      "forks": 282,
+      "starsInPeriod": 188,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-11-03T14:11:33Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
       "appearances": 1
     },
     {
@@ -66,17 +108,45 @@
       "appearances": 1
     },
     {
+      "fullName": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "programmingLanguage": "Go",
+      "stars": 25766,
+      "forks": 4209,
+      "starsInPeriod": 9,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-03T14:11:33Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
+      "appearances": 1
+    },
+    {
       "fullName": "warmbly/warmbly",
       "url": "https://github.com/warmbly/warmbly",
       "description": "The largest open-source B2B cold outreach and email warmup service.",
       "programmingLanguage": "Go",
-      "stars": 879,
+      "stars": 903,
       "forks": 159,
       "starsInPeriod": 296,
       "bestRank": 5,
-      "latestRank": 5,
+      "latestRank": 10,
       "firstSeenAt": "2026-11-03T00:57:23Z",
-      "lastSeenAt": "2026-11-03T00:57:23Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 24523,
+      "forks": 8117,
+      "starsInPeriod": 12,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-03T14:11:33Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
       "appearances": 1
     },
     {
@@ -84,13 +154,27 @@
       "url": "https://github.com/mayswind/ezbookkeeping",
       "description": "ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.",
       "programmingLanguage": "Go",
-      "stars": 5949,
-      "forks": 741,
+      "stars": 5960,
+      "forks": 743,
       "starsInPeriod": 26,
       "bestRank": 6,
-      "latestRank": 6,
+      "latestRank": 11,
       "firstSeenAt": "2026-11-03T00:57:23Z",
-      "lastSeenAt": "2026-11-03T00:57:23Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 117101,
+      "forks": 6807,
+      "starsInPeriod": 260,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-03T14:11:33Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
       "appearances": 1
     },
     {
@@ -106,6 +190,20 @@
       "firstSeenAt": "2026-11-03T00:57:23Z",
       "lastSeenAt": "2026-11-03T00:57:23Z",
       "appearances": 1
+    },
+    {
+      "fullName": "CarterPerez-dev/Cybersecurity-Projects",
+      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
+      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Owned by my cybersecurity company 👇",
+      "programmingLanguage": "Go",
+      "stars": 8997,
+      "forks": 1327,
+      "starsInPeriod": 69,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-03T00:57:23Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
+      "appearances": 2
     },
     {
       "fullName": "kubernetes/kubernetes",
@@ -133,6 +231,20 @@
       "latestRank": 9,
       "firstSeenAt": "2026-11-03T00:57:23Z",
       "lastSeenAt": "2026-11-03T00:57:23Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "gdy666/lucky",
+      "url": "https://github.com/gdy666/lucky",
+      "description": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser",
+      "programmingLanguage": "Go",
+      "stars": 8316,
+      "forks": 746,
+      "starsInPeriod": 9,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-03T14:11:33Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
       "appearances": 1
     },
     {
@@ -178,6 +290,20 @@
       "appearances": 1
     },
     {
+      "fullName": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "programmingLanguage": "Go",
+      "stars": 54749,
+      "forks": 7205,
+      "starsInPeriod": 121,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-11-03T14:11:33Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
+      "appearances": 1
+    },
+    {
       "fullName": "m5stack/StackChan",
       "url": "https://github.com/m5stack/StackChan",
       "description": "StackChan open source!",
@@ -189,6 +315,20 @@
       "latestRank": 13,
       "firstSeenAt": "2026-11-03T00:57:23Z",
       "lastSeenAt": "2026-11-03T00:57:23Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "programmingLanguage": "Go",
+      "stars": 191847,
+      "forks": 13694,
+      "starsInPeriod": 219,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-11-03T14:11:33Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
       "appearances": 1
     },
     {
@@ -206,6 +346,20 @@
       "appearances": 1
     },
     {
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 38929,
+      "forks": 818,
+      "starsInPeriod": 21,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-11-03T14:11:33Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
+      "appearances": 1
+    },
+    {
       "fullName": "0xJacky/nginx-ui",
       "url": "https://github.com/0xJacky/nginx-ui",
       "description": "Yet another WebUI for Nginx",
@@ -217,6 +371,20 @@
       "latestRank": 15,
       "firstSeenAt": "2026-11-03T00:57:23Z",
       "lastSeenAt": "2026-11-03T00:57:23Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+      "programmingLanguage": "Go",
+      "stars": 19236,
+      "forks": 2446,
+      "starsInPeriod": 204,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-11-03T14:11:33Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
       "appearances": 1
     },
     {
@@ -234,6 +402,20 @@
       "appearances": 1
     },
     {
+      "fullName": "Christ9038/Ydisks-Xianyu-Helper",
+      "url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper",
+      "description": "闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建",
+      "programmingLanguage": "Go",
+      "stars": 2198,
+      "forks": 615,
+      "starsInPeriod": 16,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-11-03T14:11:33Z",
+      "lastSeenAt": "2026-11-03T14:11:33Z",
+      "appearances": 1
+    },
+    {
       "fullName": "xpzouying/xiaohongshu-mcp",
       "url": "https://github.com/xpzouying/xiaohongshu-mcp",
       "description": "MCP for xiaohongshu.com",
@@ -243,20 +425,6 @@
       "starsInPeriod": 31,
       "bestRank": 17,
       "latestRank": 17,
-      "firstSeenAt": "2026-11-03T00:57:23Z",
-      "lastSeenAt": "2026-11-03T00:57:23Z",
-      "appearances": 1
-    },
-    {
-      "fullName": "CarterPerez-dev/Cybersecurity-Projects",
-      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
-      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Owned by my cybersecurity company 👇",
-      "programmingLanguage": "Go",
-      "stars": 8977,
-      "forks": 1321,
-      "starsInPeriod": 69,
-      "bestRank": 18,
-      "latestRank": 18,
       "firstSeenAt": "2026-11-03T00:57:23Z",
       "lastSeenAt": "2026-11-03T00:57:23Z",
       "appearances": 1

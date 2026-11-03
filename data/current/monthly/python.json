@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-11-03T00:57:11Z",
+  "observedAt": "2026-11-03T14:11:19Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 99069,
-      "forks": 10992,
+      "stars": 99707,
+      "forks": 11058,
       "starsInPeriod": 47605
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 34493,
-      "forks": 3813,
+      "stars": 34557,
+      "forks": 3826,
       "starsInPeriod": 8614
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Design physical products with AI",
       "programmingLanguage": "Python",
-      "stars": 25020,
-      "forks": 2387,
+      "stars": 25157,
+      "forks": 2393,
       "starsInPeriod": 8535
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 45856,
-      "forks": 4777,
+      "stars": 45933,
+      "forks": 4783,
       "starsInPeriod": 8715
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 26001,
-      "forks": 3398,
+      "stars": 26188,
+      "forks": 3418,
       "starsInPeriod": 7808
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "programmingLanguage": "Python",
-      "stars": 108091,
-      "forks": 9642,
+      "stars": 108303,
+      "forks": 9663,
       "starsInPeriod": 20448
     },
     {
@@ -74,29 +74,29 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "programmingLanguage": "Python",
-      "stars": 54316,
-      "forks": 6645,
+      "stars": 54600,
+      "forks": 6679,
       "starsInPeriod": 13841
     },
     {
       "rank": 8,
+      "fullName": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "programmingLanguage": "Python",
+      "stars": 75708,
+      "forks": 10013,
+      "starsInPeriod": 13104
+    },
+    {
+      "rank": 9,
       "fullName": "AstrBotDevs/AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "programmingLanguage": "Python",
-      "stars": 45672,
-      "forks": 3351,
+      "stars": 45810,
+      "forks": 3362,
       "starsInPeriod": 4586
-    },
-    {
-      "rank": 9,
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "programmingLanguage": "Python",
-      "stars": 24014,
-      "forks": 2071,
-      "starsInPeriod": 5007
     },
     {
       "rank": 10,
@@ -104,19 +104,19 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 58136,
-      "forks": 5228,
+      "stars": 58168,
+      "forks": 5233,
       "starsInPeriod": 6998
     },
     {
       "rank": 11,
-      "fullName": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 75317,
-      "forks": 9932,
-      "starsInPeriod": 13104
+      "stars": 24137,
+      "forks": 2081,
+      "starsInPeriod": 5007
     },
     {
       "rank": 12,
@@ -124,7 +124,7 @@
       "url": "https://github.com/wshobson/agents",
       "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "programmingLanguage": "Python",
-      "stars": 42117,
+      "stars": 42144,
       "forks": 4454,
       "starsInPeriod": 2074
     },
@@ -134,8 +134,8 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "programmingLanguage": "Python",
-      "stars": 65954,
-      "forks": 10284,
+      "stars": 66078,
+      "forks": 10301,
       "starsInPeriod": 10117
     },
     {
@@ -144,29 +144,19 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "programmingLanguage": "Python",
-      "stars": 46427,
-      "forks": 5697,
+      "stars": 46453,
+      "forks": 5700,
       "starsInPeriod": 4889
     },
     {
       "rank": 15,
-      "fullName": "ifixai-ai/iFixAi",
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "fullName": "beenuar/AiSOC",
+      "url": "https://github.com/beenuar/AiSOC",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
       "programmingLanguage": "Python",
-      "stars": 43005,
-      "forks": 1780,
-      "starsInPeriod": 27487
-    },
-    {
-      "rank": 16,
-      "fullName": "Kruk2/jasna",
-      "url": "https://github.com/Kruk2/jasna",
-      "description": "Video restoration tool",
-      "programmingLanguage": "Python",
-      "stars": 4336,
-      "forks": 353,
-      "starsInPeriod": 2463
+      "stars": 6901,
+      "forks": 710,
+      "starsInPeriod": 4845
     }
   ]
 }

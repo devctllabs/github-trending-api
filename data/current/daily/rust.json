@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-03T00:57:14Z",
+  "observedAt": "2026-11-03T14:11:23Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 9693,
-      "forks": 657,
-      "starsInPeriod": 2275
+      "stars": 11770,
+      "forks": 799,
+      "starsInPeriod": 3792
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 10032,
-      "forks": 361,
-      "starsInPeriod": 77
+      "stars": 10291,
+      "forks": 370,
+      "starsInPeriod": 437
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/anomalyco/hex",
       "description": "Local voice dictation for mac, windows and linux",
       "programmingLanguage": "Rust",
-      "stars": 4086,
-      "forks": 240,
+      "stars": 4283,
+      "forks": 249,
       "starsInPeriod": 1134
     },
     {
@@ -44,79 +44,89 @@
       "url": "https://github.com/cjpais/Handy",
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "programmingLanguage": "Rust",
-      "stars": 37157,
-      "forks": 3493,
+      "stars": 37275,
+      "forks": 3507,
       "starsInPeriod": 852
     },
     {
       "rank": 5,
-      "fullName": "leepokai/Codync",
-      "url": "https://github.com/leepokai/Codync",
-      "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
+      "fullName": "Mesh-LLM/mesh-llm",
+      "url": "https://github.com/Mesh-LLM/mesh-llm",
+      "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
       "programmingLanguage": "Rust",
-      "stars": 1735,
-      "forks": 167,
-      "starsInPeriod": 206
+      "stars": 3884,
+      "forks": 490,
+      "starsInPeriod": 78
     },
     {
       "rank": 6,
-      "fullName": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "programmingLanguage": "Rust",
-      "stars": 24977,
-      "forks": 900,
-      "starsInPeriod": 108
-    },
-    {
-      "rank": 7,
-      "fullName": "SimoHypers/limusic",
-      "url": "https://github.com/SimoHypers/limusic",
-      "description": "Feature rich, native desktop, YouTube Music client.",
-      "programmingLanguage": "Rust",
-      "stars": 1734,
-      "forks": 112,
-      "starsInPeriod": 101
-    },
-    {
-      "rank": 8,
       "fullName": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 45282,
-      "forks": 3107,
+      "stars": 45362,
+      "forks": 3111,
       "starsInPeriod": 136
     },
     {
-      "rank": 9,
-      "fullName": "jub0t/Concat",
-      "url": "https://github.com/jub0t/Concat",
-      "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
+      "rank": 7,
+      "fullName": "ivankovic/omnidiff",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "description": "Fast, robust, accurate diffing",
       "programmingLanguage": "Rust",
-      "stars": 13821,
-      "forks": 1707,
-      "starsInPeriod": 302
+      "stars": 930,
+      "forks": 16,
+      "starsInPeriod": 300
+    },
+    {
+      "rank": 8,
+      "fullName": "lexmount/moli",
+      "url": "https://github.com/lexmount/moli",
+      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+      "programmingLanguage": "Rust",
+      "stars": 22395,
+      "forks": 617,
+      "starsInPeriod": 240
+    },
+    {
+      "rank": 9,
+      "fullName": "leepokai/Codync",
+      "url": "https://github.com/leepokai/Codync",
+      "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
+      "programmingLanguage": "Rust",
+      "stars": 1799,
+      "forks": 172,
+      "starsInPeriod": 206
     },
     {
       "rank": 10,
-      "fullName": "Nasiko-Labs/nasiko",
-      "url": "https://github.com/Nasiko-Labs/nasiko",
-      "description": "The Open Runtime for AI Agents",
+      "fullName": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "the runtime your coding agents live on",
       "programmingLanguage": "Rust",
-      "stars": 11536,
-      "forks": 3069,
-      "starsInPeriod": 293
+      "stars": 47768,
+      "forks": 3831,
+      "starsInPeriod": 284
     },
     {
       "rank": 11,
-      "fullName": "Duecki1/CalibRaw",
-      "url": "https://github.com/Duecki1/CalibRaw",
-      "description": "Free, open-source RAW editor for Linux, Android, Windows and macOS. GPU-accelerated, non-destructive, with masks, HDR merge and local AI.",
+      "fullName": "crmne/zapfast",
+      "url": "https://github.com/crmne/zapfast",
+      "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "programmingLanguage": "Rust",
-      "stars": 247,
-      "forks": 15,
-      "starsInPeriod": 25
+      "stars": 2438,
+      "forks": 282,
+      "starsInPeriod": 34
+    },
+    {
+      "rank": 12,
+      "fullName": "janhq/jan",
+      "url": "https://github.com/janhq/jan",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+      "programmingLanguage": "Rust",
+      "stars": 45371,
+      "forks": 3138,
+      "starsInPeriod": 70
     }
   ]
 }

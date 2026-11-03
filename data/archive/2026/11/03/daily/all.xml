@@ -4,31 +4,15 @@
     <title>GitHub Trending — daily — all</title>
     <link>https://github.com/trending</link>
     <description>GitHub Trending — daily — all</description>
-    <lastBuildDate>Tue, 03 Nov 2026 00:56:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:11:01 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-03</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>all</ght:language>
-    <ght:updatedAt>2026-11-03T00:56:54Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-03T14:11:01Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
-    <item>
-      <title>vercel-labs/agent-desktop</title>
-      <link>https://github.com/vercel-labs/agent-desktop</link>
-      <description>Computer use CLI for AI agents</description>
-      <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
-      <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>9692</ght:stars>
-      <ght:forks>657</ght:forks>
-      <ght:starsInPeriod>2275</ght:starsInPeriod>
-      <ght:bestRank>1</ght:bestRank>
-      <ght:latestRank>1</ght:latestRank>
-      <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-03T00:56:54Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
     <item>
       <title>thedotmack/claude-mem</title>
       <link>https://github.com/thedotmack/claude-mem</link>
@@ -36,14 +20,30 @@
       <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
       <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>110745</ght:stars>
-      <ght:forks>9653</ght:forks>
-      <ght:starsInPeriod>1803</ght:starsInPeriod>
-      <ght:bestRank>2</ght:bestRank>
+      <ght:stars>111403</ght:stars>
+      <ght:forks>9707</ght:forks>
+      <ght:starsInPeriod>1138</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>vercel-labs/agent-desktop</title>
+      <link>https://github.com/vercel-labs/agent-desktop</link>
+      <description>Computer use CLI for AI agents</description>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
+      <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>11770</ght:stars>
+      <ght:forks>799</ght:forks>
+      <ght:starsInPeriod>3792</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>2</ght:latestRank>
       <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-03T00:56:54Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>D4Vinci/Scrapling</title>
@@ -52,14 +52,30 @@
       <guid isPermaLink="true">https://github.com/D4Vinci/Scrapling</guid>
       <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>92861</ght:stars>
-      <ght:forks>9778</ght:forks>
-      <ght:starsInPeriod>706</ght:starsInPeriod>
+      <ght:stars>93850</ght:stars>
+      <ght:forks>9853</ght:forks>
+      <ght:starsInPeriod>1658</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>max-sixty/worktrunk</title>
+      <link>https://github.com/max-sixty/worktrunk</link>
+      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
+      <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>10291</ght:stars>
+      <ght:forks>370</ght:forks>
+      <ght:starsInPeriod>437</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
       <ght:latestRank>3</ght:latestRank>
       <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-03T00:56:54Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>hyprwm/Hyprland</title>
@@ -78,20 +94,52 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>JustVugg/colibri</title>
+      <link>https://github.com/JustVugg/colibri</link>
+      <description>A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.</description>
+      <guid isPermaLink="true">https://github.com/JustVugg/colibri</guid>
+      <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
+      <ght:programmingLanguage>C</ght:programmingLanguage>
+      <ght:stars>46991</ght:stars>
+      <ght:forks>5427</ght:forks>
+      <ght:starsInPeriod>803</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>Donchitos/Claude-Code-Game-Studios</title>
       <link>https://github.com/Donchitos/Claude-Code-Game-Studios</link>
       <description>Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.</description>
       <guid isPermaLink="true">https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
       <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
       <ght:programmingLanguage>Shell</ght:programmingLanguage>
-      <ght:stars>33553</ght:stars>
-      <ght:forks>4518</ght:forks>
-      <ght:starsInPeriod>1379</ght:starsInPeriod>
+      <ght:stars>34257</ght:stars>
+      <ght:forks>4570</ght:forks>
+      <ght:starsInPeriod>1181</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <description>Skills for Real Engineers. Straight from my .agents directory.</description>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
+      <ght:programmingLanguage>Shell</ght:programmingLanguage>
+      <ght:stars>310943</ght:stars>
+      <ght:forks>26154</ght:forks>
+      <ght:starsInPeriod>1164</ght:starsInPeriod>
       <ght:bestRank>5</ght:bestRank>
       <ght:latestRank>5</ght:latestRank>
       <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-03T00:56:54Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>FlashML-org/FreeToken</title>
@@ -110,6 +158,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>p-e-w/heretic</title>
+      <link>https://github.com/p-e-w/heretic</link>
+      <description>Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more</description>
+      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
+      <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>38520</ght:stars>
+      <ght:forks>4352</ght:forks>
+      <ght:starsInPeriod>699</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>pingdotgg/t3code</title>
       <link>https://github.com/pingdotgg/t3code</link>
       <description />
@@ -126,19 +190,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>spotify/portal-ai-plugins</title>
+      <link>https://github.com/spotify/portal-ai-plugins</link>
+      <description />
+      <guid isPermaLink="true">https://github.com/spotify/portal-ai-plugins</guid>
+      <pubDate>Tue, 03 Nov 2026 14:11:01 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>2936</ght:stars>
+      <ght:forks>230</ght:forks>
+      <ght:starsInPeriod>94</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-11-03T14:11:01Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>shiyu-coder/Kronos</title>
       <link>https://github.com/shiyu-coder/Kronos</link>
       <description>Kronos: A Foundation Model for the Language of Financial Markets</description>
       <guid isPermaLink="true">https://github.com/shiyu-coder/Kronos</guid>
       <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>46014</ght:stars>
-      <ght:forks>7586</ght:forks>
-      <ght:starsInPeriod>857</ght:starsInPeriod>
+      <ght:stars>46270</ght:stars>
+      <ght:forks>7628</ght:forks>
+      <ght:starsInPeriod>503</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>floci-io/floci</title>
+      <link>https://github.com/floci-io/floci</link>
+      <description>Light, fluffy, and always free - The AWS Local Emulator alternative</description>
+      <guid isPermaLink="true">https://github.com/floci-io/floci</guid>
+      <pubDate>Tue, 03 Nov 2026 14:11:01 GMT</pubDate>
+      <ght:programmingLanguage>Java</ght:programmingLanguage>
+      <ght:stars>28278</ght:stars>
+      <ght:forks>3171</ght:forks>
+      <ght:starsInPeriod>219</ght:starsInPeriod>
       <ght:bestRank>8</ght:bestRank>
       <ght:latestRank>8</ght:latestRank>
-      <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-03T00:56:54Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-03T14:11:01Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -158,51 +254,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>JustVugg/colibri</title>
-      <link>https://github.com/JustVugg/colibri</link>
-      <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
-      <guid isPermaLink="true">https://github.com/JustVugg/colibri</guid>
-      <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
-      <ght:programmingLanguage>C</ght:programmingLanguage>
-      <ght:stars>46547</ght:stars>
-      <ght:forks>5381</ght:forks>
-      <ght:starsInPeriod>675</ght:starsInPeriod>
+      <title>Usagi-org/ai-goofish-monitor</title>
+      <link>https://github.com/Usagi-org/ai-goofish-monitor</link>
+      <description>基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。</description>
+      <guid isPermaLink="true">https://github.com/Usagi-org/ai-goofish-monitor</guid>
+      <pubDate>Tue, 03 Nov 2026 14:11:01 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>16185</ght:stars>
+      <ght:forks>2829</ght:forks>
+      <ght:starsInPeriod>204</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-11-03T14:11:01Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>anomalyco/hex</title>
+      <link>https://github.com/anomalyco/hex</link>
+      <description>Local voice dictation for mac, windows and linux</description>
+      <guid isPermaLink="true">https://github.com/anomalyco/hex</guid>
+      <pubDate>Tue, 03 Nov 2026 14:11:01 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>4283</ght:stars>
+      <ght:forks>249</ght:forks>
+      <ght:starsInPeriod>1134</ght:starsInPeriod>
       <ght:bestRank>10</ght:bestRank>
       <ght:latestRank>10</ght:latestRank>
-      <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-03T00:56:54Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <description>Skills for Real Engineers. Straight from my .agents directory.</description>
-      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
-      <ght:programmingLanguage>Shell</ght:programmingLanguage>
-      <ght:stars>310228</ght:stars>
-      <ght:forks>26095</ght:forks>
-      <ght:starsInPeriod>858</ght:starsInPeriod>
-      <ght:bestRank>11</ght:bestRank>
-      <ght:latestRank>11</ght:latestRank>
-      <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-03T00:56:54Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>max-sixty/worktrunk</title>
-      <link>https://github.com/max-sixty/worktrunk</link>
-      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
-      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
-      <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>10032</ght:stars>
-      <ght:forks>361</ght:forks>
-      <ght:starsInPeriod>77</ght:starsInPeriod>
-      <ght:bestRank>12</ght:bestRank>
-      <ght:latestRank>12</ght:latestRank>
-      <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-03T00:56:54Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-03T14:11:01Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-03T14:11:01Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -233,22 +313,6 @@
       <ght:starsInPeriod>321</ght:starsInPeriod>
       <ght:bestRank>14</ght:bestRank>
       <ght:latestRank>14</ght:latestRank>
-      <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-03T00:56:54Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>p-e-w/heretic</title>
-      <link>https://github.com/p-e-w/heretic</link>
-      <description>Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more</description>
-      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
-      <pubDate>Tue, 03 Nov 2026 00:56:54 GMT</pubDate>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>38102</ght:stars>
-      <ght:forks>4324</ght:forks>
-      <ght:starsInPeriod>420</ght:starsInPeriod>
-      <ght:bestRank>15</ght:bestRank>
-      <ght:latestRank>15</ght:latestRank>
       <ght:firstSeenAt>2026-11-03T00:56:54Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-03T00:56:54Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>

@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-11-03T00:57:07Z",
+  "observedAt": "2026-11-03T14:11:16Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 26001,
-      "forks": 3398,
+      "stars": 26188,
+      "forks": 3418,
       "starsInPeriod": 4091
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 186774,
-      "forks": 22058,
+      "stars": 186995,
+      "forks": 22082,
       "starsInPeriod": 2828
     },
     {
@@ -34,99 +34,139 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "programmingLanguage": "Python",
-      "stars": 119973,
-      "forks": 22942,
+      "stars": 120181,
+      "forks": 22991,
       "starsInPeriod": 4603
     },
     {
       "rank": 4,
-      "fullName": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "programmingLanguage": "Python",
-      "stars": 7036,
-      "forks": 628,
-      "starsInPeriod": 854
-    },
-    {
-      "rank": 5,
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "programmingLanguage": "Python",
-      "stars": 24014,
-      "forks": 2071,
-      "starsInPeriod": 2073
-    },
-    {
-      "rank": 6,
-      "fullName": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "programmingLanguage": "Python",
-      "stars": 64018,
-      "forks": 5065,
-      "starsInPeriod": 3035
-    },
-    {
-      "rank": 7,
-      "fullName": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "programmingLanguage": "Python",
-      "stars": 45672,
-      "forks": 3351,
-      "starsInPeriod": 1965
-    },
-    {
-      "rank": 8,
       "fullName": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "programmingLanguage": "Python",
-      "stars": 141197,
-      "forks": 13497,
+      "stars": 141587,
+      "forks": 13542,
       "starsInPeriod": 5224
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "fullName": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "programmingLanguage": "Python",
+      "stars": 64248,
+      "forks": 5081,
+      "starsInPeriod": 3035
+    },
+    {
+      "rank": 6,
+      "fullName": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "programmingLanguage": "Python",
+      "stars": 75708,
+      "forks": 10013,
+      "starsInPeriod": 3406
+    },
+    {
+      "rank": 7,
+      "fullName": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "programmingLanguage": "Python",
+      "stars": 7083,
+      "forks": 635,
+      "starsInPeriod": 854
+    },
+    {
+      "rank": 8,
       "fullName": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "programmingLanguage": "Python",
-      "stars": 145525,
-      "forks": 13055,
+      "stars": 146280,
+      "forks": 13121,
       "starsInPeriod": 2495
     },
     {
-      "rank": 10,
-      "fullName": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "description": "A privacy-first app that strips AI watermarks from content you own.",
+      "rank": 9,
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 26019,
-      "forks": 2965,
-      "starsInPeriod": 1042
+      "stars": 24137,
+      "forks": 2081,
+      "starsInPeriod": 2073
+    },
+    {
+      "rank": 10,
+      "fullName": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "programmingLanguage": "Python",
+      "stars": 45810,
+      "forks": 3362,
+      "starsInPeriod": 1965
     },
     {
       "rank": 11,
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "programmingLanguage": "Python",
+      "stars": 66436,
+      "forks": 5811,
+      "starsInPeriod": 841
+    },
+    {
+      "rank": 12,
       "fullName": "MemPalace/mempalace",
       "url": "https://github.com/MemPalace/mempalace",
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "programmingLanguage": "Python",
-      "stars": 60265,
-      "forks": 7638,
+      "stars": 60313,
+      "forks": 7650,
       "starsInPeriod": 544
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "fullName": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "programmingLanguage": "Python",
+      "stars": 93850,
+      "forks": 9853,
+      "starsInPeriod": 3802
+    },
+    {
+      "rank": 14,
+      "fullName": "The-PR-Agent/pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "programmingLanguage": "Python",
+      "stars": 14277,
+      "forks": 2052,
+      "starsInPeriod": 591
+    },
+    {
+      "rank": 15,
       "fullName": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "programmingLanguage": "Python",
-      "stars": 54316,
-      "forks": 6645,
+      "stars": 54600,
+      "forks": 6679,
       "starsInPeriod": 10827
+    },
+    {
+      "rank": 16,
+      "fullName": "beenuar/AiSOC",
+      "url": "https://github.com/beenuar/AiSOC",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "programmingLanguage": "Python",
+      "stars": 6901,
+      "forks": 710,
+      "starsInPeriod": 2760
     }
   ]
 }
