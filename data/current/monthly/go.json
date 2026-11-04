@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-11-04T06:18:32Z",
+  "observedAt": "2026-11-04T19:44:30Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 185847,
-      "forks": 18874,
+      "stars": 185917,
+      "forks": 18885,
       "starsInPeriod": 4771
     },
     {
@@ -24,19 +24,19 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 33221,
-      "forks": 5184,
+      "stars": 33307,
+      "forks": 5196,
       "starsInPeriod": 8181
     },
     {
       "rank": 3,
-      "fullName": "Agent-Field/CodeAF",
-      "url": "https://github.com/Agent-Field/CodeAF",
-      "description": "Open-Source Software factory for Open Models",
+      "fullName": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 628,
-      "forks": 73,
-      "starsInPeriod": 361
+      "stars": 38597,
+      "forks": 5900,
+      "starsInPeriod": 510
     },
     {
       "rank": 4,
@@ -44,129 +44,129 @@
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 7272,
-      "forks": 1134,
+      "stars": 7325,
+      "forks": 1148,
       "starsInPeriod": 997
     },
     {
       "rank": 5,
-      "fullName": "docker/compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
-      "programmingLanguage": "Go",
-      "stars": 38595,
-      "forks": 5901,
-      "starsInPeriod": 510
-    },
-    {
-      "rank": 6,
-      "fullName": "caddyserver/caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-      "programmingLanguage": "Go",
-      "stars": 78726,
-      "forks": 5230,
-      "starsInPeriod": 2635
-    },
-    {
-      "rank": 7,
-      "fullName": "strelov1/freehire",
-      "url": "https://github.com/strelov1/freehire",
-      "description": "freehire — the open-source search engine for job seekers",
-      "programmingLanguage": "Go",
-      "stars": 3473,
-      "forks": 369,
-      "starsInPeriod": 2937
-    },
-    {
-      "rank": 8,
       "fullName": "Asymptote-Labs/agent-beacon",
       "url": "https://github.com/Asymptote-Labs/agent-beacon",
       "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "programmingLanguage": "Go",
-      "stars": 3248,
+      "stars": 3274,
       "forks": 288,
       "starsInPeriod": 1495
     },
     {
+      "rank": 6,
+      "fullName": "Agent-Field/CodeAF",
+      "url": "https://github.com/Agent-Field/CodeAF",
+      "description": "Open-Source Software factory for Open Models",
+      "programmingLanguage": "Go",
+      "stars": 632,
+      "forks": 75,
+      "starsInPeriod": 361
+    },
+    {
+      "rank": 7,
+      "fullName": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "programmingLanguage": "Go",
+      "stars": 38631,
+      "forks": 3423,
+      "starsInPeriod": 1580
+    },
+    {
+      "rank": 8,
+      "fullName": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 24541,
+      "forks": 8092,
+      "starsInPeriod": 261
+    },
+    {
       "rank": 9,
+      "fullName": "strelov1/freehire",
+      "url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "programmingLanguage": "Go",
+      "stars": 3390,
+      "forks": 369,
+      "starsInPeriod": 2937
+    },
+    {
+      "rank": 10,
       "fullName": "llm-d/llm-d-router",
       "url": "https://github.com/llm-d/llm-d-router",
       "description": "llm-d Router: The intelligent entry point for inference requests",
       "programmingLanguage": "Go",
-      "stars": 449,
-      "forks": 507,
+      "stars": 452,
+      "forks": 513,
       "starsInPeriod": 75
     },
     {
-      "rank": 10,
+      "rank": 11,
       "fullName": "N4darae/shrt",
       "url": "https://github.com/N4darae/shrt",
       "description": "A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines. Snapshot the valid call chains of an API so an agent can look one up instead of tracing for it. gRPC today, OpenAPI next",
       "programmingLanguage": "Go",
-      "stars": 2158,
+      "stars": 2170,
       "forks": 150,
       "starsInPeriod": 1711
     },
     {
-      "rank": 11,
-      "fullName": "docker/docker-agent",
-      "url": "https://github.com/docker/docker-agent",
-      "description": "AI Agent Builder and Runtime by Docker Engineering",
-      "programmingLanguage": "Go",
-      "stars": 4651,
-      "forks": 549,
-      "starsInPeriod": 1292
-    },
-    {
       "rank": 12,
-      "fullName": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "programmingLanguage": "Go",
-      "stars": 139561,
-      "forks": 21020,
-      "starsInPeriod": 1969
-    },
-    {
-      "rank": 13,
-      "fullName": "lharries/whatsapp-mcp",
-      "url": "https://github.com/lharries/whatsapp-mcp",
-      "description": "WhatsApp MCP server",
-      "programmingLanguage": "Go",
-      "stars": 6802,
-      "forks": 1476,
-      "starsInPeriod": 436
-    },
-    {
-      "rank": 14,
-      "fullName": "kubernetes/kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
-      "programmingLanguage": "Go",
-      "stars": 128647,
-      "forks": 45748,
-      "starsInPeriod": 1856
-    },
-    {
-      "rank": 15,
-      "fullName": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "programmingLanguage": "Go",
-      "stars": 111731,
-      "forks": 15409,
-      "starsInPeriod": 662
-    },
-    {
-      "rank": 16,
       "fullName": "keploy/keploy",
       "url": "https://github.com/keploy/keploy",
       "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
       "programmingLanguage": "Go",
-      "stars": 19303,
-      "forks": 2448,
+      "stars": 19397,
+      "forks": 2447,
       "starsInPeriod": 849
+    },
+    {
+      "rank": 13,
+      "fullName": "docker/docker-agent",
+      "url": "https://github.com/docker/docker-agent",
+      "description": "AI Agent Builder and Runtime by Docker Engineering",
+      "programmingLanguage": "Go",
+      "stars": 4654,
+      "forks": 550,
+      "starsInPeriod": 1292
+    },
+    {
+      "rank": 14,
+      "fullName": "lharries/whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "description": "WhatsApp MCP server",
+      "programmingLanguage": "Go",
+      "stars": 6808,
+      "forks": 1481,
+      "starsInPeriod": 436
+    },
+    {
+      "rank": 15,
+      "fullName": "rasonyang/ai-native-callcenter",
+      "url": "https://github.com/rasonyang/ai-native-callcenter",
+      "description": "Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (OpenAI, Grok, Qwen, Doubao, or any compatible gateway).",
+      "programmingLanguage": "Go",
+      "stars": 527,
+      "forks": 98,
+      "starsInPeriod": 332
+    },
+    {
+      "rank": 16,
+      "fullName": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "programmingLanguage": "Go",
+      "stars": 111730,
+      "forks": 15393,
+      "starsInPeriod": 662
     },
     {
       "rank": 17,
@@ -174,49 +174,49 @@
       "url": "https://github.com/slavakurilyak/awesome-ai-agents",
       "description": "Awesome list of 300+ agentic AI resources",
       "programmingLanguage": "Go",
-      "stars": 2873,
-      "forks": 745,
+      "stars": 2879,
+      "forks": 749,
       "starsInPeriod": 587
     },
     {
       "rank": 18,
-      "fullName": "rasonyang/ai-native-callcenter",
-      "url": "https://github.com/rasonyang/ai-native-callcenter",
-      "description": "Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (OpenAI, Grok, Qwen, Doubao, or any compatible gateway).",
-      "programmingLanguage": "Go",
-      "stars": 524,
-      "forks": 98,
-      "starsInPeriod": 332
-    },
-    {
-      "rank": 19,
       "fullName": "XTLS/Xray-core",
       "url": "https://github.com/XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "programmingLanguage": "Go",
-      "stars": 42605,
-      "forks": 6101,
+      "stars": 42622,
+      "forks": 6107,
       "starsInPeriod": 836
     },
     {
-      "rank": 20,
-      "fullName": "Gaurav-Gosain/tuios",
-      "url": "https://github.com/Gaurav-Gosain/tuios",
-      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
-      "programmingLanguage": "Go",
-      "stars": 6331,
-      "forks": 302,
-      "starsInPeriod": 1756
-    },
-    {
-      "rank": 21,
+      "rank": 19,
       "fullName": "rclone/rclone",
       "url": "https://github.com/rclone/rclone",
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "programmingLanguage": "Go",
-      "stars": 60782,
-      "forks": 5646,
+      "stars": 60800,
+      "forks": 5650,
       "starsInPeriod": 802
+    },
+    {
+      "rank": 20,
+      "fullName": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "programmingLanguage": "Go",
+      "stars": 139564,
+      "forks": 20987,
+      "starsInPeriod": 1969
+    },
+    {
+      "rank": 21,
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "programmingLanguage": "Go",
+      "stars": 30669,
+      "forks": 2333,
+      "starsInPeriod": 1075
     }
   ]
 }

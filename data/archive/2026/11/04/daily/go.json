@@ -5,10 +5,24 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-11-04T06:18:24Z",
+  "updatedAt": "2026-11-04T19:44:23Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
+    {
+      "fullName": "Asymptote-Labs/agent-beacon",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
+      "programmingLanguage": "Go",
+      "stars": 3274,
+      "forks": 288,
+      "starsInPeriod": 75,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-11-04T06:18:24Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
+      "appearances": 2
+    },
     {
       "fullName": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
@@ -38,17 +52,31 @@
       "appearances": 1
     },
     {
-      "fullName": "Asymptote-Labs/agent-beacon",
-      "url": "https://github.com/Asymptote-Labs/agent-beacon",
-      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
+      "fullName": "guohuiyuan/go-music-dl",
+      "url": "https://github.com/guohuiyuan/go-music-dl",
+      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "programmingLanguage": "Go",
-      "stars": 3248,
-      "forks": 288,
-      "starsInPeriod": 193,
+      "stars": 5990,
+      "forks": 570,
+      "starsInPeriod": 99,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "programmingLanguage": "Go",
+      "stars": 8792,
+      "forks": 690,
+      "starsInPeriod": 173,
       "bestRank": 3,
       "latestRank": 3,
-      "firstSeenAt": "2026-11-04T06:18:24Z",
-      "lastSeenAt": "2026-11-04T06:18:24Z",
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
       "appearances": 1
     },
     {
@@ -66,17 +94,45 @@
       "appearances": 1
     },
     {
+      "fullName": "xpzouying/xiaohongshu-mcp",
+      "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+      "description": "MCP for xiaohongshu.com",
+      "programmingLanguage": "Go",
+      "stars": 16899,
+      "forks": 2480,
+      "starsInPeriod": 46,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
+      "appearances": 1
+    },
+    {
       "fullName": "argoproj/argo-cd",
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 24533,
+      "stars": 24541,
       "forks": 8092,
-      "starsInPeriod": 11,
+      "starsInPeriod": 14,
+      "bestRank": 5,
+      "latestRank": 17,
+      "firstSeenAt": "2026-11-04T06:18:24Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "pocket-id/pocket-id",
+      "url": "https://github.com/pocket-id/pocket-id",
+      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
+      "programmingLanguage": "Go",
+      "stars": 9992,
+      "forks": 350,
+      "starsInPeriod": 41,
       "bestRank": 5,
       "latestRank": 5,
-      "firstSeenAt": "2026-11-04T06:18:24Z",
-      "lastSeenAt": "2026-11-04T06:18:24Z",
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
       "appearances": 1
     },
     {
@@ -94,6 +150,20 @@
       "appearances": 1
     },
     {
+      "fullName": "m5stack/StackChan",
+      "url": "https://github.com/m5stack/StackChan",
+      "description": "StackChan open source!",
+      "programmingLanguage": "Go",
+      "stars": 1494,
+      "forks": 421,
+      "starsInPeriod": 3,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
+      "appearances": 1
+    },
+    {
       "fullName": "gastownhall/beads",
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
@@ -105,6 +175,20 @@
       "latestRank": 7,
       "firstSeenAt": "2026-11-04T06:18:24Z",
       "lastSeenAt": "2026-11-04T06:18:24Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "programmingLanguage": "Go",
+      "stars": 17896,
+      "forks": 5848,
+      "starsInPeriod": 3,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
       "appearances": 1
     },
     {
@@ -122,17 +206,45 @@
       "appearances": 1
     },
     {
+      "fullName": "QuantumNous/new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
+      "programmingLanguage": "Go",
+      "stars": 51362,
+      "forks": 12471,
+      "starsInPeriod": 73,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
+      "appearances": 1
+    },
+    {
       "fullName": "gdy666/lucky",
       "url": "https://github.com/gdy666/lucky",
       "description": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser",
       "programmingLanguage": "Go",
-      "stars": 8321,
-      "forks": 747,
-      "starsInPeriod": 15,
+      "stars": 8327,
+      "forks": 746,
+      "starsInPeriod": 8,
+      "bestRank": 9,
+      "latestRank": 14,
+      "firstSeenAt": "2026-11-04T06:18:24Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "programmingLanguage": "Go",
+      "stars": 17269,
+      "forks": 1645,
+      "starsInPeriod": 9,
       "bestRank": 9,
       "latestRank": 9,
-      "firstSeenAt": "2026-11-04T06:18:24Z",
-      "lastSeenAt": "2026-11-04T06:18:24Z",
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
       "appearances": 1
     },
     {
@@ -150,6 +262,20 @@
       "appearances": 1
     },
     {
+      "fullName": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "programmingLanguage": "Go",
+      "stars": 36481,
+      "forks": 4986,
+      "starsInPeriod": 107,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
+      "appearances": 1
+    },
+    {
       "fullName": "mayswind/ezbookkeeping",
       "url": "https://github.com/mayswind/ezbookkeeping",
       "description": "ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.",
@@ -161,6 +287,20 @@
       "latestRank": 11,
       "firstSeenAt": "2026-11-04T06:18:24Z",
       "lastSeenAt": "2026-11-04T06:18:24Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "egoist/kero",
+      "url": "https://github.com/egoist/kero",
+      "description": "A cross-platform native terminal app optimized for agents",
+      "programmingLanguage": "Go",
+      "stars": 1415,
+      "forks": 139,
+      "starsInPeriod": 30,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
       "appearances": 1
     },
     {
@@ -178,6 +318,20 @@
       "appearances": 1
     },
     {
+      "fullName": "moby/buildkit",
+      "url": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "programmingLanguage": "Go",
+      "stars": 10362,
+      "forks": 1563,
+      "starsInPeriod": 2,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
+      "appearances": 1
+    },
+    {
       "fullName": "avelino/awesome-go",
       "url": "https://github.com/avelino/awesome-go",
       "description": "A curated list of awesome Go frameworks, libraries and software",
@@ -189,6 +343,20 @@
       "latestRank": 13,
       "firstSeenAt": "2026-11-04T06:18:24Z",
       "lastSeenAt": "2026-11-04T06:18:24Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "mcpjungle/MCPJungle",
+      "url": "https://github.com/mcpjungle/MCPJungle",
+      "description": "One place to manage & connect to all your MCP servers",
+      "programmingLanguage": "Go",
+      "stars": 1585,
+      "forks": 200,
+      "starsInPeriod": 47,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
       "appearances": 1
     },
     {
@@ -220,6 +388,20 @@
       "appearances": 1
     },
     {
+      "fullName": "ys-ll/uniterm",
+      "url": "https://github.com/ys-ll/uniterm",
+      "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
+      "programmingLanguage": "Go",
+      "stars": 1031,
+      "forks": 166,
+      "starsInPeriod": 10,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
+      "appearances": 1
+    },
+    {
       "fullName": "Christ9038/Ydisks-Xianyu-Helper",
       "url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper",
       "description": "闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建",
@@ -231,6 +413,34 @@
       "latestRank": 16,
       "firstSeenAt": "2026-11-04T06:18:24Z",
       "lastSeenAt": "2026-11-04T06:18:24Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "ccfos/nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.",
+      "programmingLanguage": "Go",
+      "stars": 13439,
+      "forks": 1797,
+      "starsInPeriod": 10,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "programmingLanguage": "Go",
+      "stars": 50203,
+      "forks": 4577,
+      "starsInPeriod": 41,
+      "bestRank": 18,
+      "latestRank": 18,
+      "firstSeenAt": "2026-11-04T19:44:23Z",
+      "lastSeenAt": "2026-11-04T19:44:23Z",
       "appearances": 1
     }
   ]
