@@ -5,10 +5,24 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "updatedAt": "2026-11-05T06:44:41Z",
+  "updatedAt": "2026-11-05T19:56:50Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
+    {
+      "fullName": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "programmingLanguage": "TypeScript",
+      "stars": 139843,
+      "forks": 20686,
+      "starsInPeriod": 608,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-11-05T06:44:41Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
+      "appearances": 2
+    },
     {
       "fullName": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
@@ -24,17 +38,17 @@
       "appearances": 1
     },
     {
-      "fullName": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "fullName": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": null,
       "programmingLanguage": "TypeScript",
-      "stars": 139492,
-      "forks": 20646,
-      "starsInPeriod": 290,
+      "stars": 48057,
+      "forks": 9589,
+      "starsInPeriod": 1983,
       "bestRank": 2,
       "latestRank": 2,
-      "firstSeenAt": "2026-11-05T06:44:41Z",
-      "lastSeenAt": "2026-11-05T06:44:41Z",
+      "firstSeenAt": "2026-11-05T19:56:50Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
       "appearances": 1
     },
     {
@@ -52,6 +66,20 @@
       "appearances": 1
     },
     {
+      "fullName": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "programmingLanguage": "TypeScript",
+      "stars": 13315,
+      "forks": 693,
+      "starsInPeriod": 237,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-11-05T19:56:50Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
+      "appearances": 1
+    },
+    {
       "fullName": "Crosstalk-Solutions/project-nomad",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
@@ -64,6 +92,34 @@
       "firstSeenAt": "2026-11-05T06:44:41Z",
       "lastSeenAt": "2026-11-05T06:44:41Z",
       "appearances": 1
+    },
+    {
+      "fullName": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "programmingLanguage": "TypeScript",
+      "stars": 118323,
+      "forks": 7491,
+      "starsInPeriod": 105,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-05T19:56:50Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "liguobao/ds-harness-remote",
+      "url": "https://github.com/liguobao/ds-harness-remote",
+      "description": "基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)",
+      "programmingLanguage": "TypeScript",
+      "stars": 1934,
+      "forks": 159,
+      "starsInPeriod": 218,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-05T06:44:41Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
+      "appearances": 2
     },
     {
       "fullName": "melgarafael/DeskcommCRM",
@@ -84,13 +140,27 @@
       "url": "https://github.com/elie222/rakazo",
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "programmingLanguage": "TypeScript",
-      "stars": 7067,
-      "forks": 1244,
-      "starsInPeriod": 158,
+      "stars": 7169,
+      "forks": 1261,
+      "starsInPeriod": 169,
+      "bestRank": 6,
+      "latestRank": 12,
+      "firstSeenAt": "2026-11-05T06:44:41Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "KenKaiii/gg-framework",
+      "url": "https://github.com/KenKaiii/gg-framework",
+      "description": "The coding agent that gets more out of your AI subscription. Fastest and leanest of 20 agents tested, with unlimited local search of real open-source code.",
+      "programmingLanguage": "TypeScript",
+      "stars": 201,
+      "forks": 41,
+      "starsInPeriod": 27,
       "bestRank": 6,
       "latestRank": 6,
-      "firstSeenAt": "2026-11-05T06:44:41Z",
-      "lastSeenAt": "2026-11-05T06:44:41Z",
+      "firstSeenAt": "2026-11-05T19:56:50Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
       "appearances": 1
     },
     {
@@ -108,6 +178,20 @@
       "appearances": 1
     },
     {
+      "fullName": "southleft/figma-console-mcp",
+      "url": "https://github.com/southleft/figma-console-mcp",
+      "description": "Your design system as an API. Connect AI to Figma for extraction, creation, and debugging.",
+      "programmingLanguage": "TypeScript",
+      "stars": 3133,
+      "forks": 286,
+      "starsInPeriod": 242,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-05T19:56:50Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
+      "appearances": 1
+    },
+    {
       "fullName": "QwenLM/qwen-code",
       "url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
@@ -119,6 +203,20 @@
       "latestRank": 8,
       "firstSeenAt": "2026-11-05T06:44:41Z",
       "lastSeenAt": "2026-11-05T06:44:41Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "github/docs",
+      "url": "https://github.com/github/docs",
+      "description": "The open-source repo for docs.github.com",
+      "programmingLanguage": "TypeScript",
+      "stars": 21302,
+      "forks": 69398,
+      "starsInPeriod": 178,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-05T19:56:50Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
       "appearances": 1
     },
     {
@@ -136,6 +234,20 @@
       "appearances": 1
     },
     {
+      "fullName": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "programmingLanguage": "TypeScript",
+      "stars": 9696,
+      "forks": 629,
+      "starsInPeriod": 55,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-05T19:56:50Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
+      "appearances": 1
+    },
+    {
       "fullName": "jo-duchan/tapflow",
       "url": "https://github.com/jo-duchan/tapflow",
       "description": "Self-hosted iOS & Android simulator streaming for the whole team",
@@ -147,6 +259,20 @@
       "latestRank": 10,
       "firstSeenAt": "2026-11-05T06:44:41Z",
       "lastSeenAt": "2026-11-05T06:44:41Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "programmingLanguage": "TypeScript",
+      "stars": 74045,
+      "forks": 5081,
+      "starsInPeriod": 116,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-05T19:56:50Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
       "appearances": 1
     },
     {
@@ -164,17 +290,17 @@
       "appearances": 1
     },
     {
-      "fullName": "liguobao/ds-harness-remote",
-      "url": "https://github.com/liguobao/ds-harness-remote",
-      "description": "基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)",
+      "fullName": "awslabs/aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
       "programmingLanguage": "TypeScript",
-      "stars": 1806,
-      "forks": 152,
-      "starsInPeriod": 231,
-      "bestRank": 12,
-      "latestRank": 12,
-      "firstSeenAt": "2026-11-05T06:44:41Z",
-      "lastSeenAt": "2026-11-05T06:44:41Z",
+      "stars": 5702,
+      "forks": 1027,
+      "starsInPeriod": 25,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-11-05T19:56:50Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
       "appearances": 1
     },
     {
@@ -189,6 +315,20 @@
       "latestRank": 13,
       "firstSeenAt": "2026-11-05T06:44:41Z",
       "lastSeenAt": "2026-11-05T06:44:41Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "mihomo-party-org/clash-party",
+      "url": "https://github.com/mihomo-party-org/clash-party",
+      "description": "Another Mihomo GUI.",
+      "programmingLanguage": "TypeScript",
+      "stars": 27142,
+      "forks": 2132,
+      "starsInPeriod": 14,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-11-05T19:56:50Z",
+      "lastSeenAt": "2026-11-05T19:56:50Z",
       "appearances": 1
     },
     {

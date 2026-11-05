@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=monthly",
-  "observedAt": "2026-11-05T06:43:57Z",
+  "observedAt": "2026-11-05T19:56:05Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 431889,
-      "forks": 107325,
+      "stars": 433889,
+      "forks": 107709,
       "starsInPeriod": 430285
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "programmingLanguage": "C++",
-      "stars": 51255,
-      "forks": 4879,
+      "stars": 51437,
+      "forks": 4896,
       "starsInPeriod": 47878
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 59794,
-      "forks": 3891,
+      "stars": 61112,
+      "forks": 3970,
       "starsInPeriod": 34859
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "programmingLanguage": "CSS",
-      "stars": 48156,
-      "forks": 2553,
+      "stars": 48634,
+      "forks": 2579,
       "starsInPeriod": 18210
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "programmingLanguage": "TypeScript",
-      "stars": 79105,
-      "forks": 7283,
+      "stars": 79460,
+      "forks": 7314,
       "starsInPeriod": 22621
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 101235,
-      "forks": 11208,
+      "stars": 101780,
+      "forks": 11291,
       "starsInPeriod": 48420
     },
     {
@@ -74,79 +74,59 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "programmingLanguage": "Java",
-      "stars": 97921,
-      "forks": 11072,
+      "stars": 98088,
+      "forks": 11098,
       "starsInPeriod": 17528
     },
     {
       "rank": 8,
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "programmingLanguage": "Python",
-      "stars": 34764,
-      "forks": 3832,
-      "starsInPeriod": 8764
-    },
-    {
-      "rank": 9,
       "fullName": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "programmingLanguage": "TypeScript",
-      "stars": 113076,
-      "forks": 9820,
+      "stars": 113461,
+      "forks": 9847,
       "starsInPeriod": 17262
     },
     {
-      "rank": 10,
+      "rank": 9,
       "fullName": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": null,
       "programmingLanguage": "TypeScript",
-      "stars": 46969,
-      "forks": 9492,
+      "stars": 48056,
+      "forks": 9589,
       "starsInPeriod": 20763
     },
     {
-      "rank": 11,
+      "rank": 10,
       "fullName": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 103111,
-      "forks": 6101,
+      "stars": 103769,
+      "forks": 6145,
       "starsInPeriod": 26803
     },
     {
+      "rank": 11,
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "programmingLanguage": "Python",
+      "stars": 34846,
+      "forks": 3838,
+      "starsInPeriod": 8764
+    },
+    {
       "rank": 12,
-      "fullName": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Design physical products with AI",
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "programmingLanguage": "Python",
-      "stars": 25491,
-      "forks": 2415,
-      "starsInPeriod": 8831
-    },
-    {
-      "rank": 13,
-      "fullName": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "programmingLanguage": "Python",
-      "stars": 46160,
-      "forks": 4797,
-      "starsInPeriod": 8948
-    },
-    {
-      "rank": 14,
-      "fullName": "tester-army/e2e",
-      "url": "https://github.com/tester-army/e2e",
-      "description": "Next generation e2e testing framework for web and mobile apps.",
-      "programmingLanguage": "TypeScript",
-      "stars": 13237,
-      "forks": 689,
-      "starsInPeriod": 10748
+      "stars": 55393,
+      "forks": 6791,
+      "starsInPeriod": 14543
     }
   ]
 }

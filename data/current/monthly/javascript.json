@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=monthly",
-  "observedAt": "2026-11-05T06:44:38Z",
+  "observedAt": "2026-11-05T19:56:47Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,29 +14,29 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 59795,
-      "forks": 3891,
+      "stars": 61114,
+      "forks": 3970,
       "starsInPeriod": 34859
     },
     {
       "rank": 2,
+      "fullName": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "programmingLanguage": "JavaScript",
+      "stars": 110553,
+      "forks": 7428,
+      "starsInPeriod": 18051
+    },
+    {
+      "rank": 3,
       "fullName": "michael-denyer/pstack-claude",
       "url": "https://github.com/michael-denyer/pstack-claude",
       "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "programmingLanguage": "JavaScript",
-      "stars": 3990,
-      "forks": 358,
+      "stars": 4042,
+      "forks": 360,
       "starsInPeriod": 2899
-    },
-    {
-      "rank": 3,
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "programmingLanguage": "JavaScript",
-      "stars": 113331,
-      "forks": 11851,
-      "starsInPeriod": 12609
     },
     {
       "rank": 4,
@@ -44,8 +44,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 297401,
-      "forks": 43971,
+      "stars": 297765,
+      "forks": 44031,
       "starsInPeriod": 26022
     },
     {
@@ -54,49 +54,49 @@
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 37865,
-      "forks": 2713,
+      "stars": 38000,
+      "forks": 2724,
       "starsInPeriod": 16976
     },
     {
       "rank": 6,
-      "fullName": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
-      "programmingLanguage": "JavaScript",
-      "stars": 19426,
-      "forks": 2586,
-      "starsInPeriod": 16507
-    },
-    {
-      "rank": 7,
-      "fullName": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "description": null,
-      "programmingLanguage": "JavaScript",
-      "stars": 7597,
-      "forks": 1237,
-      "starsInPeriod": 2969
-    },
-    {
-      "rank": 8,
       "fullName": "mrdoob/three.js",
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
       "programmingLanguage": "JavaScript",
-      "stars": 117594,
-      "forks": 36870,
+      "stars": 117633,
+      "forks": 36875,
       "starsInPeriod": 1694
     },
     {
-      "rank": 9,
-      "fullName": "algorithm-visualizer/algorithm-visualizer",
-      "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
-      "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+      "rank": 7,
+      "fullName": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "programmingLanguage": "JavaScript",
-      "stars": 49390,
-      "forks": 7647,
-      "starsInPeriod": 594
+      "stars": 19678,
+      "forks": 2624,
+      "starsInPeriod": 16507
+    },
+    {
+      "rank": 8,
+      "fullName": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": null,
+      "programmingLanguage": "JavaScript",
+      "stars": 7611,
+      "forks": 1238,
+      "starsInPeriod": 2969
+    },
+    {
+      "rank": 9,
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "programmingLanguage": "JavaScript",
+      "stars": 113471,
+      "forks": 11862,
+      "starsInPeriod": 12609
     },
     {
       "rank": 10,
@@ -104,39 +104,29 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "programmingLanguage": "JavaScript",
-      "stars": 21702,
-      "forks": 1225,
+      "stars": 21779,
+      "forks": 1233,
       "starsInPeriod": 4932
     },
     {
       "rank": 11,
-      "fullName": "itsPLK/ps5-payload-manager",
-      "url": "https://github.com/itsPLK/ps5-payload-manager",
-      "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
+      "fullName": "algorithm-visualizer/algorithm-visualizer",
+      "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+      "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
       "programmingLanguage": "JavaScript",
-      "stars": 716,
-      "forks": 78,
-      "starsInPeriod": 293
+      "stars": 49393,
+      "forks": 7647,
+      "starsInPeriod": 594
     },
     {
       "rank": 12,
-      "fullName": "PenglongHuang/chinese-novelist-skill",
-      "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
-      "description": "🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill",
+      "fullName": "plugin87/ux-ui-agent-skills",
+      "url": "https://github.com/plugin87/ux-ui-agent-skills",
+      "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
       "programmingLanguage": "JavaScript",
-      "stars": 4644,
-      "forks": 628,
-      "starsInPeriod": 1393
-    },
-    {
-      "rank": 13,
-      "fullName": "sveltejs/svelte",
-      "url": "https://github.com/sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "programmingLanguage": "JavaScript",
-      "stars": 88560,
-      "forks": 6786,
-      "starsInPeriod": 730
+      "stars": 3105,
+      "forks": 298,
+      "starsInPeriod": 1601
     }
   ]
 }

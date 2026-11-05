@@ -4,159 +4,139 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-11-05T06:44:41Z",
+  "observedAt": "2026-11-05T19:56:50Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "programmingLanguage": "TypeScript",
-      "stars": 113076,
-      "forks": 9820,
-      "starsInPeriod": 1172
-    },
-    {
-      "rank": 2,
       "fullName": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "programmingLanguage": "TypeScript",
-      "stars": 139492,
-      "forks": 20646,
-      "starsInPeriod": 290
+      "stars": 139843,
+      "forks": 20686,
+      "starsInPeriod": 608
+    },
+    {
+      "rank": 2,
+      "fullName": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": null,
+      "programmingLanguage": "TypeScript",
+      "stars": 48057,
+      "forks": 9589,
+      "starsInPeriod": 1983
     },
     {
       "rank": 3,
-      "fullName": "spotify/portal-ai-plugins",
-      "url": "https://github.com/spotify/portal-ai-plugins",
-      "description": null,
+      "fullName": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
       "programmingLanguage": "TypeScript",
-      "stars": 3155,
-      "forks": 248,
-      "starsInPeriod": 227
+      "stars": 13315,
+      "forks": 693,
+      "starsInPeriod": 237
     },
     {
       "rank": 4,
-      "fullName": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "fullName": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
       "programmingLanguage": "TypeScript",
-      "stars": 42232,
-      "forks": 4315,
-      "starsInPeriod": 166
+      "stars": 118323,
+      "forks": 7491,
+      "starsInPeriod": 105
     },
     {
       "rank": 5,
-      "fullName": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "programmingLanguage": "TypeScript",
-      "stars": 5155,
-      "forks": 1470,
-      "starsInPeriod": 30
-    },
-    {
-      "rank": 6,
-      "fullName": "elie222/rakazo",
-      "url": "https://github.com/elie222/rakazo",
-      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "programmingLanguage": "TypeScript",
-      "stars": 7067,
-      "forks": 1244,
-      "starsInPeriod": 158
-    },
-    {
-      "rank": 7,
-      "fullName": "mermaid-js/mermaid",
-      "url": "https://github.com/mermaid-js/mermaid",
-      "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
-      "programmingLanguage": "TypeScript",
-      "stars": 91017,
-      "forks": 9457,
-      "starsInPeriod": 23
-    },
-    {
-      "rank": 8,
-      "fullName": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "programmingLanguage": "TypeScript",
-      "stars": 29013,
-      "forks": 3315,
-      "starsInPeriod": 54
-    },
-    {
-      "rank": 9,
-      "fullName": "vercel-labs/scriptc",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "description": "TypeScript-to-Native Compiler",
-      "programmingLanguage": "TypeScript",
-      "stars": 6502,
-      "forks": 210,
-      "starsInPeriod": 9
-    },
-    {
-      "rank": 10,
-      "fullName": "jo-duchan/tapflow",
-      "url": "https://github.com/jo-duchan/tapflow",
-      "description": "Self-hosted iOS & Android simulator streaming for the whole team",
-      "programmingLanguage": "TypeScript",
-      "stars": 1594,
-      "forks": 168,
-      "starsInPeriod": 10
-    },
-    {
-      "rank": 11,
-      "fullName": "openobserve/openobserve",
-      "url": "https://github.com/openobserve/openobserve",
-      "description": "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
-      "programmingLanguage": "TypeScript",
-      "stars": 22805,
-      "forks": 1179,
-      "starsInPeriod": 35
-    },
-    {
-      "rank": 12,
       "fullName": "liguobao/ds-harness-remote",
       "url": "https://github.com/liguobao/ds-harness-remote",
       "description": "基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)",
       "programmingLanguage": "TypeScript",
-      "stars": 1806,
-      "forks": 152,
-      "starsInPeriod": 231
+      "stars": 1934,
+      "forks": 159,
+      "starsInPeriod": 218
     },
     {
-      "rank": 13,
-      "fullName": "humanlayer/skills",
-      "url": "https://github.com/humanlayer/skills",
-      "description": null,
+      "rank": 6,
+      "fullName": "KenKaiii/gg-framework",
+      "url": "https://github.com/KenKaiii/gg-framework",
+      "description": "The coding agent that gets more out of your AI subscription. Fastest and leanest of 20 agents tested, with unlimited local search of real open-source code.",
       "programmingLanguage": "TypeScript",
-      "stars": 5610,
-      "forks": 190,
+      "stars": 201,
+      "forks": 41,
       "starsInPeriod": 27
     },
     {
-      "rank": 14,
-      "fullName": "hieunc229/mailflare",
-      "url": "https://github.com/hieunc229/mailflare",
-      "description": "Email for professionals and teams",
+      "rank": 7,
+      "fullName": "southleft/figma-console-mcp",
+      "url": "https://github.com/southleft/figma-console-mcp",
+      "description": "Your design system as an API. Connect AI to Figma for extraction, creation, and debugging.",
       "programmingLanguage": "TypeScript",
-      "stars": 5656,
-      "forks": 859,
-      "starsInPeriod": 76
+      "stars": 3133,
+      "forks": 286,
+      "starsInPeriod": 242
     },
     {
-      "rank": 15,
-      "fullName": "Renhuai123/ziwei-doushu",
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "rank": 8,
+      "fullName": "github/docs",
+      "url": "https://github.com/github/docs",
+      "description": "The open-source repo for docs.github.com",
       "programmingLanguage": "TypeScript",
-      "stars": 15916,
-      "forks": 3082,
-      "starsInPeriod": 890
+      "stars": 21302,
+      "forks": 69398,
+      "starsInPeriod": 178
+    },
+    {
+      "rank": 9,
+      "fullName": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "programmingLanguage": "TypeScript",
+      "stars": 9696,
+      "forks": 629,
+      "starsInPeriod": 55
+    },
+    {
+      "rank": 10,
+      "fullName": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "programmingLanguage": "TypeScript",
+      "stars": 74045,
+      "forks": 5081,
+      "starsInPeriod": 116
+    },
+    {
+      "rank": 11,
+      "fullName": "awslabs/aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "programmingLanguage": "TypeScript",
+      "stars": 5702,
+      "forks": 1027,
+      "starsInPeriod": 25
+    },
+    {
+      "rank": 12,
+      "fullName": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "programmingLanguage": "TypeScript",
+      "stars": 7169,
+      "forks": 1261,
+      "starsInPeriod": 169
+    },
+    {
+      "rank": 13,
+      "fullName": "mihomo-party-org/clash-party",
+      "url": "https://github.com/mihomo-party-org/clash-party",
+      "description": "Another Mihomo GUI.",
+      "programmingLanguage": "TypeScript",
+      "stars": 27142,
+      "forks": 2132,
+      "starsInPeriod": 14
     }
   ]
 }

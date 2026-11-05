@@ -4,204 +4,144 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Thu, 05 Nov 2026 06:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 19:56:29 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-11-05T06:44:21Z</ght:observedAt>
+    <ght:observedAt>2026-11-05T19:56:29Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
-      <title>Asymptote-Labs/agent-beacon</title>
-      <link>https://github.com/Asymptote-Labs/agent-beacon</link>
-      <description>The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu</description>
-      <guid isPermaLink="true">https://github.com/Asymptote-Labs/agent-beacon</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
+      <title>aquasecurity/trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>3295</ght:stars>
-      <ght:forks>290</ght:forks>
-      <ght:starsInPeriod>73</ght:starsInPeriod>
+      <ght:stars>39030</ght:stars>
+      <ght:forks>823</ght:forks>
+      <ght:starsInPeriod>46</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>hashicorp/terraform-provider-azurerm</title>
+      <link>https://github.com/hashicorp/terraform-provider-azurerm</link>
+      <description>Terraform provider for Azure Resource Manager</description>
+      <guid isPermaLink="true">https://github.com/hashicorp/terraform-provider-azurerm</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>2</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4982</ght:stars>
+      <ght:forks>5076</ght:forks>
+      <ght:starsInPeriod>2</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>CarterPerez-dev/Cybersecurity-Projects</title>
+      <link>https://github.com/CarterPerez-dev/Cybersecurity-Projects</link>
+      <description>Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Owned by my cybersecurity company 👇</description>
+      <guid isPermaLink="true">https://github.com/CarterPerez-dev/Cybersecurity-Projects</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>3</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>9213</ght:stars>
+      <ght:forks>1352</ght:forks>
+      <ght:starsInPeriod>124</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>gosom/google-maps-scraper</title>
+      <link>https://github.com/gosom/google-maps-scraper</link>
+      <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
+      <guid isPermaLink="true">https://github.com/gosom/google-maps-scraper</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>4</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7375</ght:stars>
+      <ght:forks>1158</ght:forks>
+      <ght:starsInPeriod>59</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>vxcontrol/pentagi</title>
+      <link>https://github.com/vxcontrol/pentagi</link>
+      <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
+      <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>5</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>33422</ght:stars>
+      <ght:forks>5222</ght:forks>
+      <ght:starsInPeriod>135</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>openchoreo/openchoreo</title>
+      <link>https://github.com/openchoreo/openchoreo</link>
+      <description>OpenChoreo is an internal developer platform for Kubernetes</description>
+      <guid isPermaLink="true">https://github.com/openchoreo/openchoreo</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>6</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>1806</ght:stars>
+      <ght:forks>280</ght:forks>
+      <ght:starsInPeriod>36</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>caddyserver/caddy</title>
+      <link>https://github.com/caddyserver/caddy</link>
+      <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
+      <guid isPermaLink="true">https://github.com/caddyserver/caddy</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>7</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>78808</ght:stars>
+      <ght:forks>5232</ght:forks>
+      <ght:starsInPeriod>50</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>MHSanaei/3x-ui</title>
+      <link>https://github.com/MHSanaei/3x-ui</link>
+      <description>Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)</description>
+      <guid isPermaLink="true">https://github.com/MHSanaei/3x-ui</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>49369</ght:stars>
+      <ght:forks>12651</ght:forks>
+      <ght:starsInPeriod>95</ght:starsInPeriod>
     </item>
     <item>
       <title>guohuiyuan/go-music-dl</title>
       <link>https://github.com/guohuiyuan/go-music-dl</link>
       <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
       <guid isPermaLink="true">https://github.com/guohuiyuan/go-music-dl</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6014</ght:stars>
-      <ght:forks>570</ght:forks>
-      <ght:starsInPeriod>87</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>superplanehq/superplane</title>
-      <link>https://github.com/superplanehq/superplane</link>
-      <description>Open source factory for one-shot engineering</description>
-      <guid isPermaLink="true">https://github.com/superplanehq/superplane</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>8799</ght:stars>
-      <ght:forks>691</ght:forks>
-      <ght:starsInPeriod>58</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>xpzouying/xiaohongshu-mcp</title>
-      <link>https://github.com/xpzouying/xiaohongshu-mcp</link>
-      <description>MCP for xiaohongshu.com</description>
-      <guid isPermaLink="true">https://github.com/xpzouying/xiaohongshu-mcp</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>16910</ght:stars>
-      <ght:forks>2481</ght:forks>
-      <ght:starsInPeriod>43</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>pocket-id/pocket-id</title>
-      <link>https://github.com/pocket-id/pocket-id</link>
-      <description>The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.</description>
-      <guid isPermaLink="true">https://github.com/pocket-id/pocket-id</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>10009</ght:stars>
-      <ght:forks>350</ght:forks>
-      <ght:starsInPeriod>38</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>m5stack/StackChan</title>
-      <link>https://github.com/m5stack/StackChan</link>
-      <description>StackChan open source!</description>
-      <guid isPermaLink="true">https://github.com/m5stack/StackChan</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1497</ght:stars>
-      <ght:forks>422</ght:forks>
-      <ght:starsInPeriod>2</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>influxdata/telegraf</title>
-      <link>https://github.com/influxdata/telegraf</link>
-      <description>Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</description>
-      <guid isPermaLink="true">https://github.com/influxdata/telegraf</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>17896</ght:stars>
-      <ght:forks>5849</ght:forks>
-      <ght:starsInPeriod>3</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>QuantumNous/new-api</title>
-      <link>https://github.com/QuantumNous/new-api</link>
-      <description>Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.</description>
-      <guid isPermaLink="true">https://github.com/QuantumNous/new-api</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>8</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>51399</ght:stars>
-      <ght:forks>12483</ght:forks>
-      <ght:starsInPeriod>75</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>coder/coder</title>
-      <link>https://github.com/coder/coder</link>
-      <description>Secure environments for developers and their agents</description>
-      <guid isPermaLink="true">https://github.com/coder/coder</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
       <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>17279</ght:stars>
-      <ght:forks>1646</ght:forks>
-      <ght:starsInPeriod>10</ght:starsInPeriod>
+      <ght:stars>6033</ght:stars>
+      <ght:forks>571</ght:forks>
+      <ght:starsInPeriod>56</ght:starsInPeriod>
     </item>
     <item>
-      <title>Tencent/WeKnora</title>
-      <link>https://github.com/Tencent/WeKnora</link>
-      <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
-      <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
+      <title>trufflesecurity/trufflehog</title>
+      <link>https://github.com/trufflesecurity/trufflehog</link>
+      <description>Find, verify, and analyze leaked credentials</description>
+      <guid isPermaLink="true">https://github.com/trufflesecurity/trufflehog</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
       <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>36526</ght:stars>
-      <ght:forks>4994</ght:forks>
-      <ght:starsInPeriod>103</ght:starsInPeriod>
+      <ght:stars>28888</ght:stars>
+      <ght:forks>2693</ght:forks>
+      <ght:starsInPeriod>34</ght:starsInPeriod>
     </item>
     <item>
-      <title>egoist/kero</title>
-      <link>https://github.com/egoist/kero</link>
-      <description>A cross-platform native terminal app optimized for agents</description>
-      <guid isPermaLink="true">https://github.com/egoist/kero</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
+      <title>dsx-ai-factory/nvke</title>
+      <link>https://github.com/dsx-ai-factory/nvke</link>
+      <description>NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</description>
+      <guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
       <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1419</ght:stars>
-      <ght:forks>141</ght:forks>
-      <ght:starsInPeriod>27</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>moby/buildkit</title>
-      <link>https://github.com/moby/buildkit</link>
-      <description>concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit</description>
-      <guid isPermaLink="true">https://github.com/moby/buildkit</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>12</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>10369</ght:stars>
-      <ght:forks>1563</ght:forks>
-      <ght:starsInPeriod>2</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>mcpjungle/MCPJungle</title>
-      <link>https://github.com/mcpjungle/MCPJungle</link>
-      <description>One place to manage &amp; connect to all your MCP servers</description>
-      <guid isPermaLink="true">https://github.com/mcpjungle/MCPJungle</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>13</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1598</ght:stars>
-      <ght:forks>201</ght:forks>
-      <ght:starsInPeriod>51</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>gdy666/lucky</title>
-      <link>https://github.com/gdy666/lucky</link>
-      <description>软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser</description>
-      <guid isPermaLink="true">https://github.com/gdy666/lucky</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>14</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>8334</ght:stars>
-      <ght:forks>746</ght:forks>
-      <ght:starsInPeriod>7</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>ys-ll/uniterm</title>
-      <link>https://github.com/ys-ll/uniterm</link>
-      <description>All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.</description>
-      <guid isPermaLink="true">https://github.com/ys-ll/uniterm</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>15</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1038</ght:stars>
-      <ght:forks>169</ght:forks>
-      <ght:starsInPeriod>13</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>ccfos/nightingale</title>
-      <link>https://github.com/ccfos/nightingale</link>
-      <description>Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.</description>
-      <guid isPermaLink="true">https://github.com/ccfos/nightingale</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>16</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>13444</ght:stars>
-      <ght:forks>1797</ght:forks>
+      <ght:stars>78</ght:stars>
+      <ght:forks>66</ght:forks>
       <ght:starsInPeriod>3</ght:starsInPeriod>
     </item>
     <item>
@@ -209,24 +149,72 @@
       <link>https://github.com/argoproj/argo-cd</link>
       <description>Declarative Continuous Deployment for Kubernetes</description>
       <guid isPermaLink="true">https://github.com/argoproj/argo-cd</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>17</ght:rank>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>24545</ght:stars>
-      <ght:forks>8094</ght:forks>
+      <ght:stars>24550</ght:stars>
+      <ght:forks>8098</ght:forks>
       <ght:starsInPeriod>12</ght:starsInPeriod>
     </item>
     <item>
-      <title>mudler/LocalAI</title>
-      <link>https://github.com/mudler/LocalAI</link>
-      <description>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</description>
-      <guid isPermaLink="true">https://github.com/mudler/LocalAI</guid>
-      <pubDate>Thu, 05 Nov 2026 06:44:21 GMT</pubDate>
-      <ght:rank>18</ght:rank>
+      <title>gastownhall/beads</title>
+      <link>https://github.com/gastownhall/beads</link>
+      <description>Beads - A memory upgrade for your coding agent</description>
+      <guid isPermaLink="true">https://github.com/gastownhall/beads</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>13</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>50210</ght:stars>
-      <ght:forks>4577</ght:forks>
-      <ght:starsInPeriod>35</ght:starsInPeriod>
+      <ght:stars>28531</ght:stars>
+      <ght:forks>1932</ght:forks>
+      <ght:starsInPeriod>38</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>juicedata/juicefs</title>
+      <link>https://github.com/juicedata/juicefs</link>
+      <description>JuiceFS is a distributed POSIX file system built on top of Redis and S3.</description>
+      <guid isPermaLink="true">https://github.com/juicedata/juicefs</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>14</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>14683</ght:stars>
+      <ght:forks>1347</ght:forks>
+      <ght:starsInPeriod>17</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>kubernetes-sigs/controller-runtime</title>
+      <link>https://github.com/kubernetes-sigs/controller-runtime</link>
+      <description>Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)</description>
+      <guid isPermaLink="true">https://github.com/kubernetes-sigs/controller-runtime</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>15</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>2986</ght:stars>
+      <ght:forks>1333</ght:forks>
+      <ght:starsInPeriod>0</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>zzet/gortex</title>
+      <link>https://github.com/zzet/gortex</link>
+      <description>High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d</description>
+      <guid isPermaLink="true">https://github.com/zzet/gortex</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>2001</ght:stars>
+      <ght:forks>195</ght:forks>
+      <ght:starsInPeriod>33</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>siderolabs/talos</title>
+      <link>https://github.com/siderolabs/talos</link>
+      <description>Talos Linux is a modern Linux distribution built for Kubernetes.</description>
+      <guid isPermaLink="true">https://github.com/siderolabs/talos</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:29 GMT</pubDate>
+      <ght:rank>17</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>11470</ght:stars>
+      <ght:forks>940</ght:forks>
+      <ght:starsInPeriod>11</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

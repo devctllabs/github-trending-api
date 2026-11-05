@@ -4,49 +4,49 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-11-05T06:44:24Z",
+  "observedAt": "2026-11-05T19:56:33Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "docker/compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
+      "fullName": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 38606,
-      "forks": 5902,
-      "starsInPeriod": 149
+      "stars": 55030,
+      "forks": 7248,
+      "starsInPeriod": 822
     },
     {
       "rank": 2,
-      "fullName": "gastownhall/beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "programmingLanguage": "Go",
-      "stars": 28507,
-      "forks": 1928,
-      "starsInPeriod": 250
-    },
-    {
-      "rank": 3,
       "fullName": "netbirdio/netbird",
       "url": "https://github.com/netbirdio/netbird",
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "programmingLanguage": "Go",
-      "stars": 30694,
-      "forks": 1825,
+      "stars": 30711,
+      "forks": 1829,
       "starsInPeriod": 394
     },
     {
-      "rank": 4,
-      "fullName": "Billionmail/BillionMail",
-      "url": "https://github.com/Billionmail/BillionMail",
-      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "rank": 3,
+      "fullName": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 16189,
-      "forks": 1807,
-      "starsInPeriod": 235
+      "stars": 38616,
+      "forks": 5901,
+      "starsInPeriod": 149
+    },
+    {
+      "rank": 4,
+      "fullName": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "programmingLanguage": "Go",
+      "stars": 72554,
+      "forks": 2105,
+      "starsInPeriod": 106
     },
     {
       "rank": 5,
@@ -54,149 +54,159 @@
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 24545,
-      "forks": 8094,
+      "stars": 24550,
+      "forks": 8098,
       "starsInPeriod": 49
     },
     {
       "rank": 6,
-      "fullName": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-      "programmingLanguage": "Go",
-      "stars": 54948,
-      "forks": 7236,
-      "starsInPeriod": 822
-    },
-    {
-      "rank": 7,
-      "fullName": "mayswind/ezbookkeeping",
-      "url": "https://github.com/mayswind/ezbookkeeping",
-      "description": "ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.",
-      "programmingLanguage": "Go",
-      "stars": 5991,
-      "forks": 745,
-      "starsInPeriod": 143
-    },
-    {
-      "rank": 8,
-      "fullName": "tinygo-org/tinygo",
-      "url": "https://github.com/tinygo-org/tinygo",
-      "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
-      "programmingLanguage": "Go",
-      "stars": 17896,
-      "forks": 1105,
-      "starsInPeriod": 40
-    },
-    {
-      "rank": 9,
       "fullName": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
       "programmingLanguage": "Go",
-      "stars": 93536,
-      "forks": 11229,
+      "stars": 93612,
+      "forks": 11240,
       "starsInPeriod": 531
     },
     {
-      "rank": 10,
-      "fullName": "m5stack/StackChan",
-      "url": "https://github.com/m5stack/StackChan",
-      "description": "StackChan open source!",
+      "rank": 7,
+      "fullName": "Billionmail/BillionMail",
+      "url": "https://github.com/Billionmail/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "programmingLanguage": "Go",
-      "stars": 1497,
-      "forks": 422,
-      "starsInPeriod": 44
+      "stars": 16190,
+      "forks": 1807,
+      "starsInPeriod": 235
     },
     {
-      "rank": 11,
-      "fullName": "fleetdm/fleet",
-      "url": "https://github.com/fleetdm/fleet",
-      "description": "Open device management",
+      "rank": 8,
+      "fullName": "mayswind/ezbookkeeping",
+      "url": "https://github.com/mayswind/ezbookkeeping",
+      "description": "ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.",
       "programmingLanguage": "Go",
-      "stars": 7134,
-      "forks": 1115,
-      "starsInPeriod": 68
+      "stars": 5997,
+      "forks": 746,
+      "starsInPeriod": 143
     },
     {
-      "rank": 12,
-      "fullName": "tailscale/tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "programmingLanguage": "Go",
-      "stars": 38660,
-      "forks": 3427,
-      "starsInPeriod": 432
-    },
-    {
-      "rank": 13,
-      "fullName": "QuantumNous/new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
-      "programmingLanguage": "Go",
-      "stars": 51399,
-      "forks": 12483,
-      "starsInPeriod": 519
-    },
-    {
-      "rank": 14,
-      "fullName": "rclone/rclone",
-      "url": "https://github.com/rclone/rclone",
-      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
-      "programmingLanguage": "Go",
-      "stars": 60810,
-      "forks": 5651,
-      "starsInPeriod": 215
-    },
-    {
-      "rank": 15,
-      "fullName": "nektos/act",
-      "url": "https://github.com/nektos/act",
-      "description": "Run your GitHub Actions locally 🚀",
-      "programmingLanguage": "Go",
-      "stars": 72543,
-      "forks": 2101,
-      "starsInPeriod": 106
-    },
-    {
-      "rank": 16,
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "programmingLanguage": "Go",
-      "stars": 117569,
-      "forks": 6824,
-      "starsInPeriod": 1851
-    },
-    {
-      "rank": 17,
-      "fullName": "fatedier/frp",
-      "url": "https://github.com/fatedier/frp",
-      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
-      "programmingLanguage": "Go",
-      "stars": 110448,
-      "forks": 15303,
-      "starsInPeriod": 239
-    },
-    {
-      "rank": 18,
+      "rank": 9,
       "fullName": "go-gitea/gitea",
       "url": "https://github.com/go-gitea/gitea",
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 58894,
-      "forks": 7356,
+      "stars": 58913,
+      "forks": 7362,
       "starsInPeriod": 172
     },
     {
-      "rank": 19,
-      "fullName": "XTLS/Xray-core",
-      "url": "https://github.com/XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "rank": 10,
+      "fullName": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 42631,
-      "forks": 6108,
-      "starsInPeriod": 244
+      "stars": 28531,
+      "forks": 1932,
+      "starsInPeriod": 250
+    },
+    {
+      "rank": 11,
+      "fullName": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "programmingLanguage": "Go",
+      "stars": 186020,
+      "forks": 18908,
+      "starsInPeriod": 929
+    },
+    {
+      "rank": 12,
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 117728,
+      "forks": 6839,
+      "starsInPeriod": 1851
+    },
+    {
+      "rank": 13,
+      "fullName": "grafana/loki",
+      "url": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "programmingLanguage": "Go",
+      "stars": 29130,
+      "forks": 4176,
+      "starsInPeriod": 44
+    },
+    {
+      "rank": 14,
+      "fullName": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "programmingLanguage": "Go",
+      "stars": 110457,
+      "forks": 15304,
+      "starsInPeriod": 239
+    },
+    {
+      "rank": 15,
+      "fullName": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "programmingLanguage": "Go",
+      "stars": 25781,
+      "forks": 4215,
+      "starsInPeriod": 53
+    },
+    {
+      "rank": 16,
+      "fullName": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "programmingLanguage": "Go",
+      "stars": 38683,
+      "forks": 3426,
+      "starsInPeriod": 432
+    },
+    {
+      "rank": 17,
+      "fullName": "QuantumNous/new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
+      "programmingLanguage": "Go",
+      "stars": 51436,
+      "forks": 12489,
+      "starsInPeriod": 519
+    },
+    {
+      "rank": 18,
+      "fullName": "m5stack/StackChan",
+      "url": "https://github.com/m5stack/StackChan",
+      "description": "StackChan open source!",
+      "programmingLanguage": "Go",
+      "stars": 1503,
+      "forks": 422,
+      "starsInPeriod": 44
+    },
+    {
+      "rank": 19,
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "programmingLanguage": "Go",
+      "stars": 30711,
+      "forks": 2340,
+      "starsInPeriod": 238
+    },
+    {
+      "rank": 20,
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 39030,
+      "forks": 823,
+      "starsInPeriod": 189
     }
   ]
 }
