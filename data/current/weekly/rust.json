@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-11-06T06:41:12Z",
+  "observedAt": "2026-11-06T19:23:21Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 11636,
-      "forks": 445,
+      "stars": 11771,
+      "forks": 452,
       "starsInPeriod": 1802
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 104166,
-      "forks": 6173,
+      "stars": 104661,
+      "forks": 6214,
       "starsInPeriod": 9303
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/herdrdev/herdr",
       "description": "the runtime your coding agents live on",
       "programmingLanguage": "Rust",
-      "stars": 48352,
-      "forks": 3891,
+      "stars": 48557,
+      "forks": 3903,
       "starsInPeriod": 1798
     },
     {
@@ -44,149 +44,149 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "programmingLanguage": "Rust",
-      "stars": 133394,
-      "forks": 21140,
+      "stars": 133475,
+      "forks": 21150,
       "starsInPeriod": 1912
     },
     {
       "rank": 5,
-      "fullName": "cjpais/Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "programmingLanguage": "Rust",
-      "stars": 37722,
-      "forks": 3556,
-      "starsInPeriod": 2608
-    },
-    {
-      "rank": 6,
-      "fullName": "agentgateway/agentgateway",
-      "url": "https://github.com/agentgateway/agentgateway",
-      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
-      "programmingLanguage": "Rust",
-      "stars": 5968,
-      "forks": 1059,
-      "starsInPeriod": 187
-    },
-    {
-      "rank": 7,
-      "fullName": "leepokai/Codync",
-      "url": "https://github.com/leepokai/Codync",
-      "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
-      "programmingLanguage": "Rust",
-      "stars": 1910,
-      "forks": 197,
-      "starsInPeriod": 909
-    },
-    {
-      "rank": 8,
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "programmingLanguage": "Rust",
-      "stars": 46077,
-      "forks": 3155,
-      "starsInPeriod": 888
-    },
-    {
-      "rank": 9,
       "fullName": "zed-industries/zed",
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "programmingLanguage": "Rust",
-      "stars": 92914,
-      "forks": 11447,
+      "stars": 93398,
+      "forks": 11482,
       "starsInPeriod": 509
     },
     {
-      "rank": 10,
-      "fullName": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "rank": 6,
+      "fullName": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "programmingLanguage": "Rust",
-      "stars": 6176,
-      "forks": 574,
-      "starsInPeriod": 550
+      "stars": 37800,
+      "forks": 3568,
+      "starsInPeriod": 2608
     },
     {
-      "rank": 11,
+      "rank": 7,
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "programmingLanguage": "Rust",
+      "stars": 46283,
+      "forks": 3170,
+      "starsInPeriod": 888
+    },
+    {
+      "rank": 8,
+      "fullName": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "description": "Local voice dictation for mac, windows and linux",
+      "programmingLanguage": "Rust",
+      "stars": 5490,
+      "forks": 320,
+      "starsInPeriod": 4306
+    },
+    {
+      "rank": 9,
+      "fullName": "leepokai/Codync",
+      "url": "https://github.com/leepokai/Codync",
+      "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
+      "programmingLanguage": "Rust",
+      "stars": 1928,
+      "forks": 200,
+      "starsInPeriod": 909
+    },
+    {
+      "rank": 10,
       "fullName": "xai-org/x-algorithm",
       "url": "https://github.com/xai-org/x-algorithm",
       "description": "Algorithm powering the For You feed on X",
       "programmingLanguage": "Rust",
-      "stars": 34106,
-      "forks": 5511,
+      "stars": 34116,
+      "forks": 5512,
       "starsInPeriod": 220
     },
     {
+      "rank": 11,
+      "fullName": "agentgateway/agentgateway",
+      "url": "https://github.com/agentgateway/agentgateway",
+      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+      "programmingLanguage": "Rust",
+      "stars": 5990,
+      "forks": 1060,
+      "starsInPeriod": 187
+    },
+    {
       "rank": 12,
+      "fullName": "crmne/zapfast",
+      "url": "https://github.com/crmne/zapfast",
+      "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
+      "programmingLanguage": "Rust",
+      "stars": 3244,
+      "forks": 340,
+      "starsInPeriod": 903
+    },
+    {
+      "rank": 13,
+      "fullName": "clap-rs/clap",
+      "url": "https://github.com/clap-rs/clap",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "programmingLanguage": "Rust",
+      "stars": 16883,
+      "forks": 1298,
+      "starsInPeriod": 150
+    },
+    {
+      "rank": 14,
+      "fullName": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "programmingLanguage": "Rust",
+      "stars": 108854,
+      "forks": 6640,
+      "starsInPeriod": 259
+    },
+    {
+      "rank": 15,
+      "fullName": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "programmingLanguage": "Rust",
+      "stars": 50580,
+      "forks": 2600,
+      "starsInPeriod": 257
+    },
+    {
+      "rank": 16,
       "fullName": "SimoHypers/limusic",
       "url": "https://github.com/SimoHypers/limusic",
       "description": "Feature rich, native desktop, YouTube Music client.",
       "programmingLanguage": "Rust",
-      "stars": 1830,
+      "stars": 1854,
       "forks": 119,
       "starsInPeriod": 371
     },
     {
-      "rank": 13,
-      "fullName": "Nasiko-Labs/nasiko",
-      "url": "https://github.com/Nasiko-Labs/nasiko",
-      "description": "The Open Runtime for AI Agents",
-      "programmingLanguage": "Rust",
-      "stars": 11839,
-      "forks": 3224,
-      "starsInPeriod": 1309
-    },
-    {
-      "rank": 14,
+      "rank": 17,
       "fullName": "janhq/jan",
       "url": "https://github.com/janhq/jan",
       "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
       "programmingLanguage": "Rust",
-      "stars": 45505,
-      "forks": 3155,
+      "stars": 45532,
+      "forks": 3154,
       "starsInPeriod": 387
     },
     {
-      "rank": 15,
-      "fullName": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "programmingLanguage": "Rust",
-      "stars": 25233,
-      "forks": 920,
-      "starsInPeriod": 660
-    },
-    {
-      "rank": 16,
-      "fullName": "fastrepl/anarlog",
-      "url": "https://github.com/fastrepl/anarlog",
-      "description": "Open source Granola AI Alternative",
-      "programmingLanguage": "Rust",
-      "stars": 9784,
-      "forks": 830,
-      "starsInPeriod": 162
-    },
-    {
-      "rank": 17,
-      "fullName": "CapSoftware/Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
-      "programmingLanguage": "Rust",
-      "stars": 24462,
-      "forks": 2261,
-      "starsInPeriod": 370
-    },
-    {
       "rank": 18,
-      "fullName": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for open models like Kimi K3 and GLM 5.3",
+      "fullName": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
       "programmingLanguage": "Rust",
-      "stars": 68809,
-      "forks": 5935,
-      "starsInPeriod": 112
+      "stars": 40884,
+      "forks": 2337,
+      "starsInPeriod": 162
     }
   ]
 }

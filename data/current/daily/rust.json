@@ -4,149 +4,209 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-06T06:41:09Z",
+  "observedAt": "2026-11-06T19:23:17Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
+      "fullName": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "programmingLanguage": "Rust",
-      "stars": 17293,
-      "forks": 1231,
-      "starsInPeriod": 2173
+      "stars": 93398,
+      "forks": 11482,
+      "starsInPeriod": 292
     },
     {
       "rank": 2,
+      "fullName": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "programmingLanguage": "Rust",
+      "stars": 121322,
+      "forks": 17359,
+      "starsInPeriod": 186
+    },
+    {
+      "rank": 3,
+      "fullName": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "programmingLanguage": "Rust",
+      "stars": 40884,
+      "forks": 2337,
+      "starsInPeriod": 88
+    },
+    {
+      "rank": 4,
+      "fullName": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "programmingLanguage": "Rust",
+      "stars": 50580,
+      "forks": 2600,
+      "starsInPeriod": 107
+    },
+    {
+      "rank": 5,
+      "fullName": "tokio-rs/tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "programmingLanguage": "Rust",
+      "stars": 33651,
+      "forks": 4503,
+      "starsInPeriod": 89
+    },
+    {
+      "rank": 6,
       "fullName": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 11636,
-      "forks": 445,
-      "starsInPeriod": 546
+      "stars": 11771,
+      "forks": 452,
+      "starsInPeriod": 421
     },
     {
-      "rank": 3,
+      "rank": 7,
+      "fullName": "orhun/git-cliff",
+      "url": "https://github.com/orhun/git-cliff",
+      "description": "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️",
+      "programmingLanguage": "Rust",
+      "stars": 12423,
+      "forks": 361,
+      "starsInPeriod": 111
+    },
+    {
+      "rank": 8,
+      "fullName": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "programmingLanguage": "Rust",
+      "stars": 38396,
+      "forks": 3884,
+      "starsInPeriod": 52
+    },
+    {
+      "rank": 9,
       "fullName": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 46077,
-      "forks": 3155,
-      "starsInPeriod": 150
-    },
-    {
-      "rank": 4,
-      "fullName": "crmne/zapfast",
-      "url": "https://github.com/crmne/zapfast",
-      "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
-      "programmingLanguage": "Rust",
-      "stars": 3163,
-      "forks": 331,
-      "starsInPeriod": 296
-    },
-    {
-      "rank": 5,
-      "fullName": "tembo/voxl",
-      "url": "https://github.com/tembo/voxl",
-      "description": "extremely fast web remote desktop streaming",
-      "programmingLanguage": "Rust",
-      "stars": 1249,
-      "forks": 63,
-      "starsInPeriod": 214
-    },
-    {
-      "rank": 6,
-      "fullName": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "programmingLanguage": "Rust",
-      "stars": 128376,
-      "forks": 20376,
-      "starsInPeriod": 139
-    },
-    {
-      "rank": 7,
-      "fullName": "longbridge/gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "programmingLanguage": "Rust",
-      "stars": 19480,
-      "forks": 1212,
-      "starsInPeriod": 285
-    },
-    {
-      "rank": 8,
-      "fullName": "googleworkspace/cli",
-      "url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "programmingLanguage": "Rust",
-      "stars": 32137,
-      "forks": 1986,
-      "starsInPeriod": 22
-    },
-    {
-      "rank": 9,
-      "fullName": "jdx/mise",
-      "url": "https://github.com/jdx/mise",
-      "description": "dev tools, env vars, task runner",
-      "programmingLanguage": "Rust",
-      "stars": 35841,
-      "forks": 1527,
-      "starsInPeriod": 42
+      "stars": 46283,
+      "forks": 3170,
+      "starsInPeriod": 613
     },
     {
       "rank": 10,
-      "fullName": "clash-verge-rev/clash-verge-rev",
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "fullName": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
       "programmingLanguage": "Rust",
-      "stars": 156614,
-      "forks": 11254,
-      "starsInPeriod": 246
+      "stars": 108854,
+      "forks": 6640,
+      "starsInPeriod": 153
     },
     {
       "rank": 11,
-      "fullName": "crmne/spotifast",
-      "url": "https://github.com/crmne/spotifast",
-      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "fullName": "slint-ui/slint",
+      "url": "https://github.com/slint-ui/slint",
+      "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
       "programmingLanguage": "Rust",
-      "stars": 9783,
-      "forks": 575,
-      "starsInPeriod": 93
+      "stars": 24425,
+      "forks": 1059,
+      "starsInPeriod": 26
     },
     {
       "rank": 12,
-      "fullName": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
+      "fullName": "rerun-io/rerun",
+      "url": "https://github.com/rerun-io/rerun",
+      "description": "Visualize, query, and stream to train on multimodal robotics data.",
       "programmingLanguage": "Rust",
-      "stars": 133394,
-      "forks": 21140,
-      "starsInPeriod": 172
+      "stars": 11715,
+      "forks": 890,
+      "starsInPeriod": 14
     },
     {
       "rank": 13,
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "fullName": "sharkdp/fd",
+      "url": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
       "programmingLanguage": "Rust",
-      "stars": 104166,
-      "forks": 6173,
-      "starsInPeriod": 1280
+      "stars": 45029,
+      "forks": 1286,
+      "starsInPeriod": 100
     },
     {
       "rank": 14,
-      "fullName": "pydantic/monty",
-      "url": "https://github.com/pydantic/monty",
-      "description": "A secure Python sandbox, written in Rust, for code written by AI.",
+      "fullName": "foundry-rs/foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 8844,
-      "forks": 487,
-      "starsInPeriod": 10
+      "stars": 10766,
+      "forks": 2719,
+      "starsInPeriod": 7
+    },
+    {
+      "rank": 15,
+      "fullName": "rust-lang/rust-clippy",
+      "url": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "programmingLanguage": "Rust",
+      "stars": 13625,
+      "forks": 2237,
+      "starsInPeriod": 4
+    },
+    {
+      "rank": 16,
+      "fullName": "sharkdp/bat",
+      "url": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "programmingLanguage": "Rust",
+      "stars": 61149,
+      "forks": 3058,
+      "starsInPeriod": 128
+    },
+    {
+      "rank": 17,
+      "fullName": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "programmingLanguage": "Rust",
+      "stars": 96610,
+      "forks": 5264,
+      "starsInPeriod": 93
+    },
+    {
+      "rank": 18,
+      "fullName": "windmill-labs/windmill",
+      "url": "https://github.com/windmill-labs/windmill",
+      "description": "Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.",
+      "programmingLanguage": "Rust",
+      "stars": 18440,
+      "forks": 1139,
+      "starsInPeriod": 31
+    },
+    {
+      "rank": 19,
+      "fullName": "rust-lang/cargo",
+      "url": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "programmingLanguage": "Rust",
+      "stars": 15680,
+      "forks": 3114,
+      "starsInPeriod": 7
+    },
+    {
+      "rank": 20,
+      "fullName": "rivet-dev/rivet",
+      "url": "https://github.com/rivet-dev/rivet",
+      "description": "The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.",
+      "programmingLanguage": "Rust",
+      "stars": 6755,
+      "forks": 310,
+      "starsInPeriod": 136
     }
   ]
 }

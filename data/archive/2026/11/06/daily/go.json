@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-11-06T06:41:19Z",
+  "updatedAt": "2026-11-06T19:23:27Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,13 +14,27 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 39048,
-      "forks": 827,
-      "starsInPeriod": 39,
+      "stars": 39069,
+      "forks": 832,
+      "starsInPeriod": 58,
+      "bestRank": 1,
+      "latestRank": 17,
+      "firstSeenAt": "2026-11-06T06:41:19Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "programmingLanguage": "Go",
+      "stars": 67086,
+      "forks": 10979,
+      "starsInPeriod": 140,
       "bestRank": 1,
       "latestRank": 1,
-      "firstSeenAt": "2026-11-06T06:41:19Z",
-      "lastSeenAt": "2026-11-06T06:41:19Z",
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
       "appearances": 1
     },
     {
@@ -38,6 +52,20 @@
       "appearances": 1
     },
     {
+      "fullName": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "programmingLanguage": "Go",
+      "stars": 52554,
+      "forks": 10583,
+      "starsInPeriod": 123,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
       "fullName": "CarterPerez-dev/Cybersecurity-Projects",
       "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
       "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Owned by my cybersecurity company 👇",
@@ -49,6 +77,20 @@
       "latestRank": 3,
       "firstSeenAt": "2026-11-06T06:41:19Z",
       "lastSeenAt": "2026-11-06T06:41:19Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "programmingLanguage": "Go",
+      "stars": 139697,
+      "forks": 20987,
+      "starsInPeriod": 146,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
       "appearances": 1
     },
     {
@@ -66,6 +108,20 @@
       "appearances": 1
     },
     {
+      "fullName": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "programmingLanguage": "Go",
+      "stars": 128823,
+      "forks": 45743,
+      "starsInPeriod": 180,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
       "fullName": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
@@ -77,6 +133,20 @@
       "latestRank": 5,
       "firstSeenAt": "2026-11-06T06:41:19Z",
       "lastSeenAt": "2026-11-06T06:41:19Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "programmingLanguage": "Go",
+      "stars": 111803,
+      "forks": 15393,
+      "starsInPeriod": 144,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
       "appearances": 1
     },
     {
@@ -94,6 +164,20 @@
       "appearances": 1
     },
     {
+      "fullName": "kubevirt/kubevirt",
+      "url": "https://github.com/kubevirt/kubevirt",
+      "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+      "programmingLanguage": "Go",
+      "stars": 7169,
+      "forks": 1864,
+      "starsInPeriod": 2,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
       "fullName": "caddyserver/caddy",
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
@@ -105,6 +189,20 @@
       "latestRank": 7,
       "firstSeenAt": "2026-11-06T06:41:19Z",
       "lastSeenAt": "2026-11-06T06:41:19Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "programmingLanguage": "Go",
+      "stars": 21460,
+      "forks": 4195,
+      "starsInPeriod": 5,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
       "appearances": 1
     },
     {
@@ -122,6 +220,20 @@
       "appearances": 1
     },
     {
+      "fullName": "pingcap/tidb",
+      "url": "https://github.com/pingcap/tidb",
+      "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+      "programmingLanguage": "Go",
+      "stars": 40714,
+      "forks": 6292,
+      "starsInPeriod": 3,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
       "fullName": "guohuiyuan/go-music-dl",
       "url": "https://github.com/guohuiyuan/go-music-dl",
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
@@ -133,6 +245,20 @@
       "latestRank": 9,
       "firstSeenAt": "2026-11-06T06:41:19Z",
       "lastSeenAt": "2026-11-06T06:41:19Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "programmingLanguage": "Go",
+      "stars": 72306,
+      "forks": 19314,
+      "starsInPeriod": 151,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
       "appearances": 1
     },
     {
@@ -150,6 +276,20 @@
       "appearances": 1
     },
     {
+      "fullName": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "programmingLanguage": "Go",
+      "stars": 89539,
+      "forks": 8900,
+      "starsInPeriod": 129,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
       "fullName": "dsx-ai-factory/nvke",
       "url": "https://github.com/dsx-ai-factory/nvke",
       "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
@@ -161,6 +301,20 @@
       "latestRank": 11,
       "firstSeenAt": "2026-11-06T06:41:19Z",
       "lastSeenAt": "2026-11-06T06:41:19Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "programmingLanguage": "Go",
+      "stars": 17306,
+      "forks": 1651,
+      "starsInPeriod": 18,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
       "appearances": 1
     },
     {
@@ -178,6 +332,20 @@
       "appearances": 1
     },
     {
+      "fullName": "grafana/mimir",
+      "url": "https://github.com/grafana/mimir",
+      "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+      "programmingLanguage": "Go",
+      "stars": 5276,
+      "forks": 866,
+      "starsInPeriod": 2,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
       "fullName": "gastownhall/beads",
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
@@ -189,6 +357,20 @@
       "latestRank": 13,
       "firstSeenAt": "2026-11-06T06:41:19Z",
       "lastSeenAt": "2026-11-06T06:41:19Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "istio/istio",
+      "url": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "programmingLanguage": "Go",
+      "stars": 38491,
+      "forks": 8412,
+      "starsInPeriod": 5,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
       "appearances": 1
     },
     {
@@ -206,6 +388,20 @@
       "appearances": 1
     },
     {
+      "fullName": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+      "programmingLanguage": "Go",
+      "stars": 93685,
+      "forks": 11250,
+      "starsInPeriod": 99,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
       "fullName": "kubernetes-sigs/controller-runtime",
       "url": "https://github.com/kubernetes-sigs/controller-runtime",
       "description": "Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)",
@@ -217,6 +413,20 @@
       "latestRank": 15,
       "firstSeenAt": "2026-11-06T06:41:19Z",
       "lastSeenAt": "2026-11-06T06:41:19Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
+      "programmingLanguage": "Go",
+      "stars": 7142,
+      "forks": 1122,
+      "starsInPeriod": 6,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
       "appearances": 1
     },
     {
@@ -234,6 +444,20 @@
       "appearances": 1
     },
     {
+      "fullName": "kdlbs/kandev",
+      "url": "https://github.com/kdlbs/kandev",
+      "description": "AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.",
+      "programmingLanguage": "Go",
+      "stars": 1071,
+      "forks": 178,
+      "starsInPeriod": 5,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
       "fullName": "siderolabs/talos",
       "url": "https://github.com/siderolabs/talos",
       "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
@@ -245,6 +469,104 @@
       "latestRank": 17,
       "firstSeenAt": "2026-11-06T06:41:19Z",
       "lastSeenAt": "2026-11-06T06:41:19Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "open-policy-agent/opa",
+      "url": "https://github.com/open-policy-agent/opa",
+      "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+      "programmingLanguage": "Go",
+      "stars": 12441,
+      "forks": 1710,
+      "starsInPeriod": 10,
+      "bestRank": 18,
+      "latestRank": 18,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "programmingLanguage": "Go",
+      "stars": 55153,
+      "forks": 7270,
+      "starsInPeriod": 137,
+      "bestRank": 19,
+      "latestRank": 19,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "programmingLanguage": "Go",
+      "stars": 44800,
+      "forks": 4478,
+      "starsInPeriod": 128,
+      "bestRank": 20,
+      "latestRank": 20,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "ethereum-optimism/optimism",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism is Ethereum, scaled.",
+      "programmingLanguage": "Go",
+      "stars": 6491,
+      "forks": 4070,
+      "starsInPeriod": null,
+      "bestRank": 21,
+      "latestRank": 21,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "google/osv-scanner",
+      "url": "https://github.com/google/osv-scanner",
+      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+      "programmingLanguage": "Go",
+      "stars": 11432,
+      "forks": 845,
+      "starsInPeriod": 31,
+      "bestRank": 22,
+      "latestRank": 22,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "qax-os/excelize",
+      "url": "https://github.com/qax-os/excelize",
+      "description": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+      "programmingLanguage": "Go",
+      "stars": 21094,
+      "forks": 1994,
+      "starsInPeriod": 14,
+      "bestRank": 23,
+      "latestRank": 23,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "programmingLanguage": "Go",
+      "stars": 58925,
+      "forks": 7362,
+      "starsInPeriod": 29,
+      "bestRank": 24,
+      "latestRank": 24,
+      "firstSeenAt": "2026-11-06T19:23:27Z",
+      "lastSeenAt": "2026-11-06T19:23:27Z",
       "appearances": 1
     }
   ]

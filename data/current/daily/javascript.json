@@ -4,89 +4,189 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-11-06T06:41:29Z",
+  "observedAt": "2026-11-06T19:23:37Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "fullName": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
       "programmingLanguage": "JavaScript",
-      "stars": 14315,
-      "forks": 1656,
-      "starsInPeriod": 175
+      "stars": 252163,
+      "forks": 51801,
+      "starsInPeriod": 244
     },
     {
       "rank": 2,
-      "fullName": "michael-denyer/pstack-claude",
-      "url": "https://github.com/michael-denyer/pstack-claude",
-      "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 4076,
-      "forks": 365,
-      "starsInPeriod": 82
+      "stars": 63562,
+      "forks": 4121,
+      "starsInPeriod": 2524
     },
     {
       "rank": 3,
+      "fullName": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "programmingLanguage": "JavaScript",
+      "stars": 88605,
+      "forks": 6787,
+      "starsInPeriod": 141
+    },
+    {
+      "rank": 4,
+      "fullName": "fastify/fastify",
+      "url": "https://github.com/fastify/fastify",
+      "description": "Fast and low overhead web framework, for Node.js",
+      "programmingLanguage": "JavaScript",
+      "stars": 37368,
+      "forks": 3047,
+      "starsInPeriod": 14
+    },
+    {
+      "rank": 5,
+      "fullName": "Yu9191/wloc",
+      "url": "https://github.com/Yu9191/wloc",
+      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "programmingLanguage": "JavaScript",
+      "stars": 10627,
+      "forks": 2627,
+      "starsInPeriod": 127
+    },
+    {
+      "rank": 6,
+      "fullName": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "programmingLanguage": "JavaScript",
+      "stars": 123330,
+      "forks": 38727,
+      "starsInPeriod": 119
+    },
+    {
+      "rank": 7,
+      "fullName": "simple-icons/simple-icons",
+      "url": "https://github.com/simple-icons/simple-icons",
+      "description": "SVG icons for popular brands",
+      "programmingLanguage": "JavaScript",
+      "stars": 26169,
+      "forks": 3186,
+      "starsInPeriod": 12
+    },
+    {
+      "rank": 8,
       "fullName": "Anil-matcha/Open-Generative-AI",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "programmingLanguage": "JavaScript",
-      "stars": 32683,
-      "forks": 6200,
-      "starsInPeriod": 182
+      "stars": 32809,
+      "forks": 6232,
+      "starsInPeriod": 381
     },
     {
-      "rank": 4,
-      "fullName": "chaolucky18/xuexitongScript",
-      "url": "https://github.com/chaolucky18/xuexitongScript",
-      "description": "学习通自动刷课脚本",
+      "rank": 9,
+      "fullName": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
       "programmingLanguage": "JavaScript",
-      "stars": 3824,
-      "forks": 444,
-      "starsInPeriod": 48
+      "stars": 7787,
+      "forks": 1001,
+      "starsInPeriod": 14
     },
     {
-      "rank": 5,
-      "fullName": "Leaflet/Leaflet",
-      "url": "https://github.com/Leaflet/Leaflet",
-      "description": "🍃 number one JavaScript library for interactive maps 🇺🇦",
+      "rank": 10,
+      "fullName": "sveltejs/kit",
+      "url": "https://github.com/sveltejs/kit",
+      "description": "web development, streamlined",
       "programmingLanguage": "JavaScript",
-      "stars": 45862,
-      "forks": 6211,
-      "starsInPeriod": 24
+      "stars": 20903,
+      "forks": 2379,
+      "starsInPeriod": 4
     },
     {
-      "rank": 6,
+      "rank": 11,
+      "fullName": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "programmingLanguage": "JavaScript",
+      "stars": 14506,
+      "forks": 1672,
+      "starsInPeriod": 519
+    },
+    {
+      "rank": 12,
       "fullName": "usebruno/bruno",
       "url": "https://github.com/usebruno/bruno",
       "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
       "programmingLanguage": "JavaScript",
-      "stars": 48226,
-      "forks": 3084,
-      "starsInPeriod": 89
+      "stars": 48242,
+      "forks": 3087,
+      "starsInPeriod": 44
     },
     {
-      "rank": 7,
-      "fullName": "csyangwen/dsh-memory-evolve",
-      "url": "https://github.com/csyangwen/dsh-memory-evolve",
-      "description": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+      "rank": 13,
+      "fullName": "HaD0Yun/CozyClay",
+      "url": "https://github.com/HaD0Yun/CozyClay",
+      "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
       "programmingLanguage": "JavaScript",
-      "stars": 640,
-      "forks": 71,
-      "starsInPeriod": 26
+      "stars": 1553,
+      "forks": 180,
+      "starsInPeriod": 49
     },
     {
-      "rank": 8,
-      "fullName": "HunYiSage/dsh-purge",
-      "url": "https://github.com/HunYiSage/dsh-purge",
-      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "rank": 14,
+      "fullName": "expressjs/express",
+      "url": "https://github.com/expressjs/express",
+      "description": "Fast, unopinionated, minimalist web framework for node.",
       "programmingLanguage": "JavaScript",
-      "stars": 19467,
-      "forks": 4574,
-      "starsInPeriod": 1081
+      "stars": 69575,
+      "forks": 25382,
+      "starsInPeriod": 6
+    },
+    {
+      "rank": 15,
+      "fullName": "open-gsd/gsd-core",
+      "url": "https://github.com/open-gsd/gsd-core",
+      "description": "Git. Ship. Done - Core",
+      "programmingLanguage": "JavaScript",
+      "stars": 11300,
+      "forks": 813,
+      "starsInPeriod": 35
+    },
+    {
+      "rank": 16,
+      "fullName": "Leaflet/Leaflet",
+      "url": "https://github.com/Leaflet/Leaflet",
+      "description": "🍃 number one JavaScript library for interactive maps 🇺🇦",
+      "programmingLanguage": "JavaScript",
+      "stars": 45873,
+      "forks": 6211,
+      "starsInPeriod": 15
+    },
+    {
+      "rank": 17,
+      "fullName": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生",
+      "programmingLanguage": "JavaScript",
+      "stars": 70198,
+      "forks": 6979,
+      "starsInPeriod": 104
+    },
+    {
+      "rank": 18,
+      "fullName": "mnfst/awesome-free-llm-apis",
+      "url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "description": "List of Permanent Free LLM API (API Keys)",
+      "programmingLanguage": "JavaScript",
+      "stars": 12420,
+      "forks": 1454,
+      "starsInPeriod": 115
     }
   ]
 }

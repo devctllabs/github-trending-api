@@ -4,193 +4,229 @@
     <title>GitHub Trending — daily — all</title>
     <link>https://github.com/trending</link>
     <description>GitHub Trending — daily — all</description>
-    <lastBuildDate>Fri, 06 Nov 2026 06:40:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:22:57 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>all</ght:language>
-    <ght:observedAt>2026-11-06T06:40:49Z</ght:observedAt>
+    <ght:observedAt>2026-11-06T19:22:57Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
+    <item>
+      <title>zed-industries/zed</title>
+      <link>https://github.com/zed-industries/zed</link>
+      <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
+      <guid isPermaLink="true">https://github.com/zed-industries/zed</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
+      <ght:rank>1</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>93398</ght:stars>
+      <ght:forks>11482</ght:forks>
+      <ght:starsInPeriod>292</ght:starsInPeriod>
+    </item>
     <item>
       <title>NVIDIA/auto-ontology</title>
       <link>https://github.com/NVIDIA/auto-ontology</link>
       <description>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.</description>
       <guid isPermaLink="true">https://github.com/NVIDIA/auto-ontology</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
-      <ght:rank>1</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>7839</ght:stars>
-      <ght:forks>632</ght:forks>
-      <ght:starsInPeriod>2679</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <description>Skills for Real Engineers. Straight from my .agents directory.</description>
-      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
       <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>Shell</ght:programmingLanguage>
-      <ght:stars>315682</ght:stars>
-      <ght:forks>26423</ght:forks>
-      <ght:starsInPeriod>2071</ght:starsInPeriod>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>8761</ght:stars>
+      <ght:forks>706</ght:forks>
+      <ght:starsInPeriod>2005</ght:starsInPeriod>
     </item>
     <item>
-      <title>garrytan/gstack</title>
-      <link>https://github.com/garrytan/gstack</link>
-      <description>Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA</description>
-      <guid isPermaLink="true">https://github.com/garrytan/gstack</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
+      <title>rails/rails</title>
+      <link>https://github.com/rails/rails</link>
+      <description>Ruby on Rails</description>
+      <guid isPermaLink="true">https://github.com/rails/rails</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
       <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>140142</ght:stars>
-      <ght:forks>20706</ght:forks>
-      <ght:starsInPeriod>612</ght:starsInPeriod>
+      <ght:programmingLanguage>Ruby</ght:programmingLanguage>
+      <ght:stars>58953</ght:stars>
+      <ght:forks>23826</ght:forks>
+      <ght:starsInPeriod>152</ght:starsInPeriod>
     </item>
     <item>
-      <title>Usagi-org/ai-goofish-monitor</title>
-      <link>https://github.com/Usagi-org/ai-goofish-monitor</link>
-      <description>基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。</description>
-      <guid isPermaLink="true">https://github.com/Usagi-org/ai-goofish-monitor</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
+      <title>mpv-player/mpv</title>
+      <link>https://github.com/mpv-player/mpv</link>
+      <description>🎥 Command line media player</description>
+      <guid isPermaLink="true">https://github.com/mpv-player/mpv</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
       <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>17895</ght:stars>
-      <ght:forks>2971</ght:forks>
-      <ght:starsInPeriod>240</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>D4Vinci/Scrapling</title>
-      <link>https://github.com/D4Vinci/Scrapling</link>
-      <description>🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev</description>
-      <guid isPermaLink="true">https://github.com/D4Vinci/Scrapling</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>98306</ght:stars>
-      <ght:forks>10298</ght:forks>
-      <ght:starsInPeriod>1655</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>vercel-labs/agent-desktop</title>
-      <link>https://github.com/vercel-labs/agent-desktop</link>
-      <description>Computer use CLI for AI agents</description>
-      <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>17293</ght:stars>
-      <ght:forks>1231</ght:forks>
-      <ght:starsInPeriod>2173</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>max-sixty/worktrunk</title>
-      <link>https://github.com/max-sixty/worktrunk</link>
-      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
-      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>11635</ght:stars>
-      <ght:forks>445</ght:forks>
-      <ght:starsInPeriod>546</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>lz4/lz4</title>
-      <link>https://github.com/lz4/lz4</link>
-      <description>Extremely Fast Compression algorithm</description>
-      <guid isPermaLink="true">https://github.com/lz4/lz4</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
-      <ght:rank>8</ght:rank>
       <ght:programmingLanguage>C</ght:programmingLanguage>
-      <ght:stars>12461</ght:stars>
-      <ght:forks>1639</ght:forks>
-      <ght:starsInPeriod>23</ght:starsInPeriod>
+      <ght:stars>37832</ght:stars>
+      <ght:forks>3630</ght:forks>
+      <ght:starsInPeriod>36</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>rust-lang/rust</title>
+      <link>https://github.com/rust-lang/rust</link>
+      <description>Empowering everyone to build reliable and efficient software.</description>
+      <guid isPermaLink="true">https://github.com/rust-lang/rust</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
+      <ght:rank>5</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>121322</ght:stars>
+      <ght:forks>17359</ght:forks>
+      <ght:starsInPeriod>186</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>react/react</title>
+      <link>https://github.com/react/react</link>
+      <description>The library for web and native user interfaces.</description>
+      <guid isPermaLink="true">https://github.com/react/react</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
+      <ght:rank>6</ght:rank>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>252163</ght:stars>
+      <ght:forks>51801</ght:forks>
+      <ght:starsInPeriod>244</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>angular/angular</title>
+      <link>https://github.com/angular/angular</link>
+      <description>Deliver web apps with confidence 🚀</description>
+      <guid isPermaLink="true">https://github.com/angular/angular</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
+      <ght:rank>7</ght:rank>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>101244</ght:stars>
+      <ght:forks>28908</ght:forks>
+      <ght:starsInPeriod>128</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>symfony/symfony</title>
+      <link>https://github.com/symfony/symfony</link>
+      <description>The Symfony PHP framework</description>
+      <guid isPermaLink="true">https://github.com/symfony/symfony</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>PHP</ght:programmingLanguage>
+      <ght:stars>31336</ght:stars>
+      <ght:forks>9942</ght:forks>
+      <ght:starsInPeriod>89</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>prometheus/prometheus</title>
+      <link>https://github.com/prometheus/prometheus</link>
+      <description>The Prometheus monitoring system and time series database.</description>
+      <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
+      <ght:rank>9</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>67086</ght:stars>
+      <ght:forks>10979</ght:forks>
+      <ght:starsInPeriod>140</ght:starsInPeriod>
     </item>
     <item>
       <title>google/skills</title>
       <link>https://github.com/google/skills</link>
       <description>Agent Skills for Google products and technologies</description>
       <guid isPermaLink="true">https://github.com/google/skills</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
-      <ght:rank>9</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>22510</ght:stars>
-      <ght:forks>1896</ght:forks>
-      <ght:starsInPeriod>211</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>vercel-labs/agent-browser</title>
-      <link>https://github.com/vercel-labs/agent-browser</link>
-      <description>Browser automation CLI for AI agents</description>
-      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
       <ght:rank>10</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>46077</ght:stars>
-      <ght:forks>3155</ght:forks>
-      <ght:starsInPeriod>150</ght:starsInPeriod>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>22759</ght:stars>
+      <ght:forks>1915</ght:forks>
+      <ght:starsInPeriod>532</ght:starsInPeriod>
     </item>
     <item>
-      <title>scenario-labs/skills</title>
-      <link>https://github.com/scenario-labs/skills</link>
-      <description>Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.</description>
-      <guid isPermaLink="true">https://github.com/scenario-labs/skills</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
+      <title>microsoft/vscode</title>
+      <link>https://github.com/microsoft/vscode</link>
+      <description>Visual Studio Code</description>
+      <guid isPermaLink="true">https://github.com/microsoft/vscode</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
       <ght:rank>11</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>3233</ght:stars>
-      <ght:forks>280</ght:forks>
-      <ght:starsInPeriod>667</ght:starsInPeriod>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>194922</ght:stars>
+      <ght:forks>44413</ght:forks>
+      <ght:starsInPeriod>295</ght:starsInPeriod>
     </item>
     <item>
-      <title>ConardLi/garden-skills</title>
-      <link>https://github.com/ConardLi/garden-skills</link>
-      <description>ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.</description>
-      <guid isPermaLink="true">https://github.com/ConardLi/garden-skills</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
+      <title>lz4/lz4</title>
+      <link>https://github.com/lz4/lz4</link>
+      <description>Extremely Fast Compression algorithm</description>
+      <guid isPermaLink="true">https://github.com/lz4/lz4</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
       <ght:rank>12</ght:rank>
-      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>14315</ght:stars>
-      <ght:forks>1656</ght:forks>
-      <ght:starsInPeriod>175</ght:starsInPeriod>
+      <ght:programmingLanguage>C</ght:programmingLanguage>
+      <ght:stars>12612</ght:stars>
+      <ght:forks>1642</ght:forks>
+      <ght:starsInPeriod>313</ght:starsInPeriod>
     </item>
     <item>
-      <title>microsoft/VibeVoice</title>
-      <link>https://github.com/microsoft/VibeVoice</link>
-      <description>Open-Source Frontier Voice AI</description>
-      <guid isPermaLink="true">https://github.com/microsoft/VibeVoice</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
+      <title>nushell/nushell</title>
+      <link>https://github.com/nushell/nushell</link>
+      <description>A new type of shell</description>
+      <guid isPermaLink="true">https://github.com/nushell/nushell</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
       <ght:rank>13</ght:rank>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>56208</ght:stars>
-      <ght:forks>6331</ght:forks>
-      <ght:starsInPeriod>223</ght:starsInPeriod>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>40883</ght:stars>
+      <ght:forks>2337</ght:forks>
+      <ght:starsInPeriod>88</ght:starsInPeriod>
     </item>
     <item>
-      <title>floci-io/floci</title>
-      <link>https://github.com/floci-io/floci</link>
-      <description>Light, fluffy, and always free - The AWS Local Emulator alternative</description>
-      <guid isPermaLink="true">https://github.com/floci-io/floci</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
+      <title>etcd-io/etcd</title>
+      <link>https://github.com/etcd-io/etcd</link>
+      <description>Distributed reliable key-value store for the most critical data of a distributed system</description>
+      <guid isPermaLink="true">https://github.com/etcd-io/etcd</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
       <ght:rank>14</ght:rank>
-      <ght:programmingLanguage>Java</ght:programmingLanguage>
-      <ght:stars>30586</ght:stars>
-      <ght:forks>3339</ght:forks>
-      <ght:starsInPeriod>779</ght:starsInPeriod>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>52554</ght:stars>
+      <ght:forks>10583</ght:forks>
+      <ght:starsInPeriod>123</ght:starsInPeriod>
     </item>
     <item>
-      <title>JiaFeiMiao-K-Cat/DiscImageStudio</title>
-      <link>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</link>
-      <description />
-      <guid isPermaLink="true">https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</guid>
-      <pubDate>Fri, 06 Nov 2026 06:40:49 GMT</pubDate>
+      <title>openssl/openssl</title>
+      <link>https://github.com/openssl/openssl</link>
+      <description>General purpose TLS and crypto library</description>
+      <guid isPermaLink="true">https://github.com/openssl/openssl</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
       <ght:rank>15</ght:rank>
-      <ght:programmingLanguage>C#</ght:programmingLanguage>
-      <ght:stars>7448</ght:stars>
-      <ght:forks>266</ght:forks>
-      <ght:starsInPeriod>984</ght:starsInPeriod>
+      <ght:programmingLanguage>C</ght:programmingLanguage>
+      <ght:stars>31250</ght:stars>
+      <ght:forks>11581</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <description>Skills for Real Engineers. Straight from my .agents directory.</description>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>Shell</ght:programmingLanguage>
+      <ght:stars>316501</ght:stars>
+      <ght:forks>26475</ght:forks>
+      <ght:starsInPeriod>2058</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>cloudflare/security-audit-skill</title>
+      <link>https://github.com/cloudflare/security-audit-skill</link>
+      <description>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
+      <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
+      <ght:rank>17</ght:rank>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>63561</ght:stars>
+      <ght:forks>4120</ght:forks>
+      <ght:starsInPeriod>2524</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>astral-sh/ruff</title>
+      <link>https://github.com/astral-sh/ruff</link>
+      <description>An extremely fast Python linter and code formatter, written in Rust.</description>
+      <guid isPermaLink="true">https://github.com/astral-sh/ruff</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:57 GMT</pubDate>
+      <ght:rank>18</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>50580</ght:stars>
+      <ght:forks>2600</ght:forks>
+      <ght:starsInPeriod>107</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

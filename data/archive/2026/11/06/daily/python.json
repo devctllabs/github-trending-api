@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "updatedAt": "2026-11-06T06:40:59Z",
+  "updatedAt": "2026-11-06T19:23:07Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,14 +14,28 @@
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "programmingLanguage": "Python",
-      "stars": 7840,
-      "forks": 632,
-      "starsInPeriod": 2679,
+      "stars": 8761,
+      "forks": 706,
+      "starsInPeriod": 2005,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-11-06T06:40:59Z",
-      "lastSeenAt": "2026-11-06T06:40:59Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-06T19:23:07Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "programmingLanguage": "Python",
+      "stars": 22759,
+      "forks": 1915,
+      "starsInPeriod": 532,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-11-06T06:40:59Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
+      "appearances": 2
     },
     {
       "fullName": "Usagi-org/ai-goofish-monitor",
@@ -42,27 +56,41 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "programmingLanguage": "Python",
-      "stars": 98306,
-      "forks": 10298,
-      "starsInPeriod": 1655,
+      "stars": 98755,
+      "forks": 10343,
+      "starsInPeriod": 1312,
+      "bestRank": 3,
+      "latestRank": 15,
+      "firstSeenAt": "2026-11-06T06:40:59Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "psf/requests",
+      "url": "https://github.com/psf/requests",
+      "description": "A simple, yet elegant, HTTP library.",
+      "programmingLanguage": "Python",
+      "stars": 54656,
+      "forks": 11516,
+      "starsInPeriod": 126,
       "bestRank": 3,
       "latestRank": 3,
-      "firstSeenAt": "2026-11-06T06:40:59Z",
-      "lastSeenAt": "2026-11-06T06:40:59Z",
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
       "appearances": 1
     },
     {
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
+      "fullName": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
       "programmingLanguage": "Python",
-      "stars": 22511,
-      "forks": 1896,
-      "starsInPeriod": 211,
+      "stars": 15028,
+      "forks": 2913,
+      "starsInPeriod": 10,
       "bestRank": 4,
       "latestRank": 4,
-      "firstSeenAt": "2026-11-06T06:40:59Z",
-      "lastSeenAt": "2026-11-06T06:40:59Z",
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
       "appearances": 1
     },
     {
@@ -80,17 +108,45 @@
       "appearances": 1
     },
     {
+      "fullName": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "programmingLanguage": "Python",
+      "stars": 47398,
+      "forks": 18319,
+      "starsInPeriod": 16,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
+      "appearances": 1
+    },
+    {
       "fullName": "microsoft/VibeVoice",
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "programmingLanguage": "Python",
-      "stars": 56208,
-      "forks": 6331,
-      "starsInPeriod": 223,
+      "stars": 56422,
+      "forks": 6356,
+      "starsInPeriod": 1001,
+      "bestRank": 6,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-06T06:40:59Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "python-poetry/poetry",
+      "url": "https://github.com/python-poetry/poetry",
+      "description": "Python packaging and dependency management made easy",
+      "programmingLanguage": "Python",
+      "stars": 34373,
+      "forks": 2578,
+      "starsInPeriod": 129,
       "bestRank": 6,
       "latestRank": 6,
-      "firstSeenAt": "2026-11-06T06:40:59Z",
-      "lastSeenAt": "2026-11-06T06:40:59Z",
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
       "appearances": 1
     },
     {
@@ -105,6 +161,20 @@
       "latestRank": 7,
       "firstSeenAt": "2026-11-06T06:40:59Z",
       "lastSeenAt": "2026-11-06T06:40:59Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "airbytehq/airbyte",
+      "url": "https://github.com/airbytehq/airbyte",
+      "description": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
+      "programmingLanguage": "Python",
+      "stars": 22329,
+      "forks": 5442,
+      "starsInPeriod": 9,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
       "appearances": 1
     },
     {
@@ -136,6 +206,20 @@
       "appearances": 1
     },
     {
+      "fullName": "pandas-dev/pandas",
+      "url": "https://github.com/pandas-dev/pandas",
+      "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+      "programmingLanguage": "Python",
+      "stars": 50454,
+      "forks": 20718,
+      "starsInPeriod": 157,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
+      "appearances": 1
+    },
+    {
       "fullName": "aws/agent-toolkit-for-aws",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
@@ -147,6 +231,20 @@
       "latestRank": 10,
       "firstSeenAt": "2026-11-06T06:40:59Z",
       "lastSeenAt": "2026-11-06T06:40:59Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "onnx/onnx",
+      "url": "https://github.com/onnx/onnx",
+      "description": "Open standard for machine learning interoperability",
+      "programmingLanguage": "Python",
+      "stars": 21657,
+      "forks": 4080,
+      "starsInPeriod": 9,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
       "appearances": 1
     },
     {
@@ -164,6 +262,20 @@
       "appearances": 1
     },
     {
+      "fullName": "django/django",
+      "url": "https://github.com/django/django",
+      "description": "The Web framework for perfectionists with deadlines.",
+      "programmingLanguage": "Python",
+      "stars": 91621,
+      "forks": 35956,
+      "starsInPeriod": 127,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
+      "appearances": 1
+    },
+    {
       "fullName": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
@@ -175,6 +287,20 @@
       "latestRank": 12,
       "firstSeenAt": "2026-11-06T06:40:59Z",
       "lastSeenAt": "2026-11-06T06:40:59Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "pydantic/pydantic",
+      "url": "https://github.com/pydantic/pydantic",
+      "description": "Data validation using Python type hints",
+      "programmingLanguage": "Python",
+      "stars": 29324,
+      "forks": 3147,
+      "starsInPeriod": 21,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
       "appearances": 1
     },
     {
@@ -192,6 +318,20 @@
       "appearances": 1
     },
     {
+      "fullName": "pipeshub-ai/pipeshub-ai",
+      "url": "https://github.com/pipeshub-ai/pipeshub-ai",
+      "description": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 50+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.",
+      "programmingLanguage": "Python",
+      "stars": 4021,
+      "forks": 648,
+      "starsInPeriod": 76,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
+      "appearances": 1
+    },
+    {
       "fullName": "blacklanternsecurity/bbot",
       "url": "https://github.com/blacklanternsecurity/bbot",
       "description": "The recursive internet scanner for hackers. 🧡",
@@ -203,6 +343,20 @@
       "latestRank": 14,
       "firstSeenAt": "2026-11-06T06:40:59Z",
       "lastSeenAt": "2026-11-06T06:40:59Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "antoniaci/blackbird",
+      "url": "https://github.com/antoniaci/blackbird",
+      "description": "An OSINT tool to search for accounts by username and email in social networks.",
+      "programmingLanguage": "Python",
+      "stars": 9850,
+      "forks": 1386,
+      "starsInPeriod": 122,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
       "appearances": 1
     },
     {
@@ -234,6 +388,20 @@
       "appearances": 1
     },
     {
+      "fullName": "numpy/numpy",
+      "url": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "programmingLanguage": "Python",
+      "stars": 33317,
+      "forks": 13087,
+      "starsInPeriod": 142,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
+      "appearances": 1
+    },
+    {
       "fullName": "The-PR-Agent/pr-agent",
       "url": "https://github.com/The-PR-Agent/pr-agent",
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
@@ -245,6 +413,62 @@
       "latestRank": 17,
       "firstSeenAt": "2026-11-06T06:40:59Z",
       "lastSeenAt": "2026-11-06T06:40:59Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "psf/black",
+      "url": "https://github.com/psf/black",
+      "description": "The uncompromising Python code formatter",
+      "programmingLanguage": "Python",
+      "stars": 42117,
+      "forks": 2967,
+      "starsInPeriod": 12,
+      "bestRank": 17,
+      "latestRank": 17,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "dgtlmoon/changedetection.io",
+      "url": "https://github.com/dgtlmoon/changedetection.io",
+      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!",
+      "programmingLanguage": "Python",
+      "stars": 35591,
+      "forks": 2218,
+      "starsInPeriod": 62,
+      "bestRank": 18,
+      "latestRank": 18,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "mlflow/mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "programmingLanguage": "Python",
+      "stars": 28699,
+      "forks": 6589,
+      "starsInPeriod": 12,
+      "bestRank": 19,
+      "latestRank": 19,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "programmingLanguage": "Python",
+      "stars": 98264,
+      "forks": 11675,
+      "starsInPeriod": 1696,
+      "bestRank": 20,
+      "latestRank": 20,
+      "firstSeenAt": "2026-11-06T19:23:07Z",
+      "lastSeenAt": "2026-11-06T19:23:07Z",
       "appearances": 1
     }
   ]

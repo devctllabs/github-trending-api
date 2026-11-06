@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-11-06T06:41:06Z",
+  "observedAt": "2026-11-06T19:23:14Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,29 +14,29 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 102167,
-      "forks": 11325,
+      "stars": 102717,
+      "forks": 11401,
       "starsInPeriod": 48803
     },
     {
       "rank": 2,
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "programmingLanguage": "Python",
-      "stars": 34902,
-      "forks": 3843,
-      "starsInPeriod": 8823
-    },
-    {
-      "rank": 3,
       "fullName": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "programmingLanguage": "Python",
-      "stars": 55595,
-      "forks": 6814,
+      "stars": 55868,
+      "forks": 6839,
       "starsInPeriod": 14748
+    },
+    {
+      "rank": 3,
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "programmingLanguage": "Python",
+      "stars": 34976,
+      "forks": 3851,
+      "starsInPeriod": 8823
     },
     {
       "rank": 4,
@@ -44,8 +44,8 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 46245,
-      "forks": 4810,
+      "stars": 46292,
+      "forks": 4816,
       "starsInPeriod": 9046
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Design physical products with AI",
       "programmingLanguage": "Python",
-      "stars": 25650,
-      "forks": 2439,
+      "stars": 25697,
+      "forks": 2445,
       "starsInPeriod": 8510
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 26964,
-      "forks": 3499,
+      "stars": 27028,
+      "forks": 3509,
       "starsInPeriod": 8689
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "programmingLanguage": "Python",
-      "stars": 77308,
-      "forks": 10272,
+      "stars": 77616,
+      "forks": 10324,
       "starsInPeriod": 13685
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 58327,
+      "stars": 58357,
       "forks": 5253,
       "starsInPeriod": 6935
     },
@@ -94,68 +94,98 @@
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "programmingLanguage": "Python",
-      "stars": 46189,
-      "forks": 3395,
+      "stars": 46260,
+      "forks": 3402,
       "starsInPeriod": 4932
     },
     {
       "rank": 10,
-      "fullName": "wshobson/agents",
-      "url": "https://github.com/wshobson/agents",
-      "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
-      "programmingLanguage": "Python",
-      "stars": 42246,
-      "forks": 4463,
-      "starsInPeriod": 2143
-    },
-    {
-      "rank": 11,
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "programmingLanguage": "Python",
-      "stars": 109367,
-      "forks": 9778,
-      "starsInPeriod": 18096
-    },
-    {
-      "rank": 12,
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "programmingLanguage": "Python",
-      "stars": 24571,
-      "forks": 2132,
-      "starsInPeriod": 5138
-    },
-    {
-      "rank": 13,
       "fullName": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "programmingLanguage": "Python",
-      "stars": 66789,
-      "forks": 10385,
+      "stars": 66926,
+      "forks": 10408,
       "starsInPeriod": 10526
     },
     {
-      "rank": 14,
+      "rank": 11,
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "programmingLanguage": "Python",
+      "stars": 24651,
+      "forks": 2139,
+      "starsInPeriod": 5138
+    },
+    {
+      "rank": 12,
+      "fullName": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
+      "programmingLanguage": "Python",
+      "stars": 42261,
+      "forks": 4464,
+      "starsInPeriod": 2143
+    },
+    {
+      "rank": 13,
       "fullName": "ahujasid/mcp-for-blender",
       "url": "https://github.com/ahujasid/mcp-for-blender",
       "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
       "programmingLanguage": "Python",
-      "stars": 33431,
-      "forks": 3041,
+      "stars": 33471,
+      "forks": 3045,
       "starsInPeriod": 3481
     },
     {
+      "rank": 14,
+      "fullName": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "programmingLanguage": "Python",
+      "stars": 98755,
+      "forks": 10343,
+      "starsInPeriod": 13063
+    },
+    {
       "rank": 15,
+      "fullName": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "programmingLanguage": "Python",
+      "stars": 104480,
+      "forks": 10195,
+      "starsInPeriod": 2519
+    },
+    {
+      "rank": 16,
+      "fullName": "pandas-dev/pandas",
+      "url": "https://github.com/pandas-dev/pandas",
+      "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+      "programmingLanguage": "Python",
+      "stars": 50454,
+      "forks": 20718,
+      "starsInPeriod": 939
+    },
+    {
+      "rank": 17,
+      "fullName": "beenuar/AiSOC",
+      "url": "https://github.com/beenuar/AiSOC",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "programmingLanguage": "Python",
+      "stars": 6657,
+      "forks": 754,
+      "starsInPeriod": 5406
+    },
+    {
+      "rank": 18,
       "fullName": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "programmingLanguage": "Python",
-      "stars": 46631,
-      "forks": 5708,
+      "stars": 46661,
+      "forks": 5713,
       "starsInPeriod": 5048
     }
   ]

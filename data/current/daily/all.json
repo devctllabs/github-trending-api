@@ -4,159 +4,189 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-11-06T06:40:49Z",
+  "observedAt": "2026-11-06T19:22:57Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
+      "fullName": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "programmingLanguage": "Rust",
+      "stars": 93398,
+      "forks": 11482,
+      "starsInPeriod": 292
+    },
+    {
+      "rank": 2,
       "fullName": "NVIDIA/auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "programmingLanguage": "Python",
-      "stars": 7839,
-      "forks": 632,
-      "starsInPeriod": 2679
-    },
-    {
-      "rank": 2,
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "programmingLanguage": "Shell",
-      "stars": 315682,
-      "forks": 26423,
-      "starsInPeriod": 2071
+      "stars": 8761,
+      "forks": 706,
+      "starsInPeriod": 2005
     },
     {
       "rank": 3,
-      "fullName": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "programmingLanguage": "TypeScript",
-      "stars": 140142,
-      "forks": 20706,
-      "starsInPeriod": 612
+      "fullName": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "programmingLanguage": "Ruby",
+      "stars": 58953,
+      "forks": 23826,
+      "starsInPeriod": 152
     },
     {
       "rank": 4,
-      "fullName": "Usagi-org/ai-goofish-monitor",
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "programmingLanguage": "Python",
-      "stars": 17895,
-      "forks": 2971,
-      "starsInPeriod": 240
+      "fullName": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "programmingLanguage": "C",
+      "stars": 37832,
+      "forks": 3630,
+      "starsInPeriod": 36
     },
     {
       "rank": 5,
-      "fullName": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "programmingLanguage": "Python",
-      "stars": 98306,
-      "forks": 10298,
-      "starsInPeriod": 1655
+      "fullName": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "programmingLanguage": "Rust",
+      "stars": 121322,
+      "forks": 17359,
+      "starsInPeriod": 186
     },
     {
       "rank": 6,
-      "fullName": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "programmingLanguage": "Rust",
-      "stars": 17293,
-      "forks": 1231,
-      "starsInPeriod": 2173
+      "fullName": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "programmingLanguage": "JavaScript",
+      "stars": 252163,
+      "forks": 51801,
+      "starsInPeriod": 244
     },
     {
       "rank": 7,
-      "fullName": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "programmingLanguage": "Rust",
-      "stars": 11635,
-      "forks": 445,
-      "starsInPeriod": 546
+      "fullName": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "programmingLanguage": "TypeScript",
+      "stars": 101244,
+      "forks": 28908,
+      "starsInPeriod": 128
     },
     {
       "rank": 8,
-      "fullName": "lz4/lz4",
-      "url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "programmingLanguage": "C",
-      "stars": 12461,
-      "forks": 1639,
-      "starsInPeriod": 23
+      "fullName": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "programmingLanguage": "PHP",
+      "stars": 31336,
+      "forks": 9942,
+      "starsInPeriod": 89
     },
     {
       "rank": 9,
+      "fullName": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "programmingLanguage": "Go",
+      "stars": 67086,
+      "forks": 10979,
+      "starsInPeriod": 140
+    },
+    {
+      "rank": 10,
       "fullName": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "programmingLanguage": "Python",
-      "stars": 22510,
-      "forks": 1896,
-      "starsInPeriod": 211
-    },
-    {
-      "rank": 10,
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "programmingLanguage": "Rust",
-      "stars": 46077,
-      "forks": 3155,
-      "starsInPeriod": 150
+      "stars": 22759,
+      "forks": 1915,
+      "starsInPeriod": 532
     },
     {
       "rank": 11,
-      "fullName": "scenario-labs/skills",
-      "url": "https://github.com/scenario-labs/skills",
-      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-      "programmingLanguage": "Python",
-      "stars": 3233,
-      "forks": 280,
-      "starsInPeriod": 667
+      "fullName": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "programmingLanguage": "TypeScript",
+      "stars": 194922,
+      "forks": 44413,
+      "starsInPeriod": 295
     },
     {
       "rank": 12,
-      "fullName": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "programmingLanguage": "JavaScript",
-      "stars": 14315,
-      "forks": 1656,
-      "starsInPeriod": 175
+      "fullName": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "programmingLanguage": "C",
+      "stars": 12612,
+      "forks": 1642,
+      "starsInPeriod": 313
     },
     {
       "rank": 13,
-      "fullName": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "programmingLanguage": "Python",
-      "stars": 56208,
-      "forks": 6331,
-      "starsInPeriod": 223
+      "fullName": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "programmingLanguage": "Rust",
+      "stars": 40883,
+      "forks": 2337,
+      "starsInPeriod": 88
     },
     {
       "rank": 14,
-      "fullName": "floci-io/floci",
-      "url": "https://github.com/floci-io/floci",
-      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "programmingLanguage": "Java",
-      "stars": 30586,
-      "forks": 3339,
-      "starsInPeriod": 779
+      "fullName": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "programmingLanguage": "Go",
+      "stars": 52554,
+      "forks": 10583,
+      "starsInPeriod": 123
     },
     {
       "rank": 15,
-      "fullName": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "description": null,
-      "programmingLanguage": "C#",
-      "stars": 7448,
-      "forks": 266,
-      "starsInPeriod": 984
+      "fullName": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "programmingLanguage": "C",
+      "stars": 31250,
+      "forks": 11581,
+      "starsInPeriod": 24
+    },
+    {
+      "rank": 16,
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "programmingLanguage": "Shell",
+      "stars": 316501,
+      "forks": 26475,
+      "starsInPeriod": 2058
+    },
+    {
+      "rank": 17,
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "programmingLanguage": "JavaScript",
+      "stars": 63561,
+      "forks": 4120,
+      "starsInPeriod": 2524
+    },
+    {
+      "rank": 18,
+      "fullName": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "programmingLanguage": "Rust",
+      "stars": 50580,
+      "forks": 2600,
+      "starsInPeriod": 107
     }
   ]
 }
