@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-11-05T19:56:29Z",
+  "observedAt": "2026-11-06T06:41:19Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 39030,
-      "forks": 823,
-      "starsInPeriod": 46
+      "stars": 39048,
+      "forks": 827,
+      "starsInPeriod": 39
     },
     {
       "rank": 2,
@@ -34,9 +34,9 @@
       "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
       "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Owned by my cybersecurity company 👇",
       "programmingLanguage": "Go",
-      "stars": 9213,
-      "forks": 1352,
-      "starsInPeriod": 124
+      "stars": 9249,
+      "forks": 1357,
+      "starsInPeriod": 138
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 7375,
+      "stars": 7393,
       "forks": 1158,
-      "starsInPeriod": 59
+      "starsInPeriod": 51
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 33422,
-      "forks": 5222,
-      "starsInPeriod": 135
+      "stars": 33470,
+      "forks": 5231,
+      "starsInPeriod": 132
     },
     {
       "rank": 6,
@@ -64,7 +64,7 @@
       "url": "https://github.com/openchoreo/openchoreo",
       "description": "OpenChoreo is an internal developer platform for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 1806,
+      "stars": 1820,
       "forks": 280,
       "starsInPeriod": 36
     },
@@ -74,9 +74,9 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "programmingLanguage": "Go",
-      "stars": 78808,
-      "forks": 5232,
-      "starsInPeriod": 50
+      "stars": 78824,
+      "forks": 5235,
+      "starsInPeriod": 54
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/MHSanaei/3x-ui",
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "programmingLanguage": "Go",
-      "stars": 49369,
-      "forks": 12651,
-      "starsInPeriod": 95
+      "stars": 49396,
+      "forks": 12654,
+      "starsInPeriod": 89
     },
     {
       "rank": 9,
@@ -94,8 +94,8 @@
       "url": "https://github.com/guohuiyuan/go-music-dl",
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "programmingLanguage": "Go",
-      "stars": 6033,
-      "forks": 571,
+      "stars": 6041,
+      "forks": 572,
       "starsInPeriod": 56
     },
     {
@@ -104,9 +104,9 @@
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 28888,
+      "stars": 28905,
       "forks": 2693,
-      "starsInPeriod": 34
+      "starsInPeriod": 27
     },
     {
       "rank": 11,
@@ -114,8 +114,8 @@
       "url": "https://github.com/dsx-ai-factory/nvke",
       "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "programmingLanguage": "Go",
-      "stars": 78,
-      "forks": 66,
+      "stars": 140,
+      "forks": 69,
       "starsInPeriod": 3
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 24550,
-      "forks": 8098,
+      "stars": 24552,
+      "forks": 8100,
       "starsInPeriod": 12
     },
     {
@@ -134,9 +134,9 @@
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 28531,
-      "forks": 1932,
-      "starsInPeriod": 38
+      "stars": 28543,
+      "forks": 1934,
+      "starsInPeriod": 40
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/juicedata/juicefs",
       "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
       "programmingLanguage": "Go",
-      "stars": 14683,
+      "stars": 14687,
       "forks": 1347,
-      "starsInPeriod": 17
+      "starsInPeriod": 18
     },
     {
       "rank": 15,
@@ -156,7 +156,7 @@
       "programmingLanguage": "Go",
       "stars": 2986,
       "forks": 1333,
-      "starsInPeriod": 0
+      "starsInPeriod": null
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/zzet/gortex",
       "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
       "programmingLanguage": "Go",
-      "stars": 2001,
+      "stars": 2009,
       "forks": 195,
-      "starsInPeriod": 33
+      "starsInPeriod": 24
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/siderolabs/talos",
       "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
       "programmingLanguage": "Go",
-      "stars": 11470,
+      "stars": 11474,
       "forks": 940,
-      "starsInPeriod": 11
+      "starsInPeriod": 10
     }
   ]
 }
