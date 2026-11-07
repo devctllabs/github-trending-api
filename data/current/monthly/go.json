@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-11-07T05:57:02Z",
+  "observedAt": "2026-11-07T12:58:45Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 186173,
-      "forks": 18943,
+      "stars": 186226,
+      "forks": 18948,
       "starsInPeriod": 4858
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 33558,
-      "forks": 5243,
+      "stars": 33586,
+      "forks": 5246,
       "starsInPeriod": 8452
     },
     {
@@ -34,49 +34,49 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 38630,
+      "stars": 38631,
       "forks": 5902,
       "starsInPeriod": 551
     },
     {
       "rank": 4,
+      "fullName": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "programmingLanguage": "Go",
+      "stars": 72358,
+      "forks": 19318,
+      "starsInPeriod": 378
+    },
+    {
+      "rank": 5,
+      "fullName": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "programmingLanguage": "Go",
+      "stars": 67295,
+      "forks": 10993,
+      "starsInPeriod": 1163
+    },
+    {
+      "rank": 6,
       "fullName": "argoproj/argo-cd",
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 24561,
-      "forks": 8105,
+      "stars": 24562,
+      "forks": 8107,
       "starsInPeriod": 263
     },
     {
-      "rank": 5,
+      "rank": 7,
       "fullName": "gosom/google-maps-scraper",
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 7426,
-      "forks": 1164,
+      "stars": 7436,
+      "forks": 1163,
       "starsInPeriod": 1133
-    },
-    {
-      "rank": 6,
-      "fullName": "Asymptote-Labs/agent-beacon",
-      "url": "https://github.com/Asymptote-Labs/agent-beacon",
-      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
-      "programmingLanguage": "Go",
-      "stars": 3358,
-      "forks": 294,
-      "starsInPeriod": 1586
-    },
-    {
-      "rank": 7,
-      "fullName": "rclone/rclone",
-      "url": "https://github.com/rclone/rclone",
-      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
-      "programmingLanguage": "Go",
-      "stars": 60839,
-      "forks": 5657,
-      "starsInPeriod": 816
     },
     {
       "rank": 8,
@@ -84,79 +84,79 @@
       "url": "https://github.com/netbirdio/netbird",
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "programmingLanguage": "Go",
-      "stars": 30749,
-      "forks": 1833,
+      "stars": 30754,
+      "forks": 1835,
       "starsInPeriod": 1047
     },
     {
       "rank": 9,
-      "fullName": "moby/moby",
-      "url": "https://github.com/moby/moby",
-      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "fullName": "Asymptote-Labs/agent-beacon",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "programmingLanguage": "Go",
-      "stars": 72353,
-      "forks": 19318,
-      "starsInPeriod": 378
+      "stars": 3367,
+      "forks": 295,
+      "starsInPeriod": 1586
     },
     {
       "rank": 10,
-      "fullName": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
+      "fullName": "rclone/rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "programmingLanguage": "Go",
-      "stars": 67231,
-      "forks": 10989,
-      "starsInPeriod": 1163
+      "stars": 60847,
+      "forks": 5657,
+      "starsInPeriod": 816
     },
     {
       "rank": 11,
-      "fullName": "tailscale/tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "programmingLanguage": "Go",
-      "stars": 38739,
-      "forks": 3434,
-      "starsInPeriod": 1650
-    },
-    {
-      "rank": 12,
       "fullName": "gitleaks/gitleaks",
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 30745,
+      "stars": 30755,
       "forks": 2343,
       "starsInPeriod": 1070
     },
     {
-      "rank": 13,
-      "fullName": "llm-d/llm-d-router",
-      "url": "https://github.com/llm-d/llm-d-router",
-      "description": "llm-d Router: The intelligent entry point for inference requests",
+      "rank": 12,
+      "fullName": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "programmingLanguage": "Go",
-      "stars": 460,
-      "forks": 517,
-      "starsInPeriod": 84
+      "stars": 38752,
+      "forks": 3437,
+      "starsInPeriod": 1650
+    },
+    {
+      "rank": 13,
+      "fullName": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "programmingLanguage": "Go",
+      "stars": 89598,
+      "forks": 8911,
+      "starsInPeriod": 543
     },
     {
       "rank": 14,
-      "fullName": "N4darae/shrt",
-      "url": "https://github.com/N4darae/shrt",
-      "description": "A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines. Snapshot the valid call chains of an API so an agent can look one up instead of tracing for it. gRPC today, OpenAPI next",
-      "programmingLanguage": "Go",
-      "stars": 2447,
-      "forks": 169,
-      "starsInPeriod": 1838
-    },
-    {
-      "rank": 15,
       "fullName": "go-gitea/gitea",
       "url": "https://github.com/go-gitea/gitea",
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 58933,
+      "stars": 58941,
       "forks": 7368,
       "starsInPeriod": 726
+    },
+    {
+      "rank": 15,
+      "fullName": "N4darae/shrt",
+      "url": "https://github.com/N4darae/shrt",
+      "description": "A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines. Snapshot the valid call chains of an API so an agent can look one up instead of tracing for it. gRPC today, OpenAPI next",
+      "programmingLanguage": "Go",
+      "stars": 2460,
+      "forks": 169,
+      "starsInPeriod": 1838
     },
     {
       "rank": 16,
@@ -164,39 +164,29 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 39083,
+      "stars": 39091,
       "forks": 834,
       "starsInPeriod": 867
     },
     {
       "rank": 17,
+      "fullName": "lharries/whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "description": "WhatsApp MCP server",
+      "programmingLanguage": "Go",
+      "stars": 6832,
+      "forks": 1487,
+      "starsInPeriod": 439
+    },
+    {
+      "rank": 18,
       "fullName": "rasonyang/ai-native-callcenter",
       "url": "https://github.com/rasonyang/ai-native-callcenter",
       "description": "Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (OpenAI, Grok, Qwen, Doubao, or any compatible gateway).",
       "programmingLanguage": "Go",
-      "stars": 548,
+      "stars": 550,
       "forks": 103,
       "starsInPeriod": 355
-    },
-    {
-      "rank": 18,
-      "fullName": "github/gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
-      "programmingLanguage": "Go",
-      "stars": 5585,
-      "forks": 619,
-      "starsInPeriod": 261
-    },
-    {
-      "rank": 19,
-      "fullName": "gin-gonic/gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-      "programmingLanguage": "Go",
-      "stars": 89593,
-      "forks": 8910,
-      "starsInPeriod": 543
     }
   ]
 }

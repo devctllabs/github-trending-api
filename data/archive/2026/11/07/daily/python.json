@@ -5,36 +5,50 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "updatedAt": "2026-11-07T05:56:35Z",
+  "updatedAt": "2026-11-07T12:58:18Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
-    {
-      "fullName": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "programmingLanguage": "Python",
-      "stars": 9293,
-      "forks": 736,
-      "starsInPeriod": 2015,
-      "bestRank": 1,
-      "latestRank": 1,
-      "firstSeenAt": "2026-11-07T05:56:35Z",
-      "lastSeenAt": "2026-11-07T05:56:35Z",
-      "appearances": 1
-    },
     {
       "fullName": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "programmingLanguage": "Python",
-      "stars": 22936,
-      "forks": 1928,
-      "starsInPeriod": 534,
+      "stars": 23073,
+      "forks": 1938,
+      "starsInPeriod": 449,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-11-07T05:56:35Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "programmingLanguage": "Python",
+      "stars": 9582,
+      "forks": 768,
+      "starsInPeriod": 1322,
+      "bestRank": 1,
+      "latestRank": 14,
+      "firstSeenAt": "2026-11-07T05:56:35Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "programmingLanguage": "Python",
+      "stars": 188370,
+      "forks": 22217,
+      "starsInPeriod": 386,
       "bestRank": 2,
       "latestRank": 2,
-      "firstSeenAt": "2026-11-07T05:56:35Z",
-      "lastSeenAt": "2026-11-07T05:56:35Z",
+      "firstSeenAt": "2026-11-07T12:58:18Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
       "appearances": 1
     },
     {
@@ -52,6 +66,20 @@
       "appearances": 1
     },
     {
+      "fullName": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "programmingLanguage": "Python",
+      "stars": 99472,
+      "forks": 11787,
+      "starsInPeriod": 1761,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-11-07T05:56:35Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
+      "appearances": 2
+    },
+    {
       "fullName": "NVIDIA/TensorRT-LLM",
       "url": "https://github.com/NVIDIA/TensorRT-LLM",
       "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
@@ -63,6 +91,20 @@
       "latestRank": 4,
       "firstSeenAt": "2026-11-07T05:56:35Z",
       "lastSeenAt": "2026-11-07T05:56:35Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "mbillow/localthings",
+      "url": "https://github.com/mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "programmingLanguage": "Python",
+      "stars": 949,
+      "forks": 102,
+      "starsInPeriod": 184,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-07T12:58:18Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
       "appearances": 1
     },
     {
@@ -80,6 +122,20 @@
       "appearances": 1
     },
     {
+      "fullName": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "programmingLanguage": "Python",
+      "stars": 56606,
+      "forks": 6375,
+      "starsInPeriod": 237,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-07T05:56:35Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
+      "appearances": 2
+    },
+    {
       "fullName": "python-poetry/poetry",
       "url": "https://github.com/python-poetry/poetry",
       "description": "Python packaging and dependency management made easy",
@@ -91,6 +147,20 @@
       "latestRank": 6,
       "firstSeenAt": "2026-11-07T05:56:35Z",
       "lastSeenAt": "2026-11-07T05:56:35Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "elder-plinius/OBLITERATUS",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "programmingLanguage": "Python",
+      "stars": 9272,
+      "forks": 1644,
+      "starsInPeriod": 61,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-07T12:58:18Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
       "appearances": 1
     },
     {
@@ -108,18 +178,46 @@
       "appearances": 1
     },
     {
-      "fullName": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
+      "fullName": "spotDL/spotify-downloader",
+      "url": "https://github.com/spotDL/spotify-downloader",
+      "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
       "programmingLanguage": "Python",
-      "stars": 56522,
-      "forks": 6370,
-      "starsInPeriod": 1004,
+      "stars": 26709,
+      "forks": 2314,
+      "starsInPeriod": 75,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-07T12:58:18Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "programmingLanguage": "Python",
+      "stars": 59858,
+      "forks": 7511,
+      "starsInPeriod": 318,
       "bestRank": 8,
       "latestRank": 8,
-      "firstSeenAt": "2026-11-07T05:56:35Z",
-      "lastSeenAt": "2026-11-07T05:56:35Z",
+      "firstSeenAt": "2026-11-07T12:58:18Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
       "appearances": 1
+    },
+    {
+      "fullName": "django/django",
+      "url": "https://github.com/django/django",
+      "description": "The Web framework for perfectionists with deadlines.",
+      "programmingLanguage": "Python",
+      "stars": 91675,
+      "forks": 35969,
+      "starsInPeriod": 169,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-07T05:56:35Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
+      "appearances": 2
     },
     {
       "fullName": "pandas-dev/pandas",
@@ -150,17 +248,31 @@
       "appearances": 1
     },
     {
-      "fullName": "django/django",
-      "url": "https://github.com/django/django",
-      "description": "The Web framework for perfectionists with deadlines.",
+      "fullName": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": "📚 Freely available programming books",
       "programmingLanguage": "Python",
-      "stars": 91671,
-      "forks": 35967,
-      "starsInPeriod": 169,
+      "stars": 401188,
+      "forks": 67310,
+      "starsInPeriod": 179,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-07T12:58:18Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "donnemartin/system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "programmingLanguage": "Python",
+      "stars": 377202,
+      "forks": 59208,
+      "starsInPeriod": 190,
       "bestRank": 11,
       "latestRank": 11,
-      "firstSeenAt": "2026-11-07T05:56:35Z",
-      "lastSeenAt": "2026-11-07T05:56:35Z",
+      "firstSeenAt": "2026-11-07T12:58:18Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
       "appearances": 1
     },
     {
@@ -178,6 +290,20 @@
       "appearances": 1
     },
     {
+      "fullName": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "programmingLanguage": "Python",
+      "stars": 3422,
+      "forks": 438,
+      "starsInPeriod": 8,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-11-07T12:58:18Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
+      "appearances": 1
+    },
+    {
       "fullName": "pipeshub-ai/pipeshub-ai",
       "url": "https://github.com/pipeshub-ai/pipeshub-ai",
       "description": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 50+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.",
@@ -189,6 +315,20 @@
       "latestRank": 13,
       "firstSeenAt": "2026-11-07T05:56:35Z",
       "lastSeenAt": "2026-11-07T05:56:35Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "programmingLanguage": "Python",
+      "stars": 18278,
+      "forks": 3013,
+      "starsInPeriod": 146,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-11-07T12:58:18Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
       "appearances": 1
     },
     {
@@ -217,6 +357,20 @@
       "latestRank": 15,
       "firstSeenAt": "2026-11-07T05:56:35Z",
       "lastSeenAt": "2026-11-07T05:56:35Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "bobeff/open-source-games",
+      "url": "https://github.com/bobeff/open-source-games",
+      "description": "A list of open source games.",
+      "programmingLanguage": "Python",
+      "stars": 17797,
+      "forks": 1635,
+      "starsInPeriod": 146,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-11-07T12:58:18Z",
+      "lastSeenAt": "2026-11-07T12:58:18Z",
       "appearances": 1
     },
     {
@@ -271,20 +425,6 @@
       "starsInPeriod": 8,
       "bestRank": 19,
       "latestRank": 19,
-      "firstSeenAt": "2026-11-07T05:56:35Z",
-      "lastSeenAt": "2026-11-07T05:56:35Z",
-      "appearances": 1
-    },
-    {
-      "fullName": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "programmingLanguage": "Python",
-      "stars": 98797,
-      "forks": 11730,
-      "starsInPeriod": 1761,
-      "bestRank": 20,
-      "latestRank": 20,
       "firstSeenAt": "2026-11-07T05:56:35Z",
       "lastSeenAt": "2026-11-07T05:56:35Z",
       "appearances": 1

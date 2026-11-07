@@ -4,12 +4,12 @@
     <title>GitHub Trending — monthly — go</title>
     <link>https://github.com/trending/go?since=monthly</link>
     <description>GitHub Trending — monthly — go</description>
-    <lastBuildDate>Sat, 07 Nov 2026 05:57:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:58:45 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>monthly</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-11-07T05:57:02Z</ght:observedAt>
+    <ght:observedAt>2026-11-07T12:58:45Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,11 +17,11 @@
       <link>https://github.com/ollama/ollama</link>
       <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
       <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>186173</ght:stars>
-      <ght:forks>18943</ght:forks>
+      <ght:stars>186226</ght:stars>
+      <ght:forks>18948</ght:forks>
       <ght:starsInPeriod>4858</ght:starsInPeriod>
     </item>
     <item>
@@ -29,11 +29,11 @@
       <link>https://github.com/vxcontrol/pentagi</link>
       <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
       <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
       <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>33558</ght:stars>
-      <ght:forks>5243</ght:forks>
+      <ght:stars>33586</ght:stars>
+      <ght:forks>5246</ght:forks>
       <ght:starsInPeriod>8452</ght:starsInPeriod>
     </item>
     <item>
@@ -41,82 +41,22 @@
       <link>https://github.com/docker/compose</link>
       <description>Define and run multi-container applications with Docker</description>
       <guid isPermaLink="true">https://github.com/docker/compose</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
       <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>38630</ght:stars>
+      <ght:stars>38631</ght:stars>
       <ght:forks>5902</ght:forks>
       <ght:starsInPeriod>551</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>argoproj/argo-cd</title>
-      <link>https://github.com/argoproj/argo-cd</link>
-      <description>Declarative Continuous Deployment for Kubernetes</description>
-      <guid isPermaLink="true">https://github.com/argoproj/argo-cd</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>24561</ght:stars>
-      <ght:forks>8105</ght:forks>
-      <ght:starsInPeriod>263</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>gosom/google-maps-scraper</title>
-      <link>https://github.com/gosom/google-maps-scraper</link>
-      <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
-      <guid isPermaLink="true">https://github.com/gosom/google-maps-scraper</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>7426</ght:stars>
-      <ght:forks>1164</ght:forks>
-      <ght:starsInPeriod>1133</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>Asymptote-Labs/agent-beacon</title>
-      <link>https://github.com/Asymptote-Labs/agent-beacon</link>
-      <description>The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu</description>
-      <guid isPermaLink="true">https://github.com/Asymptote-Labs/agent-beacon</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>3358</ght:stars>
-      <ght:forks>294</ght:forks>
-      <ght:starsInPeriod>1586</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>rclone/rclone</title>
-      <link>https://github.com/rclone/rclone</link>
-      <description>"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</description>
-      <guid isPermaLink="true">https://github.com/rclone/rclone</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>60839</ght:stars>
-      <ght:forks>5657</ght:forks>
-      <ght:starsInPeriod>816</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>netbirdio/netbird</title>
-      <link>https://github.com/netbirdio/netbird</link>
-      <description>NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®</description>
-      <guid isPermaLink="true">https://github.com/netbirdio/netbird</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>8</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>30749</ght:stars>
-      <ght:forks>1833</ght:forks>
-      <ght:starsInPeriod>1047</ght:starsInPeriod>
     </item>
     <item>
       <title>moby/moby</title>
       <link>https://github.com/moby/moby</link>
       <description>The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</description>
       <guid isPermaLink="true">https://github.com/moby/moby</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>9</ght:rank>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>72353</ght:stars>
+      <ght:stars>72358</ght:stars>
       <ght:forks>19318</ght:forks>
       <ght:starsInPeriod>378</ght:starsInPeriod>
     </item>
@@ -125,120 +65,168 @@
       <link>https://github.com/prometheus/prometheus</link>
       <description>The Prometheus monitoring system and time series database.</description>
       <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>10</ght:rank>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>67231</ght:stars>
-      <ght:forks>10989</ght:forks>
+      <ght:stars>67295</ght:stars>
+      <ght:forks>10993</ght:forks>
       <ght:starsInPeriod>1163</ght:starsInPeriod>
     </item>
     <item>
-      <title>tailscale/tailscale</title>
-      <link>https://github.com/tailscale/tailscale</link>
-      <description>The easiest, most secure way to use WireGuard and 2FA.</description>
-      <guid isPermaLink="true">https://github.com/tailscale/tailscale</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>11</ght:rank>
+      <title>argoproj/argo-cd</title>
+      <link>https://github.com/argoproj/argo-cd</link>
+      <description>Declarative Continuous Deployment for Kubernetes</description>
+      <guid isPermaLink="true">https://github.com/argoproj/argo-cd</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>38739</ght:stars>
-      <ght:forks>3434</ght:forks>
-      <ght:starsInPeriod>1650</ght:starsInPeriod>
+      <ght:stars>24562</ght:stars>
+      <ght:forks>8107</ght:forks>
+      <ght:starsInPeriod>263</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>gosom/google-maps-scraper</title>
+      <link>https://github.com/gosom/google-maps-scraper</link>
+      <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
+      <guid isPermaLink="true">https://github.com/gosom/google-maps-scraper</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>7</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7436</ght:stars>
+      <ght:forks>1163</ght:forks>
+      <ght:starsInPeriod>1133</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>netbirdio/netbird</title>
+      <link>https://github.com/netbirdio/netbird</link>
+      <description>NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®</description>
+      <guid isPermaLink="true">https://github.com/netbirdio/netbird</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>30754</ght:stars>
+      <ght:forks>1835</ght:forks>
+      <ght:starsInPeriod>1047</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>Asymptote-Labs/agent-beacon</title>
+      <link>https://github.com/Asymptote-Labs/agent-beacon</link>
+      <description>The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu</description>
+      <guid isPermaLink="true">https://github.com/Asymptote-Labs/agent-beacon</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>9</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>3367</ght:stars>
+      <ght:forks>295</ght:forks>
+      <ght:starsInPeriod>1586</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>rclone/rclone</title>
+      <link>https://github.com/rclone/rclone</link>
+      <description>"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</description>
+      <guid isPermaLink="true">https://github.com/rclone/rclone</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>10</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>60847</ght:stars>
+      <ght:forks>5657</ght:forks>
+      <ght:starsInPeriod>816</ght:starsInPeriod>
     </item>
     <item>
       <title>gitleaks/gitleaks</title>
       <link>https://github.com/gitleaks/gitleaks</link>
       <description>Find secrets with Gitleaks 🔑</description>
       <guid isPermaLink="true">https://github.com/gitleaks/gitleaks</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>12</ght:rank>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>30745</ght:stars>
+      <ght:stars>30755</ght:stars>
       <ght:forks>2343</ght:forks>
       <ght:starsInPeriod>1070</ght:starsInPeriod>
     </item>
     <item>
-      <title>llm-d/llm-d-router</title>
-      <link>https://github.com/llm-d/llm-d-router</link>
-      <description>llm-d Router: The intelligent entry point for inference requests</description>
-      <guid isPermaLink="true">https://github.com/llm-d/llm-d-router</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>13</ght:rank>
+      <title>tailscale/tailscale</title>
+      <link>https://github.com/tailscale/tailscale</link>
+      <description>The easiest, most secure way to use WireGuard and 2FA.</description>
+      <guid isPermaLink="true">https://github.com/tailscale/tailscale</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>460</ght:stars>
-      <ght:forks>517</ght:forks>
-      <ght:starsInPeriod>84</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>N4darae/shrt</title>
-      <link>https://github.com/N4darae/shrt</link>
-      <description>A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines. Snapshot the valid call chains of an API so an agent can look one up instead of tracing for it. gRPC today, OpenAPI next</description>
-      <guid isPermaLink="true">https://github.com/N4darae/shrt</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>14</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>2447</ght:stars>
-      <ght:forks>169</ght:forks>
-      <ght:starsInPeriod>1838</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>go-gitea/gitea</title>
-      <link>https://github.com/go-gitea/gitea</link>
-      <description>Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</description>
-      <guid isPermaLink="true">https://github.com/go-gitea/gitea</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>15</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>58933</ght:stars>
-      <ght:forks>7368</ght:forks>
-      <ght:starsInPeriod>726</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>aquasecurity/trivy</title>
-      <link>https://github.com/aquasecurity/trivy</link>
-      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
-      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>16</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>39083</ght:stars>
-      <ght:forks>834</ght:forks>
-      <ght:starsInPeriod>867</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>rasonyang/ai-native-callcenter</title>
-      <link>https://github.com/rasonyang/ai-native-callcenter</link>
-      <description>Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (OpenAI, Grok, Qwen, Doubao, or any compatible gateway).</description>
-      <guid isPermaLink="true">https://github.com/rasonyang/ai-native-callcenter</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>17</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>548</ght:stars>
-      <ght:forks>103</ght:forks>
-      <ght:starsInPeriod>355</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>github/gh-aw</title>
-      <link>https://github.com/github/gh-aw</link>
-      <description>GitHub Agentic Workflows</description>
-      <guid isPermaLink="true">https://github.com/github/gh-aw</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>18</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>5585</ght:stars>
-      <ght:forks>619</ght:forks>
-      <ght:starsInPeriod>261</ght:starsInPeriod>
+      <ght:stars>38752</ght:stars>
+      <ght:forks>3437</ght:forks>
+      <ght:starsInPeriod>1650</ght:starsInPeriod>
     </item>
     <item>
       <title>gin-gonic/gin</title>
       <link>https://github.com/gin-gonic/gin</link>
       <description>Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.</description>
       <guid isPermaLink="true">https://github.com/gin-gonic/gin</guid>
-      <pubDate>Sat, 07 Nov 2026 05:57:02 GMT</pubDate>
-      <ght:rank>19</ght:rank>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>13</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>89593</ght:stars>
-      <ght:forks>8910</ght:forks>
+      <ght:stars>89598</ght:stars>
+      <ght:forks>8911</ght:forks>
       <ght:starsInPeriod>543</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>go-gitea/gitea</title>
+      <link>https://github.com/go-gitea/gitea</link>
+      <description>Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</description>
+      <guid isPermaLink="true">https://github.com/go-gitea/gitea</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>14</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>58941</ght:stars>
+      <ght:forks>7368</ght:forks>
+      <ght:starsInPeriod>726</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>N4darae/shrt</title>
+      <link>https://github.com/N4darae/shrt</link>
+      <description>A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines. Snapshot the valid call chains of an API so an agent can look one up instead of tracing for it. gRPC today, OpenAPI next</description>
+      <guid isPermaLink="true">https://github.com/N4darae/shrt</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>15</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>2460</ght:stars>
+      <ght:forks>169</ght:forks>
+      <ght:starsInPeriod>1838</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>aquasecurity/trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>39091</ght:stars>
+      <ght:forks>834</ght:forks>
+      <ght:starsInPeriod>867</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>lharries/whatsapp-mcp</title>
+      <link>https://github.com/lharries/whatsapp-mcp</link>
+      <description>WhatsApp MCP server</description>
+      <guid isPermaLink="true">https://github.com/lharries/whatsapp-mcp</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>17</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6832</ght:stars>
+      <ght:forks>1487</ght:forks>
+      <ght:starsInPeriod>439</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>rasonyang/ai-native-callcenter</title>
+      <link>https://github.com/rasonyang/ai-native-callcenter</link>
+      <description>Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (OpenAI, Grok, Qwen, Doubao, or any compatible gateway).</description>
+      <guid isPermaLink="true">https://github.com/rasonyang/ai-native-callcenter</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:45 GMT</pubDate>
+      <ght:rank>18</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>550</ght:stars>
+      <ght:forks>103</ght:forks>
+      <ght:starsInPeriod>355</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

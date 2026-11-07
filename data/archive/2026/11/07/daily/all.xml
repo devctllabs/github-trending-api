@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — all</title>
     <link>https://github.com/trending</link>
     <description>GitHub Trending — daily — all</description>
-    <lastBuildDate>Sat, 07 Nov 2026 05:56:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:58:09 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-07</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>all</ght:language>
-    <ght:updatedAt>2026-11-07T05:56:24Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-07T12:58:09Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,14 +20,46 @@
       <guid isPermaLink="true">https://github.com/zed-industries/zed</guid>
       <pubDate>Sat, 07 Nov 2026 05:56:24 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>93794</ght:stars>
-      <ght:forks>11512</ght:forks>
-      <ght:starsInPeriod>306</ght:starsInPeriod>
+      <ght:stars>94053</ght:stars>
+      <ght:forks>11535</ght:forks>
+      <ght:starsInPeriod>1119</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>vercel-labs/agent-browser</title>
+      <link>https://github.com/vercel-labs/agent-browser</link>
+      <description>Browser automation CLI for AI agents</description>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:09 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>46433</ght:stars>
+      <ght:forks>3183</ght:forks>
+      <ght:starsInPeriod>180</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
-      <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-07T05:56:24Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-07T12:58:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>cloudflare/security-audit-skill</title>
+      <link>https://github.com/cloudflare/security-audit-skill</link>
+      <description>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
+      <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
+      <pubDate>Sat, 07 Nov 2026 05:56:24 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>64859</ght:stars>
+      <ght:forks>4207</ght:forks>
+      <ght:starsInPeriod>2088</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>NVIDIA/auto-ontology</title>
@@ -46,6 +78,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>google/skills</title>
+      <link>https://github.com/google/skills</link>
+      <description>Agent Skills for Google products and technologies</description>
+      <guid isPermaLink="true">https://github.com/google/skills</guid>
+      <pubDate>Sat, 07 Nov 2026 05:56:24 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>23073</ght:stars>
+      <ght:forks>1938</ght:forks>
+      <ght:starsInPeriod>449</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>rails/rails</title>
       <link>https://github.com/rails/rails</link>
       <description>Ruby on Rails</description>
@@ -60,6 +108,22 @@
       <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-07T05:56:24Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <description>Skills for Real Engineers. Straight from my .agents directory.</description>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <pubDate>Sat, 07 Nov 2026 05:56:24 GMT</pubDate>
+      <ght:programmingLanguage>Shell</ght:programmingLanguage>
+      <ght:stars>317202</ght:stars>
+      <ght:forks>26546</ght:forks>
+      <ght:starsInPeriod>1111</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>mpv-player/mpv</title>
@@ -94,6 +158,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>anthropics/skills</title>
+      <link>https://github.com/anthropics/skills</link>
+      <description>Public repository for Agent Skills</description>
+      <guid isPermaLink="true">https://github.com/anthropics/skills</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:09 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>188370</ght:stars>
+      <ght:forks>22217</ght:forks>
+      <ght:starsInPeriod>386</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T12:58:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>react/react</title>
       <link>https://github.com/react/react</link>
       <description>The library for web and native user interfaces.</description>
@@ -107,6 +187,22 @@
       <ght:latestRank>6</ght:latestRank>
       <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-07T05:56:24Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>meta/astryx</title>
+      <link>https://github.com/meta/astryx</link>
+      <description>An open source design system that's fully customizable and agent ready</description>
+      <guid isPermaLink="true">https://github.com/meta/astryx</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:09 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>14148</ght:stars>
+      <ght:forks>1171</ght:forks>
+      <ght:starsInPeriod>198</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T12:58:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -126,6 +222,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>prometheus/prometheus</title>
+      <link>https://github.com/prometheus/prometheus</link>
+      <description>The Prometheus monitoring system and time series database.</description>
+      <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
+      <pubDate>Sat, 07 Nov 2026 05:56:24 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>67295</ght:stars>
+      <ght:forks>10993</ght:forks>
+      <ght:starsInPeriod>325</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>symfony/symfony</title>
       <link>https://github.com/symfony/symfony</link>
       <description>The Symfony PHP framework</description>
@@ -142,36 +254,52 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>prometheus/prometheus</title>
-      <link>https://github.com/prometheus/prometheus</link>
-      <description>The Prometheus monitoring system and time series database.</description>
-      <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:24 GMT</pubDate>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>67231</ght:stars>
-      <ght:forks>10989</ght:forks>
-      <ght:starsInPeriod>148</ght:starsInPeriod>
-      <ght:bestRank>9</ght:bestRank>
-      <ght:latestRank>9</ght:latestRank>
-      <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-07T05:56:24Z</ght:lastSeenAt>
+      <title>sherlock-project/sherlock</title>
+      <link>https://github.com/sherlock-project/sherlock</link>
+      <description>Hunt down social media accounts by username across social networks</description>
+      <guid isPermaLink="true">https://github.com/sherlock-project/sherlock</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:09 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>99472</ght:stars>
+      <ght:forks>11787</ght:forks>
+      <ght:starsInPeriod>1761</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T12:58:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>google/skills</title>
-      <link>https://github.com/google/skills</link>
-      <description>Agent Skills for Google products and technologies</description>
-      <guid isPermaLink="true">https://github.com/google/skills</guid>
+      <title>milind-soni/OpenMausBot</title>
+      <link>https://github.com/milind-soni/OpenMausBot</link>
+      <description>Open-source Grok Bot alternative with a virtual machine that bots can use</description>
+      <guid isPermaLink="true">https://github.com/milind-soni/OpenMausBot</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:09 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>16275</ght:stars>
+      <ght:forks>2306</ght:forks>
+      <ght:starsInPeriod>1986</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T12:58:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>astral-sh/ruff</title>
+      <link>https://github.com/astral-sh/ruff</link>
+      <description>An extremely fast Python linter and code formatter, written in Rust.</description>
+      <guid isPermaLink="true">https://github.com/astral-sh/ruff</guid>
       <pubDate>Sat, 07 Nov 2026 05:56:24 GMT</pubDate>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>22936</ght:stars>
-      <ght:forks>1928</ght:forks>
-      <ght:starsInPeriod>534</ght:starsInPeriod>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>50819</ght:stars>
+      <ght:forks>2622</ght:forks>
+      <ght:starsInPeriod>350</ght:starsInPeriod>
       <ght:bestRank>10</ght:bestRank>
       <ght:latestRank>10</ght:latestRank>
       <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-07T05:56:24Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>microsoft/vscode</title>
@@ -190,6 +318,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>tailwindlabs/tailwindcss</title>
+      <link>https://github.com/tailwindlabs/tailwindcss</link>
+      <description>A utility-first CSS framework for rapid UI development.</description>
+      <guid isPermaLink="true">https://github.com/tailwindlabs/tailwindcss</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:09 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>98217</ght:stars>
+      <ght:forks>7091</ght:forks>
+      <ght:starsInPeriod>152</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T12:58:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>lz4/lz4</title>
       <link>https://github.com/lz4/lz4</link>
       <description>Extremely Fast Compression algorithm</description>
@@ -203,6 +347,22 @@
       <ght:latestRank>12</ght:latestRank>
       <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-07T05:56:24Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>mbillow/localthings</title>
+      <link>https://github.com/mbillow/localthings</link>
+      <description>Control your Samsung appliances from Home Assistant over your home network, with no cloud account.</description>
+      <guid isPermaLink="true">https://github.com/mbillow/localthings</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:09 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>949</ght:stars>
+      <ght:forks>102</ght:forks>
+      <ght:starsInPeriod>184</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T12:58:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -238,6 +398,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>ranxianglei/billion-context</title>
+      <link>https://github.com/ranxianglei/billion-context</link>
+      <description>A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need</description>
+      <guid isPermaLink="true">https://github.com/ranxianglei/billion-context</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:09 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>4421</ght:stars>
+      <ght:forks>359</ght:forks>
+      <ght:starsInPeriod>185</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T12:58:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>openssl/openssl</title>
       <link>https://github.com/openssl/openssl</link>
       <description>General purpose TLS and crypto library</description>
@@ -254,51 +430,19 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <description>Skills for Real Engineers. Straight from my .agents directory.</description>
-      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:24 GMT</pubDate>
-      <ght:programmingLanguage>Shell</ght:programmingLanguage>
-      <ght:stars>316906</ght:stars>
-      <ght:forks>26518</ght:forks>
-      <ght:starsInPeriod>2070</ght:starsInPeriod>
-      <ght:bestRank>16</ght:bestRank>
-      <ght:latestRank>16</ght:latestRank>
-      <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-07T05:56:24Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>cloudflare/security-audit-skill</title>
-      <link>https://github.com/cloudflare/security-audit-skill</link>
-      <description>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
-      <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:24 GMT</pubDate>
-      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>64390</ght:stars>
-      <ght:forks>4172</ght:forks>
-      <ght:starsInPeriod>2548</ght:starsInPeriod>
-      <ght:bestRank>17</ght:bestRank>
-      <ght:latestRank>17</ght:latestRank>
-      <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-07T05:56:24Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>astral-sh/ruff</title>
-      <link>https://github.com/astral-sh/ruff</link>
-      <description>An extremely fast Python linter and code formatter, written in Rust.</description>
-      <guid isPermaLink="true">https://github.com/astral-sh/ruff</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:24 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>50746</ght:stars>
-      <ght:forks>2615</ght:forks>
-      <ght:starsInPeriod>169</ght:starsInPeriod>
-      <ght:bestRank>18</ght:bestRank>
-      <ght:latestRank>18</ght:latestRank>
-      <ght:firstSeenAt>2026-11-07T05:56:24Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-07T05:56:24Z</ght:lastSeenAt>
+      <title>dsx-ai-factory/nvke</title>
+      <link>https://github.com/dsx-ai-factory/nvke</link>
+      <description>NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</description>
+      <guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:09 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>358</ght:stars>
+      <ght:forks>78</ght:forks>
+      <ght:starsInPeriod>125</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-11-07T12:58:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-07T12:58:09Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>

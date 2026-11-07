@@ -4,189 +4,159 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-11-07T05:56:24Z",
+  "observedAt": "2026-11-07T12:58:09Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 93794,
-      "forks": 11512,
-      "starsInPeriod": 306
+      "stars": 46433,
+      "forks": 3183,
+      "starsInPeriod": 180
     },
     {
       "rank": 2,
-      "fullName": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "programmingLanguage": "Python",
-      "stars": 9293,
-      "forks": 736,
-      "starsInPeriod": 2015
-    },
-    {
-      "rank": 3,
-      "fullName": "rails/rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
-      "programmingLanguage": "Ruby",
-      "stars": 59053,
-      "forks": 23833,
-      "starsInPeriod": 142
-    },
-    {
-      "rank": 4,
-      "fullName": "mpv-player/mpv",
-      "url": "https://github.com/mpv-player/mpv",
-      "description": "🎥 Command line media player",
-      "programmingLanguage": "C",
-      "stars": 37926,
-      "forks": 3634,
-      "starsInPeriod": 37
-    },
-    {
-      "rank": 5,
-      "fullName": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "programmingLanguage": "Rust",
-      "stars": 121513,
-      "forks": 17369,
-      "starsInPeriod": 192
-    },
-    {
-      "rank": 6,
-      "fullName": "react/react",
-      "url": "https://github.com/react/react",
-      "description": "The library for web and native user interfaces.",
-      "programmingLanguage": "JavaScript",
-      "stars": 252302,
-      "forks": 51826,
-      "starsInPeriod": 248
-    },
-    {
-      "rank": 7,
-      "fullName": "angular/angular",
-      "url": "https://github.com/angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
-      "programmingLanguage": "TypeScript",
-      "stars": 101414,
-      "forks": 28914,
-      "starsInPeriod": 135
-    },
-    {
-      "rank": 8,
-      "fullName": "symfony/symfony",
-      "url": "https://github.com/symfony/symfony",
-      "description": "The Symfony PHP framework",
-      "programmingLanguage": "PHP",
-      "stars": 31472,
-      "forks": 9949,
-      "starsInPeriod": 128
-    },
-    {
-      "rank": 9,
-      "fullName": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "programmingLanguage": "Go",
-      "stars": 67231,
-      "forks": 10989,
-      "starsInPeriod": 148
-    },
-    {
-      "rank": 10,
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "programmingLanguage": "Python",
-      "stars": 22936,
-      "forks": 1928,
-      "starsInPeriod": 534
-    },
-    {
-      "rank": 11,
-      "fullName": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
-      "programmingLanguage": "TypeScript",
-      "stars": 195074,
-      "forks": 44433,
-      "starsInPeriod": 301
-    },
-    {
-      "rank": 12,
-      "fullName": "lz4/lz4",
-      "url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "programmingLanguage": "C",
-      "stars": 12644,
-      "forks": 1643,
-      "starsInPeriod": 315
-    },
-    {
-      "rank": 13,
-      "fullName": "nushell/nushell",
-      "url": "https://github.com/nushell/nushell",
-      "description": "A new type of shell",
-      "programmingLanguage": "Rust",
-      "stars": 41017,
-      "forks": 2344,
-      "starsInPeriod": 131
-    },
-    {
-      "rank": 14,
-      "fullName": "etcd-io/etcd",
-      "url": "https://github.com/etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "programmingLanguage": "Go",
-      "stars": 52638,
-      "forks": 10590,
-      "starsInPeriod": 128
-    },
-    {
-      "rank": 15,
-      "fullName": "openssl/openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "programmingLanguage": "C",
-      "stars": 31330,
-      "forks": 11583,
-      "starsInPeriod": 26
-    },
-    {
-      "rank": 16,
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "programmingLanguage": "Shell",
-      "stars": 316906,
-      "forks": 26518,
-      "starsInPeriod": 2070
-    },
-    {
-      "rank": 17,
       "fullName": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 64390,
-      "forks": 4172,
-      "starsInPeriod": 2548
+      "stars": 64859,
+      "forks": 4207,
+      "starsInPeriod": 2088
     },
     {
-      "rank": 18,
+      "rank": 3,
+      "fullName": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "programmingLanguage": "Python",
+      "stars": 23073,
+      "forks": 1938,
+      "starsInPeriod": 449
+    },
+    {
+      "rank": 4,
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "programmingLanguage": "Shell",
+      "stars": 317202,
+      "forks": 26546,
+      "starsInPeriod": 1111
+    },
+    {
+      "rank": 5,
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "programmingLanguage": "Python",
+      "stars": 188370,
+      "forks": 22217,
+      "starsInPeriod": 386
+    },
+    {
+      "rank": 6,
+      "fullName": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "programmingLanguage": "TypeScript",
+      "stars": 14148,
+      "forks": 1171,
+      "starsInPeriod": 198
+    },
+    {
+      "rank": 7,
+      "fullName": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "programmingLanguage": "Go",
+      "stars": 67295,
+      "forks": 10993,
+      "starsInPeriod": 325
+    },
+    {
+      "rank": 8,
+      "fullName": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "programmingLanguage": "Python",
+      "stars": 99472,
+      "forks": 11787,
+      "starsInPeriod": 1761
+    },
+    {
+      "rank": 9,
+      "fullName": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "programmingLanguage": "TypeScript",
+      "stars": 16275,
+      "forks": 2306,
+      "starsInPeriod": 1986
+    },
+    {
+      "rank": 10,
       "fullName": "astral-sh/ruff",
       "url": "https://github.com/astral-sh/ruff",
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 50746,
-      "forks": 2615,
-      "starsInPeriod": 169
+      "stars": 50819,
+      "forks": 2622,
+      "starsInPeriod": 350
+    },
+    {
+      "rank": 11,
+      "fullName": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "programmingLanguage": "TypeScript",
+      "stars": 98217,
+      "forks": 7091,
+      "starsInPeriod": 152
+    },
+    {
+      "rank": 12,
+      "fullName": "mbillow/localthings",
+      "url": "https://github.com/mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "programmingLanguage": "Python",
+      "stars": 949,
+      "forks": 102,
+      "starsInPeriod": 184
+    },
+    {
+      "rank": 13,
+      "fullName": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "programmingLanguage": "Rust",
+      "stars": 94053,
+      "forks": 11535,
+      "starsInPeriod": 1119
+    },
+    {
+      "rank": 14,
+      "fullName": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "programmingLanguage": "TypeScript",
+      "stars": 4421,
+      "forks": 359,
+      "starsInPeriod": 185
+    },
+    {
+      "rank": 15,
+      "fullName": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "programmingLanguage": "Go",
+      "stars": 358,
+      "forks": 78,
+      "starsInPeriod": 125
     }
   ]
 }

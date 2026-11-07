@@ -4,12 +4,12 @@
     <title>GitHub Trending — weekly — rust</title>
     <link>https://github.com/trending/rust?since=weekly</link>
     <description>GitHub Trending — weekly — rust</description>
-    <lastBuildDate>Sat, 07 Nov 2026 05:56:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:58:32 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>weekly</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-11-07T05:56:48Z</ght:observedAt>
+    <ght:observedAt>2026-11-07T12:58:32Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,23 +17,35 @@
       <link>https://github.com/max-sixty/worktrunk</link>
       <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
       <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>11830</ght:stars>
-      <ght:forks>456</ght:forks>
+      <ght:stars>11875</ght:stars>
+      <ght:forks>460</ght:forks>
       <ght:starsInPeriod>2184</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>vercel-labs/agent-browser</title>
+      <link>https://github.com/vercel-labs/agent-browser</link>
+      <description>Browser automation CLI for AI agents</description>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>2</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>46433</ght:stars>
+      <ght:forks>3183</ght:forks>
+      <ght:starsInPeriod>1404</ght:starsInPeriod>
     </item>
     <item>
       <title>pbakaus/impeccable</title>
       <link>https://github.com/pbakaus/impeccable</link>
       <description>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.</description>
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>2</ght:rank>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>104949</ght:stars>
-      <ght:forks>6236</ght:forks>
+      <ght:stars>105155</ght:stars>
+      <ght:forks>6248</ght:forks>
       <ght:starsInPeriod>8172</ght:starsInPeriod>
     </item>
     <item>
@@ -41,35 +53,23 @@
       <link>https://github.com/herdrdev/herdr</link>
       <description>the runtime your coding agents live on</description>
       <guid isPermaLink="true">https://github.com/herdrdev/herdr</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>48794</ght:stars>
-      <ght:forks>3926</ght:forks>
-      <ght:starsInPeriod>1661</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>openai/codex</title>
-      <link>https://github.com/openai/codex</link>
-      <description>Lightweight coding agent that runs in your terminal</description>
-      <guid isPermaLink="true">https://github.com/openai/codex</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
       <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>133504</ght:stars>
-      <ght:forks>21160</ght:forks>
-      <ght:starsInPeriod>1930</ght:starsInPeriod>
+      <ght:stars>48923</ght:stars>
+      <ght:forks>3936</ght:forks>
+      <ght:starsInPeriod>1661</ght:starsInPeriod>
     </item>
     <item>
       <title>zed-industries/zed</title>
       <link>https://github.com/zed-industries/zed</link>
       <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
       <guid isPermaLink="true">https://github.com/zed-industries/zed</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
       <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>93795</ght:stars>
-      <ght:forks>11512</ght:forks>
+      <ght:stars>94053</ght:stars>
+      <ght:forks>11535</ght:forks>
       <ght:starsInPeriod>995</ght:starsInPeriod>
     </item>
     <item>
@@ -77,156 +77,144 @@
       <link>https://github.com/cjpais/Handy</link>
       <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
       <guid isPermaLink="true">https://github.com/cjpais/Handy</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
       <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>37845</ght:stars>
-      <ght:forks>3573</ght:forks>
+      <ght:stars>37878</ght:stars>
+      <ght:forks>3575</ght:forks>
       <ght:starsInPeriod>2677</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>vercel-labs/agent-browser</title>
-      <link>https://github.com/vercel-labs/agent-browser</link>
-      <description>Browser automation CLI for AI agents</description>
-      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>46341</ght:stars>
-      <ght:forks>3174</ght:forks>
-      <ght:starsInPeriod>1404</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>anomalyco/hex</title>
-      <link>https://github.com/anomalyco/hex</link>
-      <description>Local voice dictation for mac, windows and linux</description>
-      <guid isPermaLink="true">https://github.com/anomalyco/hex</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>8</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>5562</ght:stars>
-      <ght:forks>326</ght:forks>
-      <ght:starsInPeriod>4291</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>leepokai/Codync</title>
-      <link>https://github.com/leepokai/Codync</link>
-      <description>Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.</description>
-      <guid isPermaLink="true">https://github.com/leepokai/Codync</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>9</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1942</ght:stars>
-      <ght:forks>199</ght:forks>
-      <ght:starsInPeriod>922</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>xai-org/x-algorithm</title>
-      <link>https://github.com/xai-org/x-algorithm</link>
-      <description>Algorithm powering the For You feed on X</description>
-      <guid isPermaLink="true">https://github.com/xai-org/x-algorithm</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>10</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>34121</ght:stars>
-      <ght:forks>5515</ght:forks>
-      <ght:starsInPeriod>217</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>agentgateway/agentgateway</title>
-      <link>https://github.com/agentgateway/agentgateway</link>
-      <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
-      <guid isPermaLink="true">https://github.com/agentgateway/agentgateway</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>11</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>6005</ght:stars>
-      <ght:forks>1062</ght:forks>
-      <ght:starsInPeriod>180</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>crmne/zapfast</title>
-      <link>https://github.com/crmne/zapfast</link>
-      <description>ZapFast: a fast, native WhatsApp client in Rust and egui</description>
-      <guid isPermaLink="true">https://github.com/crmne/zapfast</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>12</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>3293</ght:stars>
-      <ght:forks>343</ght:forks>
-      <ght:starsInPeriod>931</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>clap-rs/clap</title>
-      <link>https://github.com/clap-rs/clap</link>
-      <description>A full featured, fast Command Line Argument Parser for Rust</description>
-      <guid isPermaLink="true">https://github.com/clap-rs/clap</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>13</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>16936</ght:stars>
-      <ght:forks>1307</ght:forks>
-      <ght:starsInPeriod>168</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>denoland/deno</title>
-      <link>https://github.com/denoland/deno</link>
-      <description>A modern runtime for JavaScript and TypeScript.</description>
-      <guid isPermaLink="true">https://github.com/denoland/deno</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>14</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>108906</ght:stars>
-      <ght:forks>6656</ght:forks>
-      <ght:starsInPeriod>280</ght:starsInPeriod>
     </item>
     <item>
       <title>astral-sh/ruff</title>
       <link>https://github.com/astral-sh/ruff</link>
       <description>An extremely fast Python linter and code formatter, written in Rust.</description>
       <guid isPermaLink="true">https://github.com/astral-sh/ruff</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>15</ght:rank>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>50746</ght:stars>
-      <ght:forks>2615</ght:forks>
+      <ght:stars>50819</ght:stars>
+      <ght:forks>2622</ght:forks>
       <ght:starsInPeriod>369</ght:starsInPeriod>
     </item>
     <item>
-      <title>SimoHypers/limusic</title>
-      <link>https://github.com/SimoHypers/limusic</link>
-      <description>Feature rich, native desktop, YouTube Music client.</description>
-      <guid isPermaLink="true">https://github.com/SimoHypers/limusic</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>16</ght:rank>
+      <title>openai/codex</title>
+      <link>https://github.com/openai/codex</link>
+      <description>Lightweight coding agent that runs in your terminal</description>
+      <guid isPermaLink="true">https://github.com/openai/codex</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1869</ght:stars>
-      <ght:forks>121</ght:forks>
-      <ght:starsInPeriod>382</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>janhq/jan</title>
-      <link>https://github.com/janhq/jan</link>
-      <description>Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.</description>
-      <guid isPermaLink="true">https://github.com/janhq/jan</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>17</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>45541</ght:stars>
-      <ght:forks>3157</ght:forks>
-      <ght:starsInPeriod>399</ght:starsInPeriod>
+      <ght:stars>133548</ght:stars>
+      <ght:forks>21171</ght:forks>
+      <ght:starsInPeriod>1930</ght:starsInPeriod>
     </item>
     <item>
       <title>nushell/nushell</title>
       <link>https://github.com/nushell/nushell</link>
       <description>A new type of shell</description>
       <guid isPermaLink="true">https://github.com/nushell/nushell</guid>
-      <pubDate>Sat, 07 Nov 2026 05:56:48 GMT</pubDate>
-      <ght:rank>18</ght:rank>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>41017</ght:stars>
-      <ght:forks>2344</ght:forks>
+      <ght:stars>41049</ght:stars>
+      <ght:forks>2345</ght:forks>
       <ght:starsInPeriod>220</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>clap-rs/clap</title>
+      <link>https://github.com/clap-rs/clap</link>
+      <description>A full featured, fast Command Line Argument Parser for Rust</description>
+      <guid isPermaLink="true">https://github.com/clap-rs/clap</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>10</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>16937</ght:stars>
+      <ght:forks>1308</ght:forks>
+      <ght:starsInPeriod>168</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>leepokai/Codync</title>
+      <link>https://github.com/leepokai/Codync</link>
+      <description>Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.</description>
+      <guid isPermaLink="true">https://github.com/leepokai/Codync</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>11</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>1953</ght:stars>
+      <ght:forks>200</ght:forks>
+      <ght:starsInPeriod>922</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>Mesh-LLM/mesh-llm</title>
+      <link>https://github.com/Mesh-LLM/mesh-llm</link>
+      <description>Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.</description>
+      <guid isPermaLink="true">https://github.com/Mesh-LLM/mesh-llm</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>12</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>3965</ght:stars>
+      <ght:forks>499</ght:forks>
+      <ght:starsInPeriod>280</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>crmne/zapfast</title>
+      <link>https://github.com/crmne/zapfast</link>
+      <description>ZapFast: a fast, native WhatsApp client in Rust and egui</description>
+      <guid isPermaLink="true">https://github.com/crmne/zapfast</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>13</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>3323</ght:stars>
+      <ght:forks>347</ght:forks>
+      <ght:starsInPeriod>931</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>denoland/deno</title>
+      <link>https://github.com/denoland/deno</link>
+      <description>A modern runtime for JavaScript and TypeScript.</description>
+      <guid isPermaLink="true">https://github.com/denoland/deno</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>14</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>108905</ght:stars>
+      <ght:forks>6706</ght:forks>
+      <ght:starsInPeriod>280</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>xai-org/x-algorithm</title>
+      <link>https://github.com/xai-org/x-algorithm</link>
+      <description>Algorithm powering the For You feed on X</description>
+      <guid isPermaLink="true">https://github.com/xai-org/x-algorithm</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>15</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>34127</ght:stars>
+      <ght:forks>5514</ght:forks>
+      <ght:starsInPeriod>217</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>dani-garcia/vaultwarden</title>
+      <link>https://github.com/dani-garcia/vaultwarden</link>
+      <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
+      <guid isPermaLink="true">https://github.com/dani-garcia/vaultwarden</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>70366</ght:stars>
+      <ght:forks>3431</ght:forks>
+      <ght:starsInPeriod>438</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>SimoHypers/limusic</title>
+      <link>https://github.com/SimoHypers/limusic</link>
+      <description>Feature rich, native desktop, YouTube Music client.</description>
+      <guid isPermaLink="true">https://github.com/SimoHypers/limusic</guid>
+      <pubDate>Sat, 07 Nov 2026 12:58:32 GMT</pubDate>
+      <ght:rank>17</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>1872</ght:stars>
+      <ght:forks>121</ght:forks>
+      <ght:starsInPeriod>382</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

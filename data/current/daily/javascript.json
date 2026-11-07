@@ -4,179 +4,109 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-11-07T05:57:05Z",
+  "observedAt": "2026-11-07T12:58:48Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "react/react",
-      "url": "https://github.com/react/react",
-      "description": "The library for web and native user interfaces.",
-      "programmingLanguage": "JavaScript",
-      "stars": 252302,
-      "forks": 51826,
-      "starsInPeriod": 248
-    },
-    {
-      "rank": 2,
       "fullName": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 64391,
-      "forks": 4172,
-      "starsInPeriod": 2548
+      "stars": 64860,
+      "forks": 4207,
+      "starsInPeriod": 2088
     },
     {
-      "rank": 3,
-      "fullName": "sveltejs/svelte",
-      "url": "https://github.com/sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "programmingLanguage": "JavaScript",
-      "stars": 88658,
-      "forks": 6795,
-      "starsInPeriod": 152
-    },
-    {
-      "rank": 4,
-      "fullName": "fastify/fastify",
-      "url": "https://github.com/fastify/fastify",
-      "description": "Fast and low overhead web framework, for Node.js",
-      "programmingLanguage": "JavaScript",
-      "stars": 37370,
-      "forks": 3048,
-      "starsInPeriod": 15
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "fullName": "Yu9191/wloc",
       "url": "https://github.com/Yu9191/wloc",
       "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "programmingLanguage": "JavaScript",
-      "stars": 10643,
-      "forks": 2629,
+      "stars": 10655,
+      "forks": 2630,
       "starsInPeriod": 112
     },
     {
-      "rank": 6,
-      "fullName": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "rank": 3,
+      "fullName": "HunYiSage/dsh-purge",
+      "url": "https://github.com/HunYiSage/dsh-purge",
+      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
       "programmingLanguage": "JavaScript",
-      "stars": 123390,
-      "forks": 38735,
-      "starsInPeriod": 192
+      "stars": 20532,
+      "forks": 4828,
+      "starsInPeriod": 774
     },
     {
-      "rank": 7,
-      "fullName": "simple-icons/simple-icons",
-      "url": "https://github.com/simple-icons/simple-icons",
-      "description": "SVG icons for popular brands",
-      "programmingLanguage": "JavaScript",
-      "stars": 26173,
-      "forks": 3187,
-      "starsInPeriod": 15
-    },
-    {
-      "rank": 8,
-      "fullName": "Anil-matcha/Open-Generative-AI",
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "programmingLanguage": "JavaScript",
-      "stars": 32854,
-      "forks": 6237,
-      "starsInPeriod": 398
-    },
-    {
-      "rank": 9,
-      "fullName": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "programmingLanguage": "JavaScript",
-      "stars": 7790,
-      "forks": 1002,
-      "starsInPeriod": 13
-    },
-    {
-      "rank": 10,
-      "fullName": "sveltejs/kit",
-      "url": "https://github.com/sveltejs/kit",
-      "description": "web development, streamlined",
-      "programmingLanguage": "JavaScript",
-      "stars": 20903,
-      "forks": 2378,
-      "starsInPeriod": 4
-    },
-    {
-      "rank": 11,
-      "fullName": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "programmingLanguage": "JavaScript",
-      "stars": 14545,
-      "forks": 1679,
-      "starsInPeriod": 518
-    },
-    {
-      "rank": 12,
-      "fullName": "usebruno/bruno",
-      "url": "https://github.com/usebruno/bruno",
-      "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
-      "programmingLanguage": "JavaScript",
-      "stars": 48257,
-      "forks": 3091,
-      "starsInPeriod": 44
-    },
-    {
-      "rank": 13,
-      "fullName": "HaD0Yun/CozyClay",
-      "url": "https://github.com/HaD0Yun/CozyClay",
-      "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
-      "programmingLanguage": "JavaScript",
-      "stars": 1560,
-      "forks": 181,
-      "starsInPeriod": 37
-    },
-    {
-      "rank": 14,
-      "fullName": "expressjs/express",
-      "url": "https://github.com/expressjs/express",
-      "description": "Fast, unopinionated, minimalist web framework for node.",
-      "programmingLanguage": "JavaScript",
-      "stars": 69576,
-      "forks": 25382,
-      "starsInPeriod": 2
-    },
-    {
-      "rank": 15,
-      "fullName": "open-gsd/gsd-core",
-      "url": "https://github.com/open-gsd/gsd-core",
-      "description": "Git. Ship. Done - Core",
-      "programmingLanguage": "JavaScript",
-      "stars": 11311,
-      "forks": 815,
-      "starsInPeriod": 41
-    },
-    {
-      "rank": 16,
-      "fullName": "Leaflet/Leaflet",
-      "url": "https://github.com/Leaflet/Leaflet",
-      "description": "🍃 number one JavaScript library for interactive maps 🇺🇦",
-      "programmingLanguage": "JavaScript",
-      "stars": 45874,
-      "forks": 6211,
-      "starsInPeriod": 16
-    },
-    {
-      "rank": 17,
+      "rank": 4,
       "fullName": "byoungd/up",
       "url": "https://github.com/byoungd/up",
       "description": "韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生",
       "programmingLanguage": "JavaScript",
-      "stars": 70216,
+      "stars": 70236,
       "forks": 6981,
       "starsInPeriod": 95
+    },
+    {
+      "rank": 5,
+      "fullName": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "programmingLanguage": "JavaScript",
+      "stars": 14578,
+      "forks": 1682,
+      "starsInPeriod": 136
+    },
+    {
+      "rank": 6,
+      "fullName": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "programmingLanguage": "JavaScript",
+      "stars": 88657,
+      "forks": 6797,
+      "starsInPeriod": 152
+    },
+    {
+      "rank": 7,
+      "fullName": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "programmingLanguage": "JavaScript",
+      "stars": 32896,
+      "forks": 6247,
+      "starsInPeriod": 398
+    },
+    {
+      "rank": 8,
+      "fullName": "babygoton/WorkDaddy",
+      "url": "https://github.com/babygoton/WorkDaddy",
+      "description": "WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。",
+      "programmingLanguage": "JavaScript",
+      "stars": 2786,
+      "forks": 306,
+      "starsInPeriod": 30
+    },
+    {
+      "rank": 9,
+      "fullName": "cobusgreyling/grok-bot-templates",
+      "url": "https://github.com/cobusgreyling/grok-bot-templates",
+      "description": "The engineering kit for Grok Bot templates. Spec, Bot Ready score, teams, skills, routines, and a catalog you can paste into Grok Bot today.",
+      "programmingLanguage": "JavaScript",
+      "stars": 103,
+      "forks": 23,
+      "starsInPeriod": 5
+    },
+    {
+      "rank": 10,
+      "fullName": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "programmingLanguage": "JavaScript",
+      "stars": 252347,
+      "forks": 51876,
+      "starsInPeriod": 374
     }
   ]
 }

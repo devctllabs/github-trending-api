@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-11-07T05:56:38Z",
+  "observedAt": "2026-11-07T12:58:22Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,19 +14,19 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 188257,
-      "forks": 22200,
+      "stars": 188370,
+      "forks": 22217,
       "starsInPeriod": 3159
     },
     {
       "rank": 2,
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "fullName": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "programmingLanguage": "Python",
-      "stars": 56058,
-      "forks": 6854,
-      "starsInPeriod": 4588
+      "stars": 99088,
+      "forks": 10380,
+      "starsInPeriod": 8372
     },
     {
       "rank": 3,
@@ -34,29 +34,29 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "programmingLanguage": "Python",
-      "stars": 77826,
-      "forks": 10360,
+      "stars": 77994,
+      "forks": 10385,
       "starsInPeriod": 4405
     },
     {
       "rank": 4,
+      "fullName": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "programmingLanguage": "Python",
+      "stars": 148317,
+      "forks": 13329,
+      "starsInPeriod": 4202
+    },
+    {
+      "rank": 5,
       "fullName": "The-PR-Agent/pr-agent",
       "url": "https://github.com/The-PR-Agent/pr-agent",
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "programmingLanguage": "Python",
-      "stars": 15339,
-      "forks": 2131,
+      "stars": 15368,
+      "forks": 2134,
       "starsInPeriod": 1523
-    },
-    {
-      "rank": 5,
-      "fullName": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "programmingLanguage": "Python",
-      "stars": 98934,
-      "forks": 10366,
-      "starsInPeriod": 8372
     },
     {
       "rank": 6,
@@ -64,89 +64,89 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "programmingLanguage": "Python",
-      "stars": 47098,
-      "forks": 7789,
+      "stars": 47146,
+      "forks": 7793,
       "starsInPeriod": 2984
     },
     {
       "rank": 7,
-      "fullName": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "programmingLanguage": "Python",
-      "stars": 148245,
-      "forks": 13318,
-      "starsInPeriod": 4202
-    },
-    {
-      "rank": 8,
       "fullName": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "programmingLanguage": "Python",
-      "stars": 65723,
-      "forks": 5190,
+      "stars": 65833,
+      "forks": 5204,
       "starsInPeriod": 2981
     },
     {
-      "rank": 9,
-      "fullName": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "rank": 8,
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "programmingLanguage": "Python",
-      "stars": 143633,
-      "forks": 13738,
-      "starsInPeriod": 4281
+      "stars": 56211,
+      "forks": 6871,
+      "starsInPeriod": 4588
     },
     {
-      "rank": 10,
+      "rank": 9,
       "fullName": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "programmingLanguage": "Python",
-      "stars": 26543,
-      "forks": 3026,
+      "stars": 26562,
+      "forks": 3028,
       "starsInPeriod": 879
     },
     {
-      "rank": 11,
+      "rank": 10,
       "fullName": "AgriciDaniel/claude-seo",
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 27102,
-      "forks": 3519,
+      "stars": 27159,
+      "forks": 3525,
       "starsInPeriod": 2713
     },
     {
-      "rank": 12,
-      "fullName": "ethanplusai/sellbird",
-      "url": "https://github.com/ethanplusai/sellbird",
-      "description": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
-      "programmingLanguage": "Python",
-      "stars": 4643,
-      "forks": 991,
-      "starsInPeriod": 1163
-    },
-    {
-      "rank": 13,
+      "rank": 11,
       "fullName": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "programmingLanguage": "Python",
-      "stars": 140331,
-      "forks": 22385,
+      "stars": 140477,
+      "forks": 22405,
       "starsInPeriod": 3848
     },
     {
-      "rank": 14,
-      "fullName": "scenario-labs/skills",
-      "url": "https://github.com/scenario-labs/skills",
-      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "rank": 12,
+      "fullName": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
       "programmingLanguage": "Python",
-      "stars": 3440,
-      "forks": 297,
-      "starsInPeriod": 2178
+      "stars": 23073,
+      "forks": 1938,
+      "starsInPeriod": 1349
+    },
+    {
+      "rank": 13,
+      "fullName": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "programmingLanguage": "Python",
+      "stars": 143768,
+      "forks": 13752,
+      "starsInPeriod": 4281
+    },
+    {
+      "rank": 14,
+      "fullName": "ethanplusai/sellbird",
+      "url": "https://github.com/ethanplusai/sellbird",
+      "description": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
+      "programmingLanguage": "Python",
+      "stars": 4712,
+      "forks": 1001,
+      "starsInPeriod": 1163
     },
     {
       "rank": 15,
@@ -160,22 +160,32 @@
     },
     {
       "rank": 16,
-      "fullName": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "fullName": "scenario-labs/skills",
+      "url": "https://github.com/scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
       "programmingLanguage": "Python",
-      "stars": 7414,
-      "forks": 665,
-      "starsInPeriod": 755
+      "stars": 3477,
+      "forks": 300,
+      "starsInPeriod": 2178
     },
     {
       "rank": 17,
+      "fullName": "pandas-dev/pandas",
+      "url": "https://github.com/pandas-dev/pandas",
+      "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+      "programmingLanguage": "Python",
+      "stars": 50515,
+      "forks": 20727,
+      "starsInPeriod": 414
+    },
+    {
+      "rank": 18,
       "fullName": "NVIDIA/auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "programmingLanguage": "Python",
-      "stars": 9293,
-      "forks": 736,
+      "stars": 9582,
+      "forks": 768,
       "starsInPeriod": 8035
     }
   ]
