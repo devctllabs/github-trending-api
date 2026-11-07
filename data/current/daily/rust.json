@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-07T12:58:29Z",
+  "observedAt": "2026-11-07T21:48:30Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 46433,
-      "forks": 3183,
+      "stars": 46753,
+      "forks": 3202,
       "starsInPeriod": 180
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/astral-sh/ruff",
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 50819,
-      "forks": 2622,
+      "stars": 50950,
+      "forks": 2628,
       "starsInPeriod": 350
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "programmingLanguage": "Rust",
-      "stars": 94053,
-      "forks": 11535,
+      "stars": 94230,
+      "forks": 11550,
       "starsInPeriod": 1119
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/CapSoftware/Cap",
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "programmingLanguage": "Rust",
-      "stars": 24575,
-      "forks": 2279,
+      "stars": 24597,
+      "forks": 2284,
       "starsInPeriod": 82
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 19767,
+      "stars": 19817,
       "forks": 1218,
       "starsInPeriod": 217
     },
@@ -64,9 +64,9 @@
       "url": "https://github.com/rivet-dev/rivet",
       "description": "The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.",
       "programmingLanguage": "Rust",
-      "stars": 6774,
-      "forks": 311,
-      "starsInPeriod": 162
+      "stars": 6782,
+      "forks": 310,
+      "starsInPeriod": 27
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/sharkdp/fd",
       "description": "A simple, fast and user-friendly alternative to 'find'",
       "programmingLanguage": "Rust",
-      "stars": 45098,
-      "forks": 1301,
-      "starsInPeriod": 160
+      "stars": 45110,
+      "forks": 1303,
+      "starsInPeriod": 106
     },
     {
       "rank": 8,
@@ -84,8 +84,8 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 11875,
-      "forks": 460,
+      "stars": 11941,
+      "forks": 463,
       "starsInPeriod": 147
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/BurntSushi/ripgrep",
       "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
       "programmingLanguage": "Rust",
-      "stars": 69857,
-      "forks": 4188,
+      "stars": 69877,
+      "forks": 4191,
       "starsInPeriod": 136
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://github.com/astral-sh/uv",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 91721,
-      "forks": 3774,
+      "stars": 91740,
+      "forks": 3778,
       "starsInPeriod": 133
     },
     {
@@ -114,9 +114,9 @@
       "url": "https://github.com/windmill-labs/windmill",
       "description": "Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.",
       "programmingLanguage": "Rust",
-      "stars": 18446,
-      "forks": 1141,
-      "starsInPeriod": 39
+      "stars": 18458,
+      "forks": 1143,
+      "starsInPeriod": 19
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/tokio-rs/tokio",
       "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
       "programmingLanguage": "Rust",
-      "stars": 33708,
-      "forks": 4510,
-      "starsInPeriod": 149
+      "stars": 33717,
+      "forks": 4509,
+      "starsInPeriod": 107
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 128517,
-      "forks": 20418,
-      "starsInPeriod": 161
+      "stars": 128558,
+      "forks": 20426,
+      "starsInPeriod": 116
     },
     {
       "rank": 14,
@@ -144,8 +144,8 @@
       "url": "https://github.com/serde-rs/serde",
       "description": "Serialization framework for Rust",
       "programmingLanguage": "Rust",
-      "stars": 11050,
-      "forks": 990,
+      "stars": 11056,
+      "forks": 991,
       "starsInPeriod": 102
     },
     {
@@ -154,9 +154,9 @@
       "url": "https://github.com/denoland/deno",
       "description": "A modern runtime for JavaScript and TypeScript.",
       "programmingLanguage": "Rust",
-      "stars": 108905,
-      "forks": 6706,
-      "starsInPeriod": 146
+      "stars": 108909,
+      "forks": 6766,
+      "starsInPeriod": 84
     },
     {
       "rank": 16,
@@ -164,8 +164,8 @@
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "programmingLanguage": "Rust",
-      "stars": 121578,
-      "forks": 17371,
+      "stars": 121603,
+      "forks": 17375,
       "starsInPeriod": 463
     },
     {
@@ -174,9 +174,9 @@
       "url": "https://github.com/orhun/git-cliff",
       "description": "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️",
       "programmingLanguage": "Rust",
-      "stars": 12497,
+      "stars": 12504,
       "forks": 364,
-      "starsInPeriod": 116
+      "starsInPeriod": 101
     }
   ]
 }
