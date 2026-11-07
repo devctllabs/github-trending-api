@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=monthly",
-  "observedAt": "2026-11-06T19:23:44Z",
+  "observedAt": "2026-11-07T05:57:12Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,79 +14,79 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 63562,
-      "forks": 4121,
-      "starsInPeriod": 35956
+      "stars": 64392,
+      "forks": 4172,
+      "starsInPeriod": 38004
     },
     {
       "rank": 2,
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+      "programmingLanguage": "JavaScript",
+      "stars": 33625,
+      "forks": 2305,
+      "starsInPeriod": 8288
+    },
+    {
+      "rank": 3,
       "fullName": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "programmingLanguage": "JavaScript",
-      "stars": 111159,
-      "forks": 7467,
-      "starsInPeriod": 18324
+      "stars": 111297,
+      "forks": 7479,
+      "starsInPeriod": 18668
     },
     {
-      "rank": 3,
+      "rank": 4,
       "fullName": "mrdoob/three.js",
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
       "programmingLanguage": "JavaScript",
-      "stars": 117696,
-      "forks": 36879,
-      "starsInPeriod": 1732
+      "stars": 117746,
+      "forks": 36885,
+      "starsInPeriod": 1755
     },
     {
-      "rank": 4,
+      "rank": 5,
       "fullName": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "programmingLanguage": "JavaScript",
-      "stars": 21895,
+      "stars": 21923,
       "forks": 1242,
-      "starsInPeriod": 5030
+      "starsInPeriod": 5119
     },
     {
-      "rank": 5,
+      "rank": 6,
       "fullName": "hmjz100/LinkSwift",
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 38233,
-      "forks": 2750,
-      "starsInPeriod": 17117
+      "stars": 38343,
+      "forks": 2763,
+      "starsInPeriod": 17302
     },
     {
-      "rank": 6,
+      "rank": 7,
       "fullName": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "programmingLanguage": "JavaScript",
-      "stars": 19951,
-      "forks": 2660,
-      "starsInPeriod": 15958
+      "stars": 20014,
+      "forks": 2672,
+      "starsInPeriod": 14860
     },
     {
-      "rank": 7,
+      "rank": 8,
       "fullName": "withmarbleapp/os-taxonomy",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "description": null,
       "programmingLanguage": "JavaScript",
-      "stars": 7624,
-      "forks": 1241,
-      "starsInPeriod": 2927
-    },
-    {
-      "rank": 8,
-      "fullName": "mnfst/awesome-free-llm-apis",
-      "url": "https://github.com/mnfst/awesome-free-llm-apis",
-      "description": "List of Permanent Free LLM API (API Keys)",
-      "programmingLanguage": "JavaScript",
-      "stars": 12420,
-      "forks": 1454,
-      "starsInPeriod": 3199
+      "stars": 7626,
+      "forks": 1240,
+      "starsInPeriod": 2934
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 298450,
-      "forks": 44114,
-      "starsInPeriod": 25996
+      "stars": 298690,
+      "forks": 44143,
+      "starsInPeriod": 25975
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 113700,
-      "forks": 11885,
-      "starsInPeriod": 12498
+      "stars": 113771,
+      "forks": 11890,
+      "starsInPeriod": 12341
     },
     {
       "rank": 11,
@@ -115,8 +115,8 @@
       "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
       "programmingLanguage": "JavaScript",
       "stars": 49396,
-      "forks": 7648,
-      "starsInPeriod": 597
+      "forks": 7647,
+      "starsInPeriod": 601
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/plugin87/ux-ui-agent-skills",
       "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
       "programmingLanguage": "JavaScript",
-      "stars": 3115,
+      "stars": 3122,
       "forks": 301,
-      "starsInPeriod": 1599
+      "starsInPeriod": 1601
     }
   ]
 }
