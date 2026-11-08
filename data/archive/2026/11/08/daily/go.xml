@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ght="urn:github-trending:v1" version="2.0">
+  <channel>
+    <title>GitHub Trending — daily — go</title>
+    <link>https://github.com/trending/go</link>
+    <description>GitHub Trending — daily — go</description>
+    <lastBuildDate>Sun, 08 Nov 2026 05:58:59 GMT</lastBuildDate>
+    <ght:schemaVersion>1</ght:schemaVersion>
+    <ght:kind>daily-rollup</ght:kind>
+    <ght:date>2026-11-08</ght:date>
+    <ght:period>daily</ght:period>
+    <ght:language>go</ght:language>
+    <ght:updatedAt>2026-11-08T05:58:59Z</ght:updatedAt>
+    <ght:latestStatus>complete</ght:latestStatus>
+    <ght:latestIssues />
+    <item>
+      <title>prometheus/prometheus</title>
+      <link>https://github.com/prometheus/prometheus</link>
+      <description>The Prometheus monitoring system and time series database.</description>
+      <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>67483</ght:stars>
+      <ght:forks>11011</ght:forks>
+      <ght:starsInPeriod>322</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>dsx-ai-factory/nvke</title>
+      <link>https://github.com/dsx-ai-factory/nvke</link>
+      <description>NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</description>
+      <guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>610</ght:stars>
+      <ght:forks>94</ght:forks>
+      <ght:starsInPeriod>123</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>google-gemini/gemini-api-cli</title>
+      <link>https://github.com/google-gemini/gemini-api-cli</link>
+      <description>An (experimental) CLI for the Gemini API</description>
+      <guid isPermaLink="true">https://github.com/google-gemini/gemini-api-cli</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>473</ght:stars>
+      <ght:forks>74</ght:forks>
+      <ght:starsInPeriod>14</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>go-vikunja/vikunja</title>
+      <link>https://github.com/go-vikunja/vikunja</link>
+      <description>The task manager you actually own.</description>
+      <guid isPermaLink="true">https://github.com/go-vikunja/vikunja</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5993</ght:stars>
+      <ght:forks>817</ght:forks>
+      <ght:starsInPeriod>15</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>etcd-io/etcd</title>
+      <link>https://github.com/etcd-io/etcd</link>
+      <description>Distributed reliable key-value store for the most critical data of a distributed system</description>
+      <guid isPermaLink="true">https://github.com/etcd-io/etcd</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>52669</ght:stars>
+      <ght:forks>10594</ght:forks>
+      <ght:starsInPeriod>159</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>spf13/cobra</title>
+      <link>https://github.com/spf13/cobra</link>
+      <description>A Commander for modern Go CLI interactions</description>
+      <guid isPermaLink="true">https://github.com/spf13/cobra</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>44846</ght:stars>
+      <ght:forks>4478</ght:forks>
+      <ght:starsInPeriod>64</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>mikefarah/yq</title>
+      <link>https://github.com/mikefarah/yq</link>
+      <description>yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor</description>
+      <guid isPermaLink="true">https://github.com/mikefarah/yq</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>16239</ght:stars>
+      <ght:forks>2068</ght:forks>
+      <ght:starsInPeriod>8</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>JuliusBrussee/caveman</title>
+      <link>https://github.com/JuliusBrussee/caveman</link>
+      <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
+      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>118196</ght:stars>
+      <ght:forks>6872</ght:forks>
+      <ght:starsInPeriod>205</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>kubernetes/kubernetes</title>
+      <link>https://github.com/kubernetes/kubernetes</link>
+      <description>Production-Grade Container Scheduling and Management</description>
+      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>128909</ght:stars>
+      <ght:forks>45757</ght:forks>
+      <ght:starsInPeriod>105</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>kagent-dev/kagent</title>
+      <link>https://github.com/kagent-dev/kagent</link>
+      <description>Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord</description>
+      <guid isPermaLink="true">https://github.com/kagent-dev/kagent</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4184</ght:stars>
+      <ght:forks>886</ght:forks>
+      <ght:starsInPeriod>8</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>gin-gonic/gin</title>
+      <link>https://github.com/gin-gonic/gin</link>
+      <description>Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.</description>
+      <guid isPermaLink="true">https://github.com/gin-gonic/gin</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>89601</ght:stars>
+      <ght:forks>8913</ght:forks>
+      <ght:starsInPeriod>82</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>google/gvisor</title>
+      <link>https://github.com/google/gvisor</link>
+      <description>Application Kernel for Containers</description>
+      <guid isPermaLink="true">https://github.com/google/gvisor</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>19915</ght:stars>
+      <ght:forks>2066</ght:forks>
+      <ght:starsInPeriod>16</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>microsoft/TypeScript</title>
+      <link>https://github.com/microsoft/TypeScript</link>
+      <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
+      <guid isPermaLink="true">https://github.com/microsoft/TypeScript</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>111862</ght:stars>
+      <ght:forks>15401</ght:forks>
+      <ght:starsInPeriod>86</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>aquasecurity/trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>39107</ght:stars>
+      <ght:forks>835</ght:forks>
+      <ght:starsInPeriod>29</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>moby/moby</title>
+      <link>https://github.com/moby/moby</link>
+      <description>The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</description>
+      <guid isPermaLink="true">https://github.com/moby/moby</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>72363</ght:stars>
+      <ght:forks>19321</ght:forks>
+      <ght:starsInPeriod>87</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>multica-ai/multica</title>
+      <link>https://github.com/multica-ai/multica</link>
+      <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
+      <guid isPermaLink="true">https://github.com/multica-ai/multica</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>55243</ght:stars>
+      <ght:forks>7283</ght:forks>
+      <ght:starsInPeriod>85</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Gentleman-Programming/gentle-ai</title>
+      <link>https://github.com/Gentleman-Programming/gentle-ai</link>
+      <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
+      <guid isPermaLink="true">https://github.com/Gentleman-Programming/gentle-ai</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>8585</ght:stars>
+      <ght:forks>886</ght:forks>
+      <ght:starsInPeriod>75</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>agent-substrate/substrate</title>
+      <link>https://github.com/agent-substrate/substrate</link>
+      <description>Agent Substrate: the core system</description>
+      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6203</ght:stars>
+      <ght:forks>700</ght:forks>
+      <ght:starsInPeriod>51</ght:starsInPeriod>
+      <ght:bestRank>18</ght:bestRank>
+      <ght:latestRank>18</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>lharries/whatsapp-mcp</title>
+      <link>https://github.com/lharries/whatsapp-mcp</link>
+      <description>WhatsApp MCP server</description>
+      <guid isPermaLink="true">https://github.com/lharries/whatsapp-mcp</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6835</ght:stars>
+      <ght:forks>1488</ght:forks>
+      <ght:starsInPeriod>8</ght:starsInPeriod>
+      <ght:bestRank>19</ght:bestRank>
+      <ght:latestRank>19</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:59Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T05:58:59Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+  </channel>
+</rss>
