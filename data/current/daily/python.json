@@ -4,159 +4,119 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-11-08T05:58:39Z",
+  "observedAt": "2026-11-08T13:22:15Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "programmingLanguage": "Python",
-      "stars": 23511,
-      "forks": 1965,
-      "starsInPeriod": 443
-    },
-    {
-      "rank": 2,
-      "fullName": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "programmingLanguage": "Python",
-      "stars": 188923,
-      "forks": 22268,
-      "starsInPeriod": 390
-    },
-    {
-      "rank": 3,
       "fullName": "sherlock-project/sherlock",
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "programmingLanguage": "Python",
-      "stars": 101021,
-      "forks": 11941,
-      "starsInPeriod": 1766
+      "stars": 101948,
+      "forks": 12025,
+      "starsInPeriod": 2372
+    },
+    {
+      "rank": 2,
+      "fullName": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "programmingLanguage": "Python",
+      "stars": 19197,
+      "forks": 3265,
+      "starsInPeriod": 28
+    },
+    {
+      "rank": 3,
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "programmingLanguage": "Python",
+      "stars": 189173,
+      "forks": 22296,
+      "starsInPeriod": 793
     },
     {
       "rank": 4,
-      "fullName": "mbillow/localthings",
-      "url": "https://github.com/mbillow/localthings",
-      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "programmingLanguage": "Python",
-      "stars": 1096,
-      "forks": 114,
-      "starsInPeriod": 186
-    },
-    {
-      "rank": 5,
-      "fullName": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "programmingLanguage": "Python",
-      "stars": 56723,
-      "forks": 6388,
-      "starsInPeriod": 245
-    },
-    {
-      "rank": 6,
-      "fullName": "elder-plinius/OBLITERATUS",
-      "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
-      "programmingLanguage": "Python",
-      "stars": 9289,
-      "forks": 1648,
-      "starsInPeriod": 57
-    },
-    {
-      "rank": 7,
-      "fullName": "spotDL/spotify-downloader",
-      "url": "https://github.com/spotDL/spotify-downloader",
-      "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
-      "programmingLanguage": "Python",
-      "stars": 26741,
-      "forks": 2315,
-      "starsInPeriod": 59
-    },
-    {
-      "rank": 8,
       "fullName": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "programmingLanguage": "Python",
-      "stars": 60024,
-      "forks": 7536,
+      "stars": 60076,
+      "forks": 7542,
       "starsInPeriod": 378
     },
     {
-      "rank": 9,
-      "fullName": "django/django",
-      "url": "https://github.com/django/django",
-      "description": "The Web framework for perfectionists with deadlines.",
+      "rank": 5,
+      "fullName": "googlecolab/google-colab-cli",
+      "url": "https://github.com/googlecolab/google-colab-cli",
+      "description": "A CLI for interacting with Google Colab runtimes",
       "programmingLanguage": "Python",
-      "stars": 91688,
-      "forks": 35970,
+      "stars": 2059,
+      "forks": 295,
+      "starsInPeriod": 139
+    },
+    {
+      "rank": 6,
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "programmingLanguage": "Python",
+      "stars": 77711,
+      "forks": 13784,
+      "starsInPeriod": 439
+    },
+    {
+      "rank": 7,
+      "fullName": "neuml/txtai",
+      "url": "https://github.com/neuml/txtai",
+      "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "programmingLanguage": "Python",
+      "stars": 13133,
+      "forks": 978,
+      "starsInPeriod": 57
+    },
+    {
+      "rank": 8,
+      "fullName": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "programmingLanguage": "Python",
+      "stars": 20192,
+      "forks": 2146,
       "starsInPeriod": 99
     },
     {
-      "rank": 10,
-      "fullName": "EbookFoundation/free-programming-books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "description": "📚 Freely available programming books",
+      "rank": 9,
+      "fullName": "BigBodyCobain/Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
       "programmingLanguage": "Python",
-      "stars": 401239,
-      "forks": 67370,
-      "starsInPeriod": 165
+      "stars": 11491,
+      "forks": 1830,
+      "starsInPeriod": 21
+    },
+    {
+      "rank": 10,
+      "fullName": "XiaoYouChR/Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "programmingLanguage": "Python",
+      "stars": 10815,
+      "forks": 706,
+      "starsInPeriod": 46
     },
     {
       "rank": 11,
-      "fullName": "donnemartin/system-design-primer",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "fullName": "SWE-agent/mini-swe-agent",
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
       "programmingLanguage": "Python",
-      "stars": 377283,
-      "forks": 59217,
-      "starsInPeriod": 192
-    },
-    {
-      "rank": 12,
-      "fullName": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "programmingLanguage": "Python",
-      "stars": 3430,
-      "forks": 441,
-      "starsInPeriod": 8
-    },
-    {
-      "rank": 13,
-      "fullName": "Usagi-org/ai-goofish-monitor",
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "programmingLanguage": "Python",
-      "stars": 18339,
-      "forks": 3024,
-      "starsInPeriod": 144
-    },
-    {
-      "rank": 14,
-      "fullName": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "programmingLanguage": "Python",
-      "stars": 9852,
-      "forks": 805,
-      "starsInPeriod": 1155
-    },
-    {
-      "rank": 15,
-      "fullName": "bobeff/open-source-games",
-      "url": "https://github.com/bobeff/open-source-games",
-      "description": "A list of open source games.",
-      "programmingLanguage": "Python",
-      "stars": 17839,
-      "forks": 1640,
-      "starsInPeriod": 143
+      "stars": 9367,
+      "forks": 1296,
+      "starsInPeriod": 84
     }
   ]
 }

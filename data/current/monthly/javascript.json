@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=monthly",
-  "observedAt": "2026-11-08T05:59:15Z",
+  "observedAt": "2026-11-08T13:22:51Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 66014,
-      "forks": 4295,
+      "stars": 66360,
+      "forks": 4322,
       "starsInPeriod": 39571
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
       "programmingLanguage": "JavaScript",
-      "stars": 33656,
-      "forks": 2307,
+      "stars": 33674,
+      "forks": 2306,
       "starsInPeriod": 8266
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/rorygallagher2024/glasshouse",
       "description": "For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.",
       "programmingLanguage": "JavaScript",
-      "stars": 1962,
-      "forks": 118,
+      "stars": 1972,
+      "forks": 117,
       "starsInPeriod": 1503
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/michael-denyer/pstack-claude",
       "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "programmingLanguage": "JavaScript",
-      "stars": 4135,
-      "forks": 378,
+      "stars": 4140,
+      "forks": 377,
       "starsInPeriod": 2566
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "programmingLanguage": "JavaScript",
-      "stars": 22049,
-      "forks": 1250,
+      "stars": 22089,
+      "forks": 1255,
       "starsInPeriod": 5205
     },
     {
@@ -64,39 +64,39 @@
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
       "programmingLanguage": "JavaScript",
-      "stars": 117844,
-      "forks": 36905,
+      "stars": 117865,
+      "forks": 36909,
       "starsInPeriod": 1832
     },
     {
       "rank": 7,
-      "fullName": "Minglink/dsh-infinite-gen-5",
-      "url": "https://github.com/Minglink/dsh-infinite-gen-5",
-      "description": "DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进",
-      "programmingLanguage": "JavaScript",
-      "stars": 4021,
-      "forks": 518,
-      "starsInPeriod": 1689
-    },
-    {
-      "rank": 8,
       "fullName": "hmjz100/LinkSwift",
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 38631,
-      "forks": 2781,
+      "stars": 38771,
+      "forks": 2788,
       "starsInPeriod": 17587
     },
     {
-      "rank": 9,
+      "rank": 8,
       "fullName": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "programmingLanguage": "JavaScript",
-      "stars": 20218,
-      "forks": 2698,
+      "stars": 20290,
+      "forks": 2709,
       "starsInPeriod": 13653
+    },
+    {
+      "rank": 9,
+      "fullName": "Minglink/dsh-infinite-gen-5",
+      "url": "https://github.com/Minglink/dsh-infinite-gen-5",
+      "description": "DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进",
+      "programmingLanguage": "JavaScript",
+      "stars": 4029,
+      "forks": 521,
+      "starsInPeriod": 1689
     },
     {
       "rank": 10,
@@ -104,8 +104,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 299275,
-      "forks": 44216,
+      "stars": 299442,
+      "forks": 44236,
       "starsInPeriod": 25975
     },
     {
@@ -114,8 +114,8 @@
       "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
       "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
       "programmingLanguage": "JavaScript",
-      "stars": 49396,
-      "forks": 7648,
+      "stars": 49395,
+      "forks": 7647,
       "starsInPeriod": 600
     },
     {
@@ -124,9 +124,19 @@
       "url": "https://github.com/plugin87/ux-ui-agent-skills",
       "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
       "programmingLanguage": "JavaScript",
-      "stars": 3134,
+      "stars": 3136,
       "forks": 301,
       "starsInPeriod": 1614
+    },
+    {
+      "rank": 13,
+      "fullName": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "programmingLanguage": "JavaScript",
+      "stars": 252407,
+      "forks": 51965,
+      "starsInPeriod": 3372
     }
   ]
 }

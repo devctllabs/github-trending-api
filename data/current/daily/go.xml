@@ -4,241 +4,229 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Sun, 08 Nov 2026 05:58:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:22:35 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-11-08T05:58:59Z</ght:observedAt>
+    <ght:observedAt>2026-11-08T13:22:35Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
-    <item>
-      <title>prometheus/prometheus</title>
-      <link>https://github.com/prometheus/prometheus</link>
-      <description>The Prometheus monitoring system and time series database.</description>
-      <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
-      <ght:rank>1</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>67483</ght:stars>
-      <ght:forks>11011</ght:forks>
-      <ght:starsInPeriod>322</ght:starsInPeriod>
-    </item>
     <item>
       <title>dsx-ai-factory/nvke</title>
       <link>https://github.com/dsx-ai-factory/nvke</link>
       <description>NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</description>
       <guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
+      <ght:rank>1</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>702</ght:stars>
+      <ght:forks>104</ght:forks>
+      <ght:starsInPeriod>345</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>henrygd/beszel</title>
+      <link>https://github.com/henrygd/beszel</link>
+      <description>Lightweight server monitoring with historical data, docker stats, and alerts.</description>
+      <guid isPermaLink="true">https://github.com/henrygd/beszel</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
       <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>610</ght:stars>
-      <ght:forks>94</ght:forks>
-      <ght:starsInPeriod>123</ght:starsInPeriod>
+      <ght:stars>26974</ght:stars>
+      <ght:forks>1153</ght:forks>
+      <ght:starsInPeriod>86</ght:starsInPeriod>
     </item>
     <item>
-      <title>google-gemini/gemini-api-cli</title>
-      <link>https://github.com/google-gemini/gemini-api-cli</link>
-      <description>An (experimental) CLI for the Gemini API</description>
-      <guid isPermaLink="true">https://github.com/google-gemini/gemini-api-cli</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <title>prometheus/prometheus</title>
+      <link>https://github.com/prometheus/prometheus</link>
+      <description>The Prometheus monitoring system and time series database.</description>
+      <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
       <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>473</ght:stars>
-      <ght:forks>74</ght:forks>
-      <ght:starsInPeriod>14</ght:starsInPeriod>
+      <ght:stars>67544</ght:stars>
+      <ght:forks>11011</ght:forks>
+      <ght:starsInPeriod>258</ght:starsInPeriod>
     </item>
     <item>
-      <title>go-vikunja/vikunja</title>
-      <link>https://github.com/go-vikunja/vikunja</link>
-      <description>The task manager you actually own.</description>
-      <guid isPermaLink="true">https://github.com/go-vikunja/vikunja</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <title>Christ9038/Ydisks-Xianyu-Helper</title>
+      <link>https://github.com/Christ9038/Ydisks-Xianyu-Helper</link>
+      <description>闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建</description>
+      <guid isPermaLink="true">https://github.com/Christ9038/Ydisks-Xianyu-Helper</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
       <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>5993</ght:stars>
-      <ght:forks>817</ght:forks>
-      <ght:starsInPeriod>15</ght:starsInPeriod>
+      <ght:stars>2328</ght:stars>
+      <ght:forks>634</ght:forks>
+      <ght:starsInPeriod>48</ght:starsInPeriod>
     </item>
     <item>
-      <title>etcd-io/etcd</title>
-      <link>https://github.com/etcd-io/etcd</link>
-      <description>Distributed reliable key-value store for the most critical data of a distributed system</description>
-      <guid isPermaLink="true">https://github.com/etcd-io/etcd</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <title>XTLS/Xray-core</title>
+      <link>https://github.com/XTLS/Xray-core</link>
+      <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
+      <guid isPermaLink="true">https://github.com/XTLS/Xray-core</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
       <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>52669</ght:stars>
-      <ght:forks>10594</ght:forks>
-      <ght:starsInPeriod>159</ght:starsInPeriod>
+      <ght:stars>42716</ght:stars>
+      <ght:forks>6125</ght:forks>
+      <ght:starsInPeriod>39</ght:starsInPeriod>
     </item>
     <item>
-      <title>spf13/cobra</title>
-      <link>https://github.com/spf13/cobra</link>
-      <description>A Commander for modern Go CLI interactions</description>
-      <guid isPermaLink="true">https://github.com/spf13/cobra</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <title>vxcontrol/pentagi</title>
+      <link>https://github.com/vxcontrol/pentagi</link>
+      <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
+      <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
       <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>44846</ght:stars>
-      <ght:forks>4478</ght:forks>
-      <ght:starsInPeriod>64</ght:starsInPeriod>
+      <ght:stars>33680</ght:stars>
+      <ght:forks>5267</ght:forks>
+      <ght:starsInPeriod>98</ght:starsInPeriod>
     </item>
     <item>
-      <title>mikefarah/yq</title>
-      <link>https://github.com/mikefarah/yq</link>
-      <description>yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor</description>
-      <guid isPermaLink="true">https://github.com/mikefarah/yq</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <title>kgretzky/evilginx2</title>
+      <link>https://github.com/kgretzky/evilginx2</link>
+      <description>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</description>
+      <guid isPermaLink="true">https://github.com/kgretzky/evilginx2</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
       <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>16239</ght:stars>
-      <ght:forks>2068</ght:forks>
-      <ght:starsInPeriod>8</ght:starsInPeriod>
+      <ght:stars>15861</ght:stars>
+      <ght:forks>2765</ght:forks>
+      <ght:starsInPeriod>22</ght:starsInPeriod>
     </item>
     <item>
-      <title>JuliusBrussee/caveman</title>
-      <link>https://github.com/JuliusBrussee/caveman</link>
-      <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
-      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <title>woodpecker-ci/woodpecker</title>
+      <link>https://github.com/woodpecker-ci/woodpecker</link>
+      <description>Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.</description>
+      <guid isPermaLink="true">https://github.com/woodpecker-ci/woodpecker</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
       <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>118196</ght:stars>
-      <ght:forks>6872</ght:forks>
-      <ght:starsInPeriod>205</ght:starsInPeriod>
+      <ght:stars>8132</ght:stars>
+      <ght:forks>735</ght:forks>
+      <ght:starsInPeriod>6</ght:starsInPeriod>
     </item>
     <item>
-      <title>kubernetes/kubernetes</title>
-      <link>https://github.com/kubernetes/kubernetes</link>
-      <description>Production-Grade Container Scheduling and Management</description>
-      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <title>Gaurav-Gosain/tuios</title>
+      <link>https://github.com/Gaurav-Gosain/tuios</link>
+      <description>A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.</description>
+      <guid isPermaLink="true">https://github.com/Gaurav-Gosain/tuios</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
       <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>128909</ght:stars>
-      <ght:forks>45757</ght:forks>
-      <ght:starsInPeriod>105</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>kagent-dev/kagent</title>
-      <link>https://github.com/kagent-dev/kagent</link>
-      <description>Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord</description>
-      <guid isPermaLink="true">https://github.com/kagent-dev/kagent</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
-      <ght:rank>10</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>4184</ght:stars>
-      <ght:forks>886</ght:forks>
-      <ght:starsInPeriod>8</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>gin-gonic/gin</title>
-      <link>https://github.com/gin-gonic/gin</link>
-      <description>Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.</description>
-      <guid isPermaLink="true">https://github.com/gin-gonic/gin</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
-      <ght:rank>11</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>89601</ght:stars>
-      <ght:forks>8913</ght:forks>
-      <ght:starsInPeriod>82</ght:starsInPeriod>
+      <ght:stars>6445</ght:stars>
+      <ght:forks>316</ght:forks>
+      <ght:starsInPeriod>40</ght:starsInPeriod>
     </item>
     <item>
       <title>google/gvisor</title>
       <link>https://github.com/google/gvisor</link>
       <description>Application Kernel for Containers</description>
       <guid isPermaLink="true">https://github.com/google/gvisor</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
-      <ght:rank>12</ght:rank>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
+      <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>19915</ght:stars>
-      <ght:forks>2066</ght:forks>
+      <ght:stars>19918</ght:stars>
+      <ght:forks>2068</ght:forks>
       <ght:starsInPeriod>16</ght:starsInPeriod>
     </item>
     <item>
-      <title>microsoft/TypeScript</title>
-      <link>https://github.com/microsoft/TypeScript</link>
-      <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
-      <guid isPermaLink="true">https://github.com/microsoft/TypeScript</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
-      <ght:rank>13</ght:rank>
+      <title>glanceapp/glance</title>
+      <link>https://github.com/glanceapp/glance</link>
+      <description>A self-hosted dashboard that puts all your feeds in one place</description>
+      <guid isPermaLink="true">https://github.com/glanceapp/glance</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
+      <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>111862</ght:stars>
-      <ght:forks>15401</ght:forks>
-      <ght:starsInPeriod>86</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>aquasecurity/trivy</title>
-      <link>https://github.com/aquasecurity/trivy</link>
-      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
-      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
-      <ght:rank>14</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>39107</ght:stars>
-      <ght:forks>835</ght:forks>
+      <ght:stars>38087</ght:stars>
+      <ght:forks>1517</ght:forks>
       <ght:starsInPeriod>29</ght:starsInPeriod>
     </item>
     <item>
-      <title>moby/moby</title>
-      <link>https://github.com/moby/moby</link>
-      <description>The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</description>
-      <guid isPermaLink="true">https://github.com/moby/moby</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <title>AlistGo/alist</title>
+      <link>https://github.com/AlistGo/alist</link>
+      <description>🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。</description>
+      <guid isPermaLink="true">https://github.com/AlistGo/alist</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
+      <ght:rank>12</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>50428</ght:stars>
+      <ght:forks>7904</ght:forks>
+      <ght:starsInPeriod>11</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>navidrome/navidrome</title>
+      <link>https://github.com/navidrome/navidrome</link>
+      <description>🎧 Your Personal Streaming Service</description>
+      <guid isPermaLink="true">https://github.com/navidrome/navidrome</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
+      <ght:rank>13</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>24576</ght:stars>
+      <ght:forks>1812</ght:forks>
+      <ght:starsInPeriod>15</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>TwiN/gatus</title>
+      <link>https://github.com/TwiN/gatus</link>
+      <description>Automated developer-oriented status page with alerting and incident support</description>
+      <guid isPermaLink="true">https://github.com/TwiN/gatus</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
+      <ght:rank>14</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>12609</ght:stars>
+      <ght:forks>891</ght:forks>
+      <ght:starsInPeriod>88</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>kdlbs/kandev</title>
+      <link>https://github.com/kdlbs/kandev</link>
+      <description>AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.</description>
+      <guid isPermaLink="true">https://github.com/kdlbs/kandev</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
       <ght:rank>15</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>72363</ght:stars>
-      <ght:forks>19321</ght:forks>
-      <ght:starsInPeriod>87</ght:starsInPeriod>
+      <ght:stars>1086</ght:stars>
+      <ght:forks>181</ght:forks>
+      <ght:starsInPeriod>9</ght:starsInPeriod>
     </item>
     <item>
-      <title>multica-ai/multica</title>
-      <link>https://github.com/multica-ai/multica</link>
-      <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
-      <guid isPermaLink="true">https://github.com/multica-ai/multica</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
+      <title>MHSanaei/3x-ui</title>
+      <link>https://github.com/MHSanaei/3x-ui</link>
+      <description>Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)</description>
+      <guid isPermaLink="true">https://github.com/MHSanaei/3x-ui</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
       <ght:rank>16</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>55243</ght:stars>
-      <ght:forks>7283</ght:forks>
-      <ght:starsInPeriod>85</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>Gentleman-Programming/gentle-ai</title>
-      <link>https://github.com/Gentleman-Programming/gentle-ai</link>
-      <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
-      <guid isPermaLink="true">https://github.com/Gentleman-Programming/gentle-ai</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
-      <ght:rank>17</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>8585</ght:stars>
-      <ght:forks>886</ght:forks>
-      <ght:starsInPeriod>75</ght:starsInPeriod>
+      <ght:stars>49533</ght:stars>
+      <ght:forks>12690</ght:forks>
+      <ght:starsInPeriod>71</ght:starsInPeriod>
     </item>
     <item>
       <title>agent-substrate/substrate</title>
       <link>https://github.com/agent-substrate/substrate</link>
       <description>Agent Substrate: the core system</description>
       <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
-      <ght:rank>18</ght:rank>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
+      <ght:rank>17</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6203</ght:stars>
+      <ght:stars>6212</ght:stars>
       <ght:forks>700</ght:forks>
       <ght:starsInPeriod>51</ght:starsInPeriod>
     </item>
     <item>
-      <title>lharries/whatsapp-mcp</title>
-      <link>https://github.com/lharries/whatsapp-mcp</link>
-      <description>WhatsApp MCP server</description>
-      <guid isPermaLink="true">https://github.com/lharries/whatsapp-mcp</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:59 GMT</pubDate>
-      <ght:rank>19</ght:rank>
+      <title>VictoriaMetrics/VictoriaMetrics</title>
+      <link>https://github.com/VictoriaMetrics/VictoriaMetrics</link>
+      <description>VictoriaMetrics: fast, cost-effective monitoring solution and time series database</description>
+      <guid isPermaLink="true">https://github.com/VictoriaMetrics/VictoriaMetrics</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:35 GMT</pubDate>
+      <ght:rank>18</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6835</ght:stars>
-      <ght:forks>1488</ght:forks>
-      <ght:starsInPeriod>8</ght:starsInPeriod>
+      <ght:stars>18042</ght:stars>
+      <ght:forks>1795</ght:forks>
+      <ght:starsInPeriod>14</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=monthly",
-  "observedAt": "2026-11-08T05:58:36Z",
+  "observedAt": "2026-11-08T13:22:12Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 441560,
-      "forks": 109235,
+      "stars": 442458,
+      "forks": 109399,
       "starsInPeriod": 429845
     },
     {
@@ -24,39 +24,39 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "programmingLanguage": "CSS",
-      "stars": 50406,
-      "forks": 2671,
+      "stars": 50625,
+      "forks": 2685,
       "starsInPeriod": 20523
     },
     {
       "rank": 3,
-      "fullName": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "programmingLanguage": "Rust",
-      "stars": 39629,
-      "forks": 6227,
-      "starsInPeriod": 35633
-    },
-    {
-      "rank": 4,
       "fullName": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 66013,
-      "forks": 4295,
+      "stars": 66360,
+      "forks": 4322,
       "starsInPeriod": 39571
     },
     {
+      "rank": 4,
+      "fullName": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "programmingLanguage": "Rust",
+      "stars": 39730,
+      "forks": 6238,
+      "starsInPeriod": 35633
+    },
+    {
       "rank": 5,
-      "fullName": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "programmingLanguage": "C++",
-      "stars": 52119,
-      "forks": 4962,
-      "starsInPeriod": 43690
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "programmingLanguage": "TypeScript",
+      "stars": 80821,
+      "forks": 7462,
+      "starsInPeriod": 22531
     },
     {
       "rank": 6,
@@ -64,39 +64,39 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 104088,
-      "forks": 11573,
+      "stars": 104412,
+      "forks": 11622,
       "starsInPeriod": 49671
     },
     {
       "rank": 7,
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "programmingLanguage": "TypeScript",
-      "stars": 80665,
-      "forks": 7445,
-      "starsInPeriod": 22531
-    },
-    {
-      "rank": 8,
       "fullName": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": null,
       "programmingLanguage": "TypeScript",
-      "stars": 51497,
-      "forks": 9905,
+      "stars": 51881,
+      "forks": 9950,
       "starsInPeriod": 24785
     },
     {
-      "rank": 9,
+      "rank": 8,
       "fullName": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "programmingLanguage": "TypeScript",
-      "stars": 114586,
-      "forks": 9940,
+      "stars": 114696,
+      "forks": 9956,
       "starsInPeriod": 17493
+    },
+    {
+      "rank": 9,
+      "fullName": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "programmingLanguage": "C++",
+      "stars": 52187,
+      "forks": 4968,
+      "starsInPeriod": 43690
     },
     {
       "rank": 10,
@@ -104,9 +104,29 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 105689,
-      "forks": 6280,
+      "stars": 105907,
+      "forks": 6296,
       "starsInPeriod": 27680
+    },
+    {
+      "rank": 11,
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "programmingLanguage": "Python",
+      "stars": 56666,
+      "forks": 6920,
+      "starsInPeriod": 15721
+    },
+    {
+      "rank": 12,
+      "fullName": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "programmingLanguage": "Java",
+      "stars": 98648,
+      "forks": 11195,
+      "starsInPeriod": 17554
     }
   ]
 }

@@ -4,12 +4,12 @@
     <title>GitHub Trending — monthly — rust</title>
     <link>https://github.com/trending/rust?since=monthly</link>
     <description>GitHub Trending — monthly — rust</description>
-    <lastBuildDate>Sun, 08 Nov 2026 05:58:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:22:31 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>monthly</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-11-08T05:58:55Z</ght:observedAt>
+    <ght:observedAt>2026-11-08T13:22:31Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,11 +17,11 @@
       <link>https://github.com/storytold/artcraft</link>
       <description>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</description>
       <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:55 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 13:22:31 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>39629</ght:stars>
-      <ght:forks>6227</ght:forks>
+      <ght:stars>39730</ght:stars>
+      <ght:forks>6238</ght:forks>
       <ght:starsInPeriod>35633</ght:starsInPeriod>
     </item>
     <item>
@@ -29,11 +29,11 @@
       <link>https://github.com/pbakaus/impeccable</link>
       <description>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.</description>
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:55 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 13:22:31 GMT</pubDate>
       <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>105689</ght:stars>
-      <ght:forks>6280</ght:forks>
+      <ght:stars>105907</ght:stars>
+      <ght:forks>6296</ght:forks>
       <ght:starsInPeriod>27680</ght:starsInPeriod>
     </item>
     <item>
@@ -41,11 +41,11 @@
       <link>https://github.com/max-sixty/worktrunk</link>
       <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
       <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:55 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 13:22:31 GMT</pubDate>
       <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>11981</ght:stars>
-      <ght:forks>464</ght:forks>
+      <ght:stars>12043</ght:stars>
+      <ght:forks>465</ght:forks>
       <ght:starsInPeriod>3009</ght:starsInPeriod>
     </item>
     <item>
@@ -53,71 +53,71 @@
       <link>https://github.com/akitaonrails/ai-memory</link>
       <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
       <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:55 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 13:22:31 GMT</pubDate>
       <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>15350</ght:stars>
-      <ght:forks>1121</ght:forks>
+      <ght:stars>15366</ght:stars>
+      <ght:forks>1123</ght:forks>
       <ght:starsInPeriod>6497</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>vercel-labs/agent-desktop</title>
-      <link>https://github.com/vercel-labs/agent-desktop</link>
-      <description>Computer use CLI for AI agents</description>
-      <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:55 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>19074</ght:stars>
-      <ght:forks>1399</ght:forks>
-      <ght:starsInPeriod>16924</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>NVIDIA/OpenShell</title>
-      <link>https://github.com/NVIDIA/OpenShell</link>
-      <description>OpenShell is the safe, private runtime for autonomous AI agents.</description>
-      <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:55 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>21257</ght:stars>
-      <ght:forks>2081</ght:forks>
-      <ght:starsInPeriod>6135</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>xerj-org/xerj</title>
-      <link>https://github.com/xerj-org/xerj</link>
-      <description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
-      <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:55 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>18587</ght:stars>
-      <ght:forks>1369</ght:forks>
-      <ght:starsInPeriod>17208</ght:starsInPeriod>
     </item>
     <item>
       <title>cjpais/Handy</title>
       <link>https://github.com/cjpais/Handy</link>
       <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
       <guid isPermaLink="true">https://github.com/cjpais/Handy</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:55 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 13:22:31 GMT</pubDate>
+      <ght:rank>5</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>38009</ght:stars>
+      <ght:forks>3583</ght:forks>
+      <ght:starsInPeriod>4926</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>vercel-labs/agent-desktop</title>
+      <link>https://github.com/vercel-labs/agent-desktop</link>
+      <description>Computer use CLI for AI agents</description>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:31 GMT</pubDate>
+      <ght:rank>6</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>19312</ght:stars>
+      <ght:forks>1424</ght:forks>
+      <ght:starsInPeriod>16924</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>xerj-org/xerj</title>
+      <link>https://github.com/xerj-org/xerj</link>
+      <description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
+      <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:31 GMT</pubDate>
+      <ght:rank>7</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>18609</ght:stars>
+      <ght:forks>1374</ght:forks>
+      <ght:starsInPeriod>17208</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>NVIDIA/OpenShell</title>
+      <link>https://github.com/NVIDIA/OpenShell</link>
+      <description>OpenShell is the safe, private runtime for autonomous AI agents.</description>
+      <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:31 GMT</pubDate>
       <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>37960</ght:stars>
-      <ght:forks>3584</ght:forks>
-      <ght:starsInPeriod>4926</ght:starsInPeriod>
+      <ght:stars>21268</ght:stars>
+      <ght:forks>2081</ght:forks>
+      <ght:starsInPeriod>6135</ght:starsInPeriod>
     </item>
     <item>
       <title>jub0t/Concat</title>
       <link>https://github.com/jub0t/Concat</link>
       <description>Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API &amp; MCP.</description>
       <guid isPermaLink="true">https://github.com/jub0t/Concat</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:55 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 13:22:31 GMT</pubDate>
       <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>15349</ght:stars>
-      <ght:forks>1922</ght:forks>
+      <ght:stars>15533</ght:stars>
+      <ght:forks>1935</ght:forks>
       <ght:starsInPeriod>11031</ght:starsInPeriod>
     </item>
     <item>
@@ -125,24 +125,24 @@
       <link>https://github.com/oven-sh/bun</link>
       <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
       <guid isPermaLink="true">https://github.com/oven-sh/bun</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:55 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 13:22:31 GMT</pubDate>
       <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>96701</ght:stars>
-      <ght:forks>5272</ght:forks>
+      <ght:stars>96703</ght:stars>
+      <ght:forks>5273</ght:forks>
       <ght:starsInPeriod>963</ght:starsInPeriod>
     </item>
     <item>
-      <title>bevyengine/bevy</title>
-      <link>https://github.com/bevyengine/bevy</link>
-      <description>A refreshingly simple data-driven game engine built in Rust</description>
-      <guid isPermaLink="true">https://github.com/bevyengine/bevy</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:55 GMT</pubDate>
+      <title>vercel-labs/agent-browser</title>
+      <link>https://github.com/vercel-labs/agent-browser</link>
+      <description>Browser automation CLI for AI agents</description>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:31 GMT</pubDate>
       <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>49611</ght:stars>
-      <ght:forks>5032</ght:forks>
-      <ght:starsInPeriod>1050</ght:starsInPeriod>
+      <ght:stars>47260</ght:stars>
+      <ght:forks>3238</ght:forks>
+      <ght:starsInPeriod>3710</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

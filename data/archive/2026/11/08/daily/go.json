@@ -5,36 +5,50 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-11-08T05:58:59Z",
+  "updatedAt": "2026-11-08T13:22:35Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
-    {
-      "fullName": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "programmingLanguage": "Go",
-      "stars": 67483,
-      "forks": 11011,
-      "starsInPeriod": 322,
-      "bestRank": 1,
-      "latestRank": 1,
-      "firstSeenAt": "2026-11-08T05:58:59Z",
-      "lastSeenAt": "2026-11-08T05:58:59Z",
-      "appearances": 1
-    },
     {
       "fullName": "dsx-ai-factory/nvke",
       "url": "https://github.com/dsx-ai-factory/nvke",
       "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "programmingLanguage": "Go",
-      "stars": 610,
-      "forks": 94,
-      "starsInPeriod": 123,
+      "stars": 702,
+      "forks": 104,
+      "starsInPeriod": 345,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-11-08T05:58:59Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "programmingLanguage": "Go",
+      "stars": 67544,
+      "forks": 11011,
+      "starsInPeriod": 258,
+      "bestRank": 1,
+      "latestRank": 3,
+      "firstSeenAt": "2026-11-08T05:58:59Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+      "programmingLanguage": "Go",
+      "stars": 26974,
+      "forks": 1153,
+      "starsInPeriod": 86,
       "bestRank": 2,
       "latestRank": 2,
-      "firstSeenAt": "2026-11-08T05:58:59Z",
-      "lastSeenAt": "2026-11-08T05:58:59Z",
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
       "appearances": 1
     },
     {
@@ -66,6 +80,20 @@
       "appearances": 1
     },
     {
+      "fullName": "Christ9038/Ydisks-Xianyu-Helper",
+      "url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper",
+      "description": "闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建",
+      "programmingLanguage": "Go",
+      "stars": 2328,
+      "forks": 634,
+      "starsInPeriod": 48,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
+      "appearances": 1
+    },
+    {
       "fullName": "etcd-io/etcd",
       "url": "https://github.com/etcd-io/etcd",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
@@ -77,6 +105,20 @@
       "latestRank": 5,
       "firstSeenAt": "2026-11-08T05:58:59Z",
       "lastSeenAt": "2026-11-08T05:58:59Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "programmingLanguage": "Go",
+      "stars": 42716,
+      "forks": 6125,
+      "starsInPeriod": 39,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
       "appearances": 1
     },
     {
@@ -94,6 +136,20 @@
       "appearances": 1
     },
     {
+      "fullName": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "programmingLanguage": "Go",
+      "stars": 33680,
+      "forks": 5267,
+      "starsInPeriod": 98,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
+      "appearances": 1
+    },
+    {
       "fullName": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
       "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
@@ -105,6 +161,20 @@
       "latestRank": 7,
       "firstSeenAt": "2026-11-08T05:58:59Z",
       "lastSeenAt": "2026-11-08T05:58:59Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "kgretzky/evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "programmingLanguage": "Go",
+      "stars": 15861,
+      "forks": 2765,
+      "starsInPeriod": 22,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
       "appearances": 1
     },
     {
@@ -122,6 +192,20 @@
       "appearances": 1
     },
     {
+      "fullName": "woodpecker-ci/woodpecker",
+      "url": "https://github.com/woodpecker-ci/woodpecker",
+      "description": "Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.",
+      "programmingLanguage": "Go",
+      "stars": 8132,
+      "forks": 735,
+      "starsInPeriod": 6,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
+      "appearances": 1
+    },
+    {
       "fullName": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
@@ -134,6 +218,34 @@
       "firstSeenAt": "2026-11-08T05:58:59Z",
       "lastSeenAt": "2026-11-08T05:58:59Z",
       "appearances": 1
+    },
+    {
+      "fullName": "Gaurav-Gosain/tuios",
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
+      "programmingLanguage": "Go",
+      "stars": 6445,
+      "forks": 316,
+      "starsInPeriod": 40,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "google/gvisor",
+      "url": "https://github.com/google/gvisor",
+      "description": "Application Kernel for Containers",
+      "programmingLanguage": "Go",
+      "stars": 19918,
+      "forks": 2068,
+      "starsInPeriod": 16,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-08T05:58:59Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
+      "appearances": 2
     },
     {
       "fullName": "kagent-dev/kagent",
@@ -164,17 +276,31 @@
       "appearances": 1
     },
     {
-      "fullName": "google/gvisor",
-      "url": "https://github.com/google/gvisor",
-      "description": "Application Kernel for Containers",
+      "fullName": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
       "programmingLanguage": "Go",
-      "stars": 19915,
-      "forks": 2066,
-      "starsInPeriod": 16,
+      "stars": 38087,
+      "forks": 1517,
+      "starsInPeriod": 29,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "AlistGo/alist",
+      "url": "https://github.com/AlistGo/alist",
+      "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
+      "programmingLanguage": "Go",
+      "stars": 50428,
+      "forks": 7904,
+      "starsInPeriod": 11,
       "bestRank": 12,
       "latestRank": 12,
-      "firstSeenAt": "2026-11-08T05:58:59Z",
-      "lastSeenAt": "2026-11-08T05:58:59Z",
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
       "appearances": 1
     },
     {
@@ -192,6 +318,20 @@
       "appearances": 1
     },
     {
+      "fullName": "navidrome/navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧 Your Personal Streaming Service",
+      "programmingLanguage": "Go",
+      "stars": 24576,
+      "forks": 1812,
+      "starsInPeriod": 15,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
+      "appearances": 1
+    },
+    {
       "fullName": "aquasecurity/trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
@@ -203,6 +343,20 @@
       "latestRank": 14,
       "firstSeenAt": "2026-11-08T05:58:59Z",
       "lastSeenAt": "2026-11-08T05:58:59Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "TwiN/gatus",
+      "url": "https://github.com/TwiN/gatus",
+      "description": "Automated developer-oriented status page with alerting and incident support",
+      "programmingLanguage": "Go",
+      "stars": 12609,
+      "forks": 891,
+      "starsInPeriod": 88,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
       "appearances": 1
     },
     {
@@ -220,6 +374,20 @@
       "appearances": 1
     },
     {
+      "fullName": "kdlbs/kandev",
+      "url": "https://github.com/kdlbs/kandev",
+      "description": "AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.",
+      "programmingLanguage": "Go",
+      "stars": 1086,
+      "forks": 181,
+      "starsInPeriod": 9,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
+      "appearances": 1
+    },
+    {
       "fullName": "multica-ai/multica",
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
@@ -232,6 +400,34 @@
       "firstSeenAt": "2026-11-08T05:58:59Z",
       "lastSeenAt": "2026-11-08T05:58:59Z",
       "appearances": 1
+    },
+    {
+      "fullName": "MHSanaei/3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "programmingLanguage": "Go",
+      "stars": 49533,
+      "forks": 12690,
+      "starsInPeriod": 71,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "programmingLanguage": "Go",
+      "stars": 6212,
+      "forks": 700,
+      "starsInPeriod": 51,
+      "bestRank": 17,
+      "latestRank": 17,
+      "firstSeenAt": "2026-11-08T05:58:59Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
+      "appearances": 2
     },
     {
       "fullName": "Gentleman-Programming/gentle-ai",
@@ -248,17 +444,17 @@
       "appearances": 1
     },
     {
-      "fullName": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
+      "fullName": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
       "programmingLanguage": "Go",
-      "stars": 6203,
-      "forks": 700,
-      "starsInPeriod": 51,
+      "stars": 18042,
+      "forks": 1795,
+      "starsInPeriod": 14,
       "bestRank": 18,
       "latestRank": 18,
-      "firstSeenAt": "2026-11-08T05:58:59Z",
-      "lastSeenAt": "2026-11-08T05:58:59Z",
+      "firstSeenAt": "2026-11-08T13:22:35Z",
+      "lastSeenAt": "2026-11-08T13:22:35Z",
       "appearances": 1
     },
     {

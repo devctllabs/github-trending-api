@@ -4,199 +4,169 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-11-08T05:59:18Z",
+  "observedAt": "2026-11-08T13:22:54Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "programmingLanguage": "TypeScript",
-      "stars": 14732,
-      "forks": 1208,
-      "starsInPeriod": 96
-    },
-    {
-      "rank": 2,
       "fullName": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "programmingLanguage": "TypeScript",
-      "stars": 17261,
-      "forks": 2436,
-      "starsInPeriod": 1955
+      "stars": 17706,
+      "forks": 2477,
+      "starsInPeriod": 1437
+    },
+    {
+      "rank": 2,
+      "fullName": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "programmingLanguage": "TypeScript",
+      "stars": 15156,
+      "forks": 1235,
+      "starsInPeriod": 863
     },
     {
       "rank": 3,
-      "fullName": "tailwindlabs/tailwindcss",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "description": "A utility-first CSS framework for rapid UI development.",
-      "programmingLanguage": "TypeScript",
-      "stars": 98553,
-      "forks": 7115,
-      "starsInPeriod": 122
-    },
-    {
-      "rank": 4,
       "fullName": "ranxianglei/billion-context",
       "url": "https://github.com/ranxianglei/billion-context",
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
       "programmingLanguage": "TypeScript",
-      "stars": 4702,
-      "forks": 377,
-      "starsInPeriod": 191
+      "stars": 4874,
+      "forks": 391,
+      "starsInPeriod": 460
+    },
+    {
+      "rank": 4,
+      "fullName": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
+      "programmingLanguage": "TypeScript",
+      "stars": 10138,
+      "forks": 815,
+      "starsInPeriod": 1307
     },
     {
       "rank": 5,
-      "fullName": "chaitin/MonkeyCode",
-      "url": "https://github.com/chaitin/MonkeyCode",
-      "description": "企业级 AI 办公工作台",
+      "fullName": "kortix-ai/CompanyOS",
+      "url": "https://github.com/kortix-ai/CompanyOS",
+      "description": "Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.",
       "programmingLanguage": "TypeScript",
-      "stars": 5092,
-      "forks": 766,
-      "starsInPeriod": 23
+      "stars": 20560,
+      "forks": 3460,
+      "starsInPeriod": 92
     },
     {
       "rank": 6,
-      "fullName": "awslabs/aidlc-workflows",
-      "url": "https://github.com/awslabs/aidlc-workflows",
-      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "fullName": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
       "programmingLanguage": "TypeScript",
-      "stars": 5937,
-      "forks": 1059,
-      "starsInPeriod": 51
+      "stars": 98647,
+      "forks": 7119,
+      "starsInPeriod": 465
     },
     {
       "rank": 7,
-      "fullName": "Unleash/unleash",
-      "url": "https://github.com/Unleash/unleash",
-      "description": "Open-source feature management platform",
+      "fullName": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "programmingLanguage": "TypeScript",
-      "stars": 14194,
-      "forks": 929,
-      "starsInPeriod": 183
+      "stars": 7515,
+      "forks": 1342,
+      "starsInPeriod": 117
     },
     {
       "rank": 8,
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+      "fullName": "ParadevAI/Paradev",
+      "url": "https://github.com/ParadevAI/Paradev",
+      "description": "Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.",
       "programmingLanguage": "TypeScript",
-      "stars": 118735,
-      "forks": 7538,
-      "starsInPeriod": 931
+      "stars": 16093,
+      "forks": 1439,
+      "starsInPeriod": 35
     },
     {
       "rank": 9,
-      "fullName": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "fullName": "mantrakp04/ardia",
+      "url": "https://github.com/mantrakp04/ardia",
+      "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6",
       "programmingLanguage": "TypeScript",
-      "stars": 140685,
-      "forks": 20772,
-      "starsInPeriod": 280
+      "stars": 1437,
+      "forks": 149,
+      "starsInPeriod": 85
     },
     {
       "rank": 10,
-      "fullName": "elder-plinius/T3MP3ST",
-      "url": "https://github.com/elder-plinius/T3MP3ST",
-      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "fullName": "snarktank/ralph",
+      "url": "https://github.com/snarktank/ralph",
+      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
       "programmingLanguage": "TypeScript",
-      "stars": 6980,
-      "forks": 1447,
-      "starsInPeriod": 38
+      "stars": 22155,
+      "forks": 2098,
+      "starsInPeriod": 17
     },
     {
       "rank": 11,
+      "fullName": "vercel-labs/json-render",
+      "url": "https://github.com/vercel-labs/json-render",
+      "description": "The Generative UI framework",
+      "programmingLanguage": "TypeScript",
+      "stars": 19415,
+      "forks": 1027,
+      "starsInPeriod": 202
+    },
+    {
+      "rank": 12,
       "fullName": "lobehub/lobehub",
       "url": "https://github.com/lobehub/lobehub",
       "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "programmingLanguage": "TypeScript",
-      "stars": 84356,
-      "forks": 16136,
+      "stars": 84379,
+      "forks": 16143,
       "starsInPeriod": 98
     },
     {
-      "rank": 12,
-      "fullName": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "programmingLanguage": "TypeScript",
-      "stars": 154927,
-      "forks": 25604,
-      "starsInPeriod": 129
-    },
-    {
       "rank": 13,
-      "fullName": "cheaper-inference/OmniRoute",
-      "url": "https://github.com/cheaper-inference/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+      "fullName": "poco-ai/Agentero",
+      "url": "https://github.com/poco-ai/Agentero",
+      "description": "Unified research workspace for humans & agents — PDF Q&A with citations, Vault, writing. 为人与 Agent 协作的科研工作台；补齐 Zotero 时代的人机上下文断点。",
       "programmingLanguage": "TypeScript",
-      "stars": 85500,
-      "forks": 12932,
-      "starsInPeriod": 322
+      "stars": 1958,
+      "forks": 126,
+      "starsInPeriod": 175
     },
     {
       "rank": 14,
-      "fullName": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "fullName": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "programmingLanguage": "TypeScript",
-      "stars": 441562,
-      "forks": 109236,
-      "starsInPeriod": 3286
+      "stars": 21319,
+      "forks": 2650,
+      "starsInPeriod": 90
     },
     {
       "rank": 15,
-      "fullName": "angular/angular",
-      "url": "https://github.com/angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
+      "fullName": "arcsin1/oh-my-ppt",
+      "url": "https://github.com/arcsin1/oh-my-ppt",
+      "description": "Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.",
       "programmingLanguage": "TypeScript",
-      "stars": 101466,
-      "forks": 28927,
-      "starsInPeriod": 305
+      "stars": 2452,
+      "forks": 241,
+      "starsInPeriod": 91
     },
     {
       "rank": 16,
-      "fullName": "Marker-Inc-Korea/AutoRAG",
-      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
-      "description": "Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files.",
+      "fullName": "humanlayer/12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "programmingLanguage": "TypeScript",
-      "stars": 5406,
-      "forks": 486,
-      "starsInPeriod": 25
-    },
-    {
-      "rank": 17,
-      "fullName": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
-      "programmingLanguage": "TypeScript",
-      "stars": 195158,
-      "forks": 44441,
-      "starsInPeriod": 325
-    },
-    {
-      "rank": 18,
-      "fullName": "actions/checkout",
-      "url": "https://github.com/actions/checkout",
-      "description": "Action for checking out a repo",
-      "programmingLanguage": "TypeScript",
-      "stars": 9009,
-      "forks": 2745,
-      "starsInPeriod": 4
-    },
-    {
-      "rank": 19,
-      "fullName": "Fission-AI/OpenSpec",
-      "url": "https://github.com/Fission-AI/OpenSpec",
-      "description": "Spec-driven development (SDD) for AI coding assistants.",
-      "programmingLanguage": "TypeScript",
-      "stars": 74242,
-      "forks": 5094,
-      "starsInPeriod": 82
+      "stars": 27042,
+      "forks": 2037,
+      "starsInPeriod": 26
     }
   ]
 }

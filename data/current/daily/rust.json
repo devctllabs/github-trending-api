@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-08T05:58:49Z",
+  "observedAt": "2026-11-08T13:22:25Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,19 +14,19 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 46986,
-      "forks": 3221,
-      "starsInPeriod": 190
+      "stars": 47260,
+      "forks": 3238,
+      "starsInPeriod": 812
     },
     {
       "rank": 2,
-      "fullName": "astral-sh/ruff",
-      "url": "https://github.com/astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "fullName": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "programmingLanguage": "Rust",
-      "stars": 51023,
-      "forks": 2633,
-      "starsInPeriod": 350
+      "stars": 39730,
+      "forks": 6238,
+      "starsInPeriod": 331
     },
     {
       "rank": 3,
@@ -34,149 +34,99 @@
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "programmingLanguage": "Rust",
-      "stars": 94345,
-      "forks": 11554,
-      "starsInPeriod": 1114
+      "stars": 94430,
+      "forks": 11566,
+      "starsInPeriod": 408
     },
     {
       "rank": 4,
+      "fullName": "GCWing/OpenBitFun",
+      "url": "https://github.com/GCWing/OpenBitFun",
+      "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+      "programmingLanguage": "Rust",
+      "stars": 3968,
+      "forks": 302,
+      "starsInPeriod": 50
+    },
+    {
+      "rank": 5,
+      "fullName": "jub0t/Concat",
+      "url": "https://github.com/jub0t/Concat",
+      "description": "Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.",
+      "programmingLanguage": "Rust",
+      "stars": 15533,
+      "forks": 1935,
+      "starsInPeriod": 491
+    },
+    {
+      "rank": 6,
+      "fullName": "ZSeven-W/openpencil",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "programmingLanguage": "Rust",
+      "stars": 7138,
+      "forks": 622,
+      "starsInPeriod": 28
+    },
+    {
+      "rank": 7,
+      "fullName": "wealthfolio/wealthfolio",
+      "url": "https://github.com/wealthfolio/wealthfolio",
+      "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
+      "programmingLanguage": "Rust",
+      "stars": 9366,
+      "forks": 808,
+      "starsInPeriod": 17
+    },
+    {
+      "rank": 8,
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "programmingLanguage": "Rust",
+      "stars": 102983,
+      "forks": 13371,
+      "starsInPeriod": 192
+    },
+    {
+      "rank": 9,
+      "fullName": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "the runtime your coding agents live on",
+      "programmingLanguage": "Rust",
+      "stars": 49283,
+      "forks": 3977,
+      "starsInPeriod": 374
+    },
+    {
+      "rank": 10,
+      "fullName": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "programmingLanguage": "Rust",
+      "stars": 51087,
+      "forks": 2636,
+      "starsInPeriod": 282
+    },
+    {
+      "rank": 11,
+      "fullName": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+      "programmingLanguage": "Rust",
+      "stars": 42017,
+      "forks": 1967,
+      "starsInPeriod": 30
+    },
+    {
+      "rank": 12,
       "fullName": "CapSoftware/Cap",
       "url": "https://github.com/CapSoftware/Cap",
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "programmingLanguage": "Rust",
-      "stars": 24616,
-      "forks": 2286,
+      "stars": 24641,
+      "forks": 2288,
       "starsInPeriod": 77
-    },
-    {
-      "rank": 5,
-      "fullName": "longbridge/gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "programmingLanguage": "Rust",
-      "stars": 19864,
-      "forks": 1219,
-      "starsInPeriod": 178
-    },
-    {
-      "rank": 6,
-      "fullName": "rivet-dev/rivet",
-      "url": "https://github.com/rivet-dev/rivet",
-      "description": "The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.",
-      "programmingLanguage": "Rust",
-      "stars": 6794,
-      "forks": 311,
-      "starsInPeriod": 27
-    },
-    {
-      "rank": 7,
-      "fullName": "sharkdp/fd",
-      "url": "https://github.com/sharkdp/fd",
-      "description": "A simple, fast and user-friendly alternative to 'find'",
-      "programmingLanguage": "Rust",
-      "stars": 45116,
-      "forks": 1303,
-      "starsInPeriod": 105
-    },
-    {
-      "rank": 8,
-      "fullName": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "programmingLanguage": "Rust",
-      "stars": 11981,
-      "forks": 464,
-      "starsInPeriod": 147
-    },
-    {
-      "rank": 9,
-      "fullName": "BurntSushi/ripgrep",
-      "url": "https://github.com/BurntSushi/ripgrep",
-      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
-      "programmingLanguage": "Rust",
-      "stars": 69888,
-      "forks": 4192,
-      "starsInPeriod": 93
-    },
-    {
-      "rank": 10,
-      "fullName": "astral-sh/uv",
-      "url": "https://github.com/astral-sh/uv",
-      "description": "An extremely fast Python package and project manager, written in Rust.",
-      "programmingLanguage": "Rust",
-      "stars": 91753,
-      "forks": 3776,
-      "starsInPeriod": 103
-    },
-    {
-      "rank": 11,
-      "fullName": "windmill-labs/windmill",
-      "url": "https://github.com/windmill-labs/windmill",
-      "description": "Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.",
-      "programmingLanguage": "Rust",
-      "stars": 18463,
-      "forks": 1144,
-      "starsInPeriod": 22
-    },
-    {
-      "rank": 12,
-      "fullName": "tokio-rs/tokio",
-      "url": "https://github.com/tokio-rs/tokio",
-      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
-      "programmingLanguage": "Rust",
-      "stars": 33720,
-      "forks": 4509,
-      "starsInPeriod": 109
-    },
-    {
-      "rank": 13,
-      "fullName": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "programmingLanguage": "Rust",
-      "stars": 128589,
-      "forks": 20433,
-      "starsInPeriod": 128
-    },
-    {
-      "rank": 14,
-      "fullName": "serde-rs/serde",
-      "url": "https://github.com/serde-rs/serde",
-      "description": "Serialization framework for Rust",
-      "programmingLanguage": "Rust",
-      "stars": 11059,
-      "forks": 991,
-      "starsInPeriod": 77
-    },
-    {
-      "rank": 15,
-      "fullName": "denoland/deno",
-      "url": "https://github.com/denoland/deno",
-      "description": "A modern runtime for JavaScript and TypeScript.",
-      "programmingLanguage": "Rust",
-      "stars": 108914,
-      "forks": 6784,
-      "starsInPeriod": 84
-    },
-    {
-      "rank": 16,
-      "fullName": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "programmingLanguage": "Rust",
-      "stars": 121607,
-      "forks": 17379,
-      "starsInPeriod": 346
-    },
-    {
-      "rank": 17,
-      "fullName": "orhun/git-cliff",
-      "url": "https://github.com/orhun/git-cliff",
-      "description": "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️",
-      "programmingLanguage": "Rust",
-      "stars": 12507,
-      "forks": 364,
-      "starsInPeriod": 101
     }
   ]
 }

@@ -4,13 +4,13 @@
     <title>GitHub Trending — weekly — all</title>
     <link>https://github.com/trending?since=weekly</link>
     <description>GitHub Trending — weekly — all</description>
-    <lastBuildDate>Sun, 08 Nov 2026 05:58:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:22:09 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-08</ght:date>
     <ght:period>weekly</ght:period>
     <ght:language>all</ght:language>
-    <ght:updatedAt>2026-11-08T05:58:33Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-08T13:22:09Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,13 +20,29 @@
       <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>114586</ght:stars>
-      <ght:forks>9940</ght:forks>
+      <ght:stars>114696</ght:stars>
+      <ght:forks>9956</ght:forks>
       <ght:starsInPeriod>7482</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
-      <ght:latestRank>1</ght:latestRank>
+      <ght:latestRank>2</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>NVIDIA/auto-ontology</title>
+      <link>https://github.com/NVIDIA/auto-ontology</link>
+      <description>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.</description>
+      <guid isPermaLink="true">https://github.com/NVIDIA/auto-ontology</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:09 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>9989</ght:stars>
+      <ght:forks>813</ght:forks>
+      <ght:starsInPeriod>9044</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T13:22:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -36,14 +52,14 @@
       <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>11981</ght:stars>
-      <ght:forks>464</ght:forks>
+      <ght:stars>12042</ght:stars>
+      <ght:forks>465</ght:forks>
       <ght:starsInPeriod>2292</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
-      <ght:latestRank>2</ght:latestRank>
+      <ght:latestRank>3</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>Donchitos/Claude-Code-Game-Studios</title>
@@ -52,46 +68,14 @@
       <guid isPermaLink="true">https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
       <ght:programmingLanguage>Shell</ght:programmingLanguage>
-      <ght:stars>36677</ght:stars>
-      <ght:forks>4840</ght:forks>
+      <ght:stars>36810</ght:stars>
+      <ght:forks>4858</ght:forks>
       <ght:starsInPeriod>5719</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
-      <ght:latestRank>3</ght:latestRank>
-      <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>Renhuai123/ziwei-doushu</title>
-      <link>https://github.com/Renhuai123/ziwei-doushu</link>
-      <description>紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据</description>
-      <guid isPermaLink="true">https://github.com/Renhuai123/ziwei-doushu</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>16770</ght:stars>
-      <ght:forks>3250</ght:forks>
-      <ght:starsInPeriod>4906</ght:starsInPeriod>
-      <ght:bestRank>4</ght:bestRank>
-      <ght:latestRank>4</ght:latestRank>
-      <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>pingdotgg/t3code</title>
-      <link>https://github.com/pingdotgg/t3code</link>
-      <description />
-      <guid isPermaLink="true">https://github.com/pingdotgg/t3code</guid>
-      <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>51497</ght:stars>
-      <ght:forks>9905</ght:forks>
-      <ght:starsInPeriod>17100</ght:starsInPeriod>
-      <ght:bestRank>5</ght:bestRank>
       <ght:latestRank>5</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>anthropics/skills</title>
@@ -100,30 +84,46 @@
       <guid isPermaLink="true">https://github.com/anthropics/skills</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>188923</ght:stars>
-      <ght:forks>22268</ght:forks>
+      <ght:stars>189173</ght:stars>
+      <ght:forks>22296</ght:forks>
       <ght:starsInPeriod>2796</ght:starsInPeriod>
-      <ght:bestRank>6</ght:bestRank>
-      <ght:latestRank>6</ght:latestRank>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
-      <title>Nutlope/hallmark</title>
-      <link>https://github.com/Nutlope/hallmark</link>
-      <description>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</description>
-      <guid isPermaLink="true">https://github.com/Nutlope/hallmark</guid>
+      <title>Renhuai123/ziwei-doushu</title>
+      <link>https://github.com/Renhuai123/ziwei-doushu</link>
+      <description>紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据</description>
+      <guid isPermaLink="true">https://github.com/Renhuai123/ziwei-doushu</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
-      <ght:programmingLanguage>CSS</ght:programmingLanguage>
-      <ght:stars>50406</ght:stars>
-      <ght:forks>2671</ght:forks>
-      <ght:starsInPeriod>6624</ght:starsInPeriod>
-      <ght:bestRank>7</ght:bestRank>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>16851</ght:stars>
+      <ght:forks>3265</ght:forks>
+      <ght:starsInPeriod>4906</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>pingdotgg/t3code</title>
+      <link>https://github.com/pingdotgg/t3code</link>
+      <description />
+      <guid isPermaLink="true">https://github.com/pingdotgg/t3code</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>51881</ght:stars>
+      <ght:forks>9950</ght:forks>
+      <ght:starsInPeriod>17100</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>milind-soni/OpenMausBot</title>
@@ -132,14 +132,30 @@
       <guid isPermaLink="true">https://github.com/milind-soni/OpenMausBot</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>17261</ght:stars>
-      <ght:forks>2436</ght:forks>
+      <ght:stars>17706</ght:stars>
+      <ght:forks>2477</ght:forks>
       <ght:starsInPeriod>7077</ght:starsInPeriod>
-      <ght:bestRank>8</ght:bestRank>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>Nutlope/hallmark</title>
+      <link>https://github.com/Nutlope/hallmark</link>
+      <description>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</description>
+      <guid isPermaLink="true">https://github.com/Nutlope/hallmark</guid>
+      <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
+      <ght:programmingLanguage>CSS</ght:programmingLanguage>
+      <ght:stars>50625</ght:stars>
+      <ght:forks>2685</ght:forks>
+      <ght:starsInPeriod>6624</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>8</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>D4Vinci/Scrapling</title>
@@ -148,14 +164,14 @@
       <guid isPermaLink="true">https://github.com/D4Vinci/Scrapling</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>99419</ght:stars>
-      <ght:forks>10410</ght:forks>
+      <ght:stars>99600</ght:stars>
+      <ght:forks>10421</ght:forks>
       <ght:starsInPeriod>8712</ght:starsInPeriod>
       <ght:bestRank>9</ght:bestRank>
-      <ght:latestRank>9</ght:latestRank>
+      <ght:latestRank>10</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>jakubkrehel/skills</title>
@@ -164,14 +180,14 @@
       <guid isPermaLink="true">https://github.com/jakubkrehel/skills</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
       <ght:programmingLanguage>Markdown</ght:programmingLanguage>
-      <ght:stars>11556</ght:stars>
+      <ght:stars>11606</ght:stars>
       <ght:forks>450</ght:forks>
       <ght:starsInPeriod>1938</ght:starsInPeriod>
       <ght:bestRank>10</ght:bestRank>
-      <ght:latestRank>10</ght:latestRank>
+      <ght:latestRank>13</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>vercel-labs/agent-browser</title>
@@ -180,14 +196,14 @@
       <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>46986</ght:stars>
-      <ght:forks>3221</ght:forks>
+      <ght:stars>47260</ght:stars>
+      <ght:forks>3238</ght:forks>
       <ght:starsInPeriod>1476</ght:starsInPeriod>
       <ght:bestRank>11</ght:bestRank>
       <ght:latestRank>11</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>mattpocock/skills</title>
@@ -196,14 +212,14 @@
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
       <ght:programmingLanguage>Shell</ght:programmingLanguage>
-      <ght:stars>317905</ght:stars>
-      <ght:forks>26599</ght:forks>
+      <ght:stars>318171</ght:stars>
+      <ght:forks>26629</ght:forks>
       <ght:starsInPeriod>9664</ght:starsInPeriod>
       <ght:bestRank>12</ght:bestRank>
       <ght:latestRank>12</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>hyprwm/Hyprland</title>
@@ -212,14 +228,14 @@
       <guid isPermaLink="true">https://github.com/hyprwm/Hyprland</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
       <ght:programmingLanguage>C++</ght:programmingLanguage>
-      <ght:stars>40507</ght:stars>
-      <ght:forks>2163</ght:forks>
+      <ght:stars>40529</ght:stars>
+      <ght:forks>2164</ght:forks>
       <ght:starsInPeriod>1436</ght:starsInPeriod>
       <ght:bestRank>13</ght:bestRank>
-      <ght:latestRank>13</ght:latestRank>
+      <ght:latestRank>16</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>github/spec-kit</title>
@@ -228,14 +244,14 @@
       <guid isPermaLink="true">https://github.com/github/spec-kit</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>148483</ght:stars>
-      <ght:forks>13346</ght:forks>
+      <ght:stars>148583</ght:stars>
+      <ght:forks>13354</ght:forks>
       <ght:starsInPeriod>4280</ght:starsInPeriod>
       <ght:bestRank>14</ght:bestRank>
       <ght:latestRank>14</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>obra/superpowers</title>
@@ -260,14 +276,14 @@
       <guid isPermaLink="true">https://github.com/The-PR-Agent/pr-agent</guid>
       <pubDate>Sun, 08 Nov 2026 05:58:33 GMT</pubDate>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>15485</ght:stars>
-      <ght:forks>2141</ght:forks>
+      <ght:stars>15533</ght:stars>
+      <ght:forks>2145</ght:forks>
       <ght:starsInPeriod>1576</ght:starsInPeriod>
-      <ght:bestRank>16</ght:bestRank>
-      <ght:latestRank>16</ght:latestRank>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>pbakaus/impeccable</title>
@@ -283,6 +299,22 @@
       <ght:latestRank>17</ght:latestRank>
       <ght:firstSeenAt>2026-11-08T05:58:33Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-08T05:58:33Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>blader/humanizer</title>
+      <link>https://github.com/blader/humanizer</link>
+      <description>Agent skill that removes signs of AI-generated writing from text</description>
+      <guid isPermaLink="true">https://github.com/blader/humanizer</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:09 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>66196</ght:stars>
+      <ght:forks>5225</ght:forks>
+      <ght:starsInPeriod>3067</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-11-08T13:22:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-08T13:22:09Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
