@@ -4,99 +4,119 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-11-08T22:02:19Z",
+  "observedAt": "2026-11-09T22:20:05Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "programmingLanguage": "Python",
-      "stars": 103225,
-      "forks": 12104,
-      "starsInPeriod": 2372
-    },
-    {
-      "rank": 2,
-      "fullName": "dsx-ai-factory/nvke",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "programmingLanguage": "Go",
-      "stars": 812,
-      "forks": 110,
-      "starsInPeriod": 345
-    },
-    {
-      "rank": 3,
-      "fullName": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "programmingLanguage": "TypeScript",
-      "stars": 18127,
-      "forks": 2528,
-      "starsInPeriod": 1437
-    },
-    {
-      "rank": 4,
-      "fullName": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "programmingLanguage": "Python",
-      "stars": 19364,
-      "forks": 3278,
-      "starsInPeriod": 28
-    },
-    {
-      "rank": 5,
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "programmingLanguage": "Rust",
-      "stars": 47519,
-      "forks": 3255,
-      "starsInPeriod": 812
-    },
-    {
-      "rank": 6,
-      "fullName": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "programmingLanguage": "TypeScript",
-      "stars": 16452,
-      "forks": 1303,
-      "starsInPeriod": 863
-    },
-    {
-      "rank": 7,
       "fullName": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 189532,
-      "forks": 22338,
-      "starsInPeriod": 793
+      "stars": 190851,
+      "forks": 22435,
+      "starsInPeriod": 1052
     },
     {
-      "rank": 8,
+      "rank": 2,
+      "fullName": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "programmingLanguage": "TypeScript",
+      "stars": 19789,
+      "forks": 1506,
+      "starsInPeriod": 3324
+    },
+    {
+      "rank": 3,
+      "fullName": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "programmingLanguage": "Python",
+      "stars": 106881,
+      "forks": 12374,
+      "starsInPeriod": 4294
+    },
+    {
+      "rank": 4,
       "fullName": "google-deepmind/mujoco",
       "url": "https://github.com/google-deepmind/mujoco",
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "programmingLanguage": "C++",
-      "stars": 16353,
-      "forks": 1950,
-      "starsInPeriod": 26
+      "stars": 16872,
+      "forks": 1989,
+      "starsInPeriod": 579
+    },
+    {
+      "rank": 5,
+      "fullName": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "programmingLanguage": "Python",
+      "stars": 19977,
+      "forks": 3308,
+      "starsInPeriod": 560
+    },
+    {
+      "rank": 6,
+      "fullName": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "programmingLanguage": "TypeScript",
+      "stars": 32096,
+      "forks": 4761,
+      "starsInPeriod": 215
+    },
+    {
+      "rank": 7,
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "programmingLanguage": "Rust",
+      "stars": 48407,
+      "forks": 3298,
+      "starsInPeriod": 914
+    },
+    {
+      "rank": 8,
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "programmingLanguage": "Rust",
+      "stars": 103395,
+      "forks": 13399,
+      "starsInPeriod": 245
     },
     {
       "rank": 9,
-      "fullName": "ranxianglei/billion-context",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "programmingLanguage": "Python",
+      "stars": 68781,
+      "forks": 56375,
+      "starsInPeriod": 505
+    },
+    {
+      "rank": 10,
+      "fullName": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "programmingLanguage": "Python",
+      "stars": 5897,
+      "forks": 290,
+      "starsInPeriod": 31
+    },
+    {
+      "rank": 11,
+      "fullName": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "programmingLanguage": "TypeScript",
-      "stars": 5075,
-      "forks": 403,
-      "starsInPeriod": 460
+      "stars": 19593,
+      "forks": 2684,
+      "starsInPeriod": 1589
     }
   ]
 }

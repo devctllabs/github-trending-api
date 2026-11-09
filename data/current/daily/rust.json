@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-08T22:02:39Z",
+  "observedAt": "2026-11-09T22:20:26Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,119 +14,119 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 47519,
-      "forks": 3255,
-      "starsInPeriod": 812
+      "stars": 48407,
+      "forks": 3298,
+      "starsInPeriod": 914
     },
     {
       "rank": 2,
-      "fullName": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "programmingLanguage": "Rust",
-      "stars": 39872,
-      "forks": 6250,
-      "starsInPeriod": 331
-    },
-    {
-      "rank": 3,
-      "fullName": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "programmingLanguage": "Rust",
-      "stars": 94469,
-      "forks": 11575,
-      "starsInPeriod": 408
-    },
-    {
-      "rank": 4,
-      "fullName": "GCWing/OpenBitFun",
-      "url": "https://github.com/GCWing/OpenBitFun",
-      "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
-      "programmingLanguage": "Rust",
-      "stars": 3974,
-      "forks": 303,
-      "starsInPeriod": 50
-    },
-    {
-      "rank": 5,
-      "fullName": "jub0t/Concat",
-      "url": "https://github.com/jub0t/Concat",
-      "description": "Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.",
-      "programmingLanguage": "Rust",
-      "stars": 15693,
-      "forks": 1958,
-      "starsInPeriod": 491
-    },
-    {
-      "rank": 6,
-      "fullName": "ZSeven-W/openpencil",
-      "url": "https://github.com/ZSeven-W/openpencil",
-      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
-      "programmingLanguage": "Rust",
-      "stars": 7150,
-      "forks": 622,
-      "starsInPeriod": 28
-    },
-    {
-      "rank": 7,
-      "fullName": "wealthfolio/wealthfolio",
-      "url": "https://github.com/wealthfolio/wealthfolio",
-      "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
-      "programmingLanguage": "Rust",
-      "stars": 9384,
-      "forks": 809,
-      "starsInPeriod": 17
-    },
-    {
-      "rank": 8,
       "fullName": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "programmingLanguage": "Rust",
-      "stars": 103057,
-      "forks": 13377,
-      "starsInPeriod": 192
+      "stars": 103396,
+      "forks": 13399,
+      "starsInPeriod": 245
     },
     {
-      "rank": 9,
-      "fullName": "herdrdev/herdr",
-      "url": "https://github.com/herdrdev/herdr",
-      "description": "the runtime your coding agents live on",
+      "rank": 3,
+      "fullName": "jub0t/Concat",
+      "url": "https://github.com/jub0t/Concat",
+      "description": "Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.",
       "programmingLanguage": "Rust",
-      "stars": 49407,
-      "forks": 3986,
-      "starsInPeriod": 374
+      "stars": 16150,
+      "forks": 2005,
+      "starsInPeriod": 510
     },
     {
-      "rank": 10,
-      "fullName": "astral-sh/ruff",
-      "url": "https://github.com/astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "programmingLanguage": "Rust",
-      "stars": 51112,
-      "forks": 2637,
-      "starsInPeriod": 282
-    },
-    {
-      "rank": 11,
+      "rank": 4,
       "fullName": "GyulyVGC/sniffnet",
       "url": "https://github.com/GyulyVGC/sniffnet",
       "description": "Comfortably monitor your network traffic 🕵️‍♂️",
       "programmingLanguage": "Rust",
-      "stars": 42087,
-      "forks": 1971,
-      "starsInPeriod": 72
+      "stars": 42212,
+      "forks": 1982,
+      "starsInPeriod": 148
+    },
+    {
+      "rank": 5,
+      "fullName": "HakanSeven12/OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "programmingLanguage": "Rust",
+      "stars": 3933,
+      "forks": 474,
+      "starsInPeriod": 31
+    },
+    {
+      "rank": 6,
+      "fullName": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "programmingLanguage": "Rust",
+      "stars": 9872,
+      "forks": 433,
+      "starsInPeriod": 33
+    },
+    {
+      "rank": 7,
+      "fullName": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "programmingLanguage": "Rust",
+      "stars": 40238,
+      "forks": 6272,
+      "starsInPeriod": 390
+    },
+    {
+      "rank": 8,
+      "fullName": "crmne/spotifast",
+      "url": "https://github.com/crmne/spotifast",
+      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "programmingLanguage": "Rust",
+      "stars": 10072,
+      "forks": 591,
+      "starsInPeriod": 95
+    },
+    {
+      "rank": 9,
+      "fullName": "infosave2007/aivpn",
+      "url": "https://github.com/infosave2007/aivpn",
+      "description": "AI-VPN that makes your traffic invisible to deep packet inspection",
+      "programmingLanguage": "Rust",
+      "stars": 880,
+      "forks": 78,
+      "starsInPeriod": 11
+    },
+    {
+      "rank": 10,
+      "fullName": "ooolabdev/ooosplat",
+      "url": "https://github.com/ooolabdev/ooosplat",
+      "description": "A local desktop app that turns videos and images into 3D Gaussian Splats in one click.",
+      "programmingLanguage": "Rust",
+      "stars": 2403,
+      "forks": 287,
+      "starsInPeriod": 109
+    },
+    {
+      "rank": 11,
+      "fullName": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "programmingLanguage": "Rust",
+      "stars": 20105,
+      "forks": 1232,
+      "starsInPeriod": 153
     },
     {
       "rank": 12,
-      "fullName": "CapSoftware/Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "fullName": "ViceVerse-cz/Serein",
+      "url": "https://github.com/ViceVerse-cz/Serein",
+      "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
       "programmingLanguage": "Rust",
-      "stars": 24666,
-      "forks": 2293,
-      "starsInPeriod": 62
+      "stars": 1174,
+      "forks": 111,
+      "starsInPeriod": 36
     }
   ]
 }

@@ -4,189 +4,189 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-11-08T22:02:55Z",
+  "observedAt": "2026-11-09T22:20:39Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
+      "fullName": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "programmingLanguage": "Go",
+      "stars": 67595,
+      "forks": 11013,
+      "starsInPeriod": 832
+    },
+    {
+      "rank": 2,
+      "fullName": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "programmingLanguage": "Go",
+      "stars": 55424,
+      "forks": 7311,
+      "starsInPeriod": 841
+    },
+    {
+      "rank": 3,
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 118635,
+      "forks": 6906,
+      "starsInPeriod": 1802
+    },
+    {
+      "rank": 4,
+      "fullName": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "programmingLanguage": "Go",
+      "stars": 52679,
+      "forks": 10596,
+      "starsInPeriod": 353
+    },
+    {
+      "rank": 5,
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 39171,
+      "forks": 843,
+      "starsInPeriod": 243
+    },
+    {
+      "rank": 6,
       "fullName": "moby/moby",
       "url": "https://github.com/moby/moby",
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "programmingLanguage": "Go",
       "stars": 72362,
-      "forks": 19321,
-      "starsInPeriod": 285
-    },
-    {
-      "rank": 2,
-      "fullName": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "programmingLanguage": "Go",
-      "stars": 67562,
-      "forks": 11011,
-      "starsInPeriod": 644
-    },
-    {
-      "rank": 3,
-      "fullName": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-      "programmingLanguage": "Go",
-      "stars": 55304,
-      "forks": 7288,
-      "starsInPeriod": 836
-    },
-    {
-      "rank": 4,
-      "fullName": "go-gitea/gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "programmingLanguage": "Go",
-      "stars": 58969,
-      "forks": 7378,
-      "starsInPeriod": 189
-    },
-    {
-      "rank": 5,
-      "fullName": "gin-gonic/gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-      "programmingLanguage": "Go",
-      "stars": 89604,
-      "forks": 8913,
-      "starsInPeriod": 274
-    },
-    {
-      "rank": 6,
-      "fullName": "etcd-io/etcd",
-      "url": "https://github.com/etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "programmingLanguage": "Go",
-      "stars": 52672,
-      "forks": 10594,
-      "starsInPeriod": 352
+      "forks": 19322,
+      "starsInPeriod": 287
     },
     {
       "rank": 7,
-      "fullName": "argoproj/argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
-      "programmingLanguage": "Go",
-      "stars": 24566,
-      "forks": 8113,
-      "starsInPeriod": 66
-    },
-    {
-      "rank": 8,
-      "fullName": "fleetdm/fleet",
-      "url": "https://github.com/fleetdm/fleet",
-      "description": "Open device management",
-      "programmingLanguage": "Go",
-      "stars": 7162,
-      "forks": 1128,
-      "starsInPeriod": 73
-    },
-    {
-      "rank": 9,
-      "fullName": "openchoreo/openchoreo",
-      "url": "https://github.com/openchoreo/openchoreo",
-      "description": "OpenChoreo is an internal developer platform for Kubernetes",
-      "programmingLanguage": "Go",
-      "stars": 1846,
-      "forks": 283,
-      "starsInPeriod": 104
-    },
-    {
-      "rank": 10,
       "fullName": "nektos/act",
       "url": "https://github.com/nektos/act",
       "description": "Run your GitHub Actions locally 🚀",
       "programmingLanguage": "Go",
-      "stars": 72593,
+      "stars": 72613,
       "forks": 2116,
-      "starsInPeriod": 122
+      "starsInPeriod": 127
     },
     {
-      "rank": 11,
-      "fullName": "rclone/rclone",
-      "url": "https://github.com/rclone/rclone",
-      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "rank": 8,
+      "fullName": "openchoreo/openchoreo",
+      "url": "https://github.com/openchoreo/openchoreo",
+      "description": "OpenChoreo is an internal developer platform for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 60868,
-      "forks": 5664,
-      "starsInPeriod": 209
+      "stars": 1863,
+      "forks": 284,
+      "starsInPeriod": 107
     },
     {
-      "rank": 12,
-      "fullName": "infiniflow/ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+      "rank": 9,
+      "fullName": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "programmingLanguage": "Go",
-      "stars": 93779,
-      "forks": 11260,
-      "starsInPeriod": 527
+      "stars": 89609,
+      "forks": 8915,
+      "starsInPeriod": 266
     },
     {
-      "rank": 13,
-      "fullName": "gastownhall/beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "programmingLanguage": "Go",
-      "stars": 28597,
-      "forks": 1938,
-      "starsInPeriod": 268
-    },
-    {
-      "rank": 14,
+      "rank": 10,
       "fullName": "golang/go",
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139796,
-      "forks": 20999,
-      "starsInPeriod": 629
+      "stars": 139819,
+      "forks": 20230,
+      "starsInPeriod": 475
     },
     {
-      "rank": 15,
+      "rank": 11,
+      "fullName": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+      "programmingLanguage": "Go",
+      "stars": 93890,
+      "forks": 11279,
+      "starsInPeriod": 542
+    },
+    {
+      "rank": 12,
       "fullName": "cli/cli",
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
       "programmingLanguage": "Go",
-      "stars": 46923,
-      "forks": 9266,
-      "starsInPeriod": 110
+      "stars": 46937,
+      "forks": 9268,
+      "starsInPeriod": 108
     },
     {
-      "rank": 16,
-      "fullName": "netbirdio/netbird",
-      "url": "https://github.com/netbirdio/netbird",
-      "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
+      "rank": 13,
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 30798,
-      "forks": 1843,
-      "starsInPeriod": 396
+      "stars": 58984,
+      "forks": 7379,
+      "starsInPeriod": 195
     },
     {
-      "rank": 17,
+      "rank": 14,
       "fullName": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 128934,
-      "forks": 45753,
-      "starsInPeriod": 669
+      "stars": 128961,
+      "forks": 45063,
+      "starsInPeriod": 535
+    },
+    {
+      "rank": 15,
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "programmingLanguage": "Go",
+      "stars": 9434,
+      "forks": 702,
+      "starsInPeriod": 855
+    },
+    {
+      "rank": 16,
+      "fullName": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
+      "programmingLanguage": "Go",
+      "stars": 7168,
+      "forks": 1128,
+      "starsInPeriod": 72
+    },
+    {
+      "rank": 17,
+      "fullName": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 24573,
+      "forks": 8122,
+      "starsInPeriod": 65
     },
     {
       "rank": 18,
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "fullName": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 118350,
-      "forks": 6890,
-      "starsInPeriod": 1793
+      "stars": 28629,
+      "forks": 1941,
+      "starsInPeriod": 229
     },
     {
       "rank": 19,
@@ -194,19 +194,19 @@
       "url": "https://github.com/microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "programmingLanguage": "Go",
-      "stars": 111860,
-      "forks": 15396,
-      "starsInPeriod": 331
+      "stars": 111864,
+      "forks": 14691,
+      "starsInPeriod": 321
     },
     {
       "rank": 20,
-      "fullName": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "fullName": "google-gemini/gemini-api-cli",
+      "url": "https://github.com/google-gemini/gemini-api-cli",
+      "description": "An (experimental) CLI for the Gemini API",
       "programmingLanguage": "Go",
-      "stars": 39128,
-      "forks": 838,
-      "starsInPeriod": 234
+      "stars": 489,
+      "forks": 76,
+      "starsInPeriod": 91
     }
   ]
 }

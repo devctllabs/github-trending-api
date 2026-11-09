@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-11-08T22:02:33Z",
+  "observedAt": "2026-11-09T22:20:19Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "programmingLanguage": "Python",
-      "stars": 10305,
-      "forks": 834,
-      "starsInPeriod": 9044
+      "stars": 10992,
+      "forks": 897,
+      "starsInPeriod": 9327
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 189532,
-      "forks": 22338,
-      "starsInPeriod": 2796
+      "stars": 190851,
+      "forks": 22435,
+      "starsInPeriod": 3169
     },
     {
       "rank": 3,
@@ -34,39 +34,39 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "programmingLanguage": "Python",
-      "stars": 99822,
-      "forks": 10438,
-      "starsInPeriod": 8712
+      "stars": 100507,
+      "forks": 10502,
+      "starsInPeriod": 8342
     },
     {
       "rank": 4,
-      "fullName": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "programmingLanguage": "Python",
-      "stars": 148682,
-      "forks": 13356,
-      "starsInPeriod": 4280
-    },
-    {
-      "rank": 5,
       "fullName": "The-PR-Agent/pr-agent",
       "url": "https://github.com/The-PR-Agent/pr-agent",
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "programmingLanguage": "Python",
-      "stars": 15587,
-      "forks": 2149,
-      "starsInPeriod": 1576
+      "stars": 15717,
+      "forks": 2161,
+      "starsInPeriod": 1706
     },
     {
-      "rank": 6,
+      "rank": 5,
       "fullName": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "programmingLanguage": "Python",
-      "stars": 66436,
-      "forks": 5235,
-      "starsInPeriod": 3067
+      "stars": 67077,
+      "forks": 5275,
+      "starsInPeriod": 3118
+    },
+    {
+      "rank": 6,
+      "fullName": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "programmingLanguage": "Python",
+      "stars": 149001,
+      "forks": 13373,
+      "starsInPeriod": 4045
     },
     {
       "rank": 7,
@@ -74,39 +74,39 @@
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "programmingLanguage": "Python",
-      "stars": 23707,
-      "forks": 1978,
-      "starsInPeriod": 1477
+      "stars": 23768,
+      "forks": 1987,
+      "starsInPeriod": 1931
     },
     {
       "rank": 8,
-      "fullName": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "programmingLanguage": "Python",
-      "stars": 47341,
-      "forks": 7826,
-      "starsInPeriod": 2937
-    },
-    {
-      "rank": 9,
       "fullName": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "programmingLanguage": "Python",
-      "stars": 141023,
-      "forks": 22501,
-      "starsInPeriod": 3987
+      "stars": 141578,
+      "forks": 22594,
+      "starsInPeriod": 4048
+    },
+    {
+      "rank": 9,
+      "fullName": "scenario-labs/skills",
+      "url": "https://github.com/scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "programmingLanguage": "Python",
+      "stars": 3608,
+      "forks": 314,
+      "starsInPeriod": 2118
     },
     {
       "rank": 10,
-      "fullName": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "description": "A privacy-first app that strips AI watermarks from content you own.",
+      "fullName": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "programmingLanguage": "Python",
-      "stars": 26718,
-      "forks": 3050,
-      "starsInPeriod": 877
+      "stars": 47428,
+      "forks": 7839,
+      "starsInPeriod": 2423
     },
     {
       "rank": 11,
@@ -114,59 +114,49 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "programmingLanguage": "Python",
-      "stars": 144459,
-      "forks": 13824,
-      "starsInPeriod": 4147
+      "stars": 144996,
+      "forks": 13877,
+      "starsInPeriod": 4105
     },
     {
       "rank": 12,
+      "fullName": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "A privacy-first app that strips AI watermarks from content you own.",
+      "programmingLanguage": "Python",
+      "stars": 26851,
+      "forks": 3059,
+      "starsInPeriod": 860
+    },
+    {
+      "rank": 13,
       "fullName": "python-poetry/poetry",
       "url": "https://github.com/python-poetry/poetry",
       "description": "Python packaging and dependency management made easy",
       "programmingLanguage": "Python",
-      "stars": 34429,
-      "forks": 2585,
-      "starsInPeriod": 237
-    },
-    {
-      "rank": 13,
-      "fullName": "scenario-labs/skills",
-      "url": "https://github.com/scenario-labs/skills",
-      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-      "programmingLanguage": "Python",
-      "stars": 3540,
-      "forks": 307,
-      "starsInPeriod": 2151
+      "stars": 34433,
+      "forks": 2586,
+      "starsInPeriod": 238
     },
     {
       "rank": 14,
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
-      "programmingLanguage": "Python",
-      "stars": 56938,
-      "forks": 6943,
-      "starsInPeriod": 3873
-    },
-    {
-      "rank": 15,
-      "fullName": "ethanplusai/sellbird",
-      "url": "https://github.com/ethanplusai/sellbird",
-      "description": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
-      "programmingLanguage": "Python",
-      "stars": 4904,
-      "forks": 1041,
-      "starsInPeriod": 1129
-    },
-    {
-      "rank": 16,
       "fullName": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "programmingLanguage": "Python",
-      "stars": 20232,
-      "forks": 2149,
-      "starsInPeriod": 546
+      "stars": 20351,
+      "forks": 2162,
+      "starsInPeriod": 551
+    },
+    {
+      "rank": 15,
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "programmingLanguage": "Python",
+      "stars": 57592,
+      "forks": 7022,
+      "starsInPeriod": 3399
     }
   ]
 }

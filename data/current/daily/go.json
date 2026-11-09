@@ -4,189 +4,169 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-11-08T22:02:49Z",
+  "observedAt": "2026-11-09T22:20:36Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
+      "fullName": "gosom/google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "programmingLanguage": "Go",
+      "stars": 7757,
+      "forks": 1213,
+      "starsInPeriod": 222
+    },
+    {
+      "rank": 2,
+      "fullName": "sundowndev/phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "programmingLanguage": "Go",
+      "stars": 18474,
+      "forks": 6303,
+      "starsInPeriod": 27
+    },
+    {
+      "rank": 3,
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "programmingLanguage": "Go",
+      "stars": 9434,
+      "forks": 702,
+      "starsInPeriod": 250
+    },
+    {
+      "rank": 4,
+      "fullName": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
+      "programmingLanguage": "Go",
+      "stars": 12257,
+      "forks": 1088,
+      "starsInPeriod": 28
+    },
+    {
+      "rank": 5,
       "fullName": "dsx-ai-factory/nvke",
       "url": "https://github.com/dsx-ai-factory/nvke",
       "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "programmingLanguage": "Go",
-      "stars": 812,
-      "forks": 110,
-      "starsInPeriod": 345
-    },
-    {
-      "rank": 2,
-      "fullName": "henrygd/beszel",
-      "url": "https://github.com/henrygd/beszel",
-      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
-      "programmingLanguage": "Go",
-      "stars": 26998,
-      "forks": 1154,
-      "starsInPeriod": 86
-    },
-    {
-      "rank": 3,
-      "fullName": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "programmingLanguage": "Go",
-      "stars": 67562,
-      "forks": 11011,
-      "starsInPeriod": 258
-    },
-    {
-      "rank": 4,
-      "fullName": "Christ9038/Ydisks-Xianyu-Helper",
-      "url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper",
-      "description": "闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建",
-      "programmingLanguage": "Go",
-      "stars": 2332,
-      "forks": 634,
-      "starsInPeriod": 48
-    },
-    {
-      "rank": 5,
-      "fullName": "XTLS/Xray-core",
-      "url": "https://github.com/XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-      "programmingLanguage": "Go",
-      "stars": 42732,
-      "forks": 6126,
-      "starsInPeriod": 39
+      "stars": 1031,
+      "forks": 122,
+      "starsInPeriod": 324
     },
     {
       "rank": 6,
-      "fullName": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "programmingLanguage": "Go",
-      "stars": 33713,
-      "forks": 5274,
-      "starsInPeriod": 98
-    },
-    {
-      "rank": 7,
-      "fullName": "kgretzky/evilginx2",
-      "url": "https://github.com/kgretzky/evilginx2",
-      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-      "programmingLanguage": "Go",
-      "stars": 15869,
-      "forks": 2764,
-      "starsInPeriod": 22
-    },
-    {
-      "rank": 8,
-      "fullName": "woodpecker-ci/woodpecker",
-      "url": "https://github.com/woodpecker-ci/woodpecker",
-      "description": "Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.",
-      "programmingLanguage": "Go",
-      "stars": 8137,
-      "forks": 735,
-      "starsInPeriod": 6
-    },
-    {
-      "rank": 9,
-      "fullName": "Gaurav-Gosain/tuios",
-      "url": "https://github.com/Gaurav-Gosain/tuios",
-      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
-      "programmingLanguage": "Go",
-      "stars": 6450,
-      "forks": 316,
-      "starsInPeriod": 40
-    },
-    {
-      "rank": 10,
-      "fullName": "google/gvisor",
-      "url": "https://github.com/google/gvisor",
-      "description": "Application Kernel for Containers",
-      "programmingLanguage": "Go",
-      "stars": 19923,
-      "forks": 2068,
-      "starsInPeriod": 15
-    },
-    {
-      "rank": 11,
-      "fullName": "glanceapp/glance",
-      "url": "https://github.com/glanceapp/glance",
-      "description": "A self-hosted dashboard that puts all your feeds in one place",
-      "programmingLanguage": "Go",
-      "stars": 38097,
-      "forks": 1518,
-      "starsInPeriod": 29
-    },
-    {
-      "rank": 12,
-      "fullName": "AlistGo/alist",
-      "url": "https://github.com/AlistGo/alist",
-      "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
-      "programmingLanguage": "Go",
-      "stars": 50430,
-      "forks": 7904,
-      "starsInPeriod": 11
-    },
-    {
-      "rank": 13,
-      "fullName": "navidrome/navidrome",
-      "url": "https://github.com/navidrome/navidrome",
-      "description": "🎧 Your Personal Streaming Service",
-      "programmingLanguage": "Go",
-      "stars": 24590,
-      "forks": 1813,
-      "starsInPeriod": 15
-    },
-    {
-      "rank": 14,
       "fullName": "TwiN/gatus",
       "url": "https://github.com/TwiN/gatus",
       "description": "Automated developer-oriented status page with alerting and incident support",
       "programmingLanguage": "Go",
-      "stars": 12640,
-      "forks": 893,
-      "starsInPeriod": 88
+      "stars": 12675,
+      "forks": 895,
+      "starsInPeriod": 55
+    },
+    {
+      "rank": 7,
+      "fullName": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "smart charging ☀️🚘",
+      "programmingLanguage": "Go",
+      "stars": 7556,
+      "forks": 1628,
+      "starsInPeriod": 13
+    },
+    {
+      "rank": 8,
+      "fullName": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "programmingLanguage": "Go",
+      "stars": 39802,
+      "forks": 4916,
+      "starsInPeriod": 46
+    },
+    {
+      "rank": 9,
+      "fullName": "kgretzky/evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "programmingLanguage": "Go",
+      "stars": 15885,
+      "forks": 2767,
+      "starsInPeriod": 13
+    },
+    {
+      "rank": 10,
+      "fullName": "woodpecker-ci/woodpecker",
+      "url": "https://github.com/woodpecker-ci/woodpecker",
+      "description": "Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.",
+      "programmingLanguage": "Go",
+      "stars": 8145,
+      "forks": 737,
+      "starsInPeriod": 14
+    },
+    {
+      "rank": 11,
+      "fullName": "strelov1/freehire",
+      "url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "programmingLanguage": "Go",
+      "stars": 3455,
+      "forks": 374,
+      "starsInPeriod": 15
+    },
+    {
+      "rank": 12,
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 39171,
+      "forks": 843,
+      "starsInPeriod": 39
+    },
+    {
+      "rank": 13,
+      "fullName": "chaitin/SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "programmingLanguage": "Go",
+      "stars": 23232,
+      "forks": 1605,
+      "starsInPeriod": 23
+    },
+    {
+      "rank": 14,
+      "fullName": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "programmingLanguage": "Go",
+      "stars": 29093,
+      "forks": 2711,
+      "starsInPeriod": 115
     },
     {
       "rank": 15,
-      "fullName": "kdlbs/kandev",
-      "url": "https://github.com/kdlbs/kandev",
-      "description": "AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.",
+      "fullName": "BishopFox/sliver",
+      "url": "https://github.com/BishopFox/sliver",
+      "description": "Adversary Emulation Framework",
       "programmingLanguage": "Go",
-      "stars": 1093,
-      "forks": 180,
-      "starsInPeriod": 9
+      "stars": 12293,
+      "forks": 1660,
+      "starsInPeriod": 16
     },
     {
       "rank": 16,
-      "fullName": "MHSanaei/3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "fullName": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "programmingLanguage": "Go",
-      "stars": 49551,
-      "forks": 12691,
-      "starsInPeriod": 71
-    },
-    {
-      "rank": 17,
-      "fullName": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "programmingLanguage": "Go",
-      "stars": 6224,
-      "forks": 700,
-      "starsInPeriod": 26
-    },
-    {
-      "rank": 18,
-      "fullName": "VictoriaMetrics/VictoriaMetrics",
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
-      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
-      "programmingLanguage": "Go",
-      "stars": 18049,
-      "forks": 1795,
-      "starsInPeriod": 14
+      "stars": 27064,
+      "forks": 1156,
+      "starsInPeriod": 59
     }
   ]
 }

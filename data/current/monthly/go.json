@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-11-09T06:26:27Z",
+  "observedAt": "2026-11-09T22:20:43Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,39 +14,39 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 186405,
-      "forks": 18974,
+      "stars": 186444,
+      "forks": 18980,
       "starsInPeriod": 4873
     },
     {
       "rank": 2,
-      "fullName": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "programmingLanguage": "Go",
-      "stars": 33731,
-      "forks": 5277,
-      "starsInPeriod": 8577
-    },
-    {
-      "rank": 3,
       "fullName": "prometheus/prometheus",
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "programmingLanguage": "Go",
-      "stars": 67575,
-      "forks": 11014,
+      "stars": 67595,
+      "forks": 11013,
       "starsInPeriod": 1636
     },
     {
-      "rank": 4,
+      "rank": 3,
       "fullName": "moby/moby",
       "url": "https://github.com/moby/moby",
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "programmingLanguage": "Go",
-      "stars": 72361,
-      "forks": 19321,
+      "stars": 72362,
+      "forks": 19322,
       "starsInPeriod": 459
+    },
+    {
+      "rank": 4,
+      "fullName": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "programmingLanguage": "Go",
+      "stars": 33803,
+      "forks": 5305,
+      "starsInPeriod": 8577
     },
     {
       "rank": 5,
@@ -54,29 +54,29 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 38658,
-      "forks": 5900,
+      "stars": 38668,
+      "forks": 5899,
       "starsInPeriod": 573
     },
     {
       "rank": 6,
-      "fullName": "argoproj/argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
-      "programmingLanguage": "Go",
-      "stars": 24571,
-      "forks": 8114,
-      "starsInPeriod": 260
-    },
-    {
-      "rank": 7,
       "fullName": "netbirdio/netbird",
       "url": "https://github.com/netbirdio/netbird",
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "programmingLanguage": "Go",
-      "stars": 30816,
-      "forks": 1843,
+      "stars": 30844,
+      "forks": 1844,
       "starsInPeriod": 1073
+    },
+    {
+      "rank": 7,
+      "fullName": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "programmingLanguage": "Go",
+      "stars": 24573,
+      "forks": 8122,
+      "starsInPeriod": 260
     },
     {
       "rank": 8,
@@ -84,8 +84,8 @@
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 7650,
-      "forks": 1198,
+      "stars": 7757,
+      "forks": 1213,
       "starsInPeriod": 1225
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/Asymptote-Labs/agent-beacon",
       "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "programmingLanguage": "Go",
-      "stars": 3399,
-      "forks": 297,
+      "stars": 3404,
+      "forks": 301,
       "starsInPeriod": 1605
     },
     {
@@ -104,89 +104,99 @@
       "url": "https://github.com/rclone/rclone",
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "programmingLanguage": "Go",
-      "stars": 60883,
-      "forks": 5664,
+      "stars": 60895,
+      "forks": 5666,
       "starsInPeriod": 809
     },
     {
       "rank": 11,
-      "fullName": "gitleaks/gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
-      "programmingLanguage": "Go",
-      "stars": 30805,
-      "forks": 2353,
-      "starsInPeriod": 1058
-    },
-    {
-      "rank": 12,
-      "fullName": "tailscale/tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "programmingLanguage": "Go",
-      "stars": 38822,
-      "forks": 3443,
-      "starsInPeriod": 1640
-    },
-    {
-      "rank": 13,
       "fullName": "gin-gonic/gin",
       "url": "https://github.com/gin-gonic/gin",
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "programmingLanguage": "Go",
-      "stars": 89604,
+      "stars": 89609,
       "forks": 8915,
       "starsInPeriod": 614
     },
     {
-      "rank": 14,
-      "fullName": "go-gitea/gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "rank": 12,
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 58976,
-      "forks": 7377,
-      "starsInPeriod": 731
+      "stars": 30844,
+      "forks": 2355,
+      "starsInPeriod": 1058
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "fullName": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "programmingLanguage": "Go",
+      "stars": 38850,
+      "forks": 3448,
+      "starsInPeriod": 1640
+    },
+    {
+      "rank": 14,
       "fullName": "etcd-io/etcd",
       "url": "https://github.com/etcd-io/etcd",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "programmingLanguage": "Go",
-      "stars": 52674,
-      "forks": 10594,
+      "stars": 52679,
+      "forks": 10596,
       "starsInPeriod": 532
     },
     {
-      "rank": 16,
-      "fullName": "N4darae/shrt",
-      "url": "https://github.com/N4darae/shrt",
-      "description": "A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines. Snapshot the valid call chains of an API so an agent can look one up instead of tracing for it. gRPC today, OpenAPI next",
+      "rank": 15,
+      "fullName": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 2530,
-      "forks": 176,
-      "starsInPeriod": 1657
+      "stars": 58984,
+      "forks": 7379,
+      "starsInPeriod": 731
     },
     {
-      "rank": 17,
+      "rank": 16,
       "fullName": "XTLS/Xray-core",
       "url": "https://github.com/XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "programmingLanguage": "Go",
-      "stars": 42740,
-      "forks": 6125,
+      "stars": 42761,
+      "forks": 6128,
       "starsInPeriod": 872
     },
     {
-      "rank": 18,
-      "fullName": "rasonyang/ai-native-callcenter",
-      "url": "https://github.com/rasonyang/ai-native-callcenter",
-      "description": "Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (OpenAI, Grok, Qwen, Doubao, or any compatible gateway).",
+      "rank": 17,
+      "fullName": "N4darae/shrt",
+      "url": "https://github.com/N4darae/shrt",
+      "description": "A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines. Snapshot the valid call chains of an API so an agent can look one up instead of tracing for it. gRPC today, OpenAPI next",
       "programmingLanguage": "Go",
-      "stars": 569,
-      "forks": 106,
-      "starsInPeriod": 369
+      "stars": 2563,
+      "forks": 176,
+      "starsInPeriod": 1657
+    },
+    {
+      "rank": 18,
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 118635,
+      "forks": 6906,
+      "starsInPeriod": 8455
+    },
+    {
+      "rank": 19,
+      "fullName": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "programmingLanguage": "Go",
+      "stars": 18067,
+      "forks": 1801,
+      "starsInPeriod": 239
     }
   ]
 }
