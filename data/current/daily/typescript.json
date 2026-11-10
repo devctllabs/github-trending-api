@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-11-10T07:16:10Z",
+  "observedAt": "2026-11-10T19:43:24Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,19 +14,19 @@
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "programmingLanguage": "TypeScript",
-      "stars": 20883,
-      "forks": 1584,
-      "starsInPeriod": 3278
+      "stars": 22394,
+      "forks": 1789,
+      "starsInPeriod": 3111
     },
     {
       "rank": 2,
-      "fullName": "garrytan/gbrain",
-      "url": "https://github.com/garrytan/gbrain",
-      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "fullName": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
       "programmingLanguage": "TypeScript",
-      "stars": 32315,
-      "forks": 4780,
-      "starsInPeriod": 216
+      "stars": 6197,
+      "forks": 525,
+      "starsInPeriod": 374
     },
     {
       "rank": 3,
@@ -34,129 +34,99 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "programmingLanguage": "TypeScript",
-      "stars": 20097,
-      "forks": 2745,
-      "starsInPeriod": 1587
+      "stars": 20559,
+      "forks": 2846,
+      "starsInPeriod": 1220
     },
     {
       "rank": 4,
-      "fullName": "ranxianglei/billion-context",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "fullName": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
       "programmingLanguage": "TypeScript",
-      "stars": 5852,
-      "forks": 449,
-      "starsInPeriod": 760
+      "stars": 32464,
+      "forks": 4828,
+      "starsInPeriod": 558
     },
     {
       "rank": 5,
-      "fullName": "kortix-ai/CompanyOS",
-      "url": "https://github.com/kortix-ai/CompanyOS",
-      "description": "Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.",
+      "fullName": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
       "programmingLanguage": "TypeScript",
-      "stars": 20619,
-      "forks": 3467,
-      "starsInPeriod": 27
+      "stars": 27170,
+      "forks": 3772,
+      "starsInPeriod": 146
     },
     {
       "rank": 6,
-      "fullName": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "programmingLanguage": "TypeScript",
-      "stars": 97972,
-      "forks": 9778,
-      "starsInPeriod": 169
-    },
-    {
-      "rank": 7,
-      "fullName": "vercel-labs/json-render",
-      "url": "https://github.com/vercel-labs/json-render",
-      "description": "The Generative UI framework",
-      "programmingLanguage": "TypeScript",
-      "stars": 19530,
-      "forks": 1037,
-      "starsInPeriod": 68
-    },
-    {
-      "rank": 8,
-      "fullName": "elie222/rakazo",
-      "url": "https://github.com/elie222/rakazo",
-      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "programmingLanguage": "TypeScript",
-      "stars": 7738,
-      "forks": 1398,
-      "starsInPeriod": 143
-    },
-    {
-      "rank": 9,
-      "fullName": "CodebuffAI/freebuff",
-      "url": "https://github.com/CodebuffAI/freebuff",
-      "description": "The free coding agent",
-      "programmingLanguage": "TypeScript",
-      "stars": 14072,
-      "forks": 1512,
-      "starsInPeriod": 35
-    },
-    {
-      "rank": 10,
-      "fullName": "backnotprop/plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "programmingLanguage": "TypeScript",
-      "stars": 9965,
-      "forks": 753,
-      "starsInPeriod": 43
-    },
-    {
-      "rank": 11,
-      "fullName": "virattt/dexter",
-      "url": "https://github.com/virattt/dexter",
-      "description": "An autonomous agent for deep financial research",
-      "programmingLanguage": "TypeScript",
-      "stars": 27806,
-      "forks": 3428,
-      "starsInPeriod": 15
-    },
-    {
-      "rank": 12,
-      "fullName": "basketikun/infinite-canvas",
-      "url": "https://github.com/basketikun/infinite-canvas",
-      "description": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。",
-      "programmingLanguage": "TypeScript",
-      "stars": 10138,
-      "forks": 2360,
-      "starsInPeriod": 79
-    },
-    {
-      "rank": 13,
-      "fullName": "opengeos/GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "programmingLanguage": "TypeScript",
-      "stars": 8533,
-      "forks": 957,
-      "starsInPeriod": 63
-    },
-    {
-      "rank": 14,
-      "fullName": "snarktank/ralph",
-      "url": "https://github.com/snarktank/ralph",
-      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
-      "programmingLanguage": "TypeScript",
-      "stars": 22197,
-      "forks": 2114,
-      "starsInPeriod": 32
-    },
-    {
-      "rank": 15,
       "fullName": "mantrakp04/ardia",
       "url": "https://github.com/mantrakp04/ardia",
       "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6",
       "programmingLanguage": "TypeScript",
-      "stars": 1597,
-      "forks": 168,
-      "starsInPeriod": 115
+      "stars": 1633,
+      "forks": 223,
+      "starsInPeriod": 64
+    },
+    {
+      "rank": 7,
+      "fullName": "WhiteTowerAI/ohmygame",
+      "url": "https://github.com/WhiteTowerAI/ohmygame",
+      "description": "The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas. Bring your own key.",
+      "programmingLanguage": "TypeScript",
+      "stars": 2018,
+      "forks": 257,
+      "starsInPeriod": 201
+    },
+    {
+      "rank": 8,
+      "fullName": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "programmingLanguage": "TypeScript",
+      "stars": 9997,
+      "forks": 758,
+      "starsInPeriod": 48
+    },
+    {
+      "rank": 9,
+      "fullName": "upscayl/upscayl",
+      "url": "https://github.com/upscayl/upscayl",
+      "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "programmingLanguage": "TypeScript",
+      "stars": 52178,
+      "forks": 2734,
+      "starsInPeriod": 89
+    },
+    {
+      "rank": 10,
+      "fullName": "a-ghorbani/pocketpal-ai",
+      "url": "https://github.com/a-ghorbani/pocketpal-ai",
+      "description": "An app that brings language models directly to your phone.",
+      "programmingLanguage": "TypeScript",
+      "stars": 9176,
+      "forks": 1065,
+      "starsInPeriod": 50
+    },
+    {
+      "rank": 11,
+      "fullName": "fosrl/pangolin",
+      "url": "https://github.com/fosrl/pangolin",
+      "description": "Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.",
+      "programmingLanguage": "TypeScript",
+      "stars": 23564,
+      "forks": 827,
+      "starsInPeriod": 125
+    },
+    {
+      "rank": 12,
+      "fullName": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "programmingLanguage": "TypeScript",
+      "stars": 8724,
+      "forks": 1053,
+      "starsInPeriod": 8
     }
   ]
 }

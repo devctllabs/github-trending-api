@@ -4,15 +4,31 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Tue, 10 Nov 2026 07:15:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:43:03 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-10</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-11-10T07:15:50Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-10T19:43:03Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
+    <item>
+      <title>dsx-ai-factory/nvke</title>
+      <link>https://github.com/dsx-ai-factory/nvke</link>
+      <description>NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</description>
+      <guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
+      <pubDate>Tue, 10 Nov 2026 07:15:50 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>1106</ght:stars>
+      <ght:forks>133</ght:forks>
+      <ght:starsInPeriod>75</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T07:15:50Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
     <item>
       <title>gosom/google-maps-scraper</title>
       <link>https://github.com/gosom/google-maps-scraper</link>
@@ -20,14 +36,14 @@
       <guid isPermaLink="true">https://github.com/gosom/google-maps-scraper</guid>
       <pubDate>Tue, 10 Nov 2026 07:15:50 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>7806</ght:stars>
-      <ght:forks>1218</ght:forks>
-      <ght:starsInPeriod>205</ght:starsInPeriod>
+      <ght:stars>7855</ght:stars>
+      <ght:forks>1232</ght:forks>
+      <ght:starsInPeriod>127</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
-      <ght:latestRank>1</ght:latestRank>
+      <ght:latestRank>4</ght:latestRank>
       <ght:firstSeenAt>2026-11-10T07:15:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-10T07:15:50Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>sundowndev/phoneinfoga</title>
@@ -36,13 +52,29 @@
       <guid isPermaLink="true">https://github.com/sundowndev/phoneinfoga</guid>
       <pubDate>Tue, 10 Nov 2026 07:15:50 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>18485</ght:stars>
-      <ght:forks>6307</ght:forks>
-      <ght:starsInPeriod>28</ght:starsInPeriod>
+      <ght:stars>18501</ght:stars>
+      <ght:forks>6309</ght:forks>
+      <ght:starsInPeriod>35</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T07:15:50Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>JuliusBrussee/caveman</title>
+      <link>https://github.com/JuliusBrussee/caveman</link>
+      <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
+      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>118856</ght:stars>
+      <ght:forks>6912</ght:forks>
+      <ght:starsInPeriod>299</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
       <ght:latestRank>2</ght:latestRank>
-      <ght:firstSeenAt>2026-11-10T07:15:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-10T07:15:50Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -62,6 +94,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>Tencent/WeKnora</title>
+      <link>https://github.com/Tencent/WeKnora</link>
+      <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+      <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>37105</ght:stars>
+      <ght:forks>5125</ght:forks>
+      <ght:starsInPeriod>141</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>majd/ipatool</title>
       <link>https://github.com/majd/ipatool</link>
       <description>Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.</description>
@@ -78,19 +126,19 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>dsx-ai-factory/nvke</title>
-      <link>https://github.com/dsx-ai-factory/nvke</link>
-      <description>NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</description>
-      <guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
-      <pubDate>Tue, 10 Nov 2026 07:15:50 GMT</pubDate>
+      <title>agent-substrate/substrate</title>
+      <link>https://github.com/agent-substrate/substrate</link>
+      <description>Agent Substrate: the core system</description>
+      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1062</ght:stars>
-      <ght:forks>129</ght:forks>
-      <ght:starsInPeriod>333</ght:starsInPeriod>
+      <ght:stars>6379</ght:stars>
+      <ght:forks>717</ght:forks>
+      <ght:starsInPeriod>78</ght:starsInPeriod>
       <ght:bestRank>5</ght:bestRank>
       <ght:latestRank>5</ght:latestRank>
-      <ght:firstSeenAt>2026-11-10T07:15:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-10T07:15:50Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -126,6 +174,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>github/github-mcp-server</title>
+      <link>https://github.com/github/github-mcp-server</link>
+      <description>GitHub's official MCP Server</description>
+      <guid isPermaLink="true">https://github.com/github/github-mcp-server</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>34365</ght:stars>
+      <ght:forks>5322</ght:forks>
+      <ght:starsInPeriod>17</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>SagerNet/sing-box</title>
       <link>https://github.com/SagerNet/sing-box</link>
       <description>The universal proxy platform</description>
@@ -142,6 +206,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>trufflesecurity/trufflehog</title>
+      <link>https://github.com/trufflesecurity/trufflehog</link>
+      <description>Find, verify, and analyze leaked credentials</description>
+      <guid isPermaLink="true">https://github.com/trufflesecurity/trufflehog</guid>
+      <pubDate>Tue, 10 Nov 2026 07:15:50 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>29162</ght:stars>
+      <ght:forks>2717</ght:forks>
+      <ght:starsInPeriod>96</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T07:15:50Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>kgretzky/evilginx2</title>
       <link>https://github.com/kgretzky/evilginx2</link>
       <description>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</description>
@@ -155,6 +235,22 @@
       <ght:latestRank>9</ght:latestRank>
       <ght:firstSeenAt>2026-11-10T07:15:50Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-10T07:15:50Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>github/gh-aw</title>
+      <link>https://github.com/github/gh-aw</link>
+      <description>GitHub Agentic Workflows</description>
+      <guid isPermaLink="true">https://github.com/github/gh-aw</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5612</ght:stars>
+      <ght:forks>626</ght:forks>
+      <ght:starsInPeriod>9</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -174,6 +270,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>mikefarah/yq</title>
+      <link>https://github.com/mikefarah/yq</link>
+      <description>yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor</description>
+      <guid isPermaLink="true">https://github.com/mikefarah/yq</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>16258</ght:stars>
+      <ght:forks>1296</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>strelov1/freehire</title>
       <link>https://github.com/strelov1/freehire</link>
       <description>freehire — the open-source search engine for job seekers</description>
@@ -187,6 +299,22 @@
       <ght:latestRank>11</ght:latestRank>
       <ght:firstSeenAt>2026-11-10T07:15:50Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-10T07:15:50Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>flipped-aurora/gin-vue-admin</title>
+      <link>https://github.com/flipped-aurora/gin-vue-admin</link>
+      <description>🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。</description>
+      <guid isPermaLink="true">https://github.com/flipped-aurora/gin-vue-admin</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>25129</ght:stars>
+      <ght:forks>7102</ght:forks>
+      <ght:starsInPeriod>0</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -206,6 +334,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>k0sproject/k0s</title>
+      <link>https://github.com/k0sproject/k0s</link>
+      <description>k0s - The Zero Friction Kubernetes</description>
+      <guid isPermaLink="true">https://github.com/k0sproject/k0s</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6583</ght:stars>
+      <ght:forks>541</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>chaitin/SafeLine</title>
       <link>https://github.com/chaitin/SafeLine</link>
       <description>SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.</description>
@@ -222,19 +366,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>trufflesecurity/trufflehog</title>
-      <link>https://github.com/trufflesecurity/trufflehog</link>
-      <description>Find, verify, and analyze leaked credentials</description>
-      <guid isPermaLink="true">https://github.com/trufflesecurity/trufflehog</guid>
-      <pubDate>Tue, 10 Nov 2026 07:15:50 GMT</pubDate>
+      <title>infiniflow/ragflow</title>
+      <link>https://github.com/infiniflow/ragflow</link>
+      <description>RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.</description>
+      <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>29123</ght:stars>
-      <ght:forks>2715</ght:forks>
-      <ght:starsInPeriod>94</ght:starsInPeriod>
+      <ght:stars>93967</ght:stars>
+      <ght:forks>11290</ght:forks>
+      <ght:starsInPeriod>130</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>dsx-ai-factory/run-ai</title>
+      <link>https://github.com/dsx-ai-factory/run-ai</link>
+      <description>Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment.</description>
+      <guid isPermaLink="true">https://github.com/dsx-ai-factory/run-ai</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>736</ght:stars>
+      <ght:forks>120</ght:forks>
+      <ght:starsInPeriod>5</ght:starsInPeriod>
       <ght:bestRank>14</ght:bestRank>
       <ght:latestRank>14</ght:latestRank>
-      <ght:firstSeenAt>2026-11-10T07:15:50Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-10T07:15:50Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -254,6 +414,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>gitleaks/gitleaks</title>
+      <link>https://github.com/gitleaks/gitleaks</link>
+      <description>Find secrets with Gitleaks 🔑</description>
+      <guid isPermaLink="true">https://github.com/gitleaks/gitleaks</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>30872</ght:stars>
+      <ght:forks>2360</ght:forks>
+      <ght:starsInPeriod>57</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>henrygd/beszel</title>
       <link>https://github.com/henrygd/beszel</link>
       <description>Lightweight server monitoring with historical data, docker stats, and alerts.</description>
@@ -267,6 +443,38 @@
       <ght:latestRank>16</ght:latestRank>
       <ght:firstSeenAt>2026-11-10T07:15:50Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-10T07:15:50Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>opencode-ai/opencode</title>
+      <link>https://github.com/opencode-ai/opencode</link>
+      <description>A powerful AI coding agent. Built for the terminal.</description>
+      <guid isPermaLink="true">https://github.com/opencode-ai/opencode</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>13880</ght:stars>
+      <ght:forks>2471</ght:forks>
+      <ght:starsInPeriod>3</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>rorkai/App-Store-Connect-CLI</title>
+      <link>https://github.com/rorkai/App-Store-Connect-CLI</link>
+      <description>Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more</description>
+      <guid isPermaLink="true">https://github.com/rorkai/App-Store-Connect-CLI</guid>
+      <pubDate>Tue, 10 Nov 2026 19:43:03 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>8318</ght:stars>
+      <ght:forks>733</ght:forks>
+      <ght:starsInPeriod>20</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-11-10T19:43:03Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-10T19:43:03Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>

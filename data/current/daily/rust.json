@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-10T07:15:40Z",
+  "observedAt": "2026-11-10T19:42:53Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,39 +14,39 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 48723,
-      "forks": 3320,
-      "starsInPeriod": 916
+      "stars": 49098,
+      "forks": 3443,
+      "starsInPeriod": 775
     },
     {
       "rank": 2,
+      "fullName": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "programmingLanguage": "Rust",
+      "stars": 6716,
+      "forks": 294,
+      "starsInPeriod": 192
+    },
+    {
+      "rank": 3,
       "fullName": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "programmingLanguage": "Rust",
-      "stars": 103668,
-      "forks": 13429,
-      "starsInPeriod": 172
-    },
-    {
-      "rank": 3,
-      "fullName": "jub0t/Concat",
-      "url": "https://github.com/jub0t/Concat",
-      "description": "Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.",
-      "programmingLanguage": "Rust",
-      "stars": 16307,
-      "forks": 2022,
-      "starsInPeriod": 493
+      "stars": 103853,
+      "forks": 13516,
+      "starsInPeriod": 673
     },
     {
       "rank": 4,
-      "fullName": "GyulyVGC/sniffnet",
-      "url": "https://github.com/GyulyVGC/sniffnet",
-      "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+      "fullName": "crmne/spotifast",
+      "url": "https://github.com/crmne/spotifast",
+      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
       "programmingLanguage": "Rust",
-      "stars": 42262,
-      "forks": 1987,
-      "starsInPeriod": 152
+      "stars": 10135,
+      "forks": 596,
+      "starsInPeriod": 88
     },
     {
       "rank": 5,
@@ -54,79 +54,69 @@
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "programmingLanguage": "Rust",
-      "stars": 3944,
-      "forks": 474,
-      "starsInPeriod": 32
+      "stars": 3964,
+      "forks": 477,
+      "starsInPeriod": 36
     },
     {
       "rank": 6,
-      "fullName": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "programmingLanguage": "Rust",
-      "stars": 9883,
-      "forks": 432,
-      "starsInPeriod": 32
-    },
-    {
-      "rank": 7,
-      "fullName": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "programmingLanguage": "Rust",
-      "stars": 40348,
-      "forks": 6281,
-      "starsInPeriod": 378
-    },
-    {
-      "rank": 8,
-      "fullName": "crmne/spotifast",
-      "url": "https://github.com/crmne/spotifast",
-      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
-      "programmingLanguage": "Rust",
-      "stars": 10103,
-      "forks": 595,
-      "starsInPeriod": 86
-    },
-    {
-      "rank": 9,
-      "fullName": "infosave2007/aivpn",
-      "url": "https://github.com/infosave2007/aivpn",
-      "description": "AI-VPN that makes your traffic invisible to deep packet inspection",
-      "programmingLanguage": "Rust",
-      "stars": 889,
-      "forks": 78,
-      "starsInPeriod": 11
-    },
-    {
-      "rank": 10,
       "fullName": "ooolabdev/ooosplat",
       "url": "https://github.com/ooolabdev/ooosplat",
       "description": "A local desktop app that turns videos and images into 3D Gaussian Splats in one click.",
       "programmingLanguage": "Rust",
-      "stars": 2423,
+      "stars": 2437,
       "forks": 288,
-      "starsInPeriod": 121
+      "starsInPeriod": 38
+    },
+    {
+      "rank": 7,
+      "fullName": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+      "programmingLanguage": "Rust",
+      "stars": 42321,
+      "forks": 1991,
+      "starsInPeriod": 140
+    },
+    {
+      "rank": 8,
+      "fullName": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "programmingLanguage": "Rust",
+      "stars": 67031,
+      "forks": 3203,
+      "starsInPeriod": 76
+    },
+    {
+      "rank": 9,
+      "fullName": "alvr-org/ALVR",
+      "url": "https://github.com/alvr-org/ALVR",
+      "description": "Stream VR games from your PC to your headset via Wi-Fi",
+      "programmingLanguage": "Rust",
+      "stars": 8077,
+      "forks": 765,
+      "starsInPeriod": 9
+    },
+    {
+      "rank": 10,
+      "fullName": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "programmingLanguage": "Rust",
+      "stars": 128913,
+      "forks": 20524,
+      "starsInPeriod": 145
     },
     {
       "rank": 11,
-      "fullName": "longbridge/gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "fullName": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "programmingLanguage": "Rust",
-      "stars": 20166,
-      "forks": 1233,
-      "starsInPeriod": 163
-    },
-    {
-      "rank": 12,
-      "fullName": "ViceVerse-cz/Serein",
-      "url": "https://github.com/ViceVerse-cz/Serein",
-      "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
-      "programmingLanguage": "Rust",
-      "stars": 1194,
-      "forks": 112,
-      "starsInPeriod": 34
+      "stars": 38888,
+      "forks": 2514,
+      "starsInPeriod": 63
     }
   ]
 }

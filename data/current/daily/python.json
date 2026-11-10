@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-11-10T07:15:31Z",
+  "observedAt": "2026-11-10T19:42:42Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,159 +14,139 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 191432,
-      "forks": 22473,
-      "starsInPeriod": 1038
+      "stars": 192128,
+      "forks": 22624,
+      "starsInPeriod": 1676
     },
     {
       "rank": 2,
-      "fullName": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "programmingLanguage": "Python",
-      "stars": 107772,
-      "forks": 12460,
-      "starsInPeriod": 4267
-    },
-    {
-      "rank": 3,
       "fullName": "anthropics/claude-quickstarts",
       "url": "https://github.com/anthropics/claude-quickstarts",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "programmingLanguage": "Python",
-      "stars": 20165,
-      "forks": 3327,
-      "starsInPeriod": 551
+      "stars": 20400,
+      "forks": 3463,
+      "starsInPeriod": 530
     },
     {
-      "rank": 4,
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "programmingLanguage": "Python",
-      "stars": 69243,
-      "forks": 56480,
-      "starsInPeriod": 506
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "fullName": "homeassistant-ai/ha-mcp",
       "url": "https://github.com/homeassistant-ai/ha-mcp",
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "programmingLanguage": "Python",
-      "stars": 6179,
-      "forks": 300,
-      "starsInPeriod": 31
+      "stars": 6515,
+      "forks": 425,
+      "starsInPeriod": 792
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "fullName": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "programmingLanguage": "Python",
+      "stars": 108747,
+      "forks": 12643,
+      "starsInPeriod": 2387
+    },
+    {
+      "rank": 5,
       "fullName": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "programmingLanguage": "Python",
-      "stars": 42150,
-      "forks": 4802,
-      "starsInPeriod": 387
+      "stars": 42205,
+      "forks": 4811,
+      "starsInPeriod": 135
     },
     {
-      "rank": 7,
-      "fullName": "BigBodyCobain/Shadowbroker",
-      "url": "https://github.com/BigBodyCobain/Shadowbroker",
-      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "programmingLanguage": "Python",
-      "stars": 11533,
-      "forks": 1836,
-      "starsInPeriod": 25
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "fullName": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 106499,
-      "forks": 11821,
-      "starsInPeriod": 1262
+      "stars": 107097,
+      "forks": 11870,
+      "starsInPeriod": 1211
     },
     {
-      "rank": 9,
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "rank": 7,
+      "fullName": "ashishpatel26/500-AI-Agents-Projects",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
       "programmingLanguage": "Python",
-      "stars": 78185,
-      "forks": 13898,
-      "starsInPeriod": 326
+      "stars": 39629,
+      "forks": 7105,
+      "starsInPeriod": 112
     },
     {
-      "rank": 10,
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
-      "programmingLanguage": "Python",
-      "stars": 57744,
-      "forks": 7039,
-      "starsInPeriod": 710
-    },
-    {
-      "rank": 11,
-      "fullName": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "programmingLanguage": "Python",
-      "stars": 46680,
-      "forks": 4860,
-      "starsInPeriod": 149
-    },
-    {
-      "rank": 12,
-      "fullName": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
-      "programmingLanguage": "Python",
-      "stars": 39923,
-      "forks": 3194,
-      "starsInPeriod": 44
-    },
-    {
-      "rank": 13,
-      "fullName": "hummingbot/hummingbot",
-      "url": "https://github.com/hummingbot/hummingbot",
-      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "programmingLanguage": "Python",
-      "stars": 21137,
-      "forks": 5137,
-      "starsInPeriod": 45
-    },
-    {
-      "rank": 14,
+      "rank": 8,
       "fullName": "opensandbox-group/OpenSandbox",
       "url": "https://github.com/opensandbox-group/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "programmingLanguage": "Python",
-      "stars": 17015,
-      "forks": 1607,
-      "starsInPeriod": 168
+      "stars": 17128,
+      "forks": 1619,
+      "starsInPeriod": 308
     },
     {
-      "rank": 15,
-      "fullName": "snap-stanford/memorilla",
-      "url": "https://github.com/snap-stanford/memorilla",
-      "description": "🦍 Memorilla: Latent Semantic Memory for LLMs",
+      "rank": 9,
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "programmingLanguage": "Python",
-      "stars": 772,
-      "forks": 60,
-      "starsInPeriod": 62
+      "stars": 69533,
+      "forks": 56663,
+      "starsInPeriod": 1062
     },
     {
-      "rank": 16,
-      "fullName": "neuml/txtai",
-      "url": "https://github.com/neuml/txtai",
-      "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "rank": 10,
+      "fullName": "elder-plinius/OBLITERATUS",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
       "programmingLanguage": "Python",
-      "stars": 13252,
-      "forks": 988,
-      "starsInPeriod": 70
+      "stars": 9445,
+      "forks": 1726,
+      "starsInPeriod": 76
+    },
+    {
+      "rank": 11,
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "programmingLanguage": "Python",
+      "stars": 78270,
+      "forks": 13920,
+      "starsInPeriod": 187
+    },
+    {
+      "rank": 12,
+      "fullName": "figma/mcp-server-guide",
+      "url": "https://github.com/figma/mcp-server-guide",
+      "description": "A guide on how to use the Figma MCP server",
+      "programmingLanguage": "Python",
+      "stars": 2170,
+      "forks": 216,
+      "starsInPeriod": 6
+    },
+    {
+      "rank": 13,
+      "fullName": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "⚚ The ultrawork agent with AI coworkers wired into you",
+      "programmingLanguage": "Python",
+      "stars": 5356,
+      "forks": 426,
+      "starsInPeriod": 59
+    },
+    {
+      "rank": 14,
+      "fullName": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "programmingLanguage": "Python",
+      "stars": 56342,
+      "forks": 4288,
+      "starsInPeriod": 242
     }
   ]
 }
