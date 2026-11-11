@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — all</title>
     <link>https://github.com/trending</link>
     <description>GitHub Trending — daily — all</description>
-    <lastBuildDate>Wed, 11 Nov 2026 06:14:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:26:09 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-11</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>all</ght:language>
-    <ght:updatedAt>2026-11-11T06:14:43Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-11T14:26:09Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,14 +20,14 @@
       <guid isPermaLink="true">https://github.com/meta/astryx</guid>
       <pubDate>Wed, 11 Nov 2026 06:14:43 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>23513</ght:stars>
-      <ght:forks>1850</ght:forks>
-      <ght:starsInPeriod>3108</ght:starsInPeriod>
+      <ght:stars>24342</ght:stars>
+      <ght:forks>1899</ght:forks>
+      <ght:starsInPeriod>2842</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
       <ght:firstSeenAt>2026-11-11T06:14:43Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-11T06:14:43Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-11T14:26:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>anthropics/skills</title>
@@ -46,19 +46,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>ZhuLinsen/daily_stock_analysis</title>
+      <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
+      <description>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.</description>
+      <guid isPermaLink="true">https://github.com/ZhuLinsen/daily_stock_analysis</guid>
+      <pubDate>Wed, 11 Nov 2026 14:26:09 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>69877</ght:stars>
+      <ght:forks>56770</ght:forks>
+      <ght:starsInPeriod>960</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-11-11T14:26:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-11T14:26:09Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>addyosmani/agent-skills</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <description>Production-grade engineering skills for AI coding agents.</description>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
       <pubDate>Wed, 11 Nov 2026 06:14:43 GMT</pubDate>
       <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>115341</ght:stars>
-      <ght:forks>12110</ght:forks>
-      <ght:starsInPeriod>465</ght:starsInPeriod>
+      <ght:stars>115626</ght:stars>
+      <ght:forks>12126</ght:forks>
+      <ght:starsInPeriod>788</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-11-11T06:14:43Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-11T14:26:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>GoogleChrome/modern-web-guidance-src</title>
+      <link>https://github.com/GoogleChrome/modern-web-guidance-src</link>
+      <description />
+      <guid isPermaLink="true">https://github.com/GoogleChrome/modern-web-guidance-src</guid>
+      <pubDate>Wed, 11 Nov 2026 14:26:09 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>1488</ght:stars>
+      <ght:forks>131</ght:forks>
+      <ght:starsInPeriod>133</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
       <ght:latestRank>3</ght:latestRank>
-      <ght:firstSeenAt>2026-11-11T06:14:43Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-11T06:14:43Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-11T14:26:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-11T14:26:09Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -78,6 +110,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>shadcn/improve</title>
+      <link>https://github.com/shadcn/improve</link>
+      <description>Use your most capable model to audit your codebase and write plans for cheaper models to execute.</description>
+      <guid isPermaLink="true">https://github.com/shadcn/improve</guid>
+      <pubDate>Wed, 11 Nov 2026 14:26:09 GMT</pubDate>
+      <ght:programmingLanguage />
+      <ght:stars>10510</ght:stars>
+      <ght:forks>429</ght:forks>
+      <ght:starsInPeriod>333</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-11-11T14:26:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-11T14:26:09Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>google-deepmind/mujoco</title>
       <link>https://github.com/google-deepmind/mujoco</link>
       <description>Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
@@ -94,20 +142,36 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>vercel-labs/agent-browser</title>
+      <link>https://github.com/vercel-labs/agent-browser</link>
+      <description>Browser automation CLI for AI agents</description>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
+      <pubDate>Wed, 11 Nov 2026 06:14:43 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>49639</ght:stars>
+      <ght:forks>3474</ght:forks>
+      <ght:starsInPeriod>712</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-11-11T06:14:43Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-11T14:26:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>we-promise/sure</title>
       <link>https://github.com/we-promise/sure</link>
       <description>The personal finance app for everyone (by everyone)</description>
       <guid isPermaLink="true">https://github.com/we-promise/sure</guid>
       <pubDate>Wed, 11 Nov 2026 06:14:43 GMT</pubDate>
       <ght:programmingLanguage>Ruby</ght:programmingLanguage>
-      <ght:stars>12202</ght:stars>
-      <ght:forks>904</ght:forks>
-      <ght:starsInPeriod>159</ght:starsInPeriod>
+      <ght:stars>12596</ght:stars>
+      <ght:forks>934</ght:forks>
+      <ght:starsInPeriod>1079</ght:starsInPeriod>
       <ght:bestRank>6</ght:bestRank>
-      <ght:latestRank>6</ght:latestRank>
+      <ght:latestRank>7</ght:latestRank>
       <ght:firstSeenAt>2026-11-11T06:14:43Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-11T06:14:43Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-11T14:26:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>homeassistant-ai/ha-mcp</title>
@@ -116,30 +180,14 @@
       <guid isPermaLink="true">https://github.com/homeassistant-ai/ha-mcp</guid>
       <pubDate>Wed, 11 Nov 2026 06:14:43 GMT</pubDate>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>6805</ght:stars>
-      <ght:forks>438</ght:forks>
-      <ght:starsInPeriod>790</ght:starsInPeriod>
+      <ght:stars>7027</ght:stars>
+      <ght:forks>445</ght:forks>
+      <ght:starsInPeriod>640</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
-      <ght:latestRank>7</ght:latestRank>
-      <ght:firstSeenAt>2026-11-11T06:14:43Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-11T06:14:43Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>vercel-labs/agent-browser</title>
-      <link>https://github.com/vercel-labs/agent-browser</link>
-      <description>Browser automation CLI for AI agents</description>
-      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
-      <pubDate>Wed, 11 Nov 2026 06:14:43 GMT</pubDate>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>49415</ght:stars>
-      <ght:forks>3460</ght:forks>
-      <ght:starsInPeriod>780</ght:starsInPeriod>
-      <ght:bestRank>8</ght:bestRank>
       <ght:latestRank>8</ght:latestRank>
       <ght:firstSeenAt>2026-11-11T06:14:43Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-11T06:14:43Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-11T14:26:09Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>sherlock-project/sherlock</title>
@@ -158,6 +206,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>openai/codex-security</title>
+      <link>https://github.com/openai/codex-security</link>
+      <description>OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security</description>
+      <guid isPermaLink="true">https://github.com/openai/codex-security</guid>
+      <pubDate>Wed, 11 Nov 2026 14:26:09 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>11456</ght:stars>
+      <ght:forks>916</ght:forks>
+      <ght:starsInPeriod>20</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-11-11T14:26:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-11T14:26:09Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>tokio-rs/topcoat</title>
       <link>https://github.com/tokio-rs/topcoat</link>
       <description>A batteries-included framework for building web apps</description>
@@ -171,6 +235,22 @@
       <ght:latestRank>10</ght:latestRank>
       <ght:firstSeenAt>2026-11-11T06:14:43Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-11T06:14:43Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>TheAlgorithms/Java</title>
+      <link>https://github.com/TheAlgorithms/Java</link>
+      <description>All Algorithms implemented in Java</description>
+      <guid isPermaLink="true">https://github.com/TheAlgorithms/Java</guid>
+      <pubDate>Wed, 11 Nov 2026 14:26:09 GMT</pubDate>
+      <ght:programmingLanguage>Java</ght:programmingLanguage>
+      <ght:stars>66894</ght:stars>
+      <ght:forks>21492</ght:forks>
+      <ght:starsInPeriod>39</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-11-11T14:26:09Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-11T14:26:09Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>

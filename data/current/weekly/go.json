@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-11-11T06:15:17Z",
+  "observedAt": "2026-11-11T14:26:46Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "programmingLanguage": "Go",
-      "stars": 67629,
-      "forks": 11019,
+      "stars": 67585,
+      "forks": 11017,
       "starsInPeriod": 859
     },
     {
@@ -24,49 +24,49 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 55646,
-      "forks": 7345,
+      "stars": 55729,
+      "forks": 7353,
       "starsInPeriod": 851
     },
     {
       "rank": 3,
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "programmingLanguage": "Go",
-      "stars": 118948,
-      "forks": 6919,
-      "starsInPeriod": 1843
-    },
-    {
-      "rank": 4,
       "fullName": "etcd-io/etcd",
       "url": "https://github.com/etcd-io/etcd",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "programmingLanguage": "Go",
-      "stars": 52691,
-      "forks": 10596,
+      "stars": 52633,
+      "forks": 10594,
       "starsInPeriod": 364
     },
     {
-      "rank": 5,
+      "rank": 4,
       "fullName": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
       "programmingLanguage": "Go",
-      "stars": 93992,
-      "forks": 11300,
+      "stars": 94028,
+      "forks": 11305,
       "starsInPeriod": 592
     },
     {
-      "rank": 6,
+      "rank": 5,
       "fullName": "aquasecurity/trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 39221,
-      "forks": 850,
+      "stars": 39235,
+      "forks": 853,
       "starsInPeriod": 280
+    },
+    {
+      "rank": 6,
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 119035,
+      "forks": 6924,
+      "starsInPeriod": 1843
     },
     {
       "rank": 7,
@@ -74,8 +74,8 @@
       "url": "https://github.com/moby/moby",
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "programmingLanguage": "Go",
-      "stars": 72368,
-      "forks": 19328,
+      "stars": 72307,
+      "forks": 19326,
       "starsInPeriod": 278
     },
     {
@@ -84,22 +84,32 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 139859,
-      "forks": 20236,
+      "stars": 139837,
+      "forks": 20255,
       "starsInPeriod": 466
     },
     {
       "rank": 9,
-      "fullName": "nektos/act",
-      "url": "https://github.com/nektos/act",
-      "description": "Run your GitHub Actions locally 🚀",
+      "fullName": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
       "programmingLanguage": "Go",
-      "stars": 72641,
-      "forks": 2119,
-      "starsInPeriod": 153
+      "stars": 46962,
+      "forks": 9278,
+      "starsInPeriod": 116
     },
     {
       "rank": 10,
+      "fullName": "gosom/google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "programmingLanguage": "Go",
+      "stars": 7900,
+      "forks": 1243,
+      "starsInPeriod": 607
+    },
+    {
+      "rank": 11,
       "fullName": "openchoreo/openchoreo",
       "url": "https://github.com/openchoreo/openchoreo",
       "description": "OpenChoreo is an internal developer platform for Kubernetes",
@@ -109,97 +119,57 @@
       "starsInPeriod": 114
     },
     {
-      "rank": 11,
+      "rank": 12,
       "fullName": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "programmingLanguage": "Go",
-      "stars": 129003,
-      "forks": 45081,
+      "stars": 128997,
+      "forks": 45088,
       "starsInPeriod": 523
     },
     {
-      "rank": 12,
-      "fullName": "superplanehq/superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "Open source factory for one-shot engineering",
-      "programmingLanguage": "Go",
-      "stars": 9873,
-      "forks": 703,
-      "starsInPeriod": 1035
-    },
-    {
       "rank": 13,
-      "fullName": "cli/cli",
-      "url": "https://github.com/cli/cli",
-      "description": "GitHub’s official command line tool",
+      "fullName": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
       "programmingLanguage": "Go",
-      "stars": 46958,
-      "forks": 9273,
-      "starsInPeriod": 116
+      "stars": 72643,
+      "forks": 2119,
+      "starsInPeriod": 153
     },
     {
       "rank": 14,
-      "fullName": "grafana/grafana",
-      "url": "https://github.com/grafana/grafana",
-      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "programmingLanguage": "TypeScript",
-      "stars": 77826,
-      "forks": 14959,
-      "starsInPeriod": 207
-    },
-    {
-      "rank": 15,
       "fullName": "google-gemini/gemini-api-cli",
       "url": "https://github.com/google-gemini/gemini-api-cli",
       "description": "An (experimental) CLI for the Gemini API",
       "programmingLanguage": "Go",
-      "stars": 495,
-      "forks": 77,
+      "stars": 496,
+      "forks": 78,
       "starsInPeriod": 96
     },
     {
-      "rank": 16,
-      "fullName": "gin-gonic/gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-      "programmingLanguage": "Go",
-      "stars": 89619,
-      "forks": 8917,
-      "starsInPeriod": 273
-    },
-    {
-      "rank": 17,
+      "rank": 15,
       "fullName": "microsoft/TypeScript",
       "url": "https://github.com/microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "programmingLanguage": "Go",
-      "stars": 111871,
-      "forks": 14702,
+      "stars": 111816,
+      "forks": 14704,
       "starsInPeriod": 323
     },
     {
-      "rank": 18,
-      "fullName": "fleetdm/fleet",
-      "url": "https://github.com/fleetdm/fleet",
-      "description": "Open device management",
+      "rank": 16,
+      "fullName": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 7174,
-      "forks": 1132,
-      "starsInPeriod": 60
+      "stars": 29201,
+      "forks": 2721,
+      "starsInPeriod": 350
     },
     {
-      "rank": 19,
-      "fullName": "gastownhall/beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "programmingLanguage": "Go",
-      "stars": 28665,
-      "forks": 1943,
-      "starsInPeriod": 211
-    },
-    {
-      "rank": 20,
+      "rank": 17,
       "fullName": "googleapis/google-cloud-go",
       "url": "https://github.com/googleapis/google-cloud-go",
       "description": "Google Cloud Client Libraries for Go.",
@@ -207,6 +177,36 @@
       "stars": 4555,
       "forks": 1605,
       "starsInPeriod": 3
+    },
+    {
+      "rank": 18,
+      "fullName": "podman-container-tools/podman",
+      "url": "https://github.com/podman-container-tools/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "programmingLanguage": "Go",
+      "stars": 33241,
+      "forks": 3456,
+      "starsInPeriod": 73
+    },
+    {
+      "rank": 19,
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "programmingLanguage": "Go",
+      "stars": 30909,
+      "forks": 2363,
+      "starsInPeriod": 254
+    },
+    {
+      "rank": 20,
+      "fullName": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "programmingLanguage": "Go",
+      "stars": 18092,
+      "forks": 1806,
+      "starsInPeriod": 82
     }
   ]
 }

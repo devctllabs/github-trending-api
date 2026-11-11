@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=monthly",
-  "observedAt": "2026-11-11T06:15:31Z",
+  "observedAt": "2026-11-11T14:27:03Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,29 +14,29 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 69564,
-      "forks": 4598,
+      "stars": 69941,
+      "forks": 4636,
       "starsInPeriod": 41811
     },
     {
       "rank": 2,
+      "fullName": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "programmingLanguage": "JavaScript",
+      "stars": 113304,
+      "forks": 7628,
+      "starsInPeriod": 19249
+    },
+    {
+      "rank": 3,
       "fullName": "rorygallagher2024/glasshouse",
       "url": "https://github.com/rorygallagher2024/glasshouse",
       "description": "For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.",
       "programmingLanguage": "JavaScript",
-      "stars": 2052,
+      "stars": 2059,
       "forks": 125,
       "starsInPeriod": 1486
-    },
-    {
-      "rank": 3,
-      "fullName": "michael-denyer/pstack-claude",
-      "url": "https://github.com/michael-denyer/pstack-claude",
-      "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
-      "programmingLanguage": "JavaScript",
-      "stars": 4219,
-      "forks": 387,
-      "starsInPeriod": 2469
     },
     {
       "rank": 4,
@@ -44,19 +44,19 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "programmingLanguage": "JavaScript",
-      "stars": 22478,
-      "forks": 1274,
+      "stars": 22531,
+      "forks": 1276,
       "starsInPeriod": 5474
     },
     {
       "rank": 5,
-      "fullName": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+      "fullName": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "programmingLanguage": "JavaScript",
-      "stars": 33834,
-      "forks": 2322,
-      "starsInPeriod": 7742
+      "stars": 4231,
+      "forks": 387,
+      "starsInPeriod": 2469
     },
     {
       "rank": 6,
@@ -64,8 +64,8 @@
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
       "programmingLanguage": "JavaScript",
-      "stars": 118104,
-      "forks": 36944,
+      "stars": 118137,
+      "forks": 36947,
       "starsInPeriod": 1997
     },
     {
@@ -74,39 +74,39 @@
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 39310,
+      "stars": 39375,
       "forks": 2832,
       "starsInPeriod": 18213
     },
     {
       "rank": 8,
-      "fullName": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "description": null,
-      "programmingLanguage": "JavaScript",
-      "stars": 7665,
-      "forks": 1247,
-      "starsInPeriod": 2930
-    },
-    {
-      "rank": 9,
       "fullName": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "programmingLanguage": "JavaScript",
-      "stars": 20837,
-      "forks": 2803,
+      "stars": 20917,
+      "forks": 2812,
       "starsInPeriod": 11693
     },
     {
-      "rank": 10,
+      "rank": 9,
       "fullName": "mnfst/awesome-free-llm-apis",
       "url": "https://github.com/mnfst/awesome-free-llm-apis",
       "description": "List of Permanent Free LLM API (API Keys)",
       "programmingLanguage": "JavaScript",
-      "stars": 12865,
-      "forks": 1530,
+      "stars": 12895,
+      "forks": 1536,
       "starsInPeriod": 3164
+    },
+    {
+      "rank": 10,
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+      "programmingLanguage": "JavaScript",
+      "stars": 33865,
+      "forks": 2323,
+      "starsInPeriod": 7742
     },
     {
       "rank": 11,
@@ -114,8 +114,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 300915,
-      "forks": 44407,
+      "stars": 301097,
+      "forks": 44424,
       "starsInPeriod": 25762
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
       "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
       "programmingLanguage": "JavaScript",
-      "stars": 49472,
-      "forks": 7657,
+      "stars": 49476,
+      "forks": 7658,
       "starsInPeriod": 659
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/react/react",
       "description": "The library for web and native user interfaces.",
       "programmingLanguage": "JavaScript",
-      "stars": 252509,
-      "forks": 52250,
+      "stars": 252510,
+      "forks": 52303,
       "starsInPeriod": 3363
     }
   ]
