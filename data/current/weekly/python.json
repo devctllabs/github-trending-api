@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-11-11T14:26:24Z",
+  "observedAt": "2026-11-12T00:41:31Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "programmingLanguage": "Python",
-      "stars": 11702,
-      "forks": 961,
-      "starsInPeriod": 9621
+      "stars": 11834,
+      "forks": 970,
+      "starsInPeriod": 7947
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 192870,
-      "forks": 22695,
-      "starsInPeriod": 5014
+      "stars": 193127,
+      "forks": 22731,
+      "starsInPeriod": 5738
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "programmingLanguage": "Python",
-      "stars": 101487,
-      "forks": 10577,
-      "starsInPeriod": 7291
+      "stars": 101641,
+      "forks": 10591,
+      "starsInPeriod": 5814
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "programmingLanguage": "Python",
-      "stars": 23876,
-      "forks": 1992,
-      "starsInPeriod": 2024
+      "stars": 23939,
+      "forks": 1997,
+      "starsInPeriod": 2013
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/The-PR-Agent/pr-agent",
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "programmingLanguage": "Python",
-      "stars": 15931,
-      "forks": 2176,
-      "starsInPeriod": 1591
+      "stars": 15960,
+      "forks": 2179,
+      "starsInPeriod": 1365
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "programmingLanguage": "Python",
-      "stars": 149299,
-      "forks": 13407,
-      "starsInPeriod": 2907
+      "stars": 149362,
+      "forks": 13415,
+      "starsInPeriod": 2336
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/anthropics/claude-quickstarts",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "programmingLanguage": "Python",
-      "stars": 20719,
-      "forks": 3482,
-      "starsInPeriod": 1253
+      "stars": 20762,
+      "forks": 3485,
+      "starsInPeriod": 1637
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "programmingLanguage": "Python",
-      "stars": 142346,
-      "forks": 22752,
-      "starsInPeriod": 3957
+      "stars": 142593,
+      "forks": 22805,
+      "starsInPeriod": 3906
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/scenario-labs/skills",
       "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
       "programmingLanguage": "Python",
-      "stars": 3681,
-      "forks": 324,
-      "starsInPeriod": 1763
+      "stars": 3691,
+      "forks": 326,
+      "starsInPeriod": 1493
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/python-poetry/poetry",
       "description": "Python packaging and dependency management made easy",
       "programmingLanguage": "Python",
-      "stars": 34383,
-      "forks": 2583,
-      "starsInPeriod": 243
+      "stars": 34326,
+      "forks": 2573,
+      "starsInPeriod": 245
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "programmingLanguage": "Python",
-      "stars": 27093,
-      "forks": 3074,
-      "starsInPeriod": 906
+      "stars": 27154,
+      "forks": 3080,
+      "starsInPeriod": 875
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "programmingLanguage": "Python",
-      "stars": 145964,
-      "forks": 13977,
-      "starsInPeriod": 4012
+      "stars": 146170,
+      "forks": 14008,
+      "starsInPeriod": 3938
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "programmingLanguage": "Python",
-      "stars": 109816,
-      "forks": 12719,
-      "starsInPeriod": 13213
+      "stars": 110074,
+      "forks": 12747,
+      "starsInPeriod": 14546
     }
   ]
 }
