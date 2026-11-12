@@ -4,189 +4,149 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-11-12T00:41:47Z",
+  "observedAt": "2026-11-12T15:12:40Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "gosom/google-maps-scraper",
-      "url": "https://github.com/gosom/google-maps-scraper",
-      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
-      "programmingLanguage": "Go",
-      "stars": 7918,
-      "forks": 1248,
-      "starsInPeriod": 60
-    },
-    {
-      "rank": 2,
-      "fullName": "evcc-io/evcc",
-      "url": "https://github.com/evcc-io/evcc",
-      "description": "smart charging ☀️🚘",
-      "programmingLanguage": "Go",
-      "stars": 7594,
-      "forks": 1652,
-      "starsInPeriod": 18
-    },
-    {
-      "rank": 3,
-      "fullName": "henrygd/beszel",
-      "url": "https://github.com/henrygd/beszel",
-      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
-      "programmingLanguage": "Go",
-      "stars": 27218,
-      "forks": 1171,
-      "starsInPeriod": 67
-    },
-    {
-      "rank": 4,
-      "fullName": "trufflesecurity/trufflehog",
-      "url": "https://github.com/trufflesecurity/trufflehog",
-      "description": "Find, verify, and analyze leaked credentials",
-      "programmingLanguage": "Go",
-      "stars": 29219,
-      "forks": 2726,
-      "starsInPeriod": 57
-    },
-    {
-      "rank": 5,
       "fullName": "Tencent/LoopForge",
       "url": "https://github.com/Tencent/LoopForge",
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "programmingLanguage": "Go",
-      "stars": 315,
-      "forks": 60,
+      "stars": 473,
+      "forks": 83,
       "starsInPeriod": 94
     },
     {
-      "rank": 6,
-      "fullName": "projectdiscovery/nuclei",
-      "url": "https://github.com/projectdiscovery/nuclei",
-      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "rank": 2,
+      "fullName": "moby/buildkit",
+      "url": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
       "programmingLanguage": "Go",
-      "stars": 32808,
-      "forks": 3994,
-      "starsInPeriod": 50
+      "stars": 10409,
+      "forks": 1570,
+      "starsInPeriod": 16
     },
     {
-      "rank": 7,
-      "fullName": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "programmingLanguage": "Go",
-      "stars": 49839,
-      "forks": 3673,
-      "starsInPeriod": 62
-    },
-    {
-      "rank": 8,
-      "fullName": "XTLS/Xray-core",
-      "url": "https://github.com/XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-      "programmingLanguage": "Go",
-      "stars": 42833,
-      "forks": 6138,
-      "starsInPeriod": 41
-    },
-    {
-      "rank": 9,
+      "rank": 3,
       "fullName": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 6470,
-      "forks": 728,
+      "stars": 6518,
+      "forks": 735,
       "starsInPeriod": 90
     },
     {
-      "rank": 10,
-      "fullName": "unstablebuild/rune",
-      "url": "https://github.com/unstablebuild/rune",
-      "description": "a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual programming.",
+      "rank": 4,
+      "fullName": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
       "programmingLanguage": "Go",
-      "stars": 1752,
-      "forks": 117,
-      "starsInPeriod": 39
+      "stars": 139866,
+      "forks": 20274,
+      "starsInPeriod": 81
     },
     {
-      "rank": 11,
+      "rank": 5,
+      "fullName": "databricks/cli",
+      "url": "https://github.com/databricks/cli",
+      "description": "Databricks CLI",
+      "programmingLanguage": "Go",
+      "stars": 430,
+      "forks": 269,
+      "starsInPeriod": 2
+    },
+    {
+      "rank": 6,
+      "fullName": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "programmingLanguage": "Go",
+      "stars": 129021,
+      "forks": 45105,
+      "starsInPeriod": 75
+    },
+    {
+      "rank": 7,
+      "fullName": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "programmingLanguage": "Go",
+      "stars": 8949,
+      "forks": 414,
+      "starsInPeriod": 119
+    },
+    {
+      "rank": 8,
+      "fullName": "dsx-ai-factory/run-ai",
+      "url": "https://github.com/dsx-ai-factory/run-ai",
+      "description": "Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment.",
+      "programmingLanguage": "Go",
+      "stars": 755,
+      "forks": 123,
+      "starsInPeriod": 8
+    },
+    {
+      "rank": 9,
+      "fullName": "kubescape/kubescape",
+      "url": "https://github.com/kubescape/kubescape",
+      "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
+      "programmingLanguage": "Go",
+      "stars": 11866,
+      "forks": 1098,
+      "starsInPeriod": 4
+    },
+    {
+      "rank": 10,
       "fullName": "multica-ai/multica",
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 55763,
-      "forks": 7359,
+      "stars": 55866,
+      "forks": 7381,
       "starsInPeriod": 200
     },
     {
-      "rank": 12,
-      "fullName": "everywall/ladder",
-      "url": "https://github.com/everywall/ladder",
-      "description": "Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML",
+      "rank": 11,
+      "fullName": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
       "programmingLanguage": "Go",
-      "stars": 9416,
-      "forks": 542,
-      "starsInPeriod": 3
+      "stars": 10026,
+      "forks": 707,
+      "starsInPeriod": 100
+    },
+    {
+      "rank": 12,
+      "fullName": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "programmingLanguage": "Go",
+      "stars": 110558,
+      "forks": 15318,
+      "starsInPeriod": 36
     },
     {
       "rank": 13,
-      "fullName": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "fullName": "smtg-ai/claude-squad",
+      "url": "https://github.com/smtg-ai/claude-squad",
+      "description": "Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.",
       "programmingLanguage": "Go",
-      "stars": 37204,
-      "forks": 5144,
-      "starsInPeriod": 104
+      "stars": 8790,
+      "forks": 631,
+      "starsInPeriod": 9
     },
     {
       "rank": 14,
-      "fullName": "kagent-dev/kagent",
-      "url": "https://github.com/kagent-dev/kagent",
-      "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+      "fullName": "cloudflare/cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client",
       "programmingLanguage": "Go",
-      "stars": 4251,
-      "forks": 901,
-      "starsInPeriod": 17
-    },
-    {
-      "rank": 15,
-      "fullName": "opencode-ai/opencode",
-      "url": "https://github.com/opencode-ai/opencode",
-      "description": "A powerful AI coding agent. Built for the terminal.",
-      "programmingLanguage": "Go",
-      "stars": 13887,
-      "forks": 2473,
-      "starsInPeriod": 8
-    },
-    {
-      "rank": 16,
-      "fullName": "devaccuracy/ledgerforge",
-      "url": "https://github.com/devaccuracy/ledgerforge",
-      "description": "The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0.",
-      "programmingLanguage": "Go",
-      "stars": 220,
-      "forks": 29,
-      "starsInPeriod": 34
-    },
-    {
-      "rank": 17,
-      "fullName": "router-for-me/CLIProxyAPI",
-      "url": "https://github.com/router-for-me/CLIProxyAPI",
-      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
-      "programmingLanguage": "Go",
-      "stars": 58311,
-      "forks": 8948,
-      "starsInPeriod": 129
-    },
-    {
-      "rank": 18,
-      "fullName": "keploy/keploy",
-      "url": "https://github.com/keploy/keploy",
-      "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
-      "programmingLanguage": "Go",
-      "stars": 19715,
-      "forks": 2453,
-      "starsInPeriod": 47
+      "stars": 16556,
+      "forks": 1531,
+      "starsInPeriod": 37
     }
   ]
 }

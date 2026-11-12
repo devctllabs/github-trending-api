@@ -4,29 +4,29 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-11-12T00:41:40Z",
+  "observedAt": "2026-11-12T15:12:33Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "programmingLanguage": "Rust",
-      "stars": 22075,
-      "forks": 1645,
-      "starsInPeriod": 7772
-    },
-    {
-      "rank": 2,
       "fullName": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 49863,
-      "forks": 3489,
+      "stars": 50205,
+      "forks": 3497,
       "starsInPeriod": 4183
+    },
+    {
+      "rank": 2,
+      "fullName": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "programmingLanguage": "Rust",
+      "stars": 22558,
+      "forks": 1674,
+      "starsInPeriod": 7772
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "programmingLanguage": "Rust",
-      "stars": 94714,
-      "forks": 11630,
+      "stars": 94801,
+      "forks": 11651,
       "starsInPeriod": 2310
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/herdrdev/herdr",
       "description": "the runtime your coding agents live on",
       "programmingLanguage": "Rust",
-      "stars": 50338,
-      "forks": 4063,
+      "stars": 50536,
+      "forks": 4080,
       "starsInPeriod": 2213
     },
     {
@@ -54,39 +54,39 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 12448,
+      "stars": 12463,
       "forks": 493,
       "starsInPeriod": 1649
     },
     {
       "rank": 6,
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "programmingLanguage": "Rust",
-      "stars": 108305,
-      "forks": 6438,
-      "starsInPeriod": 6065
-    },
-    {
-      "rank": 7,
-      "fullName": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "programmingLanguage": "Rust",
-      "stars": 134917,
-      "forks": 21372,
-      "starsInPeriod": 1976
-    },
-    {
-      "rank": 8,
       "fullName": "astral-sh/ruff",
       "url": "https://github.com/astral-sh/ruff",
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 51198,
-      "forks": 2663,
+      "stars": 51215,
+      "forks": 2666,
       "starsInPeriod": 969
+    },
+    {
+      "rank": 7,
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "programmingLanguage": "Rust",
+      "stars": 104139,
+      "forks": 13556,
+      "starsInPeriod": 1760
+    },
+    {
+      "rank": 8,
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "programmingLanguage": "Rust",
+      "stars": 108778,
+      "forks": 6475,
+      "starsInPeriod": 6065
     },
     {
       "rank": 9,
@@ -94,59 +94,49 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 20403,
-      "forks": 1245,
+      "stars": 20487,
+      "forks": 1252,
       "starsInPeriod": 1355
     },
     {
       "rank": 10,
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "fullName": "tauri-apps/tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "programmingLanguage": "Rust",
-      "stars": 104061,
-      "forks": 13542,
-      "starsInPeriod": 1760
+      "stars": 112832,
+      "forks": 4212,
+      "starsInPeriod": 368
     },
     {
       "rank": 11,
+      "fullName": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "programmingLanguage": "Rust",
+      "stars": 129181,
+      "forks": 20604,
+      "starsInPeriod": 953
+    },
+    {
+      "rank": 12,
       "fullName": "nushell/nushell",
       "url": "https://github.com/nushell/nushell",
       "description": "A new type of shell",
       "programmingLanguage": "Rust",
-      "stars": 40996,
-      "forks": 2337,
+      "stars": 41006,
+      "forks": 2339,
       "starsInPeriod": 467
     },
     {
-      "rank": 12,
-      "fullName": "zeroclaw-labs/zeroclaw",
-      "url": "https://github.com/zeroclaw-labs/zeroclaw",
-      "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
-      "programmingLanguage": "Rust",
-      "stars": 33331,
-      "forks": 5008,
-      "starsInPeriod": 235
-    },
-    {
       "rank": 13,
-      "fullName": "clap-rs/clap",
-      "url": "https://github.com/clap-rs/clap",
-      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "fullName": "windmill-labs/windmill",
+      "url": "https://github.com/windmill-labs/windmill",
+      "description": "Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.",
       "programmingLanguage": "Rust",
-      "stars": 16879,
-      "forks": 1294,
-      "starsInPeriod": 256
-    },
-    {
-      "rank": 14,
-      "fullName": "GyulyVGC/sniffnet",
-      "url": "https://github.com/GyulyVGC/sniffnet",
-      "description": "Comfortably monitor your network traffic 🕵️‍♂️",
-      "programmingLanguage": "Rust",
-      "stars": 42457,
-      "forks": 1998,
-      "starsInPeriod": 550
+      "stars": 18548,
+      "forks": 1151,
+      "starsInPeriod": 167
     }
   ]
 }

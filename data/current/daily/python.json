@@ -4,179 +4,169 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-11-12T00:41:27Z",
+  "observedAt": "2026-11-12T15:12:18Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "programmingLanguage": "Python",
-      "stars": 70231,
-      "forks": 56839,
-      "starsInPeriod": 278
-    },
-    {
-      "rank": 2,
-      "fullName": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "programmingLanguage": "Python",
-      "stars": 7363,
-      "forks": 455,
-      "starsInPeriod": 645
-    },
-    {
-      "rank": 3,
-      "fullName": "browser-use/browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-      "programmingLanguage": "Python",
-      "stars": 120741,
-      "forks": 13497,
-      "starsInPeriod": 172
-    },
-    {
-      "rank": 4,
-      "fullName": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
-      "programmingLanguage": "Python",
-      "stars": 40395,
-      "forks": 3244,
-      "starsInPeriod": 260
-    },
-    {
-      "rank": 5,
-      "fullName": "sgl-project/sglang-omni",
-      "url": "https://github.com/sgl-project/sglang-omni",
-      "description": "High Performance Serving Runtime For Interactive Super Intelligence System",
-      "programmingLanguage": "Python",
-      "stars": 1761,
-      "forks": 721,
-      "starsInPeriod": 15
-    },
-    {
-      "rank": 6,
-      "fullName": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "programmingLanguage": "Python",
-      "stars": 193127,
-      "forks": 22731,
-      "starsInPeriod": 1032
-    },
-    {
-      "rank": 7,
-      "fullName": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "programmingLanguage": "Python",
-      "stars": 110074,
-      "forks": 12747,
-      "starsInPeriod": 1483
-    },
-    {
-      "rank": 8,
-      "fullName": "krahets/hello-algo",
-      "url": "https://github.com/krahets/hello-algo",
-      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "programmingLanguage": "Python",
-      "stars": 132219,
-      "forks": 15616,
-      "starsInPeriod": 75
-    },
-    {
-      "rank": 9,
-      "fullName": "AminBlg/SimpleEnglish",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
-      "programmingLanguage": "Python",
-      "stars": 4371,
-      "forks": 190,
-      "starsInPeriod": 33
-    },
-    {
-      "rank": 10,
-      "fullName": "dmunozv04/iSponsorBlockTV",
-      "url": "https://github.com/dmunozv04/iSponsorBlockTV",
-      "description": "SponsorBlock client for all YouTube for TV clients.",
-      "programmingLanguage": "Python",
-      "stars": 7108,
-      "forks": 310,
-      "starsInPeriod": 59
-    },
-    {
-      "rank": 11,
-      "fullName": "opensandbox-group/OpenSandbox",
-      "url": "https://github.com/opensandbox-group/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "programmingLanguage": "Go",
-      "stars": 17205,
-      "forks": 1630,
-      "starsInPeriod": 97
-    },
-    {
-      "rank": 12,
-      "fullName": "googleads/google-ads-mcp",
-      "url": "https://github.com/googleads/google-ads-mcp",
-      "description": null,
-      "programmingLanguage": "Python",
-      "stars": 1160,
-      "forks": 365,
-      "starsInPeriod": 9
-    },
-    {
-      "rank": 13,
       "fullName": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "programmingLanguage": "Python",
-      "stars": 68689,
-      "forks": 10698,
-      "starsInPeriod": 636
+      "stars": 68973,
+      "forks": 10728,
+      "starsInPeriod": 461
+    },
+    {
+      "rank": 2,
+      "fullName": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "programmingLanguage": "Python",
+      "stars": 112571,
+      "forks": 13648,
+      "starsInPeriod": 118
+    },
+    {
+      "rank": 3,
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "programmingLanguage": "Python",
+      "stars": 71022,
+      "forks": 57108,
+      "starsInPeriod": 1290
+    },
+    {
+      "rank": 4,
+      "fullName": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "programmingLanguage": "Python",
+      "stars": 104658,
+      "forks": 10236,
+      "starsInPeriod": 86
+    },
+    {
+      "rank": 5,
+      "fullName": "python/cpython",
+      "url": "https://github.com/python/cpython",
+      "description": "The Python programming language",
+      "programmingLanguage": "Python",
+      "stars": 78186,
+      "forks": 36575,
+      "starsInPeriod": 70
+    },
+    {
+      "rank": 6,
+      "fullName": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "programmingLanguage": "Python",
+      "stars": 7662,
+      "forks": 464,
+      "starsInPeriod": 691
+    },
+    {
+      "rank": 7,
+      "fullName": "oaustegard/claude-skills",
+      "url": "https://github.com/oaustegard/claude-skills",
+      "description": "My collection of Claude skills",
+      "programmingLanguage": "Python",
+      "stars": 357,
+      "forks": 17,
+      "starsInPeriod": 40
+    },
+    {
+      "rank": 8,
+      "fullName": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "⚚ The ultrawork agent with AI coworkers wired into you",
+      "programmingLanguage": "Python",
+      "stars": 5535,
+      "forks": 449,
+      "starsInPeriod": 100
+    },
+    {
+      "rank": 9,
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "programmingLanguage": "Python",
+      "stars": 25621,
+      "forks": 2261,
+      "starsInPeriod": 302
+    },
+    {
+      "rank": 10,
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "programmingLanguage": "Python",
+      "stars": 67407,
+      "forks": 5920,
+      "starsInPeriod": 119
+    },
+    {
+      "rank": 11,
+      "fullName": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "programmingLanguage": "Python",
+      "stars": 168905,
+      "forks": 35225,
+      "starsInPeriod": 98
+    },
+    {
+      "rank": 12,
+      "fullName": "figma/mcp-server-guide",
+      "url": "https://github.com/figma/mcp-server-guide",
+      "description": "A guide on how to use the Figma MCP server",
+      "programmingLanguage": "Python",
+      "stars": 2179,
+      "forks": 215,
+      "starsInPeriod": 5
+    },
+    {
+      "rank": 13,
+      "fullName": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "programmingLanguage": "Python",
+      "stars": 226045,
+      "forks": 51300,
+      "starsInPeriod": 41
     },
     {
       "rank": 14,
-      "fullName": "shy3130/tick-stock-panel",
-      "url": "https://github.com/shy3130/tick-stock-panel",
-      "description": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "fullName": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "programmingLanguage": "Python",
-      "stars": 7607,
-      "forks": 1857,
-      "starsInPeriod": 97
+      "stars": 33404,
+      "forks": 3925,
+      "starsInPeriod": 91
     },
     {
       "rank": 15,
-      "fullName": "saleor/saleor",
-      "url": "https://github.com/saleor/saleor",
-      "description": "Saleor Core: the high performance, composable, headless commerce API.",
+      "fullName": "Qiskit/qiskit",
+      "url": "https://github.com/Qiskit/qiskit",
+      "description": "Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.",
       "programmingLanguage": "Python",
-      "stars": 23549,
-      "forks": 6202,
-      "starsInPeriod": 24
+      "stars": 7966,
+      "forks": 3124,
+      "starsInPeriod": 3
     },
     {
       "rank": 16,
-      "fullName": "experientiallabs/experiential",
-      "url": "https://github.com/experientiallabs/experiential",
-      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
+      "fullName": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "programmingLanguage": "Python",
-      "stars": 16575,
-      "forks": 300,
-      "starsInPeriod": 589
-    },
-    {
-      "rank": 17,
-      "fullName": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "programmingLanguage": "Python",
-      "stars": 20762,
-      "forks": 3485,
-      "starsInPeriod": 430
+      "stars": 783,
+      "forks": 100,
+      "starsInPeriod": 83
     }
   ]
 }

@@ -4,59 +4,59 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-12T00:41:37Z",
+  "observedAt": "2026-11-12T15:12:29Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "programmingLanguage": "Rust",
-      "stars": 49863,
-      "forks": 3489,
-      "starsInPeriod": 708
-    },
-    {
-      "rank": 2,
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "programmingLanguage": "Rust",
-      "stars": 104061,
-      "forks": 13542,
-      "starsInPeriod": 222
-    },
-    {
-      "rank": 3,
       "fullName": "tokio-rs/topcoat",
       "url": "https://github.com/tokio-rs/topcoat",
       "description": "A batteries-included framework for building web apps",
       "programmingLanguage": "Rust",
-      "stars": 7106,
-      "forks": 317,
-      "starsInPeriod": 451
+      "stars": 7151,
+      "forks": 321,
+      "starsInPeriod": 97
+    },
+    {
+      "rank": 2,
+      "fullName": "zellij-org/zellij",
+      "url": "https://github.com/zellij-org/zellij",
+      "description": "A terminal workspace with batteries included",
+      "programmingLanguage": "Rust",
+      "stars": 36030,
+      "forks": 1534,
+      "starsInPeriod": 34
+    },
+    {
+      "rank": 3,
+      "fullName": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "programmingLanguage": "Rust",
+      "stars": 10019,
+      "forks": 442,
+      "starsInPeriod": 53
     },
     {
       "rank": 4,
-      "fullName": "claration/impactor",
-      "url": "https://github.com/claration/impactor",
-      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 3820,
-      "forks": 272,
-      "starsInPeriod": 22
+      "stars": 50205,
+      "forks": 3497,
+      "starsInPeriod": 596
     },
     {
       "rank": 5,
-      "fullName": "GyulyVGC/sniffnet",
-      "url": "https://github.com/GyulyVGC/sniffnet",
-      "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+      "fullName": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 42457,
-      "forks": 1998,
-      "starsInPeriod": 90
+      "stars": 91942,
+      "forks": 3810,
+      "starsInPeriod": 99
     },
     {
       "rank": 6,
@@ -64,39 +64,29 @@
       "url": "https://github.com/ShayanAbbas1/dbdelve",
       "description": "Fast and lightweight DB Client made in Rust and GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 1098,
-      "forks": 58,
-      "starsInPeriod": 101
+      "stars": 1179,
+      "forks": 61,
+      "starsInPeriod": 110
     },
     {
       "rank": 7,
-      "fullName": "pola-rs/polars",
-      "url": "https://github.com/pola-rs/polars",
-      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "fullName": "tauri-apps/tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "programmingLanguage": "Rust",
-      "stars": 40329,
-      "forks": 3238,
-      "starsInPeriod": 21
+      "stars": 112832,
+      "forks": 4212,
+      "starsInPeriod": 89
     },
     {
       "rank": 8,
-      "fullName": "ja7ad/hydra",
-      "url": "https://github.com/ja7ad/hydra",
-      "description": "A fast, resilient, multi-source file retriever and download engine",
+      "fullName": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
       "programmingLanguage": "Rust",
-      "stars": 1408,
-      "forks": 85,
-      "starsInPeriod": 21
-    },
-    {
-      "rank": 9,
-      "fullName": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "programmingLanguage": "Rust",
-      "stars": 129065,
-      "forks": 20579,
-      "starsInPeriod": 157
+      "stars": 121822,
+      "forks": 16660,
+      "starsInPeriod": 105
     }
   ]
 }
