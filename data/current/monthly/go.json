@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-11-12T15:12:49Z",
+  "observedAt": "2026-11-12T23:37:42Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 186772,
-      "forks": 19039,
+      "stars": 186811,
+      "forks": 19053,
       "starsInPeriod": 4849
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "programmingLanguage": "Go",
-      "stars": 67579,
-      "forks": 11013,
+      "stars": 67595,
+      "forks": 11015,
       "starsInPeriod": 1608
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 38796,
+      "stars": 38813,
       "forks": 5945,
       "starsInPeriod": 599
     },
@@ -44,8 +44,8 @@
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 7951,
-      "forks": 1254,
+      "stars": 7976,
+      "forks": 1257,
       "starsInPeriod": 1550
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/netbirdio/netbird",
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "programmingLanguage": "Go",
-      "stars": 30922,
-      "forks": 1850,
+      "stars": 30933,
+      "forks": 1852,
       "starsInPeriod": 1114
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.com/moby/moby",
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "programmingLanguage": "Go",
-      "stars": 72267,
+      "stars": 72265,
       "forks": 19311,
       "starsInPeriod": 449
     },
@@ -74,8 +74,8 @@
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 24599,
-      "forks": 8144,
+      "stars": 24601,
+      "forks": 8145,
       "starsInPeriod": 265
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 34008,
-      "forks": 5351,
+      "stars": 34035,
+      "forks": 5354,
       "starsInPeriod": 8694
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://github.com/rclone/rclone",
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "programmingLanguage": "Go",
-      "stars": 60977,
+      "stars": 60989,
       "forks": 5681,
       "starsInPeriod": 824
     },
@@ -104,8 +104,8 @@
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 30958,
-      "forks": 2366,
+      "stars": 30971,
+      "forks": 2369,
       "starsInPeriod": 1130
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://github.com/Asymptote-Labs/agent-beacon",
       "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "programmingLanguage": "Go",
-      "stars": 3446,
+      "stars": 3451,
       "forks": 304,
       "starsInPeriod": 1626
     },
@@ -124,8 +124,8 @@
       "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
       "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
       "programmingLanguage": "Go",
-      "stars": 18101,
-      "forks": 1807,
+      "stars": 18106,
+      "forks": 1808,
       "starsInPeriod": 275
     },
     {
@@ -134,8 +134,8 @@
       "url": "https://github.com/tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "programmingLanguage": "Go",
-      "stars": 39000,
-      "forks": 3469,
+      "stars": 39012,
+      "forks": 3474,
       "starsInPeriod": 1673
     },
     {
@@ -144,8 +144,8 @@
       "url": "https://github.com/istio/istio",
       "description": "Connect, secure, control, and observe services.",
       "programmingLanguage": "Go",
-      "stars": 38503,
-      "forks": 8442,
+      "stars": 38505,
+      "forks": 8441,
       "starsInPeriod": 100
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 39265,
-      "forks": 859,
+      "stars": 39278,
+      "forks": 860,
       "starsInPeriod": 943
     },
     {
@@ -164,8 +164,8 @@
       "url": "https://github.com/etcd-io/etcd",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "programmingLanguage": "Go",
-      "stars": 52601,
-      "forks": 10595,
+      "stars": 52602,
+      "forks": 10597,
       "starsInPeriod": 544
     },
     {
@@ -174,8 +174,8 @@
       "url": "https://github.com/opensandbox-group/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "programmingLanguage": "Go",
-      "stars": 17241,
-      "forks": 1635,
+      "stars": 17254,
+      "forks": 1640,
       "starsInPeriod": 1465
     },
     {
@@ -184,8 +184,8 @@
       "url": "https://github.com/go-gitea/gitea",
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 59046,
-      "forks": 7389,
+      "stars": 59049,
+      "forks": 7390,
       "starsInPeriod": 715
     },
     {
@@ -194,7 +194,7 @@
       "url": "https://github.com/superplanehq/superplane",
       "description": "Open source factory for one-shot engineering",
       "programmingLanguage": "Go",
-      "stars": 10026,
+      "stars": 10032,
       "forks": 707,
       "starsInPeriod": 2508
     },
