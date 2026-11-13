@@ -4,12 +4,12 @@
     <title>GitHub Trending — daily — rust</title>
     <link>https://github.com/trending/rust</link>
     <description>GitHub Trending — daily — rust</description>
-    <lastBuildDate>Thu, 12 Nov 2026 23:37:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:42:52 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-11-12T23:37:24Z</ght:observedAt>
+    <ght:observedAt>2026-11-13T06:42:52Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,96 +17,108 @@
       <link>https://github.com/tokio-rs/topcoat</link>
       <description>A batteries-included framework for building web apps</description>
       <guid isPermaLink="true">https://github.com/tokio-rs/topcoat</guid>
-      <pubDate>Thu, 12 Nov 2026 23:37:24 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 06:42:52 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>7162</ght:stars>
-      <ght:forks>325</ght:forks>
-      <ght:starsInPeriod>97</ght:starsInPeriod>
+      <ght:stars>7170</ght:stars>
+      <ght:forks>326</ght:forks>
+      <ght:starsInPeriod>90</ght:starsInPeriod>
     </item>
     <item>
       <title>zellij-org/zellij</title>
       <link>https://github.com/zellij-org/zellij</link>
       <description>A terminal workspace with batteries included</description>
       <guid isPermaLink="true">https://github.com/zellij-org/zellij</guid>
-      <pubDate>Thu, 12 Nov 2026 23:37:24 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 06:42:52 GMT</pubDate>
       <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>36037</ght:stars>
+      <ght:stars>36045</ght:stars>
       <ght:forks>1534</ght:forks>
-      <ght:starsInPeriod>34</ght:starsInPeriod>
+      <ght:starsInPeriod>37</ght:starsInPeriod>
     </item>
     <item>
       <title>Universal-Debloater-Alliance/universal-android-debloater-next-generation</title>
       <link>https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation</link>
       <description>Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.</description>
       <guid isPermaLink="true">https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation</guid>
-      <pubDate>Thu, 12 Nov 2026 23:37:24 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 06:42:52 GMT</pubDate>
       <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>10029</ght:stars>
+      <ght:stars>10039</ght:stars>
       <ght:forks>442</ght:forks>
-      <ght:starsInPeriod>53</ght:starsInPeriod>
+      <ght:starsInPeriod>31</ght:starsInPeriod>
     </item>
     <item>
       <title>vercel-labs/agent-browser</title>
       <link>https://github.com/vercel-labs/agent-browser</link>
       <description>Browser automation CLI for AI agents</description>
       <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
-      <pubDate>Thu, 12 Nov 2026 23:37:24 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 06:42:52 GMT</pubDate>
       <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>50321</ght:stars>
-      <ght:forks>3503</ght:forks>
-      <ght:starsInPeriod>596</ght:starsInPeriod>
+      <ght:stars>50425</ght:stars>
+      <ght:forks>3511</ght:forks>
+      <ght:starsInPeriod>604</ght:starsInPeriod>
     </item>
     <item>
       <title>astral-sh/uv</title>
       <link>https://github.com/astral-sh/uv</link>
       <description>An extremely fast Python package and project manager, written in Rust.</description>
       <guid isPermaLink="true">https://github.com/astral-sh/uv</guid>
-      <pubDate>Thu, 12 Nov 2026 23:37:24 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 06:42:52 GMT</pubDate>
       <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>91958</ght:stars>
+      <ght:stars>91970</ght:stars>
       <ght:forks>3809</ght:forks>
-      <ght:starsInPeriod>99</ght:starsInPeriod>
+      <ght:starsInPeriod>94</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>tw93/Pake</title>
+      <link>https://github.com/tw93/Pake</link>
+      <description>Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.</description>
+      <guid isPermaLink="true">https://github.com/tw93/Pake</guid>
+      <pubDate>Fri, 13 Nov 2026 06:42:52 GMT</pubDate>
+      <ght:rank>6</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>63480</ght:stars>
+      <ght:forks>12991</ght:forks>
+      <ght:starsInPeriod>105</ght:starsInPeriod>
     </item>
     <item>
       <title>ShayanAbbas1/dbdelve</title>
       <link>https://github.com/ShayanAbbas1/dbdelve</link>
       <description>Fast and lightweight DB Client made in Rust and GPUI.</description>
       <guid isPermaLink="true">https://github.com/ShayanAbbas1/dbdelve</guid>
-      <pubDate>Thu, 12 Nov 2026 23:37:24 GMT</pubDate>
-      <ght:rank>6</ght:rank>
+      <pubDate>Fri, 13 Nov 2026 06:42:52 GMT</pubDate>
+      <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>1220</ght:stars>
-      <ght:forks>65</ght:forks>
-      <ght:starsInPeriod>110</ght:starsInPeriod>
+      <ght:stars>1256</ght:stars>
+      <ght:forks>66</ght:forks>
+      <ght:starsInPeriod>108</ght:starsInPeriod>
     </item>
     <item>
       <title>tauri-apps/tauri</title>
       <link>https://github.com/tauri-apps/tauri</link>
       <description>Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</description>
       <guid isPermaLink="true">https://github.com/tauri-apps/tauri</guid>
-      <pubDate>Thu, 12 Nov 2026 23:37:24 GMT</pubDate>
-      <ght:rank>7</ght:rank>
+      <pubDate>Fri, 13 Nov 2026 06:42:52 GMT</pubDate>
+      <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>112852</ght:stars>
-      <ght:forks>4216</ght:forks>
-      <ght:starsInPeriod>89</ght:starsInPeriod>
+      <ght:stars>112869</ght:stars>
+      <ght:forks>4219</ght:forks>
+      <ght:starsInPeriod>90</ght:starsInPeriod>
     </item>
     <item>
       <title>rust-lang/rust</title>
       <link>https://github.com/rust-lang/rust</link>
       <description>Empowering everyone to build reliable and efficient software.</description>
       <guid isPermaLink="true">https://github.com/rust-lang/rust</guid>
-      <pubDate>Thu, 12 Nov 2026 23:37:24 GMT</pubDate>
-      <ght:rank>8</ght:rank>
+      <pubDate>Fri, 13 Nov 2026 06:42:52 GMT</pubDate>
+      <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>121851</ght:stars>
-      <ght:forks>16660</ght:forks>
-      <ght:starsInPeriod>105</ght:starsInPeriod>
+      <ght:stars>121873</ght:stars>
+      <ght:forks>16666</ght:forks>
+      <ght:starsInPeriod>107</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

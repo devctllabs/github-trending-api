@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-12T23:37:24Z",
+  "observedAt": "2026-11-13T06:42:52Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/tokio-rs/topcoat",
       "description": "A batteries-included framework for building web apps",
       "programmingLanguage": "Rust",
-      "stars": 7162,
-      "forks": 325,
-      "starsInPeriod": 97
+      "stars": 7170,
+      "forks": 326,
+      "starsInPeriod": 90
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/zellij-org/zellij",
       "description": "A terminal workspace with batteries included",
       "programmingLanguage": "Rust",
-      "stars": 36037,
+      "stars": 36045,
       "forks": 1534,
-      "starsInPeriod": 34
+      "starsInPeriod": 37
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "programmingLanguage": "Rust",
-      "stars": 10029,
+      "stars": 10039,
       "forks": 442,
-      "starsInPeriod": 53
+      "starsInPeriod": 31
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 50321,
-      "forks": 3503,
-      "starsInPeriod": 596
+      "stars": 50425,
+      "forks": 3511,
+      "starsInPeriod": 604
     },
     {
       "rank": 5,
@@ -54,39 +54,49 @@
       "url": "https://github.com/astral-sh/uv",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 91958,
+      "stars": 91970,
       "forks": 3809,
-      "starsInPeriod": 99
+      "starsInPeriod": 94
     },
     {
       "rank": 6,
+      "fullName": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.",
+      "programmingLanguage": "Rust",
+      "stars": 63480,
+      "forks": 12991,
+      "starsInPeriod": 105
+    },
+    {
+      "rank": 7,
       "fullName": "ShayanAbbas1/dbdelve",
       "url": "https://github.com/ShayanAbbas1/dbdelve",
       "description": "Fast and lightweight DB Client made in Rust and GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 1220,
-      "forks": 65,
-      "starsInPeriod": 110
+      "stars": 1256,
+      "forks": 66,
+      "starsInPeriod": 108
     },
     {
-      "rank": 7,
+      "rank": 8,
       "fullName": "tauri-apps/tauri",
       "url": "https://github.com/tauri-apps/tauri",
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "programmingLanguage": "Rust",
-      "stars": 112852,
-      "forks": 4216,
-      "starsInPeriod": 89
+      "stars": 112869,
+      "forks": 4219,
+      "starsInPeriod": 90
     },
     {
-      "rank": 8,
+      "rank": 9,
       "fullName": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "programmingLanguage": "Rust",
-      "stars": 121851,
-      "forks": 16660,
-      "starsInPeriod": 105
+      "stars": 121873,
+      "forks": 16666,
+      "starsInPeriod": 107
     }
   ]
 }

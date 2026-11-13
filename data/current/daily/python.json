@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-11-12T23:37:14Z",
+  "observedAt": "2026-11-13T06:42:42Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "programmingLanguage": "Python",
-      "stars": 69258,
-      "forks": 10754,
-      "starsInPeriod": 461
+      "stars": 69523,
+      "forks": 10795,
+      "starsInPeriod": 415
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/openai/whisper",
       "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
       "programmingLanguage": "Python",
-      "stars": 112604,
-      "forks": 13655,
-      "starsInPeriod": 118
+      "stars": 112626,
+      "forks": 13656,
+      "starsInPeriod": 113
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "programmingLanguage": "Python",
-      "stars": 71071,
-      "forks": 57125,
-      "starsInPeriod": 1290
+      "stars": 71137,
+      "forks": 57169,
+      "starsInPeriod": 1294
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "programmingLanguage": "Python",
-      "stars": 104671,
+      "stars": 104678,
       "forks": 10238,
-      "starsInPeriod": 86
+      "starsInPeriod": 82
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/python/cpython",
       "description": "The Python programming language",
       "programmingLanguage": "Python",
-      "stars": 78197,
-      "forks": 36579,
-      "starsInPeriod": 70
+      "stars": 78203,
+      "forks": 36584,
+      "starsInPeriod": 72
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/homeassistant-ai/ha-mcp",
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "programmingLanguage": "Python",
-      "stars": 7685,
-      "forks": 466,
-      "starsInPeriod": 691
+      "stars": 7708,
+      "forks": 468,
+      "starsInPeriod": 714
     },
     {
       "rank": 7,
@@ -74,109 +74,99 @@
       "url": "https://github.com/oaustegard/claude-skills",
       "description": "My collection of Claude skills",
       "programmingLanguage": "Python",
-      "stars": 367,
+      "stars": 377,
       "forks": 17,
-      "starsInPeriod": 40
+      "starsInPeriod": 34
     },
     {
       "rank": 8,
-      "fullName": "pallets/flask",
-      "url": "https://github.com/pallets/flask",
-      "description": "The Python micro framework for building web applications.",
-      "programmingLanguage": "Python",
-      "stars": 75112,
-      "forks": 17316,
-      "starsInPeriod": 61
-    },
-    {
-      "rank": 9,
       "fullName": "rlaope/oh-my-hermes",
       "url": "https://github.com/rlaope/oh-my-hermes",
       "description": "⚚ The ultrawork agent with AI coworkers wired into you",
       "programmingLanguage": "Python",
-      "stars": 5558,
-      "forks": 452,
-      "starsInPeriod": 100
+      "stars": 5573,
+      "forks": 454,
+      "starsInPeriod": 79
     },
     {
-      "rank": 10,
+      "rank": 9,
       "fullName": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 25696,
-      "forks": 2268,
-      "starsInPeriod": 302
+      "stars": 25740,
+      "forks": 2273,
+      "starsInPeriod": 297
     },
     {
-      "rank": 11,
+      "rank": 10,
       "fullName": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "programmingLanguage": "Python",
-      "stars": 67439,
+      "stars": 67466,
       "forks": 5929,
-      "starsInPeriod": 119
+      "starsInPeriod": 112
     },
     {
-      "rank": 12,
+      "rank": 11,
       "fullName": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "programmingLanguage": "Python",
-      "stars": 168923,
-      "forks": 35231,
+      "stars": 168938,
+      "forks": 35234,
       "starsInPeriod": 98
     },
     {
-      "rank": 13,
+      "rank": 12,
       "fullName": "figma/mcp-server-guide",
       "url": "https://github.com/figma/mcp-server-guide",
       "description": "A guide on how to use the Figma MCP server",
       "programmingLanguage": "Python",
       "stars": 2181,
       "forks": 215,
-      "starsInPeriod": 5
+      "starsInPeriod": 4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "fullName": "TheAlgorithms/Python",
       "url": "https://github.com/TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
       "programmingLanguage": "Python",
-      "stars": 226062,
-      "forks": 51309,
-      "starsInPeriod": 41
+      "stars": 226072,
+      "forks": 51319,
+      "starsInPeriod": 43
     },
     {
-      "rank": 15,
+      "rank": 14,
       "fullName": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "programmingLanguage": "Python",
-      "stars": 33429,
-      "forks": 3927,
-      "starsInPeriod": 91
+      "stars": 33442,
+      "forks": 3932,
+      "starsInPeriod": 102
     },
     {
-      "rank": 16,
+      "rank": 15,
       "fullName": "Qiskit/qiskit",
       "url": "https://github.com/Qiskit/qiskit",
       "description": "Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.",
       "programmingLanguage": "Python",
-      "stars": 7968,
-      "forks": 3125,
+      "stars": 7970,
+      "forks": 3126,
       "starsInPeriod": 3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "fullName": "NVIDIA/SkillEvaluator",
       "url": "https://github.com/NVIDIA/SkillEvaluator",
       "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "programmingLanguage": "Python",
-      "stars": 853,
-      "forks": 104,
-      "starsInPeriod": 83
+      "stars": 931,
+      "forks": 113,
+      "starsInPeriod": 108
     }
   ]
 }
