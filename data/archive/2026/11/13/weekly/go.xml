@@ -4,13 +4,13 @@
     <title>GitHub Trending — weekly — go</title>
     <link>https://github.com/trending/go?since=weekly</link>
     <description>GitHub Trending — weekly — go</description>
-    <lastBuildDate>Fri, 13 Nov 2026 06:43:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:40:24 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-13</ght:date>
     <ght:period>weekly</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-11-13T06:43:06Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-13T19:40:24Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,14 +20,14 @@
       <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
       <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>67599</ght:stars>
-      <ght:forks>11015</ght:forks>
+      <ght:stars>67585</ght:stars>
+      <ght:forks>11019</ght:forks>
       <ght:starsInPeriod>835</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:06Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>multica-ai/multica</title>
@@ -36,14 +36,14 @@
       <guid isPermaLink="true">https://github.com/multica-ai/multica</guid>
       <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>55947</ght:stars>
-      <ght:forks>7389</ght:forks>
+      <ght:stars>56045</ght:stars>
+      <ght:forks>7402</ght:forks>
       <ght:starsInPeriod>910</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
       <ght:latestRank>2</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:06Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>etcd-io/etcd</title>
@@ -56,10 +56,42 @@
       <ght:forks>10598</ght:forks>
       <ght:starsInPeriod>327</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>opensandbox-group/OpenSandbox</title>
+      <link>https://github.com/opensandbox-group/OpenSandbox</link>
+      <description>Secure, Fast, and Extensible Sandbox runtime for AI agents.</description>
+      <guid isPermaLink="true">https://github.com/opensandbox-group/OpenSandbox</guid>
+      <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>17277</ght:stars>
+      <ght:forks>1643</ght:forks>
+      <ght:starsInPeriod>794</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
       <ght:latestRank>3</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:06Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>cli/cli</title>
+      <link>https://github.com/cli/cli</link>
+      <description>GitHub’s official command line tool</description>
+      <guid isPermaLink="true">https://github.com/cli/cli</guid>
+      <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>46998</ght:stars>
+      <ght:forks>9291</ght:forks>
+      <ght:starsInPeriod>113</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>dsx-ai-factory/nvke</title>
@@ -68,14 +100,14 @@
       <guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
       <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1210</ght:stars>
+      <ght:stars>1219</ght:stars>
       <ght:forks>156</ght:forks>
       <ght:starsInPeriod>1124</ght:starsInPeriod>
       <ght:bestRank>4</ght:bestRank>
-      <ght:latestRank>4</ght:latestRank>
+      <ght:latestRank>5</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:06Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>docker/compose</title>
@@ -100,46 +132,46 @@
       <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
       <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>119507</ght:stars>
-      <ght:forks>6950</ght:forks>
+      <ght:stars>119666</ght:stars>
+      <ght:forks>6972</ght:forks>
       <ght:starsInPeriod>1769</ght:starsInPeriod>
       <ght:bestRank>6</ght:bestRank>
       <ght:latestRank>6</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:06Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
-      <title>cli/cli</title>
-      <link>https://github.com/cli/cli</link>
-      <description>GitHub’s official command line tool</description>
-      <guid isPermaLink="true">https://github.com/cli/cli</guid>
+      <title>trufflesecurity/trufflehog</title>
+      <link>https://github.com/trufflesecurity/trufflehog</link>
+      <description>Find, verify, and analyze leaked credentials</description>
+      <guid isPermaLink="true">https://github.com/trufflesecurity/trufflehog</guid>
       <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>46996</ght:stars>
-      <ght:forks>9288</ght:forks>
-      <ght:starsInPeriod>113</ght:starsInPeriod>
+      <ght:stars>29288</ght:stars>
+      <ght:forks>2733</ght:forks>
+      <ght:starsInPeriod>378</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:06Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
-      <title>opensandbox-group/OpenSandbox</title>
-      <link>https://github.com/opensandbox-group/OpenSandbox</link>
-      <description>Secure, Fast, and Extensible Sandbox runtime for AI agents.</description>
-      <guid isPermaLink="true">https://github.com/opensandbox-group/OpenSandbox</guid>
+      <title>henrygd/beszel</title>
+      <link>https://github.com/henrygd/beszel</link>
+      <description>Lightweight server monitoring with historical data, docker stats, and alerts.</description>
+      <guid isPermaLink="true">https://github.com/henrygd/beszel</guid>
       <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>17259</ght:stars>
-      <ght:forks>1642</ght:forks>
-      <ght:starsInPeriod>794</ght:starsInPeriod>
+      <ght:stars>27311</ght:stars>
+      <ght:forks>1178</ght:forks>
+      <ght:starsInPeriod>415</ght:starsInPeriod>
       <ght:bestRank>8</ght:bestRank>
       <ght:latestRank>8</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:06Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>woodpecker-ci/woodpecker</title>
@@ -158,6 +190,38 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>router-for-me/CLIProxyAPI</title>
+      <link>https://github.com/router-for-me/CLIProxyAPI</link>
+      <description>Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API</description>
+      <guid isPermaLink="true">https://github.com/router-for-me/CLIProxyAPI</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:24 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>58492</ght:stars>
+      <ght:forks>8976</ght:forks>
+      <ght:starsInPeriod>756</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>gosom/google-maps-scraper</title>
+      <link>https://github.com/gosom/google-maps-scraper</link>
+      <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
+      <guid isPermaLink="true">https://github.com/gosom/google-maps-scraper</guid>
+      <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>8014</ght:stars>
+      <ght:forks>1263</ght:forks>
+      <ght:starsInPeriod>600</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>kubernetes/kubernetes</title>
       <link>https://github.com/kubernetes/kubernetes</link>
       <description>Production-Grade Container Scheduling and Management</description>
@@ -174,20 +238,36 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>trufflesecurity/trufflehog</title>
-      <link>https://github.com/trufflesecurity/trufflehog</link>
-      <description>Find, verify, and analyze leaked credentials</description>
-      <guid isPermaLink="true">https://github.com/trufflesecurity/trufflehog</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
+      <title>sundowndev/phoneinfoga</title>
+      <link>https://github.com/sundowndev/phoneinfoga</link>
+      <description>Information gathering framework for phone numbers</description>
+      <guid isPermaLink="true">https://github.com/sundowndev/phoneinfoga</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:24 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>29263</ght:stars>
-      <ght:forks>2729</ght:forks>
-      <ght:starsInPeriod>378</ght:starsInPeriod>
+      <ght:stars>18553</ght:stars>
+      <ght:forks>6326</ght:forks>
+      <ght:starsInPeriod>150</ght:starsInPeriod>
       <ght:bestRank>11</ght:bestRank>
       <ght:latestRank>11</ght:latestRank>
-      <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:06Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-13T19:40:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>gitleaks/gitleaks</title>
+      <link>https://github.com/gitleaks/gitleaks</link>
+      <description>Find secrets with Gitleaks 🔑</description>
+      <guid isPermaLink="true">https://github.com/gitleaks/gitleaks</guid>
+      <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>30994</ght:stars>
+      <ght:forks>2371</ght:forks>
+      <ght:starsInPeriod>278</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>prometheus/alertmanager</title>
@@ -222,19 +302,19 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>henrygd/beszel</title>
-      <link>https://github.com/henrygd/beszel</link>
-      <description>Lightweight server monitoring with historical data, docker stats, and alerts.</description>
-      <guid isPermaLink="true">https://github.com/henrygd/beszel</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
+      <title>aquasecurity/trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:24 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>27279</ght:stars>
-      <ght:forks>1176</ght:forks>
-      <ght:starsInPeriod>415</ght:starsInPeriod>
+      <ght:stars>39306</ght:stars>
+      <ght:forks>867</ght:forks>
+      <ght:starsInPeriod>250</ght:starsInPeriod>
       <ght:bestRank>14</ght:bestRank>
       <ght:latestRank>14</ght:latestRank>
-      <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:06Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-13T19:40:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -254,19 +334,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>gosom/google-maps-scraper</title>
-      <link>https://github.com/gosom/google-maps-scraper</link>
-      <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
-      <guid isPermaLink="true">https://github.com/gosom/google-maps-scraper</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
+      <title>google/gvisor</title>
+      <link>https://github.com/google/gvisor</link>
+      <description>Application Kernel for Containers</description>
+      <guid isPermaLink="true">https://github.com/google/gvisor</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:24 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>7987</ght:stars>
-      <ght:forks>1257</ght:forks>
-      <ght:starsInPeriod>600</ght:starsInPeriod>
+      <ght:stars>19993</ght:stars>
+      <ght:forks>2083</ght:forks>
+      <ght:starsInPeriod>106</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>agent-substrate/substrate</title>
+      <link>https://github.com/agent-substrate/substrate</link>
+      <description>Agent Substrate: the core system</description>
+      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:24 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6582</ght:stars>
+      <ght:forks>743</ght:forks>
+      <ght:starsInPeriod>442</ght:starsInPeriod>
       <ght:bestRank>16</ght:bestRank>
       <ght:latestRank>16</ght:latestRank>
-      <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:06Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-13T19:40:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -286,19 +382,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>gitleaks/gitleaks</title>
-      <link>https://github.com/gitleaks/gitleaks</link>
-      <description>Find secrets with Gitleaks 🔑</description>
-      <guid isPermaLink="true">https://github.com/gitleaks/gitleaks</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:06 GMT</pubDate>
+      <title>evcc-io/evcc</title>
+      <link>https://github.com/evcc-io/evcc</link>
+      <description>smart charging ☀️🚘</description>
+      <guid isPermaLink="true">https://github.com/evcc-io/evcc</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:24 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>30978</ght:stars>
-      <ght:forks>2369</ght:forks>
-      <ght:starsInPeriod>278</ght:starsInPeriod>
+      <ght:stars>7613</ght:stars>
+      <ght:forks>1655</ght:forks>
+      <ght:starsInPeriod>85</ght:starsInPeriod>
+      <ght:bestRank>17</ght:bestRank>
+      <ght:latestRank>17</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>XTLS/Xray-core</title>
+      <link>https://github.com/XTLS/Xray-core</link>
+      <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
+      <guid isPermaLink="true">https://github.com/XTLS/Xray-core</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:24 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>42884</ght:stars>
+      <ght:forks>6146</ght:forks>
+      <ght:starsInPeriod>247</ght:starsInPeriod>
       <ght:bestRank>18</ght:bestRank>
       <ght:latestRank>18</ght:latestRank>
-      <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:06Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-13T19:40:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -315,6 +427,22 @@
       <ght:latestRank>19</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:06Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-13T06:43:06Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Gentleman-Programming/gentle-ai</title>
+      <link>https://github.com/Gentleman-Programming/gentle-ai</link>
+      <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
+      <guid isPermaLink="true">https://github.com/Gentleman-Programming/gentle-ai</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:24 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>9113</ght:stars>
+      <ght:forks>897</ght:forks>
+      <ght:starsInPeriod>619</ght:starsInPeriod>
+      <ght:bestRank>19</ght:bestRank>
+      <ght:latestRank>19</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:24Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:24Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>

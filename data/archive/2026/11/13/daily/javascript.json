@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "updatedAt": "2026-11-13T06:43:13Z",
+  "updatedAt": "2026-11-13T19:40:31Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -24,18 +24,32 @@
       "appearances": 1
     },
     {
+      "fullName": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "programmingLanguage": "JavaScript",
+      "stars": 93782,
+      "forks": 8717,
+      "starsInPeriod": 61,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-11-13T19:40:31Z",
+      "lastSeenAt": "2026-11-13T19:40:31Z",
+      "appearances": 1
+    },
+    {
       "fullName": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 116840,
-      "forks": 12218,
-      "starsInPeriod": 816,
+      "stars": 117088,
+      "forks": 12243,
+      "starsInPeriod": 696,
       "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-11-13T06:43:13Z",
-      "lastSeenAt": "2026-11-13T06:43:13Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-13T19:40:31Z",
+      "appearances": 2
     },
     {
       "fullName": "laoma528/awesome-zhuiju-free",
@@ -49,6 +63,20 @@
       "latestRank": 3,
       "firstSeenAt": "2026-11-13T06:43:13Z",
       "lastSeenAt": "2026-11-13T06:43:13Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "programmingLanguage": "JavaScript",
+      "stars": 114919,
+      "forks": 7711,
+      "starsInPeriod": 783,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-11-13T19:40:31Z",
+      "lastSeenAt": "2026-11-13T19:40:31Z",
       "appearances": 1
     },
     {
@@ -66,18 +94,60 @@
       "appearances": 1
     },
     {
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "programmingLanguage": "JavaScript",
+      "stars": 302383,
+      "forks": 44604,
+      "starsInPeriod": 608,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-13T19:40:31Z",
+      "lastSeenAt": "2026-11-13T19:40:31Z",
+      "appearances": 1
+    },
+    {
       "fullName": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 60016,
-      "forks": 8768,
-      "starsInPeriod": 208,
+      "stars": 60144,
+      "forks": 8785,
+      "starsInPeriod": 205,
+      "bestRank": 5,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-13T06:43:13Z",
+      "lastSeenAt": "2026-11-13T19:40:31Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "microsoft/power-platform-skills",
+      "url": "https://github.com/microsoft/power-platform-skills",
+      "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
+      "programmingLanguage": "JavaScript",
+      "stars": 1146,
+      "forks": 230,
+      "starsInPeriod": 3,
       "bestRank": 5,
       "latestRank": 5,
-      "firstSeenAt": "2026-11-13T06:43:13Z",
-      "lastSeenAt": "2026-11-13T06:43:13Z",
+      "firstSeenAt": "2026-11-13T19:40:31Z",
+      "lastSeenAt": "2026-11-13T19:40:31Z",
       "appearances": 1
+    },
+    {
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+      "programmingLanguage": "JavaScript",
+      "stars": 34046,
+      "forks": 2338,
+      "starsInPeriod": 71,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-13T06:43:13Z",
+      "lastSeenAt": "2026-11-13T19:40:31Z",
+      "appearances": 2
     },
     {
       "fullName": "sveltejs/svelte",
@@ -98,14 +168,14 @@
       "url": "https://github.com/OpenWhispr/openwhispr",
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "programmingLanguage": "JavaScript",
-      "stars": 11462,
-      "forks": 1509,
-      "starsInPeriod": 116,
+      "stars": 11501,
+      "forks": 1513,
+      "starsInPeriod": 76,
       "bestRank": 7,
-      "latestRank": 7,
+      "latestRank": 8,
       "firstSeenAt": "2026-11-13T06:43:13Z",
-      "lastSeenAt": "2026-11-13T06:43:13Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-13T19:40:31Z",
+      "appearances": 2
     },
     {
       "fullName": "react/react",
@@ -136,6 +206,20 @@
       "appearances": 1
     },
     {
+      "fullName": "tabler/tabler-icons",
+      "url": "https://github.com/tabler/tabler-icons",
+      "description": "A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+      "programmingLanguage": "JavaScript",
+      "stars": 22637,
+      "forks": 1275,
+      "starsInPeriod": 20,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-13T19:40:31Z",
+      "lastSeenAt": "2026-11-13T19:40:31Z",
+      "appearances": 1
+    },
+    {
       "fullName": "PenglongHuang/chinese-novelist-skill",
       "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
       "description": "🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill",
@@ -150,17 +234,17 @@
       "appearances": 1
     },
     {
-      "fullName": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "programmingLanguage": "JavaScript",
-      "stars": 34008,
-      "forks": 2334,
-      "starsInPeriod": 113,
-      "bestRank": 11,
-      "latestRank": 11,
-      "firstSeenAt": "2026-11-13T06:43:13Z",
-      "lastSeenAt": "2026-11-13T06:43:13Z",
+      "stars": 190283,
+      "forks": 10622,
+      "starsInPeriod": 625,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-13T19:40:31Z",
+      "lastSeenAt": "2026-11-13T19:40:31Z",
       "appearances": 1
     },
     {

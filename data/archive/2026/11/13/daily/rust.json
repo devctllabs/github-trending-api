@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-11-13T06:42:52Z",
+  "updatedAt": "2026-11-13T19:40:10Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -24,17 +24,45 @@
       "appearances": 1
     },
     {
+      "fullName": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "programmingLanguage": "Rust",
+      "stars": 37254,
+      "forks": 4939,
+      "starsInPeriod": 95,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-11-13T19:40:10Z",
+      "lastSeenAt": "2026-11-13T19:40:10Z",
+      "appearances": 1
+    },
+    {
       "fullName": "zellij-org/zellij",
       "url": "https://github.com/zellij-org/zellij",
       "description": "A terminal workspace with batteries included",
       "programmingLanguage": "Rust",
-      "stars": 36045,
-      "forks": 1534,
-      "starsInPeriod": 37,
+      "stars": 36038,
+      "forks": 1535,
+      "starsInPeriod": 34,
+      "bestRank": 2,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-13T06:42:52Z",
+      "lastSeenAt": "2026-11-13T19:40:10Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "programmingLanguage": "Rust",
+      "stars": 129339,
+      "forks": 20655,
+      "starsInPeriod": 165,
       "bestRank": 2,
       "latestRank": 2,
-      "firstSeenAt": "2026-11-13T06:42:52Z",
-      "lastSeenAt": "2026-11-13T06:42:52Z",
+      "firstSeenAt": "2026-11-13T19:40:10Z",
+      "lastSeenAt": "2026-11-13T19:40:10Z",
       "appearances": 1
     },
     {
@@ -50,6 +78,34 @@
       "firstSeenAt": "2026-11-13T06:42:52Z",
       "lastSeenAt": "2026-11-13T06:42:52Z",
       "appearances": 1
+    },
+    {
+      "fullName": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+      "programmingLanguage": "Rust",
+      "stars": 154222,
+      "forks": 10115,
+      "starsInPeriod": 327,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-11-13T19:40:10Z",
+      "lastSeenAt": "2026-11-13T19:40:10Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.",
+      "programmingLanguage": "Rust",
+      "stars": 63546,
+      "forks": 12998,
+      "starsInPeriod": 105,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-13T06:42:52Z",
+      "lastSeenAt": "2026-11-13T19:40:10Z",
+      "appearances": 2
     },
     {
       "fullName": "vercel-labs/agent-browser",
@@ -80,31 +136,31 @@
       "appearances": 1
     },
     {
-      "fullName": "tw93/Pake",
-      "url": "https://github.com/tw93/Pake",
-      "description": "Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.",
-      "programmingLanguage": "Rust",
-      "stars": 63480,
-      "forks": 12991,
-      "starsInPeriod": 105,
-      "bestRank": 6,
-      "latestRank": 6,
-      "firstSeenAt": "2026-11-13T06:42:52Z",
-      "lastSeenAt": "2026-11-13T06:42:52Z",
-      "appearances": 1
-    },
-    {
       "fullName": "ShayanAbbas1/dbdelve",
       "url": "https://github.com/ShayanAbbas1/dbdelve",
       "description": "Fast and lightweight DB Client made in Rust and GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 1256,
-      "forks": 66,
-      "starsInPeriod": 108,
+      "stars": 1296,
+      "forks": 69,
+      "starsInPeriod": 111,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-13T06:42:52Z",
+      "lastSeenAt": "2026-11-13T19:40:10Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "ModernRelay/omnigraph",
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "description": "Object-storage native graph database with branching and typed ontology",
+      "programmingLanguage": "Rust",
+      "stars": 2203,
+      "forks": 292,
+      "starsInPeriod": 112,
       "bestRank": 7,
       "latestRank": 7,
-      "firstSeenAt": "2026-11-13T06:42:52Z",
-      "lastSeenAt": "2026-11-13T06:42:52Z",
+      "firstSeenAt": "2026-11-13T19:40:10Z",
+      "lastSeenAt": "2026-11-13T19:40:10Z",
       "appearances": 1
     },
     {
@@ -122,6 +178,20 @@
       "appearances": 1
     },
     {
+      "fullName": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "programmingLanguage": "Rust",
+      "stars": 36059,
+      "forks": 1666,
+      "starsInPeriod": 46,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-13T19:40:10Z",
+      "lastSeenAt": "2026-11-13T19:40:10Z",
+      "appearances": 1
+    },
+    {
       "fullName": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
@@ -133,6 +203,34 @@
       "latestRank": 9,
       "firstSeenAt": "2026-11-13T06:42:52Z",
       "lastSeenAt": "2026-11-13T06:42:52Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "programmingLanguage": "Rust",
+      "stars": 86474,
+      "forks": 5543,
+      "starsInPeriod": 139,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-13T19:40:10Z",
+      "lastSeenAt": "2026-11-13T19:40:10Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "aimod-cc/Agent2API",
+      "url": "https://github.com/aimod-cc/Agent2API",
+      "description": "Local AI routing gateway with Agent client takeover — reuse existing client logins, call 50+ AI clients through one base URL, with unified OpenAI / Anthropic / Images APIs, multi-account routing, check-in, balance and request reports · 本地 AI 路由网关 + Agent 客户端接管：复用各家客户端登录态，一个 base_url 调用 50+ 家模型额度，统一 OpenAI / Anthropic / 生图接口，多账号选路、签到、余额与请求报表一体管理",
+      "programmingLanguage": "Rust",
+      "stars": 2253,
+      "forks": 593,
+      "starsInPeriod": 56,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-13T19:40:10Z",
+      "lastSeenAt": "2026-11-13T19:40:10Z",
       "appearances": 1
     }
   ]

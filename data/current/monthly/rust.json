@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=monthly",
-  "observedAt": "2026-11-13T06:42:59Z",
+  "observedAt": "2026-11-13T19:40:17Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 109138,
-      "forks": 6506,
+      "stars": 109478,
+      "forks": 6524,
       "starsInPeriod": 29165
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 50425,
-      "forks": 3511,
+      "stars": 50653,
+      "forks": 3523,
       "starsInPeriod": 6529
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "programmingLanguage": "Rust",
-      "stars": 15757,
-      "forks": 1160,
+      "stars": 15797,
+      "forks": 1164,
       "starsInPeriod": 6671
     },
     {
@@ -44,29 +44,29 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "programmingLanguage": "Rust",
-      "stars": 12485,
+      "stars": 12506,
       "forks": 494,
       "starsInPeriod": 3319
     },
     {
       "rank": 5,
-      "fullName": "cjpais/Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "programmingLanguage": "Rust",
-      "stars": 38600,
-      "forks": 3637,
-      "starsInPeriod": 5070
-    },
-    {
-      "rank": 6,
       "fullName": "zed-industries/zed",
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "programmingLanguage": "Rust",
-      "stars": 94880,
-      "forks": 11674,
+      "stars": 94944,
+      "forks": 11688,
       "starsInPeriod": 3763
+    },
+    {
+      "rank": 6,
+      "fullName": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "programmingLanguage": "Rust",
+      "stars": 38673,
+      "forks": 3647,
+      "starsInPeriod": 5070
     },
     {
       "rank": 7,
@@ -74,29 +74,29 @@
       "url": "https://github.com/agentgateway/agentgateway",
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "programmingLanguage": "Rust",
-      "stars": 6158,
-      "forks": 1091,
+      "stars": 6177,
+      "forks": 1092,
       "starsInPeriod": 863
     },
     {
       "rank": 8,
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "programmingLanguage": "Rust",
-      "stars": 104187,
-      "forks": 13559,
-      "starsInPeriod": 7010
-    },
-    {
-      "rank": 9,
       "fullName": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 22884,
-      "forks": 1696,
+      "stars": 23222,
+      "forks": 1720,
       "starsInPeriod": 20927
+    },
+    {
+      "rank": 9,
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "programmingLanguage": "Rust",
+      "stars": 104229,
+      "forks": 13559,
+      "starsInPeriod": 7010
     },
     {
       "rank": 10,
@@ -104,69 +104,69 @@
       "url": "https://github.com/xerj-org/xerj",
       "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "programmingLanguage": "Rust",
-      "stars": 18987,
-      "forks": 1400,
+      "stars": 19032,
+      "forks": 1408,
       "starsInPeriod": 17005
     },
     {
       "rank": 11,
-      "fullName": "jub0t/Concat",
-      "url": "https://github.com/jub0t/Concat",
-      "description": "Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.",
-      "programmingLanguage": "Rust",
-      "stars": 17211,
-      "forks": 2124,
-      "starsInPeriod": 12215
-    },
-    {
-      "rank": 12,
       "fullName": "astral-sh/ruff",
       "url": "https://github.com/astral-sh/ruff",
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 51237,
+      "stars": 51224,
       "forks": 2667,
       "starsInPeriod": 1645
     },
     {
+      "rank": 12,
+      "fullName": "jub0t/Concat",
+      "url": "https://github.com/jub0t/Concat",
+      "description": "Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.",
+      "programmingLanguage": "Rust",
+      "stars": 17335,
+      "forks": 2133,
+      "starsInPeriod": 12215
+    },
+    {
       "rank": 13,
-      "fullName": "fabio-rovai/open-ontologies",
-      "url": "https://github.com/fabio-rovai/open-ontologies",
-      "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
-      "programmingLanguage": "Rust",
-      "stars": 2888,
-      "forks": 326,
-      "starsInPeriod": 1860
-    },
-    {
-      "rank": 14,
-      "fullName": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "programmingLanguage": "Rust",
-      "stars": 21541,
-      "forks": 2103,
-      "starsInPeriod": 5671
-    },
-    {
-      "rank": 15,
       "fullName": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "programmingLanguage": "Rust",
-      "stars": 6291,
-      "forks": 590,
+      "stars": 6302,
+      "forks": 593,
       "starsInPeriod": 1678
     },
     {
-      "rank": 16,
+      "rank": 14,
       "fullName": "Mesh-LLM/mesh-llm",
       "url": "https://github.com/Mesh-LLM/mesh-llm",
       "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
       "programmingLanguage": "Rust",
-      "stars": 4095,
+      "stars": 4098,
       "forks": 514,
       "starsInPeriod": 612
+    },
+    {
+      "rank": 15,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "programmingLanguage": "Rust",
+      "stars": 21579,
+      "forks": 2107,
+      "starsInPeriod": 5671
+    },
+    {
+      "rank": 16,
+      "fullName": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "programmingLanguage": "Rust",
+      "stars": 96680,
+      "forks": 5279,
+      "starsInPeriod": 965
     },
     {
       "rank": 17,
@@ -174,29 +174,29 @@
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 3296,
-      "forks": 231,
+      "stars": 3317,
+      "forks": 236,
       "starsInPeriod": 1091
     },
     {
       "rank": 18,
-      "fullName": "ModernRelay/omnigraph",
-      "url": "https://github.com/ModernRelay/omnigraph",
-      "description": "Object-storage native graph database with branching and typed ontology",
-      "programmingLanguage": "Rust",
-      "stars": 2065,
-      "forks": 275,
-      "starsInPeriod": 746
-    },
-    {
-      "rank": 19,
       "fullName": "memvid/memvid",
       "url": "https://github.com/memvid/memvid",
       "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
       "programmingLanguage": "Rust",
-      "stars": 17404,
-      "forks": 1469,
+      "stars": 17410,
+      "forks": 1467,
       "starsInPeriod": 842
+    },
+    {
+      "rank": 19,
+      "fullName": "ModernRelay/omnigraph",
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "description": "Object-storage native graph database with branching and typed ontology",
+      "programmingLanguage": "Rust",
+      "stars": 2203,
+      "forks": 292,
+      "starsInPeriod": 746
     }
   ]
 }

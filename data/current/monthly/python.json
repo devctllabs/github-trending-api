@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-11-13T06:42:49Z",
+  "observedAt": "2026-11-13T19:40:06Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "programmingLanguage": "Python",
-      "stars": 58739,
-      "forks": 7137,
+      "stars": 58907,
+      "forks": 7150,
       "starsInPeriod": 17692
     },
     {
@@ -24,49 +24,49 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 193827,
-      "forks": 22806,
+      "stars": 194084,
+      "forks": 22824,
       "starsInPeriod": 13440
     },
     {
       "rank": 3,
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "programmingLanguage": "Python",
-      "stars": 109395,
-      "forks": 12122,
-      "starsInPeriod": 49960
-    },
-    {
-      "rank": 4,
-      "fullName": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "programmingLanguage": "Python",
-      "stars": 47083,
-      "forks": 4886,
-      "starsInPeriod": 9515
-    },
-    {
-      "rank": 5,
       "fullName": "AgriciDaniel/claude-seo",
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 28779,
-      "forks": 3677,
+      "stars": 28993,
+      "forks": 3697,
       "starsInPeriod": 9819
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "programmingLanguage": "Python",
+      "stars": 109856,
+      "forks": 12176,
+      "starsInPeriod": 49960
+    },
+    {
+      "rank": 5,
       "fullName": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 35604,
-      "forks": 3938,
+      "stars": 35654,
+      "forks": 3945,
       "starsInPeriod": 6451
+    },
+    {
+      "rank": 6,
+      "fullName": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "programmingLanguage": "Python",
+      "stars": 47165,
+      "forks": 4894,
+      "starsInPeriod": 9515
     },
     {
       "rank": 7,
@@ -74,8 +74,8 @@
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "programmingLanguage": "Python",
-      "stars": 46810,
-      "forks": 3546,
+      "stars": 46853,
+      "forks": 3554,
       "starsInPeriod": 5262
     },
     {
@@ -84,39 +84,39 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "programmingLanguage": "Python",
-      "stars": 102274,
-      "forks": 10644,
+      "stars": 102461,
+      "forks": 10670,
       "starsInPeriod": 15507
     },
     {
       "rank": 9,
-      "fullName": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "programmingLanguage": "Python",
-      "stars": 85438,
-      "forks": 12959,
-      "starsInPeriod": 7368
-    },
-    {
-      "rank": 10,
       "fullName": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 25740,
-      "forks": 2273,
+      "stars": 25860,
+      "forks": 2291,
       "starsInPeriod": 5704
     },
     {
-      "rank": 11,
-      "fullName": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "rank": 10,
+      "fullName": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "programmingLanguage": "Python",
-      "stars": 58674,
-      "forks": 5286,
-      "starsInPeriod": 6896
+      "stars": 85492,
+      "forks": 12966,
+      "starsInPeriod": 7368
+    },
+    {
+      "rank": 11,
+      "fullName": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "programmingLanguage": "Python",
+      "stars": 104684,
+      "forks": 10245,
+      "starsInPeriod": 2648
     },
     {
       "rank": 12,
@@ -124,78 +124,88 @@
       "url": "https://github.com/The-PR-Agent/pr-agent",
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "programmingLanguage": "Python",
-      "stars": 16041,
-      "forks": 2186,
+      "stars": 16087,
+      "forks": 2188,
       "starsInPeriod": 2704
     },
     {
       "rank": 13,
-      "fullName": "fastapi/fastapi",
-      "url": "https://github.com/fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "fullName": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 104678,
-      "forks": 10238,
-      "starsInPeriod": 2648
+      "stars": 58700,
+      "forks": 5285,
+      "starsInPeriod": 6896
     },
     {
       "rank": 14,
-      "fullName": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "programmingLanguage": "Python",
-      "stars": 47097,
-      "forks": 5739,
-      "starsInPeriod": 5394
-    },
-    {
-      "rank": 15,
-      "fullName": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Design physical products with AI",
-      "programmingLanguage": "Python",
-      "stars": 26208,
-      "forks": 2486,
-      "starsInPeriod": 6722
-    },
-    {
-      "rank": 16,
       "fullName": "ahujasid/mcp-for-blender",
       "url": "https://github.com/ahujasid/mcp-for-blender",
       "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
       "programmingLanguage": "Python",
-      "stars": 34243,
-      "forks": 3117,
+      "stars": 34303,
+      "forks": 3120,
       "starsInPeriod": 3730
     },
     {
-      "rank": 17,
+      "rank": 15,
+      "fullName": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "programmingLanguage": "Python",
+      "stars": 143260,
+      "forks": 22925,
+      "starsInPeriod": 13438
+    },
+    {
+      "rank": 16,
       "fullName": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "programmingLanguage": "Python",
-      "stars": 146566,
-      "forks": 17468,
+      "stars": 146676,
+      "forks": 17490,
       "starsInPeriod": 9873
     },
     {
+      "rank": 17,
+      "fullName": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "programmingLanguage": "Python",
+      "stars": 47143,
+      "forks": 5743,
+      "starsInPeriod": 5394
+    },
+    {
       "rank": 18,
+      "fullName": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Design physical products with AI",
+      "programmingLanguage": "Python",
+      "stars": 26256,
+      "forks": 2494,
+      "starsInPeriod": 6722
+    },
+    {
+      "rank": 19,
       "fullName": "pandas-dev/pandas",
       "url": "https://github.com/pandas-dev/pandas",
       "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
       "programmingLanguage": "Python",
-      "stars": 50506,
-      "forks": 20737,
+      "stars": 50511,
+      "forks": 20739,
       "starsInPeriod": 1075
     },
     {
-      "rank": 19,
+      "rank": 20,
       "fullName": "elayadesign/ai-design-skills",
       "url": "https://github.com/elayadesign/ai-design-skills",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 15408,
-      "forks": 1182,
+      "stars": 15451,
+      "forks": 1186,
       "starsInPeriod": 12900
     }
   ]

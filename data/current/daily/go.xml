@@ -4,181 +4,205 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Fri, 13 Nov 2026 06:43:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:40:20 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-11-13T06:43:02Z</ght:observedAt>
+    <ght:observedAt>2026-11-13T19:40:20Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
-      <title>Tencent/LoopForge</title>
-      <link>https://github.com/Tencent/LoopForge</link>
-      <description>Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.</description>
-      <guid isPermaLink="true">https://github.com/Tencent/LoopForge</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <description>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>620</ght:stars>
-      <ght:forks>105</ght:forks>
-      <ght:starsInPeriod>184</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>moby/buildkit</title>
-      <link>https://github.com/moby/buildkit</link>
-      <description>concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit</description>
-      <guid isPermaLink="true">https://github.com/moby/buildkit</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>10415</ght:stars>
-      <ght:forks>1570</ght:forks>
-      <ght:starsInPeriod>16</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>agent-substrate/substrate</title>
-      <link>https://github.com/agent-substrate/substrate</link>
-      <description>Agent Substrate: the core system</description>
-      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
-      <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6551</ght:stars>
-      <ght:forks>741</ght:forks>
-      <ght:starsInPeriod>84</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>golang/go</title>
-      <link>https://github.com/golang/go</link>
-      <description>The Go programming language</description>
-      <guid isPermaLink="true">https://github.com/golang/go</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
-      <ght:rank>4</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>139882</ght:stars>
-      <ght:forks>20276</ght:forks>
-      <ght:starsInPeriod>77</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>databricks/cli</title>
-      <link>https://github.com/databricks/cli</link>
-      <description>Databricks CLI</description>
-      <guid isPermaLink="true">https://github.com/databricks/cli</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>431</ght:stars>
-      <ght:forks>271</ght:forks>
-      <ght:starsInPeriod>3</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>kubernetes/kubernetes</title>
-      <link>https://github.com/kubernetes/kubernetes</link>
-      <description>Production-Grade Container Scheduling and Management</description>
-      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>129041</ght:stars>
-      <ght:forks>45105</ght:forks>
-      <ght:starsInPeriod>78</ght:starsInPeriod>
+      <ght:stars>50467</ght:stars>
+      <ght:forks>3746</ght:forks>
+      <ght:starsInPeriod>206</ght:starsInPeriod>
     </item>
     <item>
       <title>tailscale/tailcat</title>
       <link>https://github.com/tailscale/tailcat</link>
       <description>like netcat, but over Tailscale's data plane, without Tailscale's control plane</description>
       <guid isPermaLink="true">https://github.com/tailscale/tailcat</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
-      <ght:rank>7</ght:rank>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:rank>2</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>9364</ght:stars>
+      <ght:forks>428</ght:forks>
+      <ght:starsInPeriod>324</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>Tencent/LoopForge</title>
+      <link>https://github.com/Tencent/LoopForge</link>
+      <description>Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.</description>
+      <guid isPermaLink="true">https://github.com/Tencent/LoopForge</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:rank>3</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>666</ght:stars>
+      <ght:forks>110</ght:forks>
+      <ght:starsInPeriod>174</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>Tencent/WeKnora</title>
+      <link>https://github.com/Tencent/WeKnora</link>
+      <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+      <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:rank>4</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>37392</ght:stars>
+      <ght:forks>5184</ght:forks>
+      <ght:starsInPeriod>90</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>ollama/ollama</title>
+      <link>https://github.com/ollama/ollama</link>
+      <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
+      <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:rank>5</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>186884</ght:stars>
+      <ght:forks>19066</ght:forks>
+      <ght:starsInPeriod>134</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>Gentleman-Programming/gentle-ai</title>
+      <link>https://github.com/Gentleman-Programming/gentle-ai</link>
+      <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
+      <guid isPermaLink="true">https://github.com/Gentleman-Programming/gentle-ai</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
       <ght:stars>9113</ght:stars>
-      <ght:forks>417</ght:forks>
-      <ght:starsInPeriod>173</ght:starsInPeriod>
+      <ght:forks>897</ght:forks>
+      <ght:starsInPeriod>240</ght:starsInPeriod>
     </item>
     <item>
-      <title>dsx-ai-factory/run-ai</title>
-      <link>https://github.com/dsx-ai-factory/run-ai</link>
-      <description>Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment.</description>
-      <guid isPermaLink="true">https://github.com/dsx-ai-factory/run-ai</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
-      <ght:rank>8</ght:rank>
+      <title>modelcontextprotocol/go-sdk</title>
+      <link>https://github.com/modelcontextprotocol/go-sdk</link>
+      <description>The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.</description>
+      <guid isPermaLink="true">https://github.com/modelcontextprotocol/go-sdk</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>758</ght:stars>
-      <ght:forks>125</ght:forks>
-      <ght:starsInPeriod>8</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>kubescape/kubescape</title>
-      <link>https://github.com/kubescape/kubescape</link>
-      <description>Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.</description>
-      <guid isPermaLink="true">https://github.com/kubescape/kubescape</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
-      <ght:rank>9</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>11880</ght:stars>
-      <ght:forks>1101</ght:forks>
-      <ght:starsInPeriod>8</ght:starsInPeriod>
+      <ght:stars>5343</ght:stars>
+      <ght:forks>617</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
     </item>
     <item>
       <title>multica-ai/multica</title>
       <link>https://github.com/multica-ai/multica</link>
       <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
       <guid isPermaLink="true">https://github.com/multica-ai/multica</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>56045</ght:stars>
+      <ght:forks>7402</ght:forks>
+      <ght:starsInPeriod>166</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>hashicorp/vault</title>
+      <link>https://github.com/hashicorp/vault</link>
+      <description>A tool for secrets management, encryption as a service, and privileged access management</description>
+      <guid isPermaLink="true">https://github.com/hashicorp/vault</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:rank>9</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>36508</ght:stars>
+      <ght:forks>4819</ght:forks>
+      <ght:starsInPeriod>5</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>agent-substrate/substrate</title>
+      <link>https://github.com/agent-substrate/substrate</link>
+      <description>Agent Substrate: the core system</description>
+      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
       <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>55947</ght:stars>
-      <ght:forks>7389</ght:forks>
-      <ght:starsInPeriod>148</ght:starsInPeriod>
+      <ght:stars>6582</ght:stars>
+      <ght:forks>743</ght:forks>
+      <ght:starsInPeriod>52</ght:starsInPeriod>
     </item>
     <item>
-      <title>superplanehq/superplane</title>
-      <link>https://github.com/superplanehq/superplane</link>
-      <description>Open source factory for one-shot engineering</description>
-      <guid isPermaLink="true">https://github.com/superplanehq/superplane</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
+      <title>crowdsecurity/crowdsec</title>
+      <link>https://github.com/crowdsecurity/crowdsec</link>
+      <description>Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.</description>
+      <guid isPermaLink="true">https://github.com/crowdsecurity/crowdsec</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
       <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>10039</ght:stars>
-      <ght:forks>707</ght:forks>
-      <ght:starsInPeriod>10</ght:starsInPeriod>
+      <ght:stars>15596</ght:stars>
+      <ght:forks>763</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
     </item>
     <item>
-      <title>fatedier/frp</title>
-      <link>https://github.com/fatedier/frp</link>
-      <description>A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</description>
-      <guid isPermaLink="true">https://github.com/fatedier/frp</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
+      <title>vernette/warpscout</title>
+      <link>https://github.com/vernette/warpscout</link>
+      <description>🛰️ Cloudflare WARP endpoint scanner - find working endpoints over wg/awg/masque and see the exit region and edge node they land on</description>
+      <guid isPermaLink="true">https://github.com/vernette/warpscout</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
       <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>110574</ght:stars>
-      <ght:forks>15318</ght:forks>
-      <ght:starsInPeriod>34</ght:starsInPeriod>
+      <ght:stars>645</ght:stars>
+      <ght:forks>61</ght:forks>
+      <ght:starsInPeriod>12</ght:starsInPeriod>
     </item>
     <item>
-      <title>smtg-ai/claude-squad</title>
-      <link>https://github.com/smtg-ai/claude-squad</link>
-      <description>Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.</description>
-      <guid isPermaLink="true">https://github.com/smtg-ai/claude-squad</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
+      <title>netbirdio/netbird</title>
+      <link>https://github.com/netbirdio/netbird</link>
+      <description>NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®</description>
+      <guid isPermaLink="true">https://github.com/netbirdio/netbird</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
       <ght:rank>13</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>8792</ght:stars>
-      <ght:forks>632</ght:forks>
-      <ght:starsInPeriod>8</ght:starsInPeriod>
+      <ght:stars>30972</ght:stars>
+      <ght:forks>1858</ght:forks>
+      <ght:starsInPeriod>42</ght:starsInPeriod>
     </item>
     <item>
-      <title>cloudflare/cloudflared</title>
-      <link>https://github.com/cloudflare/cloudflared</link>
-      <description>Cloudflare Tunnel client</description>
-      <guid isPermaLink="true">https://github.com/cloudflare/cloudflared</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
+      <title>cli/cli</title>
+      <link>https://github.com/cli/cli</link>
+      <description>GitHub’s official command line tool</description>
+      <guid isPermaLink="true">https://github.com/cli/cli</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
       <ght:rank>14</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>16566</ght:stars>
-      <ght:forks>1531</ght:forks>
-      <ght:starsInPeriod>32</ght:starsInPeriod>
+      <ght:stars>46998</ght:stars>
+      <ght:forks>9291</ght:forks>
+      <ght:starsInPeriod>23</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>kubescape/kubescape</title>
+      <link>https://github.com/kubescape/kubescape</link>
+      <description>Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.</description>
+      <guid isPermaLink="true">https://github.com/kubescape/kubescape</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:rank>15</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>11890</ght:stars>
+      <ght:forks>1101</ght:forks>
+      <ght:starsInPeriod>23</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>larksuite/cli</title>
+      <link>https://github.com/larksuite/cli</link>
+      <description>The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.</description>
+      <guid isPermaLink="true">https://github.com/larksuite/cli</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>18097</ght:stars>
+      <ght:forks>1380</ght:forks>
+      <ght:starsInPeriod>18</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

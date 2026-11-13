@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-11-13T06:43:06Z",
+  "observedAt": "2026-11-13T19:40:24Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "programmingLanguage": "Go",
-      "stars": 67599,
-      "forks": 11015,
+      "stars": 67585,
+      "forks": 11019,
       "starsInPeriod": 835
     },
     {
@@ -24,12 +24,112 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 55947,
-      "forks": 7389,
+      "stars": 56045,
+      "forks": 7402,
       "starsInPeriod": 910
     },
     {
       "rank": 3,
+      "fullName": "opensandbox-group/OpenSandbox",
+      "url": "https://github.com/opensandbox-group/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "programmingLanguage": "Go",
+      "stars": 17277,
+      "forks": 1643,
+      "starsInPeriod": 794
+    },
+    {
+      "rank": 4,
+      "fullName": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "programmingLanguage": "Go",
+      "stars": 46998,
+      "forks": 9291,
+      "starsInPeriod": 113
+    },
+    {
+      "rank": 5,
+      "fullName": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "programmingLanguage": "Go",
+      "stars": 1219,
+      "forks": 156,
+      "starsInPeriod": 1124
+    },
+    {
+      "rank": 6,
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 119666,
+      "forks": 6972,
+      "starsInPeriod": 1769
+    },
+    {
+      "rank": 7,
+      "fullName": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "programmingLanguage": "Go",
+      "stars": 29288,
+      "forks": 2733,
+      "starsInPeriod": 378
+    },
+    {
+      "rank": 8,
+      "fullName": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+      "programmingLanguage": "Go",
+      "stars": 27311,
+      "forks": 1178,
+      "starsInPeriod": 415
+    },
+    {
+      "rank": 9,
+      "fullName": "router-for-me/CLIProxyAPI",
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+      "programmingLanguage": "Go",
+      "stars": 58492,
+      "forks": 8976,
+      "starsInPeriod": 756
+    },
+    {
+      "rank": 10,
+      "fullName": "gosom/google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "programmingLanguage": "Go",
+      "stars": 8014,
+      "forks": 1263,
+      "starsInPeriod": 600
+    },
+    {
+      "rank": 11,
+      "fullName": "sundowndev/phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "programmingLanguage": "Go",
+      "stars": 18553,
+      "forks": 6326,
+      "starsInPeriod": 150
+    },
+    {
+      "rank": 12,
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "programmingLanguage": "Go",
+      "stars": 30994,
+      "forks": 2371,
+      "starsInPeriod": 278
+    },
+    {
+      "rank": 13,
       "fullName": "etcd-io/etcd",
       "url": "https://github.com/etcd-io/etcd",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
@@ -39,184 +139,64 @@
       "starsInPeriod": 327
     },
     {
-      "rank": 4,
-      "fullName": "dsx-ai-factory/nvke",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "programmingLanguage": "Go",
-      "stars": 1210,
-      "forks": 156,
-      "starsInPeriod": 1124
-    },
-    {
-      "rank": 5,
-      "fullName": "docker/compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
-      "programmingLanguage": "Go",
-      "stars": 38814,
-      "forks": 5945,
-      "starsInPeriod": 220
-    },
-    {
-      "rank": 6,
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "programmingLanguage": "Go",
-      "stars": 119507,
-      "forks": 6950,
-      "starsInPeriod": 1769
-    },
-    {
-      "rank": 7,
-      "fullName": "cli/cli",
-      "url": "https://github.com/cli/cli",
-      "description": "GitHub’s official command line tool",
-      "programmingLanguage": "Go",
-      "stars": 46996,
-      "forks": 9288,
-      "starsInPeriod": 113
-    },
-    {
-      "rank": 8,
-      "fullName": "opensandbox-group/OpenSandbox",
-      "url": "https://github.com/opensandbox-group/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "programmingLanguage": "Go",
-      "stars": 17259,
-      "forks": 1642,
-      "starsInPeriod": 794
-    },
-    {
-      "rank": 9,
-      "fullName": "woodpecker-ci/woodpecker",
-      "url": "https://github.com/woodpecker-ci/woodpecker",
-      "description": "Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.",
-      "programmingLanguage": "Go",
-      "stars": 8185,
-      "forks": 745,
-      "starsInPeriod": 67
-    },
-    {
-      "rank": 10,
-      "fullName": "kubernetes/kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
-      "programmingLanguage": "Go",
-      "stars": 129041,
-      "forks": 45105,
-      "starsInPeriod": 567
-    },
-    {
-      "rank": 11,
-      "fullName": "trufflesecurity/trufflehog",
-      "url": "https://github.com/trufflesecurity/trufflehog",
-      "description": "Find, verify, and analyze leaked credentials",
-      "programmingLanguage": "Go",
-      "stars": 29263,
-      "forks": 2729,
-      "starsInPeriod": 378
-    },
-    {
-      "rank": 12,
-      "fullName": "prometheus/alertmanager",
-      "url": "https://github.com/prometheus/alertmanager",
-      "description": "Prometheus Alertmanager",
-      "programmingLanguage": "Go",
-      "stars": 8700,
-      "forks": 2505,
-      "starsInPeriod": 16
-    },
-    {
-      "rank": 13,
-      "fullName": "infiniflow/ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
-      "programmingLanguage": "Go",
-      "stars": 94101,
-      "forks": 11314,
-      "starsInPeriod": 542
-    },
-    {
       "rank": 14,
-      "fullName": "henrygd/beszel",
-      "url": "https://github.com/henrygd/beszel",
-      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 27279,
-      "forks": 1176,
-      "starsInPeriod": 415
+      "stars": 39306,
+      "forks": 867,
+      "starsInPeriod": 250
     },
     {
       "rank": 15,
-      "fullName": "moby/moby",
-      "url": "https://github.com/moby/moby",
-      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "fullName": "google/gvisor",
+      "url": "https://github.com/google/gvisor",
+      "description": "Application Kernel for Containers",
       "programmingLanguage": "Go",
-      "stars": 72264,
-      "forks": 19310,
-      "starsInPeriod": 236
+      "stars": 19993,
+      "forks": 2083,
+      "starsInPeriod": 106
     },
     {
       "rank": 16,
-      "fullName": "gosom/google-maps-scraper",
-      "url": "https://github.com/gosom/google-maps-scraper",
-      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "fullName": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 7987,
-      "forks": 1257,
-      "starsInPeriod": 600
+      "stars": 6582,
+      "forks": 743,
+      "starsInPeriod": 442
     },
     {
       "rank": 17,
-      "fullName": "podman-container-tools/podman",
-      "url": "https://github.com/podman-container-tools/podman",
-      "description": "Podman: A tool for managing OCI containers and pods.",
+      "fullName": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "smart charging ☀️🚘",
       "programmingLanguage": "Go",
-      "stars": 33261,
-      "forks": 3456,
-      "starsInPeriod": 76
+      "stars": 7613,
+      "forks": 1655,
+      "starsInPeriod": 85
     },
     {
       "rank": 18,
-      "fullName": "gitleaks/gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
+      "fullName": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "programmingLanguage": "Go",
-      "stars": 30978,
-      "forks": 2369,
-      "starsInPeriod": 278
+      "stars": 42884,
+      "forks": 6146,
+      "starsInPeriod": 247
     },
     {
       "rank": 19,
-      "fullName": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
+      "fullName": "Gentleman-Programming/gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "programmingLanguage": "Go",
-      "stars": 139882,
-      "forks": 20276,
-      "starsInPeriod": 537
-    },
-    {
-      "rank": 20,
-      "fullName": "googleapis/google-cloud-go",
-      "url": "https://github.com/googleapis/google-cloud-go",
-      "description": "Google Cloud Client Libraries for Go.",
-      "programmingLanguage": "Go",
-      "stars": 4557,
-      "forks": 1604,
-      "starsInPeriod": 6
-    },
-    {
-      "rank": 21,
-      "fullName": "openchoreo/openchoreo",
-      "url": "https://github.com/openchoreo/openchoreo",
-      "description": "OpenChoreo is an internal developer platform for Kubernetes",
-      "programmingLanguage": "Go",
-      "stars": 1892,
-      "forks": 286,
-      "starsInPeriod": 84
+      "stars": 9113,
+      "forks": 897,
+      "starsInPeriod": 619
     }
   ]
 }

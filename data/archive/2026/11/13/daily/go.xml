@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Fri, 13 Nov 2026 06:43:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:40:20 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-13</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-11-13T06:43:02Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-13T19:40:20Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,13 +20,29 @@
       <guid isPermaLink="true">https://github.com/Tencent/LoopForge</guid>
       <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>620</ght:stars>
-      <ght:forks>105</ght:forks>
-      <ght:starsInPeriod>184</ght:starsInPeriod>
+      <ght:stars>666</ght:stars>
+      <ght:forks>110</ght:forks>
+      <ght:starsInPeriod>174</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T06:43:02Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <description>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>50467</ght:stars>
+      <ght:forks>3746</ght:forks>
+      <ght:starsInPeriod>206</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
-      <ght:firstSeenAt>2026-11-13T06:43:02Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:02Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-13T19:40:20Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -46,20 +62,36 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>tailscale/tailcat</title>
+      <link>https://github.com/tailscale/tailcat</link>
+      <description>like netcat, but over Tailscale's data plane, without Tailscale's control plane</description>
+      <guid isPermaLink="true">https://github.com/tailscale/tailcat</guid>
+      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>9364</ght:stars>
+      <ght:forks>428</ght:forks>
+      <ght:starsInPeriod>324</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T06:43:02Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>agent-substrate/substrate</title>
       <link>https://github.com/agent-substrate/substrate</link>
       <description>Agent Substrate: the core system</description>
       <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
       <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6551</ght:stars>
-      <ght:forks>741</ght:forks>
-      <ght:starsInPeriod>84</ght:starsInPeriod>
+      <ght:stars>6582</ght:stars>
+      <ght:forks>743</ght:forks>
+      <ght:starsInPeriod>52</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
-      <ght:latestRank>3</ght:latestRank>
+      <ght:latestRank>10</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:02Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:02Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>golang/go</title>
@@ -75,6 +107,22 @@
       <ght:latestRank>4</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:02Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-13T06:43:02Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>Tencent/WeKnora</title>
+      <link>https://github.com/Tencent/WeKnora</link>
+      <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+      <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>37392</ght:stars>
+      <ght:forks>5184</ght:forks>
+      <ght:starsInPeriod>90</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:20Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -94,6 +142,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>ollama/ollama</title>
+      <link>https://github.com/ollama/ollama</link>
+      <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
+      <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>186884</ght:stars>
+      <ght:forks>19066</ght:forks>
+      <ght:starsInPeriod>134</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:20Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>kubernetes/kubernetes</title>
       <link>https://github.com/kubernetes/kubernetes</link>
       <description>Production-Grade Container Scheduling and Management</description>
@@ -110,19 +174,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>tailscale/tailcat</title>
-      <link>https://github.com/tailscale/tailcat</link>
-      <description>like netcat, but over Tailscale's data plane, without Tailscale's control plane</description>
-      <guid isPermaLink="true">https://github.com/tailscale/tailcat</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
+      <title>Gentleman-Programming/gentle-ai</title>
+      <link>https://github.com/Gentleman-Programming/gentle-ai</link>
+      <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
+      <guid isPermaLink="true">https://github.com/Gentleman-Programming/gentle-ai</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
       <ght:stars>9113</ght:stars>
-      <ght:forks>417</ght:forks>
-      <ght:starsInPeriod>173</ght:starsInPeriod>
+      <ght:forks>897</ght:forks>
+      <ght:starsInPeriod>240</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:20Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>modelcontextprotocol/go-sdk</title>
+      <link>https://github.com/modelcontextprotocol/go-sdk</link>
+      <description>The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.</description>
+      <guid isPermaLink="true">https://github.com/modelcontextprotocol/go-sdk</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5343</ght:stars>
+      <ght:forks>617</ght:forks>
+      <ght:starsInPeriod>4</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
-      <ght:firstSeenAt>2026-11-13T06:43:02Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:02Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-13T19:40:20Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -142,35 +222,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>kubescape/kubescape</title>
-      <link>https://github.com/kubescape/kubescape</link>
-      <description>Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.</description>
-      <guid isPermaLink="true">https://github.com/kubescape/kubescape</guid>
-      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>11880</ght:stars>
-      <ght:forks>1101</ght:forks>
-      <ght:starsInPeriod>8</ght:starsInPeriod>
-      <ght:bestRank>9</ght:bestRank>
-      <ght:latestRank>9</ght:latestRank>
-      <ght:firstSeenAt>2026-11-13T06:43:02Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:02Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
       <title>multica-ai/multica</title>
       <link>https://github.com/multica-ai/multica</link>
       <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
       <guid isPermaLink="true">https://github.com/multica-ai/multica</guid>
       <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>55947</ght:stars>
-      <ght:forks>7389</ght:forks>
-      <ght:starsInPeriod>148</ght:starsInPeriod>
-      <ght:bestRank>10</ght:bestRank>
-      <ght:latestRank>10</ght:latestRank>
+      <ght:stars>56045</ght:stars>
+      <ght:forks>7402</ght:forks>
+      <ght:starsInPeriod>166</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:02Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-13T06:43:02Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>kubescape/kubescape</title>
+      <link>https://github.com/kubescape/kubescape</link>
+      <description>Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.</description>
+      <guid isPermaLink="true">https://github.com/kubescape/kubescape</guid>
+      <pubDate>Fri, 13 Nov 2026 06:43:02 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>11890</ght:stars>
+      <ght:forks>1101</ght:forks>
+      <ght:starsInPeriod>23</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T06:43:02Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>hashicorp/vault</title>
+      <link>https://github.com/hashicorp/vault</link>
+      <description>A tool for secrets management, encryption as a service, and privileged access management</description>
+      <guid isPermaLink="true">https://github.com/hashicorp/vault</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>36508</ght:stars>
+      <ght:forks>4819</ght:forks>
+      <ght:starsInPeriod>5</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:20Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -190,6 +286,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>crowdsecurity/crowdsec</title>
+      <link>https://github.com/crowdsecurity/crowdsec</link>
+      <description>Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.</description>
+      <guid isPermaLink="true">https://github.com/crowdsecurity/crowdsec</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>15596</ght:stars>
+      <ght:forks>763</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:20Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>fatedier/frp</title>
       <link>https://github.com/fatedier/frp</link>
       <description>A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</description>
@@ -203,6 +315,22 @@
       <ght:latestRank>12</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:02Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-13T06:43:02Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>vernette/warpscout</title>
+      <link>https://github.com/vernette/warpscout</link>
+      <description>🛰️ Cloudflare WARP endpoint scanner - find working endpoints over wg/awg/masque and see the exit region and edge node they land on</description>
+      <guid isPermaLink="true">https://github.com/vernette/warpscout</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>645</ght:stars>
+      <ght:forks>61</ght:forks>
+      <ght:starsInPeriod>12</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:20Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -222,6 +350,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>netbirdio/netbird</title>
+      <link>https://github.com/netbirdio/netbird</link>
+      <description>NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®</description>
+      <guid isPermaLink="true">https://github.com/netbirdio/netbird</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>30972</ght:stars>
+      <ght:forks>1858</ght:forks>
+      <ght:starsInPeriod>42</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:20Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>cloudflare/cloudflared</title>
       <link>https://github.com/cloudflare/cloudflared</link>
       <description>Cloudflare Tunnel client</description>
@@ -235,6 +379,38 @@
       <ght:latestRank>14</ght:latestRank>
       <ght:firstSeenAt>2026-11-13T06:43:02Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-13T06:43:02Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>cli/cli</title>
+      <link>https://github.com/cli/cli</link>
+      <description>GitHub’s official command line tool</description>
+      <guid isPermaLink="true">https://github.com/cli/cli</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>46998</ght:stars>
+      <ght:forks>9291</ght:forks>
+      <ght:starsInPeriod>23</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:20Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>larksuite/cli</title>
+      <link>https://github.com/larksuite/cli</link>
+      <description>The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.</description>
+      <guid isPermaLink="true">https://github.com/larksuite/cli</guid>
+      <pubDate>Fri, 13 Nov 2026 19:40:20 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>18097</ght:stars>
+      <ght:forks>1380</ght:forks>
+      <ght:starsInPeriod>18</ght:starsInPeriod>
+      <ght:bestRank>16</ght:bestRank>
+      <ght:latestRank>16</ght:latestRank>
+      <ght:firstSeenAt>2026-11-13T19:40:20Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-13T19:40:20Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>

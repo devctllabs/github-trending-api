@@ -4,169 +4,169 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-11-13T06:42:42Z",
+  "observedAt": "2026-11-13T19:39:59Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "programmingLanguage": "Python",
-      "stars": 69523,
-      "forks": 10795,
-      "starsInPeriod": 415
-    },
-    {
-      "rank": 2,
-      "fullName": "openai/whisper",
-      "url": "https://github.com/openai/whisper",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "programmingLanguage": "Python",
-      "stars": 112626,
-      "forks": 13656,
-      "starsInPeriod": 113
-    },
-    {
-      "rank": 3,
       "fullName": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "programmingLanguage": "Python",
-      "stars": 71137,
-      "forks": 57169,
-      "starsInPeriod": 1294
+      "stars": 71489,
+      "forks": 57261,
+      "starsInPeriod": 272
+    },
+    {
+      "rank": 2,
+      "fullName": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "programmingLanguage": "Python",
+      "stars": 4064,
+      "forks": 857,
+      "starsInPeriod": 60
+    },
+    {
+      "rank": 3,
+      "fullName": "Tencent-Hunyuan/Hy-MT2",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+      "description": null,
+      "programmingLanguage": "Python",
+      "stars": 1751,
+      "forks": 185,
+      "starsInPeriod": 49
     },
     {
       "rank": 4,
-      "fullName": "fastapi/fastapi",
-      "url": "https://github.com/fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-      "programmingLanguage": "Python",
-      "stars": 104678,
-      "forks": 10238,
-      "starsInPeriod": 82
-    },
-    {
-      "rank": 5,
-      "fullName": "python/cpython",
-      "url": "https://github.com/python/cpython",
-      "description": "The Python programming language",
-      "programmingLanguage": "Python",
-      "stars": 78203,
-      "forks": 36584,
-      "starsInPeriod": 72
-    },
-    {
-      "rank": 6,
-      "fullName": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "programmingLanguage": "Python",
-      "stars": 7708,
-      "forks": 468,
-      "starsInPeriod": 714
-    },
-    {
-      "rank": 7,
-      "fullName": "oaustegard/claude-skills",
-      "url": "https://github.com/oaustegard/claude-skills",
-      "description": "My collection of Claude skills",
-      "programmingLanguage": "Python",
-      "stars": 377,
-      "forks": 17,
-      "starsInPeriod": 34
-    },
-    {
-      "rank": 8,
-      "fullName": "rlaope/oh-my-hermes",
-      "url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "⚚ The ultrawork agent with AI coworkers wired into you",
-      "programmingLanguage": "Python",
-      "stars": 5573,
-      "forks": 454,
-      "starsInPeriod": 79
-    },
-    {
-      "rank": 9,
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "programmingLanguage": "Python",
-      "stars": 25740,
-      "forks": 2273,
-      "starsInPeriod": 297
-    },
-    {
-      "rank": 10,
-      "fullName": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "programmingLanguage": "Python",
-      "stars": 67466,
-      "forks": 5929,
-      "starsInPeriod": 112
-    },
-    {
-      "rank": 11,
-      "fullName": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "programmingLanguage": "Python",
-      "stars": 168938,
-      "forks": 35234,
-      "starsInPeriod": 98
-    },
-    {
-      "rank": 12,
-      "fullName": "figma/mcp-server-guide",
-      "url": "https://github.com/figma/mcp-server-guide",
-      "description": "A guide on how to use the Figma MCP server",
-      "programmingLanguage": "Python",
-      "stars": 2181,
-      "forks": 215,
-      "starsInPeriod": 4
-    },
-    {
-      "rank": 13,
-      "fullName": "TheAlgorithms/Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "description": "All Algorithms implemented in Python",
-      "programmingLanguage": "Python",
-      "stars": 226072,
-      "forks": 51319,
-      "starsInPeriod": 43
-    },
-    {
-      "rank": 14,
       "fullName": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "programmingLanguage": "Python",
-      "stars": 33442,
-      "forks": 3932,
-      "starsInPeriod": 102
+      "stars": 33473,
+      "forks": 3930,
+      "starsInPeriod": 65
+    },
+    {
+      "rank": 5,
+      "fullName": "avenoxai/avenoxbeyin",
+      "url": "https://github.com/avenoxai/avenoxbeyin",
+      "description": "Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md",
+      "programmingLanguage": "Python",
+      "stars": 449,
+      "forks": 75,
+      "starsInPeriod": 46
+    },
+    {
+      "rank": 6,
+      "fullName": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily.",
+      "programmingLanguage": "Python",
+      "stars": 71346,
+      "forks": 11493,
+      "starsInPeriod": 83
+    },
+    {
+      "rank": 7,
+      "fullName": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "programmingLanguage": "Python",
+      "stars": 47165,
+      "forks": 4894,
+      "starsInPeriod": 134
+    },
+    {
+      "rank": 8,
+      "fullName": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "programmingLanguage": "Python",
+      "stars": 79576,
+      "forks": 6227,
+      "starsInPeriod": 125
+    },
+    {
+      "rank": 9,
+      "fullName": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "programmingLanguage": "Python",
+      "stars": 69845,
+      "forks": 10819,
+      "starsInPeriod": 895
+    },
+    {
+      "rank": 10,
+      "fullName": "ahujasid/mcp-for-blender",
+      "url": "https://github.com/ahujasid/mcp-for-blender",
+      "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
+      "programmingLanguage": "Python",
+      "stars": 34303,
+      "forks": 3120,
+      "starsInPeriod": 140
+    },
+    {
+      "rank": 11,
+      "fullName": "realiti4/claude-swap",
+      "url": "https://github.com/realiti4/claude-swap",
+      "description": "Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions",
+      "programmingLanguage": "Python",
+      "stars": 4691,
+      "forks": 505,
+      "starsInPeriod": 29
+    },
+    {
+      "rank": 12,
+      "fullName": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "programmingLanguage": "Python",
+      "stars": 42197,
+      "forks": 3478,
+      "starsInPeriod": 111
+    },
+    {
+      "rank": 13,
+      "fullName": "langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "programmingLanguage": "Python",
+      "stars": 44912,
+      "forks": 7744,
+      "starsInPeriod": 56
+    },
+    {
+      "rank": 14,
+      "fullName": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "programmingLanguage": "Python",
+      "stars": 5419,
+      "forks": 467,
+      "starsInPeriod": 224
     },
     {
       "rank": 15,
-      "fullName": "Qiskit/qiskit",
-      "url": "https://github.com/Qiskit/qiskit",
-      "description": "Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.",
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 7970,
-      "forks": 3126,
-      "starsInPeriod": 3
+      "stars": 25860,
+      "forks": 2291,
+      "starsInPeriod": 185
     },
     {
       "rank": 16,
-      "fullName": "NVIDIA/SkillEvaluator",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "programmingLanguage": "Python",
-      "stars": 931,
-      "forks": 113,
-      "starsInPeriod": 108
+      "stars": 67541,
+      "forks": 5936,
+      "starsInPeriod": 112
     }
   ]
 }

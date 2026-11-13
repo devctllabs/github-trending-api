@@ -4,19 +4,19 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-11-13T06:43:13Z",
+  "observedAt": "2026-11-13T19:40:31Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "fullName": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
       "programmingLanguage": "JavaScript",
-      "stars": 123648,
-      "forks": 38060,
-      "starsInPeriod": 62
+      "stars": 93782,
+      "forks": 8717,
+      "starsInPeriod": 61
     },
     {
       "rank": 2,
@@ -24,129 +24,89 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 116840,
-      "forks": 12218,
-      "starsInPeriod": 816
+      "stars": 117088,
+      "forks": 12243,
+      "starsInPeriod": 696
     },
     {
       "rank": 3,
-      "fullName": "laoma528/awesome-zhuiju-free",
-      "url": "https://github.com/laoma528/awesome-zhuiju-free",
-      "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
+      "fullName": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "programmingLanguage": "JavaScript",
-      "stars": 15441,
-      "forks": 1111,
-      "starsInPeriod": 131
+      "stars": 114919,
+      "forks": 7711,
+      "starsInPeriod": 783
     },
     {
       "rank": 4,
-      "fullName": "axios/axios",
-      "url": "https://github.com/axios/axios",
-      "description": "Promise based HTTP client for the browser and node.js",
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 109397,
-      "forks": 12019,
-      "starsInPeriod": 55
+      "stars": 302383,
+      "forks": 44604,
+      "starsInPeriod": 608
     },
     {
       "rank": 5,
-      "fullName": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "fullName": "microsoft/power-platform-skills",
+      "url": "https://github.com/microsoft/power-platform-skills",
+      "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
       "programmingLanguage": "JavaScript",
-      "stars": 60016,
-      "forks": 8768,
-      "starsInPeriod": 208
+      "stars": 1146,
+      "forks": 230,
+      "starsInPeriod": 3
     },
     {
       "rank": 6,
-      "fullName": "sveltejs/svelte",
-      "url": "https://github.com/sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "programmingLanguage": "JavaScript",
-      "stars": 88752,
-      "forks": 6064,
-      "starsInPeriod": 79
-    },
-    {
-      "rank": 7,
-      "fullName": "OpenWhispr/openwhispr",
-      "url": "https://github.com/OpenWhispr/openwhispr",
-      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
-      "programmingLanguage": "JavaScript",
-      "stars": 11462,
-      "forks": 1509,
-      "starsInPeriod": 116
-    },
-    {
-      "rank": 8,
-      "fullName": "react/react",
-      "url": "https://github.com/react/react",
-      "description": "The library for web and native user interfaces.",
-      "programmingLanguage": "JavaScript",
-      "stars": 252565,
-      "forks": 52505,
-      "starsInPeriod": 78
-    },
-    {
-      "rank": 9,
-      "fullName": "expressjs/express",
-      "url": "https://github.com/expressjs/express",
-      "description": "Fast, unopinionated, minimalist web framework for node.",
-      "programmingLanguage": "JavaScript",
-      "stars": 69675,
-      "forks": 25438,
-      "starsInPeriod": 37
-    },
-    {
-      "rank": 10,
-      "fullName": "PenglongHuang/chinese-novelist-skill",
-      "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
-      "description": "🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill",
-      "programmingLanguage": "JavaScript",
-      "stars": 4843,
-      "forks": 660,
-      "starsInPeriod": 31
-    },
-    {
-      "rank": 11,
       "fullName": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
       "programmingLanguage": "JavaScript",
-      "stars": 34008,
-      "forks": 2334,
-      "starsInPeriod": 113
+      "stars": 34046,
+      "forks": 2338,
+      "starsInPeriod": 71
     },
     {
-      "rank": 12,
-      "fullName": "Orkas-AI/Orkas",
-      "url": "https://github.com/Orkas-AI/Orkas",
-      "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+      "rank": 7,
+      "fullName": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 9315,
-      "forks": 552,
-      "starsInPeriod": 51
+      "stars": 60144,
+      "forks": 8785,
+      "starsInPeriod": 205
     },
     {
-      "rank": 13,
-      "fullName": "PavelDoGreat/WebGL-Fluid-Simulation",
-      "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
-      "description": "Play with fluids in your browser (works even on mobile)",
+      "rank": 8,
+      "fullName": "OpenWhispr/openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "programmingLanguage": "JavaScript",
-      "stars": 16838,
-      "forks": 1925,
-      "starsInPeriod": 11
+      "stars": 11501,
+      "forks": 1513,
+      "starsInPeriod": 76
     },
     {
-      "rank": 14,
-      "fullName": "tiagozip/cap",
-      "url": "https://github.com/tiagozip/cap",
-      "description": "The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.",
+      "rank": 9,
+      "fullName": "tabler/tabler-icons",
+      "url": "https://github.com/tabler/tabler-icons",
+      "description": "A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
       "programmingLanguage": "JavaScript",
-      "stars": 8365,
-      "forks": 654,
-      "starsInPeriod": 25
+      "stars": 22637,
+      "forks": 1275,
+      "starsInPeriod": 20
+    },
+    {
+      "rank": 10,
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "programmingLanguage": "JavaScript",
+      "stars": 190283,
+      "forks": 10622,
+      "starsInPeriod": 625
     }
   ]
 }
