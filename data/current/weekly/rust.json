@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-11-14T06:20:15Z",
+  "observedAt": "2026-11-14T17:59:41Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,59 +14,59 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 50809,
-      "forks": 3536,
+      "stars": 51091,
+      "forks": 3563,
       "starsInPeriod": 4360
     },
     {
       "rank": 2,
-      "fullName": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "programmingLanguage": "Rust",
-      "stars": 94985,
-      "forks": 11697,
-      "starsInPeriod": 2117
-    },
-    {
-      "rank": 3,
       "fullName": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 23416,
-      "forks": 1733,
+      "stars": 23677,
+      "forks": 1762,
       "starsInPeriod": 5408
     },
     {
-      "rank": 4,
-      "fullName": "herdrdev/herdr",
-      "url": "https://github.com/herdrdev/herdr",
-      "description": "the runtime your coding agents live on",
-      "programmingLanguage": "Rust",
-      "stars": 50881,
-      "forks": 4115,
-      "starsInPeriod": 2423
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "fullName": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "programmingLanguage": "Rust",
-      "stars": 104250,
-      "forks": 13564,
+      "stars": 104275,
+      "forks": 13565,
       "starsInPeriod": 1639
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "fullName": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "programmingLanguage": "Rust",
+      "stars": 37438,
+      "forks": 4946,
+      "starsInPeriod": 683
+    },
+    {
+      "rank": 5,
       "fullName": "astral-sh/ruff",
       "url": "https://github.com/astral-sh/ruff",
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 51228,
-      "forks": 2666,
+      "stars": 51232,
+      "forks": 2668,
       "starsInPeriod": 940
+    },
+    {
+      "rank": 6,
+      "fullName": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "the runtime your coding agents live on",
+      "programmingLanguage": "Rust",
+      "stars": 50948,
+      "forks": 4123,
+      "starsInPeriod": 2423
     },
     {
       "rank": 7,
@@ -74,29 +74,29 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 20635,
-      "forks": 1260,
+      "stars": 20678,
+      "forks": 1264,
       "starsInPeriod": 1012
     },
     {
       "rank": 8,
+      "fullName": "CapSoftware/Cap",
+      "url": "https://github.com/CapSoftware/Cap",
+      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "programmingLanguage": "Rust",
+      "stars": 25021,
+      "forks": 2353,
+      "starsInPeriod": 449
+    },
+    {
+      "rank": 9,
       "fullName": "rustdesk/rustdesk",
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 129385,
-      "forks": 20675,
+      "stars": 129448,
+      "forks": 20698,
       "starsInPeriod": 980
-    },
-    {
-      "rank": 9,
-      "fullName": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "programmingLanguage": "Rust",
-      "stars": 12515,
-      "forks": 495,
-      "starsInPeriod": 766
     },
     {
       "rank": 10,
@@ -104,8 +104,8 @@
       "url": "https://github.com/tokio-rs/topcoat",
       "description": "A batteries-included framework for building web apps",
       "programmingLanguage": "Rust",
-      "stars": 7203,
-      "forks": 325,
+      "stars": 7217,
+      "forks": 326,
       "starsInPeriod": 868
     },
     {
@@ -114,8 +114,8 @@
       "url": "https://github.com/GyulyVGC/sniffnet",
       "description": "Comfortably monitor your network traffic 🕵️‍♂️",
       "programmingLanguage": "Rust",
-      "stars": 42740,
-      "forks": 2008,
+      "stars": 42773,
+      "forks": 2009,
       "starsInPeriod": 774
     },
     {
@@ -124,29 +124,19 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "programmingLanguage": "Rust",
-      "stars": 135220,
-      "forks": 21445,
+      "stars": 135284,
+      "forks": 21458,
       "starsInPeriod": 1929
     },
     {
       "rank": 13,
-      "fullName": "windmill-labs/windmill",
-      "url": "https://github.com/windmill-labs/windmill",
-      "description": "Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.",
+      "fullName": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "programmingLanguage": "Rust",
-      "stars": 18578,
-      "forks": 1154,
-      "starsInPeriod": 151
-    },
-    {
-      "rank": 14,
-      "fullName": "tw93/Pake",
-      "url": "https://github.com/tw93/Pake",
-      "description": "Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.",
-      "programmingLanguage": "Rust",
-      "stars": 63575,
-      "forks": 13004,
-      "starsInPeriod": 725
+      "stars": 10078,
+      "forks": 444,
+      "starsInPeriod": 286
     }
   ]
 }

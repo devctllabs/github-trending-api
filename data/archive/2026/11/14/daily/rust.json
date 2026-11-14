@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-11-14T06:20:11Z",
+  "updatedAt": "2026-11-14T17:59:38Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,14 +14,42 @@
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "programmingLanguage": "Rust",
-      "stars": 37355,
-      "forks": 4944,
-      "starsInPeriod": 97,
+      "stars": 37438,
+      "forks": 4946,
+      "starsInPeriod": 275,
+      "bestRank": 1,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-14T06:20:11Z",
+      "lastSeenAt": "2026-11-14T17:59:38Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "martin-olivier/airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
+      "programmingLanguage": "Rust",
+      "stars": 5663,
+      "forks": 946,
+      "starsInPeriod": 269,
       "bestRank": 1,
       "latestRank": 1,
-      "firstSeenAt": "2026-11-14T06:20:11Z",
-      "lastSeenAt": "2026-11-14T06:20:11Z",
+      "firstSeenAt": "2026-11-14T17:59:38Z",
+      "lastSeenAt": "2026-11-14T17:59:38Z",
       "appearances": 1
+    },
+    {
+      "fullName": "ModernRelay/omnigraph",
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "description": "Object-storage native graph database with branching and typed ontology",
+      "programmingLanguage": "Rust",
+      "stars": 2378,
+      "forks": 302,
+      "starsInPeriod": 212,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-11-14T06:20:11Z",
+      "lastSeenAt": "2026-11-14T17:59:38Z",
+      "appearances": 2
     },
     {
       "fullName": "rustdesk/rustdesk",
@@ -49,6 +77,20 @@
       "latestRank": 3,
       "firstSeenAt": "2026-11-14T06:20:11Z",
       "lastSeenAt": "2026-11-14T06:20:11Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "verus-lang/verus",
+      "url": "https://github.com/verus-lang/verus",
+      "description": "Verified Rust for low-level systems code",
+      "programmingLanguage": "Rust",
+      "stars": 3777,
+      "forks": 264,
+      "starsInPeriod": 20,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-11-14T17:59:38Z",
+      "lastSeenAt": "2026-11-14T17:59:38Z",
       "appearances": 1
     },
     {
@@ -80,6 +122,20 @@
       "appearances": 1
     },
     {
+      "fullName": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "programmingLanguage": "Rust",
+      "stars": 56609,
+      "forks": 6590,
+      "starsInPeriod": 72,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-14T17:59:38Z",
+      "lastSeenAt": "2026-11-14T17:59:38Z",
+      "appearances": 1
+    },
+    {
       "fullName": "zellij-org/zellij",
       "url": "https://github.com/zellij-org/zellij",
       "description": "A terminal workspace with batteries included",
@@ -94,17 +150,31 @@
       "appearances": 1
     },
     {
-      "fullName": "ModernRelay/omnigraph",
-      "url": "https://github.com/ModernRelay/omnigraph",
-      "description": "Object-storage native graph database with branching and typed ontology",
+      "fullName": "zeronsh/zeron",
+      "url": "https://github.com/zeronsh/zeron",
+      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "programmingLanguage": "Rust",
-      "stars": 2277,
-      "forks": 294,
-      "starsInPeriod": 160,
+      "stars": 3657,
+      "forks": 372,
+      "starsInPeriod": 60,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-14T17:59:38Z",
+      "lastSeenAt": "2026-11-14T17:59:38Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "rust-lang/rust-clippy",
+      "url": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "programmingLanguage": "Rust",
+      "stars": 13645,
+      "forks": 2249,
+      "starsInPeriod": 4,
       "bestRank": 7,
       "latestRank": 7,
-      "firstSeenAt": "2026-11-14T06:20:11Z",
-      "lastSeenAt": "2026-11-14T06:20:11Z",
+      "firstSeenAt": "2026-11-14T17:59:38Z",
+      "lastSeenAt": "2026-11-14T17:59:38Z",
       "appearances": 1
     },
     {
@@ -122,6 +192,20 @@
       "appearances": 1
     },
     {
+      "fullName": "lance-format/lance",
+      "url": "https://github.com/lance-format/lance",
+      "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "programmingLanguage": "Rust",
+      "stars": 7299,
+      "forks": 938,
+      "starsInPeriod": 6,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-14T17:59:38Z",
+      "lastSeenAt": "2026-11-14T17:59:38Z",
+      "appearances": 1
+    },
+    {
       "fullName": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
@@ -133,6 +217,20 @@
       "latestRank": 9,
       "firstSeenAt": "2026-11-14T06:20:11Z",
       "lastSeenAt": "2026-11-14T06:20:11Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "trymirai/uzu",
+      "url": "https://github.com/trymirai/uzu",
+      "description": "A high-performance inference engine for AI models",
+      "programmingLanguage": "Rust",
+      "stars": 3331,
+      "forks": 238,
+      "starsInPeriod": 17,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-14T17:59:38Z",
+      "lastSeenAt": "2026-11-14T17:59:38Z",
       "appearances": 1
     },
     {

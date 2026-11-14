@@ -4,109 +4,99 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-14T06:20:11Z",
+  "observedAt": "2026-11-14T17:59:38Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
+      "fullName": "martin-olivier/airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
       "programmingLanguage": "Rust",
-      "stars": 37355,
-      "forks": 4944,
-      "starsInPeriod": 97
+      "stars": 5663,
+      "forks": 946,
+      "starsInPeriod": 269
     },
     {
       "rank": 2,
-      "fullName": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "programmingLanguage": "Rust",
-      "stars": 129385,
-      "forks": 20675,
-      "starsInPeriod": 146
-    },
-    {
-      "rank": 3,
-      "fullName": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
-      "programmingLanguage": "Rust",
-      "stars": 154286,
-      "forks": 10119,
-      "starsInPeriod": 315
-    },
-    {
-      "rank": 4,
-      "fullName": "tw93/Pake",
-      "url": "https://github.com/tw93/Pake",
-      "description": "Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.",
-      "programmingLanguage": "Rust",
-      "stars": 63575,
-      "forks": 13004,
-      "starsInPeriod": 102
-    },
-    {
-      "rank": 5,
-      "fullName": "ShayanAbbas1/dbdelve",
-      "url": "https://github.com/ShayanAbbas1/dbdelve",
-      "description": "Fast and lightweight DB Client made in Rust and GPUI.",
-      "programmingLanguage": "Rust",
-      "stars": 1312,
-      "forks": 70,
-      "starsInPeriod": 106
-    },
-    {
-      "rank": 6,
-      "fullName": "zellij-org/zellij",
-      "url": "https://github.com/zellij-org/zellij",
-      "description": "A terminal workspace with batteries included",
-      "programmingLanguage": "Rust",
-      "stars": 36044,
-      "forks": 1535,
-      "starsInPeriod": 32
-    },
-    {
-      "rank": 7,
       "fullName": "ModernRelay/omnigraph",
       "url": "https://github.com/ModernRelay/omnigraph",
       "description": "Object-storage native graph database with branching and typed ontology",
       "programmingLanguage": "Rust",
-      "stars": 2277,
-      "forks": 294,
-      "starsInPeriod": 160
+      "stars": 2378,
+      "forks": 302,
+      "starsInPeriod": 212
+    },
+    {
+      "rank": 3,
+      "fullName": "verus-lang/verus",
+      "url": "https://github.com/verus-lang/verus",
+      "description": "Verified Rust for low-level systems code",
+      "programmingLanguage": "Rust",
+      "stars": 3777,
+      "forks": 264,
+      "starsInPeriod": 20
+    },
+    {
+      "rank": 4,
+      "fullName": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "programmingLanguage": "Rust",
+      "stars": 37438,
+      "forks": 4946,
+      "starsInPeriod": 275
+    },
+    {
+      "rank": 5,
+      "fullName": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "programmingLanguage": "Rust",
+      "stars": 56609,
+      "forks": 6590,
+      "starsInPeriod": 72
+    },
+    {
+      "rank": 6,
+      "fullName": "zeronsh/zeron",
+      "url": "https://github.com/zeronsh/zeron",
+      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
+      "programmingLanguage": "Rust",
+      "stars": 3657,
+      "forks": 372,
+      "starsInPeriod": 60
+    },
+    {
+      "rank": 7,
+      "fullName": "rust-lang/rust-clippy",
+      "url": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "programmingLanguage": "Rust",
+      "stars": 13645,
+      "forks": 2249,
+      "starsInPeriod": 4
     },
     {
       "rank": 8,
-      "fullName": "rustfs/rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "fullName": "lance-format/lance",
+      "url": "https://github.com/lance-format/lance",
+      "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
       "programmingLanguage": "Rust",
-      "stars": 36069,
-      "forks": 1666,
-      "starsInPeriod": 44
+      "stars": 7299,
+      "forks": 938,
+      "starsInPeriod": 6
     },
     {
       "rank": 9,
-      "fullName": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "fullName": "trymirai/uzu",
+      "url": "https://github.com/trymirai/uzu",
+      "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 86524,
-      "forks": 5544,
-      "starsInPeriod": 123
-    },
-    {
-      "rank": 10,
-      "fullName": "aimod-cc/Agent2API",
-      "url": "https://github.com/aimod-cc/Agent2API",
-      "description": "Local AI routing gateway with Agent client takeover — reuse existing client logins, call 50+ AI clients through one base URL, with unified OpenAI / Anthropic / Images APIs, multi-account routing, check-in, balance and request reports · 本地 AI 路由网关 + Agent 客户端接管：复用各家客户端登录态，一个 base_url 调用 50+ 家模型额度，统一 OpenAI / Anthropic / 生图接口，多账号选路、签到、余额与请求报表一体管理",
-      "programmingLanguage": "Rust",
-      "stars": 2275,
-      "forks": 601,
-      "starsInPeriod": 59
+      "stars": 3331,
+      "forks": 238,
+      "starsInPeriod": 17
     }
   ]
 }

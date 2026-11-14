@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — all</title>
     <link>https://github.com/trending</link>
     <description>GitHub Trending — daily — all</description>
-    <lastBuildDate>Sat, 14 Nov 2026 06:19:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 17:59:18 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-14</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>all</ght:language>
-    <ght:updatedAt>2026-11-14T06:19:52Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-14T17:59:18Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,14 +20,30 @@
       <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
       <pubDate>Sat, 14 Nov 2026 06:19:52 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>50819</ght:stars>
-      <ght:forks>3784</ght:forks>
-      <ght:starsInPeriod>215</ght:starsInPeriod>
+      <ght:stars>51255</ght:stars>
+      <ght:forks>3834</ght:forks>
+      <ght:starsInPeriod>897</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>backnotprop/plannotator</title>
+      <link>https://github.com/backnotprop/plannotator</link>
+      <description>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.</description>
+      <guid isPermaLink="true">https://github.com/backnotprop/plannotator</guid>
+      <pubDate>Sat, 14 Nov 2026 06:19:52 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>10895</ght:stars>
+      <ght:forks>828</ght:forks>
+      <ght:starsInPeriod>412</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
       <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-14T06:19:52Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>GoogleChrome/modern-web-guidance-src</title>
@@ -36,14 +52,14 @@
       <guid isPermaLink="true">https://github.com/GoogleChrome/modern-web-guidance-src</guid>
       <pubDate>Sat, 14 Nov 2026 06:19:52 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>5061</ght:stars>
-      <ght:forks>277</ght:forks>
-      <ght:starsInPeriod>1925</ght:starsInPeriod>
+      <ght:stars>5689</ght:stars>
+      <ght:forks>315</ght:forks>
+      <ght:starsInPeriod>1225</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
       <ght:latestRank>2</ght:latestRank>
       <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-14T06:19:52Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>openai/codex-security</title>
@@ -60,6 +76,38 @@
       <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-14T06:19:52Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>tradermonty/claude-trading-skills</title>
+      <link>https://github.com/tradermonty/claude-trading-skills</link>
+      <description>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.</description>
+      <guid isPermaLink="true">https://github.com/tradermonty/claude-trading-skills</guid>
+      <pubDate>Sat, 14 Nov 2026 06:19:52 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>4622</ght:stars>
+      <ght:forks>911</ght:forks>
+      <ght:starsInPeriod>556</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>ChromeDevTools/chrome-devtools-mcp</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <description>Chrome DevTools for coding agents</description>
+      <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+      <pubDate>Sat, 14 Nov 2026 06:19:52 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>56154</ght:stars>
+      <ght:forks>4665</ght:forks>
+      <ght:starsInPeriod>673</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>ZhuLinsen/daily_stock_analysis</title>
@@ -84,29 +132,29 @@
       <guid isPermaLink="true">https://github.com/we-promise/sure</guid>
       <pubDate>Sat, 14 Nov 2026 06:19:52 GMT</pubDate>
       <ght:programmingLanguage>Ruby</ght:programmingLanguage>
-      <ght:stars>14878</ght:stars>
-      <ght:forks>1132</ght:forks>
-      <ght:starsInPeriod>925</ght:starsInPeriod>
+      <ght:stars>15155</ght:stars>
+      <ght:forks>1155</ght:forks>
+      <ght:starsInPeriod>659</ght:starsInPeriod>
       <ght:bestRank>5</ght:bestRank>
-      <ght:latestRank>5</ght:latestRank>
+      <ght:latestRank>12</ght:latestRank>
       <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-14T06:19:52Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
-      <title>backnotprop/plannotator</title>
-      <link>https://github.com/backnotprop/plannotator</link>
-      <description>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.</description>
-      <guid isPermaLink="true">https://github.com/backnotprop/plannotator</guid>
-      <pubDate>Sat, 14 Nov 2026 06:19:52 GMT</pubDate>
+      <title>QwenLM/qwen-code</title>
+      <link>https://github.com/QwenLM/qwen-code</link>
+      <description>An open-source AI coding agent that lives in your terminal.</description>
+      <guid isPermaLink="true">https://github.com/QwenLM/qwen-code</guid>
+      <pubDate>Sat, 14 Nov 2026 17:59:18 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>10557</ght:stars>
-      <ght:forks>791</ght:forks>
-      <ght:starsInPeriod>108</ght:starsInPeriod>
+      <ght:stars>30238</ght:stars>
+      <ght:forks>3433</ght:forks>
+      <ght:starsInPeriod>116</ght:starsInPeriod>
       <ght:bestRank>6</ght:bestRank>
       <ght:latestRank>6</ght:latestRank>
-      <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-14T06:19:52Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-14T17:59:18Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -116,13 +164,29 @@
       <guid isPermaLink="true">https://github.com/louislam/uptime-kuma</guid>
       <pubDate>Sat, 14 Nov 2026 06:19:52 GMT</pubDate>
       <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>93956</ght:stars>
-      <ght:forks>8728</ght:forks>
-      <ght:starsInPeriod>71</ght:starsInPeriod>
+      <ght:stars>94145</ght:stars>
+      <ght:forks>8748</ght:forks>
+      <ght:starsInPeriod>432</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>dream-num/univer</title>
+      <link>https://github.com/dream-num/univer</link>
+      <description>Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.</description>
+      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
+      <pubDate>Sat, 14 Nov 2026 17:59:18 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>24355</ght:stars>
+      <ght:forks>2123</ght:forks>
+      <ght:starsInPeriod>495</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
-      <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-14T06:19:52Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-14T17:59:18Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -142,19 +206,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>tradermonty/claude-trading-skills</title>
-      <link>https://github.com/tradermonty/claude-trading-skills</link>
-      <description>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.</description>
-      <guid isPermaLink="true">https://github.com/tradermonty/claude-trading-skills</guid>
-      <pubDate>Sat, 14 Nov 2026 06:19:52 GMT</pubDate>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>4292</ght:stars>
-      <ght:forks>880</ght:forks>
-      <ght:starsInPeriod>69</ght:starsInPeriod>
+      <title>ag-ui-protocol/ag-ui</title>
+      <link>https://github.com/ag-ui-protocol/ag-ui</link>
+      <description>AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.</description>
+      <guid isPermaLink="true">https://github.com/ag-ui-protocol/ag-ui</guid>
+      <pubDate>Sat, 14 Nov 2026 17:59:18 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>17259</ght:stars>
+      <ght:forks>1590</ght:forks>
+      <ght:starsInPeriod>9</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-11-14T17:59:18Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>ashhart/TensorFold</title>
+      <link>https://github.com/ashhart/TensorFold</link>
+      <description>LLM Inference Engine for Metal, CUDA and Vulkan.</description>
+      <guid isPermaLink="true">https://github.com/ashhart/TensorFold</guid>
+      <pubDate>Sat, 14 Nov 2026 17:59:18 GMT</pubDate>
+      <ght:programmingLanguage>Zig</ght:programmingLanguage>
+      <ght:stars>2118</ght:stars>
+      <ght:forks>417</ght:forks>
+      <ght:starsInPeriod>53</ght:starsInPeriod>
       <ght:bestRank>9</ght:bestRank>
       <ght:latestRank>9</ght:latestRank>
-      <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-14T06:19:52Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-14T17:59:18Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -174,35 +254,67 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>JuliusBrussee/caveman</title>
+      <link>https://github.com/JuliusBrussee/caveman</link>
+      <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
+      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
+      <pubDate>Sat, 14 Nov 2026 17:59:18 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>119922</ght:stars>
+      <ght:forks>6994</ght:forks>
+      <ght:starsInPeriod>227</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-11-14T17:59:18Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>Likely7/Veyra-NRVideo</title>
       <link>https://github.com/Likely7/Veyra-NRVideo</link>
       <description>Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.</description>
       <guid isPermaLink="true">https://github.com/Likely7/Veyra-NRVideo</guid>
       <pubDate>Sat, 14 Nov 2026 06:19:52 GMT</pubDate>
       <ght:programmingLanguage>C++</ght:programmingLanguage>
-      <ght:stars>1711</ght:stars>
-      <ght:forks>76</ght:forks>
-      <ght:starsInPeriod>256</ght:starsInPeriod>
+      <ght:stars>1979</ght:stars>
+      <ght:forks>99</ght:forks>
+      <ght:starsInPeriod>423</ght:starsInPeriod>
       <ght:bestRank>11</ght:bestRank>
-      <ght:latestRank>11</ght:latestRank>
+      <ght:latestRank>14</ght:latestRank>
       <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-14T06:19:52Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>Tencent/LoopForge</title>
+      <link>https://github.com/Tencent/LoopForge</link>
+      <description>Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.</description>
+      <guid isPermaLink="true">https://github.com/Tencent/LoopForge</guid>
+      <pubDate>Sat, 14 Nov 2026 17:59:18 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>796</ght:stars>
+      <ght:forks>135</ght:forks>
+      <ght:starsInPeriod>101</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-11-14T17:59:18Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>ChromeDevTools/chrome-devtools-mcp</title>
-      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-      <description>Chrome DevTools for coding agents</description>
-      <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
-      <pubDate>Sat, 14 Nov 2026 06:19:52 GMT</pubDate>
-      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>55651</ght:stars>
-      <ght:forks>4614</ght:forks>
-      <ght:starsInPeriod>67</ght:starsInPeriod>
-      <ght:bestRank>12</ght:bestRank>
-      <ght:latestRank>12</ght:latestRank>
-      <ght:firstSeenAt>2026-11-14T06:19:52Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-14T06:19:52Z</ght:lastSeenAt>
+      <title>martin-olivier/airgorah</title>
+      <link>https://github.com/martin-olivier/airgorah</link>
+      <description>A WiFi security auditing software</description>
+      <guid isPermaLink="true">https://github.com/martin-olivier/airgorah</guid>
+      <pubDate>Sat, 14 Nov 2026 17:59:18 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>5663</ght:stars>
+      <ght:forks>946</ght:forks>
+      <ght:starsInPeriod>269</ght:starsInPeriod>
+      <ght:bestRank>15</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-11-14T17:59:18Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-14T17:59:18Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
   </channel>

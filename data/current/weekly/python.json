@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-11-14T06:20:05Z",
+  "observedAt": "2026-11-14T17:59:31Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "programmingLanguage": "Python",
-      "stars": 111303,
-      "forks": 12882,
+      "stars": 111662,
+      "forks": 12924,
       "starsInPeriod": 13364
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 194229,
-      "forks": 22850,
+      "stars": 194493,
+      "forks": 22891,
       "starsInPeriod": 6169
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/google/elephant-goldfish-model",
       "description": "Open-source plugin for designing and reviewing software with agents",
       "programmingLanguage": "Python",
-      "stars": 18726,
-      "forks": 1399,
+      "stars": 19012,
+      "forks": 1414,
       "starsInPeriod": 5560
     },
     {
@@ -44,59 +44,59 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "programmingLanguage": "Python",
-      "stars": 71849,
-      "forks": 57360,
+      "stars": 72201,
+      "forks": 57462,
       "starsInPeriod": 3778
     },
     {
       "rank": 5,
-      "fullName": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "programmingLanguage": "Python",
-      "stars": 12629,
-      "forks": 1038,
-      "starsInPeriod": 4108
-    },
-    {
-      "rank": 6,
       "fullName": "anthropics/claude-quickstarts",
       "url": "https://github.com/anthropics/claude-quickstarts",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "programmingLanguage": "Python",
-      "stars": 20886,
-      "forks": 3490,
+      "stars": 20951,
+      "forks": 3494,
       "starsInPeriod": 1731
     },
     {
-      "rank": 7,
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "programmingLanguage": "Python",
-      "stars": 24148,
-      "forks": 2006,
-      "starsInPeriod": 1442
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "fullName": "homeassistant-ai/ha-mcp",
       "url": "https://github.com/homeassistant-ai/ha-mcp",
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "programmingLanguage": "Python",
-      "stars": 7763,
-      "forks": 471,
+      "stars": 7809,
+      "forks": 474,
       "starsInPeriod": 2302
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "fullName": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "programmingLanguage": "Python",
+      "stars": 12783,
+      "forks": 1070,
+      "starsInPeriod": 4108
+    },
+    {
+      "rank": 8,
       "fullName": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "programmingLanguage": "Python",
-      "stars": 143364,
-      "forks": 22950,
+      "stars": 143535,
+      "forks": 22995,
       "starsInPeriod": 3217
+    },
+    {
+      "rank": 9,
+      "fullName": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
+      "programmingLanguage": "Python",
+      "stars": 40663,
+      "forks": 3283,
+      "starsInPeriod": 892
     },
     {
       "rank": 10,
@@ -104,49 +104,49 @@
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "programmingLanguage": "Python",
-      "stars": 20739,
-      "forks": 2206,
+      "stars": 20795,
+      "forks": 2210,
       "starsInPeriod": 707
     },
     {
       "rank": 11,
-      "fullName": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "fullName": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "programmingLanguage": "Python",
-      "stars": 102566,
-      "forks": 10680,
-      "starsInPeriod": 3846
+      "stars": 4622,
+      "forks": 911,
+      "starsInPeriod": 774
     },
     {
       "rank": 12,
-      "fullName": "The-PR-Agent/pr-agent",
-      "url": "https://github.com/The-PR-Agent/pr-agent",
-      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "programmingLanguage": "Python",
-      "stars": 16124,
-      "forks": 2193,
-      "starsInPeriod": 850
-    },
-    {
-      "rank": 13,
       "fullName": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "programmingLanguage": "Python",
-      "stars": 33497,
-      "forks": 3935,
+      "stars": 33582,
+      "forks": 3958,
       "starsInPeriod": 332
     },
     {
-      "rank": 14,
-      "fullName": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "rank": 13,
+      "fullName": "The-PR-Agent/pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "programmingLanguage": "Python",
-      "stars": 60599,
-      "forks": 7620,
-      "starsInPeriod": 1076
+      "stars": 16159,
+      "forks": 2200,
+      "starsInPeriod": 850
+    },
+    {
+      "rank": 14,
+      "fullName": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "programmingLanguage": "Python",
+      "stars": 5819,
+      "forks": 892,
+      "starsInPeriod": 326
     },
     {
       "rank": 15,
@@ -154,19 +154,29 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 25924,
-      "forks": 2300,
+      "stars": 26019,
+      "forks": 2311,
       "starsInPeriod": 1212
     },
     {
       "rank": 16,
-      "fullName": "Jakeschincariol/instagram-agent-skill",
-      "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
-      "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
+      "fullName": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "programmingLanguage": "Python",
-      "stars": 6357,
-      "forks": 1244,
-      "starsInPeriod": 1213
+      "stars": 60627,
+      "forks": 7623,
+      "starsInPeriod": 1076
+    },
+    {
+      "rank": 17,
+      "fullName": "NVIDIA/skills",
+      "url": "https://github.com/NVIDIA/skills",
+      "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+      "programmingLanguage": "Python",
+      "stars": 3987,
+      "forks": 524,
+      "starsInPeriod": 92
     }
   ]
 }
