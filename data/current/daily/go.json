@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-11-14T17:59:48Z",
+  "observedAt": "2026-11-14T22:22:58Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 51255,
-      "forks": 3834,
+      "stars": 51379,
+      "forks": 3904,
       "starsInPeriod": 897
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 119922,
-      "forks": 6994,
+      "stars": 120022,
+      "forks": 7000,
       "starsInPeriod": 227
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/Tencent/LoopForge",
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "programmingLanguage": "Go",
-      "stars": 796,
-      "forks": 135,
+      "stars": 864,
+      "forks": 211,
       "starsInPeriod": 101
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "programmingLanguage": "Go",
-      "stars": 9786,
-      "forks": 452,
+      "stars": 9816,
+      "forks": 453,
       "starsInPeriod": 490
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://github.com/netbirdio/netbird",
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "programmingLanguage": "Go",
-      "stars": 30992,
+      "stars": 30994,
       "forks": 1858,
       "starsInPeriod": 23
     },
@@ -64,8 +64,8 @@
       "url": "https://github.com/restic/restic",
       "description": "Fast, secure, efficient backup program",
       "programmingLanguage": "Go",
-      "stars": 37223,
-      "forks": 1967,
+      "stars": 37225,
+      "forks": 1968,
       "starsInPeriod": 30
     },
     {
@@ -75,7 +75,7 @@
       "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
       "programmingLanguage": "Go",
       "stars": 11899,
-      "forks": 1105,
+      "forks": 1104,
       "starsInPeriod": 12
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 39341,
-      "forks": 879,
+      "stars": 39343,
+      "forks": 880,
       "starsInPeriod": 39
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/vllm-project/semantic-router",
       "description": "An open, programmable decision layer for models and compute.",
       "programmingLanguage": "Go",
-      "stars": 6474,
-      "forks": 1120,
+      "stars": 6475,
+      "forks": 1121,
       "starsInPeriod": 7
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://github.com/getlago/lago",
       "description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
       "programmingLanguage": "Go",
-      "stars": 10849,
+      "stars": 10855,
       "forks": 790,
       "starsInPeriod": 27
     },
@@ -114,8 +114,8 @@
       "url": "https://github.com/tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "programmingLanguage": "Go",
-      "stars": 39102,
-      "forks": 3480,
+      "stars": 39109,
+      "forks": 3482,
       "starsInPeriod": 66
     },
     {
@@ -144,7 +144,7 @@
       "url": "https://github.com/projectdiscovery/nuclei",
       "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
       "programmingLanguage": "Go",
-      "stars": 32910,
+      "stars": 32915,
       "forks": 4004,
       "starsInPeriod": 41
     },
@@ -154,7 +154,7 @@
       "url": "https://github.com/opentofu/opentofu",
       "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
       "programmingLanguage": "Go",
-      "stars": 30855,
+      "stars": 30859,
       "forks": 1428,
       "starsInPeriod": 15
     }

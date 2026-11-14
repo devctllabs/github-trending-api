@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-14T17:59:38Z",
+  "observedAt": "2026-11-14T22:22:48Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/martin-olivier/airgorah",
       "description": "A WiFi security auditing software",
       "programmingLanguage": "Rust",
-      "stars": 5663,
-      "forks": 946,
+      "stars": 5808,
+      "forks": 1021,
       "starsInPeriod": 269
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/ModernRelay/omnigraph",
       "description": "Object-storage native graph database with branching and typed ontology",
       "programmingLanguage": "Rust",
-      "stars": 2378,
-      "forks": 302,
+      "stars": 2415,
+      "forks": 305,
       "starsInPeriod": 212
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://github.com/verus-lang/verus",
       "description": "Verified Rust for low-level systems code",
       "programmingLanguage": "Rust",
-      "stars": 3777,
+      "stars": 3783,
       "forks": 264,
       "starsInPeriod": 20
     },
@@ -44,8 +44,8 @@
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "programmingLanguage": "Rust",
-      "stars": 37438,
-      "forks": 4946,
+      "stars": 37441,
+      "forks": 4947,
       "starsInPeriod": 275
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "programmingLanguage": "Rust",
-      "stars": 56609,
-      "forks": 6590,
+      "stars": 56616,
+      "forks": 6589,
       "starsInPeriod": 72
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.com/zeronsh/zeron",
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "programmingLanguage": "Rust",
-      "stars": 3657,
+      "stars": 3662,
       "forks": 372,
       "starsInPeriod": 60
     },
@@ -74,7 +74,7 @@
       "url": "https://github.com/rust-lang/rust-clippy",
       "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
       "programmingLanguage": "Rust",
-      "stars": 13645,
+      "stars": 13648,
       "forks": 2249,
       "starsInPeriod": 4
     },
@@ -84,9 +84,9 @@
       "url": "https://github.com/lance-format/lance",
       "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
       "programmingLanguage": "Rust",
-      "stars": 7299,
+      "stars": 7303,
       "forks": 938,
-      "starsInPeriod": 6
+      "starsInPeriod": 12
     },
     {
       "rank": 9,
@@ -94,7 +94,7 @@
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "programmingLanguage": "Rust",
-      "stars": 3331,
+      "stars": 3334,
       "forks": 238,
       "starsInPeriod": 17
     }
