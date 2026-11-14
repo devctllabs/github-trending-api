@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=monthly",
-  "observedAt": "2026-11-13T19:39:55Z",
+  "observedAt": "2026-11-14T06:19:58Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "programmingLanguage": "CSS",
-      "stars": 54445,
-      "forks": 2906,
-      "starsInPeriod": 24106
+      "stars": 54611,
+      "forks": 2916,
+      "starsInPeriod": 24631
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "programmingLanguage": "TypeScript",
-      "stars": 457301,
-      "forks": 112249,
-      "starsInPeriod": 325178
+      "stars": 458117,
+      "forks": 112379,
+      "starsInPeriod": 271084
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 71785,
-      "forks": 4780,
-      "starsInPeriod": 42602
+      "stars": 72056,
+      "forks": 4803,
+      "starsInPeriod": 42839
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "programmingLanguage": "TypeScript",
-      "stars": 116800,
-      "forks": 10136,
-      "starsInPeriod": 17162
+      "stars": 116901,
+      "forks": 10145,
+      "starsInPeriod": 17120
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/pingdotgg/t3code",
       "description": "The best way to control Claude Code, Codex and more from any computer or phone",
       "programmingLanguage": "TypeScript",
-      "stars": 59411,
-      "forks": 10787,
-      "starsInPeriod": 30926
+      "stars": 59793,
+      "forks": 10830,
+      "starsInPeriod": 32057
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 109478,
-      "forks": 6524,
-      "starsInPeriod": 29165
+      "stars": 109748,
+      "forks": 6548,
+      "starsInPeriod": 29328
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "programmingLanguage": "TypeScript",
-      "stars": 83849,
-      "forks": 7746,
-      "starsInPeriod": 22251
+      "stars": 84035,
+      "forks": 7769,
+      "starsInPeriod": 21924
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "programmingLanguage": "Python",
-      "stars": 58907,
-      "forks": 7150,
-      "starsInPeriod": 17692
+      "stars": 59006,
+      "forks": 7161,
+      "starsInPeriod": 17913
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 194084,
-      "forks": 22824,
-      "starsInPeriod": 13440
+      "stars": 194229,
+      "forks": 22850,
+      "starsInPeriod": 13734
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 28993,
-      "forks": 3697,
-      "starsInPeriod": 9819
+      "stars": 29124,
+      "forks": 3705,
+      "starsInPeriod": 10190
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "programmingLanguage": "Python",
-      "stars": 109856,
-      "forks": 12176,
-      "starsInPeriod": 49960
+      "stars": 110119,
+      "forks": 12204,
+      "starsInPeriod": 48848
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "programmingLanguage": "JavaScript",
-      "stars": 114919,
-      "forks": 7711,
-      "starsInPeriod": 19580
+      "stars": 115167,
+      "forks": 7725,
+      "starsInPeriod": 19948
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 35654,
-      "forks": 3945,
-      "starsInPeriod": 6451
+      "stars": 35687,
+      "forks": 3950,
+      "starsInPeriod": 6311
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "programmingLanguage": "Python",
-      "stars": 47165,
-      "forks": 4894,
-      "starsInPeriod": 9515
+      "stars": 47226,
+      "forks": 4901,
+      "starsInPeriod": 9580
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 50653,
-      "forks": 3523,
-      "starsInPeriod": 6529
+      "stars": 50809,
+      "forks": 3536,
+      "starsInPeriod": 6810
     }
   ]
 }

@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-11-13T19:40:24Z",
+  "observedAt": "2026-11-14T06:20:24Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "programmingLanguage": "Go",
-      "stars": 67585,
-      "forks": 11019,
-      "starsInPeriod": 835
+      "stars": 67596,
+      "forks": 11021,
+      "starsInPeriod": 686
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 56045,
-      "forks": 7402,
-      "starsInPeriod": 910
+      "stars": 56072,
+      "forks": 7407,
+      "starsInPeriod": 950
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/opensandbox-group/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "programmingLanguage": "Go",
-      "stars": 17277,
+      "stars": 17286,
       "forks": 1643,
-      "starsInPeriod": 794
+      "starsInPeriod": 804
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
       "programmingLanguage": "Go",
-      "stars": 46998,
-      "forks": 9291,
-      "starsInPeriod": 113
+      "stars": 47007,
+      "forks": 9293,
+      "starsInPeriod": 121
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/dsx-ai-factory/nvke",
       "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "programmingLanguage": "Go",
-      "stars": 1219,
-      "forks": 156,
-      "starsInPeriod": 1124
+      "stars": 1223,
+      "forks": 158,
+      "starsInPeriod": 970
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 119666,
-      "forks": 6972,
-      "starsInPeriod": 1769
+      "stars": 119732,
+      "forks": 6977,
+      "starsInPeriod": 1828
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 29288,
-      "forks": 2733,
-      "starsInPeriod": 378
+      "stars": 29301,
+      "forks": 2739,
+      "starsInPeriod": 364
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/henrygd/beszel",
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "programmingLanguage": "Go",
-      "stars": 27311,
-      "forks": 1178,
-      "starsInPeriod": 415
+      "stars": 27330,
+      "forks": 1180,
+      "starsInPeriod": 449
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/router-for-me/CLIProxyAPI",
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
       "programmingLanguage": "Go",
-      "stars": 58492,
-      "forks": 8976,
-      "starsInPeriod": 756
+      "stars": 58508,
+      "forks": 8981,
+      "starsInPeriod": 754
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 8014,
-      "forks": 1263,
-      "starsInPeriod": 600
+      "stars": 8024,
+      "forks": 1266,
+      "starsInPeriod": 603
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/sundowndev/phoneinfoga",
       "description": "Information gathering framework for phone numbers",
       "programmingLanguage": "Go",
-      "stars": 18553,
-      "forks": 6326,
-      "starsInPeriod": 150
+      "stars": 18555,
+      "forks": 6330,
+      "starsInPeriod": 147
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 30994,
-      "forks": 2371,
-      "starsInPeriod": 278
+      "stars": 31008,
+      "forks": 2373,
+      "starsInPeriod": 267
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/etcd-io/etcd",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "programmingLanguage": "Go",
-      "stars": 52602,
+      "stars": 52603,
       "forks": 10598,
-      "starsInPeriod": 327
+      "starsInPeriod": 196
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 39306,
-      "forks": 867,
-      "starsInPeriod": 250
+      "stars": 39324,
+      "forks": 872,
+      "starsInPeriod": 238
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/google/gvisor",
       "description": "Application Kernel for Containers",
       "programmingLanguage": "Go",
-      "stars": 19993,
-      "forks": 2083,
-      "starsInPeriod": 106
+      "stars": 19998,
+      "forks": 2079,
+      "starsInPeriod": 105
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 6582,
-      "forks": 743,
-      "starsInPeriod": 442
+      "stars": 6602,
+      "forks": 745,
+      "starsInPeriod": 443
     },
     {
       "rank": 17,
@@ -176,7 +176,7 @@
       "programmingLanguage": "Go",
       "stars": 7613,
       "forks": 1655,
-      "starsInPeriod": 85
+      "starsInPeriod": 86
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "programmingLanguage": "Go",
-      "stars": 42884,
-      "forks": 6146,
-      "starsInPeriod": 247
+      "stars": 42890,
+      "forks": 6149,
+      "starsInPeriod": 251
     },
     {
       "rank": 19,
@@ -194,9 +194,9 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai",
       "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "programmingLanguage": "Go",
-      "stars": 9113,
-      "forks": 897,
-      "starsInPeriod": 619
+      "stars": 9147,
+      "forks": 898,
+      "starsInPeriod": 626
     }
   ]
 }
