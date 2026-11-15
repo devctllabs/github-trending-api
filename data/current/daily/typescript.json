@@ -4,159 +4,129 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-11-15T06:28:28Z",
+  "observedAt": "2026-11-15T18:50:35Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "backnotprop/plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "programmingLanguage": "TypeScript",
-      "stars": 11339,
-      "forks": 967,
-      "starsInPeriod": 408
-    },
-    {
-      "rank": 2,
-      "fullName": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "programmingLanguage": "TypeScript",
-      "stars": 6278,
-      "forks": 463,
-      "starsInPeriod": 1231
-    },
-    {
-      "rank": 3,
-      "fullName": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "programmingLanguage": "TypeScript",
-      "stars": 56455,
-      "forks": 4779,
-      "starsInPeriod": 664
-    },
-    {
-      "rank": 4,
-      "fullName": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "programmingLanguage": "TypeScript",
-      "stars": 30415,
-      "forks": 3523,
-      "starsInPeriod": 64
-    },
-    {
-      "rank": 5,
       "fullName": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "programmingLanguage": "TypeScript",
-      "stars": 25083,
-      "forks": 2294,
-      "starsInPeriod": 495
+      "stars": 25452,
+      "forks": 2326,
+      "starsInPeriod": 1041
     },
     {
-      "rank": 6,
+      "rank": 2,
       "fullName": "ag-ui-protocol/ag-ui",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "programmingLanguage": "TypeScript",
-      "stars": 17454,
-      "forks": 1716,
-      "starsInPeriod": 9
+      "stars": 17716,
+      "forks": 1805,
+      "starsInPeriod": 393
+    },
+    {
+      "rank": 3,
+      "fullName": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "programmingLanguage": "TypeScript",
+      "stars": 9186,
+      "forks": 1112,
+      "starsInPeriod": 248
+    },
+    {
+      "rank": 4,
+      "fullName": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "programmingLanguage": "TypeScript",
+      "stars": 11730,
+      "forks": 1061,
+      "starsInPeriod": 860
+    },
+    {
+      "rank": 5,
+      "fullName": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "programmingLanguage": "TypeScript",
+      "stars": 56799,
+      "forks": 4801,
+      "starsInPeriod": 718
+    },
+    {
+      "rank": 6,
+      "fullName": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "programmingLanguage": "TypeScript",
+      "stars": 6958,
+      "forks": 576,
+      "starsInPeriod": 1220
     },
     {
       "rank": 7,
-      "fullName": "lidge-jun/opencodex",
-      "url": "https://github.com/lidge-jun/opencodex",
-      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+      "fullName": "motiondivision/motion",
+      "url": "https://github.com/motiondivision/motion",
+      "description": "A modern animation library for React and JavaScript",
       "programmingLanguage": "TypeScript",
-      "stars": 18552,
-      "forks": 1518,
-      "starsInPeriod": 51
+      "stars": 35226,
+      "forks": 1548,
+      "starsInPeriod": 74
     },
     {
       "rank": 8,
-      "fullName": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "fullName": "assistant-ui/assistant-ui",
+      "url": "https://github.com/assistant-ui/assistant-ui",
+      "description": "Typescript/React Library for AI Chat 💬🚀",
       "programmingLanguage": "TypeScript",
-      "stars": 12309,
-      "forks": 1519,
-      "starsInPeriod": 206
+      "stars": 13232,
+      "forks": 1342,
+      "starsInPeriod": 92
     },
     {
       "rank": 9,
-      "fullName": "CherryHQ/cherry-studio",
-      "url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "Your AI workspace for models, agents, and productivity.",
+      "fullName": "nolly-studio/cult-ui",
+      "url": "https://github.com/nolly-studio/cult-ui",
+      "description": "Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed.",
       "programmingLanguage": "TypeScript",
-      "stars": 53527,
-      "forks": 5223,
-      "starsInPeriod": 36
+      "stars": 7452,
+      "forks": 398,
+      "starsInPeriod": 120
     },
     {
       "rank": 10,
-      "fullName": "openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "fullName": "elder-plinius/G0DM0D3",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
       "programmingLanguage": "TypeScript",
-      "stars": 13567,
-      "forks": 1057,
-      "starsInPeriod": 595
+      "stars": 12413,
+      "forks": 2893,
+      "starsInPeriod": 67
     },
     {
       "rank": 11,
-      "fullName": "a2ui-project/a2ui",
-      "url": "https://github.com/a2ui-project/a2ui",
-      "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+      "fullName": "motion-canvas/motion-canvas",
+      "url": "https://github.com/motion-canvas/motion-canvas",
+      "description": "Visualize Your Ideas With Code",
       "programmingLanguage": "TypeScript",
-      "stars": 17384,
-      "forks": 1410,
-      "starsInPeriod": 54
+      "stars": 19946,
+      "forks": 908,
+      "starsInPeriod": 112
     },
     {
       "rank": 12,
-      "fullName": "totec448-spec/chat-on-steroids",
-      "url": "https://github.com/totec448-spec/chat-on-steroids",
-      "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+      "fullName": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "programmingLanguage": "TypeScript",
-      "stars": 5188,
-      "forks": 675,
-      "starsInPeriod": 10
-    },
-    {
-      "rank": 13,
-      "fullName": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "programmingLanguage": "TypeScript",
-      "stars": 51438,
-      "forks": 5185,
-      "starsInPeriod": 46
-    },
-    {
-      "rank": 14,
-      "fullName": "Narcooo/inkos",
-      "url": "https://github.com/Narcooo/inkos",
-      "description": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content",
-      "programmingLanguage": "TypeScript",
-      "stars": 11189,
-      "forks": 2027,
-      "starsInPeriod": 21
-    },
-    {
-      "rank": 15,
-      "fullName": "LodyAI/Lody",
-      "url": "https://github.com/LodyAI/Lody",
-      "description": "Share coding agents with your team on phone and desktop",
-      "programmingLanguage": "TypeScript",
-      "stars": 1769,
-      "forks": 190,
-      "starsInPeriod": 9
+      "stars": 52798,
+      "forks": 7395,
+      "starsInPeriod": 579
     }
   ]
 }

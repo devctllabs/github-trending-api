@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=weekly",
-  "observedAt": "2026-11-15T06:28:22Z",
+  "observedAt": "2026-11-15T18:50:29Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 117657,
-      "forks": 12310,
+      "stars": 117856,
+      "forks": 12334,
       "starsInPeriod": 3670
     },
     {
@@ -24,39 +24,39 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 60391,
-      "forks": 8805,
+      "stars": 60533,
+      "forks": 8823,
       "starsInPeriod": 1303
     },
     {
       "rank": 3,
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "programmingLanguage": "JavaScript",
-      "stars": 72760,
-      "forks": 4863,
-      "starsInPeriod": 7601
-    },
-    {
-      "rank": 4,
       "fullName": "ConardLi/garden-skills",
       "url": "https://github.com/ConardLi/garden-skills",
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "programmingLanguage": "JavaScript",
-      "stars": 15179,
-      "forks": 1735,
+      "stars": 15222,
+      "forks": 1737,
       "starsInPeriod": 576
     },
     {
-      "rank": 5,
+      "rank": 4,
       "fullName": "louislam/uptime-kuma",
       "url": "https://github.com/louislam/uptime-kuma",
       "description": "A fancy self-hosted monitoring tool",
       "programmingLanguage": "JavaScript",
-      "stars": 94316,
-      "forks": 8835,
+      "stars": 94412,
+      "forks": 8842,
       "starsInPeriod": 873
+    },
+    {
+      "rank": 5,
+      "fullName": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "programmingLanguage": "JavaScript",
+      "stars": 116074,
+      "forks": 7785,
+      "starsInPeriod": 4108
     },
     {
       "rank": 6,
@@ -64,29 +64,29 @@
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "programmingLanguage": "JavaScript",
-      "stars": 34716,
-      "forks": 6683,
+      "stars": 34827,
+      "forks": 6699,
       "starsInPeriod": 1755
     },
     {
       "rank": 7,
-      "fullName": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "fullName": "maillab/cloud-mail",
+      "url": "https://github.com/maillab/cloud-mail",
+      "description": "An all-in-one email service platform powered by Cloudflare | 基于 Cloudflare 的一站式邮箱服务平台 | Cloudflare Email 邮箱 Mail",
       "programmingLanguage": "JavaScript",
-      "stars": 115756,
-      "forks": 7772,
-      "starsInPeriod": 4108
+      "stars": 16176,
+      "forks": 23732,
+      "starsInPeriod": 634
     },
     {
       "rank": 8,
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "fullName": "expressjs/express",
+      "url": "https://github.com/expressjs/express",
+      "description": "Fast, unopinionated, minimalist web framework for node.",
       "programmingLanguage": "JavaScript",
-      "stars": 191025,
-      "forks": 10681,
-      "starsInPeriod": 4727
+      "stars": 69680,
+      "forks": 25513,
+      "starsInPeriod": 143
     }
   ]
 }

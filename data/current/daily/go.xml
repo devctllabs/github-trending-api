@@ -4,12 +4,12 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Sun, 15 Nov 2026 06:28:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:50:16 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-11-15T06:28:09Z</ght:observedAt>
+    <ght:observedAt>2026-11-15T18:50:16Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,180 +17,204 @@
       <link>https://github.com/alibaba/open-code-review</link>
       <description>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
       <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>51565</ght:stars>
-      <ght:forks>3970</ght:forks>
-      <ght:starsInPeriod>893</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>JuliusBrussee/caveman</title>
-      <link>https://github.com/JuliusBrussee/caveman</link>
-      <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
-      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>120173</ght:stars>
-      <ght:forks>7006</ght:forks>
-      <ght:starsInPeriod>227</ght:starsInPeriod>
+      <ght:stars>51902</ght:stars>
+      <ght:forks>4084</ght:forks>
+      <ght:starsInPeriod>688</ght:starsInPeriod>
     </item>
     <item>
       <title>Tencent/LoopForge</title>
       <link>https://github.com/Tencent/LoopForge</link>
       <description>Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.</description>
       <guid isPermaLink="true">https://github.com/Tencent/LoopForge</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
+      <ght:rank>2</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>1349</ght:stars>
+      <ght:forks>260</ght:forks>
+      <ght:starsInPeriod>484</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>google/ax</title>
+      <link>https://github.com/google/ax</link>
+      <description>Agent Executor (AX) is Google's open agentic orchestration runtime</description>
+      <guid isPermaLink="true">https://github.com/google/ax</guid>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
       <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1005</ght:stars>
-      <ght:forks>232</ght:forks>
-      <ght:starsInPeriod>33</ght:starsInPeriod>
+      <ght:stars>14715</ght:stars>
+      <ght:forks>793</ght:forks>
+      <ght:starsInPeriod>35</ght:starsInPeriod>
     </item>
     <item>
       <title>tailscale/tailcat</title>
       <link>https://github.com/tailscale/tailcat</link>
       <description>like netcat, but over Tailscale's data plane, without Tailscale's control plane</description>
       <guid isPermaLink="true">https://github.com/tailscale/tailcat</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
       <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>9866</ght:stars>
-      <ght:forks>458</ght:forks>
-      <ght:starsInPeriod>488</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>netbirdio/netbird</title>
-      <link>https://github.com/netbirdio/netbird</link>
-      <description>NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®</description>
-      <guid isPermaLink="true">https://github.com/netbirdio/netbird</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>31002</ght:stars>
-      <ght:forks>1858</ght:forks>
-      <ght:starsInPeriod>25</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>restic/restic</title>
-      <link>https://github.com/restic/restic</link>
-      <description>Fast, secure, efficient backup program</description>
-      <guid isPermaLink="true">https://github.com/restic/restic</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>37232</ght:stars>
-      <ght:forks>1968</ght:forks>
-      <ght:starsInPeriod>22</ght:starsInPeriod>
+      <ght:stars>9918</ght:stars>
+      <ght:forks>459</ght:forks>
+      <ght:starsInPeriod>245</ght:starsInPeriod>
     </item>
     <item>
       <title>kubescape/kubescape</title>
       <link>https://github.com/kubescape/kubescape</link>
       <description>Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.</description>
       <guid isPermaLink="true">https://github.com/kubescape/kubescape</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
-      <ght:rank>7</ght:rank>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
+      <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>11904</ght:stars>
-      <ght:forks>1104</ght:forks>
+      <ght:stars>11916</ght:stars>
+      <ght:forks>1109</ght:forks>
       <ght:starsInPeriod>13</ght:starsInPeriod>
     </item>
     <item>
-      <title>aquasecurity/trivy</title>
-      <link>https://github.com/aquasecurity/trivy</link>
-      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
-      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
-      <ght:rank>8</ght:rank>
+      <title>trustwallet/assets</title>
+      <link>https://github.com/trustwallet/assets</link>
+      <description>A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.</description>
+      <guid isPermaLink="true">https://github.com/trustwallet/assets</guid>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
+      <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>39353</ght:stars>
-      <ght:forks>880</ght:forks>
-      <ght:starsInPeriod>51</ght:starsInPeriod>
+      <ght:stars>5415</ght:stars>
+      <ght:forks>27644</ght:forks>
+      <ght:starsInPeriod>2</ght:starsInPeriod>
     </item>
     <item>
-      <title>vllm-project/semantic-router</title>
-      <link>https://github.com/vllm-project/semantic-router</link>
-      <description>An open, programmable decision layer for models and compute.</description>
-      <guid isPermaLink="true">https://github.com/vllm-project/semantic-router</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
+      <title>HuskerMinion/techo5</title>
+      <link>https://github.com/HuskerMinion/techo5</link>
+      <description>Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.</description>
+      <guid isPermaLink="true">https://github.com/HuskerMinion/techo5</guid>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
+      <ght:rank>7</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>692</ght:stars>
+      <ght:forks>117</ght:forks>
+      <ght:starsInPeriod>22</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>gravitational/teleport</title>
+      <link>https://github.com/gravitational/teleport</link>
+      <description>The easiest, and most secure way to access and protect all of your infrastructure.</description>
+      <guid isPermaLink="true">https://github.com/gravitational/teleport</guid>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
+      <ght:rank>8</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>21098</ght:stars>
+      <ght:forks>2190</ght:forks>
+      <ght:starsInPeriod>2</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>XTLS/Xray-core</title>
+      <link>https://github.com/XTLS/Xray-core</link>
+      <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
+      <guid isPermaLink="true">https://github.com/XTLS/Xray-core</guid>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
       <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6476</ght:stars>
-      <ght:forks>1121</ght:forks>
-      <ght:starsInPeriod>6</ght:starsInPeriod>
+      <ght:stars>42926</ght:stars>
+      <ght:forks>6154</ght:forks>
+      <ght:starsInPeriod>26</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>erigontech/erigon</title>
+      <link>https://github.com/erigontech/erigon</link>
+      <description>Ethereum implementation on the efficiency frontier</description>
+      <guid isPermaLink="true">https://github.com/erigontech/erigon</guid>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
+      <ght:rank>10</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>3631</ght:stars>
+      <ght:forks>1580</ght:forks>
+      <ght:starsInPeriod>3</ght:starsInPeriod>
     </item>
     <item>
       <title>getlago/lago</title>
       <link>https://github.com/getlago/lago</link>
       <description>Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics</description>
       <guid isPermaLink="true">https://github.com/getlago/lago</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
-      <ght:rank>10</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>10859</ght:stars>
-      <ght:forks>792</ght:forks>
-      <ght:starsInPeriod>20</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>tailscale/tailscale</title>
-      <link>https://github.com/tailscale/tailscale</link>
-      <description>The easiest, most secure way to use WireGuard and 2FA.</description>
-      <guid isPermaLink="true">https://github.com/tailscale/tailscale</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
       <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>39128</ght:stars>
-      <ght:forks>3484</ght:forks>
-      <ght:starsInPeriod>56</ght:starsInPeriod>
+      <ght:stars>10871</ght:stars>
+      <ght:forks>794</ght:forks>
+      <ght:starsInPeriod>25</ght:starsInPeriod>
     </item>
     <item>
-      <title>kopia/kopia</title>
-      <link>https://github.com/kopia/kopia</link>
-      <description>Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.</description>
-      <guid isPermaLink="true">https://github.com/kopia/kopia</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
+      <title>mudler/LocalAI</title>
+      <link>https://github.com/mudler/LocalAI</link>
+      <description>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</description>
+      <guid isPermaLink="true">https://github.com/mudler/LocalAI</guid>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
       <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>14703</ght:stars>
-      <ght:forks>803</ght:forks>
-      <ght:starsInPeriod>43</ght:starsInPeriod>
+      <ght:stars>50376</ght:stars>
+      <ght:forks>4608</ght:forks>
+      <ght:starsInPeriod>11</ght:starsInPeriod>
     </item>
     <item>
-      <title>wailsapp/wails</title>
-      <link>https://github.com/wailsapp/wails</link>
-      <description>Create beautiful applications using Go</description>
-      <guid isPermaLink="true">https://github.com/wailsapp/wails</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
+      <title>jaegertracing/jaeger</title>
+      <link>https://github.com/jaegertracing/jaeger</link>
+      <description>CNCF Jaeger, a Distributed Tracing Platform</description>
+      <guid isPermaLink="true">https://github.com/jaegertracing/jaeger</guid>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
       <ght:rank>13</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>37111</ght:stars>
-      <ght:forks>1935</ght:forks>
-      <ght:starsInPeriod>21</ght:starsInPeriod>
+      <ght:stars>23410</ght:stars>
+      <ght:forks>3247</ght:forks>
+      <ght:starsInPeriod />
     </item>
     <item>
-      <title>projectdiscovery/nuclei</title>
-      <link>https://github.com/projectdiscovery/nuclei</link>
-      <description>Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</description>
-      <guid isPermaLink="true">https://github.com/projectdiscovery/nuclei</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
+      <title>black-ant/Ant-Browser</title>
+      <link>https://github.com/black-ant/Ant-Browser</link>
+      <description>指纹浏览器</description>
+      <guid isPermaLink="true">https://github.com/black-ant/Ant-Browser</guid>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
       <ght:rank>14</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>32927</ght:stars>
-      <ght:forks>4005</ght:forks>
-      <ght:starsInPeriod>45</ght:starsInPeriod>
+      <ght:stars>2188</ght:stars>
+      <ght:forks>358</ght:forks>
+      <ght:starsInPeriod>10</ght:starsInPeriod>
     </item>
     <item>
-      <title>opentofu/opentofu</title>
-      <link>https://github.com/opentofu/opentofu</link>
-      <description>OpenTofu lets you declaratively manage your cloud infrastructure.</description>
-      <guid isPermaLink="true">https://github.com/opentofu/opentofu</guid>
-      <pubDate>Sun, 15 Nov 2026 06:28:09 GMT</pubDate>
+      <title>meshery/meshery</title>
+      <link>https://github.com/meshery/meshery</link>
+      <description>Meshery, the cloud native manager</description>
+      <guid isPermaLink="true">https://github.com/meshery/meshery</guid>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
       <ght:rank>15</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>30864</ght:stars>
-      <ght:forks>1429</ght:forks>
-      <ght:starsInPeriod>14</ght:starsInPeriod>
+      <ght:stars>12205</ght:stars>
+      <ght:forks>4188</ght:forks>
+      <ght:starsInPeriod>15</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>gohugoio/hugo</title>
+      <link>https://github.com/gohugoio/hugo</link>
+      <description>The world’s fastest framework for building websites.</description>
+      <guid isPermaLink="true">https://github.com/gohugoio/hugo</guid>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>90476</ght:stars>
+      <ght:forks>8463</ght:forks>
+      <ght:starsInPeriod>9</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>aldinokemal/go-whatsapp-web-multidevice</title>
+      <link>https://github.com/aldinokemal/go-whatsapp-web-multidevice</link>
+      <description>GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.</description>
+      <guid isPermaLink="true">https://github.com/aldinokemal/go-whatsapp-web-multidevice</guid>
+      <pubDate>Sun, 15 Nov 2026 18:50:16 GMT</pubDate>
+      <ght:rank>17</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>5049</ght:stars>
+      <ght:forks>1234</ght:forks>
+      <ght:starsInPeriod>8</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

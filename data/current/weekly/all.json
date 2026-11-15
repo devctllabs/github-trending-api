@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=weekly",
-  "observedAt": "2026-11-15T06:27:43Z",
+  "observedAt": "2026-11-15T18:49:49Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,109 +14,109 @@
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "programmingLanguage": "TypeScript",
-      "stars": 28291,
-      "forks": 2199,
+      "stars": 28718,
+      "forks": 2244,
       "starsInPeriod": 13660
     },
     {
       "rank": 2,
-      "fullName": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "programmingLanguage": "Python",
-      "stars": 111920,
-      "forks": 12949,
-      "starsInPeriod": 12401
-    },
-    {
-      "rank": 3,
       "fullName": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 194716,
-      "forks": 22905,
+      "stars": 195246,
+      "forks": 22954,
       "starsInPeriod": 6220
     },
     {
+      "rank": 3,
+      "fullName": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "programmingLanguage": "Python",
+      "stars": 112353,
+      "forks": 12982,
+      "starsInPeriod": 12401
+    },
+    {
       "rank": 4,
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "programmingLanguage": "Rust",
-      "stars": 51304,
-      "forks": 3583,
-      "starsInPeriod": 4601
-    },
-    {
-      "rank": 5,
-      "fullName": "google/elephant-goldfish-model",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "description": "Open-source plugin for designing and reviewing software with agents",
-      "programmingLanguage": "Python",
-      "stars": 19298,
-      "forks": 1431,
-      "starsInPeriod": 5539
-    },
-    {
-      "rank": 6,
-      "fullName": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "programmingLanguage": "TypeScript",
-      "stars": 22896,
-      "forks": 3189,
-      "starsInPeriod": 6413
-    },
-    {
-      "rank": 7,
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "programmingLanguage": "Python",
-      "stars": 72302,
-      "forks": 57500,
-      "starsInPeriod": 4526
-    },
-    {
-      "rank": 8,
-      "fullName": "google-deepmind/mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "programmingLanguage": "C++",
-      "stars": 18004,
-      "forks": 2204,
-      "starsInPeriod": 1859
-    },
-    {
-      "rank": 9,
       "fullName": "backnotprop/plannotator",
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "programmingLanguage": "TypeScript",
-      "stars": 11337,
-      "forks": 966,
+      "stars": 11730,
+      "forks": 1061,
       "starsInPeriod": 818
     },
     {
+      "rank": 5,
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "programmingLanguage": "Rust",
+      "stars": 51530,
+      "forks": 3601,
+      "starsInPeriod": 4601
+    },
+    {
+      "rank": 6,
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "programmingLanguage": "Python",
+      "stars": 72452,
+      "forks": 57563,
+      "starsInPeriod": 4526
+    },
+    {
+      "rank": 7,
+      "fullName": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "programmingLanguage": "Ruby",
+      "stars": 15630,
+      "forks": 1368,
+      "starsInPeriod": 4483
+    },
+    {
+      "rank": 8,
+      "fullName": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "programmingLanguage": "TypeScript",
+      "stars": 23221,
+      "forks": 3227,
+      "starsInPeriod": 6413
+    },
+    {
+      "rank": 9,
+      "fullName": "google/elephant-goldfish-model",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "description": "Open-source plugin for designing and reviewing software with agents",
+      "programmingLanguage": "Python",
+      "stars": 19622,
+      "forks": 1458,
+      "starsInPeriod": 5539
+    },
+    {
       "rank": 10,
+      "fullName": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "programmingLanguage": "C++",
+      "stars": 18054,
+      "forks": 2211,
+      "starsInPeriod": 1859
+    },
+    {
+      "rank": 11,
       "fullName": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 117654,
-      "forks": 12310,
+      "stars": 117856,
+      "forks": 12334,
       "starsInPeriod": 3670
-    },
-    {
-      "rank": 11,
-      "fullName": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "programmingLanguage": "Python",
-      "stars": 21004,
-      "forks": 3497,
-      "starsInPeriod": 1794
     }
   ]
 }

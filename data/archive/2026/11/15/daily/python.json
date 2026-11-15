@@ -5,64 +5,78 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "updatedAt": "2026-11-15T06:27:49Z",
+  "updatedAt": "2026-11-15T18:49:55Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
+    {
+      "fullName": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "programmingLanguage": "Python",
+      "stars": 6173,
+      "forks": 949,
+      "starsInPeriod": 221,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-11-15T06:27:49Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
+      "appearances": 2
+    },
     {
       "fullName": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "programmingLanguage": "Python",
-      "stars": 4982,
-      "forks": 1041,
-      "starsInPeriod": 553,
+      "stars": 5364,
+      "forks": 1152,
+      "starsInPeriod": 707,
       "bestRank": 1,
-      "latestRank": 1,
+      "latestRank": 2,
       "firstSeenAt": "2026-11-15T06:27:49Z",
-      "lastSeenAt": "2026-11-15T06:27:49Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-15T18:49:55Z",
+      "appearances": 2
     },
     {
       "fullName": "andrewyng/openworker",
       "url": "https://github.com/andrewyng/openworker",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 19249,
-      "forks": 2748,
-      "starsInPeriod": 100,
+      "stars": 19327,
+      "forks": 2757,
+      "starsInPeriod": 139,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 12,
       "firstSeenAt": "2026-11-15T06:27:49Z",
-      "lastSeenAt": "2026-11-15T06:27:49Z",
-      "appearances": 1
-    },
-    {
-      "fullName": "elementalsouls/Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "programmingLanguage": "Python",
-      "stars": 5859,
-      "forks": 901,
-      "starsInPeriod": 124,
-      "bestRank": 3,
-      "latestRank": 3,
-      "firstSeenAt": "2026-11-15T06:27:49Z",
-      "lastSeenAt": "2026-11-15T06:27:49Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-15T18:49:55Z",
+      "appearances": 2
     },
     {
       "fullName": "NVIDIA/SkillEvaluator",
       "url": "https://github.com/NVIDIA/SkillEvaluator",
       "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "programmingLanguage": "Python",
-      "stars": 1274,
-      "forks": 152,
-      "starsInPeriod": 133,
+      "stars": 1498,
+      "forks": 210,
+      "starsInPeriod": 205,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-11-15T06:27:49Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "bojieli/ai-infra-book",
+      "url": "https://github.com/bojieli/ai-infra-book",
+      "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
+      "programmingLanguage": "Python",
+      "stars": 7813,
+      "forks": 629,
+      "starsInPeriod": 151,
       "bestRank": 4,
       "latestRank": 4,
-      "firstSeenAt": "2026-11-15T06:27:49Z",
-      "lastSeenAt": "2026-11-15T06:27:49Z",
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
       "appearances": 1
     },
     {
@@ -80,6 +94,20 @@
       "appearances": 1
     },
     {
+      "fullName": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "programmingLanguage": "Python",
+      "stars": 33747,
+      "forks": 3981,
+      "starsInPeriod": 179,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
+      "appearances": 1
+    },
+    {
       "fullName": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
@@ -91,6 +119,20 @@
       "latestRank": 6,
       "firstSeenAt": "2026-11-15T06:27:49Z",
       "lastSeenAt": "2026-11-15T06:27:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "programmingLanguage": "Python",
+      "stars": 5921,
+      "forks": 516,
+      "starsInPeriod": 285,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
       "appearances": 1
     },
     {
@@ -108,6 +150,20 @@
       "appearances": 1
     },
     {
+      "fullName": "huytieu/COG-second-brain",
+      "url": "https://github.com/huytieu/COG-second-brain",
+      "description": "Self-evolving second brain with 35 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
+      "programmingLanguage": "Python",
+      "stars": 1476,
+      "forks": 182,
+      "starsInPeriod": 37,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
+      "appearances": 1
+    },
+    {
       "fullName": "0x0funky/agent-sprite-forge",
       "url": "https://github.com/0x0funky/agent-sprite-forge",
       "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
@@ -119,6 +175,20 @@
       "latestRank": 8,
       "firstSeenAt": "2026-11-15T06:27:49Z",
       "lastSeenAt": "2026-11-15T06:27:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "programmingLanguage": "Python",
+      "stars": 11004,
+      "forks": 1499,
+      "starsInPeriod": 135,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
       "appearances": 1
     },
     {
@@ -136,6 +206,20 @@
       "appearances": 1
     },
     {
+      "fullName": "HKUDS/AutoSwarm",
+      "url": "https://github.com/HKUDS/AutoSwarm",
+      "description": "AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.",
+      "programmingLanguage": "Python",
+      "stars": 2532,
+      "forks": 424,
+      "starsInPeriod": 56,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
+      "appearances": 1
+    },
+    {
       "fullName": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
@@ -150,6 +234,20 @@
       "appearances": 1
     },
     {
+      "fullName": "PrefectHQ/fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "programmingLanguage": "Python",
+      "stars": 28513,
+      "forks": 2605,
+      "starsInPeriod": 76,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
+      "appearances": 1
+    },
+    {
       "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
@@ -161,6 +259,20 @@
       "latestRank": 11,
       "firstSeenAt": "2026-11-15T06:27:49Z",
       "lastSeenAt": "2026-11-15T06:27:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "fqscfqj/Y2A-Auto",
+      "url": "https://github.com/fqscfqj/Y2A-Auto",
+      "description": "YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控",
+      "programmingLanguage": "Python",
+      "stars": 5009,
+      "forks": 848,
+      "starsInPeriod": 99,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
       "appearances": 1
     },
     {
@@ -192,6 +304,20 @@
       "appearances": 1
     },
     {
+      "fullName": "ManimCommunity/manim",
+      "url": "https://github.com/ManimCommunity/manim",
+      "description": "A community-maintained Python framework for creating mathematical animations.",
+      "programmingLanguage": "Python",
+      "stars": 42574,
+      "forks": 3343,
+      "starsInPeriod": 73,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
+      "appearances": 1
+    },
+    {
       "fullName": "SigmaHQ/sigma",
       "url": "https://github.com/SigmaHQ/sigma",
       "description": "Main Sigma Rule Repository",
@@ -203,6 +329,20 @@
       "latestRank": 14,
       "firstSeenAt": "2026-11-15T06:27:49Z",
       "lastSeenAt": "2026-11-15T06:27:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "programmingLanguage": "Python",
+      "stars": 38312,
+      "forks": 6239,
+      "starsInPeriod": 83,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
       "appearances": 1
     },
     {
@@ -220,6 +360,20 @@
       "appearances": 1
     },
     {
+      "fullName": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "programmingLanguage": "Python",
+      "stars": 18263,
+      "forks": 2108,
+      "starsInPeriod": 52,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
+      "appearances": 1
+    },
+    {
       "fullName": "zulip/zulip",
       "url": "https://github.com/zulip/zulip",
       "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
@@ -234,6 +388,20 @@
       "appearances": 1
     },
     {
+      "fullName": "internetarchive/openlibrary",
+      "url": "https://github.com/internetarchive/openlibrary",
+      "description": "One webpage for every book ever published!",
+      "programmingLanguage": "Python",
+      "stars": 6907,
+      "forks": 2113,
+      "starsInPeriod": 9,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
+      "appearances": 1
+    },
+    {
       "fullName": "FujiwaraChoki/supoclip",
       "url": "https://github.com/FujiwaraChoki/supoclip",
       "description": "An open-source OpusClip alternative",
@@ -245,6 +413,20 @@
       "latestRank": 17,
       "firstSeenAt": "2026-11-15T06:27:49Z",
       "lastSeenAt": "2026-11-15T06:27:49Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+      "programmingLanguage": "Python",
+      "stars": 79561,
+      "forks": 7418,
+      "starsInPeriod": 59,
+      "bestRank": 17,
+      "latestRank": 17,
+      "firstSeenAt": "2026-11-15T18:49:55Z",
+      "lastSeenAt": "2026-11-15T18:49:55Z",
       "appearances": 1
     }
   ]

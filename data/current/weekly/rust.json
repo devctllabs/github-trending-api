@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-11-15T06:28:02Z",
+  "observedAt": "2026-11-15T18:50:09Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,59 +14,59 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 51305,
-      "forks": 3583,
+      "stars": 51530,
+      "forks": 3601,
       "starsInPeriod": 4601
     },
     {
       "rank": 2,
-      "fullName": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "programmingLanguage": "Rust",
-      "stars": 23861,
-      "forks": 1776,
-      "starsInPeriod": 5171
-    },
-    {
-      "rank": 3,
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "programmingLanguage": "Rust",
-      "stars": 104311,
-      "forks": 13570,
-      "starsInPeriod": 1551
-    },
-    {
-      "rank": 4,
       "fullName": "block/buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "programmingLanguage": "Rust",
-      "stars": 37452,
-      "forks": 4948,
+      "stars": 37477,
+      "forks": 4951,
       "starsInPeriod": 687
     },
     {
+      "rank": 3,
+      "fullName": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "programmingLanguage": "Rust",
+      "stars": 24131,
+      "forks": 1793,
+      "starsInPeriod": 5171
+    },
+    {
+      "rank": 4,
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "programmingLanguage": "Rust",
+      "stars": 104350,
+      "forks": 13576,
+      "starsInPeriod": 1551
+    },
+    {
       "rank": 5,
+      "fullName": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "programmingLanguage": "Rust",
+      "stars": 7229,
+      "forks": 326,
+      "starsInPeriod": 887
+    },
+    {
+      "rank": 6,
       "fullName": "astral-sh/ruff",
       "url": "https://github.com/astral-sh/ruff",
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 51259,
-      "forks": 2683,
+      "stars": 51250,
+      "forks": 2698,
       "starsInPeriod": 594
-    },
-    {
-      "rank": 6,
-      "fullName": "herdrdev/herdr",
-      "url": "https://github.com/herdrdev/herdr",
-      "description": "the runtime your coding agents live on",
-      "programmingLanguage": "Rust",
-      "stars": 51030,
-      "forks": 4131,
-      "starsInPeriod": 2026
     },
     {
       "rank": 7,
@@ -74,19 +74,19 @@
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 20707,
-      "forks": 1266,
+      "stars": 20745,
+      "forks": 1272,
       "starsInPeriod": 914
     },
     {
       "rank": 8,
-      "fullName": "CapSoftware/Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "fullName": "zellij-org/zellij",
+      "url": "https://github.com/zellij-org/zellij",
+      "description": "A terminal workspace with batteries included",
       "programmingLanguage": "Rust",
-      "stars": 25041,
-      "forks": 2358,
-      "starsInPeriod": 446
+      "stars": 36079,
+      "forks": 1543,
+      "starsInPeriod": 160
     },
     {
       "rank": 9,
@@ -94,49 +94,39 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 129499,
-      "forks": 20711,
+      "stars": 129576,
+      "forks": 20728,
       "starsInPeriod": 980
     },
     {
       "rank": 10,
-      "fullName": "tokio-rs/topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
+      "fullName": "CapSoftware/Cap",
+      "url": "https://github.com/CapSoftware/Cap",
+      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "programmingLanguage": "Rust",
-      "stars": 7222,
-      "forks": 327,
-      "starsInPeriod": 887
+      "stars": 25069,
+      "forks": 2367,
+      "starsInPeriod": 446
     },
     {
       "rank": 11,
-      "fullName": "GyulyVGC/sniffnet",
-      "url": "https://github.com/GyulyVGC/sniffnet",
-      "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+      "fullName": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "the runtime your coding agents live on",
       "programmingLanguage": "Rust",
-      "stars": 42806,
-      "forks": 2009,
-      "starsInPeriod": 837
+      "stars": 51144,
+      "forks": 4139,
+      "starsInPeriod": 2026
     },
     {
       "rank": 12,
-      "fullName": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
+      "fullName": "ModernRelay/omnigraph",
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "description": "Object-storage native graph database with branching and typed ontology",
       "programmingLanguage": "Rust",
-      "stars": 135325,
-      "forks": 21464,
-      "starsInPeriod": 1939
-    },
-    {
-      "rank": 13,
-      "fullName": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "programmingLanguage": "Rust",
-      "stars": 10090,
-      "forks": 444,
-      "starsInPeriod": 286
+      "stars": 2562,
+      "forks": 316,
+      "starsInPeriod": 593
     }
   ]
 }
