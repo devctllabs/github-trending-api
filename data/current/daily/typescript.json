@@ -4,49 +4,49 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-11-16T06:26:02Z",
+  "observedAt": "2026-11-16T22:00:48Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-      "programmingLanguage": "TypeScript",
-      "stars": 26563,
-      "forks": 2415,
-      "starsInPeriod": 988
-    },
-    {
-      "rank": 2,
       "fullName": "ag-ui-protocol/ag-ui",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "programmingLanguage": "TypeScript",
-      "stars": 18134,
-      "forks": 1862,
-      "starsInPeriod": 355
+      "stars": 18871,
+      "forks": 1960,
+      "starsInPeriod": 790
     },
     {
-      "rank": 3,
-      "fullName": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "programmingLanguage": "TypeScript",
-      "stars": 9454,
-      "forks": 1167,
-      "starsInPeriod": 247
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "fullName": "backnotprop/plannotator",
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "programmingLanguage": "TypeScript",
-      "stars": 12036,
-      "forks": 1115,
-      "starsInPeriod": 866
+      "stars": 12489,
+      "forks": 1224,
+      "starsInPeriod": 689
+    },
+    {
+      "rank": 3,
+      "fullName": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "programmingLanguage": "TypeScript",
+      "stars": 27720,
+      "forks": 2522,
+      "starsInPeriod": 1878
+    },
+    {
+      "rank": 4,
+      "fullName": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "programmingLanguage": "TypeScript",
+      "stars": 9703,
+      "forks": 1241,
+      "starsInPeriod": 540
     },
     {
       "rank": 5,
@@ -54,89 +54,99 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "programmingLanguage": "TypeScript",
-      "stars": 57187,
-      "forks": 4824,
-      "starsInPeriod": 717
+      "stars": 57635,
+      "forks": 4849,
+      "starsInPeriod": 837
     },
     {
       "rank": 6,
-      "fullName": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "programmingLanguage": "TypeScript",
-      "stars": 7437,
-      "forks": 641,
-      "starsInPeriod": 1219
-    },
-    {
-      "rank": 7,
-      "fullName": "motiondivision/motion",
-      "url": "https://github.com/motiondivision/motion",
-      "description": "A modern animation library for React and JavaScript",
-      "programmingLanguage": "TypeScript",
-      "stars": 35242,
-      "forks": 1550,
-      "starsInPeriod": 76
-    },
-    {
-      "rank": 8,
-      "fullName": "assistant-ui/assistant-ui",
-      "url": "https://github.com/assistant-ui/assistant-ui",
-      "description": "Typescript/React Library for AI Chat 💬🚀",
-      "programmingLanguage": "TypeScript",
-      "stars": 13247,
-      "forks": 1344,
-      "starsInPeriod": 75
-    },
-    {
-      "rank": 9,
-      "fullName": "nolly-studio/cult-ui",
-      "url": "https://github.com/nolly-studio/cult-ui",
-      "description": "Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed.",
-      "programmingLanguage": "TypeScript",
-      "stars": 7472,
-      "forks": 399,
-      "starsInPeriod": 96
-    },
-    {
-      "rank": 10,
-      "fullName": "simonlin1212/Vibe-Research",
-      "url": "https://github.com/simonlin1212/Vibe-Research",
-      "description": "Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks.",
-      "programmingLanguage": "TypeScript",
-      "stars": 3739,
-      "forks": 705,
-      "starsInPeriod": 23
-    },
-    {
-      "rank": 11,
-      "fullName": "elder-plinius/G0DM0D3",
-      "url": "https://github.com/elder-plinius/G0DM0D3",
-      "description": "LIBERATED AI CHAT",
-      "programmingLanguage": "TypeScript",
-      "stars": 12463,
-      "forks": 2897,
-      "starsInPeriod": 66
-    },
-    {
-      "rank": 12,
       "fullName": "motion-canvas/motion-canvas",
       "url": "https://github.com/motion-canvas/motion-canvas",
       "description": "Visualize Your Ideas With Code",
       "programmingLanguage": "TypeScript",
-      "stars": 19963,
-      "forks": 914,
-      "starsInPeriod": 111
+      "stars": 19980,
+      "forks": 916,
+      "starsInPeriod": 39
+    },
+    {
+      "rank": 7,
+      "fullName": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "programmingLanguage": "TypeScript",
+      "stars": 7943,
+      "forks": 693,
+      "starsInPeriod": 1200
+    },
+    {
+      "rank": 8,
+      "fullName": "s0ld13rr/pentestcode",
+      "url": "https://github.com/s0ld13rr/pentestcode",
+      "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
+      "programmingLanguage": "TypeScript",
+      "stars": 1086,
+      "forks": 174,
+      "starsInPeriod": 34
+    },
+    {
+      "rank": 9,
+      "fullName": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "programmingLanguage": "TypeScript",
+      "stars": 8833,
+      "forks": 1584,
+      "starsInPeriod": 271
+    },
+    {
+      "rank": 10,
+      "fullName": "nestjs/nest",
+      "url": "https://github.com/nestjs/nest",
+      "description": "A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀",
+      "programmingLanguage": "TypeScript",
+      "stars": 77109,
+      "forks": 8726,
+      "starsInPeriod": 29
+    },
+    {
+      "rank": 11,
+      "fullName": "esengine/estella",
+      "url": "https://github.com/esengine/estella",
+      "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, playable ads, and native Android / iOS.",
+      "programmingLanguage": "TypeScript",
+      "stars": 938,
+      "forks": 195,
+      "starsInPeriod": 37
+    },
+    {
+      "rank": 12,
+      "fullName": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "programmingLanguage": "TypeScript",
+      "stars": 90771,
+      "forks": 14091,
+      "starsInPeriod": 76
     },
     {
       "rank": 13,
-      "fullName": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "fullName": "hieunc229/mailflare",
+      "url": "https://github.com/hieunc229/mailflare",
+      "description": "Email for professionals and teams",
       "programmingLanguage": "TypeScript",
-      "stars": 53010,
-      "forks": 7423,
-      "starsInPeriod": 579
+      "stars": 6662,
+      "forks": 1137,
+      "starsInPeriod": 253
+    },
+    {
+      "rank": 14,
+      "fullName": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "programmingLanguage": "TypeScript",
+      "stars": 101448,
+      "forks": 28200,
+      "starsInPeriod": 29
     }
   ]
 }

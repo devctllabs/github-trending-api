@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — rust</title>
     <link>https://github.com/trending/rust</link>
     <description>GitHub Trending — daily — rust</description>
-    <lastBuildDate>Mon, 16 Nov 2026 06:25:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:00:16 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-16</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>rust</ght:language>
-    <ght:updatedAt>2026-11-16T06:25:31Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-16T22:00:16Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,14 +20,14 @@
       <guid isPermaLink="true">https://github.com/ModernRelay/omnigraph</guid>
       <pubDate>Mon, 16 Nov 2026 06:25:31 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>2679</ght:stars>
-      <ght:forks>321</ght:forks>
-      <ght:starsInPeriod>174</ght:starsInPeriod>
+      <ght:stars>2827</ght:stars>
+      <ght:forks>329</ght:forks>
+      <ght:starsInPeriod>228</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
       <ght:firstSeenAt>2026-11-16T06:25:31Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-16T06:25:31Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-16T22:00:16Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>harry0703/MangoDisk</title>
@@ -46,19 +46,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>lance-format/lance</title>
+      <link>https://github.com/lance-format/lance</link>
+      <description>Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..</description>
+      <guid isPermaLink="true">https://github.com/lance-format/lance</guid>
+      <pubDate>Mon, 16 Nov 2026 06:25:31 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>7338</ght:stars>
+      <ght:forks>944</ght:forks>
+      <ght:starsInPeriod>18</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T06:25:31Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:16Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>martin-olivier/airgorah</title>
       <link>https://github.com/martin-olivier/airgorah</link>
       <description>A WiFi security auditing software</description>
       <guid isPermaLink="true">https://github.com/martin-olivier/airgorah</guid>
       <pubDate>Mon, 16 Nov 2026 06:25:31 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>6305</ght:stars>
-      <ght:forks>1064</ght:forks>
-      <ght:starsInPeriod>684</ght:starsInPeriod>
+      <ght:stars>6490</ght:stars>
+      <ght:forks>1081</ght:forks>
+      <ght:starsInPeriod>267</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T06:25:31Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:16Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>xai-org/x-algorithm</title>
+      <link>https://github.com/xai-org/x-algorithm</link>
+      <description>Algorithm powering the For You feed on X</description>
+      <guid isPermaLink="true">https://github.com/xai-org/x-algorithm</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:16 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>34253</ght:stars>
+      <ght:forks>5518</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
       <ght:latestRank>3</ght:latestRank>
-      <ght:firstSeenAt>2026-11-16T06:25:31Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-16T06:25:31Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-16T22:00:16Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:16Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -94,6 +126,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>sharkdp/bat</title>
+      <link>https://github.com/sharkdp/bat</link>
+      <description>A cat(1) clone with wings.</description>
+      <guid isPermaLink="true">https://github.com/sharkdp/bat</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:16 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>61286</ght:stars>
+      <ght:forks>2380</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T22:00:16Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:16Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>antithesishq/bombadil</title>
       <link>https://github.com/antithesishq/bombadil</link>
       <description>Property-based testing for web and terminal UIs</description>
@@ -110,19 +158,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>biomejs/biome</title>
+      <link>https://github.com/biomejs/biome</link>
+      <description>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</description>
+      <guid isPermaLink="true">https://github.com/biomejs/biome</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:16 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>26116</ght:stars>
+      <ght:forks>1413</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T22:00:16Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:16Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>yynxxxxx/Codex-X</title>
       <link>https://github.com/yynxxxxx/Codex-X</link>
       <description>OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。</description>
       <guid isPermaLink="true">https://github.com/yynxxxxx/Codex-X</guid>
       <pubDate>Mon, 16 Nov 2026 06:25:31 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>4535</ght:stars>
-      <ght:forks>592</ght:forks>
-      <ght:starsInPeriod>60</ght:starsInPeriod>
+      <ght:stars>4541</ght:stars>
+      <ght:forks>595</ght:forks>
+      <ght:starsInPeriod>17</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T06:25:31Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:16Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>astral-sh/uv</title>
+      <link>https://github.com/astral-sh/uv</link>
+      <description>An extremely fast Python package and project manager, written in Rust.</description>
+      <guid isPermaLink="true">https://github.com/astral-sh/uv</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:16 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>92035</ght:stars>
+      <ght:forks>3857</ght:forks>
+      <ght:starsInPeriod>68</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
-      <ght:firstSeenAt>2026-11-16T06:25:31Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-16T06:25:31Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-16T22:00:16Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:16Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -142,19 +222,19 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>lance-format/lance</title>
-      <link>https://github.com/lance-format/lance</link>
-      <description>Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..</description>
-      <guid isPermaLink="true">https://github.com/lance-format/lance</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:31 GMT</pubDate>
+      <title>rust-lang/rust</title>
+      <link>https://github.com/rust-lang/rust</link>
+      <description>Empowering everyone to build reliable and efficient software.</description>
+      <guid isPermaLink="true">https://github.com/rust-lang/rust</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:16 GMT</pubDate>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>7323</ght:stars>
-      <ght:forks>943</ght:forks>
-      <ght:starsInPeriod>18</ght:starsInPeriod>
-      <ght:bestRank>9</ght:bestRank>
-      <ght:latestRank>9</ght:latestRank>
-      <ght:firstSeenAt>2026-11-16T06:25:31Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-16T06:25:31Z</ght:lastSeenAt>
+      <ght:stars>122063</ght:stars>
+      <ght:forks>16670</ght:forks>
+      <ght:starsInPeriod>160</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T22:00:16Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:16Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -174,6 +254,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>rust-lang/rust-clippy</title>
+      <link>https://github.com/rust-lang/rust-clippy</link>
+      <description>A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/</description>
+      <guid isPermaLink="true">https://github.com/rust-lang/rust-clippy</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:16 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>13672</ght:stars>
+      <ght:forks>2331</ght:forks>
+      <ght:starsInPeriod>9</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T22:00:16Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:16Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>qdrant/qdrant</title>
       <link>https://github.com/qdrant/qdrant</link>
       <description>Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</description>
@@ -187,6 +283,22 @@
       <ght:latestRank>11</ght:latestRank>
       <ght:firstSeenAt>2026-11-16T06:25:31Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-16T06:25:31Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>lapce/lapce</title>
+      <link>https://github.com/lapce/lapce</link>
+      <description>Lightning-fast and Powerful Code Editor written in Rust</description>
+      <guid isPermaLink="true">https://github.com/lapce/lapce</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:16 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>39068</ght:stars>
+      <ght:forks>1368</ght:forks>
+      <ght:starsInPeriod>16</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T22:00:16Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:16Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>

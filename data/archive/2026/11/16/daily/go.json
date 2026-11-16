@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-11-16T06:25:41Z",
+  "updatedAt": "2026-11-16T22:00:26Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,13 +14,27 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 52369,
-      "forks": 4177,
-      "starsInPeriod": 691,
+      "stars": 52880,
+      "forks": 4293,
+      "starsInPeriod": 946,
+      "bestRank": 1,
+      "latestRank": 2,
+      "firstSeenAt": "2026-11-16T06:25:41Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "programmingLanguage": "Go",
+      "stars": 8651,
+      "forks": 402,
+      "starsInPeriod": 31,
       "bestRank": 1,
       "latestRank": 1,
-      "firstSeenAt": "2026-11-16T06:25:41Z",
-      "lastSeenAt": "2026-11-16T06:25:41Z",
+      "firstSeenAt": "2026-11-16T22:00:26Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
       "appearances": 1
     },
     {
@@ -28,14 +42,14 @@
       "url": "https://github.com/Tencent/LoopForge",
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "programmingLanguage": "Go",
-      "stars": 1812,
-      "forks": 304,
-      "starsInPeriod": 423,
+      "stars": 2308,
+      "forks": 356,
+      "starsInPeriod": 1016,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 3,
       "firstSeenAt": "2026-11-16T06:25:41Z",
-      "lastSeenAt": "2026-11-16T06:25:41Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-16T22:00:26Z",
+      "appearances": 2
     },
     {
       "fullName": "google/ax",
@@ -66,18 +80,32 @@
       "appearances": 1
     },
     {
+      "fullName": "Asymptote-Labs/agent-beacon",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
+      "programmingLanguage": "Go",
+      "stars": 3532,
+      "forks": 317,
+      "starsInPeriod": 33,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-16T22:00:26Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "kubescape/kubescape",
       "url": "https://github.com/kubescape/kubescape",
       "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
       "programmingLanguage": "Go",
-      "stars": 11924,
-      "forks": 1110,
-      "starsInPeriod": 13,
+      "stars": 11939,
+      "forks": 1111,
+      "starsInPeriod": 26,
       "bestRank": 5,
       "latestRank": 5,
       "firstSeenAt": "2026-11-16T06:25:41Z",
-      "lastSeenAt": "2026-11-16T06:25:41Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-16T22:00:26Z",
+      "appearances": 2
     },
     {
       "fullName": "trustwallet/assets",
@@ -94,17 +122,45 @@
       "appearances": 1
     },
     {
+      "fullName": "Billionmail/BillionMail",
+      "url": "https://github.com/Billionmail/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "programmingLanguage": "Go",
+      "stars": 16393,
+      "forks": 1831,
+      "starsInPeriod": 54,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-16T22:00:26Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "HuskerMinion/techo5",
       "url": "https://github.com/HuskerMinion/techo5",
       "description": "Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
       "programmingLanguage": "Go",
-      "stars": 702,
-      "forks": 119,
-      "starsInPeriod": 22,
+      "stars": 721,
+      "forks": 120,
+      "starsInPeriod": 26,
+      "bestRank": 7,
+      "latestRank": 13,
+      "firstSeenAt": "2026-11-16T06:25:41Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "gnacho/netpulse",
+      "url": "https://github.com/gnacho/netpulse",
+      "description": "PWA dashboard for monitoring OpenWrt/GL.iNet home networks: fleet status, per-router health, devices, WireGuard peers, AdGuard Home stats and alerts in real time (SSE). Go backend + React 19 frontend, SQLite, multi-user, i18n ES/EN.",
+      "programmingLanguage": "Go",
+      "stars": 343,
+      "forks": 23,
+      "starsInPeriod": 36,
       "bestRank": 7,
       "latestRank": 7,
-      "firstSeenAt": "2026-11-16T06:25:41Z",
-      "lastSeenAt": "2026-11-16T06:25:41Z",
+      "firstSeenAt": "2026-11-16T22:00:26Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
       "appearances": 1
     },
     {
@@ -122,6 +178,20 @@
       "appearances": 1
     },
     {
+      "fullName": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "programmingLanguage": "Go",
+      "stars": 6877,
+      "forks": 766,
+      "starsInPeriod": 127,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-16T22:00:26Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "XTLS/Xray-core",
       "url": "https://github.com/XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
@@ -136,17 +206,45 @@
       "appearances": 1
     },
     {
+      "fullName": "openbkn-ai/bkn-foundry",
+      "url": "https://github.com/openbkn-ai/bkn-foundry",
+      "description": "BKN Foundry is the Ontology back-end foundation of OpenBKN. It transforms ontology-driven business semantics into runtime services: data, logic, actions, security governance, and observability.",
+      "programmingLanguage": "Go",
+      "stars": 1399,
+      "forks": 139,
+      "starsInPeriod": 48,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-16T22:00:26Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "erigontech/erigon",
       "url": "https://github.com/erigontech/erigon",
       "description": "Ethereum implementation on the efficiency frontier",
       "programmingLanguage": "Go",
-      "stars": 3633,
-      "forks": 1580,
-      "starsInPeriod": 3,
+      "stars": 3637,
+      "forks": 1582,
+      "starsInPeriod": 7,
+      "bestRank": 10,
+      "latestRank": 15,
+      "firstSeenAt": "2026-11-16T06:25:41Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "programmingLanguage": "Go",
+      "stars": 139964,
+      "forks": 20262,
+      "starsInPeriod": 102,
       "bestRank": 10,
       "latestRank": 10,
-      "firstSeenAt": "2026-11-16T06:25:41Z",
-      "lastSeenAt": "2026-11-16T06:25:41Z",
+      "firstSeenAt": "2026-11-16T22:00:26Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
       "appearances": 1
     },
     {
@@ -164,6 +262,20 @@
       "appearances": 1
     },
     {
+      "fullName": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "programmingLanguage": "Go",
+      "stars": 38903,
+      "forks": 6008,
+      "starsInPeriod": 90,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-11-16T22:00:26Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "mudler/LocalAI",
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
@@ -175,6 +287,20 @@
       "latestRank": 12,
       "firstSeenAt": "2026-11-16T06:25:41Z",
       "lastSeenAt": "2026-11-16T06:25:41Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "programmingLanguage": "Go",
+      "stars": 129121,
+      "forks": 45094,
+      "starsInPeriod": 105,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-11-16T22:00:26Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
       "appearances": 1
     },
     {
@@ -203,6 +329,20 @@
       "latestRank": 14,
       "firstSeenAt": "2026-11-16T06:25:41Z",
       "lastSeenAt": "2026-11-16T06:25:41Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "dagucloud/dagu",
+      "url": "https://github.com/dagucloud/dagu",
+      "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
+      "programmingLanguage": "Go",
+      "stars": 4619,
+      "forks": 403,
+      "starsInPeriod": 8,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-11-16T22:00:26Z",
+      "lastSeenAt": "2026-11-16T22:00:26Z",
       "appearances": 1
     },
     {

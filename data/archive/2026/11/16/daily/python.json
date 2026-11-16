@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "updatedAt": "2026-11-16T06:25:20Z",
+  "updatedAt": "2026-11-16T22:00:05Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,41 +14,55 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "programmingLanguage": "Python",
-      "stars": 6711,
-      "forks": 1021,
-      "starsInPeriod": 98,
+      "stars": 7341,
+      "forks": 1138,
+      "starsInPeriod": 1057,
       "bestRank": 1,
-      "latestRank": 1,
+      "latestRank": 2,
       "firstSeenAt": "2026-11-16T06:25:20Z",
-      "lastSeenAt": "2026-11-16T06:25:20Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-16T22:00:05Z",
+      "appearances": 2
     },
     {
       "fullName": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "programmingLanguage": "Python",
-      "stars": 5771,
-      "forks": 1206,
-      "starsInPeriod": 706,
-      "bestRank": 2,
-      "latestRank": 2,
+      "stars": 6240,
+      "forks": 1325,
+      "starsInPeriod": 841,
+      "bestRank": 1,
+      "latestRank": 1,
       "firstSeenAt": "2026-11-16T06:25:20Z",
-      "lastSeenAt": "2026-11-16T06:25:20Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-16T22:00:05Z",
+      "appearances": 2
     },
     {
       "fullName": "NVIDIA/SkillEvaluator",
       "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "programmingLanguage": "Python",
-      "stars": 1933,
-      "forks": 266,
+      "stars": 2583,
+      "forks": 355,
+      "starsInPeriod": 953,
+      "bestRank": 3,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-16T06:25:20Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "programmingLanguage": "Python",
+      "stars": 68067,
+      "forks": 6032,
       "starsInPeriod": 122,
       "bestRank": 3,
       "latestRank": 3,
-      "firstSeenAt": "2026-11-16T06:25:20Z",
-      "lastSeenAt": "2026-11-16T06:25:20Z",
+      "firstSeenAt": "2026-11-16T22:00:05Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
       "appearances": 1
     },
     {
@@ -70,13 +84,27 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "programmingLanguage": "Python",
-      "stars": 33789,
-      "forks": 3987,
-      "starsInPeriod": 174,
+      "stars": 33867,
+      "forks": 4008,
+      "starsInPeriod": 119,
+      "bestRank": 5,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-16T06:25:20Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "programmingLanguage": "Python",
+      "stars": 1391,
+      "forks": 233,
+      "starsInPeriod": 306,
       "bestRank": 5,
       "latestRank": 5,
-      "firstSeenAt": "2026-11-16T06:25:20Z",
-      "lastSeenAt": "2026-11-16T06:25:20Z",
+      "firstSeenAt": "2026-11-16T22:00:05Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
       "appearances": 1
     },
     {
@@ -84,14 +112,14 @@
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "programmingLanguage": "Python",
-      "stars": 6053,
-      "forks": 535,
-      "starsInPeriod": 331,
+      "stars": 6587,
+      "forks": 598,
+      "starsInPeriod": 475,
       "bestRank": 6,
       "latestRank": 6,
       "firstSeenAt": "2026-11-16T06:25:20Z",
-      "lastSeenAt": "2026-11-16T06:25:20Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-16T22:00:05Z",
+      "appearances": 2
     },
     {
       "fullName": "huytieu/COG-second-brain",
@@ -108,6 +136,20 @@
       "appearances": 1
     },
     {
+      "fullName": "isair/jarvis",
+      "url": "https://github.com/isair/jarvis",
+      "description": "A 100% private and local AI assistant for your desktop. Always present, able to jump into conversations. Supports unlimited MCP tools and unlimited memory with self-learning. Free WisprFlow alternative with its dictation support. Runs on macOS, Windows and Linux.",
+      "programmingLanguage": "Python",
+      "stars": 2317,
+      "forks": 552,
+      "starsInPeriod": 26,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-16T22:00:05Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
+      "appearances": 1
+    },
+    {
       "fullName": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
@@ -119,6 +161,20 @@
       "latestRank": 8,
       "firstSeenAt": "2026-11-16T06:25:20Z",
       "lastSeenAt": "2026-11-16T06:25:20Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "programmingLanguage": "Python",
+      "stars": 112843,
+      "forks": 13666,
+      "starsInPeriod": 123,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-16T22:00:05Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
       "appearances": 1
     },
     {
@@ -150,6 +206,20 @@
       "appearances": 1
     },
     {
+      "fullName": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "programmingLanguage": "Python",
+      "stars": 169070,
+      "forks": 35211,
+      "starsInPeriod": 68,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-16T22:00:05Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
+      "appearances": 1
+    },
+    {
       "fullName": "fqscfqj/Y2A-Auto",
       "url": "https://github.com/fqscfqj/Y2A-Auto",
       "description": "YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控",
@@ -161,6 +231,20 @@
       "latestRank": 11,
       "firstSeenAt": "2026-11-16T06:25:20Z",
       "lastSeenAt": "2026-11-16T06:25:20Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "programmingLanguage": "Python",
+      "stars": 46039,
+      "forks": 1816,
+      "starsInPeriod": 313,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-11-16T22:00:05Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
       "appearances": 1
     },
     {
@@ -178,6 +262,34 @@
       "appearances": 1
     },
     {
+      "fullName": "vstorm-co/agenticos",
+      "url": "https://github.com/vstorm-co/agenticos",
+      "description": "Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI.",
+      "programmingLanguage": "Python",
+      "stars": 361,
+      "forks": 63,
+      "starsInPeriod": 56,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-11-16T22:00:05Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "programmingLanguage": "Python",
+      "stars": 38385,
+      "forks": 6247,
+      "starsInPeriod": 88,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-11-16T06:25:20Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
+      "appearances": 2
+    },
+    {
       "fullName": "ManimCommunity/manim",
       "url": "https://github.com/ManimCommunity/manim",
       "description": "A community-maintained Python framework for creating mathematical animations.",
@@ -192,17 +304,17 @@
       "appearances": 1
     },
     {
-      "fullName": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "fullName": "bkerler/mtkclient",
+      "url": "https://github.com/bkerler/mtkclient",
+      "description": "Mediatek Flash and Repair Utility",
       "programmingLanguage": "Python",
-      "stars": 38344,
-      "forks": 6244,
-      "starsInPeriod": 86,
+      "stars": 1538,
+      "forks": 313,
+      "starsInPeriod": 9,
       "bestRank": 14,
       "latestRank": 14,
-      "firstSeenAt": "2026-11-16T06:25:20Z",
-      "lastSeenAt": "2026-11-16T06:25:20Z",
+      "firstSeenAt": "2026-11-16T22:00:05Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
       "appearances": 1
     },
     {
@@ -220,6 +332,20 @@
       "appearances": 1
     },
     {
+      "fullName": "FujiwaraChoki/supoclip",
+      "url": "https://github.com/FujiwaraChoki/supoclip",
+      "description": "An open-source OpusClip alternative",
+      "programmingLanguage": "Python",
+      "stars": 3310,
+      "forks": 742,
+      "starsInPeriod": 103,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-11-16T22:00:05Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
+      "appearances": 1
+    },
+    {
       "fullName": "internetarchive/openlibrary",
       "url": "https://github.com/internetarchive/openlibrary",
       "description": "One webpage for every book ever published!",
@@ -231,6 +357,20 @@
       "latestRank": 16,
       "firstSeenAt": "2026-11-16T06:25:20Z",
       "lastSeenAt": "2026-11-16T06:25:20Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "programmingLanguage": "Python",
+      "stars": 8170,
+      "forks": 776,
+      "starsInPeriod": 89,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-11-16T22:00:05Z",
+      "lastSeenAt": "2026-11-16T22:00:05Z",
       "appearances": 1
     },
     {

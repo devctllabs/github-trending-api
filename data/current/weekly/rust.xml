@@ -4,12 +4,12 @@
     <title>GitHub Trending — weekly — rust</title>
     <link>https://github.com/trending/rust?since=weekly</link>
     <description>GitHub Trending — weekly — rust</description>
-    <lastBuildDate>Mon, 16 Nov 2026 06:25:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:00:19 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>weekly</ght:period>
     <ght:language>rust</ght:language>
-    <ght:observedAt>2026-11-16T06:25:34Z</ght:observedAt>
+    <ght:observedAt>2026-11-16T22:00:19Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
     <item>
@@ -17,23 +17,35 @@
       <link>https://github.com/vercel-labs/agent-browser</link>
       <description>Browser automation CLI for AI agents</description>
       <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:34 GMT</pubDate>
+      <pubDate>Mon, 16 Nov 2026 22:00:19 GMT</pubDate>
       <ght:rank>1</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>51738</ght:stars>
-      <ght:forks>3621</ght:forks>
+      <ght:stars>51982</ght:stars>
+      <ght:forks>3629</ght:forks>
       <ght:starsInPeriod>4217</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>tokio-rs/topcoat</title>
+      <link>https://github.com/tokio-rs/topcoat</link>
+      <description>A batteries-included framework for building web apps</description>
+      <guid isPermaLink="true">https://github.com/tokio-rs/topcoat</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:19 GMT</pubDate>
+      <ght:rank>2</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>7243</ght:stars>
+      <ght:forks>315</ght:forks>
+      <ght:starsInPeriod>888</ght:starsInPeriod>
     </item>
     <item>
       <title>block/buzz</title>
       <link>https://github.com/block/buzz</link>
       <description>A hive mind communication platform</description>
       <guid isPermaLink="true">https://github.com/block/buzz</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:34 GMT</pubDate>
-      <ght:rank>2</ght:rank>
+      <pubDate>Mon, 16 Nov 2026 22:00:19 GMT</pubDate>
+      <ght:rank>3</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>37498</ght:stars>
-      <ght:forks>4951</ght:forks>
+      <ght:stars>37520</ght:stars>
+      <ght:forks>4954</ght:forks>
       <ght:starsInPeriod>703</ght:starsInPeriod>
     </item>
     <item>
@@ -41,120 +53,84 @@
       <link>https://github.com/vercel-labs/agent-desktop</link>
       <description>Computer use CLI for AI agents</description>
       <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:34 GMT</pubDate>
-      <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>24324</ght:stars>
-      <ght:forks>1807</ght:forks>
-      <ght:starsInPeriod>4719</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>ruvnet/RuView</title>
-      <link>https://github.com/ruvnet/RuView</link>
-      <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
-      <guid isPermaLink="true">https://github.com/ruvnet/RuView</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:34 GMT</pubDate>
+      <pubDate>Mon, 16 Nov 2026 22:00:19 GMT</pubDate>
       <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>104405</ght:stars>
-      <ght:forks>13579</ght:forks>
-      <ght:starsInPeriod>1444</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>tokio-rs/topcoat</title>
-      <link>https://github.com/tokio-rs/topcoat</link>
-      <description>A batteries-included framework for building web apps</description>
-      <guid isPermaLink="true">https://github.com/tokio-rs/topcoat</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:34 GMT</pubDate>
-      <ght:rank>5</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>7241</ght:stars>
-      <ght:forks>326</ght:forks>
-      <ght:starsInPeriod>888</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>astral-sh/ruff</title>
-      <link>https://github.com/astral-sh/ruff</link>
-      <description>An extremely fast Python linter and code formatter, written in Rust.</description>
-      <guid isPermaLink="true">https://github.com/astral-sh/ruff</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:34 GMT</pubDate>
-      <ght:rank>6</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>51275</ght:stars>
-      <ght:forks>2714</ght:forks>
-      <ght:starsInPeriod>363</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>longbridge/gpui-kit</title>
-      <link>https://github.com/longbridge/gpui-kit</link>
-      <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
-      <guid isPermaLink="true">https://github.com/longbridge/gpui-kit</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:34 GMT</pubDate>
-      <ght:rank>7</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>20799</ght:stars>
-      <ght:forks>1274</ght:forks>
-      <ght:starsInPeriod>838</ght:starsInPeriod>
+      <ght:stars>24579</ght:stars>
+      <ght:forks>1827</ght:forks>
+      <ght:starsInPeriod>4719</ght:starsInPeriod>
     </item>
     <item>
       <title>zellij-org/zellij</title>
       <link>https://github.com/zellij-org/zellij</link>
       <description>A terminal workspace with batteries included</description>
       <guid isPermaLink="true">https://github.com/zellij-org/zellij</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:34 GMT</pubDate>
-      <ght:rank>8</ght:rank>
+      <pubDate>Mon, 16 Nov 2026 22:00:19 GMT</pubDate>
+      <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>36089</ght:stars>
-      <ght:forks>1544</ght:forks>
+      <ght:stars>36100</ght:stars>
+      <ght:forks>1545</ght:forks>
       <ght:starsInPeriod>162</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>ruvnet/RuView</title>
+      <link>https://github.com/ruvnet/RuView</link>
+      <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
+      <guid isPermaLink="true">https://github.com/ruvnet/RuView</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:19 GMT</pubDate>
+      <ght:rank>6</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>104454</ght:stars>
+      <ght:forks>13580</ght:forks>
+      <ght:starsInPeriod>1444</ght:starsInPeriod>
     </item>
     <item>
       <title>rustdesk/rustdesk</title>
       <link>https://github.com/rustdesk/rustdesk</link>
       <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
       <guid isPermaLink="true">https://github.com/rustdesk/rustdesk</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:34 GMT</pubDate>
-      <ght:rank>9</ght:rank>
+      <pubDate>Mon, 16 Nov 2026 22:00:19 GMT</pubDate>
+      <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>129645</ght:stars>
-      <ght:forks>20749</ght:forks>
+      <ght:stars>129733</ght:stars>
+      <ght:forks>20782</ght:forks>
       <ght:starsInPeriod>992</ght:starsInPeriod>
     </item>
     <item>
-      <title>CapSoftware/Cap</title>
-      <link>https://github.com/CapSoftware/Cap</link>
-      <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
-      <guid isPermaLink="true">https://github.com/CapSoftware/Cap</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:34 GMT</pubDate>
-      <ght:rank>10</ght:rank>
+      <title>astral-sh/ruff</title>
+      <link>https://github.com/astral-sh/ruff</link>
+      <description>An extremely fast Python linter and code formatter, written in Rust.</description>
+      <guid isPermaLink="true">https://github.com/astral-sh/ruff</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:19 GMT</pubDate>
+      <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>25090</ght:stars>
-      <ght:forks>2371</ght:forks>
-      <ght:starsInPeriod>423</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>herdrdev/herdr</title>
-      <link>https://github.com/herdrdev/herdr</link>
-      <description>the runtime your coding agents live on</description>
-      <guid isPermaLink="true">https://github.com/herdrdev/herdr</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:34 GMT</pubDate>
-      <ght:rank>11</ght:rank>
-      <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>51239</ght:stars>
-      <ght:forks>4146</ght:forks>
-      <ght:starsInPeriod>1888</ght:starsInPeriod>
+      <ght:stars>51250</ght:stars>
+      <ght:forks>2722</ght:forks>
+      <ght:starsInPeriod>363</ght:starsInPeriod>
     </item>
     <item>
       <title>ModernRelay/omnigraph</title>
       <link>https://github.com/ModernRelay/omnigraph</link>
       <description>Object-storage native graph database with branching and typed ontology</description>
       <guid isPermaLink="true">https://github.com/ModernRelay/omnigraph</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:34 GMT</pubDate>
-      <ght:rank>12</ght:rank>
+      <pubDate>Mon, 16 Nov 2026 22:00:19 GMT</pubDate>
+      <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Rust</ght:programmingLanguage>
-      <ght:stars>2679</ght:stars>
-      <ght:forks>321</ght:forks>
+      <ght:stars>2827</ght:stars>
+      <ght:forks>329</ght:forks>
       <ght:starsInPeriod>607</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>CapSoftware/Cap</title>
+      <link>https://github.com/CapSoftware/Cap</link>
+      <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
+      <guid isPermaLink="true">https://github.com/CapSoftware/Cap</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:19 GMT</pubDate>
+      <ght:rank>10</ght:rank>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>25128</ght:stars>
+      <ght:forks>2370</ght:forks>
+      <ght:starsInPeriod>423</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

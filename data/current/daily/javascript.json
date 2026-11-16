@@ -4,69 +4,139 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-11-16T06:25:52Z",
+  "observedAt": "2026-11-16T22:00:37Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "louislam/uptime-kuma",
-      "url": "https://github.com/louislam/uptime-kuma",
-      "description": "A fancy self-hosted monitoring tool",
+      "fullName": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
       "programmingLanguage": "JavaScript",
-      "stars": 94450,
-      "forks": 8847,
-      "starsInPeriod": 353
+      "stars": 6661,
+      "forks": 786,
+      "starsInPeriod": 285
     },
     {
       "rank": 2,
+      "fullName": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "programmingLanguage": "JavaScript",
+      "stars": 88938,
+      "forks": 6092,
+      "starsInPeriod": 58
+    },
+    {
+      "rank": 3,
+      "fullName": "mrdoob/three.js",
+      "url": "https://github.com/mrdoob/three.js",
+      "description": "JavaScript 3D Library.",
+      "programmingLanguage": "JavaScript",
+      "stars": 118656,
+      "forks": 37007,
+      "starsInPeriod": 130
+    },
+    {
+      "rank": 4,
+      "fullName": "axios/axios",
+      "url": "https://github.com/axios/axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "programmingLanguage": "JavaScript",
+      "stars": 109362,
+      "forks": 12069,
+      "starsInPeriod": 28
+    },
+    {
+      "rank": 5,
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "programmingLanguage": "JavaScript",
+      "stars": 65290,
+      "forks": 12897,
+      "starsInPeriod": 257
+    },
+    {
+      "rank": 6,
       "fullName": "maillab/cloud-mail",
       "url": "https://github.com/maillab/cloud-mail",
       "description": "An all-in-one email service platform powered by Cloudflare | 基于 Cloudflare 的一站式邮箱服务平台 | Cloudflare Email 邮箱 Mail",
       "programmingLanguage": "JavaScript",
-      "stars": 16235,
-      "forks": 23759,
-      "starsInPeriod": 316
+      "stars": 16280,
+      "forks": 23827,
+      "starsInPeriod": 107
     },
     {
-      "rank": 3,
-      "fullName": "qist/tvbox",
-      "url": "https://github.com/qist/tvbox",
-      "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+      "rank": 7,
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 12970,
-      "forks": 4478,
-      "starsInPeriod": 38
+      "stars": 304551,
+      "forks": 44855,
+      "starsInPeriod": 722
     },
     {
-      "rank": 4,
+      "rank": 8,
+      "fullName": "saadeghi/daisyui",
+      "url": "https://github.com/saadeghi/daisyui",
+      "description": "🌼 🌼 🌼 🌼 🌼 The most popular, free and open-source Tailwind CSS component library",
+      "programmingLanguage": "JavaScript",
+      "stars": 42863,
+      "forks": 1718,
+      "starsInPeriod": 11
+    },
+    {
+      "rank": 9,
+      "fullName": "hanliang97/MatrixMedia",
+      "url": "https://github.com/hanliang97/MatrixMedia",
+      "description": "视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli",
+      "programmingLanguage": "JavaScript",
+      "stars": 1446,
+      "forks": 219,
+      "starsInPeriod": 68
+    },
+    {
+      "rank": 10,
+      "fullName": "airbnb/lottie-web",
+      "url": "https://github.com/airbnb/lottie-web",
+      "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
+      "programmingLanguage": "JavaScript",
+      "stars": 32476,
+      "forks": 2978,
+      "starsInPeriod": 22
+    },
+    {
+      "rank": 11,
+      "fullName": "jessepinkman9900/claude-second-brain",
+      "url": "https://github.com/jessepinkman9900/claude-second-brain",
+      "description": "Fastest way to scaffold your LLM powered personal knowledge base - Obsidian, Claude Code, qmd, Github",
+      "programmingLanguage": "JavaScript",
+      "stars": 166,
+      "forks": 23,
+      "starsInPeriod": 14
+    },
+    {
+      "rank": 12,
       "fullName": "juliangarnier/anime",
       "url": "https://github.com/juliangarnier/anime",
       "description": "JavaScript animation engine",
       "programmingLanguage": "JavaScript",
-      "stars": 74781,
-      "forks": 5109,
-      "starsInPeriod": 99
+      "stars": 74813,
+      "forks": 5114,
+      "starsInPeriod": 67
     },
     {
-      "rank": 5,
-      "fullName": "itsPLK/ps5-payload-manager",
-      "url": "https://github.com/itsPLK/ps5-payload-manager",
-      "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
+      "rank": 13,
+      "fullName": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生",
       "programmingLanguage": "JavaScript",
-      "stars": 763,
-      "forks": 81,
-      "starsInPeriod": 4
-    },
-    {
-      "rank": 6,
-      "fullName": "vernesong/OpenClash",
-      "url": "https://github.com/vernesong/OpenClash",
-      "description": "A Clash Client For OpenWrt",
-      "programmingLanguage": "JavaScript",
-      "stars": 28223,
-      "forks": 4071,
-      "starsInPeriod": 26
+      "stars": 70623,
+      "forks": 7028,
+      "starsInPeriod": 59
     }
   ]
 }

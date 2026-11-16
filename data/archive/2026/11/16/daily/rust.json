@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-11-16T06:25:31Z",
+  "updatedAt": "2026-11-16T22:00:16Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,14 +14,14 @@
       "url": "https://github.com/ModernRelay/omnigraph",
       "description": "Object-storage native graph database with branching and typed ontology",
       "programmingLanguage": "Rust",
-      "stars": 2679,
-      "forks": 321,
-      "starsInPeriod": 174,
+      "stars": 2827,
+      "forks": 329,
+      "starsInPeriod": 228,
       "bestRank": 1,
       "latestRank": 1,
       "firstSeenAt": "2026-11-16T06:25:31Z",
-      "lastSeenAt": "2026-11-16T06:25:31Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-16T22:00:16Z",
+      "appearances": 2
     },
     {
       "fullName": "harry0703/MangoDisk",
@@ -38,17 +38,45 @@
       "appearances": 1
     },
     {
+      "fullName": "lance-format/lance",
+      "url": "https://github.com/lance-format/lance",
+      "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "programmingLanguage": "Rust",
+      "stars": 7338,
+      "forks": 944,
+      "starsInPeriod": 18,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-11-16T06:25:31Z",
+      "lastSeenAt": "2026-11-16T22:00:16Z",
+      "appearances": 2
+    },
+    {
       "fullName": "martin-olivier/airgorah",
       "url": "https://github.com/martin-olivier/airgorah",
       "description": "A WiFi security auditing software",
       "programmingLanguage": "Rust",
-      "stars": 6305,
-      "forks": 1064,
-      "starsInPeriod": 684,
+      "stars": 6490,
+      "forks": 1081,
+      "starsInPeriod": 267,
+      "bestRank": 3,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-16T06:25:31Z",
+      "lastSeenAt": "2026-11-16T22:00:16Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "xai-org/x-algorithm",
+      "url": "https://github.com/xai-org/x-algorithm",
+      "description": "Algorithm powering the For You feed on X",
+      "programmingLanguage": "Rust",
+      "stars": 34253,
+      "forks": 5518,
+      "starsInPeriod": 24,
       "bestRank": 3,
       "latestRank": 3,
-      "firstSeenAt": "2026-11-16T06:25:31Z",
-      "lastSeenAt": "2026-11-16T06:25:31Z",
+      "firstSeenAt": "2026-11-16T22:00:16Z",
+      "lastSeenAt": "2026-11-16T22:00:16Z",
       "appearances": 1
     },
     {
@@ -80,6 +108,20 @@
       "appearances": 1
     },
     {
+      "fullName": "sharkdp/bat",
+      "url": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "programmingLanguage": "Rust",
+      "stars": 61286,
+      "forks": 2380,
+      "starsInPeriod": 24,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-16T22:00:16Z",
+      "lastSeenAt": "2026-11-16T22:00:16Z",
+      "appearances": 1
+    },
+    {
       "fullName": "antithesishq/bombadil",
       "url": "https://github.com/antithesishq/bombadil",
       "description": "Property-based testing for web and terminal UIs",
@@ -94,17 +136,45 @@
       "appearances": 1
     },
     {
+      "fullName": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "programmingLanguage": "Rust",
+      "stars": 26116,
+      "forks": 1413,
+      "starsInPeriod": 7,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-16T22:00:16Z",
+      "lastSeenAt": "2026-11-16T22:00:16Z",
+      "appearances": 1
+    },
+    {
       "fullName": "yynxxxxx/Codex-X",
       "url": "https://github.com/yynxxxxx/Codex-X",
       "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
       "programmingLanguage": "Rust",
-      "stars": 4535,
-      "forks": 592,
-      "starsInPeriod": 60,
+      "stars": 4541,
+      "forks": 595,
+      "starsInPeriod": 17,
+      "bestRank": 7,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-16T06:25:31Z",
+      "lastSeenAt": "2026-11-16T22:00:16Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "programmingLanguage": "Rust",
+      "stars": 92035,
+      "forks": 3857,
+      "starsInPeriod": 68,
       "bestRank": 7,
       "latestRank": 7,
-      "firstSeenAt": "2026-11-16T06:25:31Z",
-      "lastSeenAt": "2026-11-16T06:25:31Z",
+      "firstSeenAt": "2026-11-16T22:00:16Z",
+      "lastSeenAt": "2026-11-16T22:00:16Z",
       "appearances": 1
     },
     {
@@ -122,17 +192,17 @@
       "appearances": 1
     },
     {
-      "fullName": "lance-format/lance",
-      "url": "https://github.com/lance-format/lance",
-      "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "fullName": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
       "programmingLanguage": "Rust",
-      "stars": 7323,
-      "forks": 943,
-      "starsInPeriod": 18,
-      "bestRank": 9,
-      "latestRank": 9,
-      "firstSeenAt": "2026-11-16T06:25:31Z",
-      "lastSeenAt": "2026-11-16T06:25:31Z",
+      "stars": 122063,
+      "forks": 16670,
+      "starsInPeriod": 160,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-16T22:00:16Z",
+      "lastSeenAt": "2026-11-16T22:00:16Z",
       "appearances": 1
     },
     {
@@ -150,6 +220,20 @@
       "appearances": 1
     },
     {
+      "fullName": "rust-lang/rust-clippy",
+      "url": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "programmingLanguage": "Rust",
+      "stars": 13672,
+      "forks": 2331,
+      "starsInPeriod": 9,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-16T22:00:16Z",
+      "lastSeenAt": "2026-11-16T22:00:16Z",
+      "appearances": 1
+    },
+    {
       "fullName": "qdrant/qdrant",
       "url": "https://github.com/qdrant/qdrant",
       "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
@@ -161,6 +245,20 @@
       "latestRank": 11,
       "firstSeenAt": "2026-11-16T06:25:31Z",
       "lastSeenAt": "2026-11-16T06:25:31Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "programmingLanguage": "Rust",
+      "stars": 39068,
+      "forks": 1368,
+      "starsInPeriod": 16,
+      "bestRank": 11,
+      "latestRank": 11,
+      "firstSeenAt": "2026-11-16T22:00:16Z",
+      "lastSeenAt": "2026-11-16T22:00:16Z",
       "appearances": 1
     },
     {

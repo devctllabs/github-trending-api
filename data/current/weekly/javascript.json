@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=weekly",
-  "observedAt": "2026-11-16T06:25:56Z",
+  "observedAt": "2026-11-16T22:00:41Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,29 +14,29 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 118037,
-      "forks": 12349,
+      "stars": 118302,
+      "forks": 12357,
       "starsInPeriod": 3889
     },
     {
       "rank": 2,
+      "fullName": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "programmingLanguage": "JavaScript",
+      "stars": 35022,
+      "forks": 6731,
+      "starsInPeriod": 1552
+    },
+    {
+      "rank": 3,
       "fullName": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 60640,
-      "forks": 8836,
+      "stars": 60789,
+      "forks": 8864,
       "starsInPeriod": 1368
-    },
-    {
-      "rank": 3,
-      "fullName": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "programmingLanguage": "JavaScript",
-      "stars": 15250,
-      "forks": 1738,
-      "starsInPeriod": 550
     },
     {
       "rank": 4,
@@ -44,29 +44,29 @@
       "url": "https://github.com/louislam/uptime-kuma",
       "description": "A fancy self-hosted monitoring tool",
       "programmingLanguage": "JavaScript",
-      "stars": 94450,
-      "forks": 8847,
+      "stars": 94497,
+      "forks": 8854,
       "starsInPeriod": 1088
     },
     {
       "rank": 5,
+      "fullName": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "programmingLanguage": "JavaScript",
+      "stars": 15296,
+      "forks": 1740,
+      "starsInPeriod": 550
+    },
+    {
+      "rank": 6,
       "fullName": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "programmingLanguage": "JavaScript",
-      "stars": 116375,
-      "forks": 7802,
+      "stars": 116843,
+      "forks": 7827,
       "starsInPeriod": 4234
-    },
-    {
-      "rank": 6,
-      "fullName": "Anil-matcha/Open-Generative-AI",
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "programmingLanguage": "JavaScript",
-      "stars": 34896,
-      "forks": 6712,
-      "starsInPeriod": 1552
     },
     {
       "rank": 7,
@@ -74,8 +74,8 @@
       "url": "https://github.com/maillab/cloud-mail",
       "description": "An all-in-one email service platform powered by Cloudflare | 基于 Cloudflare 的一站式邮箱服务平台 | Cloudflare Email 邮箱 Mail",
       "programmingLanguage": "JavaScript",
-      "stars": 16235,
-      "forks": 23759,
+      "stars": 16280,
+      "forks": 23827,
       "starsInPeriod": 667
     },
     {
@@ -84,9 +84,29 @@
       "url": "https://github.com/expressjs/express",
       "description": "Fast, unopinionated, minimalist web framework for node.",
       "programmingLanguage": "JavaScript",
-      "stars": 69685,
-      "forks": 25533,
+      "stars": 69653,
+      "forks": 25576,
       "starsInPeriod": 143
+    },
+    {
+      "rank": 9,
+      "fullName": "axios/axios",
+      "url": "https://github.com/axios/axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "programmingLanguage": "JavaScript",
+      "stars": 109362,
+      "forks": 12069,
+      "starsInPeriod": 145
+    },
+    {
+      "rank": 10,
+      "fullName": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "programmingLanguage": "JavaScript",
+      "stars": 6661,
+      "forks": 786,
+      "starsInPeriod": 1548
     }
   ]
 }

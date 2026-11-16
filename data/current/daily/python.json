@@ -4,59 +4,59 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-11-16T06:25:20Z",
+  "observedAt": "2026-11-16T22:00:05Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "elementalsouls/Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "programmingLanguage": "Python",
-      "stars": 6711,
-      "forks": 1021,
-      "starsInPeriod": 98
-    },
-    {
-      "rank": 2,
       "fullName": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "programmingLanguage": "Python",
-      "stars": 5771,
-      "forks": 1206,
-      "starsInPeriod": 706
+      "stars": 6240,
+      "forks": 1325,
+      "starsInPeriod": 841
+    },
+    {
+      "rank": 2,
+      "fullName": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "programmingLanguage": "Python",
+      "stars": 7341,
+      "forks": 1138,
+      "starsInPeriod": 1057
     },
     {
       "rank": 3,
-      "fullName": "NVIDIA/SkillEvaluator",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "programmingLanguage": "Python",
-      "stars": 1933,
-      "forks": 266,
+      "stars": 68067,
+      "forks": 6032,
       "starsInPeriod": 122
     },
     {
       "rank": 4,
-      "fullName": "bojieli/ai-infra-book",
-      "url": "https://github.com/bojieli/ai-infra-book",
-      "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
+      "fullName": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "programmingLanguage": "Python",
-      "stars": 7846,
-      "forks": 634,
-      "starsInPeriod": 127
+      "stars": 2583,
+      "forks": 355,
+      "starsInPeriod": 953
     },
     {
       "rank": 5,
-      "fullName": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "fullName": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "programmingLanguage": "Python",
-      "stars": 33789,
-      "forks": 3987,
-      "starsInPeriod": 174
+      "stars": 1391,
+      "forks": 233,
+      "starsInPeriod": 306
     },
     {
       "rank": 6,
@@ -64,119 +64,109 @@
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "programmingLanguage": "Python",
-      "stars": 6053,
-      "forks": 535,
-      "starsInPeriod": 331
+      "stars": 6587,
+      "forks": 598,
+      "starsInPeriod": 475
     },
     {
       "rank": 7,
-      "fullName": "huytieu/COG-second-brain",
-      "url": "https://github.com/huytieu/COG-second-brain",
-      "description": "Self-evolving second brain with 35 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
+      "fullName": "isair/jarvis",
+      "url": "https://github.com/isair/jarvis",
+      "description": "A 100% private and local AI assistant for your desktop. Always present, able to jump into conversations. Supports unlimited MCP tools and unlimited memory with self-learning. Free WisprFlow alternative with its dictation support. Runs on macOS, Windows and Linux.",
       "programmingLanguage": "Python",
-      "stars": 1485,
-      "forks": 183,
-      "starsInPeriod": 37
+      "stars": 2317,
+      "forks": 552,
+      "starsInPeriod": 26
     },
     {
       "rank": 8,
-      "fullName": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "fullName": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
       "programmingLanguage": "Python",
-      "stars": 11054,
-      "forks": 1503,
-      "starsInPeriod": 131
+      "stars": 112843,
+      "forks": 13666,
+      "starsInPeriod": 123
     },
     {
       "rank": 9,
-      "fullName": "HKUDS/AutoSwarm",
-      "url": "https://github.com/HKUDS/AutoSwarm",
-      "description": "AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.",
+      "fullName": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "programmingLanguage": "Python",
-      "stars": 2550,
-      "forks": 427,
-      "starsInPeriod": 64
+      "stars": 33867,
+      "forks": 4008,
+      "starsInPeriod": 119
     },
     {
       "rank": 10,
-      "fullName": "PrefectHQ/fastmcp",
-      "url": "https://github.com/PrefectHQ/fastmcp",
-      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "fullName": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "programmingLanguage": "Python",
-      "stars": 28552,
-      "forks": 2610,
-      "starsInPeriod": 82
+      "stars": 169070,
+      "forks": 35211,
+      "starsInPeriod": 68
     },
     {
       "rank": 11,
-      "fullName": "fqscfqj/Y2A-Auto",
-      "url": "https://github.com/fqscfqj/Y2A-Auto",
-      "description": "YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控",
+      "fullName": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "programmingLanguage": "Python",
-      "stars": 5013,
-      "forks": 850,
-      "starsInPeriod": 70
+      "stars": 46039,
+      "forks": 1816,
+      "starsInPeriod": 313
     },
     {
       "rank": 12,
-      "fullName": "andrewyng/openworker",
-      "url": "https://github.com/andrewyng/openworker",
-      "description": null,
+      "fullName": "vstorm-co/agenticos",
+      "url": "https://github.com/vstorm-co/agenticos",
+      "description": "Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI.",
       "programmingLanguage": "Python",
-      "stars": 19359,
-      "forks": 2758,
-      "starsInPeriod": 139
+      "stars": 361,
+      "forks": 63,
+      "starsInPeriod": 56
     },
     {
       "rank": 13,
-      "fullName": "ManimCommunity/manim",
-      "url": "https://github.com/ManimCommunity/manim",
-      "description": "A community-maintained Python framework for creating mathematical animations.",
-      "programmingLanguage": "Python",
-      "stars": 42598,
-      "forks": 3348,
-      "starsInPeriod": 83
-    },
-    {
-      "rank": 14,
       "fullName": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "programmingLanguage": "Python",
-      "stars": 38344,
-      "forks": 6244,
-      "starsInPeriod": 86
+      "stars": 38385,
+      "forks": 6247,
+      "starsInPeriod": 88
+    },
+    {
+      "rank": 14,
+      "fullName": "bkerler/mtkclient",
+      "url": "https://github.com/bkerler/mtkclient",
+      "description": "Mediatek Flash and Repair Utility",
+      "programmingLanguage": "Python",
+      "stars": 1538,
+      "forks": 313,
+      "starsInPeriod": 9
     },
     {
       "rank": 15,
-      "fullName": "Canner/WrenAI",
-      "url": "https://github.com/Canner/WrenAI",
-      "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "fullName": "FujiwaraChoki/supoclip",
+      "url": "https://github.com/FujiwaraChoki/supoclip",
+      "description": "An open-source OpusClip alternative",
       "programmingLanguage": "Python",
-      "stars": 18287,
-      "forks": 2110,
-      "starsInPeriod": 46
+      "stars": 3310,
+      "forks": 742,
+      "starsInPeriod": 103
     },
     {
       "rank": 16,
-      "fullName": "internetarchive/openlibrary",
-      "url": "https://github.com/internetarchive/openlibrary",
-      "description": "One webpage for every book ever published!",
+      "fullName": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "programmingLanguage": "Python",
-      "stars": 6917,
-      "forks": 2114,
-      "starsInPeriod": 6
-    },
-    {
-      "rank": 17,
-      "fullName": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
-      "programmingLanguage": "Python",
-      "stars": 79584,
-      "forks": 7420,
-      "starsInPeriod": 61
+      "stars": 8170,
+      "forks": 776,
+      "starsInPeriod": 89
     }
   ]
 }

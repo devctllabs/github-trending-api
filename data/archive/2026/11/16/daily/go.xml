@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Mon, 16 Nov 2026 06:25:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:00:26 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-16</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-11-16T06:25:41Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-16T22:00:26Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,13 +20,29 @@
       <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
       <pubDate>Mon, 16 Nov 2026 06:25:41 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>52369</ght:stars>
-      <ght:forks>4177</ght:forks>
-      <ght:starsInPeriod>691</ght:starsInPeriod>
+      <ght:stars>52880</ght:stars>
+      <ght:forks>4293</ght:forks>
+      <ght:starsInPeriod>946</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T06:25:41Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>getarcaneapp/arcane</title>
+      <link>https://github.com/getarcaneapp/arcane</link>
+      <description>Modern Docker Management, Designed for Everyone</description>
+      <guid isPermaLink="true">https://github.com/getarcaneapp/arcane</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:26 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>8651</ght:stars>
+      <ght:forks>402</ght:forks>
+      <ght:starsInPeriod>31</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
-      <ght:firstSeenAt>2026-11-16T06:25:41Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-16T06:25:41Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-16T22:00:26Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -36,14 +52,14 @@
       <guid isPermaLink="true">https://github.com/Tencent/LoopForge</guid>
       <pubDate>Mon, 16 Nov 2026 06:25:41 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>1812</ght:stars>
-      <ght:forks>304</ght:forks>
-      <ght:starsInPeriod>423</ght:starsInPeriod>
+      <ght:stars>2308</ght:stars>
+      <ght:forks>356</ght:forks>
+      <ght:starsInPeriod>1016</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
-      <ght:latestRank>2</ght:latestRank>
+      <ght:latestRank>3</ght:latestRank>
       <ght:firstSeenAt>2026-11-16T06:25:41Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-16T06:25:41Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>google/ax</title>
@@ -78,20 +94,36 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>Asymptote-Labs/agent-beacon</title>
+      <link>https://github.com/Asymptote-Labs/agent-beacon</link>
+      <description>The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu</description>
+      <guid isPermaLink="true">https://github.com/Asymptote-Labs/agent-beacon</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:26 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>3532</ght:stars>
+      <ght:forks>317</ght:forks>
+      <ght:starsInPeriod>33</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T22:00:26Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>kubescape/kubescape</title>
       <link>https://github.com/kubescape/kubescape</link>
       <description>Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.</description>
       <guid isPermaLink="true">https://github.com/kubescape/kubescape</guid>
       <pubDate>Mon, 16 Nov 2026 06:25:41 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>11924</ght:stars>
-      <ght:forks>1110</ght:forks>
-      <ght:starsInPeriod>13</ght:starsInPeriod>
+      <ght:stars>11939</ght:stars>
+      <ght:forks>1111</ght:forks>
+      <ght:starsInPeriod>26</ght:starsInPeriod>
       <ght:bestRank>5</ght:bestRank>
       <ght:latestRank>5</ght:latestRank>
       <ght:firstSeenAt>2026-11-16T06:25:41Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-16T06:25:41Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>trustwallet/assets</title>
@@ -110,19 +142,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>Billionmail/BillionMail</title>
+      <link>https://github.com/Billionmail/BillionMail</link>
+      <description>BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</description>
+      <guid isPermaLink="true">https://github.com/Billionmail/BillionMail</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:26 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>16393</ght:stars>
+      <ght:forks>1831</ght:forks>
+      <ght:starsInPeriod>54</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T22:00:26Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>HuskerMinion/techo5</title>
       <link>https://github.com/HuskerMinion/techo5</link>
       <description>Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.</description>
       <guid isPermaLink="true">https://github.com/HuskerMinion/techo5</guid>
       <pubDate>Mon, 16 Nov 2026 06:25:41 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>702</ght:stars>
-      <ght:forks>119</ght:forks>
-      <ght:starsInPeriod>22</ght:starsInPeriod>
+      <ght:stars>721</ght:stars>
+      <ght:forks>120</ght:forks>
+      <ght:starsInPeriod>26</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T06:25:41Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>gnacho/netpulse</title>
+      <link>https://github.com/gnacho/netpulse</link>
+      <description>PWA dashboard for monitoring OpenWrt/GL.iNet home networks: fleet status, per-router health, devices, WireGuard peers, AdGuard Home stats and alerts in real time (SSE). Go backend + React 19 frontend, SQLite, multi-user, i18n ES/EN.</description>
+      <guid isPermaLink="true">https://github.com/gnacho/netpulse</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:26 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>343</ght:stars>
+      <ght:forks>23</ght:forks>
+      <ght:starsInPeriod>36</ght:starsInPeriod>
       <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
-      <ght:firstSeenAt>2026-11-16T06:25:41Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-16T06:25:41Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-16T22:00:26Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -142,6 +206,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>agent-substrate/substrate</title>
+      <link>https://github.com/agent-substrate/substrate</link>
+      <description>Agent Substrate: the core system</description>
+      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:26 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>6877</ght:stars>
+      <ght:forks>766</ght:forks>
+      <ght:starsInPeriod>127</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T22:00:26Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>XTLS/Xray-core</title>
       <link>https://github.com/XTLS/Xray-core</link>
       <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
@@ -158,19 +238,51 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>openbkn-ai/bkn-foundry</title>
+      <link>https://github.com/openbkn-ai/bkn-foundry</link>
+      <description>BKN Foundry is the Ontology back-end foundation of OpenBKN. It transforms ontology-driven business semantics into runtime services: data, logic, actions, security governance, and observability.</description>
+      <guid isPermaLink="true">https://github.com/openbkn-ai/bkn-foundry</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:26 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>1399</ght:stars>
+      <ght:forks>139</ght:forks>
+      <ght:starsInPeriod>48</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T22:00:26Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>erigontech/erigon</title>
       <link>https://github.com/erigontech/erigon</link>
       <description>Ethereum implementation on the efficiency frontier</description>
       <guid isPermaLink="true">https://github.com/erigontech/erigon</guid>
       <pubDate>Mon, 16 Nov 2026 06:25:41 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>3633</ght:stars>
-      <ght:forks>1580</ght:forks>
-      <ght:starsInPeriod>3</ght:starsInPeriod>
+      <ght:stars>3637</ght:stars>
+      <ght:forks>1582</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T06:25:41Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>golang/go</title>
+      <link>https://github.com/golang/go</link>
+      <description>The Go programming language</description>
+      <guid isPermaLink="true">https://github.com/golang/go</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:26 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>139964</ght:stars>
+      <ght:forks>20262</ght:forks>
+      <ght:starsInPeriod>102</ght:starsInPeriod>
       <ght:bestRank>10</ght:bestRank>
       <ght:latestRank>10</ght:latestRank>
-      <ght:firstSeenAt>2026-11-16T06:25:41Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-16T06:25:41Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-16T22:00:26Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -190,6 +302,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>docker/compose</title>
+      <link>https://github.com/docker/compose</link>
+      <description>Define and run multi-container applications with Docker</description>
+      <guid isPermaLink="true">https://github.com/docker/compose</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:26 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>38903</ght:stars>
+      <ght:forks>6008</ght:forks>
+      <ght:starsInPeriod>90</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T22:00:26Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>mudler/LocalAI</title>
       <link>https://github.com/mudler/LocalAI</link>
       <description>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</description>
@@ -203,6 +331,22 @@
       <ght:latestRank>12</ght:latestRank>
       <ght:firstSeenAt>2026-11-16T06:25:41Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-16T06:25:41Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>kubernetes/kubernetes</title>
+      <link>https://github.com/kubernetes/kubernetes</link>
+      <description>Production-Grade Container Scheduling and Management</description>
+      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:26 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>129121</ght:stars>
+      <ght:forks>45094</ght:forks>
+      <ght:starsInPeriod>105</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T22:00:26Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -235,6 +379,22 @@
       <ght:latestRank>14</ght:latestRank>
       <ght:firstSeenAt>2026-11-16T06:25:41Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-16T06:25:41Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>dagucloud/dagu</title>
+      <link>https://github.com/dagucloud/dagu</link>
+      <description>Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.</description>
+      <guid isPermaLink="true">https://github.com/dagucloud/dagu</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:26 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>4619</ght:stars>
+      <ght:forks>403</ght:forks>
+      <ght:starsInPeriod>8</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-11-16T22:00:26Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-16T22:00:26Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
