@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-11-15T18:50:16Z",
+  "observedAt": "2026-11-16T06:25:41Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 51902,
-      "forks": 4084,
-      "starsInPeriod": 688
+      "stars": 52369,
+      "forks": 4177,
+      "starsInPeriod": 691
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/Tencent/LoopForge",
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "programmingLanguage": "Go",
-      "stars": 1349,
-      "forks": 260,
-      "starsInPeriod": 484
+      "stars": 1812,
+      "forks": 304,
+      "starsInPeriod": 423
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/google/ax",
       "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
       "programmingLanguage": "Go",
-      "stars": 14715,
-      "forks": 793,
-      "starsInPeriod": 35
+      "stars": 14729,
+      "forks": 794,
+      "starsInPeriod": 31
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "programmingLanguage": "Go",
-      "stars": 9918,
-      "forks": 459,
-      "starsInPeriod": 245
+      "stars": 9960,
+      "forks": 460,
+      "starsInPeriod": 238
     },
     {
       "rank": 5,
@@ -54,8 +54,8 @@
       "url": "https://github.com/kubescape/kubescape",
       "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
       "programmingLanguage": "Go",
-      "stars": 11916,
-      "forks": 1109,
+      "stars": 11924,
+      "forks": 1110,
       "starsInPeriod": 13
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/trustwallet/assets",
       "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
       "programmingLanguage": "Go",
-      "stars": 5415,
-      "forks": 27644,
+      "stars": 5417,
+      "forks": 27646,
       "starsInPeriod": 2
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/HuskerMinion/techo5",
       "description": "Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
       "programmingLanguage": "Go",
-      "stars": 692,
-      "forks": 117,
+      "stars": 702,
+      "forks": 119,
       "starsInPeriod": 22
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://github.com/gravitational/teleport",
       "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
       "programmingLanguage": "Go",
-      "stars": 21098,
+      "stars": 21105,
       "forks": 2190,
       "starsInPeriod": 2
     },
@@ -94,9 +94,9 @@
       "url": "https://github.com/XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "programmingLanguage": "Go",
-      "stars": 42926,
+      "stars": 42935,
       "forks": 6154,
-      "starsInPeriod": 26
+      "starsInPeriod": 27
     },
     {
       "rank": 10,
@@ -104,7 +104,7 @@
       "url": "https://github.com/erigontech/erigon",
       "description": "Ethereum implementation on the efficiency frontier",
       "programmingLanguage": "Go",
-      "stars": 3631,
+      "stars": 3633,
       "forks": 1580,
       "starsInPeriod": 3
     },
@@ -114,8 +114,8 @@
       "url": "https://github.com/getlago/lago",
       "description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
       "programmingLanguage": "Go",
-      "stars": 10871,
-      "forks": 794,
+      "stars": 10880,
+      "forks": 797,
       "starsInPeriod": 25
     },
     {
@@ -124,9 +124,9 @@
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "programmingLanguage": "Go",
-      "stars": 50376,
-      "forks": 4608,
-      "starsInPeriod": 11
+      "stars": 50387,
+      "forks": 4609,
+      "starsInPeriod": 13
     },
     {
       "rank": 13,
@@ -134,7 +134,7 @@
       "url": "https://github.com/jaegertracing/jaeger",
       "description": "CNCF Jaeger, a Distributed Tracing Platform",
       "programmingLanguage": "Go",
-      "stars": 23410,
+      "stars": 23415,
       "forks": 3247,
       "starsInPeriod": null
     },
@@ -144,9 +144,9 @@
       "url": "https://github.com/black-ant/Ant-Browser",
       "description": "指纹浏览器",
       "programmingLanguage": "Go",
-      "stars": 2188,
+      "stars": 2190,
       "forks": 358,
-      "starsInPeriod": 10
+      "starsInPeriod": 9
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "programmingLanguage": "Go",
-      "stars": 12205,
-      "forks": 4188,
-      "starsInPeriod": 15
+      "stars": 12211,
+      "forks": 4190,
+      "starsInPeriod": 14
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/gohugoio/hugo",
       "description": "The world’s fastest framework for building websites.",
       "programmingLanguage": "Go",
-      "stars": 90476,
-      "forks": 8463,
-      "starsInPeriod": 9
+      "stars": 90479,
+      "forks": 8482,
+      "starsInPeriod": 10
     },
     {
       "rank": 17,
@@ -174,7 +174,7 @@
       "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
       "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
       "programmingLanguage": "Go",
-      "stars": 5049,
+      "stars": 5055,
       "forks": 1234,
       "starsInPeriod": 8
     }

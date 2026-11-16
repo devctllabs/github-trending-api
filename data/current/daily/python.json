@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-11-15T18:49:55Z",
+  "observedAt": "2026-11-16T06:25:20Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "programmingLanguage": "Python",
-      "stars": 6173,
-      "forks": 949,
-      "starsInPeriod": 221
+      "stars": 6711,
+      "forks": 1021,
+      "starsInPeriod": 98
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "programmingLanguage": "Python",
-      "stars": 5364,
-      "forks": 1152,
-      "starsInPeriod": 707
+      "stars": 5771,
+      "forks": 1206,
+      "starsInPeriod": 706
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/NVIDIA/SkillEvaluator",
       "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "programmingLanguage": "Python",
-      "stars": 1498,
-      "forks": 210,
-      "starsInPeriod": 205
+      "stars": 1933,
+      "forks": 266,
+      "starsInPeriod": 122
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/bojieli/ai-infra-book",
       "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
       "programmingLanguage": "Python",
-      "stars": 7813,
-      "forks": 629,
-      "starsInPeriod": 151
+      "stars": 7846,
+      "forks": 634,
+      "starsInPeriod": 127
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "programmingLanguage": "Python",
-      "stars": 33747,
-      "forks": 3981,
-      "starsInPeriod": 179
+      "stars": 33789,
+      "forks": 3987,
+      "starsInPeriod": 174
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "programmingLanguage": "Python",
-      "stars": 5921,
-      "forks": 516,
-      "starsInPeriod": 285
+      "stars": 6053,
+      "forks": 535,
+      "starsInPeriod": 331
     },
     {
       "rank": 7,
@@ -74,8 +74,8 @@
       "url": "https://github.com/huytieu/COG-second-brain",
       "description": "Self-evolving second brain with 35 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
       "programmingLanguage": "Python",
-      "stars": 1476,
-      "forks": 182,
+      "stars": 1485,
+      "forks": 183,
       "starsInPeriod": 37
     },
     {
@@ -84,9 +84,9 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "programmingLanguage": "Python",
-      "stars": 11004,
-      "forks": 1499,
-      "starsInPeriod": 135
+      "stars": 11054,
+      "forks": 1503,
+      "starsInPeriod": 131
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/HKUDS/AutoSwarm",
       "description": "AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.",
       "programmingLanguage": "Python",
-      "stars": 2532,
-      "forks": 424,
-      "starsInPeriod": 56
+      "stars": 2550,
+      "forks": 427,
+      "starsInPeriod": 64
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/PrefectHQ/fastmcp",
       "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
       "programmingLanguage": "Python",
-      "stars": 28513,
-      "forks": 2605,
-      "starsInPeriod": 76
+      "stars": 28552,
+      "forks": 2610,
+      "starsInPeriod": 82
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/fqscfqj/Y2A-Auto",
       "description": "YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控",
       "programmingLanguage": "Python",
-      "stars": 5009,
-      "forks": 848,
-      "starsInPeriod": 99
+      "stars": 5013,
+      "forks": 850,
+      "starsInPeriod": 70
     },
     {
       "rank": 12,
@@ -124,8 +124,8 @@
       "url": "https://github.com/andrewyng/openworker",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 19327,
-      "forks": 2757,
+      "stars": 19359,
+      "forks": 2758,
       "starsInPeriod": 139
     },
     {
@@ -134,9 +134,9 @@
       "url": "https://github.com/ManimCommunity/manim",
       "description": "A community-maintained Python framework for creating mathematical animations.",
       "programmingLanguage": "Python",
-      "stars": 42574,
-      "forks": 3343,
-      "starsInPeriod": 73
+      "stars": 42598,
+      "forks": 3348,
+      "starsInPeriod": 83
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "programmingLanguage": "Python",
-      "stars": 38312,
-      "forks": 6239,
-      "starsInPeriod": 83
+      "stars": 38344,
+      "forks": 6244,
+      "starsInPeriod": 86
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/Canner/WrenAI",
       "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
       "programmingLanguage": "Python",
-      "stars": 18263,
-      "forks": 2108,
-      "starsInPeriod": 52
+      "stars": 18287,
+      "forks": 2110,
+      "starsInPeriod": 46
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/internetarchive/openlibrary",
       "description": "One webpage for every book ever published!",
       "programmingLanguage": "Python",
-      "stars": 6907,
-      "forks": 2113,
-      "starsInPeriod": 9
+      "stars": 6917,
+      "forks": 2114,
+      "starsInPeriod": 6
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/unslothai/unsloth",
       "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
       "programmingLanguage": "Python",
-      "stars": 79561,
-      "forks": 7418,
-      "starsInPeriod": 59
+      "stars": 79584,
+      "forks": 7420,
+      "starsInPeriod": 61
     }
   ]
 }

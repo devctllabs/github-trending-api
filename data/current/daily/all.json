@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-11-15T18:49:46Z",
+  "observedAt": "2026-11-16T06:25:10Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/dream-num/univer",
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "programmingLanguage": "TypeScript",
-      "stars": 25451,
-      "forks": 2326,
-      "starsInPeriod": 1041
+      "stars": 26561,
+      "forks": 2415,
+      "starsInPeriod": 988
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "programmingLanguage": "TypeScript",
-      "stars": 17715,
-      "forks": 1805,
-      "starsInPeriod": 393
+      "stars": 18132,
+      "forks": 1862,
+      "starsInPeriod": 355
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "programmingLanguage": "TypeScript",
-      "stars": 9186,
-      "forks": 1112,
-      "starsInPeriod": 248
+      "stars": 9453,
+      "forks": 1167,
+      "starsInPeriod": 247
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "programmingLanguage": "TypeScript",
-      "stars": 11730,
-      "forks": 1061,
-      "starsInPeriod": 860
+      "stars": 12036,
+      "forks": 1115,
+      "starsInPeriod": 866
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "programmingLanguage": "TypeScript",
-      "stars": 56799,
-      "forks": 4801,
-      "starsInPeriod": 718
+      "stars": 57186,
+      "forks": 4824,
+      "starsInPeriod": 717
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 51901,
-      "forks": 4084,
-      "starsInPeriod": 688
+      "stars": 52368,
+      "forks": 4177,
+      "starsInPeriod": 691
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/Tencent/LoopForge",
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "programmingLanguage": "Go",
-      "stars": 1349,
-      "forks": 260,
-      "starsInPeriod": 484
+      "stars": 1812,
+      "forks": 304,
+      "starsInPeriod": 423
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/ggml-org/ggml",
       "description": "Tensor library for machine learning",
       "programmingLanguage": "C++",
-      "stars": 15856,
-      "forks": 1999,
-      "starsInPeriod": 53
+      "stars": 15992,
+      "forks": 2048,
+      "starsInPeriod": 43
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "programmingLanguage": "Python",
-      "stars": 6172,
-      "forks": 949,
-      "starsInPeriod": 221
+      "stars": 6711,
+      "forks": 1021,
+      "starsInPeriod": 98
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
       "programmingLanguage": "TypeScript",
-      "stars": 6955,
-      "forks": 575,
-      "starsInPeriod": 1220
+      "stars": 7437,
+      "forks": 640,
+      "starsInPeriod": 1219
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "programmingLanguage": "Python",
-      "stars": 5364,
-      "forks": 1152,
-      "starsInPeriod": 707
+      "stars": 5771,
+      "forks": 1206,
+      "starsInPeriod": 706
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/NVIDIA/SkillEvaluator",
       "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "programmingLanguage": "Python",
-      "stars": 1498,
-      "forks": 210,
-      "starsInPeriod": 205
+      "stars": 1933,
+      "forks": 266,
+      "starsInPeriod": 122
     }
   ]
 }
