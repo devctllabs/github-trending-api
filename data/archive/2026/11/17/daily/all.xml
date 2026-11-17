@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — all</title>
     <link>https://github.com/trending</link>
     <description>GitHub Trending — daily — all</description>
-    <lastBuildDate>Tue, 17 Nov 2026 07:52:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:53:41 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-17</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>all</ght:language>
-    <ght:updatedAt>2026-11-17T07:52:53Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-17T20:53:41Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,14 +20,30 @@
       <guid isPermaLink="true">https://github.com/ag-ui-protocol/ag-ui</guid>
       <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>19517</ght:stars>
-      <ght:forks>2020</ght:forks>
-      <ght:starsInPeriod>791</ght:starsInPeriod>
+      <ght:stars>19920</ght:stars>
+      <ght:forks>2066</ght:forks>
+      <ght:starsInPeriod>1444</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>elementalsouls/Claude-BugHunter</title>
+      <link>https://github.com/elementalsouls/Claude-BugHunter</link>
+      <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
+      <guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
+      <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>8981</ght:stars>
+      <ght:forks>1345</ght:forks>
+      <ght:starsInPeriod>1007</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
       <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-17T07:52:53Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>backnotprop/plannotator</title>
@@ -36,14 +52,46 @@
       <guid isPermaLink="true">https://github.com/backnotprop/plannotator</guid>
       <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>12800</ght:stars>
-      <ght:forks>1271</ght:forks>
-      <ght:starsInPeriod>696</ght:starsInPeriod>
+      <ght:stars>13011</ght:stars>
+      <ght:forks>1312</ght:forks>
+      <ght:starsInPeriod>691</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>mvanhorn/last30days-skill</title>
+      <link>https://github.com/mvanhorn/last30days-skill</link>
+      <description>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</description>
+      <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
+      <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>68905</ght:stars>
+      <ght:forks>6143</ght:forks>
+      <ght:starsInPeriod>772</ght:starsInPeriod>
       <ght:bestRank>2</ght:bestRank>
       <ght:latestRank>2</ght:latestRank>
       <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-17T07:52:53Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <description>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>53644</ght:stars>
+      <ght:forks>4427</ght:forks>
+      <ght:starsInPeriod>764</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>dream-num/univer</title>
@@ -52,14 +100,14 @@
       <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
       <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>28487</ght:stars>
-      <ght:forks>2567</ght:forks>
-      <ght:starsInPeriod>1828</ght:starsInPeriod>
+      <ght:stars>28834</ght:stars>
+      <ght:forks>2616</ght:forks>
+      <ght:starsInPeriod>1776</ght:starsInPeriod>
       <ght:bestRank>3</ght:bestRank>
-      <ght:latestRank>3</ght:latestRank>
+      <ght:latestRank>5</ght:latestRank>
       <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-17T07:52:53Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>tradermonty/claude-trading-skills</title>
@@ -78,19 +126,19 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>elementalsouls/Claude-BugHunter</title>
-      <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-      <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
-      <guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
-      <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>7789</ght:stars>
-      <ght:forks>1215</ght:forks>
-      <ght:starsInPeriod>1094</ght:starsInPeriod>
-      <ght:bestRank>5</ght:bestRank>
-      <ght:latestRank>5</ght:latestRank>
-      <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-17T07:52:53Z</ght:lastSeenAt>
+      <title>Tencent/LoopForge</title>
+      <link>https://github.com/Tencent/LoopForge</link>
+      <description>Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.</description>
+      <guid isPermaLink="true">https://github.com/Tencent/LoopForge</guid>
+      <pubDate>Tue, 17 Nov 2026 20:53:41 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>3036</ght:stars>
+      <ght:forks>434</ght:forks>
+      <ght:starsInPeriod>590</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-11-17T20:53:41Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -100,14 +148,14 @@
       <guid isPermaLink="true">https://github.com/getarcaneapp/arcane</guid>
       <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>8934</ght:stars>
-      <ght:forks>461</ght:forks>
-      <ght:starsInPeriod>46</ght:starsInPeriod>
+      <ght:stars>9243</ght:stars>
+      <ght:forks>507</ght:forks>
+      <ght:starsInPeriod>654</ght:starsInPeriod>
       <ght:bestRank>6</ght:bestRank>
       <ght:latestRank>6</ght:latestRank>
       <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-17T07:52:53Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>DeanChensj/jiangshan-map</title>
@@ -132,29 +180,45 @@
       <guid isPermaLink="true">https://github.com/google-labs-code/stitch-skills</guid>
       <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
       <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
-      <ght:stars>9846</ght:stars>
-      <ght:forks>1279</ght:forks>
-      <ght:starsInPeriod>529</ght:starsInPeriod>
+      <ght:stars>10042</ght:stars>
+      <ght:forks>1326</ght:forks>
+      <ght:starsInPeriod>350</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>cursor/plugins</title>
+      <link>https://github.com/cursor/plugins</link>
+      <description>Cursor plugin specification and official plugins</description>
+      <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
+      <pubDate>Tue, 17 Nov 2026 20:53:41 GMT</pubDate>
+      <ght:programmingLanguage>TypeScript</ght:programmingLanguage>
+      <ght:stars>16851</ght:stars>
+      <ght:forks>1828</ght:forks>
+      <ght:starsInPeriod>196</ght:starsInPeriod>
       <ght:bestRank>8</ght:bestRank>
       <ght:latestRank>8</ght:latestRank>
-      <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-17T07:52:53Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-17T20:53:41Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>mvanhorn/last30days-skill</title>
-      <link>https://github.com/mvanhorn/last30days-skill</link>
-      <description>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</description>
-      <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
-      <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
-      <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>68391</ght:stars>
-      <ght:forks>6084</ght:forks>
-      <ght:starsInPeriod>135</ght:starsInPeriod>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>An agentic skills framework &amp; software development methodology that works.</description>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+      <pubDate>Tue, 17 Nov 2026 20:53:41 GMT</pubDate>
+      <ght:programmingLanguage>Shell</ght:programmingLanguage>
+      <ght:stars>319218</ght:stars>
+      <ght:forks>28466</ght:forks>
+      <ght:starsInPeriod>598</ght:starsInPeriod>
       <ght:bestRank>9</ght:bestRank>
       <ght:latestRank>9</ght:latestRank>
-      <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-17T07:52:53Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-17T20:53:41Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -174,36 +238,36 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>alibaba/open-code-review</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <description>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
-      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
-      <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>53214</ght:stars>
-      <ght:forks>4361</ght:forks>
-      <ght:starsInPeriod>951</ght:starsInPeriod>
-      <ght:bestRank>11</ght:bestRank>
-      <ght:latestRank>11</ght:latestRank>
-      <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-17T07:52:53Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
       <title>google-research/paper-orchestra</title>
       <link>https://github.com/google-research/paper-orchestra</link>
       <description>PaperOrchestra is a multi-agent framework for automated AI research paper writing.</description>
       <guid isPermaLink="true">https://github.com/google-research/paper-orchestra</guid>
       <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
       <ght:programmingLanguage>Python</ght:programmingLanguage>
-      <ght:stars>1870</ght:stars>
-      <ght:forks>300</ght:forks>
-      <ght:starsInPeriod>313</ght:starsInPeriod>
+      <ght:stars>2819</ght:stars>
+      <ght:forks>400</ght:forks>
+      <ght:starsInPeriod>1175</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>15</ght:latestRank>
+      <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>sveltejs/svelte</title>
+      <link>https://github.com/sveltejs/svelte</link>
+      <description>web development for the rest of us</description>
+      <guid isPermaLink="true">https://github.com/sveltejs/svelte</guid>
+      <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
+      <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
+      <ght:stars>89550</ght:stars>
+      <ght:forks>6258</ght:forks>
+      <ght:starsInPeriod>533</ght:starsInPeriod>
       <ght:bestRank>12</ght:bestRank>
       <ght:latestRank>12</ght:latestRank>
       <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-17T07:52:53Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>ChromeDevTools/chrome-devtools-mcp</title>
@@ -222,19 +286,35 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>sveltejs/svelte</title>
-      <link>https://github.com/sveltejs/svelte</link>
-      <description>web development for the rest of us</description>
-      <guid isPermaLink="true">https://github.com/sveltejs/svelte</guid>
-      <pubDate>Tue, 17 Nov 2026 07:52:53 GMT</pubDate>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <description>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
+      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
+      <pubDate>Tue, 17 Nov 2026 20:53:41 GMT</pubDate>
       <ght:programmingLanguage>JavaScript</ght:programmingLanguage>
-      <ght:stars>89124</ght:stars>
-      <ght:forks>6139</ght:forks>
-      <ght:starsInPeriod>115</ght:starsInPeriod>
+      <ght:stars>305359</ght:stars>
+      <ght:forks>44966</ght:forks>
+      <ght:starsInPeriod>902</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-11-17T20:53:41Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>jingyaogong/minimind</title>
+      <link>https://github.com/jingyaogong/minimind</link>
+      <description>🧠 Train a 64M-parameter LLM from scratch in just 2h!</description>
+      <guid isPermaLink="true">https://github.com/jingyaogong/minimind</guid>
+      <pubDate>Tue, 17 Nov 2026 20:53:41 GMT</pubDate>
+      <ght:programmingLanguage>Python</ght:programmingLanguage>
+      <ght:stars>65866</ght:stars>
+      <ght:forks>8650</ght:forks>
+      <ght:starsInPeriod>188</ght:starsInPeriod>
       <ght:bestRank>14</ght:bestRank>
       <ght:latestRank>14</ght:latestRank>
-      <ght:firstSeenAt>2026-11-17T07:52:53Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-17T07:52:53Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-17T20:53:41Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-17T20:53:41Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>

@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-11-17T07:53:27Z",
+  "observedAt": "2026-11-17T20:54:22Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,28 +14,28 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 53214,
-      "forks": 4361,
+      "stars": 53644,
+      "forks": 4427,
       "starsInPeriod": 3056
     },
     {
       "rank": 2,
+      "fullName": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "programmingLanguage": "Go",
+      "stars": 9243,
+      "forks": 507,
+      "starsInPeriod": 199
+    },
+    {
+      "rank": 3,
       "fullName": "opensandbox-group/OpenSandbox",
       "url": "https://github.com/opensandbox-group/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "programmingLanguage": "Go",
-      "stars": 17405,
-      "forks": 1668,
-      "starsInPeriod": 600
-    },
-    {
-      "rank": 3,
-      "fullName": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "programmingLanguage": "Go",
-      "stars": 6942,
-      "forks": 776,
+      "stars": 17468,
+      "forks": 1682,
       "starsInPeriod": 600
     },
     {
@@ -44,149 +44,139 @@
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 29448,
-      "forks": 2767,
+      "stars": 29475,
+      "forks": 2775,
       "starsInPeriod": 370
     },
     {
       "rank": 5,
-      "fullName": "cli/cli",
-      "url": "https://github.com/cli/cli",
-      "description": "GitHub’s official command line tool",
-      "programmingLanguage": "Go",
-      "stars": 47053,
-      "forks": 9389,
-      "starsInPeriod": 147
-    },
-    {
-      "rank": 6,
-      "fullName": "dsx-ai-factory/nvke",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "programmingLanguage": "Go",
-      "stars": 1235,
-      "forks": 164,
-      "starsInPeriod": 232
-    },
-    {
-      "rank": 7,
-      "fullName": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "programmingLanguage": "Go",
-      "stars": 10025,
-      "forks": 464,
-      "starsInPeriod": 1212
-    },
-    {
-      "rank": 8,
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "programmingLanguage": "Go",
-      "stars": 120843,
-      "forks": 7060,
-      "starsInPeriod": 2258
-    },
-    {
-      "rank": 9,
-      "fullName": "runkids/skillshare",
-      "url": "https://github.com/runkids/skillshare",
-      "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
-      "programmingLanguage": "Go",
-      "stars": 3197,
-      "forks": 385,
-      "starsInPeriod": 191
-    },
-    {
-      "rank": 10,
-      "fullName": "kagent-dev/kagent",
-      "url": "https://github.com/kagent-dev/kagent",
-      "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
-      "programmingLanguage": "Go",
-      "stars": 4388,
-      "forks": 923,
-      "starsInPeriod": 169
-    },
-    {
-      "rank": 11,
-      "fullName": "evcc-io/evcc",
-      "url": "https://github.com/evcc-io/evcc",
-      "description": "smart charging ☀️🚘",
-      "programmingLanguage": "Go",
-      "stars": 7621,
-      "forks": 1646,
-      "starsInPeriod": 73
-    },
-    {
-      "rank": 12,
       "fullName": "gosom/google-maps-scraper",
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 8156,
-      "forks": 1296,
+      "stars": 8192,
+      "forks": 1306,
       "starsInPeriod": 438
     },
     {
+      "rank": 6,
+      "fullName": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "programmingLanguage": "Go",
+      "stars": 7256,
+      "forks": 801,
+      "starsInPeriod": 600
+    },
+    {
+      "rank": 7,
+      "fullName": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "programmingLanguage": "Go",
+      "stars": 47066,
+      "forks": 9406,
+      "starsInPeriod": 147
+    },
+    {
+      "rank": 8,
+      "fullName": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "programmingLanguage": "Go",
+      "stars": 10048,
+      "forks": 466,
+      "starsInPeriod": 1212
+    },
+    {
+      "rank": 9,
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "programmingLanguage": "Go",
+      "stars": 121029,
+      "forks": 7068,
+      "starsInPeriod": 2258
+    },
+    {
+      "rank": 10,
+      "fullName": "runkids/skillshare",
+      "url": "https://github.com/runkids/skillshare",
+      "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
+      "programmingLanguage": "Go",
+      "stars": 3208,
+      "forks": 385,
+      "starsInPeriod": 191
+    },
+    {
+      "rank": 11,
+      "fullName": "kagent-dev/kagent",
+      "url": "https://github.com/kagent-dev/kagent",
+      "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+      "programmingLanguage": "Go",
+      "stars": 4409,
+      "forks": 928,
+      "starsInPeriod": 169
+    },
+    {
+      "rank": 12,
+      "fullName": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "smart charging ☀️🚘",
+      "programmingLanguage": "Go",
+      "stars": 7626,
+      "forks": 1644,
+      "starsInPeriod": 73
+    },
+    {
       "rank": 13,
-      "fullName": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-      "programmingLanguage": "Go",
-      "stars": 56416,
-      "forks": 7438,
-      "starsInPeriod": 985
-    },
-    {
-      "rank": 14,
-      "fullName": "gitleaks/gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
-      "programmingLanguage": "Go",
-      "stars": 31107,
-      "forks": 2384,
-      "starsInPeriod": 271
-    },
-    {
-      "rank": 15,
       "fullName": "docker/compose",
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 38923,
-      "forks": 6025,
+      "stars": 39115,
+      "forks": 6107,
       "starsInPeriod": 321
     },
     {
-      "rank": 16,
-      "fullName": "router-for-me/CLIProxyAPI",
-      "url": "https://github.com/router-for-me/CLIProxyAPI",
-      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+      "rank": 14,
+      "fullName": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 58782,
-      "forks": 9013,
-      "starsInPeriod": 736
+      "stars": 56470,
+      "forks": 7446,
+      "starsInPeriod": 985
+    },
+    {
+      "rank": 15,
+      "fullName": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "programmingLanguage": "Go",
+      "stars": 31140,
+      "forks": 2385,
+      "starsInPeriod": 271
+    },
+    {
+      "rank": 16,
+      "fullName": "Billionmail/BillionMail",
+      "url": "https://github.com/Billionmail/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "programmingLanguage": "Go",
+      "stars": 16403,
+      "forks": 1832,
+      "starsInPeriod": 190
     },
     {
       "rank": 17,
-      "fullName": "henrygd/beszel",
-      "url": "https://github.com/henrygd/beszel",
-      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+      "fullName": "navidrome/navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧 Your Personal Streaming Service",
       "programmingLanguage": "Go",
-      "stars": 27420,
-      "forks": 1188,
-      "starsInPeriod": 384
-    },
-    {
-      "rank": 18,
-      "fullName": "getarcaneapp/arcane",
-      "url": "https://github.com/getarcaneapp/arcane",
-      "description": "Modern Docker Management, Designed for Everyone",
-      "programmingLanguage": "Go",
-      "stars": 8934,
-      "forks": 461,
-      "starsInPeriod": 199
+      "stars": 24813,
+      "forks": 1822,
+      "starsInPeriod": 189
     }
   ]
 }

@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=monthly",
-  "observedAt": "2026-11-17T07:53:11Z",
+  "observedAt": "2026-11-17T20:54:00Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 196266,
-      "forks": 23035,
+      "stars": 196654,
+      "forks": 23060,
       "starsInPeriod": 14817
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "programmingLanguage": "Python",
-      "stars": 59883,
-      "forks": 7251,
+      "stars": 60032,
+      "forks": 7272,
       "starsInPeriod": 18533
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "programmingLanguage": "Python",
-      "stars": 113377,
-      "forks": 13057,
+      "stars": 113710,
+      "forks": 13091,
       "starsInPeriod": 19079
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "programmingLanguage": "Python",
-      "stars": 30149,
-      "forks": 3790,
+      "stars": 30352,
+      "forks": 3797,
       "starsInPeriod": 10989
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "programmingLanguage": "Python",
-      "stars": 36337,
-      "forks": 4015,
+      "stars": 36416,
+      "forks": 4022,
       "starsInPeriod": 6537
     },
     {
@@ -64,39 +64,39 @@
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "programmingLanguage": "Python",
-      "stars": 47079,
-      "forks": 3604,
+      "stars": 47123,
+      "forks": 3609,
       "starsInPeriod": 5303
     },
     {
       "rank": 7,
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "programmingLanguage": "Python",
-      "stars": 112161,
-      "forks": 12447,
-      "starsInPeriod": 42133
-    },
-    {
-      "rank": 8,
       "fullName": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 26514,
-      "forks": 2356,
+      "stars": 26626,
+      "forks": 2368,
       "starsInPeriod": 6127
     },
     {
-      "rank": 9,
+      "rank": 8,
       "fullName": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "programmingLanguage": "Python",
-      "stars": 103743,
-      "forks": 10820,
+      "stars": 103923,
+      "forks": 10843,
       "starsInPeriod": 15971
+    },
+    {
+      "rank": 9,
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "programmingLanguage": "Python",
+      "stars": 73059,
+      "forks": 57778,
+      "starsInPeriod": 6801
     },
     {
       "rank": 10,
@@ -104,79 +104,89 @@
       "url": "https://github.com/The-PR-Agent/pr-agent",
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "programmingLanguage": "Python",
-      "stars": 16307,
-      "forks": 2209,
+      "stars": 16332,
+      "forks": 2210,
       "starsInPeriod": 2921
     },
     {
       "rank": 11,
-      "fullName": "fastapi/fastapi",
-      "url": "https://github.com/fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-      "programmingLanguage": "Python",
-      "stars": 104830,
-      "forks": 10325,
-      "starsInPeriod": 2670
-    },
-    {
-      "rank": 12,
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "programmingLanguage": "Python",
-      "stars": 144091,
-      "forks": 23101,
-      "starsInPeriod": 12631
-    },
-    {
-      "rank": 13,
-      "fullName": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "programmingLanguage": "Python",
-      "stars": 85797,
-      "forks": 13015,
-      "starsInPeriod": 6391
-    },
-    {
-      "rank": 14,
-      "fullName": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "programmingLanguage": "Python",
-      "stars": 47335,
-      "forks": 5758,
-      "starsInPeriod": 5564
-    },
-    {
-      "rank": 15,
       "fullName": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "programmingLanguage": "Python",
-      "stars": 122889,
-      "forks": 23563,
+      "stars": 122959,
+      "forks": 23574,
       "starsInPeriod": 11824
     },
     {
+      "rank": 12,
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "programmingLanguage": "Python",
+      "stars": 112727,
+      "forks": 12512,
+      "starsInPeriod": 42133
+    },
+    {
+      "rank": 13,
+      "fullName": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "programmingLanguage": "Python",
+      "stars": 144208,
+      "forks": 23134,
+      "starsInPeriod": 12631
+    },
+    {
+      "rank": 14,
+      "fullName": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "programmingLanguage": "Python",
+      "stars": 105030,
+      "forks": 10419,
+      "starsInPeriod": 2670
+    },
+    {
+      "rank": 15,
+      "fullName": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "programmingLanguage": "Python",
+      "stars": 70316,
+      "forks": 5522,
+      "starsInPeriod": 12777
+    },
+    {
       "rank": 16,
+      "fullName": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "programmingLanguage": "Python",
+      "stars": 8981,
+      "forks": 1345,
+      "starsInPeriod": 2829
+    },
+    {
+      "rank": 17,
+      "fullName": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "programmingLanguage": "Python",
+      "stars": 47370,
+      "forks": 5759,
+      "starsInPeriod": 5564
+    },
+    {
+      "rank": 18,
       "fullName": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "programmingLanguage": "Python",
-      "stars": 97078,
-      "forks": 24913,
+      "stars": 97111,
+      "forks": 24936,
       "starsInPeriod": 3311
-    },
-    {
-      "rank": 17,
-      "fullName": "pandas-dev/pandas",
-      "url": "https://github.com/pandas-dev/pandas",
-      "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
-      "programmingLanguage": "Python",
-      "stars": 50547,
-      "forks": 20744,
-      "starsInPeriod": 980
     }
   ]
 }

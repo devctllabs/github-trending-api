@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript?since=monthly",
-  "observedAt": "2026-11-17T07:53:40Z",
+  "observedAt": "2026-11-17T20:54:43Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "programmingLanguage": "JavaScript",
-      "stars": 74175,
-      "forks": 4967,
+      "stars": 74690,
+      "forks": 5003,
       "starsInPeriod": 43924
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "programmingLanguage": "JavaScript",
-      "stars": 117130,
-      "forks": 7839,
+      "stars": 117642,
+      "forks": 7871,
       "starsInPeriod": 19384
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/rorygallagher2024/glasshouse",
       "description": "For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.",
       "programmingLanguage": "JavaScript",
-      "stars": 2199,
-      "forks": 141,
+      "stars": 2218,
+      "forks": 143,
       "starsInPeriod": 1519
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "programmingLanguage": "JavaScript",
-      "stars": 23275,
-      "forks": 1320,
+      "stars": 23386,
+      "forks": 1325,
       "starsInPeriod": 5737
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "programmingLanguage": "JavaScript",
-      "stars": 22306,
-      "forks": 2968,
+      "stars": 22507,
+      "forks": 2988,
       "starsInPeriod": 9326
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
       "programmingLanguage": "JavaScript",
-      "stars": 118699,
-      "forks": 37014,
+      "stars": 118760,
+      "forks": 37020,
       "starsInPeriod": 2270
     },
     {
@@ -74,19 +74,19 @@
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "programmingLanguage": "JavaScript",
-      "stars": 40225,
-      "forks": 2902,
+      "stars": 40324,
+      "forks": 2906,
       "starsInPeriod": 17073
     },
     {
       "rank": 8,
-      "fullName": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "description": null,
+      "fullName": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "programmingLanguage": "JavaScript",
-      "stars": 7720,
-      "forks": 1255,
-      "starsInPeriod": 2912
+      "stars": 61021,
+      "forks": 8886,
+      "starsInPeriod": 5935
     },
     {
       "rank": 9,
@@ -94,28 +94,38 @@
       "url": "https://github.com/ConardLi/garden-skills",
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "programmingLanguage": "JavaScript",
-      "stars": 15326,
-      "forks": 1741,
+      "stars": 15363,
+      "forks": 1743,
       "starsInPeriod": 2426
     },
     {
       "rank": 10,
-      "fullName": "jquery/jquery",
-      "url": "https://github.com/jquery/jquery",
-      "description": "jQuery JavaScript Library",
+      "fullName": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
       "programmingLanguage": "JavaScript",
-      "stars": 59915,
-      "forks": 20690,
-      "starsInPeriod": 380
+      "stars": 94551,
+      "forks": 8864,
+      "starsInPeriod": 2173
     },
     {
       "rank": 11,
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "programmingLanguage": "JavaScript",
+      "stars": 118627,
+      "forks": 12372,
+      "starsInPeriod": 11438
+    },
+    {
+      "rank": 12,
       "fullName": "Anil-matcha/Open-Generative-AI",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "programmingLanguage": "JavaScript",
-      "stars": 35072,
-      "forks": 6732,
+      "stars": 35169,
+      "forks": 6754,
       "starsInPeriod": 4570
     }
   ]

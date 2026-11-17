@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-11-17T07:53:17Z",
+  "observedAt": "2026-11-17T20:54:08Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,99 +14,99 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 52158,
-      "forks": 3648,
+      "stars": 52332,
+      "forks": 3660,
       "starsInPeriod": 3760
     },
     {
       "rank": 2,
-      "fullName": "tokio-rs/topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "programmingLanguage": "Rust",
-      "stars": 7245,
-      "forks": 312,
-      "starsInPeriod": 836
-    },
-    {
-      "rank": 3,
       "fullName": "block/buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "programmingLanguage": "Rust",
-      "stars": 37540,
-      "forks": 4959,
+      "stars": 37555,
+      "forks": 4958,
       "starsInPeriod": 728
     },
     {
-      "rank": 4,
-      "fullName": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
+      "rank": 3,
+      "fullName": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
       "programmingLanguage": "Rust",
-      "stars": 24743,
-      "forks": 1845,
-      "starsInPeriod": 4451
+      "stars": 7251,
+      "forks": 313,
+      "starsInPeriod": 836
     },
     {
-      "rank": 5,
+      "rank": 4,
       "fullName": "zellij-org/zellij",
       "url": "https://github.com/zellij-org/zellij",
       "description": "A terminal workspace with batteries included",
       "programmingLanguage": "Rust",
-      "stars": 36108,
-      "forks": 1544,
+      "stars": 36115,
+      "forks": 1545,
       "starsInPeriod": 177
     },
     {
+      "rank": 5,
+      "fullName": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "programmingLanguage": "Rust",
+      "stars": 24972,
+      "forks": 1866,
+      "starsInPeriod": 4451
+    },
+    {
       "rank": 6,
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "programmingLanguage": "Rust",
-      "stars": 104481,
-      "forks": 13586,
-      "starsInPeriod": 1353
-    },
-    {
-      "rank": 7,
-      "fullName": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "programmingLanguage": "Rust",
-      "stars": 129801,
-      "forks": 20793,
-      "starsInPeriod": 1010
-    },
-    {
-      "rank": 8,
-      "fullName": "astral-sh/ruff",
-      "url": "https://github.com/astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "programmingLanguage": "Rust",
-      "stars": 51258,
-      "forks": 2732,
-      "starsInPeriod": 365
-    },
-    {
-      "rank": 9,
       "fullName": "ModernRelay/omnigraph",
       "url": "https://github.com/ModernRelay/omnigraph",
       "description": "Object-storage native graph database with branching and typed ontology",
       "programmingLanguage": "Rust",
-      "stars": 2873,
+      "stars": 2950,
       "forks": 330,
       "starsInPeriod": 800
     },
     {
-      "rank": 10,
-      "fullName": "CapSoftware/Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "rank": 7,
+      "fullName": "crmne/zapfast",
+      "url": "https://github.com/crmne/zapfast",
+      "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "programmingLanguage": "Rust",
-      "stars": 25150,
-      "forks": 2370,
-      "starsInPeriod": 397
+      "stars": 4676,
+      "forks": 469,
+      "starsInPeriod": 916
+    },
+    {
+      "rank": 8,
+      "fullName": "martin-olivier/airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
+      "programmingLanguage": "Rust",
+      "stars": 6586,
+      "forks": 1091,
+      "starsInPeriod": 1453
+    },
+    {
+      "rank": 9,
+      "fullName": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "programmingLanguage": "Rust",
+      "stars": 129897,
+      "forks": 20827,
+      "starsInPeriod": 1010
+    },
+    {
+      "rank": 10,
+      "fullName": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+      "programmingLanguage": "Rust",
+      "stars": 43021,
+      "forks": 2021,
+      "starsInPeriod": 737
     }
   ]
 }

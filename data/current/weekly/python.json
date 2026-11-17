@@ -4,89 +4,89 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-11-17T07:53:07Z",
+  "observedAt": "2026-11-17T20:53:55Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "programmingLanguage": "Python",
-      "stars": 196266,
-      "forks": 23035,
-      "starsInPeriod": 5666
-    },
-    {
-      "rank": 2,
       "fullName": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "programmingLanguage": "Python",
-      "stars": 72923,
-      "forks": 57710,
+      "stars": 73059,
+      "forks": 57778,
       "starsInPeriod": 4355
     },
     {
+      "rank": 2,
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "programmingLanguage": "Python",
+      "stars": 196654,
+      "forks": 23060,
+      "starsInPeriod": 5666
+    },
+    {
       "rank": 3,
-      "fullName": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "programmingLanguage": "Python",
-      "stars": 113377,
-      "forks": 13057,
-      "starsInPeriod": 7067
-    },
-    {
-      "rank": 4,
-      "fullName": "google/elephant-goldfish-model",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "description": "Open-source plugin for designing and reviewing software with agents",
-      "programmingLanguage": "Python",
-      "stars": 20513,
-      "forks": 1519,
-      "starsInPeriod": 4249
-    },
-    {
-      "rank": 5,
-      "fullName": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "programmingLanguage": "Python",
-      "stars": 7917,
-      "forks": 463,
-      "starsInPeriod": 2221
-    },
-    {
-      "rank": 6,
-      "fullName": "tradermonty/claude-trading-skills",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "programmingLanguage": "Python",
-      "stars": 6577,
-      "forks": 1378,
-      "starsInPeriod": 2407
-    },
-    {
-      "rank": 7,
       "fullName": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "programmingLanguage": "Python",
-      "stars": 7789,
-      "forks": 1215,
+      "stars": 8981,
+      "forks": 1345,
       "starsInPeriod": 1747
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "fullName": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "programmingLanguage": "Python",
+      "stars": 6830,
+      "forks": 1403,
+      "starsInPeriod": 2407
+    },
+    {
+      "rank": 5,
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "programmingLanguage": "Python",
+      "stars": 68905,
+      "forks": 6143,
+      "starsInPeriod": 901
+    },
+    {
+      "rank": 6,
       "fullName": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
       "programmingLanguage": "Python",
-      "stars": 40828,
-      "forks": 3298,
+      "stars": 40855,
+      "forks": 3300,
       "starsInPeriod": 933
+    },
+    {
+      "rank": 7,
+      "fullName": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "programmingLanguage": "Python",
+      "stars": 7950,
+      "forks": 467,
+      "starsInPeriod": 2221
+    },
+    {
+      "rank": 8,
+      "fullName": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "programmingLanguage": "Python",
+      "stars": 7693,
+      "forks": 711,
+      "starsInPeriod": 1528
     },
     {
       "rank": 9,
@@ -94,89 +94,89 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "programmingLanguage": "Python",
-      "stars": 33892,
-      "forks": 4017,
+      "stars": 33922,
+      "forks": 4026,
       "starsInPeriod": 640
     },
     {
       "rank": 10,
-      "fullName": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "fullName": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
       "programmingLanguage": "Python",
-      "stars": 21075,
-      "forks": 3495,
-      "starsInPeriod": 1241
+      "stars": 70316,
+      "forks": 5522,
+      "starsInPeriod": 2860
     },
     {
       "rank": 11,
-      "fullName": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "fullName": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
       "programmingLanguage": "Python",
-      "stars": 68391,
-      "forks": 6084,
-      "starsInPeriod": 901
+      "stars": 113710,
+      "forks": 13090,
+      "starsInPeriod": 7067
     },
     {
       "rank": 12,
-      "fullName": "kajisho5/ffmpeg-skill",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "fullName": "google/elephant-goldfish-model",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "description": "Open-source plugin for designing and reviewing software with agents",
       "programmingLanguage": "Python",
-      "stars": 7245,
-      "forks": 656,
-      "starsInPeriod": 1528
+      "stars": 20752,
+      "forks": 1530,
+      "starsInPeriod": 4249
     },
     {
       "rank": 13,
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "programmingLanguage": "Python",
-      "stars": 26514,
-      "forks": 2356,
-      "starsInPeriod": 1373
-    },
-    {
-      "rank": 14,
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "programmingLanguage": "Python",
-      "stars": 144091,
-      "forks": 23101,
-      "starsInPeriod": 2646
-    },
-    {
-      "rank": 15,
-      "fullName": "googlecolab/google-colab-cli",
-      "url": "https://github.com/googlecolab/google-colab-cli",
-      "description": "A CLI for interacting with Google Colab runtimes",
-      "programmingLanguage": "Python",
-      "stars": 2518,
-      "forks": 368,
-      "starsInPeriod": 380
-    },
-    {
-      "rank": 16,
-      "fullName": "Jakeschincariol/instagram-agent-skill",
-      "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
-      "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
-      "programmingLanguage": "Python",
-      "stars": 6858,
-      "forks": 1336,
-      "starsInPeriod": 1131
-    },
-    {
-      "rank": 17,
       "fullName": "FujiwaraChoki/supoclip",
       "url": "https://github.com/FujiwaraChoki/supoclip",
       "description": "An open-source OpusClip alternative",
       "programmingLanguage": "Python",
-      "stars": 3351,
-      "forks": 751,
+      "stars": 3423,
+      "forks": 769,
       "starsInPeriod": 573
+    },
+    {
+      "rank": 14,
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "programmingLanguage": "Python",
+      "stars": 26626,
+      "forks": 2368,
+      "starsInPeriod": 1373
+    },
+    {
+      "rank": 15,
+      "fullName": "Jakeschincariol/instagram-agent-skill",
+      "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
+      "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
+      "programmingLanguage": "Python",
+      "stars": 6966,
+      "forks": 1353,
+      "starsInPeriod": 1131
+    },
+    {
+      "rank": 16,
+      "fullName": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "description": null,
+      "programmingLanguage": "Python",
+      "stars": 19421,
+      "forks": 2770,
+      "starsInPeriod": 495
+    },
+    {
+      "rank": 17,
+      "fullName": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "programmingLanguage": "Python",
+      "stars": 71037,
+      "forks": 11026,
+      "starsInPeriod": 3313
     }
   ]
 }

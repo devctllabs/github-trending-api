@@ -4,169 +4,169 @@
   "period": "daily",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python",
-  "observedAt": "2026-11-17T07:53:03Z",
+  "observedAt": "2026-11-17T20:53:52Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "tradermonty/claude-trading-skills",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "programmingLanguage": "Python",
-      "stars": 6577,
-      "forks": 1378,
-      "starsInPeriod": 837
-    },
-    {
-      "rank": 2,
       "fullName": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "programmingLanguage": "Python",
-      "stars": 7789,
-      "forks": 1215,
-      "starsInPeriod": 1094
+      "stars": 8981,
+      "forks": 1345,
+      "starsInPeriod": 1007
     },
     {
-      "rank": 3,
+      "rank": 2,
       "fullName": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "programmingLanguage": "Python",
-      "stars": 68391,
-      "forks": 6084,
-      "starsInPeriod": 135
+      "stars": 68905,
+      "forks": 6143,
+      "starsInPeriod": 772
+    },
+    {
+      "rank": 3,
+      "fullName": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "programmingLanguage": "Python",
+      "stars": 65866,
+      "forks": 8650,
+      "starsInPeriod": 188
     },
     {
       "rank": 4,
-      "fullName": "NVIDIA/SkillEvaluator",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "programmingLanguage": "Python",
-      "stars": 3014,
-      "forks": 430,
-      "starsInPeriod": 873
-    },
-    {
-      "rank": 5,
       "fullName": "google-research/paper-orchestra",
       "url": "https://github.com/google-research/paper-orchestra",
       "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "programmingLanguage": "Python",
-      "stars": 1870,
-      "forks": 300,
-      "starsInPeriod": 313
+      "stars": 2819,
+      "forks": 400,
+      "starsInPeriod": 1175
+    },
+    {
+      "rank": 5,
+      "fullName": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "programmingLanguage": "Python",
+      "stars": 3306,
+      "forks": 464,
+      "starsInPeriod": 969
     },
     {
       "rank": 6,
+      "fullName": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "programmingLanguage": "Python",
+      "stars": 76303,
+      "forks": 8657,
+      "starsInPeriod": 325
+    },
+    {
+      "rank": 7,
+      "fullName": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "programmingLanguage": "Python",
+      "stars": 6830,
+      "forks": 1403,
+      "starsInPeriod": 771
+    },
+    {
+      "rank": 8,
       "fullName": "kajisho5/ffmpeg-skill",
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "programmingLanguage": "Python",
-      "stars": 7245,
-      "forks": 656,
-      "starsInPeriod": 367
-    },
-    {
-      "rank": 7,
-      "fullName": "isair/jarvis",
-      "url": "https://github.com/isair/jarvis",
-      "description": "A 100% private and local AI assistant for your desktop. Always present, able to jump into conversations. Supports unlimited MCP tools and unlimited memory with self-learning. Free WisprFlow alternative with its dictation support. Runs on macOS, Windows and Linux.",
-      "programmingLanguage": "Python",
-      "stars": 2331,
-      "forks": 553,
-      "starsInPeriod": 25
-    },
-    {
-      "rank": 8,
-      "fullName": "openai/whisper",
-      "url": "https://github.com/openai/whisper",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "programmingLanguage": "Python",
-      "stars": 112882,
-      "forks": 13676,
-      "starsInPeriod": 126
+      "stars": 7693,
+      "forks": 711,
+      "starsInPeriod": 1376
     },
     {
       "rank": 9,
-      "fullName": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "fullName": "dograh-hq/dograh",
+      "url": "https://github.com/dograh-hq/dograh",
+      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
       "programmingLanguage": "Python",
-      "stars": 33892,
-      "forks": 4017,
-      "starsInPeriod": 120
+      "stars": 6180,
+      "forks": 1597,
+      "starsInPeriod": 13
     },
     {
       "rank": 10,
-      "fullName": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "fullName": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "programmingLanguage": "Python",
-      "stars": 169108,
-      "forks": 35219,
-      "starsInPeriod": 132
+      "stars": 38274,
+      "forks": 4071,
+      "starsInPeriod": 161
     },
     {
       "rank": 11,
-      "fullName": "ifixai-ai/iFixAi",
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "fullName": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "programmingLanguage": "Python",
-      "stars": 46164,
-      "forks": 1824,
-      "starsInPeriod": 311
+      "stars": 79726,
+      "forks": 9764,
+      "starsInPeriod": 88
     },
     {
       "rank": 12,
+      "fullName": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "programmingLanguage": "Python",
+      "stars": 24593,
+      "forks": 2881,
+      "starsInPeriod": 9
+    },
+    {
+      "rank": 13,
+      "fullName": "HKUDS/AutoSwarm",
+      "url": "https://github.com/HKUDS/AutoSwarm",
+      "description": "AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.",
+      "programmingLanguage": "Python",
+      "stars": 2626,
+      "forks": 437,
+      "starsInPeriod": 54
+    },
+    {
+      "rank": 14,
+      "fullName": "3441293738/creatorhub",
+      "url": "https://github.com/3441293738/creatorhub",
+      "description": "多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok",
+      "programmingLanguage": "Python",
+      "stars": 3631,
+      "forks": 712,
+      "starsInPeriod": 124
+    },
+    {
+      "rank": 15,
       "fullName": "vstorm-co/agenticos",
       "url": "https://github.com/vstorm-co/agenticos",
       "description": "Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI.",
       "programmingLanguage": "Python",
-      "stars": 380,
-      "forks": 65,
-      "starsInPeriod": 59
-    },
-    {
-      "rank": 13,
-      "fullName": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "programmingLanguage": "Python",
-      "stars": 38401,
-      "forks": 6251,
-      "starsInPeriod": 92
-    },
-    {
-      "rank": 14,
-      "fullName": "bkerler/mtkclient",
-      "url": "https://github.com/bkerler/mtkclient",
-      "description": "Mediatek Flash and Repair Utility",
-      "programmingLanguage": "Python",
-      "stars": 1543,
-      "forks": 314,
-      "starsInPeriod": 9
-    },
-    {
-      "rank": 15,
-      "fullName": "FujiwaraChoki/supoclip",
-      "url": "https://github.com/FujiwaraChoki/supoclip",
-      "description": "An open-source OpusClip alternative",
-      "programmingLanguage": "Python",
-      "stars": 3351,
-      "forks": 751,
-      "starsInPeriod": 109
+      "stars": 404,
+      "forks": 73,
+      "starsInPeriod": 42
     },
     {
       "rank": 16,
-      "fullName": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "fullName": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "programmingLanguage": "Python",
-      "stars": 8185,
-      "forks": 781,
-      "starsInPeriod": 88
+      "stars": 149583,
+      "forks": 14375,
+      "starsInPeriod": 615
     }
   ]
 }

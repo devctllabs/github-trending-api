@@ -4,119 +4,169 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-17T07:53:14Z",
+  "observedAt": "2026-11-17T20:54:03Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "ModernRelay/omnigraph",
-      "url": "https://github.com/ModernRelay/omnigraph",
-      "description": "Object-storage native graph database with branching and typed ontology",
+      "fullName": "BurntSushi/jiff",
+      "url": "https://github.com/BurntSushi/jiff",
+      "description": "A datetime library for Rust that encourages you to jump into the pit of success.",
       "programmingLanguage": "Rust",
-      "stars": 2873,
-      "forks": 330,
-      "starsInPeriod": 219
+      "stars": 3149,
+      "forks": 141,
+      "starsInPeriod": 61
     },
     {
       "rank": 2,
-      "fullName": "lance-format/lance",
-      "url": "https://github.com/lance-format/lance",
-      "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "fullName": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
       "programmingLanguage": "Rust",
-      "stars": 7346,
-      "forks": 948,
-      "starsInPeriod": 16
+      "stars": 155201,
+      "forks": 10158,
+      "starsInPeriod": 312
     },
     {
       "rank": 3,
-      "fullName": "xai-org/x-algorithm",
-      "url": "https://github.com/xai-org/x-algorithm",
-      "description": "Algorithm powering the For You feed on X",
+      "fullName": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 34266,
-      "forks": 5517,
-      "starsInPeriod": 22
+      "stars": 30628,
+      "forks": 2790,
+      "starsInPeriod": 101
     },
     {
       "rank": 4,
-      "fullName": "martin-olivier/airgorah",
-      "url": "https://github.com/martin-olivier/airgorah",
-      "description": "A WiFi security auditing software",
+      "fullName": "antithesishq/bombadil",
+      "url": "https://github.com/antithesishq/bombadil",
+      "description": "Property-based testing for web and terminal UIs",
       "programmingLanguage": "Rust",
-      "stars": 6533,
-      "forks": 1085,
-      "starsInPeriod": 243
+      "stars": 2557,
+      "forks": 95,
+      "starsInPeriod": 419
     },
     {
       "rank": 5,
-      "fullName": "sharkdp/bat",
-      "url": "https://github.com/sharkdp/bat",
-      "description": "A cat(1) clone with wings.",
+      "fullName": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "programmingLanguage": "Rust",
-      "stars": 61290,
-      "forks": 2392,
-      "starsInPeriod": 25
+      "stars": 22801,
+      "forks": 2531,
+      "starsInPeriod": 67
     },
     {
       "rank": 6,
-      "fullName": "biomejs/biome",
-      "url": "https://github.com/biomejs/biome",
-      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "fullName": "NVIDIA-NeMo/Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "programmingLanguage": "Rust",
-      "stars": 26122,
-      "forks": 1420,
-      "starsInPeriod": 8
+      "stars": 3629,
+      "forks": 376,
+      "starsInPeriod": 41
     },
     {
       "rank": 7,
-      "fullName": "astral-sh/uv",
-      "url": "https://github.com/astral-sh/uv",
-      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "fullName": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "description": "Local voice dictation for mac, windows and linux",
       "programmingLanguage": "Rust",
-      "stars": 92045,
-      "forks": 3876,
-      "starsInPeriod": 66
+      "stars": 7272,
+      "forks": 472,
+      "starsInPeriod": 198
     },
     {
       "rank": 8,
-      "fullName": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
+      "fullName": "leepokai/Codync",
+      "url": "https://github.com/leepokai/Codync",
+      "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 122111,
-      "forks": 16671,
-      "starsInPeriod": 159
+      "stars": 2215,
+      "forks": 226,
+      "starsInPeriod": 47
     },
     {
       "rank": 9,
-      "fullName": "yynxxxxx/Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "fullName": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "programmingLanguage": "Rust",
-      "stars": 4542,
-      "forks": 595,
-      "starsInPeriod": 15
+      "stars": 36217,
+      "forks": 1679,
+      "starsInPeriod": 55
     },
     {
       "rank": 10,
-      "fullName": "rust-lang/rust-clippy",
-      "url": "https://github.com/rust-lang/rust-clippy",
-      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "fullName": "atuinsh/atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Making your shell magical",
       "programmingLanguage": "Rust",
-      "stars": 13675,
-      "forks": 2346,
-      "starsInPeriod": 9
+      "stars": 32503,
+      "forks": 1048,
+      "starsInPeriod": 37
     },
     {
       "rank": 11,
-      "fullName": "lapce/lapce",
-      "url": "https://github.com/lapce/lapce",
-      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "fullName": "malisper/pgrust",
+      "url": "https://github.com/malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
       "programmingLanguage": "Rust",
-      "stars": 39081,
-      "forks": 1368,
-      "starsInPeriod": 11
+      "stars": 5849,
+      "forks": 232,
+      "starsInPeriod": 20
+    },
+    {
+      "rank": 12,
+      "fullName": "pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm",
+      "description": "Fast, disk space efficient package manager",
+      "programmingLanguage": "Rust",
+      "stars": 37111,
+      "forks": 1989,
+      "starsInPeriod": 13
+    },
+    {
+      "rank": 13,
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "programmingLanguage": "Rust",
+      "stars": 112092,
+      "forks": 6687,
+      "starsInPeriod": 693
+    },
+    {
+      "rank": 14,
+      "fullName": "jlcodes99/cockpit-tools",
+      "url": "https://github.com/jlcodes99/cockpit-tools",
+      "description": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
+      "programmingLanguage": "Rust",
+      "stars": 20079,
+      "forks": 1823,
+      "starsInPeriod": 28
+    },
+    {
+      "rank": 15,
+      "fullName": "ShayanAbbas1/dbdelve",
+      "url": "https://github.com/ShayanAbbas1/dbdelve",
+      "description": "Fast and lightweight DB Client made in Rust and GPUI.",
+      "programmingLanguage": "Rust",
+      "stars": 1546,
+      "forks": 88,
+      "starsInPeriod": 63
+    },
+    {
+      "rank": 16,
+      "fullName": "aimod-cc/Agent2API",
+      "url": "https://github.com/aimod-cc/Agent2API",
+      "description": "Local AI routing gateway with Agent client takeover — reuse existing client logins, call 50+ AI clients through one base URL, with unified OpenAI / Anthropic / Images APIs, multi-account routing, check-in, balance and request reports · 本地 AI 路由网关 + Agent 客户端接管：复用各家客户端登录态，一个 base_url 调用 50+ 家模型额度，统一 OpenAI / Anthropic / 生图接口，多账号选路、签到、余额与请求报表一体管理",
+      "programmingLanguage": "Rust",
+      "stars": 2462,
+      "forks": 675,
+      "starsInPeriod": 52
     }
   ]
 }
