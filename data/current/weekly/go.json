@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-11-16T22:00:30Z",
+  "observedAt": "2026-11-17T07:53:27Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 52880,
-      "forks": 4293,
-      "starsInPeriod": 2238
+      "stars": 53214,
+      "forks": 4361,
+      "starsInPeriod": 3056
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/opensandbox-group/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "programmingLanguage": "Go",
-      "stars": 17355,
-      "forks": 1657,
-      "starsInPeriod": 698
+      "stars": 17405,
+      "forks": 1668,
+      "starsInPeriod": 600
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 6877,
-      "forks": 766,
-      "starsInPeriod": 565
+      "stars": 6942,
+      "forks": 776,
+      "starsInPeriod": 600
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "programmingLanguage": "Go",
-      "stars": 29423,
-      "forks": 2762,
-      "starsInPeriod": 409
+      "stars": 29448,
+      "forks": 2767,
+      "starsInPeriod": 370
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
       "programmingLanguage": "Go",
-      "stars": 47047,
-      "forks": 9375,
-      "starsInPeriod": 143
+      "stars": 47053,
+      "forks": 9389,
+      "starsInPeriod": 147
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/dsx-ai-factory/nvke",
       "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "programmingLanguage": "Go",
-      "stars": 1233,
-      "forks": 163,
-      "starsInPeriod": 491
+      "stars": 1235,
+      "forks": 164,
+      "starsInPeriod": 232
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "programmingLanguage": "Go",
-      "stars": 10005,
-      "forks": 463,
-      "starsInPeriod": 1148
+      "stars": 10025,
+      "forks": 464,
+      "starsInPeriod": 1212
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "programmingLanguage": "Go",
-      "stars": 120742,
-      "forks": 7051,
-      "starsInPeriod": 2215
+      "stars": 120843,
+      "forks": 7060,
+      "starsInPeriod": 2258
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/runkids/skillshare",
       "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
       "programmingLanguage": "Go",
-      "stars": 3181,
-      "forks": 386,
-      "starsInPeriod": 182
+      "stars": 3197,
+      "forks": 385,
+      "starsInPeriod": 191
     },
     {
       "rank": 10,
@@ -104,8 +104,8 @@
       "url": "https://github.com/kagent-dev/kagent",
       "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
       "programmingLanguage": "Go",
-      "stars": 4383,
-      "forks": 921,
+      "stars": 4388,
+      "forks": 923,
       "starsInPeriod": 169
     },
     {
@@ -114,9 +114,9 @@
       "url": "https://github.com/evcc-io/evcc",
       "description": "smart charging ☀️🚘",
       "programmingLanguage": "Go",
-      "stars": 7620,
-      "forks": 1648,
-      "starsInPeriod": 82
+      "stars": 7621,
+      "forks": 1646,
+      "starsInPeriod": 73
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 8140,
-      "forks": 1292,
-      "starsInPeriod": 583
+      "stars": 8156,
+      "forks": 1296,
+      "starsInPeriod": 438
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 56347,
-      "forks": 7430,
-      "starsInPeriod": 953
+      "stars": 56416,
+      "forks": 7438,
+      "starsInPeriod": 985
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "programmingLanguage": "Go",
-      "stars": 31095,
-      "forks": 2383,
-      "starsInPeriod": 285
+      "stars": 31107,
+      "forks": 2384,
+      "starsInPeriod": 271
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 38903,
-      "forks": 6008,
-      "starsInPeriod": 247
+      "stars": 38923,
+      "forks": 6025,
+      "starsInPeriod": 321
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/router-for-me/CLIProxyAPI",
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
       "programmingLanguage": "Go",
-      "stars": 58743,
-      "forks": 9009,
-      "starsInPeriod": 728
+      "stars": 58782,
+      "forks": 9013,
+      "starsInPeriod": 736
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/henrygd/beszel",
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "programmingLanguage": "Go",
-      "stars": 27411,
-      "forks": 1187,
-      "starsInPeriod": 391
+      "stars": 27420,
+      "forks": 1188,
+      "starsInPeriod": 384
     },
     {
       "rank": 18,
@@ -184,9 +184,9 @@
       "url": "https://github.com/getarcaneapp/arcane",
       "description": "Modern Docker Management, Designed for Everyone",
       "programmingLanguage": "Go",
-      "stars": 8651,
-      "forks": 402,
-      "starsInPeriod": 169
+      "stars": 8934,
+      "forks": 461,
+      "starsInPeriod": 199
     }
   ]
 }
