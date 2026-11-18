@@ -4,19 +4,19 @@
   "period": "daily",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript",
-  "observedAt": "2026-11-18T07:27:02Z",
+  "observedAt": "2026-11-18T20:30:18Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "fullName": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
       "programmingLanguage": "TypeScript",
-      "stars": 29469,
-      "forks": 2637,
-      "starsInPeriod": 1774
+      "stars": 17154,
+      "forks": 1891,
+      "starsInPeriod": 315
     },
     {
       "rank": 2,
@@ -24,159 +24,159 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "programmingLanguage": "TypeScript",
-      "stars": 10216,
-      "forks": 1335,
-      "starsInPeriod": 350
+      "stars": 10365,
+      "forks": 1364,
+      "starsInPeriod": 369
     },
     {
       "rank": 3,
-      "fullName": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
+      "fullName": "appwrite/appwrite",
+      "url": "https://github.com/appwrite/appwrite",
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
       "programmingLanguage": "TypeScript",
-      "stars": 16992,
-      "forks": 1844,
-      "starsInPeriod": 201
+      "stars": 58194,
+      "forks": 5888,
+      "starsInPeriod": 239
     },
     {
       "rank": 4,
-      "fullName": "ag-ui-protocol/ag-ui",
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "fullName": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "programmingLanguage": "TypeScript",
-      "stars": 20163,
-      "forks": 2079,
-      "starsInPeriod": 1445
+      "stars": 210994,
+      "forks": 61563,
+      "starsInPeriod": 315
     },
     {
       "rank": 5,
+      "fullName": "solidjs/solid",
+      "url": "https://github.com/solidjs/solid",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "programmingLanguage": "TypeScript",
+      "stars": 36521,
+      "forks": 1179,
+      "starsInPeriod": 37
+    },
+    {
+      "rank": 6,
       "fullName": "backnotprop/plannotator",
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "programmingLanguage": "TypeScript",
-      "stars": 13185,
-      "forks": 1320,
-      "starsInPeriod": 691
-    },
-    {
-      "rank": 6,
-      "fullName": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "programmingLanguage": "TypeScript",
-      "stars": 58111,
-      "forks": 4874,
-      "starsInPeriod": 478
+      "stars": 13391,
+      "forks": 1346,
+      "starsInPeriod": 396
     },
     {
       "rank": 7,
-      "fullName": "karakeep-app/karakeep",
-      "url": "https://github.com/karakeep-app/karakeep",
-      "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "fullName": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
       "programmingLanguage": "TypeScript",
-      "stars": 30668,
-      "forks": 1659,
-      "starsInPeriod": 40
+      "stars": 101442,
+      "forks": 28196,
+      "starsInPeriod": 212
     },
     {
       "rank": 8,
-      "fullName": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "fullName": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "programmingLanguage": "TypeScript",
-      "stars": 54209,
-      "forks": 7621,
-      "starsInPeriod": 613
+      "stars": 20397,
+      "forks": 2100,
+      "starsInPeriod": 535
     },
     {
       "rank": 9,
-      "fullName": "elder-plinius/G0DM0D3",
-      "url": "https://github.com/elder-plinius/G0DM0D3",
-      "description": "LIBERATED AI CHAT",
+      "fullName": "nestjs/nest",
+      "url": "https://github.com/nestjs/nest",
+      "description": "A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀",
       "programmingLanguage": "TypeScript",
-      "stars": 12651,
-      "forks": 2921,
-      "starsInPeriod": 91
+      "stars": 77121,
+      "forks": 8726,
+      "starsInPeriod": 120
     },
     {
       "rank": 10,
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+      "fullName": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "programmingLanguage": "TypeScript",
-      "stars": 128195,
-      "forks": 8123,
-      "starsInPeriod": 1066
+      "stars": 77981,
+      "forks": 5205,
+      "starsInPeriod": 129
     },
     {
       "rank": 11,
-      "fullName": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "fullName": "storybookjs/storybook",
+      "url": "https://github.com/storybookjs/storybook",
+      "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
       "programmingLanguage": "TypeScript",
-      "stars": 25005,
-      "forks": 3522,
-      "starsInPeriod": 640
+      "stars": 91632,
+      "forks": 10599,
+      "starsInPeriod": 25
     },
     {
       "rank": 12,
-      "fullName": "mastra-ai/mastra",
-      "url": "https://github.com/mastra-ai/mastra",
-      "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+      "fullName": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
       "programmingLanguage": "TypeScript",
-      "stars": 29592,
-      "forks": 3114,
-      "starsInPeriod": 22
+      "stars": 39455,
+      "forks": 5882,
+      "starsInPeriod": 95
     },
     {
       "rank": 13,
-      "fullName": "hieunc229/mailflare",
-      "url": "https://github.com/hieunc229/mailflare",
-      "description": "Email for professionals and teams",
+      "fullName": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
       "programmingLanguage": "TypeScript",
-      "stars": 6945,
-      "forks": 1202,
-      "starsInPeriod": 190
+      "stars": 21257,
+      "forks": 1958,
+      "starsInPeriod": 225
     },
     {
       "rank": 14,
-      "fullName": "elie222/rakazo",
-      "url": "https://github.com/elie222/rakazo",
-      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "fullName": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "programmingLanguage": "TypeScript",
-      "stars": 9071,
-      "forks": 1626,
-      "starsInPeriod": 188
+      "stars": 29863,
+      "forks": 2703,
+      "starsInPeriod": 1162
     },
     {
       "rank": 15,
-      "fullName": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "fullName": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
       "programmingLanguage": "TypeScript",
-      "stars": 8742,
-      "forks": 844,
-      "starsInPeriod": 343
+      "stars": 65111,
+      "forks": 11415,
+      "starsInPeriod": 1264
     },
     {
       "rank": 16,
-      "fullName": "a-ghorbani/pocketpal-ai",
-      "url": "https://github.com/a-ghorbani/pocketpal-ai",
-      "description": "An app that brings language models directly to your phone.",
+      "fullName": "esengine/estella",
+      "url": "https://github.com/esengine/estella",
+      "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, playable ads, and native Android / iOS.",
       "programmingLanguage": "TypeScript",
-      "stars": 9551,
-      "forks": 1146,
-      "starsInPeriod": 94
+      "stars": 1168,
+      "forks": 297,
+      "starsInPeriod": 128
     },
     {
       "rank": 17,
-      "fullName": "lnkiai/m3e-canvas",
-      "url": "https://github.com/lnkiai/m3e-canvas",
-      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "fullName": "vercel/eve",
+      "url": "https://github.com/vercel/eve",
+      "description": "The Open Framework for Building Agents",
       "programmingLanguage": "TypeScript",
-      "stars": 10581,
-      "forks": 1187,
-      "starsInPeriod": 103
+      "stars": 5982,
+      "forks": 664,
+      "starsInPeriod": 38
     }
   ]
 }

@@ -4,181 +4,205 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Wed, 18 Nov 2026 07:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:29:56 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>snapshot</ght:kind>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:observedAt>2026-11-18T07:26:42Z</ght:observedAt>
+    <ght:observedAt>2026-11-18T20:29:56Z</ght:observedAt>
     <ght:status>complete</ght:status>
     <ght:issues />
+    <item>
+      <title>getarcaneapp/arcane</title>
+      <link>https://github.com/getarcaneapp/arcane</link>
+      <description>Modern Docker Management, Designed for Everyone</description>
+      <guid isPermaLink="true">https://github.com/getarcaneapp/arcane</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
+      <ght:rank>1</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>9750</ght:stars>
+      <ght:forks>558</ght:forks>
+      <ght:starsInPeriod>547</ght:starsInPeriod>
+    </item>
     <item>
       <title>alibaba/open-code-review</title>
       <link>https://github.com/alibaba/open-code-review</link>
       <description>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
       <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
-      <ght:rank>1</ght:rank>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
+      <ght:rank>2</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>53958</ght:stars>
-      <ght:forks>4449</ght:forks>
-      <ght:starsInPeriod>763</ght:starsInPeriod>
+      <ght:stars>54158</ght:stars>
+      <ght:forks>4481</ght:forks>
+      <ght:starsInPeriod>764</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>docker/compose</title>
+      <link>https://github.com/docker/compose</link>
+      <description>Define and run multi-container applications with Docker</description>
+      <guid isPermaLink="true">https://github.com/docker/compose</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
+      <ght:rank>3</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>38994</ght:stars>
+      <ght:forks>6041</ght:forks>
+      <ght:starsInPeriod>162</ght:starsInPeriod>
     </item>
     <item>
       <title>Tencent/LoopForge</title>
       <link>https://github.com/Tencent/LoopForge</link>
       <description>Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.</description>
       <guid isPermaLink="true">https://github.com/Tencent/LoopForge</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
-      <ght:rank>2</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>3549</ght:stars>
-      <ght:forks>482</ght:forks>
-      <ght:starsInPeriod>591</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>getarcaneapp/arcane</title>
-      <link>https://github.com/getarcaneapp/arcane</link>
-      <description>Modern Docker Management, Designed for Everyone</description>
-      <guid isPermaLink="true">https://github.com/getarcaneapp/arcane</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
-      <ght:rank>3</ght:rank>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>9484</ght:stars>
-      <ght:forks>520</ght:forks>
-      <ght:starsInPeriod>618</ght:starsInPeriod>
-    </item>
-    <item>
-      <title>JuliusBrussee/caveman</title>
-      <link>https://github.com/JuliusBrussee/caveman</link>
-      <description>why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.</description>
-      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
       <ght:rank>4</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>121141</ght:stars>
-      <ght:forks>7078</ght:forks>
-      <ght:starsInPeriod>318</ght:starsInPeriod>
+      <ght:stars>3783</ght:stars>
+      <ght:forks>528</ght:forks>
+      <ght:starsInPeriod>996</ght:starsInPeriod>
     </item>
     <item>
-      <title>crossplane/crossplane</title>
-      <link>https://github.com/crossplane/crossplane</link>
-      <description>The Cloud Native Control Plane</description>
-      <guid isPermaLink="true">https://github.com/crossplane/crossplane</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
+      <title>golang/go</title>
+      <link>https://github.com/golang/go</link>
+      <description>The Go programming language</description>
+      <guid isPermaLink="true">https://github.com/golang/go</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
       <ght:rank>5</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>12251</ght:stars>
-      <ght:forks>1296</ght:forks>
-      <ght:starsInPeriod>2</ght:starsInPeriod>
+      <ght:stars>140079</ght:stars>
+      <ght:forks>20267</ght:forks>
+      <ght:starsInPeriod>303</ght:starsInPeriod>
     </item>
     <item>
-      <title>seaweedfs/seaweedfs</title>
-      <link>https://github.com/seaweedfs/seaweedfs</link>
-      <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
-      <guid isPermaLink="true">https://github.com/seaweedfs/seaweedfs</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
+      <title>opensandbox-group/OpenSandbox</title>
+      <link>https://github.com/opensandbox-group/OpenSandbox</link>
+      <description>Secure, Fast, and Extensible Sandbox runtime for AI agents.</description>
+      <guid isPermaLink="true">https://github.com/opensandbox-group/OpenSandbox</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
       <ght:rank>6</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>36133</ght:stars>
-      <ght:forks>3126</ght:forks>
-      <ght:starsInPeriod>25</ght:starsInPeriod>
+      <ght:stars>17589</ght:stars>
+      <ght:forks>1697</ght:forks>
+      <ght:starsInPeriod>106</ght:starsInPeriod>
     </item>
     <item>
-      <title>knadh/listmonk</title>
-      <link>https://github.com/knadh/listmonk</link>
-      <description>High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.</description>
-      <guid isPermaLink="true">https://github.com/knadh/listmonk</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
+      <title>agent-substrate/substrate</title>
+      <link>https://github.com/agent-substrate/substrate</link>
+      <description>Agent Substrate: the core system</description>
+      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
       <ght:rank>7</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>24364</ght:stars>
-      <ght:forks>2807</ght:forks>
-      <ght:starsInPeriod>22</ght:starsInPeriod>
+      <ght:stars>7573</ght:stars>
+      <ght:forks>828</ght:forks>
+      <ght:starsInPeriod>469</ght:starsInPeriod>
     </item>
     <item>
-      <title>guohuiyuan/go-music-dl</title>
-      <link>https://github.com/guohuiyuan/go-music-dl</link>
-      <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
-      <guid isPermaLink="true">https://github.com/guohuiyuan/go-music-dl</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
+      <title>vxcontrol/pentagi</title>
+      <link>https://github.com/vxcontrol/pentagi</link>
+      <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
+      <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
       <ght:rank>8</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6560</ght:stars>
-      <ght:forks>622</ght:forks>
-      <ght:starsInPeriod>71</ght:starsInPeriod>
+      <ght:stars>34548</ght:stars>
+      <ght:forks>5483</ght:forks>
+      <ght:starsInPeriod>140</ght:starsInPeriod>
     </item>
     <item>
-      <title>Christ9038/Ydisks-Xianyu-Helper</title>
-      <link>https://github.com/Christ9038/Ydisks-Xianyu-Helper</link>
-      <description>闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建</description>
-      <guid isPermaLink="true">https://github.com/Christ9038/Ydisks-Xianyu-Helper</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
+      <title>aquasecurity/trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
       <ght:rank>9</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>2465</ght:stars>
-      <ght:forks>656</ght:forks>
-      <ght:starsInPeriod>16</ght:starsInPeriod>
+      <ght:stars>39511</ght:stars>
+      <ght:forks>908</ght:forks>
+      <ght:starsInPeriod>53</ght:starsInPeriod>
     </item>
     <item>
-      <title>QuantumNous/new-api</title>
-      <link>https://github.com/QuantumNous/new-api</link>
-      <description>Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.</description>
-      <guid isPermaLink="true">https://github.com/QuantumNous/new-api</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
+      <title>gtsteffaniak/filebrowser</title>
+      <link>https://github.com/gtsteffaniak/filebrowser</link>
+      <description>📂 Web File Browser</description>
+      <guid isPermaLink="true">https://github.com/gtsteffaniak/filebrowser</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
       <ght:rank>10</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>52124</ght:stars>
-      <ght:forks>12727</ght:forks>
-      <ght:starsInPeriod>79</ght:starsInPeriod>
+      <ght:stars>9228</ght:stars>
+      <ght:forks>554</ght:forks>
+      <ght:starsInPeriod>16</ght:starsInPeriod>
     </item>
     <item>
       <title>Autumn-27/ScopeSentry</title>
       <link>https://github.com/Autumn-27/ScopeSentry</link>
       <description>ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes</description>
       <guid isPermaLink="true">https://github.com/Autumn-27/ScopeSentry</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
       <ght:rank>11</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>2502</ght:stars>
-      <ght:forks>630</ght:forks>
-      <ght:starsInPeriod>29</ght:starsInPeriod>
+      <ght:stars>2527</ght:stars>
+      <ght:forks>640</ght:forks>
+      <ght:starsInPeriod>50</ght:starsInPeriod>
     </item>
     <item>
-      <title>ArvinLovegood/go-stock</title>
-      <link>https://github.com/ArvinLovegood/go-stock</link>
-      <description>🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。</description>
-      <guid isPermaLink="true">https://github.com/ArvinLovegood/go-stock</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
+      <title>Wei-Shaw/sub2api</title>
+      <link>https://github.com/Wei-Shaw/sub2api</link>
+      <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
+      <guid isPermaLink="true">https://github.com/Wei-Shaw/sub2api</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
       <ght:rank>12</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>8198</ght:stars>
-      <ght:forks>1431</ght:forks>
-      <ght:starsInPeriod>27</ght:starsInPeriod>
+      <ght:stars>46265</ght:stars>
+      <ght:forks>10029</ght:forks>
+      <ght:starsInPeriod>81</ght:starsInPeriod>
     </item>
     <item>
-      <title>basketikun/chatgpt2api</title>
-      <link>https://github.com/basketikun/chatgpt2api</link>
-      <description>ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件</description>
-      <guid isPermaLink="true">https://github.com/basketikun/chatgpt2api</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
+      <title>kubernetes/kubernetes</title>
+      <link>https://github.com/kubernetes/kubernetes</link>
+      <description>Production-Grade Container Scheduling and Management</description>
+      <guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
       <ght:rank>13</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>6940</ght:stars>
-      <ght:forks>1757</ght:forks>
-      <ght:starsInPeriod>16</ght:starsInPeriod>
+      <ght:stars>129258</ght:stars>
+      <ght:forks>45101</ght:forks>
+      <ght:starsInPeriod>280</ght:starsInPeriod>
     </item>
     <item>
-      <title>google/ax</title>
-      <link>https://github.com/google/ax</link>
-      <description>Agent Executor (AX) is Google's open agentic orchestration runtime</description>
-      <guid isPermaLink="true">https://github.com/google/ax</guid>
-      <pubDate>Wed, 18 Nov 2026 07:26:42 GMT</pubDate>
+      <title>QuantumNous/new-api</title>
+      <link>https://github.com/QuantumNous/new-api</link>
+      <description>Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.</description>
+      <guid isPermaLink="true">https://github.com/QuantumNous/new-api</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
       <ght:rank>14</ght:rank>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>14777</ght:stars>
-      <ght:forks>796</ght:forks>
-      <ght:starsInPeriod>24</ght:starsInPeriod>
+      <ght:stars>52173</ght:stars>
+      <ght:forks>12733</ght:forks>
+      <ght:starsInPeriod>80</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>gohugoio/hugo</title>
+      <link>https://github.com/gohugoio/hugo</link>
+      <description>The world’s fastest framework for building websites.</description>
+      <guid isPermaLink="true">https://github.com/gohugoio/hugo</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
+      <ght:rank>15</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>90508</ght:stars>
+      <ght:forks>8542</ght:forks>
+      <ght:starsInPeriod>11</ght:starsInPeriod>
+    </item>
+    <item>
+      <title>TencentCloud/CubeSandbox</title>
+      <link>https://github.com/TencentCloud/CubeSandbox</link>
+      <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
+      <guid isPermaLink="true">https://github.com/TencentCloud/CubeSandbox</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:56 GMT</pubDate>
+      <ght:rank>16</ght:rank>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>13358</ght:stars>
+      <ght:forks>1235</ght:forks>
+      <ght:starsInPeriod>66</ght:starsInPeriod>
     </item>
   </channel>
 </rss>

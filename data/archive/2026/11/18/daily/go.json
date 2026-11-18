@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "updatedAt": "2026-11-18T07:26:42Z",
+  "updatedAt": "2026-11-18T20:29:56Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -14,41 +14,55 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 53958,
-      "forks": 4449,
-      "starsInPeriod": 763,
+      "stars": 54158,
+      "forks": 4481,
+      "starsInPeriod": 764,
       "bestRank": 1,
-      "latestRank": 1,
-      "firstSeenAt": "2026-11-18T07:26:42Z",
-      "lastSeenAt": "2026-11-18T07:26:42Z",
-      "appearances": 1
-    },
-    {
-      "fullName": "Tencent/LoopForge",
-      "url": "https://github.com/Tencent/LoopForge",
-      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-      "programmingLanguage": "Go",
-      "stars": 3549,
-      "forks": 482,
-      "starsInPeriod": 591,
-      "bestRank": 2,
       "latestRank": 2,
       "firstSeenAt": "2026-11-18T07:26:42Z",
-      "lastSeenAt": "2026-11-18T07:26:42Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-18T20:29:56Z",
+      "appearances": 2
     },
     {
       "fullName": "getarcaneapp/arcane",
       "url": "https://github.com/getarcaneapp/arcane",
       "description": "Modern Docker Management, Designed for Everyone",
       "programmingLanguage": "Go",
-      "stars": 9484,
-      "forks": 520,
-      "starsInPeriod": 618,
+      "stars": 9750,
+      "forks": 558,
+      "starsInPeriod": 547,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-11-18T07:26:42Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "programmingLanguage": "Go",
+      "stars": 3783,
+      "forks": 528,
+      "starsInPeriod": 996,
+      "bestRank": 2,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-18T07:26:42Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "programmingLanguage": "Go",
+      "stars": 38994,
+      "forks": 6041,
+      "starsInPeriod": 162,
       "bestRank": 3,
       "latestRank": 3,
-      "firstSeenAt": "2026-11-18T07:26:42Z",
-      "lastSeenAt": "2026-11-18T07:26:42Z",
+      "firstSeenAt": "2026-11-18T20:29:56Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
       "appearances": 1
     },
     {
@@ -80,6 +94,20 @@
       "appearances": 1
     },
     {
+      "fullName": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "programmingLanguage": "Go",
+      "stars": 140079,
+      "forks": 20267,
+      "starsInPeriod": 303,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-18T20:29:56Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
+      "appearances": 1
+    },
+    {
       "fullName": "seaweedfs/seaweedfs",
       "url": "https://github.com/seaweedfs/seaweedfs",
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
@@ -91,6 +119,20 @@
       "latestRank": 6,
       "firstSeenAt": "2026-11-18T07:26:42Z",
       "lastSeenAt": "2026-11-18T07:26:42Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "opensandbox-group/OpenSandbox",
+      "url": "https://github.com/opensandbox-group/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "programmingLanguage": "Go",
+      "stars": 17589,
+      "forks": 1697,
+      "starsInPeriod": 106,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-18T20:29:56Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
       "appearances": 1
     },
     {
@@ -108,6 +150,20 @@
       "appearances": 1
     },
     {
+      "fullName": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "programmingLanguage": "Go",
+      "stars": 7573,
+      "forks": 828,
+      "starsInPeriod": 469,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-18T20:29:56Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
+      "appearances": 1
+    },
+    {
       "fullName": "guohuiyuan/go-music-dl",
       "url": "https://github.com/guohuiyuan/go-music-dl",
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
@@ -119,6 +175,20 @@
       "latestRank": 8,
       "firstSeenAt": "2026-11-18T07:26:42Z",
       "lastSeenAt": "2026-11-18T07:26:42Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "programmingLanguage": "Go",
+      "stars": 34548,
+      "forks": 5483,
+      "starsInPeriod": 140,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-18T20:29:56Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
       "appearances": 1
     },
     {
@@ -136,17 +206,45 @@
       "appearances": 1
     },
     {
+      "fullName": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "programmingLanguage": "Go",
+      "stars": 39511,
+      "forks": 908,
+      "starsInPeriod": 53,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-18T20:29:56Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
+      "appearances": 1
+    },
+    {
       "fullName": "QuantumNous/new-api",
       "url": "https://github.com/QuantumNous/new-api",
       "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
       "programmingLanguage": "Go",
-      "stars": 52124,
-      "forks": 12727,
-      "starsInPeriod": 79,
+      "stars": 52173,
+      "forks": 12733,
+      "starsInPeriod": 80,
+      "bestRank": 10,
+      "latestRank": 14,
+      "firstSeenAt": "2026-11-18T07:26:42Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "gtsteffaniak/filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "programmingLanguage": "Go",
+      "stars": 9228,
+      "forks": 554,
+      "starsInPeriod": 16,
       "bestRank": 10,
       "latestRank": 10,
-      "firstSeenAt": "2026-11-18T07:26:42Z",
-      "lastSeenAt": "2026-11-18T07:26:42Z",
+      "firstSeenAt": "2026-11-18T20:29:56Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
       "appearances": 1
     },
     {
@@ -154,14 +252,14 @@
       "url": "https://github.com/Autumn-27/ScopeSentry",
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "programmingLanguage": "Go",
-      "stars": 2502,
-      "forks": 630,
-      "starsInPeriod": 29,
+      "stars": 2527,
+      "forks": 640,
+      "starsInPeriod": 50,
       "bestRank": 11,
       "latestRank": 11,
       "firstSeenAt": "2026-11-18T07:26:42Z",
-      "lastSeenAt": "2026-11-18T07:26:42Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-18T20:29:56Z",
+      "appearances": 2
     },
     {
       "fullName": "ArvinLovegood/go-stock",
@@ -175,6 +273,20 @@
       "latestRank": 12,
       "firstSeenAt": "2026-11-18T07:26:42Z",
       "lastSeenAt": "2026-11-18T07:26:42Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "programmingLanguage": "Go",
+      "stars": 46265,
+      "forks": 10029,
+      "starsInPeriod": 81,
+      "bestRank": 12,
+      "latestRank": 12,
+      "firstSeenAt": "2026-11-18T20:29:56Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
       "appearances": 1
     },
     {
@@ -192,6 +304,20 @@
       "appearances": 1
     },
     {
+      "fullName": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "programmingLanguage": "Go",
+      "stars": 129258,
+      "forks": 45101,
+      "starsInPeriod": 280,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-11-18T20:29:56Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
+      "appearances": 1
+    },
+    {
       "fullName": "google/ax",
       "url": "https://github.com/google/ax",
       "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
@@ -203,6 +329,34 @@
       "latestRank": 14,
       "firstSeenAt": "2026-11-18T07:26:42Z",
       "lastSeenAt": "2026-11-18T07:26:42Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "programmingLanguage": "Go",
+      "stars": 90508,
+      "forks": 8542,
+      "starsInPeriod": 11,
+      "bestRank": 15,
+      "latestRank": 15,
+      "firstSeenAt": "2026-11-18T20:29:56Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "programmingLanguage": "Go",
+      "stars": 13358,
+      "forks": 1235,
+      "starsInPeriod": 66,
+      "bestRank": 16,
+      "latestRank": 16,
+      "firstSeenAt": "2026-11-18T20:29:56Z",
+      "lastSeenAt": "2026-11-18T20:29:56Z",
       "appearances": 1
     }
   ]

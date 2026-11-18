@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-11-18T07:26:35Z",
+  "observedAt": "2026-11-18T20:29:49Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,29 +14,29 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 52465,
-      "forks": 3669,
+      "stars": 52620,
+      "forks": 3682,
       "starsInPeriod": 3429
     },
     {
       "rank": 2,
+      "fullName": "ModernRelay/omnigraph",
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "description": "Object-storage native graph database with branching and typed ontology",
+      "programmingLanguage": "Rust",
+      "stars": 3039,
+      "forks": 337,
+      "starsInPeriod": 956
+    },
+    {
+      "rank": 3,
       "fullName": "block/buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "programmingLanguage": "Rust",
-      "stars": 37564,
-      "forks": 4958,
+      "stars": 37580,
+      "forks": 4960,
       "starsInPeriod": 759
-    },
-    {
-      "rank": 3,
-      "fullName": "tokio-rs/topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "programmingLanguage": "Rust",
-      "stars": 7253,
-      "forks": 313,
-      "starsInPeriod": 627
     },
     {
       "rank": 4,
@@ -44,29 +44,29 @@
       "url": "https://github.com/zellij-org/zellij",
       "description": "A terminal workspace with batteries included",
       "programmingLanguage": "Rust",
-      "stars": 36127,
-      "forks": 1546,
+      "stars": 36136,
+      "forks": 1549,
       "starsInPeriod": 183
     },
     {
       "rank": 5,
-      "fullName": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
+      "fullName": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
       "programmingLanguage": "Rust",
-      "stars": 25111,
-      "forks": 1879,
-      "starsInPeriod": 3817
+      "stars": 7264,
+      "forks": 312,
+      "starsInPeriod": 627
     },
     {
       "rank": 6,
-      "fullName": "ModernRelay/omnigraph",
-      "url": "https://github.com/ModernRelay/omnigraph",
-      "description": "Object-storage native graph database with branching and typed ontology",
+      "fullName": "martin-olivier/airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
       "programmingLanguage": "Rust",
-      "stars": 2991,
-      "forks": 334,
-      "starsInPeriod": 956
+      "stars": 6641,
+      "forks": 1094,
+      "starsInPeriod": 1468
     },
     {
       "rank": 7,
@@ -74,39 +74,29 @@
       "url": "https://github.com/crmne/zapfast",
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "programmingLanguage": "Rust",
-      "stars": 4702,
-      "forks": 473,
+      "stars": 4730,
+      "forks": 477,
       "starsInPeriod": 888
     },
     {
       "rank": 8,
-      "fullName": "martin-olivier/airgorah",
-      "url": "https://github.com/martin-olivier/airgorah",
-      "description": "A WiFi security auditing software",
+      "fullName": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 6612,
-      "forks": 1093,
-      "starsInPeriod": 1468
+      "stars": 51268,
+      "forks": 2761,
+      "starsInPeriod": 399
     },
     {
       "rank": 9,
-      "fullName": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "fullName": "NVIDIA-NeMo/Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "programmingLanguage": "Rust",
-      "stars": 129969,
-      "forks": 20859,
-      "starsInPeriod": 1031
-    },
-    {
-      "rank": 10,
-      "fullName": "GyulyVGC/sniffnet",
-      "url": "https://github.com/GyulyVGC/sniffnet",
-      "description": "Comfortably monitor your network traffic 🕵️‍♂️",
-      "programmingLanguage": "Rust",
-      "stars": 43056,
-      "forks": 2023,
-      "starsInPeriod": 730
+      "stars": 3649,
+      "forks": 377,
+      "starsInPeriod": 135
     }
   ]
 }
