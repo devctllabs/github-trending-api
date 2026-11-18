@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "python",
   "sourceUrl": "https://github.com/trending/python?since=weekly",
-  "observedAt": "2026-11-17T20:53:55Z",
+  "observedAt": "2026-11-18T07:26:25Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "programmingLanguage": "Python",
-      "stars": 73059,
-      "forks": 57778,
-      "starsInPeriod": 4355
+      "stars": 73182,
+      "forks": 57824,
+      "starsInPeriod": 3653
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 196654,
-      "forks": 23060,
-      "starsInPeriod": 5666
+      "stars": 196896,
+      "forks": 23072,
+      "starsInPeriod": 4847
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "programmingLanguage": "Python",
-      "stars": 8981,
-      "forks": 1345,
-      "starsInPeriod": 1747
+      "stars": 9919,
+      "forks": 1403,
+      "starsInPeriod": 2508
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "programmingLanguage": "Python",
-      "stars": 6830,
-      "forks": 1403,
-      "starsInPeriod": 2407
+      "stars": 6937,
+      "forks": 1415,
+      "starsInPeriod": 2985
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "programmingLanguage": "Python",
-      "stars": 68905,
-      "forks": 6143,
-      "starsInPeriod": 901
+      "stars": 69385,
+      "forks": 6166,
+      "starsInPeriod": 1548
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
       "programmingLanguage": "Python",
-      "stars": 40855,
-      "forks": 3300,
-      "starsInPeriod": 933
+      "stars": 40873,
+      "forks": 3303,
+      "starsInPeriod": 776
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/homeassistant-ai/ha-mcp",
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "programmingLanguage": "Python",
-      "stars": 7950,
-      "forks": 467,
-      "starsInPeriod": 2221
+      "stars": 7966,
+      "forks": 469,
+      "starsInPeriod": 1568
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "programmingLanguage": "Python",
-      "stars": 7693,
-      "forks": 711,
-      "starsInPeriod": 1528
+      "stars": 7843,
+      "forks": 730,
+      "starsInPeriod": 2666
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "programmingLanguage": "Python",
-      "stars": 33922,
-      "forks": 4026,
-      "starsInPeriod": 640
+      "stars": 33938,
+      "forks": 4027,
+      "starsInPeriod": 671
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "programmingLanguage": "Python",
-      "stars": 70316,
-      "forks": 5522,
-      "starsInPeriod": 2860
+      "stars": 70513,
+      "forks": 5540,
+      "starsInPeriod": 2866
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "programmingLanguage": "Python",
-      "stars": 113710,
-      "forks": 13090,
-      "starsInPeriod": 7067
+      "stars": 113914,
+      "forks": 13105,
+      "starsInPeriod": 5346
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/google/elephant-goldfish-model",
       "description": "Open-source plugin for designing and reviewing software with agents",
       "programmingLanguage": "Python",
-      "stars": 20752,
-      "forks": 1530,
-      "starsInPeriod": 4249
+      "stars": 20882,
+      "forks": 1540,
+      "starsInPeriod": 3701
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/FujiwaraChoki/supoclip",
       "description": "An open-source OpusClip alternative",
       "programmingLanguage": "Python",
-      "stars": 3423,
-      "forks": 769,
-      "starsInPeriod": 573
+      "stars": 3470,
+      "forks": 777,
+      "starsInPeriod": 627
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "programmingLanguage": "Python",
-      "stars": 26626,
-      "forks": 2368,
-      "starsInPeriod": 1373
+      "stars": 26684,
+      "forks": 2377,
+      "starsInPeriod": 1430
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
       "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
       "programmingLanguage": "Python",
-      "stars": 6966,
-      "forks": 1353,
-      "starsInPeriod": 1131
+      "stars": 7019,
+      "forks": 1361,
+      "starsInPeriod": 1160
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/andrewyng/openworker",
       "description": null,
       "programmingLanguage": "Python",
-      "stars": 19421,
-      "forks": 2770,
-      "starsInPeriod": 495
+      "stars": 19436,
+      "forks": 2774,
+      "starsInPeriod": 499
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "programmingLanguage": "Python",
-      "stars": 71037,
-      "forks": 11026,
-      "starsInPeriod": 3313
+      "stars": 71157,
+      "forks": 11040,
+      "starsInPeriod": 3235
     }
   ]
 }

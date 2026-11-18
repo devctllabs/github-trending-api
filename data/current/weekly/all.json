@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "all",
   "sourceUrl": "https://github.com/trending?since=weekly",
-  "observedAt": "2026-11-17T20:53:44Z",
+  "observedAt": "2026-11-18T07:26:15Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
       "programmingLanguage": "TypeScript",
-      "stars": 8385,
-      "forks": 723,
-      "starsInPeriod": 6542
+      "stars": 8561,
+      "forks": 731,
+      "starsInPeriod": 7015
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "programmingLanguage": "TypeScript",
-      "stars": 13011,
-      "forks": 1312,
-      "starsInPeriod": 2325
+      "stars": 13185,
+      "forks": 1320,
+      "starsInPeriod": 2926
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "programmingLanguage": "TypeScript",
-      "stars": 30083,
-      "forks": 2351,
-      "starsInPeriod": 10939
+      "stars": 30302,
+      "forks": 2366,
+      "starsInPeriod": 8700
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
       "programmingLanguage": "Ruby",
-      "stars": 16243,
-      "forks": 1418,
-      "starsInPeriod": 4679
+      "stars": 16327,
+      "forks": 1423,
+      "starsInPeriod": 4786
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "programmingLanguage": "Python",
-      "stars": 73059,
-      "forks": 57778,
-      "starsInPeriod": 4355
+      "stars": 73182,
+      "forks": 57824,
+      "starsInPeriod": 3653
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "programmingLanguage": "Python",
-      "stars": 196654,
-      "forks": 23060,
-      "starsInPeriod": 5666
+      "stars": 196896,
+      "forks": 23072,
+      "starsInPeriod": 4847
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "programmingLanguage": "Python",
-      "stars": 8981,
-      "forks": 1345,
-      "starsInPeriod": 1747
+      "stars": 9919,
+      "forks": 1402,
+      "starsInPeriod": 2508
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 53644,
-      "forks": 4427,
-      "starsInPeriod": 3056
+      "stars": 53958,
+      "forks": 4449,
+      "starsInPeriod": 3675
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 52332,
-      "forks": 3660,
-      "starsInPeriod": 3760
+      "stars": 52465,
+      "forks": 3669,
+      "starsInPeriod": 3429
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "programmingLanguage": "TypeScript",
-      "stars": 58009,
-      "forks": 4868,
-      "starsInPeriod": 2593
+      "stars": 58111,
+      "forks": 4874,
+      "starsInPeriod": 2948
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "programmingLanguage": "Python",
-      "stars": 6830,
-      "forks": 1403,
-      "starsInPeriod": 2407
+      "stars": 6937,
+      "forks": 1415,
+      "starsInPeriod": 2985
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "programmingLanguage": "TypeScript",
-      "stars": 10043,
-      "forks": 1326,
-      "starsInPeriod": 943
+      "stars": 10216,
+      "forks": 1335,
+      "starsInPeriod": 1197
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/openai/codex-security",
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "programmingLanguage": "TypeScript",
-      "stars": 13939,
-      "forks": 1093,
-      "starsInPeriod": 2352
+      "stars": 14013,
+      "forks": 1095,
+      "starsInPeriod": 2531
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "programmingLanguage": "JavaScript",
-      "stars": 118626,
-      "forks": 12372,
-      "starsInPeriod": 3960
+      "stars": 118737,
+      "forks": 12378,
+      "starsInPeriod": 3884
     }
   ]
 }

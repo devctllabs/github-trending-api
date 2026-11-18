@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-17T20:54:03Z",
+  "observedAt": "2026-11-18T07:26:32Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/BurntSushi/jiff",
       "description": "A datetime library for Rust that encourages you to jump into the pit of success.",
       "programmingLanguage": "Rust",
-      "stars": 3149,
+      "stars": 3193,
       "forks": 141,
-      "starsInPeriod": 61
+      "starsInPeriod": 81
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
       "programmingLanguage": "Rust",
-      "stars": 155201,
-      "forks": 10158,
-      "starsInPeriod": 312
+      "stars": 155362,
+      "forks": 10163,
+      "starsInPeriod": 315
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 30628,
-      "forks": 2790,
-      "starsInPeriod": 101
+      "stars": 30706,
+      "forks": 2796,
+      "starsInPeriod": 112
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/antithesishq/bombadil",
       "description": "Property-based testing for web and terminal UIs",
       "programmingLanguage": "Rust",
-      "stars": 2557,
-      "forks": 95,
-      "starsInPeriod": 419
+      "stars": 2627,
+      "forks": 96,
+      "starsInPeriod": 380
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "programmingLanguage": "Rust",
-      "stars": 22801,
-      "forks": 2531,
-      "starsInPeriod": 67
+      "stars": 22811,
+      "forks": 2530,
+      "starsInPeriod": 50
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "programmingLanguage": "Rust",
-      "stars": 3629,
-      "forks": 376,
-      "starsInPeriod": 41
+      "stars": 3640,
+      "forks": 375,
+      "starsInPeriod": 38
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/anomalyco/hex",
       "description": "Local voice dictation for mac, windows and linux",
       "programmingLanguage": "Rust",
-      "stars": 7272,
-      "forks": 472,
-      "starsInPeriod": 198
+      "stars": 7335,
+      "forks": 474,
+      "starsInPeriod": 174
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/leepokai/Codync",
       "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 2215,
-      "forks": 226,
-      "starsInPeriod": 47
+      "stars": 2230,
+      "forks": 228,
+      "starsInPeriod": 43
     },
     {
       "rank": 9,
@@ -94,8 +94,8 @@
       "url": "https://github.com/rustfs/rustfs",
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "programmingLanguage": "Rust",
-      "stars": 36217,
-      "forks": 1679,
+      "stars": 36238,
+      "forks": 1681,
       "starsInPeriod": 55
     },
     {
@@ -104,9 +104,9 @@
       "url": "https://github.com/atuinsh/atuin",
       "description": "✨ Making your shell magical",
       "programmingLanguage": "Rust",
-      "stars": 32503,
-      "forks": 1048,
-      "starsInPeriod": 37
+      "stars": 32514,
+      "forks": 1047,
+      "starsInPeriod": 21
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/malisper/pgrust",
       "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
       "programmingLanguage": "Rust",
-      "stars": 5849,
-      "forks": 232,
-      "starsInPeriod": 20
+      "stars": 5866,
+      "forks": 234,
+      "starsInPeriod": 27
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/pnpm/pnpm",
       "description": "Fast, disk space efficient package manager",
       "programmingLanguage": "Rust",
-      "stars": 37111,
-      "forks": 1989,
-      "starsInPeriod": 13
+      "stars": 37119,
+      "forks": 1990,
+      "starsInPeriod": 12
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "programmingLanguage": "Rust",
-      "stars": 112092,
-      "forks": 6687,
-      "starsInPeriod": 693
+      "stars": 112427,
+      "forks": 6700,
+      "starsInPeriod": 748
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/jlcodes99/cockpit-tools",
       "description": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
       "programmingLanguage": "Rust",
-      "stars": 20079,
+      "stars": 20094,
       "forks": 1823,
-      "starsInPeriod": 28
+      "starsInPeriod": 33
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/ShayanAbbas1/dbdelve",
       "description": "Fast and lightweight DB Client made in Rust and GPUI.",
       "programmingLanguage": "Rust",
-      "stars": 1546,
-      "forks": 88,
-      "starsInPeriod": 63
+      "stars": 1564,
+      "forks": 89,
+      "starsInPeriod": 59
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/aimod-cc/Agent2API",
       "description": "Local AI routing gateway with Agent client takeover — reuse existing client logins, call 50+ AI clients through one base URL, with unified OpenAI / Anthropic / Images APIs, multi-account routing, check-in, balance and request reports · 本地 AI 路由网关 + Agent 客户端接管：复用各家客户端登录态，一个 base_url 调用 50+ 家模型额度，统一 OpenAI / Anthropic / 生图接口，多账号选路、签到、余额与请求报表一体管理",
       "programmingLanguage": "Rust",
-      "stars": 2462,
-      "forks": 675,
-      "starsInPeriod": 52
+      "stars": 2480,
+      "forks": 678,
+      "starsInPeriod": 51
     }
   ]
 }
