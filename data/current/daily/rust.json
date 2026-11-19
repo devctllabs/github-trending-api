@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-18T20:29:46Z",
+  "observedAt": "2026-11-19T07:22:36Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/astral-sh/uv",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 92193,
-      "forks": 3921,
-      "starsInPeriod": 260
+      "stars": 92317,
+      "forks": 3927,
+      "starsInPeriod": 258
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/SaladDay/cc-switch-cli",
       "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "programmingLanguage": "Rust",
-      "stars": 5532,
-      "forks": 378,
-      "starsInPeriod": 18
+      "stars": 5539,
+      "forks": 381,
+      "starsInPeriod": 17
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/rustfs/rustfs",
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "programmingLanguage": "Rust",
-      "stars": 36251,
+      "stars": 36270,
       "forks": 1682,
-      "starsInPeriod": 45
+      "starsInPeriod": 42
     },
     {
       "rank": 4,
@@ -44,8 +44,8 @@
       "url": "https://github.com/leepokai/Codync",
       "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 2250,
-      "forks": 230,
+      "stars": 2268,
+      "forks": 232,
       "starsInPeriod": 35
     },
     {
@@ -54,9 +54,9 @@
       "url": "https://github.com/BurntSushi/ripgrep",
       "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
       "programmingLanguage": "Rust",
-      "stars": 70061,
-      "forks": 3591,
-      "starsInPeriod": 36
+      "stars": 70055,
+      "forks": 3586,
+      "starsInPeriod": 39
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/ViceVerse-cz/Serein",
       "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
       "programmingLanguage": "Rust",
-      "stars": 1419,
-      "forks": 138,
-      "starsInPeriod": 31
+      "stars": 1448,
+      "forks": 144,
+      "starsInPeriod": 33
     },
     {
       "rank": 7,
@@ -74,7 +74,7 @@
       "url": "https://github.com/microsoft/edit",
       "description": "We all edit.",
       "programmingLanguage": "Rust",
-      "stars": 14786,
+      "stars": 14787,
       "forks": 746,
       "starsInPeriod": 8
     },
@@ -84,7 +84,7 @@
       "url": "https://github.com/antithesishq/bombadil",
       "description": "Property-based testing for web and terminal UIs",
       "programmingLanguage": "Rust",
-      "stars": 2695,
+      "stars": 2742,
       "forks": 98,
       "starsInPeriod": 148
     },
@@ -94,9 +94,9 @@
       "url": "https://github.com/screenpipe/screenpipe",
       "description": "YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.",
       "programmingLanguage": "Rust",
-      "stars": 22432,
-      "forks": 2307,
-      "starsInPeriod": 16
+      "stars": 22462,
+      "forks": 2310,
+      "starsInPeriod": 18
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/stalwartlabs/stalwart",
       "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
       "programmingLanguage": "Rust",
-      "stars": 16035,
+      "stars": 16045,
       "forks": 1058,
-      "starsInPeriod": 28
+      "starsInPeriod": 27
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "programmingLanguage": "Rust",
-      "stars": 18710,
-      "forks": 1587,
-      "starsInPeriod": 23
+      "stars": 18721,
+      "forks": 1588,
+      "starsInPeriod": 18
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/astral-sh/ruff",
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "programmingLanguage": "Rust",
-      "stars": 51268,
-      "forks": 2761,
-      "starsInPeriod": 103
+      "stars": 51280,
+      "forks": 2764,
+      "starsInPeriod": 120
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "programmingLanguage": "Rust",
-      "stars": 122227,
-      "forks": 16673,
-      "starsInPeriod": 305
+      "stars": 122211,
+      "forks": 16663,
+      "starsInPeriod": 175
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/tauri-apps/tauri",
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "programmingLanguage": "Rust",
-      "stars": 113001,
-      "forks": 4223,
-      "starsInPeriod": 265
+      "stars": 112962,
+      "forks": 4222,
+      "starsInPeriod": 141
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "programmingLanguage": "Rust",
-      "stars": 17842,
+      "stars": 17850,
       "forks": 845,
-      "starsInPeriod": 50
+      "starsInPeriod": 28
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/malisper/pgrust",
       "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
       "programmingLanguage": "Rust",
-      "stars": 5899,
-      "forks": 236,
-      "starsInPeriod": 45
+      "stars": 5929,
+      "forks": 239,
+      "starsInPeriod": 47
     },
     {
       "rank": 17,
@@ -174,9 +174,9 @@
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
       "programmingLanguage": "Rust",
-      "stars": 32607,
-      "forks": 2460,
-      "starsInPeriod": 110
+      "stars": 32632,
+      "forks": 2461,
+      "starsInPeriod": 101
     }
   ]
 }
