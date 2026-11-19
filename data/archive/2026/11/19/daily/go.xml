@@ -4,13 +4,13 @@
     <title>GitHub Trending — daily — go</title>
     <link>https://github.com/trending/go</link>
     <description>GitHub Trending — daily — go</description>
-    <lastBuildDate>Thu, 19 Nov 2026 07:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:34:37 GMT</lastBuildDate>
     <ght:schemaVersion>1</ght:schemaVersion>
     <ght:kind>daily-rollup</ght:kind>
     <ght:date>2026-11-19</ght:date>
     <ght:period>daily</ght:period>
     <ght:language>go</ght:language>
-    <ght:updatedAt>2026-11-19T07:22:46Z</ght:updatedAt>
+    <ght:updatedAt>2026-11-19T20:34:37Z</ght:updatedAt>
     <ght:latestStatus>complete</ght:latestStatus>
     <ght:latestIssues />
     <item>
@@ -20,13 +20,29 @@
       <guid isPermaLink="true">https://github.com/getarcaneapp/arcane</guid>
       <pubDate>Thu, 19 Nov 2026 07:22:46 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>9961</ght:stars>
-      <ght:forks>570</ght:forks>
-      <ght:starsInPeriod>547</ght:starsInPeriod>
+      <ght:stars>10114</ght:stars>
+      <ght:forks>574</ght:forks>
+      <ght:starsInPeriod>498</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-19T20:34:37Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>datazip-inc/olake-go</title>
+      <link>https://github.com/datazip-inc/olake-go</link>
+      <description>OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.</description>
+      <guid isPermaLink="true">https://github.com/datazip-inc/olake-go</guid>
+      <pubDate>Thu, 19 Nov 2026 20:34:37 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>2033</ght:stars>
+      <ght:forks>312</ght:forks>
+      <ght:starsInPeriod>115</ght:starsInPeriod>
       <ght:bestRank>1</ght:bestRank>
       <ght:latestRank>1</ght:latestRank>
-      <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-19T07:22:46Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-19T20:34:37Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-19T20:34:37Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -44,6 +60,22 @@
       <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-19T07:22:46Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>vxcontrol/pentagi</title>
+      <link>https://github.com/vxcontrol/pentagi</link>
+      <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
+      <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
+      <pubDate>Thu, 19 Nov 2026 07:22:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>34626</ght:stars>
+      <ght:forks>5508</ght:forks>
+      <ght:starsInPeriod>96</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-19T20:34:37Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>docker/compose</title>
@@ -68,14 +100,30 @@
       <guid isPermaLink="true">https://github.com/Tencent/LoopForge</guid>
       <pubDate>Thu, 19 Nov 2026 07:22:46 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>3922</ght:stars>
-      <ght:forks>564</ght:forks>
-      <ght:starsInPeriod>821</ght:starsInPeriod>
+      <ght:stars>4045</ght:stars>
+      <ght:forks>586</ght:forks>
+      <ght:starsInPeriod>273</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-19T20:34:37Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>agent-substrate/substrate</title>
+      <link>https://github.com/agent-substrate/substrate</link>
+      <description>Agent Substrate: the core system</description>
+      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
+      <pubDate>Thu, 19 Nov 2026 07:22:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>7790</ght:stars>
+      <ght:forks>851</ght:forks>
+      <ght:starsInPeriod>236</ght:starsInPeriod>
       <ght:bestRank>4</ght:bestRank>
       <ght:latestRank>4</ght:latestRank>
       <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-19T07:22:46Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-19T20:34:37Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>golang/go</title>
@@ -100,45 +148,45 @@
       <guid isPermaLink="true">https://github.com/opensandbox-group/OpenSandbox</guid>
       <pubDate>Thu, 19 Nov 2026 07:22:46 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>17629</ght:stars>
-      <ght:forks>1701</ght:forks>
-      <ght:starsInPeriod>106</ght:starsInPeriod>
+      <ght:stars>17656</ght:stars>
+      <ght:forks>1702</ght:forks>
+      <ght:starsInPeriod>84</ght:starsInPeriod>
       <ght:bestRank>6</ght:bestRank>
-      <ght:latestRank>6</ght:latestRank>
-      <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-19T07:22:46Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>agent-substrate/substrate</title>
-      <link>https://github.com/agent-substrate/substrate</link>
-      <description>Agent Substrate: the core system</description>
-      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
-      <pubDate>Thu, 19 Nov 2026 07:22:46 GMT</pubDate>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>7675</ght:stars>
-      <ght:forks>843</ght:forks>
-      <ght:starsInPeriod>377</ght:starsInPeriod>
-      <ght:bestRank>7</ght:bestRank>
       <ght:latestRank>7</ght:latestRank>
       <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-19T07:22:46Z</ght:lastSeenAt>
+      <ght:lastSeenAt>2026-11-19T20:34:37Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
+      <title>multica-ai/multica</title>
+      <link>https://github.com/multica-ai/multica</link>
+      <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
+      <guid isPermaLink="true">https://github.com/multica-ai/multica</guid>
+      <pubDate>Thu, 19 Nov 2026 20:34:37 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>56751</ght:stars>
+      <ght:forks>7471</ght:forks>
+      <ght:starsInPeriod>161</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-11-19T20:34:37Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-19T20:34:37Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
-      <title>vxcontrol/pentagi</title>
-      <link>https://github.com/vxcontrol/pentagi</link>
-      <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
-      <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
-      <pubDate>Thu, 19 Nov 2026 07:22:46 GMT</pubDate>
+      <title>nats-io/nats-server</title>
+      <link>https://github.com/nats-io/nats-server</link>
+      <description>High-Performance server for NATS.io, the cloud and edge native messaging system.</description>
+      <guid isPermaLink="true">https://github.com/nats-io/nats-server</guid>
+      <pubDate>Thu, 19 Nov 2026 20:34:37 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>34586</ght:stars>
-      <ght:forks>5497</ght:forks>
-      <ght:starsInPeriod>127</ght:starsInPeriod>
+      <ght:stars>21067</ght:stars>
+      <ght:forks>2048</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
       <ght:bestRank>8</ght:bestRank>
       <ght:latestRank>8</ght:latestRank>
-      <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-19T07:22:46Z</ght:lastSeenAt>
+      <ght:firstSeenAt>2026-11-19T20:34:37Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-19T20:34:37Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -158,6 +206,22 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>gastownhall/beads</title>
+      <link>https://github.com/gastownhall/beads</link>
+      <description>Beads - A memory upgrade for your coding agent</description>
+      <guid isPermaLink="true">https://github.com/gastownhall/beads</guid>
+      <pubDate>Thu, 19 Nov 2026 20:34:37 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>28847</ght:stars>
+      <ght:forks>1949</ght:forks>
+      <ght:starsInPeriod>28</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-11-19T20:34:37Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-19T20:34:37Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
       <title>gtsteffaniak/filebrowser</title>
       <link>https://github.com/gtsteffaniak/filebrowser</link>
       <description>📂 Web File Browser</description>
@@ -174,20 +238,36 @@
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
+      <title>TencentCloud/CubeSandbox</title>
+      <link>https://github.com/TencentCloud/CubeSandbox</link>
+      <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
+      <guid isPermaLink="true">https://github.com/TencentCloud/CubeSandbox</guid>
+      <pubDate>Thu, 19 Nov 2026 07:22:46 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>13375</ght:stars>
+      <ght:forks>1240</ght:forks>
+      <ght:starsInPeriod>19</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-19T20:34:37Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
+    </item>
+    <item>
       <title>Autumn-27/ScopeSentry</title>
       <link>https://github.com/Autumn-27/ScopeSentry</link>
       <description>ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes</description>
       <guid isPermaLink="true">https://github.com/Autumn-27/ScopeSentry</guid>
       <pubDate>Thu, 19 Nov 2026 07:22:46 GMT</pubDate>
       <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>2537</ght:stars>
-      <ght:forks>643</ght:forks>
-      <ght:starsInPeriod>51</ght:starsInPeriod>
+      <ght:stars>2557</ght:stars>
+      <ght:forks>652</ght:forks>
+      <ght:starsInPeriod>31</ght:starsInPeriod>
       <ght:bestRank>11</ght:bestRank>
       <ght:latestRank>11</ght:latestRank>
       <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-19T07:22:46Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
+      <ght:lastSeenAt>2026-11-19T20:34:37Z</ght:lastSeenAt>
+      <ght:appearances>2</ght:appearances>
     </item>
     <item>
       <title>Wei-Shaw/sub2api</title>
@@ -203,6 +283,22 @@
       <ght:latestRank>12</ght:latestRank>
       <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-19T07:22:46Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>putyy/res-downloader</title>
+      <link>https://github.com/putyy/res-downloader</link>
+      <description>视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</description>
+      <guid isPermaLink="true">https://github.com/putyy/res-downloader</guid>
+      <pubDate>Thu, 19 Nov 2026 20:34:37 GMT</pubDate>
+      <ght:programmingLanguage>Go</ght:programmingLanguage>
+      <ght:stars>21380</ght:stars>
+      <ght:forks>2618</ght:forks>
+      <ght:starsInPeriod>24</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-11-19T20:34:37Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-19T20:34:37Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>
     </item>
     <item>
@@ -249,22 +345,6 @@
       <ght:starsInPeriod>15</ght:starsInPeriod>
       <ght:bestRank>15</ght:bestRank>
       <ght:latestRank>15</ght:latestRank>
-      <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
-      <ght:lastSeenAt>2026-11-19T07:22:46Z</ght:lastSeenAt>
-      <ght:appearances>1</ght:appearances>
-    </item>
-    <item>
-      <title>TencentCloud/CubeSandbox</title>
-      <link>https://github.com/TencentCloud/CubeSandbox</link>
-      <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
-      <guid isPermaLink="true">https://github.com/TencentCloud/CubeSandbox</guid>
-      <pubDate>Thu, 19 Nov 2026 07:22:46 GMT</pubDate>
-      <ght:programmingLanguage>Go</ght:programmingLanguage>
-      <ght:stars>13366</ght:stars>
-      <ght:forks>1238</ght:forks>
-      <ght:starsInPeriod>41</ght:starsInPeriod>
-      <ght:bestRank>16</ght:bestRank>
-      <ght:latestRank>16</ght:latestRank>
       <ght:firstSeenAt>2026-11-19T07:22:46Z</ght:firstSeenAt>
       <ght:lastSeenAt>2026-11-19T07:22:46Z</ght:lastSeenAt>
       <ght:appearances>1</ght:appearances>

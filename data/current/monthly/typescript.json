@@ -4,29 +4,29 @@
   "period": "monthly",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript?since=monthly",
-  "observedAt": "2026-11-19T07:23:14Z",
+  "observedAt": "2026-11-19T20:35:06Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-      "programmingLanguage": "TypeScript",
-      "stars": 65569,
-      "forks": 11480,
-      "starsInPeriod": 36872
-    },
-    {
-      "rank": 2,
       "fullName": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "programmingLanguage": "TypeScript",
-      "stars": 25528,
-      "forks": 3616,
+      "stars": 25767,
+      "forks": 3650,
       "starsInPeriod": 20270
+    },
+    {
+      "rank": 2,
+      "fullName": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+      "programmingLanguage": "TypeScript",
+      "stars": 66272,
+      "forks": 11568,
+      "starsInPeriod": 36872
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "programmingLanguage": "TypeScript",
-      "stars": 118296,
-      "forks": 10285,
+      "stars": 118407,
+      "forks": 10303,
       "starsInPeriod": 17311
     },
     {
@@ -44,39 +44,39 @@
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "programmingLanguage": "TypeScript",
-      "stars": 13530,
-      "forks": 1363,
+      "stars": 13636,
+      "forks": 1378,
       "starsInPeriod": 3868
     },
     {
       "rank": 5,
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
-      "programmingLanguage": "TypeScript",
-      "stars": 86675,
-      "forks": 8051,
-      "starsInPeriod": 20375
-    },
-    {
-      "rank": 6,
-      "fullName": "Vincentwei1021/video-shotcraft",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
-      "programmingLanguage": "TypeScript",
-      "stars": 21462,
-      "forks": 1979,
-      "starsInPeriod": 8934
-    },
-    {
-      "rank": 7,
       "fullName": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "programmingLanguage": "TypeScript",
-      "stars": 10507,
-      "forks": 1372,
+      "stars": 10662,
+      "forks": 1383,
       "starsInPeriod": 1841
+    },
+    {
+      "rank": 6,
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
+      "programmingLanguage": "TypeScript",
+      "stars": 86984,
+      "forks": 8089,
+      "starsInPeriod": 20375
+    },
+    {
+      "rank": 7,
+      "fullName": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+      "programmingLanguage": "TypeScript",
+      "stars": 21646,
+      "forks": 1993,
+      "starsInPeriod": 8934
     },
     {
       "rank": 8,
@@ -84,8 +84,8 @@
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "ThinkRail is the agentic IDE that gets better every time you use it",
       "programmingLanguage": "TypeScript",
-      "stars": 8355,
-      "forks": 531,
+      "stars": 8360,
+      "forks": 532,
       "starsInPeriod": 7653
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
       "programmingLanguage": "TypeScript",
-      "stars": 12900,
-      "forks": 1603,
+      "stars": 12953,
+      "forks": 1611,
       "starsInPeriod": 6310
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://github.com/vercel-labs/skills",
       "description": "The open agent skills tool - npx skills",
       "programmingLanguage": "TypeScript",
-      "stars": 40018,
-      "forks": 3535,
+      "stars": 40076,
+      "forks": 3543,
       "starsInPeriod": 4623
     },
     {
@@ -114,8 +114,8 @@
       "url": "https://github.com/remotion-dev/remotion",
       "description": "🎥 Make videos programmatically with React",
       "programmingLanguage": "TypeScript",
-      "stars": 74208,
-      "forks": 6272,
+      "stars": 74337,
+      "forks": 6297,
       "starsInPeriod": 9354
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "programmingLanguage": "TypeScript",
-      "stars": 54838,
-      "forks": 7729,
+      "stars": 55170,
+      "forks": 7823,
       "starsInPeriod": 17947
     },
     {
@@ -134,29 +134,29 @@
       "url": "https://github.com/gitroomhq/postiz-app",
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "programmingLanguage": "TypeScript",
-      "stars": 41937,
-      "forks": 8011,
+      "stars": 41997,
+      "forks": 8020,
       "starsInPeriod": 4677
     },
     {
       "rank": 14,
+      "fullName": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "programmingLanguage": "TypeScript",
+      "stars": 30789,
+      "forks": 3559,
+      "starsInPeriod": 2358
+    },
+    {
+      "rank": 15,
       "fullName": "LibreSpark/LibreTV",
       "url": "https://github.com/LibreSpark/LibreTV",
       "description": "一分钟搭建影视站，支持Docker等部署方式",
       "programmingLanguage": "TypeScript",
-      "stars": 25348,
-      "forks": 31483,
+      "stars": 25388,
+      "forks": 31502,
       "starsInPeriod": 5980
-    },
-    {
-      "rank": 15,
-      "fullName": "anthropics/sandbox-runtime",
-      "url": "https://github.com/anthropics/sandbox-runtime",
-      "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
-      "programmingLanguage": "TypeScript",
-      "stars": 7181,
-      "forks": 650,
-      "starsInPeriod": 1613
     },
     {
       "rank": 16,
@@ -164,59 +164,59 @@
       "url": "https://github.com/ranxianglei/billion-context",
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .",
       "programmingLanguage": "TypeScript",
-      "stars": 7902,
-      "forks": 638,
+      "stars": 7942,
+      "forks": 641,
       "starsInPeriod": 6081
     },
     {
       "rank": 17,
-      "fullName": "github/docs",
-      "url": "https://github.com/github/docs",
-      "description": "The open-source repo for docs.github.com",
-      "programmingLanguage": "TypeScript",
-      "stars": 21500,
-      "forks": 69654,
-      "starsInPeriod": 771
-    },
-    {
-      "rank": 18,
-      "fullName": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "programmingLanguage": "TypeScript",
-      "stars": 30774,
-      "forks": 3557,
-      "starsInPeriod": 2358
-    },
-    {
-      "rank": 19,
-      "fullName": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "programmingLanguage": "TypeScript",
-      "stars": 108936,
-      "forks": 14964,
-      "starsInPeriod": 2047
-    },
-    {
-      "rank": 20,
-      "fullName": "ag-ui-protocol/ag-ui",
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-      "programmingLanguage": "TypeScript",
-      "stars": 20513,
-      "forks": 2109,
-      "starsInPeriod": 3734
-    },
-    {
-      "rank": 21,
       "fullName": "lobehub/lobehub",
       "url": "https://github.com/lobehub/lobehub",
       "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "programmingLanguage": "TypeScript",
-      "stars": 85831,
+      "stars": 85862,
       "forks": 16350,
       "starsInPeriod": 2719
+    },
+    {
+      "rank": 18,
+      "fullName": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "programmingLanguage": "TypeScript",
+      "stars": 20606,
+      "forks": 2122,
+      "starsInPeriod": 3734
+    },
+    {
+      "rank": 19,
+      "fullName": "github/docs",
+      "url": "https://github.com/github/docs",
+      "description": "The open-source repo for docs.github.com",
+      "programmingLanguage": "TypeScript",
+      "stars": 21509,
+      "forks": 69659,
+      "starsInPeriod": 771
+    },
+    {
+      "rank": 20,
+      "fullName": "anthropics/sandbox-runtime",
+      "url": "https://github.com/anthropics/sandbox-runtime",
+      "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+      "programmingLanguage": "TypeScript",
+      "stars": 7188,
+      "forks": 653,
+      "starsInPeriod": 1613
+    },
+    {
+      "rank": 21,
+      "fullName": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "programmingLanguage": "TypeScript",
+      "stars": 108940,
+      "forks": 14966,
+      "starsInPeriod": 2047
     },
     {
       "rank": 22,
@@ -224,8 +224,8 @@
       "url": "https://github.com/elie222/rakazo",
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "programmingLanguage": "TypeScript",
-      "stars": 9164,
-      "forks": 1648,
+      "stars": 9217,
+      "forks": 1659,
       "starsInPeriod": 4644
     }
   ]

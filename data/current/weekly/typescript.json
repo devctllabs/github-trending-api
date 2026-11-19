@@ -4,89 +4,89 @@
   "period": "weekly",
   "language": "typescript",
   "sourceUrl": "https://github.com/trending/typescript?since=weekly",
-  "observedAt": "2026-11-19T07:23:11Z",
+  "observedAt": "2026-11-19T20:35:03Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "programmingLanguage": "TypeScript",
-      "stars": 8932,
-      "forks": 744,
-      "starsInPeriod": 7257
-    },
-    {
-      "rank": 2,
       "fullName": "backnotprop/plannotator",
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "programmingLanguage": "TypeScript",
-      "stars": 13530,
-      "forks": 1363,
+      "stars": 13636,
+      "forks": 1378,
       "starsInPeriod": 3290
     },
     {
-      "rank": 3,
-      "fullName": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "programmingLanguage": "TypeScript",
-      "stars": 30692,
-      "forks": 2404,
-      "starsInPeriod": 6250
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "fullName": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "programmingLanguage": "TypeScript",
-      "stars": 10507,
-      "forks": 1372,
+      "stars": 10662,
+      "forks": 1383,
       "starsInPeriod": 1567
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "fullName": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "programmingLanguage": "TypeScript",
+      "stars": 9076,
+      "forks": 753,
+      "starsInPeriod": 7257
+    },
+    {
+      "rank": 4,
       "fullName": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "programmingLanguage": "TypeScript",
-      "stars": 58256,
-      "forks": 4879,
+      "stars": 58341,
+      "forks": 4878,
       "starsInPeriod": 3143
     },
     {
-      "rank": 6,
+      "rank": 5,
       "fullName": "ag-ui-protocol/ag-ui",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "programmingLanguage": "TypeScript",
-      "stars": 20513,
-      "forks": 2109,
+      "stars": 20606,
+      "forks": 2122,
       "starsInPeriod": 3221
     },
     {
-      "rank": 7,
-      "fullName": "openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "rank": 6,
+      "fullName": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
       "programmingLanguage": "TypeScript",
-      "stars": 14142,
-      "forks": 1104,
-      "starsInPeriod": 2630
+      "stars": 30904,
+      "forks": 2420,
+      "starsInPeriod": 6250
     },
     {
-      "rank": 8,
+      "rank": 7,
       "fullName": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "programmingLanguage": "TypeScript",
-      "stars": 30047,
-      "forks": 2714,
+      "stars": 30416,
+      "forks": 2749,
       "starsInPeriod": 6840
+    },
+    {
+      "rank": 8,
+      "fullName": "a2ui-project/a2ui",
+      "url": "https://github.com/a2ui-project/a2ui",
+      "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+      "programmingLanguage": "TypeScript",
+      "stars": 17652,
+      "forks": 1429,
+      "starsInPeriod": 557
     },
     {
       "rank": 9,
@@ -94,29 +94,29 @@
       "url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
       "programmingLanguage": "TypeScript",
-      "stars": 30774,
-      "forks": 3557,
+      "stars": 30789,
+      "forks": 3559,
       "starsInPeriod": 1387
     },
     {
       "rank": 10,
-      "fullName": "a2ui-project/a2ui",
-      "url": "https://github.com/a2ui-project/a2ui",
-      "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+      "fullName": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "programmingLanguage": "TypeScript",
-      "stars": 17627,
-      "forks": 1429,
-      "starsInPeriod": 557
+      "stars": 14185,
+      "forks": 1108,
+      "starsInPeriod": 2630
     },
     {
       "rank": 11,
-      "fullName": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
+      "fullName": "hieunc229/mailflare",
+      "url": "https://github.com/hieunc229/mailflare",
+      "description": "Email for professionals and teams",
       "programmingLanguage": "TypeScript",
-      "stars": 12900,
-      "forks": 1603,
-      "starsInPeriod": 1901
+      "stars": 7280,
+      "forks": 1254,
+      "starsInPeriod": 991
     },
     {
       "rank": 12,
@@ -124,49 +124,59 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "programmingLanguage": "TypeScript",
-      "stars": 25528,
-      "forks": 3616,
+      "stars": 25767,
+      "forks": 3650,
       "starsInPeriod": 4246
     },
     {
       "rank": 13,
-      "fullName": "lobehub/lobehub",
-      "url": "https://github.com/lobehub/lobehub",
-      "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
-      "programmingLanguage": "TypeScript",
-      "stars": 85831,
-      "forks": 16350,
-      "starsInPeriod": 829
-    },
-    {
-      "rank": 14,
-      "fullName": "elie222/rakazo",
-      "url": "https://github.com/elie222/rakazo",
-      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "programmingLanguage": "TypeScript",
-      "stars": 9164,
-      "forks": 1648,
-      "starsInPeriod": 1230
-    },
-    {
-      "rank": 15,
       "fullName": "Viren070/AIOStreams",
       "url": "https://github.com/Viren070/AIOStreams",
       "description": "AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.",
       "programmingLanguage": "TypeScript",
-      "stars": 3275,
+      "stars": 3278,
       "forks": 955,
       "starsInPeriod": 136
     },
     {
-      "rank": 16,
-      "fullName": "hieunc229/mailflare",
-      "url": "https://github.com/hieunc229/mailflare",
-      "description": "Email for professionals and teams",
+      "rank": 14,
+      "fullName": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "programmingLanguage": "TypeScript",
-      "stars": 7145,
-      "forks": 1234,
-      "starsInPeriod": 991
+      "stars": 85862,
+      "forks": 16350,
+      "starsInPeriod": 829
+    },
+    {
+      "rank": 15,
+      "fullName": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
+      "programmingLanguage": "TypeScript",
+      "stars": 12953,
+      "forks": 1611,
+      "starsInPeriod": 1901
+    },
+    {
+      "rank": 16,
+      "fullName": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "programmingLanguage": "TypeScript",
+      "stars": 28968,
+      "forks": 2321,
+      "starsInPeriod": 143
+    },
+    {
+      "rank": 17,
+      "fullName": "tobi/qmd",
+      "url": "https://github.com/tobi/qmd",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "programmingLanguage": "TypeScript",
+      "stars": 31250,
+      "forks": 1971,
+      "starsInPeriod": 175
     }
   ]
 }

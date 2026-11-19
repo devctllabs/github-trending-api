@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust?since=weekly",
-  "observedAt": "2026-11-19T07:22:39Z",
+  "observedAt": "2026-11-19T20:34:30Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,89 +14,69 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "programmingLanguage": "Rust",
-      "stars": 52716,
-      "forks": 3692,
+      "stars": 52853,
+      "forks": 3697,
       "starsInPeriod": 2987
     },
     {
       "rank": 2,
-      "fullName": "ModernRelay/omnigraph",
-      "url": "https://github.com/ModernRelay/omnigraph",
-      "description": "Object-storage native graph database with branching and typed ontology",
-      "programmingLanguage": "Rust",
-      "stars": 3069,
-      "forks": 339,
-      "starsInPeriod": 1045
-    },
-    {
-      "rank": 3,
       "fullName": "block/buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "programmingLanguage": "Rust",
-      "stars": 37582,
-      "forks": 4960,
+      "stars": 37604,
+      "forks": 4959,
       "starsInPeriod": 658
     },
     {
+      "rank": 3,
+      "fullName": "ModernRelay/omnigraph",
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "description": "Object-storage native graph database with branching and typed ontology",
+      "programmingLanguage": "Rust",
+      "stars": 3096,
+      "forks": 340,
+      "starsInPeriod": 1045
+    },
+    {
       "rank": 4,
-      "fullName": "zellij-org/zellij",
-      "url": "https://github.com/zellij-org/zellij",
-      "description": "A terminal workspace with batteries included",
-      "programmingLanguage": "Rust",
-      "stars": 36140,
-      "forks": 1549,
-      "starsInPeriod": 182
-    },
-    {
-      "rank": 5,
-      "fullName": "tokio-rs/topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "programmingLanguage": "Rust",
-      "stars": 7268,
-      "forks": 312,
-      "starsInPeriod": 202
-    },
-    {
-      "rank": 6,
       "fullName": "martin-olivier/airgorah",
       "url": "https://github.com/martin-olivier/airgorah",
       "description": "A WiFi security auditing software",
       "programmingLanguage": "Rust",
-      "stars": 6663,
-      "forks": 1096,
+      "stars": 6678,
+      "forks": 1101,
       "starsInPeriod": 1528
     },
     {
-      "rank": 7,
+      "rank": 5,
       "fullName": "crmne/zapfast",
       "url": "https://github.com/crmne/zapfast",
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "programmingLanguage": "Rust",
-      "stars": 4746,
-      "forks": 479,
+      "stars": 4773,
+      "forks": 484,
       "starsInPeriod": 646
     },
     {
-      "rank": 8,
-      "fullName": "astral-sh/ruff",
-      "url": "https://github.com/astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "rank": 6,
+      "fullName": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "programmingLanguage": "Rust",
-      "stars": 51280,
-      "forks": 2764,
-      "starsInPeriod": 554
+      "stars": 36297,
+      "forks": 1686,
+      "starsInPeriod": 306
     },
     {
-      "rank": 9,
-      "fullName": "NVIDIA-NeMo/Switchyard",
-      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "rank": 7,
+      "fullName": "ViceVerse-cz/Serein",
+      "url": "https://github.com/ViceVerse-cz/Serein",
+      "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
       "programmingLanguage": "Rust",
-      "stars": 3651,
-      "forks": 378,
-      "starsInPeriod": 138
+      "stars": 1494,
+      "forks": 148,
+      "starsInPeriod": 198
     }
   ]
 }

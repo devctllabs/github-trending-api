@@ -5,7 +5,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "updatedAt": "2026-11-19T07:22:36Z",
+  "updatedAt": "2026-11-19T20:34:26Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
@@ -24,18 +24,46 @@
       "appearances": 1
     },
     {
+      "fullName": "janhq/jan",
+      "url": "https://github.com/janhq/jan",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+      "programmingLanguage": "Rust",
+      "stars": 45861,
+      "forks": 3205,
+      "starsInPeriod": 52,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-11-19T20:34:26Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "malisper/pgrust",
+      "url": "https://github.com/malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
+      "programmingLanguage": "Rust",
+      "stars": 5946,
+      "forks": 241,
+      "starsInPeriod": 47,
+      "bestRank": 2,
+      "latestRank": 2,
+      "firstSeenAt": "2026-11-19T07:22:36Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
+      "appearances": 2
+    },
+    {
       "fullName": "SaladDay/cc-switch-cli",
       "url": "https://github.com/SaladDay/cc-switch-cli",
       "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "programmingLanguage": "Rust",
-      "stars": 5539,
+      "stars": 5544,
       "forks": 381,
-      "starsInPeriod": 17,
+      "starsInPeriod": 18,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 7,
       "firstSeenAt": "2026-11-19T07:22:36Z",
-      "lastSeenAt": "2026-11-19T07:22:36Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-19T20:34:26Z",
+      "appearances": 2
     },
     {
       "fullName": "rustfs/rustfs",
@@ -49,6 +77,20 @@
       "latestRank": 3,
       "firstSeenAt": "2026-11-19T07:22:36Z",
       "lastSeenAt": "2026-11-19T07:22:36Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "programmingLanguage": "Rust",
+      "stars": 40387,
+      "forks": 3248,
+      "starsInPeriod": 10,
+      "bestRank": 3,
+      "latestRank": 3,
+      "firstSeenAt": "2026-11-19T20:34:26Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
       "appearances": 1
     },
     {
@@ -66,6 +108,20 @@
       "appearances": 1
     },
     {
+      "fullName": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "programmingLanguage": "Rust",
+      "stars": 30924,
+      "forks": 2816,
+      "starsInPeriod": 146,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-19T20:34:26Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "BurntSushi/ripgrep",
       "url": "https://github.com/BurntSushi/ripgrep",
       "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
@@ -80,6 +136,20 @@
       "appearances": 1
     },
     {
+      "fullName": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+      "programmingLanguage": "Rust",
+      "stars": 45850,
+      "forks": 6694,
+      "starsInPeriod": 37,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-19T20:34:26Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "ViceVerse-cz/Serein",
       "url": "https://github.com/ViceVerse-cz/Serein",
       "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
@@ -91,6 +161,20 @@
       "latestRank": 6,
       "firstSeenAt": "2026-11-19T07:22:36Z",
       "lastSeenAt": "2026-11-19T07:22:36Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "lbjlaq/Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "programmingLanguage": "Rust",
+      "stars": 33399,
+      "forks": 3560,
+      "starsInPeriod": 73,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-19T20:34:26Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
       "appearances": 1
     },
     {
@@ -122,6 +206,20 @@
       "appearances": 1
     },
     {
+      "fullName": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "programmingLanguage": "Rust",
+      "stars": 9190,
+      "forks": 1026,
+      "starsInPeriod": 7,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-19T20:34:26Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "screenpipe/screenpipe",
       "url": "https://github.com/screenpipe/screenpipe",
       "description": "YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.",
@@ -133,6 +231,20 @@
       "latestRank": 9,
       "firstSeenAt": "2026-11-19T07:22:36Z",
       "lastSeenAt": "2026-11-19T07:22:36Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "programmingLanguage": "Rust",
+      "stars": 87187,
+      "forks": 5603,
+      "starsInPeriod": 155,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-19T20:34:26Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
       "appearances": 1
     },
     {
@@ -150,17 +262,45 @@
       "appearances": 1
     },
     {
+      "fullName": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "programmingLanguage": "Rust",
+      "stars": 130274,
+      "forks": 20948,
+      "starsInPeriod": 237,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-19T20:34:26Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "louis-e/arnis",
       "url": "https://github.com/louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "programmingLanguage": "Rust",
-      "stars": 18721,
+      "stars": 18736,
       "forks": 1588,
-      "starsInPeriod": 18,
+      "starsInPeriod": 26,
+      "bestRank": 11,
+      "latestRank": 12,
+      "firstSeenAt": "2026-11-19T07:22:36Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
+      "appearances": 2
+    },
+    {
+      "fullName": "perspective-dev/perspective",
+      "url": "https://github.com/perspective-dev/perspective",
+      "description": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
+      "programmingLanguage": "Rust",
+      "stars": 11599,
+      "forks": 1370,
+      "starsInPeriod": 33,
       "bestRank": 11,
       "latestRank": 11,
-      "firstSeenAt": "2026-11-19T07:22:36Z",
-      "lastSeenAt": "2026-11-19T07:22:36Z",
+      "firstSeenAt": "2026-11-19T20:34:26Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
       "appearances": 1
     },
     {
@@ -192,6 +332,20 @@
       "appearances": 1
     },
     {
+      "fullName": "wealthfolio/wealthfolio",
+      "url": "https://github.com/wealthfolio/wealthfolio",
+      "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
+      "programmingLanguage": "Rust",
+      "stars": 9596,
+      "forks": 837,
+      "starsInPeriod": 32,
+      "bestRank": 13,
+      "latestRank": 13,
+      "firstSeenAt": "2026-11-19T20:34:26Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "tauri-apps/tauri",
       "url": "https://github.com/tauri-apps/tauri",
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
@@ -206,6 +360,20 @@
       "appearances": 1
     },
     {
+      "fullName": "ruffle-rs/ruffle",
+      "url": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "programmingLanguage": "Rust",
+      "stars": 18888,
+      "forks": 1200,
+      "starsInPeriod": 5,
+      "bestRank": 14,
+      "latestRank": 14,
+      "firstSeenAt": "2026-11-19T20:34:26Z",
+      "lastSeenAt": "2026-11-19T20:34:26Z",
+      "appearances": 1
+    },
+    {
       "fullName": "Automattic/harper",
       "url": "https://github.com/Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
@@ -215,20 +383,6 @@
       "starsInPeriod": 28,
       "bestRank": 15,
       "latestRank": 15,
-      "firstSeenAt": "2026-11-19T07:22:36Z",
-      "lastSeenAt": "2026-11-19T07:22:36Z",
-      "appearances": 1
-    },
-    {
-      "fullName": "malisper/pgrust",
-      "url": "https://github.com/malisper/pgrust",
-      "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
-      "programmingLanguage": "Rust",
-      "stars": 5929,
-      "forks": 239,
-      "starsInPeriod": 47,
-      "bestRank": 16,
-      "latestRank": 16,
       "firstSeenAt": "2026-11-19T07:22:36Z",
       "lastSeenAt": "2026-11-19T07:22:36Z",
       "appearances": 1

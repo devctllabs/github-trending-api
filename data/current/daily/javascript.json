@@ -4,129 +4,119 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "observedAt": "2026-11-19T07:22:57Z",
+  "observedAt": "2026-11-19T20:34:47Z",
   "status": "complete",
   "issues": [],
   "items": [
     {
       "rank": 1,
-      "fullName": "sveltejs/svelte",
-      "url": "https://github.com/sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "programmingLanguage": "JavaScript",
-      "stars": 89699,
-      "forks": 6217,
-      "starsInPeriod": 692
-    },
-    {
-      "rank": 2,
-      "fullName": "jquery/jquery",
-      "url": "https://github.com/jquery/jquery",
-      "description": "jQuery JavaScript Library",
-      "programmingLanguage": "JavaScript",
-      "stars": 60063,
-      "forks": 20711,
-      "starsInPeriod": 266
-    },
-    {
-      "rank": 3,
       "fullName": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "programmingLanguage": "JavaScript",
-      "stars": 306765,
-      "forks": 45158,
-      "starsInPeriod": 1108
+      "stars": 307191,
+      "forks": 45216,
+      "starsInPeriod": 957
+    },
+    {
+      "rank": 2,
+      "fullName": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "programmingLanguage": "JavaScript",
+      "stars": 89782,
+      "forks": 6222,
+      "starsInPeriod": 321
+    },
+    {
+      "rank": 3,
+      "fullName": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "programmingLanguage": "JavaScript",
+      "stars": 10367,
+      "forks": 1299,
+      "starsInPeriod": 13
     },
     {
       "rank": 4,
-      "fullName": "DeanChensj/jiangshan-map",
-      "url": "https://github.com/DeanChensj/jiangshan-map",
-      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "fullName": "vercel-labs/agent-skills",
+      "url": "https://github.com/vercel-labs/agent-skills",
+      "description": "Vercel's official collection of agent skills",
       "programmingLanguage": "JavaScript",
-      "stars": 8230,
-      "forks": 1007,
-      "starsInPeriod": 218
-    },
-    {
-      "rank": 5,
-      "fullName": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
-      "programmingLanguage": "JavaScript",
-      "stars": 22799,
-      "forks": 3034,
-      "starsInPeriod": 257
-    },
-    {
-      "rank": 6,
-      "fullName": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "programmingLanguage": "JavaScript",
-      "stars": 143572,
-      "forks": 32816,
-      "starsInPeriod": 71
-    },
-    {
-      "rank": 7,
-      "fullName": "axios/axios",
-      "url": "https://github.com/axios/axios",
-      "description": "Promise based HTTP client for the browser and node.js",
-      "programmingLanguage": "JavaScript",
-      "stars": 109363,
-      "forks": 12116,
-      "starsInPeriod": 111
-    },
-    {
-      "rank": 8,
-      "fullName": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "programmingLanguage": "JavaScript",
-      "stars": 118599,
-      "forks": 7935,
-      "starsInPeriod": 737
-    },
-    {
-      "rank": 9,
-      "fullName": "qwdwqfwq/topconf-paper-figure-gallery",
-      "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
-      "description": "3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting",
-      "programmingLanguage": "JavaScript",
-      "stars": 1897,
-      "forks": 93,
-      "starsInPeriod": 39
-    },
-    {
-      "rank": 10,
-      "fullName": "pugarte7/spanish-top-tech-companies",
-      "url": "https://github.com/pugarte7/spanish-top-tech-companies",
-      "description": "MCP con las mejores ofertas tech de España, para que tus agentes puedan aplicar por ti de forma automática.",
-      "programmingLanguage": "JavaScript",
-      "stars": 602,
-      "forks": 21,
-      "starsInPeriod": 25
-    },
-    {
-      "rank": 11,
-      "fullName": "Minglink/dsh-infinite-gen-5",
-      "url": "https://github.com/Minglink/dsh-infinite-gen-5",
-      "description": "DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进",
-      "programmingLanguage": "JavaScript",
-      "stars": 4550,
-      "forks": 635,
+      "stars": 34538,
+      "forks": 3003,
       "starsInPeriod": 70
     },
     {
-      "rank": 12,
-      "fullName": "github/awesome-copilot",
-      "url": "https://github.com/github/awesome-copilot",
-      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "rank": 5,
+      "fullName": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "programmingLanguage": "JavaScript",
-      "stars": 41337,
-      "forks": 5389,
-      "starsInPeriod": 61
+      "stars": 4572,
+      "forks": 417,
+      "starsInPeriod": 65
+    },
+    {
+      "rank": 6,
+      "fullName": "micromatch/picomatch",
+      "url": "https://github.com/micromatch/picomatch",
+      "description": "Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, i…",
+      "programmingLanguage": "JavaScript",
+      "stars": 1332,
+      "forks": 212,
+      "starsInPeriod": 3
+    },
+    {
+      "rank": 7,
+      "fullName": "babygoton/WorkDaddy",
+      "url": "https://github.com/babygoton/WorkDaddy",
+      "description": "WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。",
+      "programmingLanguage": "JavaScript",
+      "stars": 3282,
+      "forks": 357,
+      "starsInPeriod": 47
+    },
+    {
+      "rank": 8,
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "programmingLanguage": "JavaScript",
+      "stars": 194767,
+      "forks": 10974,
+      "starsInPeriod": 911
+    },
+    {
+      "rank": 9,
+      "fullName": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "programmingLanguage": "JavaScript",
+      "stars": 35295,
+      "forks": 2451,
+      "starsInPeriod": 38
+    },
+    {
+      "rank": 10,
+      "fullName": "HaD0Yun/CozyClay",
+      "url": "https://github.com/HaD0Yun/CozyClay",
+      "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
+      "programmingLanguage": "JavaScript",
+      "stars": 2016,
+      "forks": 204,
+      "starsInPeriod": 32
+    },
+    {
+      "rank": 11,
+      "fullName": "jquery/jquery",
+      "url": "https://github.com/jquery/jquery",
+      "description": "jQuery JavaScript Library",
+      "programmingLanguage": "JavaScript",
+      "stars": 60105,
+      "forks": 20715,
+      "starsInPeriod": 173
     }
   ]
 }

@@ -5,50 +5,64 @@
   "period": "daily",
   "language": "javascript",
   "sourceUrl": "https://github.com/trending/javascript",
-  "updatedAt": "2026-11-19T07:22:57Z",
+  "updatedAt": "2026-11-19T20:34:47Z",
   "latestStatus": "complete",
   "latestIssues": [],
   "items": [
+    {
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "programmingLanguage": "JavaScript",
+      "stars": 307191,
+      "forks": 45216,
+      "starsInPeriod": 957,
+      "bestRank": 1,
+      "latestRank": 1,
+      "firstSeenAt": "2026-11-19T07:22:57Z",
+      "lastSeenAt": "2026-11-19T20:34:47Z",
+      "appearances": 2
+    },
     {
       "fullName": "sveltejs/svelte",
       "url": "https://github.com/sveltejs/svelte",
       "description": "web development for the rest of us",
       "programmingLanguage": "JavaScript",
-      "stars": 89699,
-      "forks": 6217,
-      "starsInPeriod": 692,
+      "stars": 89782,
+      "forks": 6222,
+      "starsInPeriod": 321,
       "bestRank": 1,
-      "latestRank": 1,
+      "latestRank": 2,
       "firstSeenAt": "2026-11-19T07:22:57Z",
-      "lastSeenAt": "2026-11-19T07:22:57Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-19T20:34:47Z",
+      "appearances": 2
     },
     {
       "fullName": "jquery/jquery",
       "url": "https://github.com/jquery/jquery",
       "description": "jQuery JavaScript Library",
       "programmingLanguage": "JavaScript",
-      "stars": 60063,
-      "forks": 20711,
-      "starsInPeriod": 266,
+      "stars": 60105,
+      "forks": 20715,
+      "starsInPeriod": 173,
       "bestRank": 2,
-      "latestRank": 2,
+      "latestRank": 11,
       "firstSeenAt": "2026-11-19T07:22:57Z",
-      "lastSeenAt": "2026-11-19T07:22:57Z",
-      "appearances": 1
+      "lastSeenAt": "2026-11-19T20:34:47Z",
+      "appearances": 2
     },
     {
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "fullName": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "programmingLanguage": "JavaScript",
-      "stars": 306765,
-      "forks": 45158,
-      "starsInPeriod": 1108,
+      "stars": 10367,
+      "forks": 1299,
+      "starsInPeriod": 13,
       "bestRank": 3,
       "latestRank": 3,
-      "firstSeenAt": "2026-11-19T07:22:57Z",
-      "lastSeenAt": "2026-11-19T07:22:57Z",
+      "firstSeenAt": "2026-11-19T20:34:47Z",
+      "lastSeenAt": "2026-11-19T20:34:47Z",
       "appearances": 1
     },
     {
@@ -66,6 +80,20 @@
       "appearances": 1
     },
     {
+      "fullName": "vercel-labs/agent-skills",
+      "url": "https://github.com/vercel-labs/agent-skills",
+      "description": "Vercel's official collection of agent skills",
+      "programmingLanguage": "JavaScript",
+      "stars": 34538,
+      "forks": 3003,
+      "starsInPeriod": 70,
+      "bestRank": 4,
+      "latestRank": 4,
+      "firstSeenAt": "2026-11-19T20:34:47Z",
+      "lastSeenAt": "2026-11-19T20:34:47Z",
+      "appearances": 1
+    },
+    {
       "fullName": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
@@ -77,6 +105,20 @@
       "latestRank": 5,
       "firstSeenAt": "2026-11-19T07:22:57Z",
       "lastSeenAt": "2026-11-19T07:22:57Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "programmingLanguage": "JavaScript",
+      "stars": 4572,
+      "forks": 417,
+      "starsInPeriod": 65,
+      "bestRank": 5,
+      "latestRank": 5,
+      "firstSeenAt": "2026-11-19T20:34:47Z",
+      "lastSeenAt": "2026-11-19T20:34:47Z",
       "appearances": 1
     },
     {
@@ -94,6 +136,20 @@
       "appearances": 1
     },
     {
+      "fullName": "micromatch/picomatch",
+      "url": "https://github.com/micromatch/picomatch",
+      "description": "Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, i…",
+      "programmingLanguage": "JavaScript",
+      "stars": 1332,
+      "forks": 212,
+      "starsInPeriod": 3,
+      "bestRank": 6,
+      "latestRank": 6,
+      "firstSeenAt": "2026-11-19T20:34:47Z",
+      "lastSeenAt": "2026-11-19T20:34:47Z",
+      "appearances": 1
+    },
+    {
       "fullName": "axios/axios",
       "url": "https://github.com/axios/axios",
       "description": "Promise based HTTP client for the browser and node.js",
@@ -105,6 +161,20 @@
       "latestRank": 7,
       "firstSeenAt": "2026-11-19T07:22:57Z",
       "lastSeenAt": "2026-11-19T07:22:57Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "babygoton/WorkDaddy",
+      "url": "https://github.com/babygoton/WorkDaddy",
+      "description": "WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。",
+      "programmingLanguage": "JavaScript",
+      "stars": 3282,
+      "forks": 357,
+      "starsInPeriod": 47,
+      "bestRank": 7,
+      "latestRank": 7,
+      "firstSeenAt": "2026-11-19T20:34:47Z",
+      "lastSeenAt": "2026-11-19T20:34:47Z",
       "appearances": 1
     },
     {
@@ -122,6 +192,20 @@
       "appearances": 1
     },
     {
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "programmingLanguage": "JavaScript",
+      "stars": 194767,
+      "forks": 10974,
+      "starsInPeriod": 911,
+      "bestRank": 8,
+      "latestRank": 8,
+      "firstSeenAt": "2026-11-19T20:34:47Z",
+      "lastSeenAt": "2026-11-19T20:34:47Z",
+      "appearances": 1
+    },
+    {
       "fullName": "qwdwqfwq/topconf-paper-figure-gallery",
       "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
       "description": "3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting",
@@ -136,6 +220,20 @@
       "appearances": 1
     },
     {
+      "fullName": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "programmingLanguage": "JavaScript",
+      "stars": 35295,
+      "forks": 2451,
+      "starsInPeriod": 38,
+      "bestRank": 9,
+      "latestRank": 9,
+      "firstSeenAt": "2026-11-19T20:34:47Z",
+      "lastSeenAt": "2026-11-19T20:34:47Z",
+      "appearances": 1
+    },
+    {
       "fullName": "pugarte7/spanish-top-tech-companies",
       "url": "https://github.com/pugarte7/spanish-top-tech-companies",
       "description": "MCP con las mejores ofertas tech de España, para que tus agentes puedan aplicar por ti de forma automática.",
@@ -147,6 +245,20 @@
       "latestRank": 10,
       "firstSeenAt": "2026-11-19T07:22:57Z",
       "lastSeenAt": "2026-11-19T07:22:57Z",
+      "appearances": 1
+    },
+    {
+      "fullName": "HaD0Yun/CozyClay",
+      "url": "https://github.com/HaD0Yun/CozyClay",
+      "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
+      "programmingLanguage": "JavaScript",
+      "stars": 2016,
+      "forks": 204,
+      "starsInPeriod": 32,
+      "bestRank": 10,
+      "latestRank": 10,
+      "firstSeenAt": "2026-11-19T20:34:47Z",
+      "lastSeenAt": "2026-11-19T20:34:47Z",
       "appearances": 1
     },
     {
