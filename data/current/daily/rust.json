@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-19T20:34:26Z",
+  "observedAt": "2026-11-20T07:12:43Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/janhq/jan",
       "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
       "programmingLanguage": "Rust",
-      "stars": 45861,
-      "forks": 3205,
-      "starsInPeriod": 52
+      "stars": 45901,
+      "forks": 3214,
+      "starsInPeriod": 54
     },
     {
       "rank": 2,
@@ -24,7 +24,7 @@
       "url": "https://github.com/malisper/pgrust",
       "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
       "programmingLanguage": "Rust",
-      "stars": 5946,
+      "stars": 5955,
       "forks": 241,
       "starsInPeriod": 47
     },
@@ -34,8 +34,8 @@
       "url": "https://github.com/pola-rs/polars",
       "description": "Extremely fast Query Engine for DataFrames, written in Rust",
       "programmingLanguage": "Rust",
-      "stars": 40387,
-      "forks": 3248,
+      "stars": 40392,
+      "forks": 3250,
       "starsInPeriod": 10
     },
     {
@@ -44,9 +44,9 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 30924,
-      "forks": 2816,
-      "starsInPeriod": 146
+      "stars": 30999,
+      "forks": 2827,
+      "starsInPeriod": 155
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "programmingLanguage": "Rust",
-      "stars": 45850,
-      "forks": 6694,
-      "starsInPeriod": 37
+      "stars": 45851,
+      "forks": 6695,
+      "starsInPeriod": 35
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/lbjlaq/Antigravity-Manager",
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "programmingLanguage": "Rust",
-      "stars": 33399,
-      "forks": 3560,
-      "starsInPeriod": 73
+      "stars": 33424,
+      "forks": 3563,
+      "starsInPeriod": 91
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/SaladDay/cc-switch-cli",
       "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "programmingLanguage": "Rust",
-      "stars": 5544,
+      "stars": 5543,
       "forks": 381,
-      "starsInPeriod": 18
+      "starsInPeriod": 19
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/0xPlaygrounds/rig",
       "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "programmingLanguage": "Rust",
-      "stars": 9190,
-      "forks": 1026,
-      "starsInPeriod": 7
+      "stars": 9197,
+      "forks": 1027,
+      "starsInPeriod": 6
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "programmingLanguage": "Rust",
-      "stars": 87187,
-      "forks": 5603,
-      "starsInPeriod": 155
+      "stars": 87224,
+      "forks": 5610,
+      "starsInPeriod": 146
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 130274,
-      "forks": 20948,
-      "starsInPeriod": 237
+      "stars": 130382,
+      "forks": 20977,
+      "starsInPeriod": 221
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/perspective-dev/perspective",
       "description": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
       "programmingLanguage": "Rust",
-      "stars": 11599,
-      "forks": 1370,
-      "starsInPeriod": 33
+      "stars": 11613,
+      "forks": 1372,
+      "starsInPeriod": 36
     },
     {
       "rank": 12,
@@ -124,7 +124,7 @@
       "url": "https://github.com/louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "programmingLanguage": "Rust",
-      "stars": 18736,
+      "stars": 18746,
       "forks": 1588,
       "starsInPeriod": 26
     },
@@ -134,9 +134,9 @@
       "url": "https://github.com/wealthfolio/wealthfolio",
       "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
       "programmingLanguage": "Rust",
-      "stars": 9596,
-      "forks": 837,
-      "starsInPeriod": 32
+      "stars": 9615,
+      "forks": 839,
+      "starsInPeriod": 31
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/ruffle-rs/ruffle",
       "description": "A Flash Player emulator written in Rust",
       "programmingLanguage": "Rust",
-      "stars": 18888,
-      "forks": 1200,
-      "starsInPeriod": 5
+      "stars": 18892,
+      "forks": 1201,
+      "starsInPeriod": 6
     }
   ]
 }
