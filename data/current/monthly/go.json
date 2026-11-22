@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-11-22T06:45:30Z",
+  "observedAt": "2026-11-22T19:37:20Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 187813,
-      "forks": 19133,
+      "stars": 187871,
+      "forks": 19139,
       "starsInPeriod": 4467
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "programmingLanguage": "Go",
-      "stars": 67751,
-      "forks": 11037,
+      "stars": 67761,
+      "forks": 11038,
       "starsInPeriod": 1523
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 39060,
-      "forks": 6052,
+      "stars": 39127,
+      "forks": 6053,
       "starsInPeriod": 1228
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/getarcaneapp/arcane",
       "description": "Modern Docker Management, Designed for Everyone",
       "programmingLanguage": "Go",
-      "stars": 10268,
-      "forks": 578,
+      "stars": 10295,
+      "forks": 581,
       "starsInPeriod": 2296
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 39604,
-      "forks": 919,
+      "stars": 39617,
+      "forks": 920,
       "starsInPeriod": 1097
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.com/strelov1/freehire",
       "description": "freehire — the open-source search engine for job seekers",
       "programmingLanguage": "Go",
-      "stars": 3620,
+      "stars": 3633,
       "forks": 396,
       "starsInPeriod": 1732
     },
@@ -74,7 +74,7 @@
       "url": "https://github.com/moby/moby",
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "programmingLanguage": "Go",
-      "stars": 72303,
+      "stars": 72304,
       "forks": 19343,
       "starsInPeriod": 465
     },
@@ -84,8 +84,8 @@
       "url": "https://github.com/netbirdio/netbird",
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "programmingLanguage": "Go",
-      "stars": 31201,
-      "forks": 1875,
+      "stars": 31215,
+      "forks": 1879,
       "starsInPeriod": 1154
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 24671,
-      "forks": 8110,
+      "stars": 24678,
+      "forks": 8113,
       "starsInPeriod": 264
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
       "programmingLanguage": "Go",
-      "stars": 47133,
-      "forks": 9436,
+      "stars": 47146,
+      "forks": 9439,
       "starsInPeriod": 553
     },
     {
@@ -114,8 +114,8 @@
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
       "programmingLanguage": "Go",
-      "stars": 94521,
-      "forks": 11360,
+      "stars": 94539,
+      "forks": 11363,
       "starsInPeriod": 2139
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://github.com/opensandbox-group/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "programmingLanguage": "Go",
-      "stars": 17778,
-      "forks": 1712,
+      "stars": 17800,
+      "forks": 1718,
       "starsInPeriod": 1778
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 8303,
+      "stars": 8322,
       "forks": 1323,
       "starsInPeriod": 1609
     },
@@ -144,8 +144,8 @@
       "url": "https://github.com/go-gitea/gitea",
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 59204,
-      "forks": 7415,
+      "stars": 59217,
+      "forks": 7419,
       "starsInPeriod": 714
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 57079,
-      "forks": 7516,
+      "stars": 57163,
+      "forks": 7528,
       "starsInPeriod": 3820
     },
     {
@@ -164,8 +164,8 @@
       "url": "https://github.com/rclone/rclone",
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "programmingLanguage": "Go",
-      "stars": 61163,
-      "forks": 5712,
+      "stars": 61184,
+      "forks": 5716,
       "starsInPeriod": 853
     },
     {
@@ -174,8 +174,8 @@
       "url": "https://github.com/google/osv-scanner",
       "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
       "programmingLanguage": "Go",
-      "stars": 11590,
-      "forks": 860,
+      "stars": 11595,
+      "forks": 859,
       "starsInPeriod": 379
     },
     {
@@ -184,8 +184,8 @@
       "url": "https://github.com/etcd-io/etcd",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "programmingLanguage": "Go",
-      "stars": 52645,
-      "forks": 10620,
+      "stars": 52648,
+      "forks": 10622,
       "starsInPeriod": 519
     },
     {
@@ -194,8 +194,8 @@
       "url": "https://github.com/tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "programmingLanguage": "Go",
-      "stars": 39443,
-      "forks": 3523,
+      "stars": 39467,
+      "forks": 3527,
       "starsInPeriod": 1667
     },
     {
@@ -204,8 +204,8 @@
       "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
       "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
       "programmingLanguage": "Go",
-      "stars": 18160,
-      "forks": 1812,
+      "stars": 18170,
+      "forks": 1813,
       "starsInPeriod": 305
     }
   ]
