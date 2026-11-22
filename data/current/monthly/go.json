@@ -4,7 +4,7 @@
   "period": "monthly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=monthly",
-  "observedAt": "2026-11-21T19:14:30Z",
+  "observedAt": "2026-11-22T06:45:30Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "programmingLanguage": "Go",
-      "stars": 187833,
-      "forks": 19123,
-      "starsInPeriod": 4526
+      "stars": 187813,
+      "forks": 19133,
+      "starsInPeriod": 4467
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "programmingLanguage": "Go",
-      "stars": 67748,
+      "stars": 67751,
       "forks": 11037,
-      "starsInPeriod": 1522
+      "starsInPeriod": 1523
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 39068,
-      "forks": 6054,
-      "starsInPeriod": 1230
+      "stars": 39060,
+      "forks": 6052,
+      "starsInPeriod": 1228
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/getarcaneapp/arcane",
       "description": "Modern Docker Management, Designed for Everyone",
       "programmingLanguage": "Go",
-      "stars": 10248,
-      "forks": 579,
-      "starsInPeriod": 2246
+      "stars": 10268,
+      "forks": 578,
+      "starsInPeriod": 2296
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 39598,
-      "forks": 917,
-      "starsInPeriod": 1099
+      "stars": 39604,
+      "forks": 919,
+      "starsInPeriod": 1097
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/strelov1/freehire",
       "description": "freehire — the open-source search engine for job seekers",
       "programmingLanguage": "Go",
-      "stars": 3619,
+      "stars": 3620,
       "forks": 396,
-      "starsInPeriod": 2053
+      "starsInPeriod": 1732
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/moby/moby",
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "programmingLanguage": "Go",
-      "stars": 72305,
-      "forks": 19342,
-      "starsInPeriod": 466
+      "stars": 72303,
+      "forks": 19343,
+      "starsInPeriod": 465
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/netbirdio/netbird",
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "programmingLanguage": "Go",
-      "stars": 31196,
-      "forks": 1874,
-      "starsInPeriod": 1161
+      "stars": 31201,
+      "forks": 1875,
+      "starsInPeriod": 1154
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "programmingLanguage": "Go",
-      "stars": 24670,
-      "forks": 8109,
-      "starsInPeriod": 269
+      "stars": 24671,
+      "forks": 8110,
+      "starsInPeriod": 264
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
       "programmingLanguage": "Go",
-      "stars": 47127,
-      "forks": 9435,
-      "starsInPeriod": 546
+      "stars": 47133,
+      "forks": 9436,
+      "starsInPeriod": 553
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
       "programmingLanguage": "Go",
-      "stars": 94509,
-      "forks": 11358,
-      "starsInPeriod": 2172
+      "stars": 94521,
+      "forks": 11360,
+      "starsInPeriod": 2139
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/opensandbox-group/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "programmingLanguage": "Go",
-      "stars": 17761,
-      "forks": 1711,
-      "starsInPeriod": 1767
+      "stars": 17778,
+      "forks": 1712,
+      "starsInPeriod": 1778
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "programmingLanguage": "Go",
-      "stars": 8296,
-      "forks": 1322,
-      "starsInPeriod": 1639
+      "stars": 8303,
+      "forks": 1323,
+      "starsInPeriod": 1609
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/go-gitea/gitea",
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "programmingLanguage": "Go",
-      "stars": 59201,
-      "forks": 7416,
-      "starsInPeriod": 728
+      "stars": 59204,
+      "forks": 7415,
+      "starsInPeriod": 714
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 57036,
-      "forks": 7514,
-      "starsInPeriod": 3831
+      "stars": 57079,
+      "forks": 7516,
+      "starsInPeriod": 3820
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/rclone/rclone",
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "programmingLanguage": "Go",
-      "stars": 61154,
-      "forks": 5709,
-      "starsInPeriod": 843
+      "stars": 61163,
+      "forks": 5712,
+      "starsInPeriod": 853
     },
     {
       "rank": 17,
@@ -174,8 +174,8 @@
       "url": "https://github.com/google/osv-scanner",
       "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
       "programmingLanguage": "Go",
-      "stars": 11585,
-      "forks": 859,
+      "stars": 11590,
+      "forks": 860,
       "starsInPeriod": 379
     },
     {
@@ -184,9 +184,9 @@
       "url": "https://github.com/etcd-io/etcd",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "programmingLanguage": "Go",
-      "stars": 52648,
-      "forks": 10622,
-      "starsInPeriod": 526
+      "stars": 52645,
+      "forks": 10620,
+      "starsInPeriod": 519
     },
     {
       "rank": 19,
@@ -194,9 +194,9 @@
       "url": "https://github.com/tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "programmingLanguage": "Go",
-      "stars": 39430,
-      "forks": 3520,
-      "starsInPeriod": 1678
+      "stars": 39443,
+      "forks": 3523,
+      "starsInPeriod": 1667
     },
     {
       "rank": 20,
@@ -204,9 +204,9 @@
       "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
       "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
       "programmingLanguage": "Go",
-      "stars": 18157,
+      "stars": 18160,
       "forks": 1812,
-      "starsInPeriod": 296
+      "starsInPeriod": 305
     }
   ]
 }
