@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-23T07:35:09Z",
+  "observedAt": "2026-11-23T23:51:56Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/janhq/jan",
       "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
       "programmingLanguage": "Rust",
-      "stars": 46039,
-      "forks": 3242,
-      "starsInPeriod": 34
+      "stars": 46054,
+      "forks": 3245,
+      "starsInPeriod": 36
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/malisper/pgrust",
       "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
       "programmingLanguage": "Rust",
-      "stars": 6008,
-      "forks": 245,
-      "starsInPeriod": 18
+      "stars": 6024,
+      "forks": 246,
+      "starsInPeriod": 23
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/pola-rs/polars",
       "description": "Extremely fast Query Engine for DataFrames, written in Rust",
       "programmingLanguage": "Rust",
-      "stars": 40448,
+      "stars": 40462,
       "forks": 3256,
-      "starsInPeriod": 14
+      "starsInPeriod": 27
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 31187,
-      "forks": 2841,
-      "starsInPeriod": 34
+      "stars": 31225,
+      "forks": 2842,
+      "starsInPeriod": 95
     },
     {
       "rank": 5,
@@ -54,7 +54,7 @@
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "programmingLanguage": "Rust",
-      "stars": 45873,
+      "stars": 45879,
       "forks": 6699,
       "starsInPeriod": 12
     },
@@ -64,9 +64,9 @@
       "url": "https://github.com/lbjlaq/Antigravity-Manager",
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "programmingLanguage": "Rust",
-      "stars": 33726,
-      "forks": 3579,
-      "starsInPeriod": 75
+      "stars": 33792,
+      "forks": 3584,
+      "starsInPeriod": 156
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/SaladDay/cc-switch-cli",
       "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "programmingLanguage": "Rust",
-      "stars": 5565,
-      "forks": 382,
-      "starsInPeriod": 12
+      "stars": 5567,
+      "forks": 381,
+      "starsInPeriod": 8
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/0xPlaygrounds/rig",
       "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "programmingLanguage": "Rust",
-      "stars": 9232,
+      "stars": 9240,
       "forks": 1030,
-      "starsInPeriod": 9
+      "starsInPeriod": 19
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "programmingLanguage": "Rust",
-      "stars": 87531,
-      "forks": 5627,
-      "starsInPeriod": 119
+      "stars": 87608,
+      "forks": 5629,
+      "starsInPeriod": 100
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 130886,
-      "forks": 21106,
-      "starsInPeriod": 151
+      "stars": 131015,
+      "forks": 21140,
+      "starsInPeriod": 219
     },
     {
       "rank": 11,
@@ -114,9 +114,9 @@
       "url": "https://github.com/perspective-dev/perspective",
       "description": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
       "programmingLanguage": "Rust",
-      "stars": 11718,
-      "forks": 1379,
-      "starsInPeriod": 31
+      "stars": 11736,
+      "forks": 1380,
+      "starsInPeriod": 39
     },
     {
       "rank": 12,
@@ -124,9 +124,9 @@
       "url": "https://github.com/louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "programmingLanguage": "Rust",
-      "stars": 18797,
+      "stars": 18803,
       "forks": 1592,
-      "starsInPeriod": 26
+      "starsInPeriod": 16
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/wealthfolio/wealthfolio",
       "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
       "programmingLanguage": "Rust",
-      "stars": 9714,
-      "forks": 850,
-      "starsInPeriod": 32
+      "stars": 9726,
+      "forks": 851,
+      "starsInPeriod": 28
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/ruffle-rs/ruffle",
       "description": "A Flash Player emulator written in Rust",
       "programmingLanguage": "Rust",
-      "stars": 18924,
-      "forks": 1201,
-      "starsInPeriod": 7
+      "stars": 18930,
+      "forks": 1202,
+      "starsInPeriod": 17
     }
   ]
 }
