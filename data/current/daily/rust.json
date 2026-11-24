@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "rust",
   "sourceUrl": "https://github.com/trending/rust",
-  "observedAt": "2026-11-23T23:51:56Z",
+  "observedAt": "2026-11-24T09:52:31Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/janhq/jan",
       "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
       "programmingLanguage": "Rust",
-      "stars": 46054,
-      "forks": 3245,
-      "starsInPeriod": 36
+      "stars": 46069,
+      "forks": 3252,
+      "starsInPeriod": 33
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/malisper/pgrust",
       "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
       "programmingLanguage": "Rust",
-      "stars": 6024,
-      "forks": 246,
-      "starsInPeriod": 23
+      "stars": 6033,
+      "forks": 247,
+      "starsInPeriod": 18
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/pola-rs/polars",
       "description": "Extremely fast Query Engine for DataFrames, written in Rust",
       "programmingLanguage": "Rust",
-      "stars": 40462,
-      "forks": 3256,
-      "starsInPeriod": 27
+      "stars": 40468,
+      "forks": 3257,
+      "starsInPeriod": 28
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "programmingLanguage": "Rust",
-      "stars": 31225,
-      "forks": 2842,
-      "starsInPeriod": 95
+      "stars": 31302,
+      "forks": 2847,
+      "starsInPeriod": 90
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "programmingLanguage": "Rust",
-      "stars": 45879,
-      "forks": 6699,
-      "starsInPeriod": 12
+      "stars": 45885,
+      "forks": 6700,
+      "starsInPeriod": 11
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/lbjlaq/Antigravity-Manager",
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "programmingLanguage": "Rust",
-      "stars": 33792,
-      "forks": 3584,
-      "starsInPeriod": 156
+      "stars": 33855,
+      "forks": 3587,
+      "starsInPeriod": 149
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/SaladDay/cc-switch-cli",
       "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "programmingLanguage": "Rust",
-      "stars": 5567,
-      "forks": 381,
-      "starsInPeriod": 8
+      "stars": 5572,
+      "forks": 383,
+      "starsInPeriod": 6
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/0xPlaygrounds/rig",
       "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "programmingLanguage": "Rust",
-      "stars": 9240,
+      "stars": 9246,
       "forks": 1030,
-      "starsInPeriod": 19
+      "starsInPeriod": 17
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "programmingLanguage": "Rust",
-      "stars": 87608,
+      "stars": 87650,
       "forks": 5629,
-      "starsInPeriod": 100
+      "starsInPeriod": 108
     },
     {
       "rank": 10,
@@ -104,8 +104,8 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "programmingLanguage": "Rust",
-      "stars": 131015,
-      "forks": 21140,
+      "stars": 131145,
+      "forks": 21176,
       "starsInPeriod": 219
     },
     {
@@ -114,9 +114,9 @@
       "url": "https://github.com/perspective-dev/perspective",
       "description": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
       "programmingLanguage": "Rust",
-      "stars": 11736,
-      "forks": 1380,
-      "starsInPeriod": 39
+      "stars": 11749,
+      "forks": 1381,
+      "starsInPeriod": 38
     },
     {
       "rank": 12,
@@ -124,8 +124,8 @@
       "url": "https://github.com/louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "programmingLanguage": "Rust",
-      "stars": 18803,
-      "forks": 1592,
+      "stars": 18813,
+      "forks": 1595,
       "starsInPeriod": 16
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://github.com/wealthfolio/wealthfolio",
       "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
       "programmingLanguage": "Rust",
-      "stars": 9726,
+      "stars": 9733,
       "forks": 851,
       "starsInPeriod": 28
     },
@@ -144,9 +144,9 @@
       "url": "https://github.com/ruffle-rs/ruffle",
       "description": "A Flash Player emulator written in Rust",
       "programmingLanguage": "Rust",
-      "stars": 18930,
-      "forks": 1202,
-      "starsInPeriod": 17
+      "stars": 18937,
+      "forks": 1203,
+      "starsInPeriod": 15
     }
   ]
 }
