@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ght="urn:github-trending:v1" version="2.0">
+  <channel>
+    <title>GitHub Trending — daily — rust</title>
+    <link>https://github.com/trending/rust</link>
+    <description>GitHub Trending — daily — rust</description>
+    <lastBuildDate>Wed, 25 Nov 2026 08:30:44 GMT</lastBuildDate>
+    <ght:schemaVersion>1</ght:schemaVersion>
+    <ght:kind>daily-rollup</ght:kind>
+    <ght:date>2026-11-25</ght:date>
+    <ght:period>daily</ght:period>
+    <ght:language>rust</ght:language>
+    <ght:updatedAt>2026-11-25T08:30:44Z</ght:updatedAt>
+    <ght:latestStatus>complete</ght:latestStatus>
+    <ght:latestIssues />
+    <item>
+      <title>janhq/jan</title>
+      <link>https://github.com/janhq/jan</link>
+      <description>Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.</description>
+      <guid isPermaLink="true">https://github.com/janhq/jan</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>46100</ght:stars>
+      <ght:forks>3264</ght:forks>
+      <ght:starsInPeriod>34</ght:starsInPeriod>
+      <ght:bestRank>1</ght:bestRank>
+      <ght:latestRank>1</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>malisper/pgrust</title>
+      <link>https://github.com/malisper/pgrust</link>
+      <description>Postgres rewritten in Rust, now faster than Postgres and Clickhouse</description>
+      <guid isPermaLink="true">https://github.com/malisper/pgrust</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>6063</ght:stars>
+      <ght:forks>248</ght:forks>
+      <ght:starsInPeriod>20</ght:starsInPeriod>
+      <ght:bestRank>2</ght:bestRank>
+      <ght:latestRank>2</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>pola-rs/polars</title>
+      <link>https://github.com/pola-rs/polars</link>
+      <description>Extremely fast Query Engine for DataFrames, written in Rust</description>
+      <guid isPermaLink="true">https://github.com/pola-rs/polars</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>40496</ght:stars>
+      <ght:forks>3264</ght:forks>
+      <ght:starsInPeriod>25</ght:starsInPeriod>
+      <ght:bestRank>3</ght:bestRank>
+      <ght:latestRank>3</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>t8y2/dbx</title>
+      <link>https://github.com/t8y2/dbx</link>
+      <description>25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。</description>
+      <guid isPermaLink="true">https://github.com/t8y2/dbx</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>31384</ght:stars>
+      <ght:forks>2854</ght:forks>
+      <ght:starsInPeriod>108</ght:starsInPeriod>
+      <ght:bestRank>4</ght:bestRank>
+      <ght:latestRank>4</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>juspay/hyperswitch</title>
+      <link>https://github.com/juspay/hyperswitch</link>
+      <description>Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation</description>
+      <guid isPermaLink="true">https://github.com/juspay/hyperswitch</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>45903</ght:stars>
+      <ght:forks>6702</ght:forks>
+      <ght:starsInPeriod>18</ght:starsInPeriod>
+      <ght:bestRank>5</ght:bestRank>
+      <ght:latestRank>5</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>lbjlaq/Antigravity-Manager</title>
+      <link>https://github.com/lbjlaq/Antigravity-Manager</link>
+      <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
+      <guid isPermaLink="true">https://github.com/lbjlaq/Antigravity-Manager</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>33969</ght:stars>
+      <ght:forks>3597</ght:forks>
+      <ght:starsInPeriod>128</ght:starsInPeriod>
+      <ght:bestRank>6</ght:bestRank>
+      <ght:latestRank>6</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>SaladDay/cc-switch-cli</title>
+      <link>https://github.com/SaladDay/cc-switch-cli</link>
+      <description>⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI.</description>
+      <guid isPermaLink="true">https://github.com/SaladDay/cc-switch-cli</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>5578</ght:stars>
+      <ght:forks>385</ght:forks>
+      <ght:starsInPeriod>7</ght:starsInPeriod>
+      <ght:bestRank>7</ght:bestRank>
+      <ght:latestRank>7</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>0xPlaygrounds/rig</title>
+      <link>https://github.com/0xPlaygrounds/rig</link>
+      <description>⚙️🦀 Build modular and scalable LLM Applications in Rust</description>
+      <guid isPermaLink="true">https://github.com/0xPlaygrounds/rig</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>9256</ght:stars>
+      <ght:forks>1030</ght:forks>
+      <ght:starsInPeriod>14</ght:starsInPeriod>
+      <ght:bestRank>8</ght:bestRank>
+      <ght:latestRank>8</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>rtk-ai/rtk</title>
+      <link>https://github.com/rtk-ai/rtk</link>
+      <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
+      <guid isPermaLink="true">https://github.com/rtk-ai/rtk</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>87755</ght:stars>
+      <ght:forks>5633</ght:forks>
+      <ght:starsInPeriod>131</ght:starsInPeriod>
+      <ght:bestRank>9</ght:bestRank>
+      <ght:latestRank>9</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>rustdesk/rustdesk</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+      <guid isPermaLink="true">https://github.com/rustdesk/rustdesk</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>131359</ght:stars>
+      <ght:forks>21222</ght:forks>
+      <ght:starsInPeriod>269</ght:starsInPeriod>
+      <ght:bestRank>10</ght:bestRank>
+      <ght:latestRank>10</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>perspective-dev/perspective</title>
+      <link>https://github.com/perspective-dev/perspective</link>
+      <description>A data visualization and analytics component, especially well-suited for large and/or streaming datasets.</description>
+      <guid isPermaLink="true">https://github.com/perspective-dev/perspective</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>11770</ght:stars>
+      <ght:forks>1385</ght:forks>
+      <ght:starsInPeriod>28</ght:starsInPeriod>
+      <ght:bestRank>11</ght:bestRank>
+      <ght:latestRank>11</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>louis-e/arnis</title>
+      <link>https://github.com/louis-e/arnis</link>
+      <description>Generate any location from the real world in Minecraft with a high level of detail.</description>
+      <guid isPermaLink="true">https://github.com/louis-e/arnis</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>18822</ght:stars>
+      <ght:forks>1597</ght:forks>
+      <ght:starsInPeriod>17</ght:starsInPeriod>
+      <ght:bestRank>12</ght:bestRank>
+      <ght:latestRank>12</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>wealthfolio/wealthfolio</title>
+      <link>https://github.com/wealthfolio/wealthfolio</link>
+      <description>A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.</description>
+      <guid isPermaLink="true">https://github.com/wealthfolio/wealthfolio</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>9747</ght:stars>
+      <ght:forks>851</ght:forks>
+      <ght:starsInPeriod>18</ght:starsInPeriod>
+      <ght:bestRank>13</ght:bestRank>
+      <ght:latestRank>13</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+    <item>
+      <title>ruffle-rs/ruffle</title>
+      <link>https://github.com/ruffle-rs/ruffle</link>
+      <description>A Flash Player emulator written in Rust</description>
+      <guid isPermaLink="true">https://github.com/ruffle-rs/ruffle</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:44 GMT</pubDate>
+      <ght:programmingLanguage>Rust</ght:programmingLanguage>
+      <ght:stars>18950</ght:stars>
+      <ght:forks>1203</ght:forks>
+      <ght:starsInPeriod>12</ght:starsInPeriod>
+      <ght:bestRank>14</ght:bestRank>
+      <ght:latestRank>14</ght:latestRank>
+      <ght:firstSeenAt>2026-11-25T08:30:44Z</ght:firstSeenAt>
+      <ght:lastSeenAt>2026-11-25T08:30:44Z</ght:lastSeenAt>
+      <ght:appearances>1</ght:appearances>
+    </item>
+  </channel>
+</rss>
