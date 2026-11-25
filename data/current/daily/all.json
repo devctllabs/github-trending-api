@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "all",
   "sourceUrl": "https://github.com/trending",
-  "observedAt": "2026-11-25T08:30:23Z",
+  "observedAt": "2026-11-25T21:39:57Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "programmingLanguage": "Python",
-      "stars": 21983,
-      "forks": 2273,
-      "starsInPeriod": 1826
+      "stars": 22837,
+      "forks": 2344,
+      "starsInPeriod": 1644
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "programmingLanguage": "Shell",
-      "stars": 326094,
-      "forks": 28938,
-      "starsInPeriod": 1003
+      "stars": 326538,
+      "forks": 28972,
+      "starsInPeriod": 902
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "programmingLanguage": "Python",
-      "stars": 65164,
-      "forks": 5926,
-      "starsInPeriod": 1074
+      "stars": 65611,
+      "forks": 5967,
+      "starsInPeriod": 1094
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "programmingLanguage": "Python",
-      "stars": 70576,
-      "forks": 9177,
-      "starsInPeriod": 727
+      "stars": 70895,
+      "forks": 9214,
+      "starsInPeriod": 828
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "programmingLanguage": "TypeScript",
-      "stars": 19354,
-      "forks": 2089,
-      "starsInPeriod": 360
+      "stars": 19509,
+      "forks": 2105,
+      "starsInPeriod": 408
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "programmingLanguage": "TypeScript",
-      "stars": 209287,
-      "forks": 10938,
-      "starsInPeriod": 991
+      "stars": 209944,
+      "forks": 10983,
+      "starsInPeriod": 1131
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/nginx/nginx",
       "description": "The official NGINX Open Source repository.",
       "programmingLanguage": "C",
-      "stars": 33281,
-      "forks": 8398,
-      "starsInPeriod": 158
+      "stars": 33350,
+      "forks": 8406,
+      "starsInPeriod": 174
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/openvinotoolkit/openvino",
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "programmingLanguage": "C++",
-      "stars": 12537,
-      "forks": 3698,
-      "starsInPeriod": 185
+      "stars": 12633,
+      "forks": 3712,
+      "starsInPeriod": 188
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "programmingLanguage": "HTML",
-      "stars": 72411,
-      "forks": 4820,
-      "starsInPeriod": 802
+      "stars": 72927,
+      "forks": 4851,
+      "starsInPeriod": 1133
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "programmingLanguage": "Python",
-      "stars": 74581,
-      "forks": 6573,
-      "starsInPeriod": 703
+      "stars": 75029,
+      "forks": 6611,
+      "starsInPeriod": 950
     },
     {
       "rank": 11,
@@ -114,19 +114,19 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "programmingLanguage": "TypeScript",
-      "stars": 12785,
-      "forks": 1530,
-      "starsInPeriod": 403
+      "stars": 12947,
+      "forks": 1536,
+      "starsInPeriod": 352
     },
     {
       "rank": 12,
       "fullName": "mjmirza/app-store-compliance",
       "url": "https://github.com/mjmirza/app-store-compliance",
-      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "programmingLanguage": "Shell",
-      "stars": 6091,
-      "forks": 396,
-      "starsInPeriod": 928
+      "stars": 6425,
+      "forks": 412,
+      "starsInPeriod": 853
     },
     {
       "rank": 13,
@@ -134,9 +134,9 @@
       "url": "https://github.com/Tracer-Cloud/opensre",
       "description": "The open-source agent for CI/CD reliability.",
       "programmingLanguage": "Python",
-      "stars": 15307,
-      "forks": 2020,
-      "starsInPeriod": 398
+      "stars": 15487,
+      "forks": 2028,
+      "starsInPeriod": 343
     },
     {
       "rank": 14,
@@ -144,9 +144,9 @@
       "url": "https://github.com/toeverything/AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "programmingLanguage": "TypeScript",
-      "stars": 78155,
-      "forks": 5706,
-      "starsInPeriod": 584
+      "stars": 78429,
+      "forks": 5719,
+      "starsInPeriod": 578
     },
     {
       "rank": 15,
@@ -154,9 +154,9 @@
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "description": "The only downloader you need. 下载器的集大成者。",
       "programmingLanguage": "Python",
-      "stars": 17717,
-      "forks": 1061,
-      "starsInPeriod": 1092
+      "stars": 18164,
+      "forks": 1081,
+      "starsInPeriod": 950
     },
     {
       "rank": 16,
@@ -164,9 +164,9 @@
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "programmingLanguage": "Python",
-      "stars": 15745,
-      "forks": 2297,
-      "starsInPeriod": 980
+      "stars": 16105,
+      "forks": 2326,
+      "starsInPeriod": 868
     }
   ]
 }
