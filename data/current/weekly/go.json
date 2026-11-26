@@ -4,7 +4,7 @@
   "period": "weekly",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go?since=weekly",
-  "observedAt": "2026-11-26T08:15:00Z",
+  "observedAt": "2026-11-26T21:29:57Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,8 +14,8 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "programmingLanguage": "Go",
-      "stars": 56451,
-      "forks": 4667,
+      "stars": 56625,
+      "forks": 4683,
       "starsInPeriod": 2259
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://github.com/getarcaneapp/arcane",
       "description": "Modern Docker Management, Designed for Everyone",
       "programmingLanguage": "Go",
-      "stars": 10513,
-      "forks": 598,
+      "stars": 10565,
+      "forks": 599,
       "starsInPeriod": 805
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 8372,
-      "forks": 926,
+      "stars": 8426,
+      "forks": 937,
       "starsInPeriod": 817
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://github.com/runkids/skillshare",
       "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
       "programmingLanguage": "Go",
-      "stars": 3355,
-      "forks": 382,
+      "stars": 3368,
+      "forks": 383,
       "starsInPeriod": 124
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://github.com/Tencent/LoopForge",
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "programmingLanguage": "Go",
-      "stars": 6137,
-      "forks": 874,
+      "stars": 5993,
+      "forks": 857,
       "starsInPeriod": 2339
     },
     {
@@ -64,8 +64,8 @@
       "url": "https://github.com/opensandbox-group/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "programmingLanguage": "Go",
-      "stars": 17937,
-      "forks": 1734,
+      "stars": 17950,
+      "forks": 1739,
       "starsInPeriod": 366
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
       "programmingLanguage": "Go",
-      "stars": 122936,
-      "forks": 7186,
+      "stars": 123071,
+      "forks": 7198,
       "starsInPeriod": 1691
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://github.com/kagent-dev/kagent",
       "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
       "programmingLanguage": "Go",
-      "stars": 4536,
-      "forks": 944,
+      "stars": 4548,
+      "forks": 946,
       "starsInPeriod": 102
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://github.com/gogs/gogs",
       "description": "The painless way to host your own Git service",
       "programmingLanguage": "Go",
-      "stars": 48001,
+      "stars": 48003,
       "forks": 5078,
       "starsInPeriod": 68
     },
@@ -104,8 +104,8 @@
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
       "programmingLanguage": "Go",
-      "stars": 47216,
-      "forks": 9458,
+      "stars": 47232,
+      "forks": 9460,
       "starsInPeriod": 176
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://github.com/Billionmail/BillionMail",
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "programmingLanguage": "Go",
-      "stars": 16482,
+      "stars": 16484,
       "forks": 1838,
       "starsInPeriod": 71
     },
@@ -134,8 +134,8 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "programmingLanguage": "Go",
-      "stars": 39112,
-      "forks": 6050,
+      "stars": 39127,
+      "forks": 6053,
       "starsInPeriod": 483
     },
     {
@@ -144,8 +144,8 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "programmingLanguage": "Go",
-      "stars": 39762,
-      "forks": 943,
+      "stars": 39799,
+      "forks": 952,
       "starsInPeriod": 236
     },
     {
@@ -154,7 +154,7 @@
       "url": "https://github.com/misakano7545/workbuddy2api-panel",
       "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
       "programmingLanguage": "Go",
-      "stars": 1487,
+      "stars": 1506,
       "forks": 373,
       "starsInPeriod": 165
     }

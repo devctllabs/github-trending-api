@@ -4,7 +4,7 @@
   "period": "daily",
   "language": "go",
   "sourceUrl": "https://github.com/trending/go",
-  "observedAt": "2026-11-26T08:14:57Z",
+  "observedAt": "2026-11-26T21:29:53Z",
   "status": "complete",
   "issues": [],
   "items": [
@@ -14,9 +14,9 @@
       "url": "https://github.com/datazip-inc/olake-go",
       "description": "OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.",
       "programmingLanguage": "Go",
-      "stars": 2356,
-      "forks": 350,
-      "starsInPeriod": 21
+      "stars": 2365,
+      "forks": 352,
+      "starsInPeriod": 16
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "programmingLanguage": "Go",
-      "stars": 35063,
-      "forks": 5625,
-      "starsInPeriod": 81
+      "stars": 35110,
+      "forks": 5639,
+      "starsInPeriod": 74
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/Tencent/LoopForge",
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "programmingLanguage": "Go",
-      "stars": 6137,
-      "forks": 874,
-      "starsInPeriod": 112
+      "stars": 5993,
+      "forks": 857,
+      "starsInPeriod": 92
     },
     {
       "rank": 4,
@@ -44,9 +44,9 @@
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "programmingLanguage": "Go",
-      "stars": 8372,
-      "forks": 926,
-      "starsInPeriod": 64
+      "stars": 8426,
+      "forks": 937,
+      "starsInPeriod": 52
     },
     {
       "rank": 5,
@@ -54,9 +54,9 @@
       "url": "https://github.com/getarcaneapp/arcane",
       "description": "Modern Docker Management, Designed for Everyone",
       "programmingLanguage": "Go",
-      "stars": 10513,
-      "forks": 598,
-      "starsInPeriod": 79
+      "stars": 10565,
+      "forks": 599,
+      "starsInPeriod": 97
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.",
       "programmingLanguage": "Go",
-      "stars": 58010,
-      "forks": 7630,
-      "starsInPeriod": 197
+      "stars": 58078,
+      "forks": 7638,
+      "starsInPeriod": 175
     },
     {
       "rank": 7,
@@ -74,9 +74,9 @@
       "url": "https://github.com/opensandbox-group/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "programmingLanguage": "Go",
-      "stars": 17937,
-      "forks": 1734,
-      "starsInPeriod": 39
+      "stars": 17950,
+      "forks": 1739,
+      "starsInPeriod": 28
     },
     {
       "rank": 8,
@@ -84,9 +84,9 @@
       "url": "https://github.com/nats-io/nats-server",
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "programmingLanguage": "Go",
-      "stars": 21156,
-      "forks": 2063,
-      "starsInPeriod": 14
+      "stars": 21167,
+      "forks": 2064,
+      "starsInPeriod": 16
     },
     {
       "rank": 9,
@@ -94,9 +94,9 @@
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "programmingLanguage": "Go",
-      "stars": 29095,
-      "forks": 1961,
-      "starsInPeriod": 56
+      "stars": 29121,
+      "forks": 1962,
+      "starsInPeriod": 58
     },
     {
       "rank": 10,
@@ -104,9 +104,9 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "programmingLanguage": "Go",
-      "stars": 13467,
-      "forks": 1248,
-      "starsInPeriod": 13
+      "stars": 13471,
+      "forks": 1249,
+      "starsInPeriod": 21
     },
     {
       "rank": 11,
@@ -114,19 +114,29 @@
       "url": "https://github.com/Autumn-27/ScopeSentry",
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "programmingLanguage": "Go",
-      "stars": 2705,
-      "forks": 727,
-      "starsInPeriod": 17
+      "stars": 2717,
+      "forks": 731,
+      "starsInPeriod": 22
     },
     {
       "rank": 12,
+      "fullName": "egoist/mygo",
+      "url": "https://github.com/egoist/mygo",
+      "description": "Develop desktop apps with native UI or web frontend in Go",
+      "programmingLanguage": "Go",
+      "stars": 6918,
+      "forks": 458,
+      "starsInPeriod": 52
+    },
+    {
+      "rank": 13,
       "fullName": "putyy/res-downloader",
       "url": "https://github.com/putyy/res-downloader",
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "programmingLanguage": "Go",
-      "stars": 21579,
-      "forks": 2642,
-      "starsInPeriod": 41
+      "stars": 21589,
+      "forks": 2646,
+      "starsInPeriod": 32
     }
   ]
 }
